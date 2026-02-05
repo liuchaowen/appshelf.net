@@ -1,0 +1,131 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.plexapp.android.png",
+    "title": "Plex",
+    "ratings": "4.2",
+    "downloads": "870M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Plex"
+    },
+    {
+      "name": "category",
+      "value": "Entertainment"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Plex, Inc."
+    },
+    {
+      "name": "Version",
+      "value": "8.18.2.25850"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/iCJl1qpEaOVg8Zl-tSOxxmgreyjv3WNBxvj6BZqSWLv7YcGXlHTiklnZ9jxjskamDUw6",
+    "https://play-lh.googleusercontent.com/WNfBaGtJ3FnPf4u7rKSfOiMnp-qSmd9eoEN809zMnyX4bdSXC39qYRvGjCVjfeu7xQ",
+    "https://play-lh.googleusercontent.com/65msKVDbi3s3YEALhYhl6gb6YGs8D9aC7PAKlZdwdEEzyxVzJVDvWlDPucJfnD7Eh8Q",
+    "https://play-lh.googleusercontent.com/kmiNWswMcBY9AeIvJDPeUd7v-ur6-BfjIHj2HkYEi9TF8Ki2sALx5nh_uofhSgh4kA",
+    "https://play-lh.googleusercontent.com/I14nRzMLXVQR6kfsuogLN9aQaciOTDsk7Lrk7A9e1EE9x1dDjvCCaeD8PXmNF1LsaA",
+    "https://play-lh.googleusercontent.com/txTIOhDf-paLfdZgN4c3S3HI21MSKAwDVTev6GEZ6rH_lBK_D-_7P5QQSKfsYGJC2N8x",
+    "https://play-lh.googleusercontent.com/8t28yBH3nDawnlvQ764V5U7mLVROBqDUlkTaxwwcAFWQDXAMUpQq6lQhOY1ZHN1uf9I",
+    "https://play-lh.googleusercontent.com/o3Ag6-743nyafzoVGA3ulSez0rG2UZkjtsReMzquiKGeV4nuLwzJUZN6k6azLOV8_tio",
+    "https://play-lh.googleusercontent.com/ynEoEsiAttHAH7aW0MuuCX7vnbALkDN0MTy4JuPwrn7pRxB6Oy3Jw9vFiwDwjn1pY8I",
+    "https://play-lh.googleusercontent.com/WOQg_lNMdGIAgdqTPRvbgjGneQtNH83Am_uT2JmEuSaGNEbevOqnb6RMsAlJjn5QQsI",
+    "https://play-lh.googleusercontent.com/Xm_kJ2X6BruW1N5ALsv_YxY_DpS-XtB1qhLhwdsov2JktXogV2q0HORC4Pwx8fAY5_U",
+    "https://play-lh.googleusercontent.com/Juo4H_jSn7w00HbyIzBxRmxsZiJZnj1xZRJKIRABk_jrxmtvQ-s4QnPtbuQ2GpDopg",
+    "https://play-lh.googleusercontent.com/2ht671Q6LYv15hfYX2dOLpOL82p5ZenzCUNU0TLIWhFK6Ogi_jcH5gCfqaYF3g2F7j0",
+    "https://play-lh.googleusercontent.com/wu5ZVNQzOr7wk4kcGgFNhubNUpYuApCD33KMdx2bKtpLyNZn3-_4VG03xX0--AhVksKV",
+    "https://play-lh.googleusercontent.com/XJ8PnEQTVQ0-TSZkYm9GDNgrWmWsQW_s60AV_zUThWW-MSk9jzFpoFDUo5ih-3zFnv8Z",
+    "https://play-lh.googleusercontent.com/yMQTG140lK8IlCRB4tjyojPt40vlJ6ZQx9IzL0fBdRz9eDIV0n6v0AhZ7u3vOIXZUh1r",
+    "https://play-lh.googleusercontent.com/KBDeBbKSLOwZ1eAg-VGdWa4d7usLH01k6ObG23WuK2VS8Q4eMT6PZuhwyuakCkswKSU",
+    "https://play-lh.googleusercontent.com/mykbaa_ruThTyGIBsYadEdKD9J0tORUhEEQGK8k4z26oRRFMZLphoyQNOuicn99Q_g",
+    "https://play-lh.googleusercontent.com/FcA5MjhWK95_v8JDxiBcuPi2piK1KmuN-BczKF1UshO2LT4c7QATPQgWUDdhSACjGaA",
+    "https://play-lh.googleusercontent.com/J-FDjKsDA2xA40y6VIUrxjzNkL25wlta_NIK3y2Xv5ba6YF5N7TueTo9tvdNIFjjJw",
+    "https://play-lh.googleusercontent.com/qQNCTmc2mWIsH5zl7Qv6ZtrUopc-u94h_VOAlV7UBmAUmxTBT4MGmHTphHlAsBJotuHg",
+    "https://play-lh.googleusercontent.com/qsVxU2hw-QHzI-0xX1rIBimw8CRb-HpaDXQ18gHcWb3B6lDrfxwtBhZuOhjhSqO15Iad",
+    "https://play-lh.googleusercontent.com/j1TEfMCYuc4nr5E_5DTqGK5ezh4eU49UM0bfqUjxaOwn_dZlRW5_wMUPklVQqRd3xA",
+    "https://play-lh.googleusercontent.com/1tpg9Fy2sh2opuOb4smbkZGa9OYf3Erq7h7mfVrdjP_e8S6NuruGMjdxNcWkY4xapl0",
+    "https://play-lh.googleusercontent.com/roDoaUHZ1hkVaMcmK0p4lAoNxCUTp6BsvzCxC9sJbwmeWERQVuqu3fVN14dlR-OKzDc",
+    "https://play-lh.googleusercontent.com/2W8Go-ZVerGrE85KVCzrRRUxVAO5k987kdD-OTWBNXuLI5VCC_rPPLgDDaDtbhn0bA",
+    "https://play-lh.googleusercontent.com/wCOXf-1407yQ9_j4TvJ-yugLLvrUIGVrU3BvaJOLzwy4Gsf6f80PGoHSuDcJTUUThs8"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> Plex<br/>\n<strong>Package Name:</strong> com.plexapp.android  </p>\n<h3>Brief:</h3>\n<p>Plex is an all-in-one media streaming platform that offers a comprehensive suite of streaming services, from live TV channels and personal media organization to podcasts and news. With Plex, users can magically organize their personal media collections, stream various types of content to different devices, and enjoy rich, customized media experiences with detailed descriptions and stunning artwork.</p>\n<h3>Core Features: 📌</h3>\n<ul>\n<li><strong>Live TV Streaming:</strong> Access over 80 channels of free live programming to enjoy a wide range of content suitable for all family members.</li>\n<li><strong>Media Organization:</strong> Automatically organize your personal media library, including photos, music, movies, and shows, with an intuitive interface and enriched metadata.</li>\n<li><strong>Podcast Hub:</strong> Discover new podcasts or enjoy your favorites with features like 30-second skip, variable speed playback, and cross-device playback status.</li>\n<li><strong>Trusted News Sources:</strong> Receive video news from over 190 global publishers, ensuring a diverse and reliable stream of current events.</li>\n</ul>\n<h3>Pros: 👍</h3>\n<ul>\n<li><strong>Versatile Media Solution:</strong> Serves as a single platform to access a vast range of media types, including live TV, personal media, podcasts, and news.</li>\n<li><strong>Personalized Recommendations:</strong> The app provides tailored content suggestions to enhance user experience.</li>\n<li><strong>Cross-Device Playback Support:</strong> Enables users to resume watching or listening to content across different devices right where they left off.</li>\n<li><strong>Rich Media Information:</strong> Elevates the experience by adding artwork, descriptions, and related details to media.</li>\n</ul>\n<h3>Cons: 👎</h3>\n<ul>\n<li><strong>Limited Free Playback on Mobile:</strong> Mobile users face limitations such as one-minute playback for music and videos, and watermarks on photos until the app is unlocked.</li>\n<li><strong>Plex Pass or In-App Purchase Required:</strong> Full functionality requires either a Plex Pass subscription or a one-time in-app purchase.</li>\n<li><strong>DRM and Certain Formats Not Supported:</strong> DRM-protected content, ISO disc images, and video_ts folders are incompatible with the streaming service.</li>\n<li><strong>Ad-Supported Features:</strong> Some of the app functionalities are supported by interest-based advertising, which may affect user experience.</li>\n</ul>\n<h3>Price: 💵</h3>\n<p>Plex is free to download with the option for a one-time in-app purchase to unlock full functionality, or users can subscribe to Plex Pass for additional features and capabilities. Prior purchases through Google Play Store or existing Plex Pass subscriptions are recognized without needing another purchase.</p>\n<h3>Community: 🕸️</h3>\n<ul>\n<li><strong>Official Site:</strong> <a href=\"https://www.plex.tv/free\" rel=\"noopener noreferrer\" target=\"_blank\">Plex.tv/free</a></li>\n<li>There may be a variety of popular YouTubers, Instagrammers, Twitter users, Discord channels, Facebook pages, TikTok creators, and Reddit communities discussing Plex and sharing tips. However, if no specific data is available, this section will not list any social networks or community links.</li>\n</ul>\n<hr/>\n<p><em>Note: Streaming personal media requires Plex Media Server version 0.9.11.1 or higher, available at <a href=\"https://plex.tv/downloads\" rel=\"noopener noreferrer\" target=\"_blank\">Plex Downloads</a>. The functionality of the app is subject to the device's capabilities and the presence of all necessary servers and software.</em></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-moonphaseapps-astro/54410.html",
+      "icon": "assets/img/apk/icon/com.moonphaseapps.astro.png",
+      "name": "AstroBella Astrology & Healing",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-girlmaker-create-avatar-creator/54356.html",
+      "icon": "assets/img/apk/icon/com.girlmaker.create.avatar.creator.png",
+      "name": "PFP Girl: Avatar Maker",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-photocrop-challengefilter/54321.html",
+      "icon": "assets/img/apk/icon/com.photocrop.challengefilter.png",
+      "name": "Photo Crop Challenge Filter",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-photo-cropfilter-challenge/54315.html",
+      "icon": "assets/img/apk/icon/com.photo.cropfilter.challenge.png",
+      "name": "Photo Crop Challenge Video",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/vyten-colormatrix/54297.html",
+      "icon": "assets/img/apk/icon/vyten.colormatrix.png",
+      "name": "The Personality Color Matrix",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-truelove-tester-love/54289.html",
+      "icon": "assets/img/apk/icon/com.truelove.tester.love.png",
+      "name": "True Love Tester",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-lifeexpectancycalculator/54231.html",
+      "icon": "assets/img/apk/icon/com.lifeexpectancycalculator.png",
+      "name": "Life Expectancy Calculator",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-insect-filters-funny-prank-bug-filter-face-camera/54212.html",
+      "icon": "assets/img/apk/icon/com.insect.filters.funny.prank.bug.filter.face.camera.png",
+      "name": "Bugzz: Insect Prank Filters",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4"
+    }
+  ]
+}

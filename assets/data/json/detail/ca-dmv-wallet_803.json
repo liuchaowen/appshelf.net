@@ -1,0 +1,112 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/gov.ca.dmv.wallet.png",
+    "title": "CA DMV Wallet",
+    "ratings": "4.2",
+    "downloads": "440M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "CA DMV Wallet"
+    },
+    {
+      "name": "category",
+      "value": "Travel & Local"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "California Department of Motor Vehicles"
+    },
+    {
+      "name": "Version",
+      "value": "0.1.9"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/WgJUXYOlfWLmwLcDgEkCAiBAP54r3BEaZeYojGAZ3dOb6ojT1TLFbqPgtcE5WHR2fHw",
+    "https://play-lh.googleusercontent.com/P9y5J3kA_BsbDr-LILkmEuqjAUs4aCZa9XgNH6xcs9xT5calmr_BbeLPimTx2lwzDiPb",
+    "https://play-lh.googleusercontent.com/y2toG3LohhNv5McqJW4fXRYLpMvkCRtQPHNFvuSGTtNMBkSzLVjSs7lJyc6JXaXOkHc",
+    "https://play-lh.googleusercontent.com/SgFfoSU_9Rmy-BRN86KL09tEUHE4y5XmgwcBRw6it0Dbm4r9fpNY2uVEC9uTz8g_aA",
+    "https://play-lh.googleusercontent.com/e3mLX8i1QZQXnH0iDx2TFpIcjdSG4Msskl0ExqA28SxfynKz8tDikdXEsl5Z8MkikpU",
+    "https://play-lh.googleusercontent.com/jMHoJcjjiflIGNtgxz4kgzkeV355qEaHTDAWSf0pUB6SYMebmSNnT2SMPk967Y0RzPg",
+    "https://play-lh.googleusercontent.com/PqBCJumGG1Cqlkm_Hao5cByNHtWtKPNkrHeCU1_-KLnHGCPCbty6uXyKHziJVnRgIP0",
+    "https://play-lh.googleusercontent.com/nBZNTFr7fS-0LR81v50vSjL8E1IyeoJ0OQOaszevhG4qpcn5cbaViTHYcvL5pwnozCU"
+  ],
+  "app_descript": "<h3>Brief</h3>\n<p>The CA DMV Wallet app is a cutting-edge digital solution for California residents seeking to simplify their identification and verification processes. It turns your smartphone into an officially recognized digital ID through the use of a mobile driver's license (mDL), making travel and age verification more convenient than ever.</p>\n<h3>Core Features</h3>\n<ul>\n<li><strong>Mobile TSA Verification</strong>: Breeze through airport security checks using your phone as an ID 🛫.</li>\n<li><strong>TruAge Program Enrollment</strong>: Easily purchase age-restricted products at participating locations using the app's age verification feature 🆔.</li>\n<li><strong>Wallet Marketplace</strong>: Access a marketplace tailored for secure and simplified transactions 🌐.</li>\n<li><strong>Online Identity Verification</strong>: Prepare for upcoming expansions on government and commercial identity verifications online 🔒.</li>\n<li><strong>Advanced Security</strong>: Benefit from state-of-the-art encryption and security to protect your identity and prevent fraud 🛡️.</li>\n</ul>\n<h3>Pros</h3>\n<ul>\n<li><strong>Enhanced Convenience</strong>: Carry less by replacing your physical ID with a digital version for TSA queues and age verification at stores 👝.</li>\n<li><strong>Pilot Program Participation</strong>: Be at the forefront of digital ID technology by using the app in select pilot locations in California, with plans to expand nationally 🌟.</li>\n<li><strong>Open-Source Platform</strong>: Take advantage of an app developed with California's diverse population in mind, ensuring broader accessibility and customization 🌏.</li>\n<li><strong>Cutting-Edge Security</strong>: Feel secure with the latest encryption algorithms designed to safeguard your personal information and privacy 🔐.</li>\n</ul>\n<h3>Cons</h3>\n<ul>\n<li><strong>Limited Scope</strong>: The mDL is valid under the pilot scope approved by the California legislature, requiring physical ID as backup 🗒️.</li>\n<li><strong>Initial Availability</strong>: Currently, services like the TruAge program are only available in select pilot locations within California 📍.</li>\n<li><strong>Pending Expansions</strong>: Anticipated features for government and commercial online verifications are not yet active, but forthcoming 🔜.</li>\n<li><strong>Tech Requirements</strong>: Requires users to own a smartphone, which could exclude individuals without access to such technology 📵.</li>\n</ul>\n<h3>Price</h3>\n<p>💵 The CA DMV Wallet app is free to download. There might be additional costs associated with specific services within the app, depending on future updates or in-app purchases.</p>\n<p>Enjoy an innovative approach to digital identification and experience how the CA DMV Wallet is helping pave the way for a seamless and secure digital future.</p>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-bp-app-bpme-global-ros/16042.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.bp.app.bpme.global.ros.png",
+      "name": "earnify",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.6"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/kulana-tools-vacationcountdown/10380.html",
+      "icon": "https://img.buzzsight.co/apk/icon/kulana.tools.vacationcountdown.png",
+      "name": "Vacation Countdown App",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.7"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-disney-playdisneyparks-goo/4681.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.disney.playdisneyparks.goo.png",
+      "name": "Play Disney Parks",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-hornblower-statuecruises/4679.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.hornblower.statuecruises.png",
+      "name": "Statue Cruises",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-usnpw-grca/4678.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.usnpw.grca.png",
+      "name": "Grand Canyon National Park",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/MakeMyTrip-Hotels-Flight-Bus/4591.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.makemytrip.png",
+      "name": "MakeMyTrip Hotels, Flight, Bus",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.6"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/ConfirmTkt/4570.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.confirmtkt.lite.png",
+      "name": "ConfirmTkt",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.9"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/Bus-Train-Ticket-Booking-App/4503.html",
+      "icon": "https://img.buzzsight.co/apk/icon/in.redbus.android.png",
+      "name": "Bus, Train Ticket Booking App",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.9"
+    }
+  ]
+}

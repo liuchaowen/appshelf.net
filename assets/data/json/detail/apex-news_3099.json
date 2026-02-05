@@ -1,0 +1,109 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/com.opera.app.news.us.png",
+    "title": "Apex News",
+    "ratings": "4.4",
+    "downloads": "770M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Apex News"
+    },
+    {
+      "name": "category",
+      "value": "News & Magazines"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Opera"
+    },
+    {
+      "name": "Version",
+      "value": "8.4.2254.56966"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/sPlkphqYnClvI7IWYMVVubxzll_2JSHIoMcOWfcs3P77if80dYy4DI0A0OfAXOo0nv4",
+    "https://play-lh.googleusercontent.com/UhsYm4slDHs4Hk3UfqXol2onbrDW4P3OegbYuYDSL04Wj-YEh16x92z5R5AnpJggPA",
+    "https://play-lh.googleusercontent.com/qwRC3z7tvPagvL8dBiJZ10EHlNOVwz4ZeS1k2DRhfspaXQIpo4Q-Uhu-PzT4tIP0hu8",
+    "https://play-lh.googleusercontent.com/bJ3wkna2r0vfmGJRlIrotf9XY4wDSYpS7zAlcWCO4xVZiTbUPJFzUTnUdMvw4j4jKScw",
+    "https://play-lh.googleusercontent.com/WX2dCgixxO4Gnn3JpeBhYO3I78qT08ykpE4VTUBytEhL57K82FMA1dMqBM2mp9W8Pg"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> Apex News<br/>\n<strong>Package Name:</strong> com.opera.app.news.us</p>\n<hr/>\n<h3>Brief:</h3>\n<p>Apex News offers an expansive news-gathering experience, providing access to a vast array of both US and international news sources. This modern news aggregator integrates sophisticated machine learning and an editorial team spanding 11 countries to deliver tailored content, ensuring you stay informed and entertained with the latest headlines and stories that matter to you.</p>\n<h3>Core Features:</h3>\n<ul>\n<li><strong>Extensive News Source Variety</strong> - Access over 15,000 news sources including top publishers for comprehensive American and World News content 📰.</li>\n<li><strong>Localized News Content</strong> - Receive news tailored to your city, county, and state for a more personalized experience 🏘️.</li>\n<li><strong>Real-Time Breaking News Alerts</strong> - Swift notifications keep you up to speed with breaking news as it happens ⚡.</li>\n<li><strong>Advanced Personalization</strong> - Next-gen personalization technology adapts to your interests, refining your news feed with relevant topics 🎯.</li>\n<li><strong>Offline Reading &amp; Data Saving</strong> - Effortlessly save articles to read offline or to conserve data usage 🌐.</li>\n</ul>\n<h3>Pros:</h3>\n<ul>\n<li><strong>Reader-Friendly Mode</strong> - Quick loading times and an easy-to-navigate interface enhance your reading experience 👀.</li>\n<li><strong>Engagement Features</strong> - Engage with news through comment forums, community groups, and sharing options 💬.</li>\n<li><strong>Comprehensive Search &amp; Save Functions</strong> - Easily search the news database and bookmark stories for later reading 📌.</li>\n<li><strong>Diverse Content Offering</strong> - From hard-hitting journalism to fun articles, enjoy a balanced mix of content types ✨.</li>\n</ul>\n<h3>Cons:</h3>\n<ul>\n<li><strong>Content Overload</strong> - With such a vast selection of sources, users may feel overwhelmed by the amount of information available 📚.</li>\n<li><strong>Notification Volume</strong> - Frequent breaking news alerts could be disruptive for some users 🔔.</li>\n<li><strong>Data Usage</strong> - Offline reading features save data, but regular use may still consume a significant amount 📊.</li>\n<li><strong>Personalization Learning Curve</strong> - It may take time for the machine learning algorithm to fully adapt to user preferences 🤖.</li>\n</ul>\n<h3>Price:</h3>\n<p>Apex News is a free-to-download application, though it may include in-app features that could incur additional costs 💵.</p>\n<h3>Community:</h3>\n<p>The community aspect of Apex News leverages engagement through various social features, encouraging users to discuss and share news within the app itself. However, specific third-party social platform presence or links for Apex News are not provided according to the given details.</p>\n<hr/>\n<p>Stay current with the world's happenings effortlessly and enjoyably with Apex News. It’s a chaotic world out there, but with Apex News, you can navigate it with clarity and insight.</p>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-app-foapp/15418.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.app.foapp.png",
+      "name": "The Obituary App",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-globalnews-android-novanews/5116.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.globalnews.android.novanews.png",
+      "name": "Global News - Breaking & Local",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/Hindi-News-by-Dainik-Bhaskar/4635.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.ak.ta.dainikbhaskar.activity.png",
+      "name": "Hindi News by Dainik Bhaskar",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.9"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/Way2News-News-updates-Election/4625.html",
+      "icon": "https://img.buzzsight.co/apk/icon/sun.way2sms.hyd.com.png",
+      "name": "Way2News News updates Election",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.6"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/Hindi-News/4507.html",
+      "icon": "https://img.buzzsight.co/apk/icon/in.AajTak.headlines.png",
+      "name": "Hindi News",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/TVA-Nouvelles/4479.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.nurun.lcn.png",
+      "name": "TVA Nouvelles",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/uol/3121.html",
+      "icon": "https://img.buzzsight.co/apk/icon/br.uol.noticias.png",
+      "name": "UOL",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.3"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/local-news/3120.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.opera.app.news.local.png",
+      "name": "Local News",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.5"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.yinzcam.teamcanada.png",
+    "title": "Team Canada Olympic App",
+    "ratings": "3.2",
+    "downloads": "990M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Team Canada Olympic App"
+    },
+    {
+      "name": "category",
+      "value": "Sport"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Canadian Olympic Team"
+    },
+    {
+      "name": "Version",
+      "value": "1.0.5"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/Y0tA0XeWVjlMhl929eZSoSvFA99IbKnIsLfE9xnyr2yEafvRYj_kioSt6wDI8TV-8A",
+    "https://play-lh.googleusercontent.com/ErZOSqb7ByS5oiBJwO5oDwPGoj0Fa1euhF8aKytrCD1jCG3zVM1TOd9qw_MuRM_FsQ",
+    "https://play-lh.googleusercontent.com/KjERHJWlsEDXzaalsgzrp9uUHH9R2fBO-NLQysINEsvHx-5tSczz4hrdISg6lYyJUoMD",
+    "https://play-lh.googleusercontent.com/OnA9eMc8F_ToeBZH2Eo145uikFUm61xsz3dxG7lY5qoXevIeedQ6s3WmKBt3Nci6yw"
+  ],
+  "app_descript": "<p><strong>Team Canada Olympic App</strong></p>\n<p>Get ready to immerse yourself in the ultimate fan experience with the Team Canada Olympic App. Whether you're cheering from the snowy peaks of Whistler or the comfort of your couch, this app is your all-access pass to the Beijing 2022 Olympic Winter Games. Show your support for Team Canada with live updates, games, and exclusive content.</p>\n<h3>Brief:</h3>\n<p>The Team Canada Olympic App is the official digital companion for all supporters of Team Canada during the Olympic Winter Games. Providing schedules, results, news, and interactive content, this app is designed to bring fans closer to their favorite athletes and the excitement of the games.</p>\n<h3>Core Features:</h3>\n<ul>\n<li><strong>Schedule:</strong> Stay informed about when each event is taking place and never miss a competition 📅.</li>\n<li><strong>Results:</strong> Follow up on all events and cheer for each medal Team Canada clinches 🏅.</li>\n<li><strong>News:</strong> Get real-time updates and gripping stories directly from Team Canada's pulse 📰.</li>\n<li><strong>Athletes:</strong> Dive into the details of each athlete representing Canada and root for them with informed enthusiasm 🏂.</li>\n<li><strong>Interactive Fun:</strong> Engage with a variety of games, trivia, and augmented reality features that bring the Olympic spirit to life 🎮.</li>\n</ul>\n<h3>Pros:</h3>\n<ul>\n<li><strong>Real-Time Alerts:</strong> Instant notifications to keep you updated on breaking news and event results 👍.</li>\n<li><strong>Exclusive Content:</strong> Unique access to stories, face paints, filters, and wallpapers that show your team spirit 🎉.</li>\n<li><strong>Engaging Activities:</strong> Enjoy a host of interactive features, including gaming leaderboards and trivia challenges 🧠.</li>\n<li><strong>Partner Benefits:</strong> Gain access to exclusive perks and sweepstakes from Team Canada's partners 💳.</li>\n</ul>\n<h3>Cons:</h3>\n<ul>\n<li><strong>Event-Specific:</strong> Primarily focused on the Beijing 2022 Olympic Winter Games, which may limit the app's longevity 👎.</li>\n<li><strong>Device Compatibility:</strong> Some augmented reality features may require the latest technology, potentially excluding some users 📳.</li>\n<li><strong>Data Usage:</strong> Real-time features might consume significant data, which could be a concern for users with limited data plans 🌐.</li>\n<li><strong>Geographical Limitations:</strong> Some perks and sweepstakes may be available exclusively to residents of Canada, limiting international fans 🌍.</li>\n</ul>\n<h3>Price:</h3>\n<p>The Team Canada Olympic App is available as a free download, allowing fans to support their athletes without any barriers 💵. Note that while the app is free, there might be in-game features or content that could incur additional costs.</p>\n<h3>Community:</h3>\n<p>The community for this app revolves exclusively around the fans and supporters of Team Canada. While specific social media platforms or community details are not provided, fans are encouraged to share their experiences using the app on social media platforms.</p>",
+  "related_apps": [
+    {
+      "link": "/details/Live-Cricket-TV-WorldCup-2023/4582.html",
+      "icon": "assets/img/apk/icon/com.cricketworldcup.livescore.liveline.png",
+      "name": "Live Cricket TV WorldCup 2023",
+      "categoryLink": "/en/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/Rooter/4571.html",
+      "icon": "assets/img/apk/icon/com.threesixteen.app.png",
+      "name": "Rooter",
+      "categoryLink": "/en/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/Supercars-App/4531.html",
+      "icon": "assets/img/apk/icon/com.supercars.app.png",
+      "name": "Supercars App",
+      "categoryLink": "/en/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/yahoo-fantasy-sports/291.html",
+      "icon": "assets/img/apk/icon/com.yahoo.mobile.client.android.fantasyfootball.png",
+      "name": "Yahoo Fantasy Sports",
+      "categoryLink": "/en/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/live-football-tv-stream-hd/289.html",
+      "icon": "assets/img/apk/icon/com.livefootball.mrsports.tvhd.png",
+      "name": "Live Football Tv Stream HD",
+      "categoryLink": "/en/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/the-masters-golf-tournament/288.html",
+      "icon": "assets/img/apk/icon/com.ibm.events.android.masters.png",
+      "name": "The Masters Golf Tournament",
+      "categoryLink": "/en/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/live-sports-tv-streaming/287.html",
+      "icon": "assets/img/apk/icon/com.tehzeeb.livesports.tv.png",
+      "name": "live sports tv streaming",
+      "categoryLink": "/en/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/onx-hunt/286.html",
+      "icon": "assets/img/apk/icon/onxmaps.hunt.png",
+      "name": "onX Hunt",
+      "categoryLink": "/en/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.9"
+    }
+  ]
+}

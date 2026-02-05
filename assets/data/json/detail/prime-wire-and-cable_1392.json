@@ -1,0 +1,110 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.prime.on.png",
+    "title": "PRIME Wire and Cable",
+    "ratings": "4.4",
+    "downloads": "950M",
+    "age": "4+",
+    "download_link": "https://d.apkpure.com/b/APK/com.prime.on?version=latest"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "PRIME Wire and Cable"
+    },
+    {
+      "name": "category",
+      "value": "House & Home"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "PRIME Wire and Cable, Inc."
+    },
+    {
+      "name": "Version",
+      "value": "1.1.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/yEmmcK6Q7G9ZZPLt-63KbT9QI7uZeCx9hjWoi6xZbm-RZXjIq8dex1tWOGa73ocAkv88",
+    "https://play-lh.googleusercontent.com/9OLt_5TXETy3IO3NpjmarOMy-jp51g-upZfftm7h7A3pZay-SJ6xCucT7nYxm8J4gi4",
+    "https://play-lh.googleusercontent.com/T265hsNSZTrLt11d8J8WMDMpcBW40TRVKY6MFnAhCCYRvUOZ62p-TpYTL3KRc-prNA",
+    "https://play-lh.googleusercontent.com/gAonYep42CbHI8QCJby7F61SzCIJP6Q-WB3WUcMRme37U2g_YVAKSuycbguIQwWHspY",
+    "https://play-lh.googleusercontent.com/h97m-HrKg34n0TancpVbozb52HcHX6LAtlQW8uvHrXGLFNlsOTPmhslEO6FicRtywBA"
+  ],
+  "app_descript": "<h1>PRIME Wire and Cable</h1>\n<h2>Brief</h2>\n<p>The PRIME Wire and Cable app puts intuitive control over your indoor and outdoor lighting, fans, and other electrical devices, right in the palm of your hand. Designed to work with PRIME devices, this app enables you to set up custom timer schedules and manage your home’s electrical equipment from anywhere. Whether you are at home or on the go, the app ensures you have the capability to program and operate your PRIME gadgets with ease.</p>\n<h2>Core Features</h2>\n<ul>\n<li>🕒 <strong>Custom Timers</strong>: Create several timer schedules to operate your lighting systems and electrical devices automatically.</li>\n<li>🖲️ <strong>Manual ON/OFF Control</strong>: Gain direct control over your devices with the simple tap of a button on your smartphone or tablet.</li>\n<li>🔗 <strong>Smart Scenes</strong>: Link numerous devices together for synchronized control, activating multiple appliances simultaneously.</li>\n<li>➕ <strong>Device Management</strong>: Streamline the addition and configuration of various PRIME products within the app.</li>\n<li>🚨 <strong>Push Notifications</strong>: Stay informed with real-time alerts when your devices are triggered.</li>\n</ul>\n<h2>Pros</h2>\n<ul>\n<li>👍 <strong>Ease of Use</strong>: The user-friendly interface makes scheduling and device management straightforward and hassle-free.</li>\n<li>👍 <strong>Remote Accessibility</strong>: Adjust your devices from any location, ensuring peace of mind through remote control.</li>\n<li>👍 <strong>Customization</strong>: Tailor the behavior of your electrical appliances to match your lifestyle with customizable scenes and timers.</li>\n<li>👍 <strong>Real-Time Management</strong>: Prompt notifications keep you up to date with the activities of your connected devices.</li>\n<li>👍 <strong>Multi-Device Capability</strong>: Seamlessly integrate and operate multiple PRIME devices through a singular platform.</li>\n</ul>\n<h2>Cons</h2>\n<ul>\n<li>👎 <strong>Internet Dependence</strong>: The need for constant internet access or a cellular signal to operate the app can be a limitation in areas with poor connectivity.</li>\n<li>👎 <strong>PRIME Device Restriction</strong>: The app is designed specifically for PRIME devices which may limit its utility if you own non-PRIME products.</li>\n<li>👎 <strong>Initial Setup Complexity</strong>: New users may find it challenging to navigate the initial device setup and configuration steps.</li>\n<li>👎 <strong>Notification Overload</strong>: An excess of push notifications can sometimes lead to a cluttered notification tray, which some users may find overwhelming.</li>\n</ul>\n<h2>Price</h2>\n<p>💵 The PRIME Wire and Cable app is free to download and use, although it's tailored to work with PRIME's electrical devices. There might be additional costs associated with purchasing these compatible appliances.</p>\n<p>Crafted for both convenience and efficiency, the PRIME Wire and Cable app enhances your home automation experience. RuntimeObject</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-trulia-android-rentals/14398.html",
+      "icon": "assets/img/apk/icon/com.trulia.android.rentals.png",
+      "name": "Trulia Rent Apartments & Homes",
+      "categoryLink": "/categories/house.home/13",
+      "category": "House & Home",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/tenantapp-properties-for-rent/1394.html",
+      "icon": "assets/img/apk/icon/com.ire.tenantapp.png",
+      "name": "TenantApp Properties For Rent",
+      "categoryLink": "/categories/house.home/13",
+      "category": "House & Home",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/duproprio/1393.html",
+      "icon": "assets/img/apk/icon/com.duproprio.app.png",
+      "name": "DuProprio",
+      "categoryLink": "/categories/house.home/13",
+      "category": "House & Home",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/prime-wire-and-cable/1392.html",
+      "icon": "assets/img/apk/icon/com.prime.on.png",
+      "name": "PRIME Wire and Cable",
+      "categoryLink": "/categories/house.home/13",
+      "category": "House & Home",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/zolo/1391.html",
+      "icon": "assets/img/apk/icon/com.ols.zolo.png",
+      "name": "Zolo",
+      "categoryLink": "/categories/house.home/13",
+      "category": "House & Home",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/mysmarte/1390.html",
+      "icon": "assets/img/apk/icon/io.eliq.e.png",
+      "name": "MySmartE",
+      "categoryLink": "/categories/house.home/13",
+      "category": "House & Home",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/universal-smart-tv-remote-ctrl/1389.html",
+      "icon": "assets/img/apk/icon/com.fineart.universal.tv.remote.control.png",
+      "name": "Universal Smart Tv Remote Ctrl",
+      "categoryLink": "/categories/house.home/13",
+      "category": "House & Home",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/share-phone-it/1388.html",
+      "icon": "assets/img/apk/icon/com.fromthenephothetovt.png",
+      "name": "Share phone it",
+      "categoryLink": "/categories/house.home/13",
+      "category": "House & Home",
+      "rating": "4.2"
+    }
+  ]
+}

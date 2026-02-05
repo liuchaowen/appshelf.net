@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/topbuzz.png",
+    "title": "TopBuzz",
+    "ratings": "4.8",
+    "downloads": "150M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "TopBuzz"
+    },
+    {
+      "name": "category",
+      "value": "News & Magazines"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "TopBuzz"
+    },
+    {
+      "name": "Version",
+      "value": "10.1.7.02"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h3>Brief</h3>\n<p>TopBuzz is a personalized news aggregator app designed to cater to individual interests and streamline your information feed. By filtering out the noise and presenting only content matched to your preferences, TopBuzz saves users time and effort usually spent scouring for relevant news and media.</p>\n<h3>Core Features 📌</h3>\n<ul>\n<li><strong>Personalized Content Streams:</strong> Tailors your daily feed to your interests, providing articles, GIFs, and videos you care about. 📰</li>\n<li><strong>User-Friendly Interface:</strong> Offers a neatly organized layout with clear categories and previews for easy navigation and quick understanding. 🖥️</li>\n<li><strong>Diverse Content Under One Roof:</strong> A one-stop source for a variety of media including news, entertainment, sports, and technology. 🌐</li>\n<li><strong>Ad-Free Experience:</strong> Enjoy browsing without interruptions from advertisements, ensuring a smoother information consumption. 🚫</li>\n</ul>\n<h3>Pros 👍</h3>\n<ul>\n<li><strong>Customization:</strong> Adjusts the news feed to the user's personal preferences improving the relevancy of content shown. ✔️</li>\n<li><strong>Ease of Use:</strong> Simplistic and efficient design allows for quick headline scanning and content access. ✨</li>\n<li><strong>Multimedia Content:</strong> Access not just news articles but engaging videos and GIFs, enriching the user experience. 🎬</li>\n<li><strong>All-in-One Platform:</strong> Eliminates the need to use multiple apps for different types of news and entertainment. 📲</li>\n</ul>\n<h3>Cons 👎</h3>\n<ul>\n<li><strong>Content Reliance:</strong> The quality of recommendations heavily depends on the app's algorithm and your interaction data. 🔄</li>\n<li><strong>Less Control Over Sources:</strong> Some users may want to curate specific sources which is not always possible. 🔒</li>\n<li><strong>Potential Bias:</strong> Personalization algorithms can create a filter bubble, limiting exposure to diverse viewpoints. 🛡️</li>\n<li><strong>Network Dependency:</strong> Requires a stable internet connection for content streaming, affecting accessibility. 🌐</li>\n</ul>\n<h3>Price 💵</h3>\n<p>TopBuzz is available as a free-to-use application. There are no in-app purchases or subscription fees, providing a cost-effective solution for users seeking a comprehensive news and entertainment platform.</p>\n<p><a href=\"https://play.google.com/store/apps/details?id=com.ss.android.article.master\" rel=\"noopener noreferrer\" target=\"_blank\">TopBuzz - Get It On Google Play</a></p>\n<h3>Community</h3>\n<p>The community aspect for TopBuzz does not seem to have prominent platforms or fanbases across social media, as the data regarding that is not mentioned. However, if such platforms exist, users could expect to find official accounts or fan communities on popular social media sites where they can follow for updates and engage with other users.</p>\n<p>(Note: Specific community links for TopBuzz are not provided due to the absence of available data.)</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-app-foapp/15418.html",
+      "icon": "assets/img/apk/icon/com.app.foapp.png",
+      "name": "The Obituary App",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-globalnews-android-novanews/5116.html",
+      "icon": "assets/img/apk/icon/com.globalnews.android.novanews.png",
+      "name": "Global News - Breaking & Local",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/Hindi-News-by-Dainik-Bhaskar/4635.html",
+      "icon": "assets/img/apk/icon/com.ak.ta.dainikbhaskar.activity.png",
+      "name": "Hindi News by Dainik Bhaskar",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/Way2News-News-updates-Election/4625.html",
+      "icon": "assets/img/apk/icon/sun.way2sms.hyd.com.png",
+      "name": "Way2News News updates Election",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/Hindi-News/4507.html",
+      "icon": "assets/img/apk/icon/in.AajTak.headlines.png",
+      "name": "Hindi News",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/TVA-Nouvelles/4479.html",
+      "icon": "assets/img/apk/icon/com.nurun.lcn.png",
+      "name": "TVA Nouvelles",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/uol/3121.html",
+      "icon": "assets/img/apk/icon/br.uol.noticias.png",
+      "name": "UOL",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/local-news/3120.html",
+      "icon": "assets/img/apk/icon/com.opera.app.news.local.png",
+      "name": "Local News",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.5"
+    }
+  ]
+}

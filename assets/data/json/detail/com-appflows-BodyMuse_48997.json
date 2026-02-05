@@ -1,0 +1,110 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.appflows.BodyMuse.png",
+    "title": "BodyMuse: Body Shape Analysis",
+    "ratings": "4.3",
+    "downloads": "8M",
+    "age": "4+",
+    "download_link": "https://d.apkpure.com/b/APK/com.appflows.BodyMuse?version=latest"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "BodyMuse: Body Shape Analysis"
+    },
+    {
+      "name": "category",
+      "value": "Health & Fitness"
+    },
+    {
+      "name": "Price",
+      "value": "0"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "AppFlows"
+    },
+    {
+      "name": "Version",
+      "value": "7.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/7cqJrInMI778ZG2UhIK2J8ZlcVgCON_fizE8SX4Jae4K20CoUYAxRbEbexN5sfwTYu0",
+    "https://play-lh.googleusercontent.com/Fh8ZDWSKSBFdgTLlm_cCbBcoz1y9HUBa2Z84N1qZ5zqz1VKC1b1YuV_5LD_kqNWRlQ",
+    "https://play-lh.googleusercontent.com/vNgc-6tNC_ifwjbCddxXGi1zUdOGCW9qlS2Ghj5l23aBPw9kU8_4BG397NCYff5_yaE",
+    "https://play-lh.googleusercontent.com/GfzhuaVs5aou-uANbPncpJgQXqIk1zkY_msrCGjVWHU5Mvzion3ltfDsN8QPd0xWzwE",
+    "https://play-lh.googleusercontent.com/6I6fY5bzt04HWJZ17AWt0geV_tiE6YXiqZjBm5nsDiUzkYHYQjBeAM9oS8HPpX5KdwI"
+  ],
+  "app_descript": "<h1>BodyMuse: Body Shape Analysis</h1>\n<p>Discover your perfect fit with BodyMuse, an innovative app powered by AI that analyzes your body shape and provides personalized insights to enhance your fitness and style journey.</p>\n<h2>📌 Core Features</h2>\n<ul>\n<li><strong>AI Body Shape Detection</strong>: Instantly scan and analyze your body to identify your unique shape and body type with precision. 🧬</li>\n<li><strong>BMI &amp; Body Fat Calculator</strong>: Track your BMI, body fat percentage, and measurements all in a user-friendly dashboard. 📊</li>\n<li><strong>Style Recommendations</strong>: Get tailored outfit suggestions that flatter your body shape, designed to boost your confidence. 👗</li>\n<li><strong>Custom Fitness Tips</strong>: Receive personalized fitness plans based on your specific body shape—whether you're an apple, pear, hourglass, or rectangle. 🏋️</li>\n<li><strong>Progress Tracker</strong>: Visualize and track your progress with detailed analytics and body scan results. 📈</li>\n</ul>\n<h2>👍 Pros</h2>\n<ul>\n<li>Offers tailored insights and suggestions for different body types, making it inclusive for all users. ✨</li>\n<li>Combines fitness tracking, health metrics, and style advice in one app, simplifying the user experience. 🌟</li>\n<li>Utilizes advanced AI technology to provide precise and personalized recommendations. 🤖</li>\n<li>Encourages a positive body image by helping users embrace their unique silhouettes. ❤️</li>\n</ul>\n<h2>👎 Cons</h2>\n<ul>\n<li>Requires a good quality camera for accurate body scanning, which might not be accessible to everyone. 📷</li>\n<li>Some users may find the app initially complex to navigate due to its multiple features. 🌀</li>\n<li>Limited to the body shape types mentioned, which may not cover all unique body forms. 🚫</li>\n<li>May require internet access for full functionality, limiting offline use. 🌐</li>\n</ul>\n<h2>💵 Price</h2>\n<p>BodyMuse is available for free, with optional in-app purchases for advanced features and personalized plans.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-appflows-BodyMuse/48997.html",
+      "icon": "assets/img/apk/icon/com.appflows.BodyMuse.png",
+      "name": "BodyMuse: Body Shape Analysis",
+      "categoryLink": "/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-codev-headache_app/39734.html",
+      "icon": "assets/img/apk/icon/com.codev.headache_app.png",
+      "name": "Headache Diary, Test & Treat",
+      "categoryLink": "/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/life-simple/39727.html",
+      "icon": "assets/img/apk/icon/life.simple.png",
+      "name": "Simple: AI Weight Loss Coach",
+      "categoryLink": "/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-clearblue-minerva/39464.html",
+      "icon": "assets/img/apk/icon/com.clearblue.minerva.png",
+      "name": "Menopause Stage - Clearblue me",
+      "categoryLink": "/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-jplanet-lungtestandbreathpractice/39424.html",
+      "icon": "assets/img/apk/icon/com.jplanet.lungtestandbreathpractice.png",
+      "name": "Lung Test and Breath Exercise",
+      "categoryLink": "/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "3"
+    },
+    {
+      "link": "/details/healthy-lungs-breathing-exercise-coach-pranayama-breath-workout-lung-exercises/39423.html",
+      "icon": "assets/img/apk/icon/healthy.lungs.breathing.exercise.coach.pranayama.breath.workout.lung.exercises.png",
+      "name": "Lungs Test: Breathing Exercise",
+      "categoryLink": "/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-smartoptometry-smartoptometry-full/34733.html",
+      "icon": "assets/img/apk/icon/com.smartoptometry.smartoptometry.full.png",
+      "name": "Smart Optometry - Eye Tests",
+      "categoryLink": "/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-b2creativedesigns-eyetest/34732.html",
+      "icon": "assets/img/apk/icon/com.b2creativedesigns.eyetest.png",
+      "name": "Eye test",
+      "categoryLink": "/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.1"
+    }
+  ]
+}

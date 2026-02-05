@@ -1,0 +1,109 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.telus.publicmobile.png",
+    "title": "Public Mobile",
+    "ratings": "2.4",
+    "downloads": "920M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Public Mobile"
+    },
+    {
+      "name": "category",
+      "value": "Tools"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "TELUS"
+    },
+    {
+      "name": "Version",
+      "value": "1.4.1"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/5FUlkUtoNh7fFmQcjy9AtYoBJ8l0PJaXIDxcI2U5Oga1FF0hjjDuSwTsf0ozw7rKdw",
+    "https://play-lh.googleusercontent.com/EAniQuP4WvMiAuWzFNOULni6xgFrQLfnRwfnACeE7YaYLdyggMbyVvmcVyx0eYKYMla0",
+    "https://play-lh.googleusercontent.com/UW7qZLZdWiUmnRy2G4-odZ_1TJaEei-oriFvugZa70S9C_g-3KHvsqP4mFdyAQFbLBM",
+    "https://play-lh.googleusercontent.com/97l8MjquCvTATKB07E9WEtI_wg9Amevmzf9isqADzIueIqbx7C2SN85lvEYoeAKZfpA",
+    "https://play-lh.googleusercontent.com/RajjXF01QHcHKPFdMGCd6NG8lxSFcGwfd0qYzzwVjxA_PjOSeeFmbeLoYPe9v4ZTasJ0"
+  ],
+  "app_descript": "<h3>Brief</h3>\n<p>The Public Mobile app stands firm as a user-centric platform for official account management and billing processes. While the app gears toward simplifying the day-to-day account-related tasks for its subscribers, those in quest of high-end functionalities may notice the simplicity of its offerings. Let's explore what Public Mobile brings to your mobile device.</p>\n<h3>Core Features 🛠️</h3>\n<ul>\n<li><strong>Account Management</strong>: Easily access and manage your account details from the palm of your hand. 📱</li>\n<li><strong>Billing Simplified</strong>: View and pay your bills within the app without the fuss of traditional billing methods. 💳</li>\n<li><strong>Usage Tracking</strong>: Keep an eye on your usage to stay on top of your plan and avoid surprises. 📊</li>\n<li><strong>Customer Community Access</strong>: Engage with the Public Mobile community via forums for support and information. 👥</li>\n</ul>\n<h3>Pros 👍</h3>\n<ul>\n<li><strong>User-Friendly Interface</strong>: Navigate through the app with ease with its intuitive and straightforward layout. 🌐</li>\n<li><strong>Convenient On-the-Go Access</strong>: Manage your account and billing anytime, anywhere, right from your mobile device. 🚶‍♂️</li>\n<li><strong>Direct Bill Payment</strong>: With in-app payment functionality, staying on top of your bills is a few taps away. 💼</li>\n<li><strong>Community-Driven Support</strong>: Gain insights and help from a dedicated community of users and experts. 💡</li>\n</ul>\n<h3>Cons 👎</h3>\n<ul>\n<li><strong>Limited Advanced Features</strong>: Lack of detailed usage analytics and rewards may detract those desiring more from their carrier's app. 📉</li>\n<li><strong>No In-App Direct Support</strong>: The absence of live chat or call support requires users to seek help through community forums or email. 📬</li>\n<li><strong>Restricted to Subscribers</strong>: Only existing customers can utilize the app, hindering potential customers from exploring their options on the platform. 🔒</li>\n</ul>\n<h3>Price 💵</h3>\n<p>The Public Mobile app is a complimentary service provided to its customers, creating a seamless user experience at no extra cost. It is important to note, however, that the accessibility of the app is an exclusive privilege for the subscribers of Public Mobile.</p>\n<p>Since this app is a utility geared more towards service management rather than community interaction, there is no Community section included.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-antique-snap-identifier-appraisal/54309.html",
+      "icon": "assets/img/apk/icon/com.antique.snap.identifier.appraisal.png",
+      "name": "Antique Identifier - Appraisal",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-age-calculator-life-countdown/54243.html",
+      "icon": "assets/img/apk/icon/com.age.calculator.life.countdown.png",
+      "name": "Age Calculator・Life Expectancy",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.4"
+    },
+    {
+      "link": "/details/com-xv-agecalc/54237.html",
+      "icon": "assets/img/apk/icon/com.xv.agecalc.png",
+      "name": "AgeCalc: Date Life Calculator",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-palm-ai-decode-destiny-soul-futurelines-handline/54206.html",
+      "icon": "assets/img/apk/icon/com.palm.ai.decode.destiny.soul.futurelines.handline.png",
+      "name": "Palm AI: Decode Destiny",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/rbx-robuxcalc-getrbx-freecounter/53839.html",
+      "icon": "assets/img/apk/icon/rbx.robuxcalc.getrbx.freecounter.png",
+      "name": "RBX Calc - Get Robuxcounter",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-internetoptimizer-speedtest-wifispeedtest-netspeed-wifipassword-wifispeed/49027.html",
+      "icon": "assets/img/apk/icon/com.internetoptimizer.speedtest.wifispeedtest.netspeed.wifipassword.wifispeed.png",
+      "name": "Internet Optimizer",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.9"
+    },
+    {
+      "link": "/details/com-blazingappstudio-speed_test_pro/49021.html",
+      "icon": "assets/img/apk/icon/com.blazingappstudio.speed_test_pro.png",
+      "name": "Speed Test - Wifi Optimizer",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-secret-camera-hidden-detector/39728.html",
+      "icon": "assets/img/apk/icon/com.secret.camera.hidden.detector.png",
+      "name": "Hidden Camera & IR Detector",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    }
+  ]
+}

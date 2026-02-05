@@ -1,0 +1,108 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.musicboxjp.free.music.download.music.player.png",
+    "title": "Music Download",
+    "ratings": "4.8",
+    "downloads": "330M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Music Download"
+    },
+    {
+      "name": "category",
+      "value": "Music & Audio"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Music Box JP inc."
+    },
+    {
+      "name": "Version",
+      "value": "1.0.3"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/5PS2EU42urwbwChkXuP_2tigwWDAUlUekNSOrgdh_cVmlengWJKJgEsYxpY0dGScSWw",
+    "https://play-lh.googleusercontent.com/iPBUCtfaYjj2gjhIAroLe-iNULyTxXkWxNzpYZVUuXF1e6cgKWtvvFEg-mnf7ehg1mA",
+    "https://play-lh.googleusercontent.com/GL7jpXbJDrXoAqnT1JoXgTNebYFjd6DpTF0TsLrUBhygZB94JvnixgVM0x6Fml2FwYY",
+    "https://play-lh.googleusercontent.com/p47FH0-uyFwryRz7E53NZ8mh1sRKjuc-7xn3a8Mq5RqLCDY_Ds9lJLhnzsd1JCgG6Lw"
+  ],
+  "app_descript": "<p><strong>Music Download - Your Gateway to a Rich Audio Experience</strong></p>\n<p><strong>Brief:</strong>\nDiscover an exceptional music experience with the Music Download app, a premier music player and online music downloader designed for Android users. With a plethora of powerful features packed within a beautifully crafted interface, immerse yourself in a world where finding, listening to, and downloading your favorite tracks is both intuitive and enjoyable.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🎵 <strong>Extensive Music Search</strong>: Locate your favorite tunes by name, album, genre, or playlist with ease.</li>\n<li>🔊 <strong>Quality Control</strong>: Choose from multiple sound qualities—smooth, standard, high audio quality—to tailor your listening experience.</li>\n<li>📥 <strong>Effortless Downloads</strong>: Easily browse, play, and download mp3 results from a vast collection of over a million high-quality tracks.</li>\n<li>💾 <strong>Immense Library</strong>: Access one of the largest free mp3 music storages available on Android.</li>\n<li>🔄 <strong>Simplified Sharing</strong>: Share your downloaded mp3s with friends quickly and without hassle.</li>\n<li>📱 <strong>Offline Playback</strong>: Enjoy your music soundtracks without the need for a Wi-Fi connection.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 <strong>User-Friendly Interface</strong>: Navigating the app is a breeze, thanks to its stylish and intuitive design.</li>\n<li>👍 <strong>Zero Cost Music</strong>: With no In-App purchases, all features are fully accessible at no extra charge.</li>\n<li>👍 <strong>Versatility in Music Quality</strong>: Catering to various preferences and bandwidths with selectable sound qualities.</li>\n<li>👍 <strong>No-Wifi Listening</strong>: Ability to download and play music offline is a boon for those with limited internet connectivity.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 <strong>Ad-Supported</strong>: As a free app, in-app advertisements might be present, which could be a distraction.</li>\n<li>👎 <strong>Limited International Catalog</strong>: Some users might find the selection of international tracks limited.</li>\n<li>👎 <strong>Data Usage</strong>: Downloading over cellular data might lead to additional charges from your service provider.</li>\n<li>👎 <strong>Device Compatibility</strong>: Performance and available features might vary depending on the device used.</li>\n</ul>\n<p><strong>Price:</strong></p>\n<ul>\n<li>💵 <strong>Totally Free</strong>: Music Download is a completely free app with no hidden in-app purchases, making it accessible for all Android users to enjoy a premium music experience.</li>\n</ul>\n<p>Bring your musical journey to life by downloading the Music Download app today. Whether you're looking to revamp your playlist or simply find a new anthem for the road, this app promises a user-friendly and cost-effective path to your music nirvana.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-simmusic-oldjpop/49056.html",
+      "icon": "assets/img/apk/icon/com.simmusic.oldjpop.png",
+      "name": "昭和の名曲 - 70年代/80年代名曲, 昭和の歌謡曲",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-bigsoft-voicereverse-audiochanger/39378.html",
+      "icon": "assets/img/apk/icon/com.bigsoft.voicereverse.audiochanger.png",
+      "name": "Funny Voice Reverse",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "3.1"
+    },
+    {
+      "link": "/details/com-realdrum-drumset-drumapp-beatmaker-music-instruments-drumkit/16783.html",
+      "icon": "assets/img/apk/icon/com.realdrum.drumset.drumapp.beatmaker.music.instruments.drumkit.png",
+      "name": "Learn Drum - Pad & Beat Maker",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-musicplayer-mp3-audio-mymusic-player/15795.html",
+      "icon": "assets/img/apk/icon/com.musicplayer.mp3.audio.mymusic.player.png",
+      "name": "Music Player & MP3 - MMusic",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/com-ai-sound-donna/15626.html",
+      "icon": "assets/img/apk/icon/com.ai.sound.donna.png",
+      "name": "Donna AI Song & Music Maker",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-vanniktech-rssreader/15328.html",
+      "icon": "assets/img/apk/icon/com.vanniktech.rssreader.png",
+      "name": "RSS Reader Offline | Podcast",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-voicechanger-supereffect-soundeffect/14158.html",
+      "icon": "assets/img/apk/icon/com.voicechanger.supereffect.soundeffect.png",
+      "name": "Voice Changer: Audio Effect",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/org-cru-womans-herbible/14124.html",
+      "icon": "assets/img/apk/icon/org.cru.womans.herbible.png",
+      "name": "her.BIBLE Women's Audio Bible",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    }
+  ]
+}

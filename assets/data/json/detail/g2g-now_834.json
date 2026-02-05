@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/co.genvis.g2g.now.png",
+    "title": "G2G Now",
+    "ratings": "4.8",
+    "downloads": "140M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "G2G Now"
+    },
+    {
+      "name": "category",
+      "value": "Travel & Local"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "GenVis"
+    },
+    {
+      "name": "Version",
+      "value": "1.0.9"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>Brief:</strong>\nG2G Now is an essential app for travelers entering Western Australia, designed to facilitate the entry process via the G2G PASS system. It ensures that users comply with the state's entry requirements by enabling check-ins and health updates, which are verified by location services at the time of submission. This app requires users to grant specific permissions for full functionality.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🛂 <strong>G2G PASS Integration:</strong> Users must have a G2G PASS account, which is essential for approved entry into Western Australia.</li>\n<li>📲 <strong>Real-Time Check-Ins:</strong> The app allows users to check in their location and perform health updates to comply with monitoring requirements.</li>\n<li>📍 <strong>Location Verification:</strong> Validates the user's location at the time of check-in and during health status submissions to ensure they are within the required areas.</li>\n<li>🔔 <strong>Push Notifications:</strong> Keeps users informed with reminders and updates, making the process as smooth as possible.</li>\n<li>📸 <strong>Camera Utilization:</strong> Enables identity verification through the in-app camera function, enhancing security and compliance.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 <strong>Streamlined Entry Process:</strong> Offers travelers a hassle-free way to meet entry requirements when traveling to Western Australia.</li>\n<li>👍 <strong>Avoids Alternative Monitoring:</strong> Using the app helps users avoid more invasive forms of monitoring, such as phone calls or in-person visits from law enforcement.</li>\n<li>👍 <strong>Privacy-Conscious:</strong> G2G Now is not a continuous tracking tool; it checks location only during active use for check-ins and health updates.</li>\n<li>👍 <strong>Clear Permission Requirements:</strong> The app clearly outlines the necessary device permissions for operation, ensuring users are aware of what is needed.</li>\n<li>👍 <strong>Law Enforcement Compliance:</strong> Supports users in adhering to the state's legal requirements, potentially avoiding legal complications.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 <strong>Restricted Usage:</strong> Only beneficial to individuals with a pre-approved G2G PASS account, limiting its use to a specific group.</li>\n<li>👎 <strong>Permission Dependency:</strong> Cannot be used without granting full permissions for notifications, camera, and location services, which might be a concern for some users.</li>\n<li>👎 <strong>Regional Limitation:</strong> Exclusively serves travelers to Western Australia, offering no functionality to others.</li>\n<li>👎 <strong>Mandatory Cooperation:</strong> Users must actively use the app for check-ins and updates, which can be seen as a responsibility rather than a convenience.</li>\n<li>👎 <strong>Technical Barriers:</strong> Requires users to be familiar with enabling app permissions, which may hinder less tech-savvy individuals.</li>\n</ul>\n<p><strong>Price:</strong>\n💵 The app is free to download and use for travelers with a G2G PASS account, but it's important to note that users must comply with the permissions required for the app's full functionality.</p>\n<p><strong>Community:</strong>\n<em>Since this is a non-game app specific to a government entry process, a community section may not apply in this context.</em></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-bp-app-bpme-global-ros/16042.html",
+      "icon": "assets/img/apk/icon/com.bp.app.bpme.global.ros.png",
+      "name": "earnify",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/kulana-tools-vacationcountdown/10380.html",
+      "icon": "assets/img/apk/icon/kulana.tools.vacationcountdown.png",
+      "name": "Vacation Countdown App",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-disney-playdisneyparks-goo/4681.html",
+      "icon": "assets/img/apk/icon/com.disney.playdisneyparks.goo.png",
+      "name": "Play Disney Parks",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-hornblower-statuecruises/4679.html",
+      "icon": "assets/img/apk/icon/com.hornblower.statuecruises.png",
+      "name": "Statue Cruises",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-usnpw-grca/4678.html",
+      "icon": "assets/img/apk/icon/com.usnpw.grca.png",
+      "name": "Grand Canyon National Park",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/MakeMyTrip-Hotels-Flight-Bus/4591.html",
+      "icon": "assets/img/apk/icon/com.makemytrip.png",
+      "name": "MakeMyTrip Hotels, Flight, Bus",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/ConfirmTkt/4570.html",
+      "icon": "assets/img/apk/icon/com.confirmtkt.lite.png",
+      "name": "ConfirmTkt",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/Bus-Train-Ticket-Booking-App/4503.html",
+      "icon": "assets/img/apk/icon/in.redbus.android.png",
+      "name": "Bus, Train Ticket Booking App",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.9"
+    }
+  ]
+}

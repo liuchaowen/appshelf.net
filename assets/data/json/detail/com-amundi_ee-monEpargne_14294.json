@@ -1,0 +1,62 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.amundi_ee.monEpargne.png",
+    "title": "Mon Epargne",
+    "ratings": "3.1",
+    "downloads": "110M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Mon Epargne"
+    },
+    {
+      "name": "category",
+      "value": "Finance"
+    },
+    {
+      "name": "Price",
+      "value": "0"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Amundi"
+    },
+    {
+      "name": "Version",
+      "value": "5.1"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/U2jBKK4KOqh8Bxcg-EIRGsGKSOS0_gLB_09hKS1wV8E8jH-QgdNoRjLar8cVRuhG-g",
+    "https://play-lh.googleusercontent.com/HZffojDSd9FkAOHWW2ik-7YzaDMQ2V0hWr-NDjTYNOsjl4bOwSspRh7H5aeo_f0Y7vI",
+    "https://play-lh.googleusercontent.com/7NMZ7p-BsQ1by05Z-80989WSsxs9UlMEh_l1wovPz050ryLk8YHX8MYX0a3xl5PEyg",
+    "https://play-lh.googleusercontent.com/Hq_A_tIulzn2hi6oj75UNoOVLhi0p_kJ9Fpmy0bMvWyctAY9XUf2KK9wRYUMY1C77Q42",
+    "https://play-lh.googleusercontent.com/Lv9mYk3R23H2-p7lU3HdRVvSqhIBmc12Ii597mSX0f8yTSLC7oS8lG4RJi-Lzxu28kT6",
+    "https://play-lh.googleusercontent.com/YWPOxdQhxUkhYVjckLhpU4lhYNQZM5LAY9NY6SMa-8-qyvSqVI5_wOW2iYHbphCCzaY"
+  ],
+  "app_descript": "<h1>Mon Epargne</h1>\n<p>Mon Epargne is a user-friendly application designed to simplify the management of your savings and retirement plans. With an intuitive interface, users can easily access and track their financial growth over time, ensuring that they have complete control and understanding of their investments.</p>\n<h2>Core Features</h2>\n<ul>\n<li>📊 Comprehensive Overview: Gain a clear and quick view of your savings and their evolution over time.</li>\n<li>📈 Detailed Insights: Access complete details of your savings plans along with a historical record of your transactions.</li>\n<li>💼 Investment Options: Explore all the investment opportunities available through your company.</li>\n<li>🖥️ Enhanced User Experience: The app is redesigned for greater simplicity, fluidity, and accessibility.</li>\n<li>🔔 Real-Time Notifications: Stay updated with notifications regarding your savings and investment activities.</li>\n</ul>\n<h2>Pros</h2>\n<ul>\n<li>👍 Intuitive Design: User-friendly interface makes navigation simple for all users.</li>\n<li>🏦 Comprehensive Information: Access to detailed history and insights about individual savings and retirement plans.</li>\n<li>🔍 Clear Visibility: Easy tracking of savings progress and investment options.</li>\n<li>🚀 Enhanced Accessibility: A design focused on making savings management smooth and efficient.</li>\n<li>💬 Good Customer Support: Robust support ensures user queries are addressed promptly.</li>\n</ul>\n<h2>Cons</h2>\n<ul>\n<li>👎 Limited Customization: The app may lack advanced customization features for personalizing the dashboard.</li>\n<li>🌐 Regional Restrictions: Availability may be limited to specific geographic locations depending on the employer.</li>\n<li>🛠️ Occasional Bugs: Users have reported minor glitches that can impact the user experience.</li>\n<li>🔒 Security Concerns: As with any financial app, there are potential security risks that users should consider.</li>\n<li>📉 Lack of Investment Advice: The app does not provide personalized investment strategies or advice.</li>\n</ul>\n<h2>Price</h2>\n<p>💵 Mon Epargne is free to download and use. Please verify within the app for any in-app purchase options.</p>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-security_benefit-app/15330.html",
+      "icon": "assets/img/apk/icon/com.security_benefit.app.png",
+      "name": "My Security Benefit",
+      "categoryLink": "/en/categories/finance/28",
+      "category": "Finance",
+      "rating": "3.8"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-amundi_ee-monEpargne/14294.html",
+      "icon": "assets/img/apk/icon/com.amundi_ee.monEpargne.png",
+      "name": "Mon Epargne",
+      "categoryLink": "/en/categories/finance/28",
+      "category": "Finance",
+      "rating": "3.1"
+    }
+  ]
+}

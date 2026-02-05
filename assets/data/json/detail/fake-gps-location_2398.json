@@ -1,0 +1,108 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.lexa.fakegps.png",
+    "title": "Fake GPS location",
+    "ratings": "4.8",
+    "downloads": "620M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Fake GPS location"
+    },
+    {
+      "name": "category",
+      "value": "Tools"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Lexa"
+    },
+    {
+      "name": "Version",
+      "value": "2.1.2"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/n2D5___NAQ1FEhigJyyg7lUBkGz_2U7xaJa01k2YIdgN-A0VQtLk-UEIb-Z96ql_XRtR",
+    "https://play-lh.googleusercontent.com/9NxBQK3U75ZyvqUf5oFzOj-fJbLFhYAIZBXFS__Zbl8okMSIwGqW59-5nga-VDL6YA",
+    "https://play-lh.googleusercontent.com/VwtgPEIxEV3DeFzukntc-DPHNSwXLhTY85cQXpOJoJASssv_fgyvOPl4_DAiWhDsCw",
+    "https://play-lh.googleusercontent.com/E_v2uPO5lXrv5TEHcqT7xxkv2jH6XczHir7_pavv5LMsNt3Dt0oKw0FGTPxi2u6dFCs"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> Fake GPS Location</p>\n<p><strong>Brief:</strong>\nFake GPS Location is an app designed to override your device's current geographical location with a fake or mock location of your choice. It caters to users who want to trick other apps into believing they are somewhere else. It's a handy tool for privacy protection, testing purposes, and more. However, users must note that using Fake GPS Location can sometimes result in the location being locked to the last mocked location even after uninstalling, but solutions are provided within the app.</p>\n<p><strong>📌 Core Features:</strong></p>\n<ul>\n<li><strong>Mock Location Abilities:</strong> Set any location in the world as your current GPS position. 🌍</li>\n<li><strong>For Rooted Devices:</strong> Mock locations without enabling the \"Allow mock locations\" setting. 📲</li>\n<li><strong>Persistent Location Fix:</strong> Provides methods to fix GPS if the location gets stuck on the mocked address. 🛠️</li>\n<li><strong>Simple User Interface:</strong> Intuitive design for easy navigation and location setting. 🖌️</li>\n</ul>\n<p><strong>👍 Pros:</strong></p>\n<ul>\n<li><strong>Privacy Control:</strong> Allows the user to maintain anonymity by hiding actual GPS location. 🔒</li>\n<li><strong>Development Testing:</strong> Developers can test apps and services in different geographical scenarios. 👨‍💻</li>\n<li><strong>Ease of Use:</strong> Simple and straightforward functionality for everyday users. ✅</li>\n<li><strong>No Mock Location Option Requirement:</strong> Especially beneficial for rooted device users who don’t want to turn on mock location options. 🔐</li>\n</ul>\n<p><strong>👎 Cons:</strong></p>\n<ul>\n<li><strong>Location Locking Risk:</strong> Could lock the device's location to the last fake position even after uninstalling the app. 📍</li>\n<li><strong>Root Prerequisites:</strong> Full features accessible only to users with rooted devices. 🌱</li>\n<li><strong>Potential for Misuse:</strong> Might be used unethically to deceive applications and services. 🛑</li>\n<li><strong>GPS Fix Complexity:</strong> Some users may find the fixing process to be too complicated or time-consuming. ⌛</li>\n</ul>\n<p><strong>💵 Price:</strong>\nThe app is free with limited functionality and is primarily designed for testing purposes. 💰</p>\n<p><strong>Community:</strong>\nWhile Community elements such as official sites and social media channels are integral to many apps, particularly games, it's crucial to note that for Fake GPS Location, no community data is available. If such resources existed, they could offer a platform for users to share tips, seek support, and engage with each other about their experiences with the app. However, absence of this information implies that users will predominantly rely on the app itself and other general tech communities for assistance and discussions.</p>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-antique-snap-identifier-appraisal/54309.html",
+      "icon": "assets/img/apk/icon/com.antique.snap.identifier.appraisal.png",
+      "name": "Antique Identifier - Appraisal",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-age-calculator-life-countdown/54243.html",
+      "icon": "assets/img/apk/icon/com.age.calculator.life.countdown.png",
+      "name": "Age Calculator・Life Expectancy",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-xv-agecalc/54237.html",
+      "icon": "assets/img/apk/icon/com.xv.agecalc.png",
+      "name": "AgeCalc: Date Life Calculator",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-palm-ai-decode-destiny-soul-futurelines-handline/54206.html",
+      "icon": "assets/img/apk/icon/com.palm.ai.decode.destiny.soul.futurelines.handline.png",
+      "name": "Palm AI: Decode Destiny",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/rbx-robuxcalc-getrbx-freecounter/53839.html",
+      "icon": "assets/img/apk/icon/rbx.robuxcalc.getrbx.freecounter.png",
+      "name": "RBX Calc - Get Robuxcounter",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-internetoptimizer-speedtest-wifispeedtest-netspeed-wifipassword-wifispeed/49027.html",
+      "icon": "assets/img/apk/icon/com.internetoptimizer.speedtest.wifispeedtest.netspeed.wifipassword.wifispeed.png",
+      "name": "Internet Optimizer",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.9"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-blazingappstudio-speed_test_pro/49021.html",
+      "icon": "assets/img/apk/icon/com.blazingappstudio.speed_test_pro.png",
+      "name": "Speed Test - Wifi Optimizer",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-secret-camera-hidden-detector/39728.html",
+      "icon": "assets/img/apk/icon/com.secret.camera.hidden.detector.png",
+      "name": "Hidden Camera & IR Detector",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    }
+  ]
+}

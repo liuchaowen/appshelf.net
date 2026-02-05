@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/spore.png",
+    "title": "Spore",
+    "ratings": "4.5",
+    "downloads": "880M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Spore"
+    },
+    {
+      "name": "category",
+      "value": "Simulation"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "I Know It Works!"
+    },
+    {
+      "name": "Version",
+      "value": "2017-02-01"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>Spore</strong></p>\n<p><strong>Brief:</strong>\nEmbark on an evolutionary adventure with Spore, a simulation game that allows you to create and grow a species from a single-cell organism all the way to a dominant galactic presence. Explore different stages of development, from the initial Cell Stage to the expansive Space Stage, as your creation adapts and thrives in various environments.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🦠 <strong>Cell Stage:</strong> Start as a microscopic organism in a 2D world, making crucial decisions that affect your evolution path. 📌</li>\n<li>🐾 <strong>Creature Stage:</strong> Transition to land and evolve your creature in a 3D environment with complex behaviors and survival challenges. 📌</li>\n<li>🪓 <strong>Tribal Stage:</strong> Form societies, engage in diplomacy or warfare with other tribes, and pave the way for civilization. 📌</li>\n<li>🌇 <strong>Civilization Stage:</strong> Compete for resources, wield power, and unify the planet through various strategic approaches. 📌</li>\n<li>🚀 <strong>Space Stage:</strong> Take on the infinite sandbox of space, crafting your empire and exploring the galaxy with no end to adventures. 📌</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 Limitless customization options for creating unique species and civilizations.</li>\n<li>👍 Engaging progression through a variety of gameplay mechanics across different stages.</li>\n<li>👍 Vibrant ecosystems and environments to explore and interact with.</li>\n<li>👍 Recognized for innovation, holding a spot in Time's list of the Greatest Inventions of 2008.</li>\n<li>👍 Seamless in-game transition from micro to macro scales of life’s stages. </li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 May require a disk for Spore Galactic Adventures after installation.</li>\n<li>👎 Variation in gameplay depth across different stages.</li>\n<li>👎 Some players may find certain stages less engaging than others.</li>\n<li>👎 Could be overwhelming due to its expansive nature and sandbox elements.</li>\n<li>👎 Limited multiplayer capabilities, focusing mainly on single-player experiences.</li>\n</ul>\n<p><strong>Price:</strong></p>\n<ul>\n<li>💵 Spore is a paid game, with exact pricing dependent on the platform and retailer. </li>\n</ul>\n<p><strong>Community:</strong></p>\n<ul>\n<li>🕸️ Official Site: <a href=\"https://www.spore.com\" rel=\"noopener noreferrer\" target=\"_blank\">Spore</a></li>\n<li>🕸️ YouTube: <a href=\"https://www.youtube.com/user/spore\" rel=\"noopener noreferrer\" target=\"_blank\">Spore Official Channel</a></li>\n<li>🕸️ Popular YouTuber: Links may vary as several YouTubers feature Spore-related content.</li>\n<li>🕸️ Instagram: Find community posts under #SporeGame.</li>\n<li>🕸️ Twitter: <a href=\"https://twitter.com/spore\" rel=\"noopener noreferrer\" target=\"_blank\">Spore</a></li>\n<li>🕸️ Discord: Community servers available with search \"Spore Game\".</li>\n<li>🕸️ Facebook: <a href=\"https://www.facebook.com/spore\" rel=\"noopener noreferrer\" target=\"_blank\">Spore</a></li>\n<li>🕸️ TikTok: Content under #SporeGame.</li>\n<li>🕸️ Reddit: <a href=\"https://www.reddit.com/r/Spore/\" rel=\"noopener noreferrer\" target=\"_blank\">r/Spore</a></li>\n<li>🕸️ Fandom Wiki: <a href=\"https://spore.fandom.com\" rel=\"noopener noreferrer\" target=\"_blank\">Spore Wiki</a></li>\n</ul>\n<p>Spore invites players to experience an incredibly diverse journey of life, where your creations and decisions lead to countless outcomes in a vast and unfurling universe. Enjoy the challenge and wonder of building a legacy that spans from the cellular level to the cosmic realm.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-dogsimulator-boxer/54267.html",
+      "icon": "assets/img/apk/icon/com.dogsimulator.boxer.png",
+      "name": "Boxer Simulator",
+      "categoryLink": "/en/categories/simulation/44",
+      "category": "Simulation",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-baklabs-taxi-two/54225.html",
+      "icon": "assets/img/apk/icon/com.baklabs.taxi.two.png",
+      "name": "Taxi Game 2",
+      "categoryLink": "/en/categories/simulation/44",
+      "category": "Simulation",
+      "rating": "3.8"
+    },
+    {
+      "link": "/details/com-simulator-taxi-driver/54219.html",
+      "icon": "assets/img/apk/icon/com.simulator.taxi.driver.png",
+      "name": "Taxi Driver Simulator",
+      "categoryLink": "/en/categories/simulation/44",
+      "category": "Simulation",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-dmg-carmechanicshopsimulator/54194.html",
+      "icon": "assets/img/apk/icon/com.dmg.carmechanicshopsimulator.png",
+      "name": "Car Mechanic Shop Simulator 3D",
+      "categoryLink": "/en/categories/simulation/44",
+      "category": "Simulation",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-steal-battle-base-monster/53938.html",
+      "icon": "assets/img/apk/icon/com.steal.battle.base.monster.png",
+      "name": "Steal a Monster",
+      "categoryLink": "/en/categories/simulation/44",
+      "category": "Simulation",
+      "rating": "3.4"
+    },
+    {
+      "link": "/details/com-EnotGame-GangstersShowdown/53931.html",
+      "icon": "assets/img/apk/icon/com.EnotGame.GangstersShowdown.png",
+      "name": "Gangsters Showdown",
+      "categoryLink": "/en/categories/simulation/44",
+      "category": "Simulation",
+      "rating": "3.8"
+    },
+    {
+      "link": "/details/com-simulator3D-quarantine-zone-check/53925.html",
+      "icon": "assets/img/apk/icon/com.simulator3D.quarantine.zone.check.png",
+      "name": "Zombie Security Control",
+      "categoryLink": "/en/categories/simulation/44",
+      "category": "Simulation",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-dino-prehistoriccraft/53878.html",
+      "icon": "assets/img/apk/icon/com.dino.prehistoriccraft.png",
+      "name": "Prehistoric Craft",
+      "categoryLink": "/en/categories/simulation/44",
+      "category": "Simulation",
+      "rating": "2.9"
+    }
+  ]
+}

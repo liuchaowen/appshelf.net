@@ -1,0 +1,110 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.ups.mobile.android.png",
+    "title": "UPS Mobile",
+    "ratings": "4.5",
+    "downloads": "580M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "UPS Mobile"
+    },
+    {
+      "name": "category",
+      "value": "Business"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "UPS"
+    },
+    {
+      "name": "Version",
+      "value": "8.6.0.15"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/DdEPawBPr_ZMUwXJo_ISJmJvKFXabq7QjTXuarrAr5Cx3UOx5Ny4dtM-fPTFyYIoDpoW",
+    "https://play-lh.googleusercontent.com/sb-vmTzcg3QzxLo8JaalqshJnuXOfkvSxzMAMsB4pUeML_FNFFH1CEryQX-SZV_a9EMf",
+    "https://play-lh.googleusercontent.com/Chab_8NJEWv5M4IA4LsweoR6-bVBbOY8kWQizi6jCIuket-YOnFGSyEzXciMxrEkLg",
+    "https://play-lh.googleusercontent.com/ZN8MWGlu6cTELAPuOtJXSnb5a-kPKQjPGyer086bJpTwXnWmpJbMYou-XTSefMw7uVY",
+    "https://play-lh.googleusercontent.com/UY_s3dqhF4zSZyk0IrcHiKQ0mYMCVdWelOaZ5FArv7JEnGr2zUeia0hfXgBdHrkKAwk",
+    "https://play-lh.googleusercontent.com/sESpxwdv8E0ikwgAftqLbSDMc6ePzhlkYrRB1bf8HnZt9KbD9rbDq0G7YrhoXbkUkQ"
+  ],
+  "app_descript": "<p><strong>UPS Mobile</strong></p>\n<p><strong>Brief:</strong>\nThe UPS Mobile app is your go-to solution for all shipping and delivery needs, offering users a comprehensive suite of features. With this app, you can effortlessly track your shipments, manage delivery schedules, receive alerts on package arrivals, estimate shipping costs, and even create new shipments with ease. Whether you're a small business or need to stay on top of your incoming and outgoing packages, the UPS Mobile app streamlines the process, ensuring you're always in the loop.</p>\n<p><strong>Core Features:</strong></p>\n<ol>\n<li><strong>Delivery Tracking:</strong> Find and monitor the journey of your deliveries with real-time updates. 🌐</li>\n<li><strong>Delivery Management:</strong> Modify your delivery location or reschedule your delivery date to suit your convenience. 🔁</li>\n<li><strong>Shipping Estimator:</strong> Access estimated shipping costs and timelines before you send off your packages. 💰</li>\n<li><strong>In-App Measurement Tool:</strong> Measure package dimensions directly within the app for accurate shipping labels. 📏</li>\n<li><strong>UPS Location Finder:</strong> Locate the nearest UPS service point for easy package drop-off or collection. 📍</li>\n</ol>\n<p><strong>Pros:</strong></p>\n<ol>\n<li><strong>Real-time Notifications:</strong> Get alerts to stay informed about your package's expected arrival time. 🔔</li>\n<li><strong>User-Friendly Interface:</strong> Navigate the app with ease thanks to its intuitive design. 👆</li>\n<li><strong>On-the-Go Convenience:</strong> Manage shipments and track deliveries from anywhere, anytime. 🚚</li>\n<li><strong>Shipment Creation:</strong> Effortlessly create shipments and print labels directly from the app. 🖨️</li>\n<li><strong>Customizable Delivery Options:</strong> Optimize your delivery preferences, such as location and date, to fit your schedule. 🛠️</li>\n</ol>\n<p><strong>Cons:</strong></p>\n<ol>\n<li><strong>Limited Offline Functionality:</strong> Requires internet access for tracking and shipping features. 📶</li>\n<li><strong>Account Requirement:</strong> Must have a UPS account to access the full scope of app features. 📜</li>\n<li><strong>Device Compatibility:</strong> Some features may not be supported on older devices. 📱</li>\n<li><strong>Navigation Complexities:</strong> New users might find the array of options overwhelming at first. 🔄</li>\n<li><strong>Potential for Additional Fees:</strong> While the app is free, certain services may incur costs. 💸</li>\n</ol>\n<p><strong>Price:</strong>\nThe UPS Mobile app is free to download, but keep in mind that shipping services, label printing, and other features may be subject to standard UPS rates. Some in-app functionalities might also bring about additional charges. 💵</p>\n<p>Enjoy the enhanced efficiency of managing your deliveries with UPS Mobile – your pocket-sized assistant for all things shipping and delivery.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-kj2147575505-app/16858.html",
+      "icon": "assets/img/apk/icon/com.kj2147575505.app.png",
+      "name": "Alpha Omega Consulting",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-hypertide-petscan-v8m/15982.html",
+      "icon": "assets/img/apk/icon/com.hypertide.petscan.v8m.png",
+      "name": "PetScan",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "2"
+    },
+    {
+      "link": "/details/com-animalid-scanner/15981.html",
+      "icon": "assets/img/apk/icon/com.animalid.scanner.png",
+      "name": "Pet Scanner",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-webrange-sendoff-app/15417.html",
+      "icon": "assets/img/apk/icon/com.webrange.sendoff.app.png",
+      "name": "Sendoff Funeral App",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-dyve-countthings/10295.html",
+      "icon": "assets/img/apk/icon/com.dyve.countthings.png",
+      "name": "CountThings from Photos",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "3"
+    },
+    {
+      "link": "/details/com-countthis-count-things-counting-template-counter/5097.html",
+      "icon": "assets/img/apk/icon/com.countthis.count.things.counting.template.counter.png",
+      "name": "Count This・Counting Things App",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-aadi-personalitytraittest/4991.html",
+      "icon": "assets/img/apk/icon/com.aadi.personalitytraittest.png",
+      "name": "Personality Trait Test",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/GlowRoad/4569.html",
+      "icon": "assets/img/apk/icon/com.localqueen.png",
+      "name": "GlowRoad",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.6"
+    }
+  ]
+}

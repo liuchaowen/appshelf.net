@@ -1,0 +1,110 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/zello-ptt-walkie-talkie.png",
+    "title": "Zello PTT Walkie Talkie",
+    "ratings": "4.2",
+    "downloads": "540M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Zello PTT Walkie Talkie"
+    },
+    {
+      "name": "category",
+      "value": "Communication"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Zello Inc"
+    },
+    {
+      "name": "Version",
+      "value": "3.89"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/8Ud07Nk-tlMznYPQYfMW5YohzhbzQL2A2r38hvReCiKk8YII1vPpP2FAEE1RiwUjvt4",
+    "https://play-lh.googleusercontent.com/zmURFk9ppEnGVXjhjtKY9Q8X8i8WP-Qfi1ilZK_V057WqkApcN640guSqa19t3bVnA",
+    "https://play-lh.googleusercontent.com/ET2VU8ArmQf4F1MC11VM8f702J3odl6wkVsBxw3QFVUkTrxShXI-OODcsrccHxjPL_7C",
+    "https://play-lh.googleusercontent.com/9pp_LdzHeAuFYgE5R0rhTicEJmPKN39JNlS6a4-MEPTz7FsbBkPthSoyD8SeZFqdaAg",
+    "https://play-lh.googleusercontent.com/LyKnyhv7YK_rOF92iH15RV9KX3X0UxApt4lYvK0hdAR1dMWFHsR7DzLD9b_fDFEr_Q",
+    "https://play-lh.googleusercontent.com/5M8dyYgTIizSlwl5XTWV9nmYIYctERYksRo7yfQtLRNjqgXt-HMOhw1rJ9ALkb550g"
+  ],
+  "app_descript": "<p><strong>Zello PTT Walkie Talkie</strong></p>\n<p><strong>Brief:</strong>\nZello turns your smartphone into a walkie talkie with instant push-to-talk capabilities. This innovative app offers real-time streaming, high-quality voice communication with individuals or groups, and functions over various internet connections like WiFi and mobile data. With both public and private channels, customizable features, and support for a vast user base, Zello is designed to keep you connected in any situation.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>📡 <strong>High-Quality Voice Streaming:</strong> Real-time voice communication that doesn't compromise on clarity.</li>\n<li>👥 <strong>Extensive Channels:</strong> Establish conversations with up to 6000 users in both public and private settings.</li>\n<li>🎚 <strong>Hardware PTT Integration:</strong> Option to utilize a physical Push-To-Talk button for convenience.</li>\n<li>🎧 <strong>Bluetooth Compatibility:</strong> Works with Bluetooth headsets on selected phones for hands-free operation.</li>\n<li>🗺️ <strong>Location Tracking:</strong> Includes live location tracking alongside voice and image sharing capabilities with the Zello Work service.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 <strong>Cross-Platform Availability:</strong> Zello works across various network conditions including WiFi and 2G/3G/4G networks.</li>\n<li>👍 <strong>Easy Contact Management:</strong> The app allows you to easily add and manage contacts for quick communication.</li>\n<li>👍 <strong>Voice and Call Alerts:</strong> Notifications ensure you never miss important calls or messages.</li>\n<li>👍 <strong>Image Sharing:</strong> The ability to send images provides a more comprehensive communication experience.</li>\n<li>👍 <strong>Voice History:</strong> Keep track of previous conversations with the app’s voice history feature.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 <strong>Selective Bluetooth Support:</strong> Not all phones are supported which can limit functionality for some users.</li>\n<li>👎 <strong>Dependence on Internet:</strong> Requires an internet connection for use which could be limiting in areas with poor connectivity.</li>\n<li>👎 <strong>Limited Offline Functionality:</strong> Cannot send or store messages if the recipient is offline.</li>\n<li>👎 <strong>Hardware PTT Limitations:</strong> Mapping the hardware PTT button might not be feasible for all device types.</li>\n<li>👎 <strong>Location Services:</strong> Live location tracking is only available with the Zello Work service.</li>\n</ul>\n<p><strong>Price:</strong></p>\n<ul>\n<li>💵 <strong>Access Model:</strong> Zello is free to download with an optional subscription-based Zello Work service for additional features.</li>\n</ul>\n<p>Download this dynamic communication tool now and join users globally who have transformed their devices into versatile walkie talkies.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-sst-parrot-photo-frame/53901.html",
+      "icon": "assets/img/apk/icon/com.sst.parrot.photo.frame.png",
+      "name": "Bird Photo Frame",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-new_year-stickers-birthday/39669.html",
+      "icon": "assets/img/apk/icon/com.new_year.stickers.birthday.png",
+      "name": "Happy New Year Stickers 2026",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/org-watchduty-app/14524.html",
+      "icon": "assets/img/apk/icon/org.watchduty.app.png",
+      "name": "Watch Duty (Wildfire)",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-snowcorp-stickerly-android/14453.html",
+      "icon": "assets/img/apk/icon/com.snowcorp.stickerly.android.png",
+      "name": "Sticker.ly - Sticker Maker",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-Happynewyearphotoframe2020/14421.html",
+      "icon": "assets/img/apk/icon/com.Happynewyearphotoframe2020.png",
+      "name": "New Year Video Maker 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-intira-new-year-photo-frame-new/14342.html",
+      "icon": "assets/img/apk/icon/com.intira.new.year.photo.frame.new.png",
+      "name": "New year photo frame 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-christmas-photo-frame-b-new-free/14203.html",
+      "icon": "assets/img/apk/icon/com.christmas.photo.frame.b.new.free.png",
+      "name": "Christmas photo frame 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/ma-apps-face_ml/14137.html",
+      "icon": "assets/img/apk/icon/ma.apps.face_ml.png",
+      "name": "Face reader scanner - analyser",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "3.3"
+    }
+  ]
+}

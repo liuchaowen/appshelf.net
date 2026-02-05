@@ -1,0 +1,128 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/the-weather-channel.png",
+    "title": "The Weather Channel",
+    "ratings": "4.5",
+    "downloads": "840M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "The Weather Channel"
+    },
+    {
+      "name": "category",
+      "value": "Weather"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "The Weather Channel"
+    },
+    {
+      "name": "Version",
+      "value": "10.67.1"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/FesyCDrXqKEEiJQRnw3MEkoRF5n9WQyQQdPrTwnnHNK7-ayPcxBj_EuZyUCSA3jRFEs",
+    "https://play-lh.googleusercontent.com/YH5hwPioZrEtLqhmCIOu3cRbsVjbtZ81907VazrkUpaxmOIdYjQHm2groYe4FI5siBY",
+    "https://play-lh.googleusercontent.com/cTcszN0EuuuPeOvBn1ZHFzf9uNDq5QfmxNqX8LOTE4Yk5K9EeDwqRg6qV8Sf09xAzw",
+    "https://play-lh.googleusercontent.com/dqMwJl_f4Wukq_E-wrzfRRJ4_0xYmZteqN-q0KAQqty25Ud5vM1uyNyZOOQrmNlO4pw",
+    "https://play-lh.googleusercontent.com/A_MZa6fS-dmQgFiixYw2XRpISuH2RGm5jPLJmhto4QYljLh1tYHzcYMiQcbZjVouH3w",
+    "https://play-lh.googleusercontent.com/qNLtQXwRnhwgYKx4K6wTiLkmzK_5xLPgRvvSJFFgyojSc-LXMjDz-DZ6xvYGlX8NtQ",
+    "https://play-lh.googleusercontent.com/FRivZK1WdYOuWRO2y9I3fyap1q427RHXB7tOtiDZNSqlNWQlEKY8BpDE3CvypSa3HzYg",
+    "https://play-lh.googleusercontent.com/76RAJHagmjH9cOqUQzeTq1Pm7eDtKYQVTbvGWxFJ6NcaLzgwXj9jGsKHpJ1XVB6sWIE",
+    "https://play-lh.googleusercontent.com/p7PMwvgzcYYQ5nxOEbP0agv0UM60nNN6JRWS3OwBJpEd5yTRjZc6f9gGLxF1b3uOqA",
+    "https://play-lh.googleusercontent.com/alR4yV5_ttzSSKb9hejDSThlOU-G0nelo4_5CDAofn2wbbgPEEY4U7a1eEZ4xOPj4oA",
+    "https://play-lh.googleusercontent.com/FioO0otxI0OHNpHbZZ5SeAopqiolArJ-7uACxXuAdkXcBVEeuFJ5eHsRntaU4atEgIs",
+    "https://play-lh.googleusercontent.com/--qQ47ry8oAM3i_n4p42XAYZ2LP1_o0zis0ge1l0b7vDNUCjOKxZrXA7nnrwiVPGJGw",
+    "https://play-lh.googleusercontent.com/hlgwDIUJU3-KiRVrV2hqzKwbaX95XfXEaHa1waakufNLZTrPoMFDtrbKphGcwQMP5kxp",
+    "https://play-lh.googleusercontent.com/LyAvIgLQCPYOtki34I2Uj9IvihBo-DOGamJx8fvNmm_GXfxYYpzxKgEEck9SLOWZho4",
+    "https://play-lh.googleusercontent.com/dfiPb_dRyxFcTRWRMFX1mqx30T3aw6LCBbbvMJ2cEMZEBJ9MHOnlUZb_Adwkz1ImJQ",
+    "https://play-lh.googleusercontent.com/e3CtxKmi9PvhmTNfiBsVKSGB7xFzo6qVAZBi2pNwmpF3s6ExpOOOKp4VmRTSv4KT0g",
+    "https://play-lh.googleusercontent.com/Go4IH2qf5oKsk-bL0dnufxAoZn9tWzq1FDrw4xXpMvIlIY0HO3dIZatFHGRq4Gv5V9li",
+    "https://play-lh.googleusercontent.com/QCFZfBfnTo3DnpMFs42NQdqA5XZljHyl5bPUL_KM4QTD5Ekrgywl1alqu4eCUBb9bB4",
+    "https://play-lh.googleusercontent.com/aRmGj-wRC5ThyRx60wDUis4MYEztuDH8AAjOvuGQkzaNNsI19plxGvl4P07nWkfRrIZz",
+    "https://play-lh.googleusercontent.com/S2_omBLtc72X0keDlZf21f7b6Xjx_AQisXFTKu8YRBhh18JmyPe8TY5Q8mcxzV7tXFQ",
+    "https://play-lh.googleusercontent.com/724BA2l-ule16vEpJ4T0dl4H16q5p-Unj9PIBm9ollbgGLo4mgSsz3sf5VyTOOcLXQ",
+    "https://play-lh.googleusercontent.com/FtdH7LkyiJ7_3YRjmdzoIvBsc6krYh3tGq8KojATtVasdkgAw1h_XWIbKUd6ipOJCw",
+    "https://play-lh.googleusercontent.com/DVQNGORpjLB93pzbt8sQ7qCDajTLnDNYiOpKaoQ-6ILPs_l8TV-wK5_HqpSlruyOI1Sy",
+    "https://play-lh.googleusercontent.com/PftoOQJrtNong6qZbSw86Hca2sAVdgYjqO2VMIcH1lE3AllDVBwrTTSms4GuCBZ21Ag"
+  ],
+  "app_descript": "<h1>The Weather Channel</h1>\n<h3>Brief</h3>\n<p>The Weather Channel stands as the world’s leading weather forecast app, dedicated to providing detailed and accurate weather information. Its user-friendly interface and comprehensive features cater to anyone in need of weather-related updates, be it to plan a day outdoors or to get ahead of dynamic weather patterns like winter storm Izzy.</p>\n<h3>Core Features 📌</h3>\n<ul>\n<li><strong>Personalized Forecasts:</strong> Access to hourly, weekend, and 15-day weather predictions catering to your specific needs.</li>\n<li><strong>Radar Maps &amp; Street Conditions:</strong> High-quality radar maps displaying real-time street conditions, including data on storms and hurricanes.</li>\n<li><strong>Dynamic Home Screen (Android Exclusive):</strong> A customizable home screen that adapts to your location and weather updates.</li>\n<li><strong>Hurricane Central:</strong> A feature designed to track storm activities and assist in preparation for hurricanes and severe weather events.</li>\n<li><strong>Detailed Weather Data Reporting:</strong> Provides in-depth current weather details like temperature, humidity, wind speed, and more.</li>\n</ul>\n<h3>Pros 👍</h3>\n<ul>\n<li><strong>Cross-Platform Availability:</strong> Accessible on Android, iOS, and Windows devices, including wearable tech like Android Wear and Apple Watch.</li>\n<li><strong>Sharing Capabilities:</strong> Easily share current weather conditions with friends through a dedicated share feature.</li>\n<li><strong>Comprehensive Weather Details:</strong> Not only the basics but also UV index, sunrise/sunset time, dew point, visibility, etc. </li>\n<li><strong>Interactive Maps:</strong> Includes past and future radar, satellite views, and information on wind speeds and snow cover.</li>\n<li><strong>Widget Customization:</strong> Offers redesigned weather widgets in various sizes for quick access to weather updates.</li>\n</ul>\n<h3>Cons 👎</h3>\n<ul>\n<li><strong>Information Overload:</strong> Some users may find the array of detailed weather data overwhelming.</li>\n<li><strong>Platform-Specific Features:</strong> Certain functionalities like the dynamic home screen are exclusive to Android users.</li>\n<li><strong>Ad Intrusion:</strong> The presence of ads can detract from the user experience unless subscribed to the premium version.</li>\n<li><strong>Battery Usage:</strong> The app can be a significant drain on device batteries, especially with frequent location updates.</li>\n<li><strong>Network Dependency:</strong> Real-time updates require a stable internet connection, which may be unreliable or unavailable in certain areas.</li>\n</ul>\n<h3>Price 💵</h3>\n<p>The Weather Channel app is free to download and use, with optional in-app purchases for those who wish to remove ads and unlock premium features.</p>\n<h3>Community 🕸️</h3>\n<ul>\n<li><strong>Official Website:</strong> <a href=\"https://weather.com/\" rel=\"noopener noreferrer\" target=\"_blank\">The Weather Channel</a></li>\n<li><strong>Facebook:</strong> <a href=\"https://www.facebook.com/TheWeatherChannel/\" rel=\"noopener noreferrer\" target=\"_blank\">The Weather Channel on Facebook</a></li>\n<li><strong>Twitter:</strong> <a href=\"https://twitter.com/weatherchannel\" rel=\"noopener noreferrer\" target=\"_blank\">The Weather Channel on Twitter</a></li>\n<li><strong>YouTube:</strong> <a href=\"https://www.youtube.com/user/TheWeatherChannel\" rel=\"noopener noreferrer\" target=\"_blank\">The Weather Channel on YouTube</a></li>\n<li><strong>Instagram:</strong> <a href=\"https://www.instagram.com/weatherchannel/\" rel=\"noopener noreferrer\" target=\"_blank\">The Weather Channel on Instagram</a></li>\n</ul>\n<p>(Note: The Community section reflects available data on social media platforms related to The Weather Channel. Some platforms like Discord, TikTok, and Reddit may not have dedicated channels for this app and are thus not listed.)</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-eet-weather-launcher/15703.html",
+      "icon": "assets/img/apk/icon/com.eet.weather.launcher.png",
+      "name": "Weather Now Launcher - Radar",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "3.6"
+    },
+    {
+      "link": "/details/com-daily-forecast-weather-radar/4930.html",
+      "icon": "assets/img/apk/icon/com.daily.forecast.weather.radar.png",
+      "name": "Daily Forecast: Weather&Radar",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-mahersafadi-sunny/4921.html",
+      "icon": "assets/img/apk/icon/com.mahersafadi.sunny.png",
+      "name": "Sunny: Weather forecast",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4"
+    },
+    {
+      "link": "/details/WeatherPal/4628.html",
+      "icon": "assets/img/apk/icon/com.precise.opliging.kitan.png",
+      "name": "WeatherPal",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/live-weather/2063.html",
+      "icon": "assets/img/apk/icon/com.appsinnova.weatherforecast.liveweather.png",
+      "name": "Live Weather",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/radarnow/2062.html",
+      "icon": "assets/img/apk/icon/com.usnaviguide.radar_now.png",
+      "name": "RadarNow!",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/local-weather/2061.html",
+      "icon": "assets/img/apk/icon/com.weather.forecast.channel.local.png",
+      "name": "Local Weather",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/iqair-airvisual/2060.html",
+      "icon": "assets/img/apk/icon/com.airvisual.png",
+      "name": "IQAir AirVisual",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.6"
+    }
+  ]
+}

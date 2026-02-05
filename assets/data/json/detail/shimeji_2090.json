@@ -1,0 +1,108 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.digitalcosmos.shimeji.png",
+    "title": "Shimeji",
+    "ratings": "4.6",
+    "downloads": "300M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Shimeji"
+    },
+    {
+      "name": "category",
+      "value": "Photography"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Digital Cosmos"
+    },
+    {
+      "name": "Version",
+      "value": "4.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/yCKFq-Yi0Dx8JLjIFh7wkWDU2wJSOtzA047o89RyhKg90YK5kZHbMAHNPfyMw1lANQ",
+    "https://play-lh.googleusercontent.com/ruDRtMJhbsE-yrzDs1EcW1nToxqYd44VfYO5al96cHmklP8SUOwsAY7nxiFfhk7ckVw",
+    "https://play-lh.googleusercontent.com/gcq5sgeNNV6RejcKHRA-2w0GQMHKWaSzLs_jCtntvrFCMhRjCMOnVzgmjHF-0AZtjrIZ",
+    "https://play-lh.googleusercontent.com/tZV0lSkyk_3h-jYSjg-wnu_6vDulaCVN9aZU31Az6BVOz06Hp3mnxdUWoec1BaYrGrs"
+  ],
+  "app_descript": "<p><strong>Brief:</strong>\nShimeji offers an innovative live wallpaper experience by bringing a collection of animated mascots to your device's background. With regular updates featuring new characters and animations, Shimeji aims to ascend to the pinnacle of customization apps. Users are encouraged to contribute to its journey by trying out the app and providing honest feedback. For those curious about the creators behind the characters, Shimeji has an in-app Credits section dedicated to the artists.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🎨 <strong>Diverse Mascot Animations:</strong> Enjoy a rich variety of animated characters that bring life to your phone's backdrop. 📱</li>\n<li>🆕 <strong>Regular Updates:</strong> Stay excited for new Shimeji characters added regularly to expand your collection. 🔄</li>\n<li>💬 <strong>User Feedback Emphasis:</strong> Shimeji values your opinion, offering a platform to review and request new features or characters. ✉️</li>\n<li>🎖️ <strong>Artist Recognition:</strong> Gain insight into the talented artists who create the Shimeji characters through the Credits section. 🖌️</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👑 <strong>Personalization King:</strong> Tailor your phone's aesthetic to your preferences with a vast selection of characters. 👤</li>\n<li>✨ <strong>Enhanced Interaction:</strong> Experience a dynamic and interactive wallpaper rather than a static image. 🌟</li>\n<li>💓 <strong>Community-Driven:</strong> The app evolves based on the reviews and suggestions from its user base. 🔄</li>\n<li>🎭 <strong>Artistic Appreciation:</strong> Celebrates and credits the artistry involved, fostering a sense of community. 🤝</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>🔋 <strong>Potential Battery Usage:</strong> Live wallpapers might consume more battery than traditional static backgrounds. 🔌</li>\n<li>🔄 <strong>Update Dependency:</strong> The excitement of the app is reliant on receiving new updates and characters. 📥</li>\n<li>📲 <strong>Space Consideration:</strong> As the collection grows, it could take up more space on your device. 💾</li>\n<li>👀 <strong>Niche Appeal:</strong> May not appeal to users who prefer a minimalist or professional look for their device. 🧐</li>\n</ul>\n<p><strong>Price:</strong></p>\n<ul>\n<li>💵 <strong>Accessibility:</strong> Shimeji is free to download and install, with potential in-app purchases for additional content. 🛒</li>\n</ul>\n<p><strong>Community:</strong>\nThe community aspects such as the official site, YouTube channel, and social media presence for Shimeji are not readily available in the provided data. However, should this information become available, it could significantly enhance the user experience by allowing for an even deeper engagement with the app's community of artists and enthusiasts.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-bhimaapps-valentineday/54159.html",
+      "icon": "assets/img/apk/icon/com.bhimaapps.valentineday.png",
+      "name": "Valentine Day Live Wallpaper",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "3"
+    },
+    {
+      "link": "/details/com-St-ValentinesDayLiveWallpaper/54154.html",
+      "icon": "assets/img/apk/icon/com.St.ValentinesDayLiveWallpaper.png",
+      "name": "Valentines Day Live Wallpaper",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-plaxa-parallax3d-wallpaper-overlay-touch-effect-aura/53773.html",
+      "icon": "assets/img/apk/icon/com.plaxa.parallax3d.wallpaper.overlay.touch.effect.aura.png",
+      "name": "Plaxa: Parallax Aura Wallpaper",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-happynewyear-hdwallpapers/49048.html",
+      "icon": "assets/img/apk/icon/com.happynewyear.hdwallpapers.png",
+      "name": "Happy New Year 2026 Wallpaper",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-photo-editor-photocalendar/49045.html",
+      "icon": "assets/img/apk/icon/com.photo.editor.photocalendar.png",
+      "name": "Calendar Maker: Photo Editor",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-watchfacestudio-animatedanalogfireworkswatchface/48946.html",
+      "icon": "assets/img/apk/icon/com.watchfacestudio.animatedanalogfireworkswatchface.png",
+      "name": "Fireworks Happy New Year's Eve",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/happy-neww-bighabits-year-images-wishes-gifs-day-stickers-wallpaper/48940.html",
+      "icon": "assets/img/apk/icon/happy.neww.bighabits.year.images.wishes.gifs.day.stickers.wallpaper.png",
+      "name": "Happy New Year 2026 Habits",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-starwatchfaces-hnyanimated/48934.html",
+      "icon": "assets/img/apk/icon/com.starwatchfaces.hnyanimated.png",
+      "name": "Happy New Year Animated",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4"
+    }
+  ]
+}

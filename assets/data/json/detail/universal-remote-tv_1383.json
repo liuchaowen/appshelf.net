@@ -1,0 +1,112 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.universal.tv.remote.control.all.tv.controller.png",
+    "title": "Universal remote tv",
+    "ratings": "4.8",
+    "downloads": "340M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Universal remote tv"
+    },
+    {
+      "name": "category",
+      "value": "House & Home"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "TV Master - Smart TV Remote Control"
+    },
+    {
+      "name": "Version",
+      "value": "2.9.0.1"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/ylKK-2n46-bEZiDGg0U7iIg0jp2CGlR38uVnRdelOvcJDVQaked9rn15CB0lvsCXhg",
+    "https://play-lh.googleusercontent.com/JzxcPjhROd9MG4GhuCzL5hRgA4u-Uq-yqNXkNaR65HdY0VAg6s1_TSKMHEyl4aTno-E",
+    "https://play-lh.googleusercontent.com/uqcO2YSsOfmytBgtT94CaCqx6Xc5Y1RbbJu25vGvdzboZ3E7UF2O262J_4j_iSNKeeS3",
+    "https://play-lh.googleusercontent.com/YJhPfwvhmyuHDMgNJDsdBnLVwVp8cxKnBauYFfF5Lbjwx3jAGysxn7qvVfWX6znipGE",
+    "https://play-lh.googleusercontent.com/11ZBVdLaQBynD8qWnYWY1JqJ8_nDo1RHKOortdFv8cc-QRSNWBH7yER7kTzN0zebQYlG",
+    "https://play-lh.googleusercontent.com/d-5z3edq-b1nFX7J1I6M5L8I8MmNM_GmpacaGRP8igw1hGxRwnSSH30VBd07jRGM_JKL",
+    "https://play-lh.googleusercontent.com/Z8DzmCW86WAUF25MZX__jDrpxQBXeYpc53veeMMd6VfuAgwzEiQdFgm3dq7bCKbmgRo",
+    "https://play-lh.googleusercontent.com/KGVnJa58ZRbSBc3KYL3YX1zDuNsNkw5rF4FivSY_Q_iLnmA-ZM-ioZsjz--gnhcRCesd"
+  ],
+  "app_descript": "<h2>Universal Remote TV</h2>\n<p><strong>Brief</strong>:\nNo need to panic when your physical remote runs out of battery! Universal Remote TV is an innovative app designed to turn your Android phone with an infrared function into a universal control device for a multitude of TVs across various brands. With swift setup and user-friendly interface, this app serves as your electric ally that eases the inconvenience of handling multiple remotes for different devices.</p>\n<p><strong>Core Features</strong>:</p>\n<ul>\n<li><strong>Multi-Brand Compatibility</strong>: Supports over 20,000 TV models, providing flexibility and convenience for controlling different brands with a single app 📺.</li>\n<li><strong>IR Blaster Requirement</strong>: Leverages the infrared function of your Android phone to control TVs, ensuring compatibility with IR-enabled devices 🔴.</li>\n<li><strong>Straightforward UI</strong>: Boasts an elegant and responsive user interface, making navigation and control simple and intuitive 🎨.</li>\n<li><strong>No More Batteries</strong>: Say goodbye to purchasing batteries for your remotes. This app has got you covered for sustainable control 🔋.</li>\n<li><strong>Custom Device Management</strong>: Offers the ability to save multiple custom devices for quick access and control 🔧.</li>\n</ul>\n<p><strong>Pros</strong>:</p>\n<ul>\n<li>👍 Cost-effective solution to replace physical remotes, avoiding additional expenses on batteries.</li>\n<li>👍 Easy setup with a 3-step process: search your TV model, download the pack, and control your TV instantly.</li>\n<li>👍 Intuitive design focused on enhancing user experience and interaction with the TV.</li>\n<li>👍 Real-time remote action for increased responsiveness.</li>\n</ul>\n<p><strong>Cons</strong>:</p>\n<ul>\n<li>👎 Relies on the presence of an IR blaster in your Android device, limiting usage for phones without this feature.</li>\n<li>👎 Not an official remote control product of any TV brand, which may affect consumer trust.</li>\n<li>👎 As it is a universal remote app, it might lack some specific functions dedicated to particular TV models.</li>\n<li>👎 Requires initial download of source packs for the specific TV model which might not be as straightforward for non-tech-savvy users.</li>\n</ul>\n<p><strong>Price</strong>:\nThe Universal Remote TV app is a free-to-download application. Any details about in-app purchases, if present, are unspecified 💵.</p>\n<p><em>Please note that this app is not affiliated with the TV brands listed and it requires your phone to support an infrared (IR) emitter to function properly.</em> </p>\n<p>Enjoy seamless control of your TVs, DVD players, VCRs, and set-top boxes with Universal Remote TV. Share the ease and functionality with friends and family, and enjoy the benefits of having an all-in-one remote on your Android device.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-gg-housedesign-draw-houseplan-free/54045.html",
+      "icon": "assets/img/apk/icon/com.gg.housedesign.draw.houseplan.free.png",
+      "name": "House Design Plan 3D App",
+      "categoryLink": "/en/categories/house.home/13",
+      "category": "House & Home",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-eteks-sweethome3d-mobile/54039.html",
+      "icon": "assets/img/apk/icon/com.eteks.sweethome3d.mobile.png",
+      "name": "Sweet Home 3D: Plan your house",
+      "categoryLink": "/en/categories/house.home/13",
+      "category": "House & Home",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-belightsoft-livehome3d/54033.html",
+      "icon": "assets/img/apk/icon/com.belightsoft.livehome3d.png",
+      "name": "Live Home 3D: House Design",
+      "categoryLink": "/en/categories/house.home/13",
+      "category": "House & Home",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-trulia-android-rentals/14398.html",
+      "icon": "assets/img/apk/icon/com.trulia.android.rentals.png",
+      "name": "Trulia Rent Apartments & Homes",
+      "categoryLink": "/en/categories/house.home/13",
+      "category": "House & Home",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/tenantapp-properties-for-rent/1394.html",
+      "icon": "assets/img/apk/icon/com.ire.tenantapp.png",
+      "name": "TenantApp Properties For Rent",
+      "categoryLink": "/en/categories/house.home/13",
+      "category": "House & Home",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/duproprio/1393.html",
+      "icon": "assets/img/apk/icon/com.duproprio.app.png",
+      "name": "DuProprio",
+      "categoryLink": "/en/categories/house.home/13",
+      "category": "House & Home",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/prime-wire-and-cable/1392.html",
+      "icon": "assets/img/apk/icon/com.prime.on.png",
+      "name": "PRIME Wire and Cable",
+      "categoryLink": "/en/categories/house.home/13",
+      "category": "House & Home",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/zolo/1391.html",
+      "icon": "assets/img/apk/icon/com.ols.zolo.png",
+      "name": "Zolo",
+      "categoryLink": "/en/categories/house.home/13",
+      "category": "House & Home",
+      "rating": "4.2"
+    }
+  ]
+}

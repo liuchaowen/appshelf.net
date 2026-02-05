@@ -1,0 +1,109 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/psiphon.png",
+    "title": "Psiphon",
+    "ratings": "4.6",
+    "downloads": "510M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Psiphon"
+    },
+    {
+      "name": "category",
+      "value": "Communication"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Psiphon Inc."
+    },
+    {
+      "name": "Version",
+      "value": "385"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/R3suN4As_4GwYDLBLEw0acrPAyvUzFM6a9y6XgRrXQwXb-NYvZ44vD6KlxJo3UfEL0E",
+    "https://play-lh.googleusercontent.com/Mmk5SG0HFVZAf4_ncKQnZS4X7DN-3MSbfOB8SJFY_JpwKZvykXfXsqq0tIHlFnw9qw",
+    "https://play-lh.googleusercontent.com/jjt1KjalLvcxf1kF_yNN1maq-kFwZcAJYVE2eHCqp6Y_KxRbgsVxY96eUFV5vGHbXds",
+    "https://play-lh.googleusercontent.com/e7bba5d5iv4zYEDWC-xbyyjoVyUxkkPy-2XKKPcGLL7lj7aoJSgUpcCnCUrvteptiQ",
+    "https://play-lh.googleusercontent.com/L-UrH7yiIN1wg73P2rOl6Kl1-5aE-LZEhIpkgv8-JWhnGTui8w88R3pHyTjtPOkV8_s"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> Psiphon<br/>\n<strong>App Package Name:</strong> com.psiphon3</p>\n<h3>Brief:</h3>\n<p>Psiphon is an internet-access application designed to offer user-friendly means to bypass censorship and access content without geographic limitation. The app establishes its connection the moment it opens and offers multiple tunnel modes to navigate restrictive networks. Psiphon appeals to those seeking open, private, and uncensored web access.</p>\n<h3>Core Features:</h3>\n<ul>\n<li><strong>Multiple Tunnel Modes</strong> 🛠: Choose between VPN, SSH, and SSH+ to maintain connection efficiency and reliability.</li>\n<li><strong>Integrated Web Browser</strong> 🌐: With features like bookmark saving and customizable startup pages, browsing is made seamless.</li>\n<li><strong>Registration-Free Usage</strong> 🔓: Jump straight into browsing without the need for sign-ups, subscriptions, or complex configurations.</li>\n<li><strong>Automatic Protocol Selection</strong> 🤖: Intelligent choice of protocols ensures effective circumvention of restrictions without manual intervention.</li>\n<li><strong>In-app Usage Statistics</strong> 📊: Keep track of your data traffic with the in-built stats tracking feature.</li>\n</ul>\n<h3>Pros:</h3>\n<ul>\n<li><strong>Unrestricted Global Access</strong> 👍: Psiphon provides a gateway to internet content around the world, circumventing geo-blocks.</li>\n<li><strong>User-Friendly Interface</strong> 💨: The application is designed for simplicity and speed, aiding in quick connection and ease of use.</li>\n<li><strong>Privacy Protection</strong> 🛡: Maintains user anonymity and safeguards information while browsing the internet.</li>\n<li><strong>Cost-Effective</strong> 💸: Free for personal use, making internet freedom accessible without a price barrier.</li>\n</ul>\n<h3>Cons:</h3>\n<ul>\n<li><strong>Legal Concerns</strong> ⚠️: Users should be aware of potential legal implications associated with circumventing internet restrictions in their region.</li>\n<li><strong>Variable Connection Stability</strong> 🔄: Depending on the region and restrictions in place, some users may experience less stable connections.</li>\n<li><strong>Ad-Supported</strong> 🚫: To keep the service free, ads may be present, potentially affecting user experience.</li>\n<li><strong>No Explicit Security Claims</strong> 🔓: While user privacy is protected, there are no claims of encryption or advanced security features.</li>\n</ul>\n<h3>Pricing:</h3>\n<p><strong>Free</strong> 💵: Psiphon is free for personal use, providing open access with no financial commitment.</p>\n<p><em>Community information is not applicable as Psiphon is not a game app.</em></p>\n<hr/>\n<p>With Psiphon, the promise of an unrestricted digital world is a simple download away. The freedom to explore any content, with the safeguard of anonymity, is complemented by practical features that make it more than just a circumvention tool—it's a comprehensive browsing companion. Users should, however, consider the legal environment they operate in, as the app grants capabilities that may be at odds with specific regional regulations.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-sst-parrot-photo-frame/53901.html",
+      "icon": "assets/img/apk/icon/com.sst.parrot.photo.frame.png",
+      "name": "Bird Photo Frame",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-new_year-stickers-birthday/39669.html",
+      "icon": "assets/img/apk/icon/com.new_year.stickers.birthday.png",
+      "name": "Happy New Year Stickers 2026",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/org-watchduty-app/14524.html",
+      "icon": "assets/img/apk/icon/org.watchduty.app.png",
+      "name": "Watch Duty (Wildfire)",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-snowcorp-stickerly-android/14453.html",
+      "icon": "assets/img/apk/icon/com.snowcorp.stickerly.android.png",
+      "name": "Sticker.ly - Sticker Maker",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-Happynewyearphotoframe2020/14421.html",
+      "icon": "assets/img/apk/icon/com.Happynewyearphotoframe2020.png",
+      "name": "New Year Video Maker 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-intira-new-year-photo-frame-new/14342.html",
+      "icon": "assets/img/apk/icon/com.intira.new.year.photo.frame.new.png",
+      "name": "New year photo frame 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-christmas-photo-frame-b-new-free/14203.html",
+      "icon": "assets/img/apk/icon/com.christmas.photo.frame.b.new.free.png",
+      "name": "Christmas photo frame 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/ma-apps-face_ml/14137.html",
+      "icon": "assets/img/apk/icon/ma.apps.face_ml.png",
+      "name": "Face reader scanner - analyser",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "3.3"
+    }
+  ]
+}

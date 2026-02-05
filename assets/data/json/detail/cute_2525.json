@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/com.contextlogic.cute.png",
+    "title": "Cute",
+    "ratings": "4.4",
+    "downloads": "730M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Cute"
+    },
+    {
+      "name": "category",
+      "value": "Shopping"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Wish Inc."
+    },
+    {
+      "name": "Version",
+      "value": "3.0.5"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p>It looks like there is no original app summary provided within the HTML content for the app named 'Cute'. However, I can provide a general description that you might be looking for based on the app's name and package name, which suggests that it's related to the shopping platform managed by ContextLogic.</p>\n<h3>Brief</h3>\n<p>Cute is a delightful mobile shopping app that brings a world of trendy and affordable beauty and accessory products to your fingertips. Designed with a user-friendly interface, this app makes it easy to discover the latest deals on charming goods that can enhance your style and daily routine.</p>\n<h3>Core Features</h3>\n<ul>\n<li>🎀 Trendy Products: Explore a vast selection of beauty and fashion accessories updated regularly to keep up with current trends.</li>\n<li>💸 Bargain Prices: Enjoy competitive pricing, with goods offered at a fraction of the cost found in traditional stores.</li>\n<li>🛍️ Easy Navigation: Simple, intuitive layout to quickly find what you're looking for, making shopping a breeze.</li>\n<li>💖 Wish List: Save items that catch your eye and purchase them later, ensuring you never miss out on your desired products.</li>\n<li>🚀 Fast Shipping: Benefit from efficient shipping options that ensure your purchases arrive as soon as possible.</li>\n</ul>\n<h3>Pros</h3>\n<ul>\n<li>👛 Cost-Effective Shopping: Access to a wide array of products at prices that won't break the bank.</li>\n<li>🕵️‍♀️ Discover New Finds: Daily updates provide fresh items to discover, perfect for those who love to be on the lookout for the next cute thing.</li>\n<li>❤️ User-Friendly Experience: The user interface is designed for easy browsing, making shopping both fun and straightforward.</li>\n<li>🏷️ Exclusive Deals: Users often have access to exclusive offers, discounts, and promotions available only through the app.</li>\n</ul>\n<h3>Cons</h3>\n<ul>\n<li>👀 Overwhelming Selection: The vast number of products might be overwhelming for some users who prefer curated selections.</li>\n<li>🌐 Internet Dependency: Requires a consistent internet connection for browsing and purchasing, which might be a limitation in areas with poor connectivity.</li>\n<li>🧾 Variable Quality: As with many online shopping experiences, the quality of products can vary and may not always meet expectations.</li>\n<li>🔔 Notification Abundance: The app may send frequent notifications, which can be distracting or bothersome for some users.</li>\n</ul>\n<h3>Price</h3>\n<ul>\n<li>💵 The Cute app is free to download and offers in-app purchases. Prices for items vary, and there might be additional costs for shipping or premium features.</li>\n</ul>\n<p><em>(Since the app 'Cute' is a shopping platform and not a game, the community section is not included according to the given constraints.)</em></p>\n<p>The concise, structured description should help potential users gain a clear understanding of what to expect from the Cute app and decide if it aligns with their shopping preferences.</p>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-seagm-store/54458.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.seagm.store.png",
+      "name": "SEAGM - Games Topup, Gift Card",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.7"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-gowish-app/39285.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.gowish.app.png",
+      "name": "GoWish - Your Digital Wishlist",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.7"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-aldisued-shopgo/16934.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.aldisued.shopgo.png",
+      "name": "ALDI SHOP&GO",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.2"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-wakefern-shoprite/16933.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.wakefern.shoprite.png",
+      "name": "ShopRite: Groceries & Savings",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.7"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-yaxo-vancamper/16894.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.yaxo.vancamper.png",
+      "name": "Vancamper: Buy sell campervans",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.8"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-elfster-elfdroid/16861.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.elfster.elfdroid.png",
+      "name": "Elfster: The Secret Santa App",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.7"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-biggu-shopsavvy/16860.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.biggu.shopsavvy.png",
+      "name": "ShopSavvy - Barcode Scanner",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/moloapps-gifttracker/16845.html",
+      "icon": "https://img.buzzsight.co/apk/icon/moloapps.gifttracker.png",
+      "name": "GiftTracker : Gift List Helper",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.1"
+    }
+  ]
+}

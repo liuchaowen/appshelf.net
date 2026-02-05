@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/scrabble.png",
+    "title": "SCRABBLE",
+    "ratings": "4.8",
+    "downloads": "290M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "SCRABBLE"
+    },
+    {
+      "name": "category",
+      "value": "Word"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "ELECTRONIC ARTS"
+    },
+    {
+      "name": "Version",
+      "value": "5.36.0.938"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>SCRABBLE</strong></p>\n<p><strong>Brief:</strong>\nUnleash your vocabulary prowess in the classic board game brought to the digital realm. SCRABBLE for mobile is an engaging word game that lets you compete against friends, random opponents, or the computer itself. Whether you're honing your skills or looking for a fun way to learn new words, SCRABBLE provides an interactive platform to test your lexical mettle.</p>\n<p>📌 <strong>Core Features:</strong></p>\n<ul>\n<li><em>Tile &amp; Word Gameplay</em>: Craft words on the board using your given set of tiles to outscore your opponents 🎲.</li>\n<li><em>Multiple Play Options</em>: Challenge friends on Facebook, pair with random opponents, or play solo against the computer 💻.</li>\n<li><em>Learning Tool \"Teacher\"</em>: After each round, discover the best word you could have played to boost your word game skills 🏫.</li>\n<li><em>Speed Play Mode</em>: Spice up the game with a time limit challenge for brisk and exciting sessions ⏱️.</li>\n<li><em>Child-Friendly Interface</em>: Suitable for ages 13+, it turns learning new words into a fun activity for younger players 👪.</li>\n</ul>\n<p>👍 <strong>Pros:</strong></p>\n<ul>\n<li><em>Pleasing Visuals</em>: Enjoy beautiful graphics and an intuitive touch interface 🎨.</li>\n<li><em>Social Interaction</em>: Play and chat with friends or new players within the app 🗣️.</li>\n<li><em>In-Game Communication</em>: Keep conversations going with in-game chat feature 💬.</li>\n</ul>\n<p>👎 <strong>Cons:</strong></p>\n<ul>\n<li><em>Intrusive Advertisements</em>: Ad content can occasionally disrupt the game experience 🚫.</li>\n<li><em>Extended Wait</em>: There might be delays between turns, affecting the game flow ⏳.</li>\n</ul>\n<p>💵 <strong>Price:</strong>\nSCRABBLE is a free-to-play game, though it may include in-game advertising and potential in-app purchases. The details about in-app purchase options must be checked directly within the app.</p>\n<p>🕸️ <strong>Community:</strong>\nThe community around SCRABBLE is expansive, with numerous players engaging through various platforms. You can find helpful tips and connect with fellow word enthusiasts through the following channels:</p>\n<ul>\n<li><a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Official site</a></li>\n<li><a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">YouTube</a></li>\n<li><a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">There might be a popular YouTuber's channel dedicated to SCRABBLE</a></li>\n<li><a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a></li>\n<li><a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Facebook</a></li>\n<li><a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Instagram</a></li>\n<li><a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">TikTok</a></li>\n<li><a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Reddit</a></li>\n<li><a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Discord</a></li>\n<li><a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Fandom Wiki</a></li>\n</ul>\n<p>(Note: Actual links are not provided in this example. Replace '#' with the proper URL of the relevant communities related to SCRABBLE.)</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-yourname-yourstory/39358.html",
+      "icon": "assets/img/apk/icon/com.yourname.yourstory.png",
+      "name": "Your Story",
+      "categoryLink": "/en/categories/word/48",
+      "category": "Word",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/fun-neal-infinite-craft/13995.html",
+      "icon": "assets/img/apk/icon/fun.neal.infinite.craft.png",
+      "name": "Infinite Craft by Neal",
+      "categoryLink": "/en/categories/word/48",
+      "category": "Word",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/block-word-puzzle-crush/4968.html",
+      "icon": "assets/img/apk/icon/block.word.puzzle.crush.png",
+      "name": "ワード消し",
+      "categoryLink": "/en/categories/word/48",
+      "category": "Word",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/dh3games-namemeaning/4884.html",
+      "icon": "assets/img/apk/icon/dh3games.namemeaning.png",
+      "name": "My Name Meaning",
+      "categoryLink": "/en/categories/word/48",
+      "category": "Word",
+      "rating": "3.6"
+    },
+    {
+      "link": "/details/com-braindom/4834.html",
+      "icon": "assets/img/apk/icon/com.braindom.png",
+      "name": "Braindom: Brain Games Test",
+      "categoryLink": "/en/categories/word/48",
+      "category": "Word",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/crossword-jam/3942.html",
+      "icon": "assets/img/apk/icon/in.playsimple.tripcross.png",
+      "name": "Crossword Jam",
+      "categoryLink": "/en/categories/word/48",
+      "category": "Word",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/daily-themed-crossword/3941.html",
+      "icon": "assets/img/apk/icon/in.crossy.daily_crossword.png",
+      "name": "Daily Themed Crossword",
+      "categoryLink": "/en/categories/word/48",
+      "category": "Word",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/word-trivia/3940.html",
+      "icon": "assets/img/apk/icon/trivia.quiz.trivia.star.millionaire.word.question.offine.game.free.png",
+      "name": "Word Trivia",
+      "categoryLink": "/en/categories/word/48",
+      "category": "Word",
+      "rating": "4.8"
+    }
+  ]
+}

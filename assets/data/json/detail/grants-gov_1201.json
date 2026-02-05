@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.mobile_grants.png",
+    "title": "Grants.gov",
+    "ratings": "4.4",
+    "downloads": "650M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Grants.gov"
+    },
+    {
+      "name": "category",
+      "value": "Education"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Official Grants.gov App"
+    },
+    {
+      "name": "Version",
+      "value": "3.1.0"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> Grants.gov<br/>\n<strong>App Package Name:</strong> com.mobile  </p>\n<hr/>\n<h3>Brief:</h3>\n<p>The Grants.gov mobile app serves as a crucial portal for individuals and organizations seeking federal grants. Offering powerful research tools and seamless submission capabilities, this application enables users to navigate the intricate process of finding and applying for federal funding right from their smartphones.</p>\n<h3>Core Features: 📌</h3>\n<ol>\n<li>Extensive Search Options: Locate federal grants using keywords, CFDA numbers, or specific agencies 🧐</li>\n<li>Customizable Alerts: Subscribe to funding opportunities and receive updates directly through the app 🔔</li>\n<li>Direct Submission: Complete and submit grant applications from within the app, for users with granting privileges 📤</li>\n<li>Application Tracking: Check the status of submissions by entering the Grants.gov Tracking Number 🔄</li>\n<li>Resource and Community Access: Quick links to the Grants.gov Community Blog, Twitter, and YouTube channels for additional support and information 🌐</li>\n</ol>\n<h3>Pros: 👍</h3>\n<ol>\n<li>Convenient In-app Search and Sort: The app provides a simplified method of browsing and filtering grants, making it easier to find relevant opportunities 🕵️‍♂️</li>\n<li>Notifications for Subscribed Opportunities: Stay informed about changes and updates to grants you're interested in, with personalized alerts 📱</li>\n<li>Calendar Integration: Adding important grant closing dates to your calendar ensures you never miss a deadline 🗓</li>\n<li>Social Sharing Feature: Easily share grant information via messaging or social media platforms with a quick tap 💬</li>\n<li>Submission History Access: Keep track of your past applications and their outcomes within the app’s history log 👤</li>\n</ol>\n<h3>Cons: 👎</h3>\n<ol>\n<li>Account Requirement: Some features are inaccessible without a Grants.gov account, limiting functionality for users not registered ⚠️</li>\n<li>Limited to Federal Grants: The app exclusively focuses on federal grants, which may not cater to users interested in other types of funding 🇺🇸</li>\n<li>Grants.gov Submit Privileges: Not all users have the authority to submit applications, potentially necessitating alternative submission methods 📄</li>\n<li>Dependence on Internet Connectivity: Reliable internet connection is needed for uninterrupted app use, which could be a barrier in areas with poor connectivity 📶</li>\n<li>Platform Specificities: Some features of the mobile app may differ from the full website experience, which could require users to adapt to different interfaces 📲</li>\n</ol>\n<h3>Price: 💵</h3>\n<p>Grants.gov is a free-to-use app, making it accessible to anyone looking for federal funding without any initial cost. There may be data usage charges according to the user's mobile network provider.</p>\n<p><em>Note: While the app itself is free, some actions, like application submission, necessitate having specific privileges on the Grants.gov platform.</em></p>\n<hr/>\n<p>Since Grants.gov is not a game app, the community section is not included. However, for additional resources and community engagement, users have quick access to Grants.gov’s <a href=\"https://www.grants.gov/community/blog/\" rel=\"noopener noreferrer\" target=\"_blank\">Community Blog</a>, <a href=\"https://twitter.com/grantsdotgov\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a>, and <a href=\"https://www.youtube.com/user/Grantsdotgov\" rel=\"noopener noreferrer\" target=\"_blank\">YouTube</a> channels within the app.</p>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-nibble-lesson/54302.html",
+      "icon": "assets/img/apk/icon/com.nibble.lesson.png",
+      "name": "Nibble: Your Bite of Knowledge",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-matlubapps-myiq/54109.html",
+      "icon": "assets/img/apk/icon/com.matlubapps.myiq.png",
+      "name": "IQ & Personality Tests: IQlab",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "4.2"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-home-lifehealthinsurance/48965.html",
+      "icon": "assets/img/apk/icon/com.home.lifehealthinsurance.png",
+      "name": "Life & Health Insurance Exam",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "3.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/pp-paramedic/48959.html",
+      "icon": "assets/img/apk/icon/pp.paramedic.png",
+      "name": "Paramedic Test Prep 2026",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "3.9"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/org-truthforlife-app/48953.html",
+      "icon": "assets/img/apk/icon/org.truthforlife.app.png",
+      "name": "Truth For Life",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "4.6"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-habapps-perstest/39344.html",
+      "icon": "assets/img/apk/icon/com.habapps.perstest.png",
+      "name": "The Personality Test",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-schooltoday-alphaomega/39316.html",
+      "icon": "assets/img/apk/icon/com.schooltoday.alphaomega.png",
+      "name": "Alpha & Omega",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-lucida-androidapp/34758.html",
+      "icon": "assets/img/apk/icon/com.lucida.androidapp.png",
+      "name": "Learn Languages - Lucida AI",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "4.6"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.achanceapps.atom.aaprojv2.png",
+    "title": "Playnimes Animes",
+    "ratings": "4.6",
+    "downloads": "220M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Playnimes Animes"
+    },
+    {
+      "name": "category",
+      "value": "Video Players & Editors"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Atom Animes"
+    },
+    {
+      "name": "Version",
+      "value": "2.6.1"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/K2ygXBOZdjpQ922DdEDCjT5ib1SUchkvsAVnXrICvBRARo21FQ8gwxA4UnOLurLW1R8",
+    "https://play-lh.googleusercontent.com/nZzgflT7Ed88cb14nxBIFfm7KugYS6mboPh78PeabUXQmj2FfDygdX3-wHtmYGE87CQ",
+    "https://play-lh.googleusercontent.com/rj0l6syQySAAT5jevxcDeAPSO5LTEViHzi3pL2uf3MZLryD1h3uZbmtVFqdB3M1n3EI",
+    "https://play-lh.googleusercontent.com/aIATbl698OOHE-smzxeNP7GEmZTPmSgXFOKc2th3SWj3eRd5vFYTwBLNpKrueluNOw"
+  ],
+  "app_descript": "<h3>Playnimes Animes</h3>\n<p><strong>Brief:</strong>\nThe Playnimes Animes app serves as a multimedia library that allows users to easily access and enjoy the latest anime series. With its user-friendly interface, the app caters to anime enthusiasts looking for a convenient way to watch their favorite shows sorted by various categories.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>📜 <strong>Extensive Anime Library:</strong> Access a vast selection of the latest anime series that can be sorted by series, genre, name, or number of episodes. 📚</li>\n<li>🎥 <strong>Stream or Download:</strong> Enjoy the flexibility of streaming anime episodes directly or downloading them to watch offline. 📥</li>\n<li>📺 <strong>Organized Viewing Experience:</strong> Find episodes neatly organized by season and start watching with just a tap. 🖱️</li>\n<li>💾 <strong>Favorites Catalog:</strong> Easily save your favorite anime to a separate file for quick access to new episodes. 🌟</li>\n<li>🌐 <strong>Multi-Language Content:</strong> The app provides content primarily in Portuguese and Japanese, catering to speakers of these languages. 🈴</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 <strong>User-Friendly Interface:</strong> Designed to function like a multimedia library, ensuring a smooth navigation experience. ✨</li>\n<li>👍 <strong>Updated Content:</strong> Regularly updated with the latest anime to keep viewers engaged with current trends. 🔁</li>\n<li>👍 <strong>Offline Viewing Capability:</strong> Offers the convenience of watching episodes without needing an internet connection. 🚇</li>\n<li>👍 <strong>Technical Information:</strong> Each anime comes with a concise yet informative technical summary. 🔍</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 <strong>Language Limitations:</strong> Limited to Portuguese and Japanese, which might not suit all users. 🈵</li>\n<li>👎 <strong>Potential Licensing Issues:</strong> As with many streaming apps, there might be questions about the legality of the content. ⚖️</li>\n<li>👎 <strong>Region Restrictions:</strong> May not be accessible or have a full library in all regions. 🌍</li>\n<li>👎 <strong>Ad-Supported Model:</strong> If the app displays ads, it could disrupt the viewing experience. 📢</li>\n</ul>\n<p><strong>Price:</strong>\n💵 The description does not specify pricing details, so users should check the app for any potential free access or in-app purchases.</p>\n<p><strong>Community:</strong> (Information not available)</p>\n<p><strong><a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Official Site</a></strong> | <strong><a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">YouTube</a></strong> | <strong><a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Popular YouTuber's Channel</a></strong> | <strong><a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Instagram</a></strong> | <strong><a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a></strong> | <strong><a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Discord</a></strong> | <strong><a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Facebook</a></strong> | <strong><a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">TikTok</a></strong> | <strong><a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Reddit</a></strong> | <strong><a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Fandom Wiki</a></strong></p>\n<hr/>\n<p><em>Note: The community links were not provided; thus, no active hyperlinks are available. If any community features or social media platforms are associated with Playnimes Animes in the future, they will be updated accordingly.</em></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-video-newslideshow/53956.html",
+      "icon": "assets/img/apk/icon/com.video.newslideshow.png",
+      "name": "Music Video Maker Magic Effect",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-prominent-aicatch/49088.html",
+      "icon": "assets/img/apk/icon/com.prominent.aicatch.png",
+      "name": "AI Catch: AI Video Generator",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-asianmobile-smartplayer/34766.html",
+      "icon": "assets/img/apk/icon/com.asianmobile.smartplayer.png",
+      "name": "IPTV Player: Smarters Watch TV",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "3.1"
+    },
+    {
+      "link": "/details/halloween-video-maker/34753.html",
+      "icon": "assets/img/apk/icon/halloween.video.maker.png",
+      "name": "Halloween Video Editor 2025",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-cupertinotech-aidancevideo/16075.html",
+      "icon": "assets/img/apk/icon/com.cupertinotech.aidancevideo.png",
+      "name": "AI Dance Video - Photo Dance",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "2.4"
+    },
+    {
+      "link": "/details/com-instagram-basel/15556.html",
+      "icon": "assets/img/apk/icon/com.instagram.basel.png",
+      "name": "Edits, an Instagram app",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/downloader-video-download-free/10303.html",
+      "icon": "assets/img/apk/icon/downloader.video.download.free.png",
+      "name": "Video Downloader & Video Saver",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-renderforest-videomaker/10142.html",
+      "icon": "assets/img/apk/icon/com.renderforest.videomaker.png",
+      "name": "Renderforest Video & Animation",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.5"
+    }
+  ]
+}

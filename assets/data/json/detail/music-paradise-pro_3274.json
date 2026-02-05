@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/music-paradise-pro.png",
+    "title": "Music Paradise Pro",
+    "ratings": "4.2",
+    "downloads": "690M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Music Paradise Pro"
+    },
+    {
+      "name": "category",
+      "value": "Music & Audio"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "MP3 Music Downloader Free"
+    },
+    {
+      "name": "Version",
+      "value": "1.0"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>Music Paradise Pro</strong></p>\n<h3>Brief</h3>\n<p>Immerse yourself in a world of unlimited musical exploration with Music Paradise Pro, your all-in-one destination for managing and savoring a diverse range of music. Craft your personalized free music library, customize ringtones with your favorite tunes, and search easily for songs and artists. With a high-performance search and download engine, this app offers quick access to a musical paradise anytime, anywhere.</p>\n<h3>Core Features</h3>\n<ul>\n<li>🎵 Personal Music Librarian: Manage your own free music repository effortlessly.</li>\n<li>🔔 Custom Ringtones: Set any song as your ringtone, personalizing your call alerts.</li>\n<li>🔍 Advanced Search: Look for music by song title or artist name with precision.</li>\n<li>🎧 Versatile Player Compatibility: Enjoy your tracks on this pro player or any other preferred music player.</li>\n<li>💾 SD Card Support: Save your favorite songs directly to your SD card for offline enjoyment. </li>\n</ul>\n<h3>Pros</h3>\n<ul>\n<li>👍 User-Friendly Interface: Navigate through the app with ease, making music discovery a breeze.</li>\n<li>👍 Lyrics Feature: Sing along by reading the lyrics available for many songs.</li>\n<li>👍 Continuous Play: Enjoy uninterrupted music sessions throughout the day.</li>\n<li>👍 Organizational Ease: Sort your music into playlists for various moods and occasions.</li>\n<li>👍 Free Music Downloads: Access a plethora of songs for free, expanding your music library without cost.</li>\n</ul>\n<h3>Cons</h3>\n<ul>\n<li>👎 Limited Lyrics: Not every song comes with lyrics, which may disappoint karaoke enthusiasts.</li>\n<li>👎 Network Dependency: Requires a stable internet connection for searching and downloading music.</li>\n<li>👎 Storage Constraints: Saving numerous files may require substantial SD card space.</li>\n<li>👎 Varies with Device: The app’s performance and features may differ across various devices.</li>\n<li>👎 Copyright Restrictions: Free downloads may be subject to copyright laws, depending on the resource.</li>\n</ul>\n<h3>Price</h3>\n<p>💵 Music Paradise Pro is available as a free app, catering to your melodious needs without any financial commitment. No explicit mentions of in-app purchases mean a seamless and cost-free music experience is at your fingertips.</p>\n<h3>Community</h3>\n<p>🕸️ While Music Paradise Pro doesn’t have an official site, YouTube channel, or other social media connections listed, users can often share their experiences and playlists within various music fan communities online.</p>\n<hr/>\n<p>Embrace the joy of free music with Music Paradise Pro, where your every musical whim is just a tap away. Download the app and transform your device into a hub of harmonies and beats! 🎶</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-simmusic-oldjpop/49056.html",
+      "icon": "assets/img/apk/icon/com.simmusic.oldjpop.png",
+      "name": "昭和の名曲 - 70年代/80年代名曲, 昭和の歌謡曲",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-bigsoft-voicereverse-audiochanger/39378.html",
+      "icon": "assets/img/apk/icon/com.bigsoft.voicereverse.audiochanger.png",
+      "name": "Funny Voice Reverse",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "3.1"
+    },
+    {
+      "link": "/details/com-realdrum-drumset-drumapp-beatmaker-music-instruments-drumkit/16783.html",
+      "icon": "assets/img/apk/icon/com.realdrum.drumset.drumapp.beatmaker.music.instruments.drumkit.png",
+      "name": "Learn Drum - Pad & Beat Maker",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-musicplayer-mp3-audio-mymusic-player/15795.html",
+      "icon": "assets/img/apk/icon/com.musicplayer.mp3.audio.mymusic.player.png",
+      "name": "Music Player & MP3 - MMusic",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/com-ai-sound-donna/15626.html",
+      "icon": "assets/img/apk/icon/com.ai.sound.donna.png",
+      "name": "Donna AI Song & Music Maker",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-vanniktech-rssreader/15328.html",
+      "icon": "assets/img/apk/icon/com.vanniktech.rssreader.png",
+      "name": "RSS Reader Offline | Podcast",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-voicechanger-supereffect-soundeffect/14158.html",
+      "icon": "assets/img/apk/icon/com.voicechanger.supereffect.soundeffect.png",
+      "name": "Voice Changer: Audio Effect",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/org-cru-womans-herbible/14124.html",
+      "icon": "assets/img/apk/icon/org.cru.womans.herbible.png",
+      "name": "her.BIBLE Women's Audio Bible",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    }
+  ]
+}

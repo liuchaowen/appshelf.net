@@ -1,0 +1,116 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/waze.png",
+    "title": "Waze",
+    "ratings": "4.1",
+    "downloads": "340M",
+    "age": "4+",
+    "download_link": "https://d.apkpure.com/b/APK/com.waze?version=latest"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Waze"
+    },
+    {
+      "name": "category",
+      "value": "Maps & Navigation"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Waze"
+    },
+    {
+      "name": "Version",
+      "value": "4.98.0.1"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/MIfC7eF1LWUDJVaNrgP9PgnSJOfiJhuoJNa5w7-5W23-1T186DbGC2oFKexRSNPLkA",
+    "https://play-lh.googleusercontent.com/1z8jcZDGkPzqmKD2pkl0IYqddwrXS23ayh92Q6hA1HxTnVYedAtUKYjF6CroeTgiFw",
+    "https://play-lh.googleusercontent.com/3Fr_LnOyOr4__2Qrpf87_i-9wlwSemFTRJ5zWxZmz5pYStvLMVjIf6625GznxTpDfhQ",
+    "https://play-lh.googleusercontent.com/xl_xNQD8WsSUxQzcIV2OeUYjyqtEMo_C9maIxRf42LXWUwPcpKtR_P3ALLff0a84IME",
+    "https://play-lh.googleusercontent.com/K-Nz4xMuCOZIKsEvUJ903ZIXk-CixbJd1EiPYSD1BchE0l4r0aD5yehRH5hghhdcFQ",
+    "https://play-lh.googleusercontent.com/DPAwUCXny3TQMLZ6fTcnycWJvBqcNGdXq04crgEyBwj3huzhOgkjbl2sPdubIZkyIibS",
+    "https://play-lh.googleusercontent.com/RkBljU-i5pBAqqa1tK-SCupDjoUi3ncYYf9OZlpM5yaOQZlZHVXN-v2Ct4drahUYsBs",
+    "https://play-lh.googleusercontent.com/iqdsD4Fk7pWHEf5RbGdjwaGinlOLiCq9oCTpkOW0XmqbHP25Z-zlw6QJBRc-_FZEEQ",
+    "https://play-lh.googleusercontent.com/AOe7QE_o9Mc72LQIPZvI-_0Y7saGVRGjLlTV6lg1YpWwcoEnb93fGam2OXQg05Zurw",
+    "https://play-lh.googleusercontent.com/6US2BtTmfhZv7yj08BdSfEGteSW00mS4Ec6GLSvhdAu6tB9rB4x2sepCJovB_mV4cg",
+    "https://play-lh.googleusercontent.com/9qXj9MsNND00x-8KYgalDYCopfPpMDiDROPayjxzY5zsUvRTkMc3RYpDHaNV61Z8zMc"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> Waze</p>\n<p><strong>Package Name:</strong> com.waze</p>\n<p><strong>Brief:</strong>\nWaze is a dynamic and user-friendly navigation app designed to enhance your driving experience. It provides real-time guidance, allowing you to avoid traffic snarls, stay informed about road hazards, and even enjoy your favorite tunes while en route. Tailor your journey with a selection of navigational voices and effortlessly locate the most economical fuel options along the way.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li><strong>Real-time Traffic Updates:</strong> Stay ahead of congestion with live alerts on traffic, police presence, and road hazards 🚦.</li>\n<li><strong>Smart Speedometer:</strong> Get notified about speed limits to help you steer clear of tickets and drive safely 🚗.</li>\n<li><strong>Integrated Entertainment:</strong> Seamlessly listen to music, podcasts, and more without ever leaving the app 🎶.</li>\n<li><strong>Adaptive Routing:</strong> Receive instant route adjustments to dodge traffic and save precious time 🔄.</li>\n<li><strong>Toll Transparency:</strong> Be informed of toll costs on your journey to manage your travel budget better 💸.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li><strong>Interactive User Experience:</strong> Enjoy a fun, cartoonish interface, complete with customizable voices and in-app rewards for reporting road conditions 👾.</li>\n<li><strong>Social Connectivity:</strong> Connect with fellow users through Waze’s social network element, fostering a collaborative driving community 🌐.</li>\n<li><strong>Efficiency Booster:</strong> With real-time traffic information updates by the user community, the app helps you avoid delays and reach your destination faster ⏱️.</li>\n<li><strong>Convenience:</strong> Sync Waze with your calendar for one-tap navigation to scheduled events, maximizing your time management 📅.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li><strong>Advertisement Interruptions:</strong> Encounter occasional on-screen banner ads when stationary, which may disrupt your navigational experience 🚨.</li>\n<li><strong>Limited Transit Options:</strong> Waze is tailored for personal vehicle use and doesn't support bus routes or bike paths 🚌🚴‍♀️.</li>\n<li><strong>Battery Consumption:</strong> Running GPS and maintaining the screen can drain your battery quickly, necessitating in-journey charging 🔋.</li>\n<li><strong>Inaccuracy Potential:</strong> Reliance on user-updated data may sometimes lead to incorrect information 🗺️.</li>\n</ul>\n<p><strong>Price:</strong>\n💵 Waze is a free app with no upfront costs. However, be aware that there may be mobile data charges depending on your service provider or plan.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-hundred-qibla-finder/14082.html",
+      "icon": "assets/img/apk/icon/com.hundred.qibla.finder.png",
+      "name": "Qibla Finder Compass 100%",
+      "categoryLink": "/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/kbk-maparea-measure-geo/5067.html",
+      "icon": "assets/img/apk/icon/kbk.maparea.measure.geo.png",
+      "name": "Gps Area Calculator",
+      "categoryLink": "/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "3.9"
+    },
+    {
+      "link": "/details/Offline-Maps-GPS-Speedometer/4633.html",
+      "icon": "assets/img/apk/icon/com.radarapp.trip.speedometer.png",
+      "name": "Offline Maps, GPS, Speedometer",
+      "categoryLink": "/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/Satellite-View-Offline/4620.html",
+      "icon": "assets/img/apk/icon/com.breezeammarathon.viskoproton.grampooffline.png",
+      "name": "Satellite View Offline",
+      "categoryLink": "/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/Rapido/4563.html",
+      "icon": "assets/img/apk/icon/com.rapido.passenger.png",
+      "name": "Rapido",
+      "categoryLink": "/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/CarInfo/4500.html",
+      "icon": "assets/img/apk/icon/com.cuvora.carinfo.png",
+      "name": "CarInfo",
+      "categoryLink": "/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-trailbehind-android-gaiagps-pro/4473.html",
+      "icon": "assets/img/apk/icon/com.trailbehind.android.gaiagps.pro.png",
+      "name": "Gaia GPS: Offroad Hiking Maps",
+      "categoryLink": "/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-gpsnavigation-maps-gpsroutefinder-routemap/4472.html",
+      "icon": "assets/img/apk/icon/com.gpsnavigation.maps.gpsroutefinder.routemap.png",
+      "name": "GPS Navigation: Road Map Route",
+      "categoryLink": "/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    }
+  ]
+}

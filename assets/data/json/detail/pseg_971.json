@@ -1,0 +1,110 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.psegnj.png",
+    "title": "PSEG",
+    "ratings": "3.7",
+    "downloads": "550M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "PSEG"
+    },
+    {
+      "name": "category",
+      "value": "Business"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "PSEG"
+    },
+    {
+      "name": "Version",
+      "value": "4.1.9"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/Gl7KIt1fisFI9_pD7aMERcX22mylBHlawRwIa_RZFKkCIBT6l9gEFXmNaSXR5ET4Hg",
+    "https://play-lh.googleusercontent.com/3zGfOlF4R_oGLjaTv5WvMeZ4GFnT5Kr7522ATcEDYZdwEauSF8T2_iE-IcT1qL2chDl7",
+    "https://play-lh.googleusercontent.com/I6104bT8UaaAEB2Tmu354ts6GQbEEyFse5rJIlDZ-6RRtAB7bvFwN1OAm9AuHmlbRAg",
+    "https://play-lh.googleusercontent.com/mIp2mIzqlxh2UiK0nXJ-0TC7QSiFJdSwyaeabN9_s8rMY9IoT8fD8pNXiFVr4hAkOjU",
+    "https://play-lh.googleusercontent.com/Bo6zAgYisSnYA52pIdzOjHYlbSqvyLpt0MCGE1A974hVVcMPFcuVcBR4AvoC77Y0Odgd",
+    "https://play-lh.googleusercontent.com/-NZ0MfWn47dlq5OVb-pWiRAmTvByOcoYOaupBigflRjDw2WZfnj3xJ5iCWca2ZJxDA"
+  ],
+  "app_descript": "<h3>PSEG Mobile App</h3>\n<p><strong>Brief:</strong>\nThe PSEG mobile app serves as a convenient digital interface allowing users to smoothly handle their utility needs. Tailored for PSE&amp;G customers, the app provides a seamless way to manage payments, monitor energy consumption, report service disruptions, and connect with customer service directly from a mobile device. </p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li><strong>Bill Payment:</strong> Quickly pay your utility bills directly through the app with a straightforward payment process. 💳</li>\n<li><strong>Energy Management:</strong> Monitor and compare your energy usage to maintain efficiency and lower costs. 🌱</li>\n<li><strong>Outage Reporting:</strong> Promptly report any service interruptions for swift resolution. 💡</li>\n<li><strong>Account Management:</strong> Update and manage your payment options with ease. ⚙️</li>\n<li><strong>Customer Service:</strong> Directly get in touch with PSE&amp;G's customer support for any queries or assistance. 📞 </li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li><strong>Convenience:</strong> Enables on-the-go management of utility services without needing to access a computer or make a phone call. ✅</li>\n<li><strong>Secure Login:</strong> Offers easy sign-on options with touch or face ID, facilitating robust security and quick access. 🔒</li>\n<li><strong>Real-time Alerts:</strong> Receive notifications for bill and payment updates, as well as outage status, keeping you informed at all times. 🔔</li>\n<li><strong>User-Friendly Interface:</strong> The app's design makes navigation and task completion simple and intuitive. 📲</li>\n<li><strong>Customer-Centric:</strong> Focused on enhancing the customer experience by making utility management hassle-free. 🤝</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li><strong>Device Compatibility:</strong> May not support all types of devices, possibly limiting access for some users. 🔧</li>\n<li><strong>Internet Dependency:</strong> Requires an internet connection to operate, which might be problematic during an outage. 🌐</li>\n<li><strong>Navigation Issues:</strong> Some users may experience difficulty finding specific features or functions within the app. 🗺️</li>\n<li><strong>Update Frequency:</strong> Periodic updates may cause temporary inconvenience or require users to re-familiarize with new layouts. 🔄</li>\n<li><strong>Customer Service Response Time:</strong> While the app provides a direct line to customer service, response times can vary. ⏱️</li>\n</ul>\n<p><strong>Price:</strong>\nThe PSEG app is free to download, but standard messaging, data, and other utility service fees may apply when using the app. 💸</p>\n<p><em>Community:</em>\nCurrently, there is no community information provided for the PSEG mobile app.</p>\n<hr/>\n<p>Make your utility management smooth and efficient with the PSEG app—download it today and simplify the way you handle your energy needs!</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-kj2147575505-app/16858.html",
+      "icon": "assets/img/apk/icon/com.kj2147575505.app.png",
+      "name": "Alpha Omega Consulting",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-hypertide-petscan-v8m/15982.html",
+      "icon": "assets/img/apk/icon/com.hypertide.petscan.v8m.png",
+      "name": "PetScan",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "2"
+    },
+    {
+      "link": "/details/com-animalid-scanner/15981.html",
+      "icon": "assets/img/apk/icon/com.animalid.scanner.png",
+      "name": "Pet Scanner",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-webrange-sendoff-app/15417.html",
+      "icon": "assets/img/apk/icon/com.webrange.sendoff.app.png",
+      "name": "Sendoff Funeral App",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-dyve-countthings/10295.html",
+      "icon": "assets/img/apk/icon/com.dyve.countthings.png",
+      "name": "CountThings from Photos",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "3"
+    },
+    {
+      "link": "/details/com-countthis-count-things-counting-template-counter/5097.html",
+      "icon": "assets/img/apk/icon/com.countthis.count.things.counting.template.counter.png",
+      "name": "Count This・Counting Things App",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-aadi-personalitytraittest/4991.html",
+      "icon": "assets/img/apk/icon/com.aadi.personalitytraittest.png",
+      "name": "Personality Trait Test",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/GlowRoad/4569.html",
+      "icon": "assets/img/apk/icon/com.localqueen.png",
+      "name": "GlowRoad",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.6"
+    }
+  ]
+}

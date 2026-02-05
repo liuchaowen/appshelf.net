@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/samsung-smartcam.png",
+    "title": "Samsung SmartCam",
+    "ratings": "4.1",
+    "downloads": "650M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Samsung SmartCam"
+    },
+    {
+      "name": "category",
+      "value": "Video Players & Editors"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "HANWHA TECHWIN CO., LTD"
+    },
+    {
+      "name": "Version",
+      "value": "2.86"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h1>Samsung SmartCam</h1>\n<p>Brief:\nSamsung SmartCam is a versatile app that allows users to transform their smartphones into a sophisticated security system. With live video streaming, event alarm notifications, H.264 format support, and two-way communication, Samsung SmartCam is an essential tool for monitoring and protecting your space. It ensures a seamless user experience across various network environments and compatible Samsung devices.</p>\n<h2>Core Features: 📌</h2>\n<ul>\n<li><strong>Live Video Stream</strong>: Watch real-time video feeds from your security cameras at any time. 🎥</li>\n<li><strong>Event Alarm Notifications</strong>: Receive instant alerts on your smartphone for any detected movement or noise. 🔔</li>\n<li><strong>H.264 Format Support</strong>: Ensures high-quality video with industry-standard compression. 🗜️</li>\n<li><strong>Cross-Network Compatibility</strong>: Works with 3G, 4G, and WiFi networks for constant access. 🌐</li>\n<li><strong>Two-Way Communication</strong>: Speak and listen through the camera, adding an extra layer of interaction. 🗣️</li>\n</ul>\n<h2>Pros: 👍</h2>\n<ul>\n<li><strong>User-Friendly Interface</strong>: Easy to navigate for all levels of tech-savvy users. 🤳</li>\n<li><strong>Device Compatibility</strong>: Broad compatibility with different Samsung devices and Android versions. 📱</li>\n<li><strong>Regular Updates</strong>: Supported models list continuously updated for expanded access. 🔄</li>\n<li><strong>Adjustable User Load</strong>: SmartCam auto-adjusts user limits according to the network traffic for optimal performance. 🔀</li>\n<li><strong>Mode Selection</strong>: Users have the flexibility to switch between normal and profile change modes based on audio playback needs. 🎚️</li>\n</ul>\n<h2>Cons: 👎</h2>\n<ul>\n<li><strong>Restricted to Samsung Devices</strong>: Limited to certain Samsung smartphones and initial exclusive compatibility with Android. 🚫</li>\n<li><strong>Device Dependent</strong>: Performance and features might vary based on the particular Samsung model used. ⚙️</li>\n<li><strong>Network Limitations</strong>: Quality of service may diminish in less stable network environments. 📶</li>\n<li><strong>Potential User Cap</strong>: In high traffic, the number of users may be limited to preserve functionality. 👥</li>\n<li><strong>Android Version Requirements</strong>: May not support earlier versions than Android 4.4. 📴</li>\n</ul>\n<h2>Price: 💵</h2>\n<p>Samsung SmartCam is a free app, which may include additional costs for any in-app features or subscription services not specified in the original description.</p>\n<p><a href=\"https://play.google.com/store/apps/details?id=com.techwin.shc\" rel=\"noopener noreferrer\" target=\"_blank\">Download Samsung SmartCam</a> and enhance your security system's intelligence and flexibility today.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-video-newslideshow/53956.html",
+      "icon": "assets/img/apk/icon/com.video.newslideshow.png",
+      "name": "Music Video Maker Magic Effect",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-prominent-aicatch/49088.html",
+      "icon": "assets/img/apk/icon/com.prominent.aicatch.png",
+      "name": "AI Catch: AI Video Generator",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-asianmobile-smartplayer/34766.html",
+      "icon": "assets/img/apk/icon/com.asianmobile.smartplayer.png",
+      "name": "IPTV Player: Smarters Watch TV",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "3.1"
+    },
+    {
+      "link": "/details/halloween-video-maker/34753.html",
+      "icon": "assets/img/apk/icon/halloween.video.maker.png",
+      "name": "Halloween Video Editor 2025",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-cupertinotech-aidancevideo/16075.html",
+      "icon": "assets/img/apk/icon/com.cupertinotech.aidancevideo.png",
+      "name": "AI Dance Video - Photo Dance",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "2.4"
+    },
+    {
+      "link": "/details/com-instagram-basel/15556.html",
+      "icon": "assets/img/apk/icon/com.instagram.basel.png",
+      "name": "Edits, an Instagram app",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/downloader-video-download-free/10303.html",
+      "icon": "assets/img/apk/icon/downloader.video.download.free.png",
+      "name": "Video Downloader & Video Saver",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-renderforest-videomaker/10142.html",
+      "icon": "assets/img/apk/icon/com.renderforest.videomaker.png",
+      "name": "Renderforest Video & Animation",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.5"
+    }
+  ]
+}

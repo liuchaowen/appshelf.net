@@ -1,0 +1,109 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.precise.opliging.kitan.png",
+    "title": "WeatherPal",
+    "ratings": "4.8",
+    "downloads": "330M",
+    "age": "4+",
+    "download_link": "https://d.apkpure.com/b/APK/com.precise.opliging.kitan?version=latest"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "WeatherPal"
+    },
+    {
+      "name": "category",
+      "value": "Weather"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "MEET TECH SINGAPORE PTE. LTD."
+    },
+    {
+      "name": "Version",
+      "value": "1.0.9"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/R_Vxr7V8qhtDTfM_WmGkDQc382Pi5VMumOPgKfCoYEtot0aKOP98jexdCNrtxFZh4nc",
+    "https://play-lh.googleusercontent.com/bZ_lIPORiOkfePCCGxKh3cXlcYYmVprbRYV0PDUqrVUh9Kly7BMSQBthhhZfW6UjsQ",
+    "https://play-lh.googleusercontent.com/Af2ufIvNIT9-Ki93Yx9gubhVYsr8wVE321DnNPSs8YH-MhhRgNqVo4uw-lx8Rp04jg",
+    "https://play-lh.googleusercontent.com/LV4kQnRZroqgXkO5SiO9iHjOT2ar1jYpgPNPWCKPyYgCc_h8T__3BYEtV3N4vuDUyw"
+  ],
+  "app_descript": "<h3>Brief</h3>\n<p>WeatherPal is your go-to mobile application for staying updated with live weather forecasts. Whether you're planning your day ahead or deciding on what to wear for an outing, WeatherPal offers precise weather predictions right at your fingertips. Although its efficiency in urban areas is commendable, certain disadvantages should be considered, especially if you're in a remote location.</p>\n<h3>Core Features</h3>\n<ul>\n<li>🌤️ <strong>Live Weather Updates</strong>: Get real-time weather information to help you prepare for the day.</li>\n<li>📍 <strong>Location-based Forecasts</strong>: Receive tailored weather details for your specific location.</li>\n<li>📊 <strong>Weather Trends &amp; Patterns</strong>: Understand how the weather is changing over time with trend analyses.</li>\n<li>⚠️ <strong>Weather Alerts</strong>: Stay informed about extreme weather conditions with timely alerts.</li>\n<li>🌏 <strong>Global Coverage</strong>: Access weather forecasts for cities and countries around the world. 🌐</li>\n</ul>\n<h3>Pros</h3>\n<ul>\n<li>👍 <strong>Real-Time Accuracy</strong>: Offers timely and precise weather forecasts for immediate planning.</li>\n<li>👍 <strong>User-Friendly Interface</strong>: Navigate through the app easily with a well-designed user interface.</li>\n<li>👍 <strong>Convenience</strong>: Quick access to weather information without the need for searching online.</li>\n<li>👍 <strong>Alerts &amp; Notifications</strong>: Provides notifications to keep you safe and informed about severe weather events.</li>\n<li>👍 <strong>Broad Availability</strong>: Ideal for users in populated areas with robust weather data support.</li>\n</ul>\n<h3>Cons</h3>\n<ul>\n<li>👎 <strong>Inaccuracy in Remote Areas</strong>: May struggle with delivering accurate forecasts in less populated regions due to limited data. </li>\n<li>👎 <strong>Ad Intrusiveness</strong>: Can be disrupted by ads if the app relies on ad support for revenue.</li>\n<li>👎 <strong>High Battery Usage</strong>: Live forecasting can consume significant battery, impacting your device's performance. </li>\n<li>👎 <strong>Data Connectivity Dependence</strong>: Requires a stable internet connection to fetch the latest weather updates, which could be a disadvantage in areas with poor connectivity.</li>\n</ul>\n<h3>Pricing</h3>\n<p>💵 The description does not specify price, but users should be aware of potential in-app purchases or subscription fees for premium features. Please check the app store for the latest pricing information.</p>\n<p>In conclusion, WeatherPal is an exceptional tool for individuals who need up-to-the-minute weather forecasts. The app thrives in areas with robust data support, however, challenges in remote regions and the possibility of ad intrusiveness or battery drain may affect overall user satisfaction. Checking the app store for the most current updates or new features is recommended, as the cons highlighted are based on information available until early 2023.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-eet-weather-launcher/15703.html",
+      "icon": "assets/img/apk/icon/com.eet.weather.launcher.png",
+      "name": "Weather Now Launcher - Radar",
+      "categoryLink": "/categories/weather/26",
+      "category": "Weather",
+      "rating": "3.6"
+    },
+    {
+      "link": "/details/com-daily-forecast-weather-radar/4930.html",
+      "icon": "assets/img/apk/icon/com.daily.forecast.weather.radar.png",
+      "name": "Daily Forecast: Weather&Radar",
+      "categoryLink": "/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-mahersafadi-sunny/4921.html",
+      "icon": "assets/img/apk/icon/com.mahersafadi.sunny.png",
+      "name": "Sunny: Weather forecast",
+      "categoryLink": "/categories/weather/26",
+      "category": "Weather",
+      "rating": "4"
+    },
+    {
+      "link": "/details/WeatherPal/4628.html",
+      "icon": "assets/img/apk/icon/com.precise.opliging.kitan.png",
+      "name": "WeatherPal",
+      "categoryLink": "/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/live-weather/2063.html",
+      "icon": "assets/img/apk/icon/com.appsinnova.weatherforecast.liveweather.png",
+      "name": "Live Weather",
+      "categoryLink": "/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/radarnow/2062.html",
+      "icon": "assets/img/apk/icon/com.usnaviguide.radar_now.png",
+      "name": "RadarNow!",
+      "categoryLink": "/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/local-weather/2061.html",
+      "icon": "assets/img/apk/icon/com.weather.forecast.channel.local.png",
+      "name": "Local Weather",
+      "categoryLink": "/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/iqair-airvisual/2060.html",
+      "icon": "assets/img/apk/icon/com.airvisual.png",
+      "name": "IQAir AirVisual",
+      "categoryLink": "/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.6"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/studio.on1tune.xtmp3downloader.png",
+    "title": "XTunes",
+    "ratings": "4.6",
+    "downloads": "380M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "XTunes"
+    },
+    {
+      "name": "category",
+      "value": "Music & Audio"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "On1Tune Studio"
+    },
+    {
+      "name": "Version",
+      "value": "1.0.3"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h3>XTunes: Your Gateway to Global Music 🎶</h3>\n<p><strong>Brief:</strong>\nXTunes is a comprehensive music app designed for enthusiasts who are eager to explore and download the latest and trending music from different genres. With its user-friendly interface, XTunes offers a seamless music experience, granting access to a vast library that includes Bollywood, English, Pop, Remix, and Regional music albums. Whether your taste lies in the heart of India's vibrant Bollywood scene or the top hits from the US and UK, XTunes provides a swift and straightforward path to aural satisfaction. </p>\n<p><strong>Core Features:</strong>\n🌐 <strong>Latest Music:</strong> Explore a diverse collection of music categories, including Bollywood, English, Pop, Remix, and Regional albums and songs. 🎵\n📈 <strong>Trending Music:</strong> Stay updated with the music world by accessing US/UK Billboard Charts and Monthly Hit Songs. 🚀\n⚡ <strong>1-Click MP3 Download:</strong> Download your favorite tracks directly to your phone's storage with just a single click. 📲\n🔍 <strong>Search Music:</strong> Discover the songs you love with the integrated Web Search functionality. 🕵️‍♂️</p>\n<p><strong>Pros:</strong>\n👍 <strong>Vast Selection:</strong> Enjoy a wide range of music genres in one app to satisfy every musical preference.\n👍 <strong>Current Hits:</strong> Engage with an always up-to-date list of trending music and charts.\n👍 <strong>Ease of Use:</strong> Intuitive 1-Click download that makes building your personal music library hassle-free.\n👍 <strong>Effective Search:</strong> The powerful search tool ensures you find the songs you're looking for quickly.</p>\n<p><strong>Cons:</strong>\n👎 <strong>Storage Dependency:</strong> Downloads are stored on your phone, which may consume significant storage space.\n👎 <strong>Internet Requirement:</strong> Requires a stable internet connection to access the music library and download songs.\n👎 <strong>Regional Availability:</strong> Some music and features might have geographic restrictions, limiting access in certain locations.\n👎 <strong>Ads:</strong> There might be advertisements within the app, impacting user experience.</p>\n<p><strong>Price:</strong>\n💵 XTunes is free to download and use, though some features may come with in-app purchase options, the details of which will be specified within the app.</p>\n<p>Enjoy a world of music at your fingertips with XTunes, the go-to music app for the latest and greatest in global melody collections.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-simmusic-oldjpop/49056.html",
+      "icon": "assets/img/apk/icon/com.simmusic.oldjpop.png",
+      "name": "昭和の名曲 - 70年代/80年代名曲, 昭和の歌謡曲",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-bigsoft-voicereverse-audiochanger/39378.html",
+      "icon": "assets/img/apk/icon/com.bigsoft.voicereverse.audiochanger.png",
+      "name": "Funny Voice Reverse",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "3.1"
+    },
+    {
+      "link": "/details/com-realdrum-drumset-drumapp-beatmaker-music-instruments-drumkit/16783.html",
+      "icon": "assets/img/apk/icon/com.realdrum.drumset.drumapp.beatmaker.music.instruments.drumkit.png",
+      "name": "Learn Drum - Pad & Beat Maker",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-musicplayer-mp3-audio-mymusic-player/15795.html",
+      "icon": "assets/img/apk/icon/com.musicplayer.mp3.audio.mymusic.player.png",
+      "name": "Music Player & MP3 - MMusic",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/com-ai-sound-donna/15626.html",
+      "icon": "assets/img/apk/icon/com.ai.sound.donna.png",
+      "name": "Donna AI Song & Music Maker",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-vanniktech-rssreader/15328.html",
+      "icon": "assets/img/apk/icon/com.vanniktech.rssreader.png",
+      "name": "RSS Reader Offline | Podcast",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-voicechanger-supereffect-soundeffect/14158.html",
+      "icon": "assets/img/apk/icon/com.voicechanger.supereffect.soundeffect.png",
+      "name": "Voice Changer: Audio Effect",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/org-cru-womans-herbible/14124.html",
+      "icon": "assets/img/apk/icon/org.cru.womans.herbible.png",
+      "name": "her.BIBLE Women's Audio Bible",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    }
+  ]
+}

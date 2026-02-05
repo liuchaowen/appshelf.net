@@ -1,0 +1,107 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.urbandictionary.android.png",
+    "title": "Urban Dictionary (Official)",
+    "ratings": "4.6",
+    "downloads": "220M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Urban Dictionary (Official)"
+    },
+    {
+      "name": "category",
+      "value": "Books & Reference"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Urban Dictionary"
+    },
+    {
+      "name": "Version",
+      "value": "3.5.1"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/8aKuhKuktjzVEhZs9rIAuxzJty5AN7krf_WrRzSjr6I-feB3VL0MV-u0jJ_CgOeUfA",
+    "https://play-lh.googleusercontent.com/RVdEPN9V7K--sxI9FPHRFmeJljObV1Igwb4qr1zGSbsgggkfMZ48JzEo5sBndvZ6yhM",
+    "https://play-lh.googleusercontent.com/Go5r73tLSWsbgMAOxFclHlbGeg-QaNFDYTrZ3fCs3gKuqIepKWdxkxrYekm9UXWJQXs"
+  ],
+  "app_descript": "<p><strong>Brief:</strong>\nThe Urban Dictionary app serves as a cultural time capsule by providing users with definitions that encapsulate modern vernacular and slang. This dynamic lexicon is powered by the people, for the people. It's the go-to resource for anyone looking to decipher contemporary lingo, culminating in a crowdsourced repository of words and phrases that gives insight into how language evolves in real-time.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>📖 <strong>Name Trends &amp; Meanings</strong>: Uncover the quirky, personalized interpretations of names as per the viral social media trend. 🌐</li>\n<li>🔍 <strong>Extensive Search</strong>: Delve into the vast collection of both slang and conventional terms at your convenience. 🔎</li>\n<li>📑 <strong>Favorites Bookmarking</strong>: Easily save and revisit your preferred definitions with the bookmark feature. 📌</li>\n<li>👍 <strong>Community Voting</strong>: Participate in the democratic process of promoting definitions by voting for the ones you endorse. 👏</li>\n<li>✍️ <strong>Contribute Definitions</strong>: Elevate the compendium by defining any word, whether it’s part of the modern vernacular or not. 🖊️</li>\n<li>🔄 <strong>Random Word Shake</strong>: Discover new terms with a fun shake of your device for a randomly selected word. 🎲</li>\n<li>🆕 <strong>Today’s Urban Word</strong>: Start your day with the Urban Word of the Day and stay culturally informed. 📆</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👥 <strong>User-Generated Content</strong>: A reflection of real-time language use driven by user contributions. 🧑‍🤝‍🧑</li>\n<li>📲 <strong>Social Media Integration</strong>: Seamlessly share interesting finds with your social network. 📤</li>\n<li>🔄 <strong>Autocomplete Suggestions</strong>: Smart technology to assist your search and enhance user experience. 💡</li>\n<li>📈 <strong>Ever-Growing Dictionary</strong>: Constant updates ensure you'll never fall behind on the latest lingo. 🆙</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 <strong>Informal Definitions</strong>: Not suitable for formal research or academic purposes. 🎓</li>\n<li>🤔 <strong>Variable Quality</strong>: User-submitted content means the reliability of definitions can vary. 📊</li>\n<li>🔔 <strong>Possible Offensiveness</strong>: Some terms may contain explicit language or concepts. ⚠️</li>\n<li>🤷 <strong>No Official Standard</strong>: Unlike traditional dictionaries, definitions lack standardized structure and vetting. 📚</li>\n</ul>\n<p><strong>Price:</strong>\n💵 Urban Dictionary is a free application with no associated cost for downloading or using its core features. However, there might be ads displayed within the app.</p>\n<p><a href=\"https://www.urbandictionary.com\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>Urban Dictionary Official Site</strong></a></p>\n<p><strong>Community:</strong></p>\n<ul>\n<li>🌐 <a href=\"https://twitter.com/urbandictionary\" rel=\"noopener noreferrer\" target=\"_blank\">Official Urban Dictionary Twitter</a></li>\n<li>👥 <a href=\"https://www.facebook.com/urbandictionary\" rel=\"noopener noreferrer\" target=\"_blank\">Facebook</a></li>\n<li>🎥 Related YouTubers and Instagrammers often feature content based on Urban Dictionary entries, enhancing community engagement. </li>\n</ul>\n<p>Please note that community engagement can vary, and while some platforms like Instagram or TikTok may not have official Urban Dictionary channels, fans and creators often discuss and share content related to the app's definitions.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-spidevder-manipulation_dark_psychology/34778.html",
+      "icon": "assets/img/apk/icon/com.spidevder.manipulation_dark_psychology.png",
+      "name": "Manipulation dark psychology",
+      "categoryLink": "/en/categories/books.reference/4",
+      "category": "Books & Reference",
+      "rating": "3.4"
+    },
+    {
+      "link": "/details/com-ardasen-witchcraftspells_wicca/16964.html",
+      "icon": "assets/img/apk/icon/com.ardasen.witchcraftspells_wicca.png",
+      "name": "Witchcraft & Wicca Spells",
+      "categoryLink": "/en/categories/books.reference/4",
+      "category": "Books & Reference",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-redstone-guide-minecraft/16759.html",
+      "icon": "assets/img/apk/icon/com.redstone.guide.minecraft.png",
+      "name": "Redstone Guide with Tutorials",
+      "categoryLink": "/en/categories/books.reference/4",
+      "category": "Books & Reference",
+      "rating": "3.4"
+    },
+    {
+      "link": "/details/com-fmproject-lovella/16371.html",
+      "icon": "assets/img/apk/icon/com.fmproject.lovella.png",
+      "name": "Lovella - Novels & Audiobooks",
+      "categoryLink": "/en/categories/books.reference/4",
+      "category": "Books & Reference",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-jr-cdxs-ereader/16222.html",
+      "icon": "assets/img/apk/icon/com.jr.cdxs.ereader.png",
+      "name": "ReadNow - My CEO Daddy -Novels",
+      "categoryLink": "/en/categories/books.reference/4",
+      "category": "Books & Reference",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-embria-freefm/16221.html",
+      "icon": "assets/img/apk/icon/com.embria.freefm.png",
+      "name": "WhisperFM - Romance Novels",
+      "categoryLink": "/en/categories/books.reference/4",
+      "category": "Books & Reference",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-fmproject-moonlit-novels/16186.html",
+      "icon": "assets/img/apk/icon/com.fmproject.moonlit.novels.png",
+      "name": "MoonLit - Werewolf Novels",
+      "categoryLink": "/en/categories/books.reference/4",
+      "category": "Books & Reference",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-purplerobo-bookoftheanswers/14232.html",
+      "icon": "assets/img/apk/icon/com.purplerobo.bookoftheanswers.png",
+      "name": "The Book of Answers",
+      "categoryLink": "/en/categories/books.reference/4",
+      "category": "Books & Reference",
+      "rating": "3.7"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/com.parkopedia.png",
+    "title": "Parkopedia Parking",
+    "ratings": "3.6",
+    "downloads": "370M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Parkopedia Parking"
+    },
+    {
+      "name": "category",
+      "value": "Maps & Navigation"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Parkopedia Ltd"
+    },
+    {
+      "name": "Version",
+      "value": "2.3.0.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/HARaDB454PDP_BvvP4BO54qgdwCEzPo5MTnTEgRXSsTNVptLLbovD_kqymiTp2HuubeZ",
+    "https://play-lh.googleusercontent.com/DiCw0bD6urHy-dU1r7EgeMsi-58JnVRoefHKAy2toy7VVdEs1GsgWuELY34ZzVFqjdSw",
+    "https://play-lh.googleusercontent.com/kwDa0rDjbQ17dSOh2O1tp7mD_ECoqfLcjzCq1ZH6u-NhehcIkXjHZ8ls-uMPFAzZR176",
+    "https://play-lh.googleusercontent.com/2Ryy1F2QlYiM7DK-6NcJeN5d756I2kDXla7omwd5sUTt5t3-nS1bg2r-ARVYc9UpuQ",
+    "https://play-lh.googleusercontent.com/ZtaOa_QIq8t7_kiOs_UjrsilOrDhfAQvi7dwSUPfNGp3lCxw2VkbHV4BcT9jcEBK7ng"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> Parkopedia Parking</p>\n<h3>Brief: 📱</h3>\n<p>Parkopedia Parking is your digital assistant for finding parking spaces swiftly and efficiently. This app empowers drivers to locate nearby parking areas by using their current location or by entering a desired address. It guides users to the space or entrance and, for premium users, displays real-time parking space availability.</p>\n<h3>Core Features: 🔍</h3>\n<ul>\n<li><strong>Real-Time Space Availability:</strong> Keep ahead of the parking game with live updates on available spots (requires Premium upgrade) 🅿️.</li>\n<li><strong>Dynamic Search Filters:</strong> Customize your search with filters such as street parking, free spaces, and credit card acceptance 🛠️.</li>\n<li><strong>Extensive Parking Details:</strong> Access comprehensive information, including opening hours, prices, and accepted payment methods 📅.</li>\n<li><strong>Seamless Navigation:</strong> Receive turn-by-turn directions to your chosen parking location or entrance 🧭.</li>\n<li><strong>Add Parking Locations:</strong> Contribute to the community by adding parking spaces with a simple photo upload 📸.</li>\n</ul>\n<h3>Pros: 👍</h3>\n<ul>\n<li><strong>User-Friendly Interface:</strong> Easily navigate the app and make quick parking decisions 🌟.</li>\n<li><strong>Time-Saving:</strong> Save precious time by avoiding the hunt for parking spots 🕒.</li>\n<li><strong>Informative Updates:</strong> Stay informed with the latest on parking availability and costs 🔄.</li>\n<li><strong>Community-Centric:</strong> The ability to add new parking spaces enriches the app's database and utility 🤝.</li>\n</ul>\n<h3>Cons: 👎</h3>\n<ul>\n<li><strong>Premium Requirement:</strong> Some features, like real-time availability, are locked behind a premium upgrade 💸.</li>\n<li><strong>Coverage Limitations:</strong> Certain areas may not yet be covered by the app's services 🌐.</li>\n<li><strong>Internet Dependency:</strong> A stable internet connection is necessary for app functionality 📶.</li>\n<li><strong>Limited Free Features:</strong> Utilizing the full potential of the app may incur additional costs 🚧.</li>\n</ul>\n<h3>Price: 💵</h3>\n<p>The Parkopedia Parking app is available for free download, with essential features accessible without payment. Premium features come at an extra cost, providing real-time parking space availability among other advanced options.</p>\n<hr/>\n<p>To stay updated or reach out for support, visit <a href=\"http://twitter.com/parkopedia\" rel=\"noopener noreferrer\" target=\"_blank\">Parkopedia's Twitter</a> or contact [email protected] (remove spaces when emailing).</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-hundred-qibla-finder/14082.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.hundred.qibla.finder.png",
+      "name": "Qibla Finder Compass 100%",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/kbk-maparea-measure-geo/5067.html",
+      "icon": "https://img.buzzsight.co/apk/icon/kbk.maparea.measure.geo.png",
+      "name": "Gps Area Calculator",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "3.9"
+    },
+    {
+      "link": "/details/Offline-Maps-GPS-Speedometer/4633.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.radarapp.trip.speedometer.png",
+      "name": "Offline Maps, GPS, Speedometer",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/Satellite-View-Offline/4620.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.breezeammarathon.viskoproton.grampooffline.png",
+      "name": "Satellite View Offline",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/Rapido/4563.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.rapido.passenger.png",
+      "name": "Rapido",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/CarInfo/4500.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.cuvora.carinfo.png",
+      "name": "CarInfo",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-trailbehind-android-gaiagps-pro/4473.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.trailbehind.android.gaiagps.pro.png",
+      "name": "Gaia GPS: Offroad Hiking Maps",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-gpsnavigation-maps-gpsroutefinder-routemap/4472.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.gpsnavigation.maps.gpsroutefinder.routemap.png",
+      "name": "GPS Navigation: Road Map Route",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    }
+  ]
+}

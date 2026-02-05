@@ -1,0 +1,110 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.passportparking.mobile.toronto.png",
+    "title": "Green P",
+    "ratings": "4.4",
+    "downloads": "700M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Green P"
+    },
+    {
+      "name": "category",
+      "value": "Maps & Navigation"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Toronto Parking Authority"
+    },
+    {
+      "name": "Version",
+      "value": "9.2.10"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/0t5H23tej_RbHyUs-VXaXkEAhXc0dU74ETURYy3FpXvwuYHL8kKkUa4VJ0aQf3Fxdw",
+    "https://play-lh.googleusercontent.com/x9cLBIQO1yoiaCawapfp3FFxokVprMehaRHtcptzkqevGn8gB3eZl7A-F0ntVyoDAg",
+    "https://play-lh.googleusercontent.com/NFj33sxFKpD6jqBQFTHLBzlHGBkbIs9PaGBbWkahxYyKro_BO9WUDRb3W2rukuWi_kuR",
+    "https://play-lh.googleusercontent.com/IhJYvWtXgHKwX0g8qa5vJ51HIYKNjWlyPKkpeXFVC9jd4zpFdenXIF4_AD3IBzX4Cw",
+    "https://play-lh.googleusercontent.com/6zvAkjyqbWAoTGYk37Ii98njZTqHno1u5iDz0oe_2QFB4G789S1-bB0UD-mqsSNoLbo",
+    "https://play-lh.googleusercontent.com/ROoqm3zrtAukCChj4Hux7nrLl5i46V-tX-MQB6gjFmGE0c4c2Eg8lR7Ls_XUM3otkQ"
+  ],
+  "app_descript": "<h3>Brief</h3>\n<p>Green P is a revolutionary parking app designed for those who value convenience and peace of mind when parking in Toronto. This app allows you to pay for your parking space using a credit card or PayPal directly from your phone, sending all the hassle of traditional parking meters to the rearview mirror.</p>\n<h3>Core Features 🌟</h3>\n<ul>\n<li><strong>Payment Flexibility</strong>: Pay on-the-go using a credit card or PayPal. 💳</li>\n<li><strong>Email Receipts</strong>: Receive instant email receipts after each parking session. 📧</li>\n<li><strong>Time Alerts</strong>: Get reminded before your session expires, so you never have to sprint back to your car. ⏰</li>\n<li><strong>Parking Session Extension</strong>: Extend your parking duration with just a few taps on your device, preventing those unwanted parking tickets. 🕒</li>\n<li><strong>Zone Locator</strong>: Utilize Location Services to find nearby parking zones swiftly. 📍</li>\n</ul>\n<h3>Pros 👍</h3>\n<ul>\n<li><strong>Utmost Convenience</strong>: Say goodbye to loose change and standing in line at parking meters. 🛑</li>\n<li><strong>No More Overpaying</strong>: Only pay for the time you need, with the ability to extend parking remotely. 💸</li>\n<li><strong>Avoid Parking Fines</strong>: Timely alerts keep you on top of your parking situation. 🚓</li>\n<li><strong>Effortless Management</strong>: Track and manage your parking history and receipts digitally. 📲</li>\n</ul>\n<h3>Cons 👎</h3>\n<ul>\n<li><strong>Dependent on Internet</strong>: Requires an internet connection for functionality. 🌐</li>\n<li><strong>Location Limited</strong>: Primarily usable in areas where Green P signs or decals are displayed. 🗺️</li>\n<li><strong>Mobile Phone Regulations</strong>: Cannot be used while driving, in adherence to Ontario's laws. 📵</li>\n<li><strong>Payment Methods</strong>: Limited to credit cards and PayPal, excluding other forms of payment. 💰</li>\n</ul>\n<h3>Pricing 💵</h3>\n<p>Green P is a free app, with no upfront costs. Individual parking sessions will be charged according to the prevailing parking rates, and payments can be made directly through the app using your credit card or PayPal account.</p>\n<p><a href=\"https://play.google.com/store/apps/details?id=com.passportparking.mobile.toronto\" rel=\"noopener noreferrer\" target=\"_blank\">Download Green P now</a> and step into the future of seamless parking.</p>\n<p><em>(Note: Prices for parking are subjected to change based on location and city pricing policies. Please review the app for the most current rates.)</em></p>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-hundred-qibla-finder/14082.html",
+      "icon": "assets/img/apk/icon/com.hundred.qibla.finder.png",
+      "name": "Qibla Finder Compass 100%",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/kbk-maparea-measure-geo/5067.html",
+      "icon": "assets/img/apk/icon/kbk.maparea.measure.geo.png",
+      "name": "Gps Area Calculator",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "3.9"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/Offline-Maps-GPS-Speedometer/4633.html",
+      "icon": "assets/img/apk/icon/com.radarapp.trip.speedometer.png",
+      "name": "Offline Maps, GPS, Speedometer",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.2"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/Satellite-View-Offline/4620.html",
+      "icon": "assets/img/apk/icon/com.breezeammarathon.viskoproton.grampooffline.png",
+      "name": "Satellite View Offline",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/Rapido/4563.html",
+      "icon": "assets/img/apk/icon/com.rapido.passenger.png",
+      "name": "Rapido",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/CarInfo/4500.html",
+      "icon": "assets/img/apk/icon/com.cuvora.carinfo.png",
+      "name": "CarInfo",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.1"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-trailbehind-android-gaiagps-pro/4473.html",
+      "icon": "assets/img/apk/icon/com.trailbehind.android.gaiagps.pro.png",
+      "name": "Gaia GPS: Offroad Hiking Maps",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.2"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-gpsnavigation-maps-gpsroutefinder-routemap/4472.html",
+      "icon": "assets/img/apk/icon/com.gpsnavigation.maps.gpsroutefinder.routemap.png",
+      "name": "GPS Navigation: Road Map Route",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    }
+  ]
+}

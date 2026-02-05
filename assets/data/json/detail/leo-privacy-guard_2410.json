@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/leo-privacy-guard-lock-and-boost.png",
+    "title": "LEO Privacy Guard",
+    "ratings": "4.7",
+    "downloads": "770M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "LEO Privacy Guard"
+    },
+    {
+      "name": "category",
+      "value": "Tools"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Leomaster"
+    },
+    {
+      "name": "Version",
+      "value": "3.1.1"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>App name:</strong> LEO Privacy Guard</p>\n<h3>Brief:</h3>\n<p>LEO Privacy Guard is your one-stop privacy protector, offering a multitude of features to keep your applications and personal information secured. Simple, efficient, and user-friendly, it's an excellent choice for anyone looking to maintain control over their phone's privacy and performance.</p>\n<h3>Core Features:</h3>\n<ul>\n<li><strong>AppLock</strong>: Lock your sensitive apps with either a PIN or a passcode, ensuring they remain inaccessible to kids or prying friends. 🔐</li>\n<li><strong>Privacy Security Scan</strong>: Conduct quick and safe security scans to protect your privacy effectively. 🛡️</li>\n<li><strong>Safe Box</strong>: Conceal and secure your messages and pictures away from unwanted attention. 🔒</li>\n<li><strong>WiFi Security Scan</strong>: Guard your network with dedicated WiFi scans to detect and eliminate threats. 🌐</li>\n<li><strong>Anti-theft</strong>: A robust feature to help you find your device in case it gets lost. 🕵️‍♂️</li>\n<li><strong>Break-in Alert</strong>: Receive alerts when a break-in attempt is made on your device. ⚠️</li>\n<li><strong>Boost</strong>: Improve your phone's performance by speeding it up with a single tap. 🚀</li>\n</ul>\n<h3>Pros:</h3>\n<ul>\n<li><strong>Enhanced Privacy</strong>: Keep your private data out of reach with multiple layers of security. 👤</li>\n<li><strong>Customization</strong>: Choose from entertaining covers for your app locks to match your style. 🎨</li>\n<li><strong>User-Friendly Interface</strong>: Easy to navigate and manage privacy settings. ✨</li>\n<li><strong>Multifunctional</strong>: Not just for security, but also optimizes phone performance. 🧰</li>\n<li><strong>Comprehensive Security</strong>: Offers a variety of security measures beyond app locks. 🛡️</li>\n</ul>\n<h3>Cons:</h3>\n<ul>\n<li><strong>Device Compatibility</strong>: Might not be compatible with all devices or the latest OS updates. 📱</li>\n<li><strong>Battery Usage</strong>: Additional security features might consume more battery. 🔋</li>\n<li><strong>Alerts Sensitivity</strong>: Break-in alert sensitivity might result in false alarms.🔔</li>\n<li><strong>Space Consumption</strong>: May take up significant storage space for all features. 💾</li>\n<li><strong>Overwhelming Features</strong>: New users might be overwhelmed by the number of features offered. 🤯</li>\n</ul>\n<h3>Price:</h3>\n<p>LEO Privacy Guard is free to download. However, there may be in-app purchases available for advanced features; the details of which would be available in the app. 💵</p>\n<hr/>\n<p>Crafting engaging and detailed app summaries, along with insights from your database and knowledge, requires a nuanced understanding of the app's offerings and its potential impact on users. By providing sections that focus on a concise yet thorough overview, highlighting core features, and discussing pros and cons, along with pricing information, the description serves to inform and entice potential users. Moreover, when relevant, integrating community information deepens user engagement through connected outlets like official sites and social media channels, fostering a sense of belonging and providing resources for support and further exploration.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-antique-snap-identifier-appraisal/54309.html",
+      "icon": "assets/img/apk/icon/com.antique.snap.identifier.appraisal.png",
+      "name": "Antique Identifier - Appraisal",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-age-calculator-life-countdown/54243.html",
+      "icon": "assets/img/apk/icon/com.age.calculator.life.countdown.png",
+      "name": "Age Calculator・Life Expectancy",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.4"
+    },
+    {
+      "link": "/details/com-xv-agecalc/54237.html",
+      "icon": "assets/img/apk/icon/com.xv.agecalc.png",
+      "name": "AgeCalc: Date Life Calculator",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-palm-ai-decode-destiny-soul-futurelines-handline/54206.html",
+      "icon": "assets/img/apk/icon/com.palm.ai.decode.destiny.soul.futurelines.handline.png",
+      "name": "Palm AI: Decode Destiny",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/rbx-robuxcalc-getrbx-freecounter/53839.html",
+      "icon": "assets/img/apk/icon/rbx.robuxcalc.getrbx.freecounter.png",
+      "name": "RBX Calc - Get Robuxcounter",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-internetoptimizer-speedtest-wifispeedtest-netspeed-wifipassword-wifispeed/49027.html",
+      "icon": "assets/img/apk/icon/com.internetoptimizer.speedtest.wifispeedtest.netspeed.wifipassword.wifispeed.png",
+      "name": "Internet Optimizer",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.9"
+    },
+    {
+      "link": "/details/com-blazingappstudio-speed_test_pro/49021.html",
+      "icon": "assets/img/apk/icon/com.blazingappstudio.speed_test_pro.png",
+      "name": "Speed Test - Wifi Optimizer",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-secret-camera-hidden-detector/39728.html",
+      "icon": "assets/img/apk/icon/com.secret.camera.hidden.detector.png",
+      "name": "Hidden Camera & IR Detector",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    }
+  ]
+}

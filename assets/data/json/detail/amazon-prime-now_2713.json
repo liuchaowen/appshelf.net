@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/com.amazon.now.png",
+    "title": "Amazon Prime Now",
+    "ratings": "4.3",
+    "downloads": "790M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Amazon Prime Now"
+    },
+    {
+      "name": "category",
+      "value": "Shopping"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Amazon Mobile LLC"
+    },
+    {
+      "name": "Version",
+      "value": "4.21.2"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> Amazon Prime Now</p>\n<p><strong>App Package Name:</strong> com.amazon.now</p>\n<h3>Brief</h3>\n<p>Experience swift and convenient shopping with the Amazon Prime Now app. Catering to a bustling lifestyle, this service is operational from dawn until dusk, every day of the week. Currently accessible in a wide array of locations, Prime Now simplifies your grocery runs, gift buying, and cravings for local delicacies by bringing them right to your doorstep from familiar neighborhood stores and restaurants.</p>\n<h3>Core Features 📌</h3>\n<ul>\n<li><strong>Widespread Availability:</strong> Serviceable in multiple areas including major cities across the United States like Atlanta, Los Angeles, and New York City.</li>\n<li><strong>Local Store Selections:</strong> Access a variety of stores such as Fresh Thyme, Bristol Farms, and Pet Food Express for specialized shopping experiences.</li>\n<li><strong>Restaurant Deliveries:</strong> Enjoy meals from top-rated restaurants and renowned chains like P.F. Chang's and Red Lobster.</li>\n<li><strong>Convenient Hours:</strong> Shop at your convenience, as Prime Now operates from morning to night 7 days a week.</li>\n</ul>\n<h3>Pros 👍</h3>\n<ul>\n<li><strong>Speedy Delivery:</strong> Fast delivery times that satisfy urgent needs and spontaneous desires.</li>\n<li><strong>Diverse Shopping Options:</strong> A wide range of products from groceries to spirits, ensuring a comprehensive shopping experience.</li>\n<li><strong>Localized Service:</strong> The ability to shop from neighborhood stores fosters a sense of community support.</li>\n<li><strong>Ease of Use:</strong> Intuitive app experience that simplifies the process of ordering and tracking deliveries.</li>\n</ul>\n<h3>Cons 👎</h3>\n<ul>\n<li><strong>Limited Accessibility:</strong> Service is restricted to select areas, which may exclude some users from experiencing Prime Now.</li>\n<li><strong>Variable Selection:</strong> Store participation may vary by location which can limit product availability.</li>\n<li><strong>Membership Requirement:</strong> Amazon Prime membership is necessary to use the service, adding an additional cost for consumers.</li>\n<li><strong>Dynamic Pricing:</strong> As with many delivery services, prices can fluctuate and may include delivery fees.</li>\n</ul>\n<h3>Pricing 💵</h3>\n<p>The Amazon Prime Now app itself is free to download. However, users must have an Amazon Prime membership to utilize the service. Prices for items and delivery may vary, and in-app purchases could be required for certain orders or to tip the delivery personnel.</p>\n<h3>Community 🕸️</h3>\n<p>While the app provides a seamless link to local stores and restaurants, fostering a sense of community engagement, specific details regarding an online community centered around the Amazon Prime Now service were not provided, and thus no links or references to social media or community pages are included.</p>\n<hr/>\n<p><em>Enjoy the convenience of city life with everything you need, just a few taps away! Download the Amazon Prime Now app and redefine the way you shop.</em></p>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-seagm-store/54458.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.seagm.store.png",
+      "name": "SEAGM - Games Topup, Gift Card",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.7"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-gowish-app/39285.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.gowish.app.png",
+      "name": "GoWish - Your Digital Wishlist",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.7"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-aldisued-shopgo/16934.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.aldisued.shopgo.png",
+      "name": "ALDI SHOP&GO",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.2"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-wakefern-shoprite/16933.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.wakefern.shoprite.png",
+      "name": "ShopRite: Groceries & Savings",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.7"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-yaxo-vancamper/16894.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.yaxo.vancamper.png",
+      "name": "Vancamper: Buy sell campervans",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.8"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-elfster-elfdroid/16861.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.elfster.elfdroid.png",
+      "name": "Elfster: The Secret Santa App",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.7"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-biggu-shopsavvy/16860.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.biggu.shopsavvy.png",
+      "name": "ShopSavvy - Barcode Scanner",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/moloapps-gifttracker/16845.html",
+      "icon": "https://img.buzzsight.co/apk/icon/moloapps.gifttracker.png",
+      "name": "GiftTracker : Gift List Helper",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.1"
+    }
+  ]
+}

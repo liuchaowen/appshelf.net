@@ -1,0 +1,109 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.mrnumber.blocker.png",
+    "title": "Mr. Number",
+    "ratings": "3.5",
+    "downloads": "250M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Mr. Number"
+    },
+    {
+      "name": "category",
+      "value": "Communication"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Hiya"
+    },
+    {
+      "name": "Version",
+      "value": "11.5.9-9491"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/H6spnMAVI8RNVE15d-vlbSzP9QIbkE7gyNgvHVSDQXos8l4lrO4EAlqUuy-Dsj1HGw",
+    "https://play-lh.googleusercontent.com/7n-j2cLoPFLqqx_Pez8rNljDWnFnSvKvQkwr6vbe2hoVrG0MSPZQpKDZeRD-mxTY-o4",
+    "https://play-lh.googleusercontent.com/z-Yt2wBUUw_qfJ-qI5cJ0KE-AfEHVvoLVzBDLkCqO2GQqqu2b6Blhp5l5Fa1Tb9kB4an",
+    "https://play-lh.googleusercontent.com/_Kq_2pWTpDNKhOdtGyr7HDF8Yh-aK1TEmtHKRawkGDw_E3kg2TOphzoYAYIeK9P-3r0",
+    "https://play-lh.googleusercontent.com/mGcY4U9M8eHGgp9P4xeOHik8mfJnZ4O6P80uV-RyQmlcZOplf8Pc5Qe3bDKr_Gi7CQ"
+  ],
+  "app_descript": "<h3>Brief</h3>\n<p>Mr. Number is a robust call blocking application designed to provide users with seamless control over their incoming calls. By utilizing powerful tools to intercept private calls, report spam, and automatically identify callers from recent call history, Mr. Number stands as an invaluable asset for anyone looking to enhance their call management and maintain their privacy.</p>\n<h3>Core Features 🌟</h3>\n<ul>\n<li><strong>Call Interception</strong> - Direct calls from unknown or private numbers straight to voicemail, ensuring that unwanted callers can't disturb you. 📵</li>\n<li><strong>Spam Reporting</strong> - Join a community defense by reporting spam calls, contributing to a database that helps warn others of potential spam. 🚫</li>\n<li><strong>Caller Lookup</strong> - Automatic identification of recent callers allows you to quickly discern who to block for your convenience and safety. 🔍</li>\n<li><strong>Spam Call Blocking</strong> - A highly effective spam blocker that automatically prevents fraud and suspected spam calls from reaching you. ☎️</li>\n<li><strong>Community Insights</strong> - Access insights and comments from other users on spam calls to make informed blocking decisions. 🗨️</li>\n</ul>\n<h3>Pros 👍</h3>\n<ul>\n<li><strong>Effective Blocking</strong>: Exceptionally powerful at blocking a wide range of unwanted calls including private, business, and hidden numbers. 🛡️</li>\n<li><strong>Enhanced Privacy</strong>: Increases your privacy by preventing unwanted callers from interrupting. 🕵️‍♂️</li>\n<li><strong>Automatic Call Identification</strong>: No need to manually look up numbers, as the app does it for you. 🤖</li>\n<li><strong>Award-Winning Utility</strong>: Recognized by PCMag and the New York Times for its utility and popularity. 🏆</li>\n<li><strong>Community-Based</strong>: Benefit from the shared knowledge of a vast user community when dealing with potential spam calls. 🤝</li>\n</ul>\n<h3>Cons 👎</h3>\n<ul>\n<li><strong>Potential Overblocking</strong>: May inadvertently block important calls identified as spam. 🚷</li>\n<li><strong>Dependence on User Reports</strong>: Effectiveness can vary based on users' spam reporting activity. 🔃</li>\n<li><strong>Privacy Concerns</strong>: Automatic call identification may raise concerns about data privacy for some users. 🕵️‍♀️</li>\n<li><strong>False Positives</strong>: There's a chance of legitimate businesses or contacts being marked as spam by the community. ❗</li>\n<li><strong>Notification Inundation</strong>: Users may receive frequent notifications regarding spam calls or community updates. 📲</li>\n</ul>\n<h3>Price 💵</h3>\n<p>Mr. Number is free to download and use, with some premium features available via in-app purchases. The specific pricing details for premium features, if any, are accessible within the app for interested users.</p>\n<p>Given that the app has garnered significant acclaim and features in well-regarded publications, users looking for a dynamic solution to manage and block unwanted calls will find Mr. Number to be a comprehensive tool tailored for their needs.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-sst-parrot-photo-frame/53901.html",
+      "icon": "assets/img/apk/icon/com.sst.parrot.photo.frame.png",
+      "name": "Bird Photo Frame",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-new_year-stickers-birthday/39669.html",
+      "icon": "assets/img/apk/icon/com.new_year.stickers.birthday.png",
+      "name": "Happy New Year Stickers 2026",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/org-watchduty-app/14524.html",
+      "icon": "assets/img/apk/icon/org.watchduty.app.png",
+      "name": "Watch Duty (Wildfire)",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-snowcorp-stickerly-android/14453.html",
+      "icon": "assets/img/apk/icon/com.snowcorp.stickerly.android.png",
+      "name": "Sticker.ly - Sticker Maker",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-Happynewyearphotoframe2020/14421.html",
+      "icon": "assets/img/apk/icon/com.Happynewyearphotoframe2020.png",
+      "name": "New Year Video Maker 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-intira-new-year-photo-frame-new/14342.html",
+      "icon": "assets/img/apk/icon/com.intira.new.year.photo.frame.new.png",
+      "name": "New year photo frame 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-christmas-photo-frame-b-new-free/14203.html",
+      "icon": "assets/img/apk/icon/com.christmas.photo.frame.b.new.free.png",
+      "name": "Christmas photo frame 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/ma-apps-face_ml/14137.html",
+      "icon": "assets/img/apk/icon/ma.apps.face_ml.png",
+      "name": "Face reader scanner - analyser",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "3.3"
+    }
+  ]
+}

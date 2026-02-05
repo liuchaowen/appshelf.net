@@ -1,0 +1,107 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.on24.emwebinarworld.png",
+    "title": "ON24 Webinar World",
+    "ratings": "4.5",
+    "downloads": "410M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "ON24 Webinar World"
+    },
+    {
+      "name": "category",
+      "value": "Business"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "ON24, Inc."
+    },
+    {
+      "name": "Version",
+      "value": "1.0.1"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/ek_zyFVGf0qU4lHXy0SNvxHMNVGKTdYhMGcMhalJ_aZ8hKGssONYFcJqZV2E3O4Al9bz",
+    "https://play-lh.googleusercontent.com/5EIVreL-w-alQApPTNIG-oeFojAP5523QmJvHTVfNMTP3zhMWIrkWL2SOD5l6BKQoi4",
+    "https://play-lh.googleusercontent.com/ukuYUjO8O2zSEbnFDM_Y4gfC1HIdnh5Mhq90blzjRmhmMo9nl-BI3lsS5qLW0IoF2DY"
+  ],
+  "app_descript": "<h3>Brief</h3>\n<p>The ON24 Webinar World app is an immersive platform tailored for the digital event experience. While the original description lacks details, with the app name and package information, we can unlock the potential of this application designed for professionals eager to connect and engage through webinars.</p>\n<h3>Core Features</h3>\n<ul>\n<li>📹 <strong>Live Webinar Streaming</strong>: Participate in live webinars with a seamless streaming experience. 🖥️</li>\n<li>🤝 <strong>Networking Opportunities</strong>: Connect with industry peers and thought leaders during events. 🗣️</li>\n<li>📊 <strong>Analytics Dashboard</strong>: Monitor engagement and analyze data to improve future webinars. 🔍</li>\n<li>📑 <strong>Interactivity Tools</strong>: Engage with polls, surveys, and Q&amp;A sessions during the webinar. 💡</li>\n<li>🔄 <strong>On-Demand Access</strong>: Watch previous webinars on-demand at your convenience. 🕒</li>\n</ul>\n<h3>Pros</h3>\n<ul>\n<li>👨‍💼 <strong>Professional Development</strong>: Expand your knowledge and stay updated on industry trends. 🚀</li>\n<li>🌐 <strong>Global Reach</strong>: Participate in events from anywhere in the world. 🌍</li>\n<li>📈 <strong>Enhanced Engagement</strong>: Interactive tools increase participant engagement and information retention. ✨</li>\n<li>🗓️ <strong>Personalized Calendar</strong>: Keep track of upcoming webinars and schedule them with ease. 📅</li>\n</ul>\n<h3>Cons</h3>\n<ul>\n<li>📶 <strong>Reliant on Internet Connection</strong>: Performance heavily dependent on the stability of your internet connection. 🌐</li>\n<li>📱 <strong>Device Compatibility</strong>: May not be optimized for all devices, potentially limiting access for some users. 📵</li>\n<li>🧩 <strong>Learning Curve</strong>: Newcomers may require time to get accustomed to the breadth of features. 🛠️</li>\n<li>🔒 <strong>Content Restrictions</strong>: Some webinars might be restricted to certain audiences or require payment. 🚫</li>\n</ul>\n<h3>Price</h3>\n<ul>\n<li>💵 The ON24 Webinar World app is typically offered with a free download, but certain webinars or features might come with associated costs. Pricing details for such content are expected to be provided within the app or on the host's website.</li>\n</ul>\n<p>By harnessing the power of virtual engagement, ON24 Webinar World emerges as a robust platform for professionals seeking knowledge, networking, and industry insight. While offering a range of features to enhance the user experience, it also comes with considerations related to accessibility and usability that responders should be aware of.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-kj2147575505-app/16858.html",
+      "icon": "assets/img/apk/icon/com.kj2147575505.app.png",
+      "name": "Alpha Omega Consulting",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-hypertide-petscan-v8m/15982.html",
+      "icon": "assets/img/apk/icon/com.hypertide.petscan.v8m.png",
+      "name": "PetScan",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "2"
+    },
+    {
+      "link": "/details/com-animalid-scanner/15981.html",
+      "icon": "assets/img/apk/icon/com.animalid.scanner.png",
+      "name": "Pet Scanner",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-webrange-sendoff-app/15417.html",
+      "icon": "assets/img/apk/icon/com.webrange.sendoff.app.png",
+      "name": "Sendoff Funeral App",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-dyve-countthings/10295.html",
+      "icon": "assets/img/apk/icon/com.dyve.countthings.png",
+      "name": "CountThings from Photos",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "3"
+    },
+    {
+      "link": "/details/com-countthis-count-things-counting-template-counter/5097.html",
+      "icon": "assets/img/apk/icon/com.countthis.count.things.counting.template.counter.png",
+      "name": "Count This・Counting Things App",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-aadi-personalitytraittest/4991.html",
+      "icon": "assets/img/apk/icon/com.aadi.personalitytraittest.png",
+      "name": "Personality Trait Test",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/GlowRoad/4569.html",
+      "icon": "assets/img/apk/icon/com.localqueen.png",
+      "name": "GlowRoad",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.6"
+    }
+  ]
+}

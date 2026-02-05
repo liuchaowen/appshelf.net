@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.sika524.android.quickshortcut.png",
+    "title": "QuickShortcutMaker",
+    "ratings": "4.2",
+    "downloads": "740M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "QuickShortcutMaker"
+    },
+    {
+      "name": "category",
+      "value": "Photography"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "sika524"
+    },
+    {
+      "name": "Version",
+      "value": "2.4.0"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>QuickShortcutMaker</strong></p>\n<p><strong>Brief:</strong>\nQuickShortcutMaker is an innovative tool designed to create shortcuts for apps, activities, and hidden settings on your smartphone. This personalization app makes it simple to access features and configurations that are not typically visible, streamlining your mobile experience. Although highly beneficial, users are reminded to utilize QuickShortcutMaker at their own risk.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🛠️ Shortcut Creation: Generate shortcuts to any app or hidden setting swiftly.</li>\n<li>🗂️ Activity Grouping: Lists activities grouped by app for easy access.</li>\n<li>🎨 Theme Support: Compatible with various themes including Launcher3, Atom, Solo, and more.</li>\n<li>📲 Home Screen Widget: Add a QuickShortcutMaker widget for even faster shortcut management.</li>\n<li>🗣️ Multilingual Support: Available in multiple languages, including Italian, Arabic, French, Spanish, and more.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👌 User-friendly: Intuitive interface simplifies the creation and management of shortcuts.</li>\n<li>👍 Accessibility: Provides access to settings and features not usually accessible through standard navigation.</li>\n<li>⏱️ Efficient Workflow: Saves time by placing frequently used settings/activities on the home screen.</li>\n<li>✔️ Customization: Enhances phone personalization by allowing users to tailor shortcuts to their preference.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>⚠️ Usage Risks: Users must acknowledge potential issues as the developer disclaims responsibility.</li>\n<li>📡 Internet Permission: Requires network access permission for error reporting, which might concern privacy-focused users.</li>\n<li>📊 Occasionally Cluttered UI: Some users may find the interface dense when managing a large number of shortcuts.</li>\n<li>⚙️ Limited Appeal: Primarily caters to advanced users who need access to deep system settings.</li>\n</ul>\n<p><strong>Price:</strong>\n💵 The app is free to download and use, which makes it an accessible tool for many users. While primarily free, the app requires internet permission to send detailed error reports, ensuring the continuous improvement of its features.</p>\n<p><strong>Community:</strong>\nAs QuickShortcutMaker is a utility app and not a game, there is no community section detailed according to the provided instruction constraints. </p>\n<p><a href=\"https://play.google.com/store/apps/details?id=com.sika524.android.quickshortcut\" rel=\"noopener noreferrer\" target=\"_blank\">QuickShortcutMaker on Google Play</a></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-bhimaapps-valentineday/54159.html",
+      "icon": "assets/img/apk/icon/com.bhimaapps.valentineday.png",
+      "name": "Valentine Day Live Wallpaper",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "3"
+    },
+    {
+      "link": "/details/com-St-ValentinesDayLiveWallpaper/54154.html",
+      "icon": "assets/img/apk/icon/com.St.ValentinesDayLiveWallpaper.png",
+      "name": "Valentines Day Live Wallpaper",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-plaxa-parallax3d-wallpaper-overlay-touch-effect-aura/53773.html",
+      "icon": "assets/img/apk/icon/com.plaxa.parallax3d.wallpaper.overlay.touch.effect.aura.png",
+      "name": "Plaxa: Parallax Aura Wallpaper",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-happynewyear-hdwallpapers/49048.html",
+      "icon": "assets/img/apk/icon/com.happynewyear.hdwallpapers.png",
+      "name": "Happy New Year 2026 Wallpaper",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-photo-editor-photocalendar/49045.html",
+      "icon": "assets/img/apk/icon/com.photo.editor.photocalendar.png",
+      "name": "Calendar Maker: Photo Editor",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-watchfacestudio-animatedanalogfireworkswatchface/48946.html",
+      "icon": "assets/img/apk/icon/com.watchfacestudio.animatedanalogfireworkswatchface.png",
+      "name": "Fireworks Happy New Year's Eve",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/happy-neww-bighabits-year-images-wishes-gifs-day-stickers-wallpaper/48940.html",
+      "icon": "assets/img/apk/icon/happy.neww.bighabits.year.images.wishes.gifs.day.stickers.wallpaper.png",
+      "name": "Happy New Year 2026 Habits",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-starwatchfaces-hnyanimated/48934.html",
+      "icon": "assets/img/apk/icon/com.starwatchfaces.hnyanimated.png",
+      "name": "Happy New Year Animated",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4"
+    }
+  ]
+}

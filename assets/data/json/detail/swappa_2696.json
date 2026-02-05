@@ -1,0 +1,111 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/swappa-app.png",
+    "title": "Swappa",
+    "ratings": "4.5",
+    "downloads": "360M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Swappa"
+    },
+    {
+      "name": "category",
+      "value": "Shopping"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Swappa, LLC"
+    },
+    {
+      "name": "Version",
+      "value": "1.2.4"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/dS-_eIIYcagx4adNNhYKml-nUOvFmkBUC8Fxih8k4nrThMLwZ9T7wmsq_E0efQU1jAc",
+    "https://play-lh.googleusercontent.com/cCEvHTXPuq2nNU-19oeRbWTMKBT4Ga2w2AiBUWnREuSr-chC3xMnWMbWB_vrZX4abw",
+    "https://play-lh.googleusercontent.com/cER1rNTflrOVQsTD2BOisXOmFNMwI0e4gGNHY38frv0_hldH1XkEizWdythZKUh1Mj6j",
+    "https://play-lh.googleusercontent.com/cOyxRipd4I7NvdeXyiFStyqahJDtkWfSQGU6vaorXObwe_noLvn_ONh9AcVl0uiYJg",
+    "https://play-lh.googleusercontent.com/t95p0FJxshQ9yx47-M71yV4Pa8cG55oOn-SkljTMq_1O5X7_sqsVc76kgOj1x4z6ig",
+    "https://play-lh.googleusercontent.com/axe55fcygO2bBPxujgEg07lyXxlP2AOlBmy1FWCnDwQISHY02jmxdhEGCLJHG8cAzSU",
+    "https://play-lh.googleusercontent.com/Q1plXy61GXzJhq9qwQr5xs4SsMNdMz5_Wb2y22_AFx45dYYHbSNHB2_0APM_4N4dOWJj"
+  ],
+  "app_descript": "<h3>Swappa</h3>\n<p><strong>Brief:</strong>\nSwappa serves as a user-friendly marketplace platform where you can easily buy and sell gently-used technology devices. Its systematic approach ensures that all products are verified and fully functional, guaranteeing a reliable buying and selling experience. Catering to users across the U.S., U.K., Canada, and Europe, Swappa stands as a solid choice for those seeking trustworthy deals on electronic devices like phones, tablets, and watches.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>📷 Product Listing Customization: Sellers can enhance their product listings by adding photos, detailed descriptions, model numbers, and setting their desired price. 🗃️</li>\n<li>📱 Wide Product Range: Shop confidently for used gadgets from carriers like AT&amp;T, Sprint, T-Mobile, and Verizon, including tablets and watches. 📲</li>\n<li>🌍 Regional Flexibility: Effortlessly switch between markets in the U.S., U.K., Canada, and Europe to find or sell devices. 🌐</li>\n<li>♻️ Quality Assurance: Every device is required to be fully functional, free of cracks or water damage, and is checked by Swappa staff before listing. 🔍</li>\n<li>💳 Exclusive Payment Processing: Transactions are securely handled via PayPal, providing both buyers and sellers with protection. 💰</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 Intuitive User Interface: Swappa offers a hassle-free user experience with easy navigation. 🖥️</li>\n<li>👍 No Seller Fees: Unlike other platforms, Swappa does not charge sellers any fees, allowing them to keep more profits. 💵</li>\n<li>👍 Sales Trends Insights: Sellers are provided with valuable sales trend data to inform pricing and selling strategies. 📊</li>\n<li>👍 Strict Product Verification: Swappa’s commitment to quality ensures all listed products are cleared by their staff, maintaining a high standard in the marketplace. ✅</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 Lesser-Known Service: Being not as established as competitors may affect the trust and user base size. 📉</li>\n<li>👎 Payment Limitations: The exclusive use of PayPal might restrict some users who prefer different payment methods. 🚫</li>\n</ul>\n<p><strong>Price:</strong></p>\n<ul>\n<li>💵 Swappa is a free platform for buyers, and there are no fees for sellers. However, transactions exclusively take place through PayPal, which may have its processing fees.</li>\n</ul>\n<p><em>Please note that while Swappa offers a unique service for buying and selling tech, its growing community is pivotal for its success. Still, the community's presence and engagement on social platforms like the official site, YouTube, Instagram, Twitter, Discord, Facebook, TikTok, and Reddit are not detailed in the provided data.</em></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-seagm-store/54458.html",
+      "icon": "assets/img/apk/icon/com.seagm.store.png",
+      "name": "SEAGM - Games Topup, Gift Card",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-gowish-app/39285.html",
+      "icon": "assets/img/apk/icon/com.gowish.app.png",
+      "name": "GoWish - Your Digital Wishlist",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-aldisued-shopgo/16934.html",
+      "icon": "assets/img/apk/icon/com.aldisued.shopgo.png",
+      "name": "ALDI SHOP&GO",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.2"
+    },
+    {
+      "link": "/details/com-wakefern-shoprite/16933.html",
+      "icon": "assets/img/apk/icon/com.wakefern.shoprite.png",
+      "name": "ShopRite: Groceries & Savings",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-yaxo-vancamper/16894.html",
+      "icon": "assets/img/apk/icon/com.yaxo.vancamper.png",
+      "name": "Vancamper: Buy sell campervans",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/com-elfster-elfdroid/16861.html",
+      "icon": "assets/img/apk/icon/com.elfster.elfdroid.png",
+      "name": "Elfster: The Secret Santa App",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-biggu-shopsavvy/16860.html",
+      "icon": "assets/img/apk/icon/com.biggu.shopsavvy.png",
+      "name": "ShopSavvy - Barcode Scanner",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/moloapps-gifttracker/16845.html",
+      "icon": "assets/img/apk/icon/moloapps.gifttracker.png",
+      "name": "GiftTracker : Gift List Helper",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.1"
+    }
+  ]
+}

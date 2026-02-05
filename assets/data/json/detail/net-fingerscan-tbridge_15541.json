@@ -1,0 +1,109 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/net.fingerscan.tbridge.png",
+    "title": "Fingerprint Scan",
+    "ratings": "2.1",
+    "downloads": "3M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Fingerprint Scan"
+    },
+    {
+      "name": "category",
+      "value": "Productivity"
+    },
+    {
+      "name": "Price",
+      "value": "0"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "T-Bridge Technologies"
+    },
+    {
+      "name": "Version",
+      "value": "6.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/Cg1eZSa7yEx6smgVfXoAqIzKqnI_ozEazYt7jfo_ppLHWuU0o4UC2gUvvfK11BMtfzg",
+    "https://play-lh.googleusercontent.com/PfggDHZm4MADfgjb1GqQrxoA5sdijSRq95JXn6E64sPBv1ebopjN-wZwkl0t1sXh2V8",
+    "https://play-lh.googleusercontent.com/37KVSP_s9MSOeov_0XZWR08P9SEdW6subIFTWKoNDtRVeTHn17yycJ55QFc0kLj8GAIz",
+    "https://play-lh.googleusercontent.com/wnCK6fAkdtZFmEiwh-SeUWHI4TAU9GsAWaN8N1msBEkWFmtRR6V4TY6rjYljT7SEcx0N",
+    "https://play-lh.googleusercontent.com/ZoBLNfWcBFwDG8_mCsj2J6olYcAKOVdQsiA5Ol4-2IrKmptCdGaN509a1hpPdbhiCjI"
+  ],
+  "app_descript": "<h1>Fingerprint Scan</h1>\n<p>Unlock the future of biometric security with <strong>Fingerprint Scan</strong>! This innovative app transforms your smartphone into a powerful fingerprint scanner, enabling you to scan and extract high-quality fingerprints using your device's camera. It's perfect for identity verification, access control, and a suite of additional biometric needs.</p>\n<h2>Core Features</h2>\n<ul>\n<li><strong>Touchless Fingerprint Scanning</strong>: Capture high-resolution fingerprints from all fingers using your camera — no physical contact is needed. 📷</li>\n<li><strong>Enhanced Security</strong>: Identify and block impostors using artifacts like photos, videos, or synthetic molds to protect your data. 🔒</li>\n<li><strong>Liveness Detection</strong>: Ensures that a live person is being scanned, adding an extra layer of security against spoofing attempts. 👤</li>\n<li><strong>Wide Compatibility</strong>: Supports industry-standard fingerprint formats like ANSI_378_2004 and ISO_19794_2, ensuring seamless integration with various systems. ⚙️</li>\n<li><strong>Multiple Output Formats</strong>: Offers various output formats such as JPEG, PNG, and RAW for flexibility in data handling. 📁</li>\n</ul>\n<h2>Pros</h2>\n<ul>\n<li><strong>User-Friendly Interface</strong>: Simple and intuitive design for easy navigation and use. 😌</li>\n<li><strong>Highly Accurate Scans</strong>: Delivers precise fingerprint recognition even in challenging lighting conditions. 🌞</li>\n<li><strong>Compliant with Standards</strong>: Meets ISO 30107-3 and is FIDO UAF Certified for enhanced reliability. ✒️</li>\n<li><strong>Versatile Applications</strong>: Ideal for law enforcement, security, and personal identity management. 🛡️</li>\n<li><strong>Robust Performance</strong>: Functions well with minimum hardware requirements, making it accessible to a wide range of users. 📱</li>\n</ul>\n<h2>Cons</h2>\n<ul>\n<li><strong>Hardware Limitations</strong>: Requires a device with at least a 5MP camera and 1GB RAM, which may exclude some older phones. 📉</li>\n<li><strong>Dependence on Lighting</strong>: While effective, performance may vary under certain lighting conditions. 💡</li>\n<li><strong>In-app Purchases</strong>: Some features may require additional purchases or subscriptions, which can be a drawback for budget users. 💳</li>\n<li><strong>Learning Curve</strong>: New users may require some time to familiarize themselves with all the functionalities. ⏳</li>\n<li><strong>Privacy Concerns</strong>: As with any biometric app, users must consider privacy implications regarding fingerprint data. 🔍</li>\n</ul>\n<h2>Price</h2>\n<p><strong>Fingerprint Scan</strong> is free to download with optional in-app purchases available. 💵</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-takeofflabs-fontmaker/54188.html",
+      "icon": "assets/img/apk/icon/com.takeofflabs.fontmaker.png",
+      "name": "Fontmaker - Font Keyboard App",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-game-console-emulator/39577.html",
+      "icon": "assets/img/apk/icon/com.game.console.emulator.png",
+      "name": "Gamu: Retro Game Hub",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/app-itwingtech-power_of_mind-predicator/39340.html",
+      "icon": "assets/img/apk/icon/app.itwingtech.power_of_mind.predicator.png",
+      "name": "Mind Test: Test My Brain",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-pdfreader-pdfeditor-scandocu-pro-app-amb/16953.html",
+      "icon": "assets/img/apk/icon/com.pdfreader.pdfeditor.scandocu.pro.app.amb.png",
+      "name": "PDFPro: Scanner & Editor",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "3.8"
+    },
+    {
+      "link": "/details/ai-perplexity-app-android/16744.html",
+      "icon": "assets/img/apk/icon/ai.perplexity.app.android.png",
+      "name": "Perplexity - Ask Anything",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-safeshellvpn/16639.html",
+      "icon": "assets/img/apk/icon/com.safeshellvpn.png",
+      "name": "SafeShell VPN: Fast & Secure",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-roblox-skin-cloth-freeskins/16603.html",
+      "icon": "assets/img/apk/icon/com.roblox.skin.cloth.freeskins.png",
+      "name": "Clothes Skin For Roblox",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-underthing-focus-friend/16526.html",
+      "icon": "assets/img/apk/icon/com.underthing.focus.friend.png",
+      "name": "Focus Friend by Hank Green",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.7"
+    }
+  ]
+}

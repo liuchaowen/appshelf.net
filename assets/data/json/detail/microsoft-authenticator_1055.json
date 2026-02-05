@@ -1,0 +1,109 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.azure.authenticator.png",
+    "title": "Microsoft Authenticator",
+    "ratings": "4.6",
+    "downloads": "580M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Microsoft Authenticator"
+    },
+    {
+      "name": "category",
+      "value": "Business"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Microsoft Corporation"
+    },
+    {
+      "name": "Version",
+      "value": "6.2402.1098"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/9GzcbWjTFz3cTg3GESa_N4jxI8tgYLWss6Vd8Rzq7Bz-EF_tfylOFEjoSSk-2ZY-IuE",
+    "https://play-lh.googleusercontent.com/HTfUyZuBNF9h5UmC9eOnB3IgyhzLX0H0TFV-4dM7_lzmzvwytQceAgJM3KjJjb-uJ5A",
+    "https://play-lh.googleusercontent.com/VouD-wVsTkuTMKNmqhKAjo9xrPhZctPV_D_HXcwAqY8hGwODYFhxL2HhF8DK5zZw_6o",
+    "https://play-lh.googleusercontent.com/JyfAlzexVHpdR0PkPgnBWpMCv4rXfZribadqIAmimexIj_szdNhDurkN-Q7iilqVUrY",
+    "https://play-lh.googleusercontent.com/NPO0ocykdPA_YvW2k7cWmk9-yQK1dpDLvP6yhfTzMEAZHQRFgZvttXxVMsGVhNDw5U8"
+  ],
+  "app_descript": "<h3>Microsoft Authenticator</h3>\n<h4>Brief:</h4>\n<p>Microsoft Authenticator, also known by its package name com.azure.authenticator, is a robust security app designed to facilitate seamless two-factor authentication (2FA) for a plethora of services and accounts. The tool aids in protecting your digital identity by generating verification codes that can be used to confirm your sign-ins without the need for a data connection.</p>\n<h4>Core Features: 📌</h4>\n<ul>\n<li><strong>Offline Code Generation:</strong> Generates verification codes seamlessly without the need for an active data connection. 🌐</li>\n<li><strong>Broad Compatibility:</strong> Works in collaboration with numerous providers and accounts, ensuring widespread usability. 🔗</li>\n<li><strong>User-Friendly Design:</strong> Newly introduced dark theme to reduce eye strain and improve visibility in low-light conditions. 🌙</li>\n<li><strong>Effortless Setup:</strong> Utilize QR codes for an easy and quick initial setup of your accounts. 🛠️</li>\n<li><strong>Account Transfer:</strong> Enables you to move accounts between devices through a QR code, simplifying device upgrades. 📲</li>\n</ul>\n<h4>Pros: 👍</h4>\n<ul>\n<li><strong>Increased Security:</strong> Elevates account safety by providing an added layer of security beyond just a password. 🔒</li>\n<li><strong>User Interface:</strong> Dark theme option caters to those who prefer a darker aesthetic or need a more comfortable viewing experience at night. 👁️‍🗨️</li>\n<li><strong>Convenience:</strong> No internet? No problem. The app functions offline, ensuring access to your codes at all times. 🔄</li>\n<li><strong>Multi-Platform Support:</strong> Regardless of your service provider, Microsoft Authenticator has got you covered. 🌐</li>\n<li><strong>Simple Migration:</strong> Changing phones is stress-free with the QR code account transfer feature. 🔄</li>\n</ul>\n<h4>Cons: 👎</h4>\n<ul>\n<li><strong>Device Dependency:</strong> Requires possession of the device where the app is installed to access codes. 📴</li>\n<li><strong>Battery Use:</strong> The app's running in the background might impact battery life. 🔋</li>\n<li><strong>Learning Curve:</strong> First-time users might need to spend some time understanding how to set it up and use it effectively. 💡</li>\n<li><strong>Permission Requirements:</strong> Camera permission is necessary for, adding accounts via QR codes, which may be a privacy concern for some users. 📸</li>\n<li><strong>Limited to Certain Android Versions:</strong> Only available for Android versions 4.4 and above, excluding users with older devices. 📴</li>\n</ul>\n<h4>Price: 💵</h4>\n<p>Microsoft Authenticator is a <strong>free app</strong> that does not include in-app purchases, offering all users access to enhanced security without additional costs. 🆓</p>\n<p>Do note that the app requires you to enable 2-Step Verification on your accounts to take advantage of its functionalities, and you'll need the camera permission for QR code setup.</p>\n<p><em>(The community section is not included, as Microsoft Authenticator is a non-game app.)</em></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-kj2147575505-app/16858.html",
+      "icon": "assets/img/apk/icon/com.kj2147575505.app.png",
+      "name": "Alpha Omega Consulting",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-hypertide-petscan-v8m/15982.html",
+      "icon": "assets/img/apk/icon/com.hypertide.petscan.v8m.png",
+      "name": "PetScan",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "2"
+    },
+    {
+      "link": "/details/com-animalid-scanner/15981.html",
+      "icon": "assets/img/apk/icon/com.animalid.scanner.png",
+      "name": "Pet Scanner",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-webrange-sendoff-app/15417.html",
+      "icon": "assets/img/apk/icon/com.webrange.sendoff.app.png",
+      "name": "Sendoff Funeral App",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-dyve-countthings/10295.html",
+      "icon": "assets/img/apk/icon/com.dyve.countthings.png",
+      "name": "CountThings from Photos",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "3"
+    },
+    {
+      "link": "/details/com-countthis-count-things-counting-template-counter/5097.html",
+      "icon": "assets/img/apk/icon/com.countthis.count.things.counting.template.counter.png",
+      "name": "Count This・Counting Things App",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-aadi-personalitytraittest/4991.html",
+      "icon": "assets/img/apk/icon/com.aadi.personalitytraittest.png",
+      "name": "Personality Trait Test",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/GlowRoad/4569.html",
+      "icon": "assets/img/apk/icon/com.localqueen.png",
+      "name": "GlowRoad",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.6"
+    }
+  ]
+}

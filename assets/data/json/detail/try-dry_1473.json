@@ -1,0 +1,112 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/uk.org.alcoholconcern.dryjanuary.png",
+    "title": "TRY DRY",
+    "ratings": "4.9",
+    "downloads": "950M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "TRY DRY"
+    },
+    {
+      "name": "category",
+      "value": "Health & Fitness"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Alcohol Change UK"
+    },
+    {
+      "name": "Version",
+      "value": "1.2.22"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/nIrRwUfVYdW0vHbSt3GCWexwD6iaIbGvP_DmjV_v9m1nVGYsOj2s8fGw8Jh9vQHTOJ78",
+    "https://play-lh.googleusercontent.com/BkKZQUKRbrr8s8C-PFQjTq_-pobG5dKI7PedtKHeJuw9_rB-6gpt7U1kPP-QZ5glrNY",
+    "https://play-lh.googleusercontent.com/1ROwiL9eSGj2P_qz7cYE6rjkDpOs3PnveS4wstVVJc0e5dibehmK0lAC442satVRKvum",
+    "https://play-lh.googleusercontent.com/dtwya4G5VbEDfItbfq0Ps8rj8HXzupWBSENhEYJXkzFxmQ46G42yPpijjcloATK1ug",
+    "https://play-lh.googleusercontent.com/j3rLj9K5-bjuc9TnyCVZ92NCqQpLvq51VpisY8hJh6simvzNopdx4CHOM9XDcxpRWHg",
+    "https://play-lh.googleusercontent.com/E4yLdWbq1FLYSRzVOhS1TRFhvNMsXCAZey8k0SFJivBi7a-T7nVzG5BH_rV6-mK2E_4",
+    "https://play-lh.googleusercontent.com/iL9QqgsMZXwcCxsdRNZgDnX86Su_EuhwVQ8CE33LwB4XsFI1z7B9Eh1BYX4ftaX3Ew",
+    "https://play-lh.googleusercontent.com/AvaDOgDt8uTq26y4M74WzCnnwDfLmWHYexRHN9y_ryhFyzjIjFVO2FA8M6qn6c_6wfhD"
+  ],
+  "app_descript": "<h1>TRY DRY App</h1>\n<p><strong>Brief:</strong>\nTRY DRY is the official app for those looking to reduce their alcohol intake, achieve personal alcohol-free goals, and unlock a multitude of benefits for their health and well-being. This user-centric app is not just about tracking your alcohol-free days but is designed to motivate and educate, fostering a better understanding of one's drinking habits using behavioral science principles. Free from ads and cost, TRY DRY offers a comprehensive toolkit to support individuals during Dry January and beyond.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🏅 <strong>Achievement Badges:</strong> Earn up to 59 badges to celebrate your progress, with in-app celebrations marking each milestone.</li>\n<li>📬 <strong>Coaching Emails:</strong> Opt-in for exclusive, complimentary coaching emails to guide you through your journey.</li>\n<li>📊 <strong>Progress Charts:</strong> Visualize your progress with easy-to-read charts that monitor your milestones.</li>\n<li>🌟 <strong>Daily Motivation:</strong> Receive daily motivational reminders set for your preferred time to stay focused on your goal.</li>\n<li>🧠 <strong>Drinking Risk Quiz:</strong> Take the quiz to gain insights into your drinking patterns and associated risks.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 <strong>Science-Led Design:</strong> Developed with behavioral science insights, ensuring an app that truly understands the user's path to reducing alcohol intake.</li>\n<li>👍 <strong>Enhanced Sleep and Energy:</strong> Users often report improved sleep quality and higher energy levels.</li>\n<li>👍 <strong>Financial Savings:</strong> Emphasizes the long-term financial benefits of reducing alcohol consumption.</li>\n<li>👍 <strong>Health Benefits:</strong> Highlights the health advantages of taking a break from alcohol, such as lowered diabetes risk and improved blood pressure.</li>\n<li>👍 <strong>Empowerment:</strong> Supports users in taking back control over their drinking habits for an accomplished, healthier lifestyle.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 <strong>Specific Focus:</strong> Primarily aimed at individuals looking to reduce drinking, which might not appeal to those not interested in altering their alcohol consumption.</li>\n<li>👎 <strong>Monthly Alignment:</strong> Initially designed for Dry January, which may be limiting for year-round support seekers.</li>\n<li>👎 <strong>Requires Commitment:</strong> The effectiveness depends on the user's dedication to follow through with the program.</li>\n<li>👎 <strong>No Social Integration:</strong> Lacks social media connectivity which might benefit those seeking community support.</li>\n</ul>\n<p><strong>Pricing:</strong></p>\n<ul>\n<li>💵 <strong>Totally Free:</strong> The app is available at no cost, with no hidden charges or disruptive ads to enhance the user experience.</li>\n</ul>\n<p>For now, no community data has been provided. Should information regarding social networks or community dimensions for TRY DRY become available, it will be updated accordingly.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-appflows-BodyMuse/48997.html",
+      "icon": "assets/img/apk/icon/com.appflows.BodyMuse.png",
+      "name": "BodyMuse: Body Shape Analysis",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-codev-headache_app/39734.html",
+      "icon": "assets/img/apk/icon/com.codev.headache_app.png",
+      "name": "Headache Diary, Test & Treat",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/life-simple/39727.html",
+      "icon": "assets/img/apk/icon/life.simple.png",
+      "name": "Simple: AI Weight Loss Coach",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-clearblue-minerva/39464.html",
+      "icon": "assets/img/apk/icon/com.clearblue.minerva.png",
+      "name": "Menopause Stage - Clearblue me",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-jplanet-lungtestandbreathpractice/39424.html",
+      "icon": "assets/img/apk/icon/com.jplanet.lungtestandbreathpractice.png",
+      "name": "Lung Test and Breath Exercise",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "3"
+    },
+    {
+      "link": "/details/healthy-lungs-breathing-exercise-coach-pranayama-breath-workout-lung-exercises/39423.html",
+      "icon": "assets/img/apk/icon/healthy.lungs.breathing.exercise.coach.pranayama.breath.workout.lung.exercises.png",
+      "name": "Lungs Test: Breathing Exercise",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-smartoptometry-smartoptometry-full/34733.html",
+      "icon": "assets/img/apk/icon/com.smartoptometry.smartoptometry.full.png",
+      "name": "Smart Optometry - Eye Tests",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-b2creativedesigns-eyetest/34732.html",
+      "icon": "assets/img/apk/icon/com.b2creativedesigns.eyetest.png",
+      "name": "Eye test",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.1"
+    }
+  ]
+}

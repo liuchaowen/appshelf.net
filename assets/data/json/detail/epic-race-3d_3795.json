@@ -1,0 +1,128 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.gym.racegame.png",
+    "title": "Epic Race 3D",
+    "ratings": "4.9",
+    "downloads": "560M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Epic Race 3D"
+    },
+    {
+      "name": "category",
+      "value": "Racing"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Good Job Games"
+    },
+    {
+      "name": "Version",
+      "value": "200256"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/OMu9Q3NGvfmvMMeBH-Pdz6hEz6rR1TYAiUGNFy0OEHzYDXr_gNS4Nq2ws-iMO9yq_A8",
+    "https://play-lh.googleusercontent.com/XIrEEOywzI2DF6hOvlSajhfZmixzMdLok4bEehOjoLeOOVKM5iIMqhtkIcsNdQnNm3g",
+    "https://play-lh.googleusercontent.com/Jr7PinoK2HulHl8jlnIXEfnBNP7HqQyx8vYklk2eMFjPtPDaT09dD6c9op-aRbsyea0",
+    "https://play-lh.googleusercontent.com/nSqb2cywwr2xjiTlnbS9rfwOjjuv1UyMCkqf2_Xxf8YKM7CG4y_m6Ig85Yj3JSFgaTg",
+    "https://play-lh.googleusercontent.com/j8vjL4LzcXH6MqBFVCjIA1LtTlwpX-FDMfolaMCb3YspTD6OUaXLjjjfLTsMOaInVEDG",
+    "https://play-lh.googleusercontent.com/uk5F289lHX7Xyz5_bnqH-gxyZE4i7MhqtPFjzJ2gZU61_n1dTopaZ-8MZ9uP590H4aU",
+    "https://play-lh.googleusercontent.com/1LoP3FFxJKz2t0lE13hJGxNZCXn5rsIcCS1fUyOYP6UEpTpiAFZJUT8AGSPwqBNBxQ",
+    "https://play-lh.googleusercontent.com/FYbRgiqrj5Bcug9XIukIKVkihzpDFk1fxUbtc25LKYgyzamBAV3-JkoO4BWXEBX0Xc8",
+    "https://play-lh.googleusercontent.com/5GvkoH5-kvFmniCjtnRMkESWAMXM6chFHsgmGUQC0PmeNKua-2N9ZSxi4gyeAeQuumU",
+    "https://play-lh.googleusercontent.com/Bq4gvXJYWh_Tp8xICm9XbK1pH6x2mqb787KfE2_dBhFMtiTWSp7LlIpK09o2rccT_RI",
+    "https://play-lh.googleusercontent.com/3Fol4YQc1v-rMteAe978POsrqm6t8gV5rYoWG7Omkidh3CYlg46J0Deg63wS3HA8wTg",
+    "https://play-lh.googleusercontent.com/dz1zjDi2JvDUv7YyzNJWkvJxiZ71aMA0heMUZsW8c2LJZv1qtkq8elQJwTI91OP0t5Q",
+    "https://play-lh.googleusercontent.com/TuBKBTYLUX8m3NU7w0b8-5NHIx8pPEM4vealfaUkhV_oRUadh10--jsxQQ6fZatr6tw",
+    "https://play-lh.googleusercontent.com/j5DV9aCu-SViAQMjXjV5cu2mpARATl85lut-i3BJxfC7gCFKGNGlz2B9sZ8xbRr0ptQ",
+    "https://play-lh.googleusercontent.com/lf5kGkJOCFWMXt_sc7N2WroQxdFdt1Xl6n304n3dcwToY7HlkcZKgWIt-Fhc1HA79ezU",
+    "https://play-lh.googleusercontent.com/vQPBHP9Y8BZzCnwghbU3Pl3cRhIFjtLtStW6dlktXgVgC7cn1aK4EUzkT5cTq_TSLSQ",
+    "https://play-lh.googleusercontent.com/9Wfz-ra1xmN1MGWS9ZiNLfLov9J4OlLqLuq7UG-d2wdeHny2IvIvGoQfKQDN_2ZUUw",
+    "https://play-lh.googleusercontent.com/pVaF2AE36WItGnizpRwPYaFKrK7L32ZntflC3Ac8CC3Clh3xrSPk2PJCr7tNo-4qv_Nr",
+    "https://play-lh.googleusercontent.com/3_aujTUIGbkuhGQmwgrGu1sgLt1tBak5K-Ne_0TTCfzb29WLAKGNTDe7fp5eeBpNujMS",
+    "https://play-lh.googleusercontent.com/3zRy9OriRsV_GMgrafZc4AxHMmnkT7SsHXEUWhnWhx2nEM1lNFxQiqyeZVbGpnWH2ok",
+    "https://play-lh.googleusercontent.com/7b3UtmvBzhBe5pD9vMHPS70cPvPEle6UYgt1I9QxeeOFeG-RMINxfI71C0-hyHVFFPU",
+    "https://play-lh.googleusercontent.com/SsRh6c2xs_oGtkcjE57lKRHLcLK4WO2nFQiv2bdxj0OuYn1iRI7DpJRelQrcywotG8ZM",
+    "https://play-lh.googleusercontent.com/BG-3DQneEu-KLT79lRVSmweOhzsbqNVSzRyHTLG1PaYEFF-IZJsSTkm-1UbtsD9Mr2Yh",
+    "https://play-lh.googleusercontent.com/-dmlaBErEP73ccGQRb-y5mfgRoGTyS6mYgBVYXhYoE6M3h9qKbP9MLsNOu1pggiIfLU"
+  ],
+  "app_descript": "<p><strong>Brief:</strong>\nExperience the thrills of parkour with \"Epic Race 3D,\" a dynamic racing game that offers players a true taste of action-packed obstacle courses. Navigate through an array of challenges, leap across platforms, and rush to the finish line to emerge victorious. Revel in the excitement of each level and unlock a plethora of unique characters as you collect coins and push the boundaries of speed and agility.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🏃‍♂️ <strong>True Parkour Adventure:</strong> Traverse through various parkours, each packed with a series of challenging obstacles.</li>\n<li>🏆 <strong>Epic Levels:</strong> Encounter special levels that demand a shift in gameplay strategy and reward your success with exciting prizes.</li>\n<li>🎮 <strong>Intuitive Control Mechanism:</strong> Enjoy smooth and responsive controls that enhance your racing and parkour experience.</li>\n<li>🌟 <strong>Collectibles and Characters:</strong> Accumulate coins to unlock a diverse collection of characters, each adding a unique flavor to the game.</li>\n<li>🥇 <strong>Competitive Edge:</strong> Race against time and opponents, taking calculated risks to secure the top spot on the leaderboard. 🏁</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 <strong>Engaging Gameplay:</strong> Captivate with various levels that keep the excitement high throughout the play.</li>\n<li>👍 <strong>Regular Updates:</strong> Constant enhancements ensure fresh content and persistent challenge.</li>\n<li>👍 <strong>Accessible to All:</strong> Suitable for players of all skill levels due to its easy-to-learn mechanics.</li>\n<li>👍 <strong>Free-to-Play:</strong> Start the adventure without any upfront costs.</li>\n<li>👍 <strong>Rewarding System:</strong> Earn rewards by altering your play style to meet new challenges. 🎁</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 <strong>In-App Purchases:</strong> While the game is free, certain features and items may require payment.</li>\n<li>👎 <strong>Advertisements:</strong> Some players might find the in-game ads intrusive.</li>\n<li>👎 <strong>Device Performance:</strong> Resource-intensive gameplay might affect the performance on lower-end devices.</li>\n<li>👎 <strong>Repetitiveness:</strong> Some might find the gameplay to become repetitive over extended play periods.</li>\n<li>👎 <strong>Limited Offline Play:</strong> Internet connection may be required for certain features. 🌐</li>\n</ul>\n<p><strong>Price:</strong>\n💵 \"Epic Race 3D\" is available to download for free, but it does include optional in-app purchases to enhance the gaming experience.</p>\n<p><strong>Community:</strong></p>\n<ul>\n<li>🕸️ Official Site: <a href=\"https://gym.racegame.com\" rel=\"noopener noreferrer\" target=\"_blank\">Epic Race 3D Official</a></li>\n<li>📺 YouTube Channel: <a href=\"https://www.youtube.com/epicrace3d\" rel=\"noopener noreferrer\" target=\"_blank\">Epic Race 3D Channel</a></li>\n<li>📹 Popular YouTuber: <a href=\"https://www.youtube.com/user/GamerXYZ\" rel=\"noopener noreferrer\" target=\"_blank\">GamerXYZ's Epic 3D Races</a></li>\n<li>📸 Instagram: <a href=\"https://www.instagram.com/epicrace3d_official\" rel=\"noopener noreferrer\" target=\"_blank\">epicrace3d_official</a></li>\n<li>🐦 Twitter: <a href=\"https://twitter.com/EpicRace3D\" rel=\"noopener noreferrer\" target=\"_blank\">EpicRace3D</a></li>\n<li>💬 Discord: <a href=\"https://discord.gg/EpicRace3D\" rel=\"noopener noreferrer\" target=\"_blank\">Epic Racers Community</a></li>\n<li>👥 Facebook: <a href=\"https://www.facebook.com/EpicRace3D\" rel=\"noopener noreferrer\" target=\"_blank\">Epic Race 3D</a></li>\n<li>🎶 TikTok: <a href=\"https://www.tiktok.com/@EpicRace3D\" rel=\"noopener noreferrer\" target=\"_blank\">@EpicRace3D</a></li>\n<li>🗨️ Reddit: <a href=\"https://www.reddit.com/r/EpicRace3DFans\" rel=\"noopener noreferrer\" target=\"_blank\">r/EpicRace3DFans</a></li>\n<li>📚 Fandom Wiki: <a href=\"https://epicrace3d.fandom.com\" rel=\"noopener noreferrer\" target=\"_blank\">Epic Race 3D Wiki</a></li>\n</ul>\n<p>Dive into \"Epic Race 3D\" and join a community where the excitement of the chase never fades!</p>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-infinityvector-assolutoracing/39683.html",
+      "icon": "assets/img/apk/icon/com.infinityvector.assolutoracing.png",
+      "name": "Assoluto Racing",
+      "categoryLink": "/en/categories/racing/42",
+      "category": "Racing",
+      "rating": "4.2"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-d18c-epic-high-speed-car-jump-game/10417.html",
+      "icon": "assets/img/apk/icon/com.d18c.epic.high.speed.car.jump.game.png",
+      "name": "High Speed Car : Car Racing 3D",
+      "categoryLink": "/en/categories/racing/42",
+      "category": "Racing",
+      "rating": "4.6"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/superhero-car-stunts/3815.html",
+      "icon": "assets/img/apk/icon/com.car.stunts.spider.cargames.carracing.png",
+      "name": "Superhero Car Stunts",
+      "categoryLink": "/en/categories/racing/42",
+      "category": "Racing",
+      "rating": "4.7"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/race-master-3d/3814.html",
+      "icon": "assets/img/apk/icon/com.easygames.race.png",
+      "name": "Race Master 3D",
+      "categoryLink": "/en/categories/racing/42",
+      "category": "Racing",
+      "rating": "4.6"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/coffee-stack/3813.html",
+      "icon": "assets/img/apk/icon/markergame.coffeestack.png",
+      "name": "Coffee Stack",
+      "categoryLink": "/en/categories/racing/42",
+      "category": "Racing",
+      "rating": "4.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/deliver-it-3d/3812.html",
+      "icon": "assets/img/apk/icon/com.GoofyGamerGames.Pizza.png",
+      "name": "Deliver It 3D",
+      "categoryLink": "/en/categories/racing/42",
+      "category": "Racing",
+      "rating": "4.1"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/fall-guys-royale/3811.html",
+      "icon": "assets/img/apk/icon/com.nndragons.fallguys.png",
+      "name": "Fall Guys Royale",
+      "categoryLink": "/en/categories/racing/42",
+      "category": "Racing",
+      "rating": "4.7"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/car-crash-compilation-game/3810.html",
+      "icon": "assets/img/apk/icon/com.jura.car.crash.png",
+      "name": "Car Crash Compilation Game",
+      "categoryLink": "/en/categories/racing/42",
+      "category": "Racing",
+      "rating": "4.7"
+    }
+  ]
+}

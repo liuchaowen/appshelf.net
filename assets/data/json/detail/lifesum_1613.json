@@ -1,0 +1,113 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.sillens.shapeupclub.png",
+    "title": "Lifesum",
+    "ratings": "4.4",
+    "downloads": "20M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Lifesum"
+    },
+    {
+      "name": "category",
+      "value": "Health & Fitness"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Lifesum"
+    },
+    {
+      "name": "Version",
+      "value": "7.3.6"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/GjsgxloSIntJ5wtoWSujt8HKoakCyh3xTcntvDXpsStk0XUwHPEhMPTY_raQO8zoyNk",
+    "https://play-lh.googleusercontent.com/YueTNG0vvpnHisaHiN9wrFbOqk8iBNXvJvn1cHDQl7szA3ZTt4f_SRjh245bZkCm974r",
+    "https://play-lh.googleusercontent.com/5gNq3Rh8GUiYFJF23Zf4KvDVQmShUhBaH-qqe6hbpVjqdZCWP1fYVkr-0ltgV4jj19xL",
+    "https://play-lh.googleusercontent.com/ORSgUXgERB0Lkvm_XUJkpntNOsMexr5AXbLEQggUkmImTbvKhFve2bYVCbsNEhhRR1k",
+    "https://play-lh.googleusercontent.com/78nSYkdkLQgKRWu5ZXgjRyxpgOQ2Kdw7EKHvt1Hnb963jMu4krX901QZkOxrYk3LUw",
+    "https://play-lh.googleusercontent.com/KQhu5gmQrT7TEBJ6U5nDl4xAqXwInud6ixeQ-j0oSulmDV4qWm6i5EY5tD0IRJFkow",
+    "https://play-lh.googleusercontent.com/-4ktz5-JoWDnTAWFsaqnx5iCc5dJgQlvOzQ5E_H0KuDuloxXHOLWxxdVXOYRnmS5fxg",
+    "https://play-lh.googleusercontent.com/DFluGeztGpnY2wHQ9n3yrQO7kiSLAH5Y8yT-mEt2NKEHmS1-IacoucVm2d_VSnFnCA",
+    "https://play-lh.googleusercontent.com/w8R7vzoLWCCf-wF_OBR-kEcnG3x1-XiDsc5Ymc-VRx6EKYsMpwE3VQFR8PSSr2EIT_Y"
+  ],
+  "app_descript": "<h1>Lifesum: Diet &amp; Macro Tracker</h1>\n<p>Embark on a journey to a healthier you with Lifesum—a comprehensive diet plan, calorie counter, and food tracking app designed to cater to a variety of dietary needs and fitness goals.</p>\n<h3>Brief:</h3>\n<p>Lifesum is more than just a meal planner; it's a lifestyle coach that offers personalized diet plans, detailed macro tracking, and healthy recipes to support your unique nutritional requirements. Whether you aim to lose weight, maintain a specific diet such as keto or paleo, or simply wish to eat healthier, Lifesum is the digital partner you'll want on your wellness journey.</p>\n<h3>📌 Core Features:</h3>\n<ul>\n<li><strong>Tailored Diet Plans:</strong> Receive diet recommendations based on your lifestyle and goals such as weight loss or sugar detox 🍏</li>\n<li><strong>Diverse Diet Options:</strong> Choose from popular diets like keto, paleo, or fasting to find the one that fits you best 🥗</li>\n<li><strong>Advanced Calorie Counter:</strong> Utilize the barcode scanner for easy logging and tracking food intake 📊</li>\n<li><strong>Macro Calculator:</strong> Monitor your daily macros, nutrition, and caloric consumption effectively 📈</li>\n<li><strong>Delicious Recipes:</strong> Explore a rich variety of tasty and healthy recipes that align with your meal plans 🍳</li>\n<li><strong>Fitness App Integration:</strong> Sync with top fitness apps for a comprehensive health overview when going premium 🔗</li>\n</ul>\n<h3>👍 Pros:</h3>\n<ul>\n<li><strong>Personalized Experience:</strong> Lifesum offers a tailored approach, adapting to your specific dietary needs and fitness goals ✅</li>\n<li><strong>User-Friendly Interface:</strong> The app provides a seamless and intuitive experience, making tracking simple and enjoyable ✔️</li>\n<li><strong>Comprehensive Database:</strong> A wide selection of food and recipes keeps your diet diverse and interesting 😋</li>\n<li><strong>Positive Community Impact:</strong> Join over 40 million users on a shared path to better health and well-being 💪</li>\n</ul>\n<h3>👎 Cons:</h3>\n<ul>\n<li><strong>Premium Features Behind Paywall:</strong> Some advanced features, such as detailed nutrition information and fitness app syncing, require a premium subscription ❗</li>\n<li><strong>Limited Offline Functionality:</strong> The app relies on internet connectivity for full functionality, which might be limiting for some users 📶</li>\n<li><strong>Potential Inaccuracy:</strong> As with any food tracking app, the accuracy of data relies on user input, which can sometimes be off the mark 📏</li>\n<li><strong>Discount Clarity:</strong> The promotional 50% discount applies only to the first payment and is available only on the 12-month subscription, which may not be clearly communicated to all users 💸</li>\n</ul>\n<h3>💵 Price:</h3>\n<p>Lifesum can be downloaded for free and includes various in-app purchases for its premium features. Prices for premium membership vary, and users can get a 50% discount on the first payment of a 12-month subscription. Regular subscription renewal rates apply thereafter.</p>\n<p>Embrace a healthier, happier lifestyle today with Lifesum. Chart your course to better health and discover how even the smallest habits can make the most significant difference. <a href=\"http://api.lifesum.com/mobile-terms\" rel=\"noopener noreferrer\" target=\"_blank\">Download Lifesum now</a> and take the first step toward a balanced you. 🌟</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-appflows-BodyMuse/48997.html",
+      "icon": "assets/img/apk/icon/com.appflows.BodyMuse.png",
+      "name": "BodyMuse: Body Shape Analysis",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-codev-headache_app/39734.html",
+      "icon": "assets/img/apk/icon/com.codev.headache_app.png",
+      "name": "Headache Diary, Test & Treat",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/life-simple/39727.html",
+      "icon": "assets/img/apk/icon/life.simple.png",
+      "name": "Simple: AI Weight Loss Coach",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-clearblue-minerva/39464.html",
+      "icon": "assets/img/apk/icon/com.clearblue.minerva.png",
+      "name": "Menopause Stage - Clearblue me",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-jplanet-lungtestandbreathpractice/39424.html",
+      "icon": "assets/img/apk/icon/com.jplanet.lungtestandbreathpractice.png",
+      "name": "Lung Test and Breath Exercise",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "3"
+    },
+    {
+      "link": "/details/healthy-lungs-breathing-exercise-coach-pranayama-breath-workout-lung-exercises/39423.html",
+      "icon": "assets/img/apk/icon/healthy.lungs.breathing.exercise.coach.pranayama.breath.workout.lung.exercises.png",
+      "name": "Lungs Test: Breathing Exercise",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-smartoptometry-smartoptometry-full/34733.html",
+      "icon": "assets/img/apk/icon/com.smartoptometry.smartoptometry.full.png",
+      "name": "Smart Optometry - Eye Tests",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-b2creativedesigns-eyetest/34732.html",
+      "icon": "assets/img/apk/icon/com.b2creativedesigns.eyetest.png",
+      "name": "Eye test",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.1"
+    }
+  ]
+}

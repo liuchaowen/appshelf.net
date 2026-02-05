@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.uc.browser.en.png",
+    "title": "UC Browser Mini",
+    "ratings": "4.4",
+    "downloads": "500M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "UC Browser Mini"
+    },
+    {
+      "name": "category",
+      "value": "Communication"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "UCWeb Singapore Pte. Ltd."
+    },
+    {
+      "name": "Version",
+      "value": "12.12.6.1221"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>UC Browser Mini</strong></p>\n<p><strong>Brief:</strong>\nUC Browser Mini, packaged as \"com.uc.browser.en,\" is a lightweight mobile browser that delivers a rapid and smooth web browsing experience. Designed for users who value speed and efficiency, UC Browser Mini is packed with features that cater to convenience and entertainment across web navigation.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🚀 <strong>Fast Browsing Speed:</strong> Leverages advanced technology to offer high-speed browsing and searching capabilities.</li>\n<li>🎥 <strong>All Videos in One App:</strong> A comprehensive video hub with an extensive collection of movies, TV series, and other entertaining content.</li>\n<li>🌟 <strong>Star Zone:</strong> Personalized video channel that curates content based on your favorite celebrities.</li>\n<li>⏬ <strong>Boosted Video Downloader:</strong> Simplified process to download multiple videos simultaneously, with background operation for convenience.</li>\n<li>😂 <strong>Face Change Video Maker:</strong> Have fun creating humorous videos by swapping faces with celebrities and sharing them on WhatsApp.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 <strong>Efficiency:</strong> Optimized for speedy browsing, which allows for quick access to web content.</li>\n<li>👍 <strong>Entertainment Integration:</strong> All-encompassing video content, prevents the need for multiple apps.</li>\n<li>👍 <strong>Customizable Experience:</strong> Tailored video recommendations in Star Zone enhance user engagement.</li>\n<li>👍 <strong>Download Management:</strong> Streamlined video downloading experience that's uninterrupted and operates in the background.</li>\n<li>👍 <strong>Privacy Protections:</strong> Incognito browsing ensures your activities remain confidential.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 <strong>Ad Block Limitations:</strong> While offering an ad-blocking feature, its effectiveness can vary depending on ad types and sources.</li>\n<li>👎 <strong>Privacy Concerns:</strong> Past issues with user data privacy could deter privacy-focused users.</li>\n<li>👎 <strong>Limited Features in Mini Version:</strong> Some features may be absent or reduced compared to the full version of UC Browser.</li>\n<li>👎 <strong>Potential Bloatware:</strong> Additional features like the Face Change Video Maker might be considered unnecessary by users seeking a barebones browser.</li>\n<li>👎 <strong>Compatibility Issues:</strong> The app may not be optimized for all devices, potentially leading to a subpar experience on some.</li>\n</ul>\n<p><strong>Price:</strong></p>\n<ul>\n<li>💵 The app is free to download and use, offering a cost-effective solution for mobile browsing needs.</li>\n</ul>\n<p>(No available data found in the community dimension for this non-game app)</p>\n<p>Crafted with a focus on delivering a user-friendly browsing experience, UC Browser Mini prioritizes both speed and entertainment, allowing users to surf the web, watch videos, and even create fun face-swapped clips all within a single app. However, users should be aware of potential drawbacks, such as privacy concerns and ad-blocking limitations, while enjoying the smooth and personal browsing experience UC Browser Mini offers.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-sst-parrot-photo-frame/53901.html",
+      "icon": "assets/img/apk/icon/com.sst.parrot.photo.frame.png",
+      "name": "Bird Photo Frame",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-new_year-stickers-birthday/39669.html",
+      "icon": "assets/img/apk/icon/com.new_year.stickers.birthday.png",
+      "name": "Happy New Year Stickers 2026",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/org-watchduty-app/14524.html",
+      "icon": "assets/img/apk/icon/org.watchduty.app.png",
+      "name": "Watch Duty (Wildfire)",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-snowcorp-stickerly-android/14453.html",
+      "icon": "assets/img/apk/icon/com.snowcorp.stickerly.android.png",
+      "name": "Sticker.ly - Sticker Maker",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-Happynewyearphotoframe2020/14421.html",
+      "icon": "assets/img/apk/icon/com.Happynewyearphotoframe2020.png",
+      "name": "New Year Video Maker 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-intira-new-year-photo-frame-new/14342.html",
+      "icon": "assets/img/apk/icon/com.intira.new.year.photo.frame.new.png",
+      "name": "New year photo frame 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-christmas-photo-frame-b-new-free/14203.html",
+      "icon": "assets/img/apk/icon/com.christmas.photo.frame.b.new.free.png",
+      "name": "Christmas photo frame 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/ma-apps-face_ml/14137.html",
+      "icon": "assets/img/apk/icon/ma.apps.face_ml.png",
+      "name": "Face reader scanner - analyser",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "3.3"
+    }
+  ]
+}

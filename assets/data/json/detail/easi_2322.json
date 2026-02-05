@@ -1,0 +1,108 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.easi.customer.png",
+    "title": "EASI",
+    "ratings": "2.6",
+    "downloads": "610M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "EASI"
+    },
+    {
+      "name": "category",
+      "value": "Food & Drink"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "EASI Australia"
+    },
+    {
+      "name": "Version",
+      "value": "1.9.43"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/UU0vX7furpfVrebrYChFp3Ro43FC70PiQcJDsHMBOfepQEyKXCWAL-HHMYYHkSmRN41r",
+    "https://play-lh.googleusercontent.com/uc3DQqfChAk65uRO101x4K7eQxx0hmkHVQljKJbCzVVLryiDSTG4Uv057OOdDBfDJS8",
+    "https://play-lh.googleusercontent.com/cMrx7pNoIF0CLK2pnJhsU4pcev_iGuvxqx1jDNOQTqc3PJPlvm9LrsgcFm1UPcQkbeUZ",
+    "https://play-lh.googleusercontent.com/OWgfzt7YIps-RLmumLkCSal1qswDeRGXUssx1pGU3Wz1Cu0zWRvNT3pm2FoUkEL9ss1N"
+  ],
+  "app_descript": "<p><strong>EASI – Your Premium Food Delivery Service</strong></p>\n<p><strong>Brief:</strong>\nEASI is not just a food delivery app; it's a lifestyle enhancer for those craving convenience and variety in Australia. Stride through a culinary journey with EASI that extends to over 12,000 restaurant partners across Melbourne, Sydney, Adelaide, Brisbane, Perth, Hobart, and Canberra. With its recent move to Los Angeles and Auckland, EASI is on a steadfast path to worldwide delight, offering more than the usual fare right to your doorstep.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🍕 Broad Selection: Access gourmets from thousands of restaurants, delivering a spectrum of cuisines to cater to all tastes. 🥡</li>\n<li>🍰 Diversity in Delivery: Beyond meals, get desserts, drinks, fresh groceries, flowers, and more, all through a single service. 🛒</li>\n<li>📱 User-Centric Interface: Navigate with ease thanks to a customer-focused UI and streamlined order system. 🖥️</li>\n<li>📣 Responsive Feedback Loop: Your opinions drive improvement, ensuring that user suggestions lead to real-time enhancements. 🔁</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👥 Exceptional Customer Service: Dedicated support for a superior food delivery experience. 🛎️</li>\n<li>🆓 Cost-Effective for Merchants: Zero term charges and joining fees, making it an attractive platform for restaurant partners. 💼</li>\n<li>🇨🇳 High Chinese User Base: A pronounced presence among Chinese consumers, ensuring a broad market reach. 🌏</li>\n<li>🔧 Robust Management Tools: Comprehensive systems for restaurant partners to manage their presence and offerings effectively. 💹</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>🗺️ Limited Global Reach: Currently, global expansion is in nascent stages with coverage in only select international cities. 🌐</li>\n<li>🔄 Update Dependent: Reliance on user feedback for updates, which could lead to reactive rather than proactive improvements. 💬</li>\n<li>⏱️ Delivery Limitations: Potential variability in delivery times and coverage areas within operational cities. ⌚</li>\n<li>📲 App-Specific: Dependency on the app for services, with no desktop or web-based alternatives mentioned. 🖥️</li>\n</ul>\n<p><strong>Price:</strong>\n💵 EASI is a free-to-download app, but it includes the cost of food and possible delivery fees, as well as any other service-related charges.</p>\n<p><strong>Community:</strong>\n🕸️ While not explicitly mentioned, engaging with EASI can be expected to involve interaction with fellow users and restaurants to share experiences and feedback.</p>\n<p>Feel free to peruse a delectable world of possibilities with EASI, your gateway to effortless dining and beyond!</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-buzzfeed-tasty/16927.html",
+      "icon": "assets/img/apk/icon/com.buzzfeed.tasty.png",
+      "name": "Tasty",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-hacklatino-chingon-android/15837.html",
+      "icon": "assets/img/apk/icon/com.hacklatino.chingon.android.png",
+      "name": "Hack Latino",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-postmates-android/4464.html",
+      "icon": "assets/img/apk/icon/com.postmates.android.png",
+      "name": "Postmates - Food Delivery",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-seamlessweb-android-view/4463.html",
+      "icon": "assets/img/apk/icon/com.seamlessweb.android.view.png",
+      "name": "Seamless: Local Food Delivery",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-trycaviar-customer/4462.html",
+      "icon": "assets/img/apk/icon/com.trycaviar.customer.png",
+      "name": "Caviar - Order Food Delivery",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-chownow-discover/4461.html",
+      "icon": "assets/img/apk/icon/com.chownow.discover.png",
+      "name": "ChowNow: Local Food Ordering",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-toasttab-consumer/4460.html",
+      "icon": "assets/img/apk/icon/com.toasttab.consumer.png",
+      "name": "Toast Takeout & Delivery",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/menulog-au/3667.html",
+      "icon": "assets/img/apk/icon/com.menulog.m.png",
+      "name": "Menulog AU",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.2"
+    }
+  ]
+}

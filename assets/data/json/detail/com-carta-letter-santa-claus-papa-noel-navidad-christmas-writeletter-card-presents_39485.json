@@ -1,0 +1,107 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.carta.letter.santa.claus.papa.noel.navidad.christmas.writeletter.card.presents.png",
+    "title": "Letter to Santa Claus",
+    "ratings": "3.3",
+    "downloads": "6M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Letter to Santa Claus"
+    },
+    {
+      "name": "category",
+      "value": "Entertainment"
+    },
+    {
+      "name": "Price",
+      "value": "0"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "BawinDev"
+    },
+    {
+      "name": "Version",
+      "value": "5.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/Rr7zqaoxF3otnoE9B45zXBZL1Tdf3Ngp4xM8O4oHNxiwJHUq06Bu2uVZnoNF28WTFvs",
+    "https://play-lh.googleusercontent.com/Dx_QuEx01DFAY92SYqLj8xsx0Oq_zhj7WSPK8ds2tM-IrX07rx8E4CqgFr47dwtSdqdM",
+    "https://play-lh.googleusercontent.com/OcNQxI9s6azeUpXSPJdcRpfAq4ZlsywmfAc4zzqs0HCIdbPCytU3LnAkfzn9ooA2UA8"
+  ],
+  "app_descript": "<h1>Letter to Santa Claus</h1>\n<p>Welcome to <strong>Letter to Santa Claus</strong>, a delightful app designed for children and families to send heartfelt letters to Santa, ensuring that gifts come their way this Christmas. With a user-friendly interface, this app encourages creativity in children while embracing the spirit of the holiday season.</p>\n<h2>📌 Core Features:</h2>\n<ul>\n<li><strong>Personalized Letters</strong>: Craft your own unique letter to Santa Claus and list the gifts you desire. ✍️</li>\n<li><strong>Send via Reindeer</strong>: Experience the magic as the app simulates sending the letter through Santa’s trusty reindeer. 🎅</li>\n<li><strong>PDF Download</strong>: Save the written letter in PDF format to print and keep as a wonderful holiday memory. 🖨️</li>\n<li><strong>Education and Fun</strong>: Teach children about technology while making the letter-writing process enjoyable. 📚</li>\n<li><strong>Family Engagement</strong>: Great for family bonding moments as everyone can participate in writing their wish list. 👨‍👩‍👦</li>\n</ul>\n<h2>👍 Pros:</h2>\n<ul>\n<li><strong>User-Friendly Interface</strong>: The app is easy to navigate, making it suitable for kids and parents alike. 🌟</li>\n<li><strong>Fun for All Ages</strong>: Engaging for both young children and adults, it ignites the festive spirit. 🎉</li>\n<li><strong>Promotes Creativity</strong>: Encourages kids to express their wishes and imagination through writing. 🌈</li>\n<li><strong>Printable Keepsake</strong>: The option to download letters creates lasting memories of childhood wishes. 💌</li>\n<li><strong>Educational</strong>: Introduces children to technology and writing skills in an enjoyable way. 🎓</li>\n</ul>\n<h2>👎 Cons:</h2>\n<ul>\n<li><strong>Limited Features</strong>: Some users may find the app's capabilities basic compared to other digital letter-writing tools. 📉</li>\n<li><strong>No Multi-Language Support</strong>: Currently only available in select languages, limiting access for non-speakers. 🌍</li>\n<li><strong>Simple Graphics</strong>: The design might not be as visually rich as other modern apps. 🎨</li>\n<li><strong>No Interactive Elements</strong>: Lack of additional features such as games or activities related to Santa. 🎮</li>\n<li><strong>Occasional Bugs</strong>: Users have reported occasional glitches while using the app. ⚠️</li>\n</ul>\n<h2>💵 Price:</h2>\n<p>This app is <strong>free</strong> to download and use, with potential in-app purchases for premium features.</p>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-moonphaseapps-astro/54410.html",
+      "icon": "assets/img/apk/icon/com.moonphaseapps.astro.png",
+      "name": "AstroBella Astrology & Healing",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.6"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-girlmaker-create-avatar-creator/54356.html",
+      "icon": "assets/img/apk/icon/com.girlmaker.create.avatar.creator.png",
+      "name": "PFP Girl: Avatar Maker",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-photocrop-challengefilter/54321.html",
+      "icon": "assets/img/apk/icon/com.photocrop.challengefilter.png",
+      "name": "Photo Crop Challenge Filter",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-photo-cropfilter-challenge/54315.html",
+      "icon": "assets/img/apk/icon/com.photo.cropfilter.challenge.png",
+      "name": "Photo Crop Challenge Video",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/vyten-colormatrix/54297.html",
+      "icon": "assets/img/apk/icon/vyten.colormatrix.png",
+      "name": "The Personality Color Matrix",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-truelove-tester-love/54289.html",
+      "icon": "assets/img/apk/icon/com.truelove.tester.love.png",
+      "name": "True Love Tester",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-lifeexpectancycalculator/54231.html",
+      "icon": "assets/img/apk/icon/com.lifeexpectancycalculator.png",
+      "name": "Life Expectancy Calculator",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-insect-filters-funny-prank-bug-filter-face-camera/54212.html",
+      "icon": "assets/img/apk/icon/com.insect.filters.funny.prank.bug.filter.face.camera.png",
+      "name": "Bugzz: Insect Prank Filters",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4"
+    }
+  ]
+}

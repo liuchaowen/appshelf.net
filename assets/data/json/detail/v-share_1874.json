@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/v-share.png",
+    "title": "V-Share",
+    "ratings": "4.7",
+    "downloads": "500M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "V-Share"
+    },
+    {
+      "name": "category",
+      "value": "Productivity"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "V Share"
+    },
+    {
+      "name": "Version",
+      "value": "2016.10.20"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>V-Share: A Unified App Market Experience</strong></p>\n<p>Experience the essence of mobile app variety with V-Share, the gateway to a plethora of captivating apps and games. V-Share is not just your typical app store; it's a comprehensive market that offers an expansive range of mobile applications for both Android and iOS users. Dive into a universe where accessibility meets safety, and discover just why V-Share has become a favored choice.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🎮 Access to over 1,000,000 apps and games, ensuring you'll always find something new to explore.</li>\n<li>🖼️ A stunning collection of beautiful wallpapers to customize your device to your style.</li>\n<li>🔔 An abundant selection of massive ringtones to personalize your phone experience.</li>\n<li>🔄 Support for multiple platforms including Android and iOS, catering to a wide array of users.</li>\n<li>🛡️ Free access to all features while maintaining a safe environment for downloading content. </li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👑 A king-sized library of apps and games, offering unrivaled variety.</li>\n<li>👁️ An attractive, user-friendly design facilitating seamless navigation and downloads.</li>\n<li>🚀 Top speed release updates keeping you at the forefront of the latest apps.</li>\n<li>🎁 The privilege of free downloads for a lifetime, adding value to your experience.</li>\n<li>📱 A cross-platform solution, making it easy to switch devices without losing your favorite apps.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👨‍💻 Limitations in app curation could lead to overwhelming choices without guidance.</li>\n<li>🔒 Potential concerns over app vetting processes and user privacy.</li>\n<li>🆕 New app discoveries may be hindered by the sheer volume of existing selections.</li>\n<li>💬 Limited customer support might affect the resolution of user issues.</li>\n<li>🌏 Some content might vary by region, causing discrepancies in availability.</li>\n</ul>\n<p><strong>Price:</strong></p>\n<ul>\n<li>💵 V-Share is a free-of-charge platform, offering its extensive services without a dent on your wallet. Bear in mind that some in-app features or downloads might incur costs depending upon the individual apps’ policies.</li>\n</ul>\n<p>With its friendly user interface and mammoth selection of digital content, V-Share is your go-to app market that promises more than just downloads—it promises a user-centric adventure. Embrace this multi-platform repository and let your digital lifestyle evolve!</p>\n<p>(Note: The 'Community' section is not included here as the V-Share app is a non-game app.)</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-takeofflabs-fontmaker/54188.html",
+      "icon": "assets/img/apk/icon/com.takeofflabs.fontmaker.png",
+      "name": "Fontmaker - Font Keyboard App",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-game-console-emulator/39577.html",
+      "icon": "assets/img/apk/icon/com.game.console.emulator.png",
+      "name": "Gamu: Retro Game Hub",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/app-itwingtech-power_of_mind-predicator/39340.html",
+      "icon": "assets/img/apk/icon/app.itwingtech.power_of_mind.predicator.png",
+      "name": "Mind Test: Test My Brain",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-pdfreader-pdfeditor-scandocu-pro-app-amb/16953.html",
+      "icon": "assets/img/apk/icon/com.pdfreader.pdfeditor.scandocu.pro.app.amb.png",
+      "name": "PDFPro: Scanner & Editor",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "3.8"
+    },
+    {
+      "link": "/details/ai-perplexity-app-android/16744.html",
+      "icon": "assets/img/apk/icon/ai.perplexity.app.android.png",
+      "name": "Perplexity - Ask Anything",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-safeshellvpn/16639.html",
+      "icon": "assets/img/apk/icon/com.safeshellvpn.png",
+      "name": "SafeShell VPN: Fast & Secure",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-roblox-skin-cloth-freeskins/16603.html",
+      "icon": "assets/img/apk/icon/com.roblox.skin.cloth.freeskins.png",
+      "name": "Clothes Skin For Roblox",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-underthing-focus-friend/16526.html",
+      "icon": "assets/img/apk/icon/com.underthing.focus.friend.png",
+      "name": "Focus Friend by Hank Green",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.7"
+    }
+  ]
+}

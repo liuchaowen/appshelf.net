@@ -1,0 +1,109 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/au.com.sicky.prod.png",
+    "title": "Sicky",
+    "ratings": "4",
+    "downloads": "450M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Sicky"
+    },
+    {
+      "name": "category",
+      "value": "Medical"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Sicky"
+    },
+    {
+      "name": "Version",
+      "value": "1.0.41"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/h9cysU2d0iheh67P2Y0QqfWZJHNj8pKP9BVKqEkFLVskPonqX1Fqp3xhCLOPyKn5LAQ",
+    "https://play-lh.googleusercontent.com/i6ieZikAIm_xjCSizlHS5rEgVypIeBO72nAx7d2Qu-vidVZqWRFkFdctmmxPAp_mScsb",
+    "https://play-lh.googleusercontent.com/URr1_nSGJn4cflUsjzNCYg-bye1ZQRoTrM3ojRbI1-jQdu1mPjKMqC-F2Yi1steb_1M",
+    "https://play-lh.googleusercontent.com/yQLNJMLAN3cM7aqEdUvvBrvjxSri6G7wRI_KEZFuCm2JaBo6-mx7WeI08byCzcMYK_gv",
+    "https://play-lh.googleusercontent.com/jkEh1FIlZMxhsJqTwnmdIXPYSPk85H8nz6Uv6dffqLvdoUvr88Z45cm6ZNSgeDIRtA"
+  ],
+  "app_descript": "<p><strong>Brief:</strong>\nSicky is an innovative app designed to simplify the process of obtaining medical certificates in Australia. If you need evidence of being unfit for work or study due to illness, Sicky offers remote assessments by trained pharmacists, ensuring convenience and a hassle-free experience from the comfort of your home. It's a valuable service for those needing prompt documentation without the need to visit a clinic or pay additional charges if a certificate isn't issued.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>📌 No Cost Guarantee - If you're not deemed unfit for work and a certificate cannot be provided, there's no charge.</li>\n<li>📌 Compliance with Fair Work Act - All online medical certificates are recognized under the Australian Fair Work Act 2009.</li>\n<li>📌 Remote Assessments - Get your medical assessment without leaving your home through the app.</li>\n<li>📌 Professional Service - Consult with trained pharmacists who comply with Australian health regulations.</li>\n<li>📌 Expedited Delivery - Offering same-day delivery for your medical certificate when needed urgently.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 Free Assessments - Enjoy assessments free of charge, paying only if a certificate is issued.</li>\n<li>👍 Legally Recognized - Certificates are compliant with relevant Australian legislation.</li>\n<li>👍 Convenience - The remote assessment feature provides ultimate convenience.</li>\n<li>👍 Expert Care - Access to healthcare professionals without the traditional clinic visit.</li>\n<li>👍 Speed - Fast delivery of certificates to meet immediate needs.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 Limited to Australia - Service is exclusive to Australian residents, limiting global accessibility.</li>\n<li>👎 Applicability of Services - Services may be limited to conditions that pharmacists can assess remotely.</li>\n<li>👎 Internet Dependency - A reliable internet connection is required for remote assessment.</li>\n<li>👎 Potential for System Limitations - High demand may affect app performance or availability of pharmacists.</li>\n<li>👎 Tech Savviness Required - Users must be comfortable with using apps and technology for health services.</li>\n</ul>\n<p><strong>Price:</strong></p>\n<ul>\n<li>💵 The assessments provided by Sicky are free unless a medical certificate is successfully issued. However, details on the pricing of the certificates after assessment are not provided in the description.</li>\n</ul>\n<p><a href=\"au.com.sicky.prod\" rel=\"noopener noreferrer\" target=\"_blank\">Download Sicky on the App Store</a></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-stress-test/48991.html",
+      "icon": "assets/img/apk/icon/com.stress.test.png",
+      "name": "Stress Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-procrastination-test/39516.html",
+      "icon": "assets/img/apk/icon/com.procrastination.test.png",
+      "name": "Procrastination Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-bingeeating-test/39303.html",
+      "icon": "assets/img/apk/icon/com.bingeeating.test.png",
+      "name": "Binge Eating Disorder Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-ocd-test/34780.html",
+      "icon": "assets/img/apk/icon/com.ocd.test.png",
+      "name": "OCD Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-healthians-main-healthians/34760.html",
+      "icon": "assets/img/apk/icon/com.healthians.main.healthians.png",
+      "name": "Healthians -Full Body Checkup",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-lbrc-PeriodCalendar/34759.html",
+      "icon": "assets/img/apk/icon/com.lbrc.PeriodCalendar.png",
+      "name": "Period Tracker and Calendar",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/es-jshcd-edadosea/34693.html",
+      "icon": "assets/img/apk/icon/es.jshcd.edadosea.png",
+      "name": "Bone age",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-devdis/16977.html",
+      "icon": "assets/img/apk/icon/com.devdis.png",
+      "name": "Developmental Disabilities",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.5"
+    }
+  ]
+}

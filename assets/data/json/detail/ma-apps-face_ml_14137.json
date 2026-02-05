@@ -1,0 +1,109 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/ma.apps.face_ml.png",
+    "title": "Face reader scanner - analyser",
+    "ratings": "3.4",
+    "downloads": "10M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Face reader scanner - analyser"
+    },
+    {
+      "name": "category",
+      "value": "Communication"
+    },
+    {
+      "name": "Price",
+      "value": "0"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Medouta"
+    },
+    {
+      "name": "Version",
+      "value": "5.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/1zaIJemEx7h9wkr7yxYVXUYzioJo_o3XUTur_9g8lDaQiNmKs4WkF0-8hu6MUEHNng",
+    "https://play-lh.googleusercontent.com/wRvYxd7zVEIX4D7T7DSwuKeVowFMnVLfb-MLJV_bgsNUfJdqQEYzLPt1DMg40taUPTU",
+    "https://play-lh.googleusercontent.com/ELM82_fx8hMetAiw7KtygP7MKd-Wix9zCQzfilhxvPIFSz4CajRH49f23SxXqGLEitLz",
+    "https://play-lh.googleusercontent.com/g8MRtaktIH5N6SRpz6uR2-vC4aG0XLjblGw4VHoysg8JfHkqceHeeqR4dcHaHet7bm3_",
+    "https://play-lh.googleusercontent.com/YDkyqnl9kTHcgfAZ-9dUji4o6eIACGvX2eIFGEOgKkl-wIuARoCH6KYhZ8yP5BF_0A"
+  ],
+  "app_descript": "<h1>Face Reader Scanner - Analyser</h1>\n<p>Unlock the secrets of facial features and enhance your understanding of personality traits with the Face Reader Scanner. This innovative app utilizes advanced machine learning technology to analyze photos of faces, providing insight into characteristics that guide our perception of individuals. Whether you're curious about a friend, family member, or even a potential partner, this app offers a unique perspective on personality through facial analysis.</p>\n<h3>📌 Core Features:</h3>\n<ul>\n<li><strong>Photo Analysis</strong>: Easily upload photos from your gallery or capture new ones with your camera for analysis 📸.</li>\n<li><strong>Facial Trait Detection</strong>: Identifies and evaluates key facial features, enabling comprehensive personality interpretations 🔍.</li>\n<li><strong>Personality Insights</strong>: Discover seven critical personality traits, including mental activity, sport activity, competence, forgiveness, self-reliance, generosity, and brevity 🤔.</li>\n<li><strong>Privacy Focused</strong>: Rest assured that no photos are stored on our servers, ensuring complete privacy and confidentiality 🔒.</li>\n<li><strong>Ancient Techniques</strong>: Leverages traditional face reading principles combined with modern AI methodologies for precise analysis 🧠.</li>\n</ul>\n<h3>👍 Pros:</h3>\n<ul>\n<li><strong>User-Friendly Interface</strong>: Simple and intuitive design makes the app accessible to everyone 🌟.</li>\n<li><strong>Engaging Insights</strong>: Provides thought-provoking analysis that can lead to interesting conversations and self-reflection 💬.</li>\n<li><strong>Versatile Application</strong>: Perfect for personal use or for learning more about friends and family 📖.</li>\n<li><strong>Innovative Technology</strong>: Utilizes Google’s face recognition technology, ensuring accuracy in results ⚙️.</li>\n</ul>\n<h3>👎 Cons:</h3>\n<ul>\n<li><strong>Accuracy Variability</strong>: Results may not always be precise due to the subjective nature of personality interpretation 🎭.</li>\n<li><strong>Limited Traits</strong>: Analysis focuses on seven traits, which may not encompass the full complexity of a person's personality 🧩.</li>\n<li><strong>Camera Dependency</strong>: Quality of analysis may be affected by the quality and clarity of the uploaded images 📷.</li>\n<li><strong>Connectivity Required</strong>: The app requires an internet connection to fully utilize some features 🌐.</li>\n</ul>\n<h3>💵 Price:</h3>\n<p>The Face Reader Scanner is available for free with optional in-app purchases, ensuring accessibility to a wide user base 💰.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-new_year-stickers-birthday/39669.html",
+      "icon": "assets/img/apk/icon/com.new_year.stickers.birthday.png",
+      "name": "Happy New Year Stickers 2026",
+      "categoryLink": "/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/org-watchduty-app/14524.html",
+      "icon": "assets/img/apk/icon/org.watchduty.app.png",
+      "name": "Watch Duty (Wildfire)",
+      "categoryLink": "/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-snowcorp-stickerly-android/14453.html",
+      "icon": "assets/img/apk/icon/com.snowcorp.stickerly.android.png",
+      "name": "Sticker.ly - Sticker Maker",
+      "categoryLink": "/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-Happynewyearphotoframe2020/14421.html",
+      "icon": "assets/img/apk/icon/com.Happynewyearphotoframe2020.png",
+      "name": "New Year Video Maker 2025",
+      "categoryLink": "/categories/communication/7",
+      "category": "Communication",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-intira-new-year-photo-frame-new/14342.html",
+      "icon": "assets/img/apk/icon/com.intira.new.year.photo.frame.new.png",
+      "name": "New year photo frame 2025",
+      "categoryLink": "/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-christmas-photo-frame-b-new-free/14203.html",
+      "icon": "assets/img/apk/icon/com.christmas.photo.frame.b.new.free.png",
+      "name": "Christmas photo frame 2025",
+      "categoryLink": "/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/ma-apps-face_ml/14137.html",
+      "icon": "assets/img/apk/icon/ma.apps.face_ml.png",
+      "name": "Face reader scanner - analyser",
+      "categoryLink": "/categories/communication/7",
+      "category": "Communication",
+      "rating": "3.3"
+    },
+    {
+      "link": "/details/com-dhiya-halloweenstickers/10376.html",
+      "icon": "assets/img/apk/icon/com.dhiya.halloweenstickers.png",
+      "name": "Halloween Stickers",
+      "categoryLink": "/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    }
+  ]
+}

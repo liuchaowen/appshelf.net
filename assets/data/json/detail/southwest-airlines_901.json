@@ -1,0 +1,109 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.southwestairlines.mobile.png",
+    "title": "Southwest Airlines",
+    "ratings": "4.6",
+    "downloads": "300M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Southwest Airlines"
+    },
+    {
+      "name": "category",
+      "value": "Travel & Local"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Southwest Airlines"
+    },
+    {
+      "name": "Version",
+      "value": "6.7.1"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/RAa17fbQsUxov-Ey0zMAw71dfnOeBbhcdMiW7hjUJ1NXffjRN9bkmnSWAOJZE9mY-zR-",
+    "https://play-lh.googleusercontent.com/s7ulvZzj9QxalWGm9EeHo6KosT0c8k6dhUUPTaboscVCqLtAeM9ZrbWN7sRWQ1616ODi",
+    "https://play-lh.googleusercontent.com/M-sP7XhLpCs68cBiJlQQ5XtNqIytLM3rH9PPPHfhioNl1JEfip5RRLR5U8YY9fGttzJs",
+    "https://play-lh.googleusercontent.com/C08GEdYjM0hVUBRB90UIc36AwOtDQu00y2gnB5nTlH6W1mV4B2WnD54RuZNpQSFueAo",
+    "https://play-lh.googleusercontent.com/xnfHcXQSE4m5ACOzPDsbZ0teODqbk_kI5CCIVamH98Jj2HQCghRLHxOx92sfsGVLEoQ"
+  ],
+  "app_descript": "<p><strong>Southwest Airlines Mobile App</strong></p>\n<p><strong>Brief:</strong>\nThe Southwest Airlines app is designed to provide travelers with a comprehensive suite of tools to simplify their flying experience with the airline. Whether it's managing flight details, accessing a mobile boarding pass, or even booking other travel particulars like car rentals and hotel accommodations, this app is aimed to be a one-stop solution for Southwest customers on the go.</p>\n<hr/>\n<p><strong>📌 Core Features:</strong></p>\n<ol>\n<li><strong>All-in-One Travel Info:</strong> Access all necessary travel details including gate information, boarding positions, and flight status updates. 🛫</li>\n<li><strong>Mobile Boarding:</strong> Obtain your boarding pass directly on your mobile device 24 hours before your flight. 🎟️</li>\n<li><strong>Direct Live Chat:</strong> Reach Customer Representatives instantly through an in-app live chat feature. 💬</li>\n<li><strong>Lyft Integration:</strong> Seamlessly book Lyft rides for airport transfers with fare estimations and arrival times. 🚖</li>\n<li><strong>Full Travel Service:</strong> Book cars, hotels, and vacations all within the app. 🏨</li>\n</ol>\n<hr/>\n<p><strong>👍 Pros:</strong></p>\n<ol>\n<li><strong>Convenient Travel Management:</strong> Keeps all your flight and travel information in one place for easy access. 🗂️</li>\n<li><strong>Time-Saving Features:</strong> Enables early check-in and mobile boarding passes to expedite your airport procedures. ⏳</li>\n<li><strong>24/7 Support:</strong> Offers round-the-clock assistance with the integrated live chat support. 🆘</li>\n<li><strong>Lyft Collaboration:</strong> Adds comfort by providing simplified airport ride arrangements. 🤝</li>\n<li><strong>Entertainment Options:</strong> Offers a range of inflight entertainment options to enjoy without downloading additional apps. 🎧</li>\n</ol>\n<hr/>\n<p><strong>👎 Cons:</strong></p>\n<ol>\n<li><strong>Inflight Restrictions:</strong> Entertainment services may not be available on all aircraft or throughout international flights. 🛂</li>\n<li><strong>Dependence on WiFi:</strong> Full functionality of the inflight entertainment relies on being on a WiFi-enabled aircraft. 📡</li>\n<li><strong>Rapid Rewards Requirement:</strong> To earn points through app bookings, signing up for the Rapid Rewards program is necessary. 🎰</li>\n<li><strong>Licensing Limitations:</strong> Availability of live TV and music can be inconsistent due to licensing constraints. 📺</li>\n<li><strong>App Compatibility:</strong> May not support older devices or operating systems, potentially limiting user access. 📲</li>\n</ol>\n<hr/>\n<p><strong>💵 Price:</strong></p>\n<p>The Southwest Airlines app is free to download, but keep in mind that there may be costs associated with some services, like booking flights, accommodations, or airport Lyft services.</p>\n<hr/>\n<p><em>Community section is not included as this inquiry is concerning a non-game app.</em></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-bp-app-bpme-global-ros/16042.html",
+      "icon": "assets/img/apk/icon/com.bp.app.bpme.global.ros.png",
+      "name": "earnify",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/kulana-tools-vacationcountdown/10380.html",
+      "icon": "assets/img/apk/icon/kulana.tools.vacationcountdown.png",
+      "name": "Vacation Countdown App",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-disney-playdisneyparks-goo/4681.html",
+      "icon": "assets/img/apk/icon/com.disney.playdisneyparks.goo.png",
+      "name": "Play Disney Parks",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-hornblower-statuecruises/4679.html",
+      "icon": "assets/img/apk/icon/com.hornblower.statuecruises.png",
+      "name": "Statue Cruises",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-usnpw-grca/4678.html",
+      "icon": "assets/img/apk/icon/com.usnpw.grca.png",
+      "name": "Grand Canyon National Park",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/MakeMyTrip-Hotels-Flight-Bus/4591.html",
+      "icon": "assets/img/apk/icon/com.makemytrip.png",
+      "name": "MakeMyTrip Hotels, Flight, Bus",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/ConfirmTkt/4570.html",
+      "icon": "assets/img/apk/icon/com.confirmtkt.lite.png",
+      "name": "ConfirmTkt",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/Bus-Train-Ticket-Booking-App/4503.html",
+      "icon": "assets/img/apk/icon/in.redbus.android.png",
+      "name": "Bus, Train Ticket Booking App",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.9"
+    }
+  ]
+}

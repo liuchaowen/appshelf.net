@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.music.download.downloadtube.music.player.png",
+    "title": "Music Downloader MP3 Song",
+    "ratings": "4.8",
+    "downloads": "690M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Music Downloader MP3 Song"
+    },
+    {
+      "name": "category",
+      "value": "Music & Audio"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Music Downloader Plus"
+    },
+    {
+      "name": "Version",
+      "value": "1.0.4"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h3>Music Downloader MP3 Song</h3>\n<p><strong>Brief:</strong>\nMusic Downloader MP3 Song is a robust and versatile music app that offers a multitude of features for downloading and enjoying music. With its visually appealing themes and a vast library of high-quality tracks, it promises a delightful experience for music enthusiasts who prefer their tunes on the go. The app makes it easy to find the perfect song for any mood or preference.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🎨 Multiple built-in themes for personalization.</li>\n<li>🎼 Access to over a million high-quality MP3 tracks for a superior listening experience.</li>\n<li>📜 Online display of music lyrics to sing along to your favorite songs.</li>\n<li>💨 Fast and efficient MP3 download engine with multithread support.</li>\n<li>🔍 Advanced search options to find music by various criteria including tracks, artists, and more. 🧐</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 User-friendly interface that makes downloading MP3s a breeze.</li>\n<li>👍 Online and offline playback options cater to different usage scenarios.</li>\n<li>👍 Music is verified and available for personal use, ensuring a legal listening experience.</li>\n<li>👍 A vast data set of MP3 music allows users to explore and enjoy a diverse range of genres. 🌍</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 Limited to personal usage, not suitable for commercial purposes.</li>\n<li>👎 May not offer every popular song or artist due to licensing restrictions.</li>\n<li>👎 As with any music downloader, storage space considerations must be taken into account.</li>\n<li>👎 Availability of some features may depend on the user's location and copyright laws. 📍</li>\n</ul>\n<p><strong>Price:</strong>\n💵 This app is freely accessible for users, although it's important to check if there are any in-app purchases or additional costs for premium features.</p>\n<p>Crafting your music library has never been easier with Music Downloader MP3 Song. Dive into a world of musical diversity and enjoy your favorite tracks at your fingertips.</p>\n<p><a href=\"https://play.google.com/store/apps/details?id=com.music.download.downloadtube.music.player\" rel=\"noopener noreferrer\" target=\"_blank\">Download the app here</a> 📲</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-simmusic-oldjpop/49056.html",
+      "icon": "assets/img/apk/icon/com.simmusic.oldjpop.png",
+      "name": "昭和の名曲 - 70年代/80年代名曲, 昭和の歌謡曲",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-bigsoft-voicereverse-audiochanger/39378.html",
+      "icon": "assets/img/apk/icon/com.bigsoft.voicereverse.audiochanger.png",
+      "name": "Funny Voice Reverse",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "3.1"
+    },
+    {
+      "link": "/details/com-realdrum-drumset-drumapp-beatmaker-music-instruments-drumkit/16783.html",
+      "icon": "assets/img/apk/icon/com.realdrum.drumset.drumapp.beatmaker.music.instruments.drumkit.png",
+      "name": "Learn Drum - Pad & Beat Maker",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-musicplayer-mp3-audio-mymusic-player/15795.html",
+      "icon": "assets/img/apk/icon/com.musicplayer.mp3.audio.mymusic.player.png",
+      "name": "Music Player & MP3 - MMusic",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/com-ai-sound-donna/15626.html",
+      "icon": "assets/img/apk/icon/com.ai.sound.donna.png",
+      "name": "Donna AI Song & Music Maker",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-vanniktech-rssreader/15328.html",
+      "icon": "assets/img/apk/icon/com.vanniktech.rssreader.png",
+      "name": "RSS Reader Offline | Podcast",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-voicechanger-supereffect-soundeffect/14158.html",
+      "icon": "assets/img/apk/icon/com.voicechanger.supereffect.soundeffect.png",
+      "name": "Voice Changer: Audio Effect",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/org-cru-womans-herbible/14124.html",
+      "icon": "assets/img/apk/icon/org.cru.womans.herbible.png",
+      "name": "her.BIBLE Women's Audio Bible",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    }
+  ]
+}

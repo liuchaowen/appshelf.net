@@ -1,0 +1,109 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.ytube.converter.png",
+    "title": "Video Tube to Mp3 converter",
+    "ratings": "4.7",
+    "downloads": "30M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Video Tube to Mp3 converter"
+    },
+    {
+      "name": "category",
+      "value": "Music & Audio"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "STREAMY MEDIA"
+    },
+    {
+      "name": "Version",
+      "value": "38"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/F4tTfkBc7RcZcfyHgKf-8XhUlWJe8N5DubiZzuGM8cN63-mnRlG7DM6KkQtZKBpBfog",
+    "https://play-lh.googleusercontent.com/TwbtdMD0MpMNcapC7Rrw0q04fVkKpe4U8Z1hiGI4E03L7IuaE64lmndegXtEFfq_4zw",
+    "https://play-lh.googleusercontent.com/3ahVEOQHEuVp2s3xbPK2a35wN_7MQxKe8YUFkylxlwqdXbJWuf2rN44yty9yOeh9Dvc",
+    "https://play-lh.googleusercontent.com/DHFKdeO1y3OtdubjfCnKV3lIf5bwxmZYUCAeE9pFOVT8o9Mn1hq7qeEg8jLQQ2gtUQ",
+    "https://play-lh.googleusercontent.com/wUq8t5r1pjzgJLjBA1S31mYCwQWDUDcCl5r-MPfEZPlGzqOUv9QQPVB2qoxa7O5F5dfS"
+  ],
+  "app_descript": "<h1>Video Tube to Mp3 Converter</h1>\n<h3>Brief:</h3>\n<p>Video Tube to Mp3 Converter is an efficient tool designed to transform your videos into high-quality MP3 audio files. Easy-to-use and remarkably fast, this app allows you to extract audio from videos in your library or from various supported online links. Whether you have video files on your device or URL links to videos, converting them to MP3 is merely a button tap away. It's important to note, though, the app strictly adheres to copyright and terms of service by not supporting YouTube to MP3 conversions.</p>\n<h3>Core Features:</h3>\n<ul>\n<li>🎵 <strong>Video to MP3 Conversion</strong>: Seamlessly convert your stored video files to MP3 with ease.</li>\n<li>⚡ <strong>Speed and Efficiency</strong>: Experience rapid conversions without compromising on quality.</li>\n<li>🔗 <strong>Online Video Link Support</strong>: Convert videos from supported online sources directly to MP3.</li>\n<li>📹 <strong>Extensive Format Compatibility</strong>: Supports a wide range of video formats for conversion. </li>\n</ul>\n<h3>Pros:</h3>\n<ul>\n<li>👍 Simple and user-friendly interface for hassle-free navigation.</li>\n<li>👍 No need for an internet connection when converting from your library.</li>\n<li>👍 High-speed conversions that save you time.</li>\n<li>👍 Flexibility to convert multiple video formats to MP3.</li>\n</ul>\n<h3>Cons:</h3>\n<ul>\n<li>👎 Does not support YouTube to MP3 conversion due to compliance with terms of service.</li>\n<li>👎 Internet connectivity is required for converting from online sources.</li>\n<li>👎 Limited functionality with restrictions on downloading from YouTube.</li>\n<li>👎 May not support certain online video links outside the supported list.</li>\n</ul>\n<h3>Price:</h3>\n<ul>\n<li>💵 The app is typically free to use, offering an accessible way to convert videos to MP3. Make sure to check for any in-app purchases for additional features or ad removal which may affect pricing.</li>\n</ul>\n<p>With its straightforward functionality, Video Tube to Mp3 Converter stands as a reliable and convenient option for users looking to extract audio from videos available on their devices or from supported online platforms. Transform your video collection into a portable audio library effortlessly with this nifty tool.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-simmusic-oldjpop/49056.html",
+      "icon": "assets/img/apk/icon/com.simmusic.oldjpop.png",
+      "name": "昭和の名曲 - 70年代/80年代名曲, 昭和の歌謡曲",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-bigsoft-voicereverse-audiochanger/39378.html",
+      "icon": "assets/img/apk/icon/com.bigsoft.voicereverse.audiochanger.png",
+      "name": "Funny Voice Reverse",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "3.1"
+    },
+    {
+      "link": "/details/com-realdrum-drumset-drumapp-beatmaker-music-instruments-drumkit/16783.html",
+      "icon": "assets/img/apk/icon/com.realdrum.drumset.drumapp.beatmaker.music.instruments.drumkit.png",
+      "name": "Learn Drum - Pad & Beat Maker",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-musicplayer-mp3-audio-mymusic-player/15795.html",
+      "icon": "assets/img/apk/icon/com.musicplayer.mp3.audio.mymusic.player.png",
+      "name": "Music Player & MP3 - MMusic",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/com-ai-sound-donna/15626.html",
+      "icon": "assets/img/apk/icon/com.ai.sound.donna.png",
+      "name": "Donna AI Song & Music Maker",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-vanniktech-rssreader/15328.html",
+      "icon": "assets/img/apk/icon/com.vanniktech.rssreader.png",
+      "name": "RSS Reader Offline | Podcast",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-voicechanger-supereffect-soundeffect/14158.html",
+      "icon": "assets/img/apk/icon/com.voicechanger.supereffect.soundeffect.png",
+      "name": "Voice Changer: Audio Effect",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/org-cru-womans-herbible/14124.html",
+      "icon": "assets/img/apk/icon/org.cru.womans.herbible.png",
+      "name": "her.BIBLE Women's Audio Bible",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    }
+  ]
+}

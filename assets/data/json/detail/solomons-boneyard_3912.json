@@ -1,0 +1,109 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.raptisoft.SB.png",
+    "title": "Solomon's Boneyard",
+    "ratings": "4.2",
+    "downloads": "530M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Solomon's Boneyard"
+    },
+    {
+      "name": "category",
+      "value": "Role Playing"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Raptisoft"
+    },
+    {
+      "name": "Version",
+      "value": "1.2.2"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/K5eLZ6u6UoOmjr0LC8bTJTDdkgO2kOR00KxeqzNVkuy-nOx4bInohNscKqYo43FWnd4",
+    "https://play-lh.googleusercontent.com/3YbgQ1ikusaiFiEvvp7Omzl8pWdvKxxzcgI9o2_9SanfyYrIMM4l5W16ABllob6v5I2z",
+    "https://play-lh.googleusercontent.com/5MDBjRilXLNG9-Rj_EL6m-LGqfRJlQ6zsP290wNZxFsGV4ioctKUNRjpl6kgujjOZA",
+    "https://play-lh.googleusercontent.com/Ycrfle590ADWal8iDiSJ7Ld1M6Hsj_OGOChe3rpqHsaSszClk8YECwR2MbaADEpsAQ",
+    "https://play-lh.googleusercontent.com/dAleBzspzbu1I9uD87Jj1RCB1QjL2GvJ1YNOGe3z6wIzZfEL7DMJcAsUPgErsbWz8A"
+  ],
+  "app_descript": "<h3>Brief:</h3>\n<p>Solomon's Boneyard is an immersive magical action game where players step into the shoes of a powerful wizard, battling against endless waves of the undead in the eerie surrounds of Solomon's graveyard. Using a variety of spells and abilities, players must fend off skeletons and other ghoulish creatures, while collecting coins and power-ups to strengthen their character and set new high scores.</p>\n<h3>Core Features:</h3>\n<ul>\n<li>🏹 <strong>Magical Combat</strong>: Wield a diverse arsenal of spells as you combat the undead. </li>\n<li>💪 <strong>Character Progression</strong>: Level up and enhance your wizard’s abilities to become more formidable.</li>\n<li>🎮 <strong>Endless Challenges</strong>: Face a never-ending onslaught of skeletons and other creatures.</li>\n<li>🔮 <strong>Spell Variety</strong>: Collect and customize your magical abilities to suit your playstyle.</li>\n<li>🎩 <strong>Retro Style</strong>: Enjoy the nostalgia Factor with its pixel-art design and arcade vibes. 🖼️</li>\n</ul>\n<h3>Pros:</h3>\n<ul>\n<li>👾 <strong>Engaging Gameplay</strong>: Continuous action keeps the excitement levels high.</li>\n<li>🔁 <strong>Replayability</strong>: The never-ending waves and progression systems offer plenty of reasons to come back.</li>\n<li>🌟 <strong>Customization</strong>: Choose how to grow your wizard's power with a selection of upgrades.</li>\n<li>✨ <strong>Aesthetics</strong>: Gorgeous pixel-art graphics and atmospheric soundtrack enhance the gaming experience. 🎵</li>\n</ul>\n<h3>Cons:</h3>\n<ul>\n<li>🔄 <strong>Repetitiveness</strong>: The endless waves might become monotonous over time.</li>\n<li>🆕 <strong>Updates</strong>: Might lack frequent content updates due to the game's established nature.</li>\n<li>💾 <strong>Save System</strong>: The lack of a more sophisticated checkpoint or save system may frustrate some players.</li>\n<li>🕹️ <strong>Controls</strong>: Some players might find the touch controls less responsive than physical controllers. </li>\n</ul>\n<h3>Price:</h3>\n<ul>\n<li>💵 <strong>Free-to-Start</strong>: Solomon's Boneyard can be downloaded for free, though it may include optional in-app purchases for enhanced gameplay.</li>\n</ul>\n<h3>Community:</h3>\n<ul>\n<li>🕸️ <a href=\"http://www.raptisoft.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Official Site</a></li>\n<li>📺 <a href=\"https://www.youtube.com/user/Raptisoft\" rel=\"noopener noreferrer\" target=\"_blank\">YouTube</a></li>\n<li>🔊 There might be community channels or influencers for Solomon's Boneyard on platforms such as Instagram, Twitter, Discord, Facebook, TikTok, and Reddit, as well as fandom wikis that can be explored for tips, strategies, and community engagement.</li>\n</ul>\n<p>(Note: In the absence of specific community data for Solomon's Boneyard, generalized links to the developer's channels have been provided.)</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-squareenix-lis-bts/54482.html",
+      "icon": "assets/img/apk/icon/com.squareenix.lis.bts.png",
+      "name": "Life is Strange: Before Storm",
+      "categoryLink": "/en/categories/role.playing/43",
+      "category": "Role Playing",
+      "rating": "3.6"
+    },
+    {
+      "link": "/details/com-escape-tsunami-steal-all-brainrots-game/54470.html",
+      "icon": "assets/img/apk/icon/com.escape.tsunami.steal.all.brainrots.game.png",
+      "name": "Escape Tsunami For Brainrots",
+      "categoryLink": "/en/categories/role.playing/43",
+      "category": "Role Playing",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-candy-ball-run-games-arena/54362.html",
+      "icon": "assets/img/apk/icon/com.candy.ball.run.games.arena.png",
+      "name": "Candy Ball Run - Rolling Games",
+      "categoryLink": "/en/categories/role.playing/43",
+      "category": "Role Playing",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-cozco-bird-sim-game/53860.html",
+      "icon": "assets/img/apk/icon/com.cozco.bird.sim.game.png",
+      "name": "I Am Bird Sim 3D",
+      "categoryLink": "/en/categories/role.playing/43",
+      "category": "Role Playing",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-NewFolderGames-IAmBird/53857.html",
+      "icon": "assets/img/apk/icon/com.NewFolderGames.IAmBird.png",
+      "name": "I Am Bird",
+      "categoryLink": "/en/categories/role.playing/43",
+      "category": "Role Playing",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/com-pigamesstudio-momspregnantcare/39528.html",
+      "icon": "assets/img/apk/icon/com.pigamesstudio.momspregnantcare.png",
+      "name": "Mom and Newborn care game",
+      "categoryLink": "/en/categories/role.playing/43",
+      "category": "Role Playing",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-piispanen-hotelhideaway/39474.html",
+      "icon": "assets/img/apk/icon/com.piispanen.hotelhideaway.png",
+      "name": "Hotel Hideaway: Avatar & Chat",
+      "categoryLink": "/en/categories/role.playing/43",
+      "category": "Role Playing",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/httpcom-ciphers-realm-christmas-santa-gifts-delivery/39461.html",
+      "icon": "assets/img/apk/icon/httpcom.ciphers.realm.christmas.santa.gifts.delivery.png",
+      "name": "Christmas Gift Simulator",
+      "categoryLink": "/en/categories/role.playing/43",
+      "category": "Role Playing",
+      "rating": "4.5"
+    }
+  ]
+}

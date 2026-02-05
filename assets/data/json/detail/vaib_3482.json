@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.vaib.ai.png",
+    "title": "VAIB",
+    "ratings": "4.4",
+    "downloads": "360M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "VAIB"
+    },
+    {
+      "name": "category",
+      "value": "Social"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Vaib Labs AI"
+    },
+    {
+      "name": "Version",
+      "value": "1.0.1"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>Brief:</strong>\nStep into a world where your digital presence is uniquely yours with VAIB. This cutting-edge app harnesses the power of an advanced AI engine to transform your personal photos into a diverse collection of profile pictures (PFPs). Begin by uploading just 20 photos, and let VAIB do the rest, creating 60 unique PFPs all tailored to your individual style. The excitement continues as VAIB delivers 5 new PFPs every day for a month, ensuring a fresh look for your online persona.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🖼️ <strong>Personalized PFP Creation</strong>: Upload your photos and get 60 tailored, AI-generated profile pictures.</li>\n<li>🎨 <strong>Diverse Selection</strong>: With varied styles and designs, each PFP is distinct and exclusively yours.</li>\n<li>📅 <strong>Daily Delights</strong>: Receive 5 new PFPs every day for 30 days to constantly refresh your online image.</li>\n<li>🧠 <strong>AI-Powered Technology</strong>: Experience the marvel of artificial intelligence as it crafts images that reflect your essence.</li>\n<li>🎁 <strong>Profile Makeover</strong>: Uncover a new virtual 'vaib', reinventing your digital presence with ease.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👤 <strong>Customization</strong>: Enjoy PFPs that are unique to you, showcasing your personality across all your social platforms.</li>\n<li>✨ <strong>Variety</strong>: With a plethora of options, finding the perfect PFP to match your current mood or aesthetic is a cinch.</li>\n<li>🕒 <strong>Time-Saving</strong>: VAIB eliminates the need for searching or crafting your own PFPs, saving valuable time.</li>\n<li>👁️ <strong>Fresh Content</strong>: The app keeps your profiles vibrant with new images, avoiding a stale online presence.</li>\n<li>🔄 <strong>Continuous Updates</strong>: The 30-day cycle of new PFPs ensures there's always something exciting on the horizon.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>📶 <strong>Internet Dependency</strong>: Requires a stable internet connection for photo uploads and daily downloads.</li>\n<li>🗂️ <strong>Privacy Consideration</strong>: Some users may be hesitant about uploading personal photos to an AI platform.</li>\n<li>📱 <strong>Storage Space</strong>: Daily new PFPs might consume significant storage space on your device.</li>\n<li>🤖 <strong>AI Nuance</strong>: AI-generated images might lack the nuanced creativity some might prefer from a human artist.</li>\n<li>🆕 <strong>Learning Curve</strong>: New users may need time to navigate and become accustomed to the app's functionality.</li>\n</ul>\n<p><strong>Price:</strong></p>\n<ul>\n<li>💵 The app download is typically free, with in-app purchases possible for additional features or services. Details on pricing for these extra options would be included within the app.</li>\n</ul>\n<p><em>(Please note: The community section is not included as VAIB is not classified as a game app.)</em></p>\n<p>Craft your digital 'vaib' with VAIB and always leave a memorable impression wherever your online journey takes you.</p>",
+  "related_apps": [
+    {
+      "link": "/details/jp-cocone-livly/54171.html",
+      "icon": "assets/img/apk/icon/jp.cocone.livly.png",
+      "name": "Livly Island - Adopt Cute Pets",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-daily-festival-photos/39721.html",
+      "icon": "assets/img/apk/icon/com.daily.festival.photos.png",
+      "name": "Daily Festival Photo",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/tv-medal-recorder/39573.html",
+      "icon": "assets/img/apk/icon/tv.medal.recorder.png",
+      "name": "Medal - Gaming Clips",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-ptanktechnology-reincornation/39352.html",
+      "icon": "assets/img/apk/icon/com.ptanktechnology.reincornation.png",
+      "name": "Reincarnation",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-tiktok-lite-go/15392.html",
+      "icon": "assets/img/apk/icon/com.tiktok.lite.go.png",
+      "name": "TikTok Lite - Faster TikTok",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-petmeetly/15275.html",
+      "icon": "assets/img/apk/icon/com.petmeetly.png",
+      "name": "Petmeetly - Pet's Match Finder",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-xingin-xhs/14603.html",
+      "icon": "assets/img/apk/icon/com.xingin.xhs.png",
+      "name": "REDnote—小红书国际版",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-stdev-dissordap/10395.html",
+      "icon": "assets/img/apk/icon/com.stdev.dissordap.png",
+      "name": "Vote Social - Photo Voting VS",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "3.8"
+    }
+  ]
+}

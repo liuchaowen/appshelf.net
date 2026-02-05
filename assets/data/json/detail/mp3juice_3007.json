@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/mp3juice.mp3juices.mp3.freemusic.png",
+    "title": "Mp3Juice",
+    "ratings": "4.5",
+    "downloads": "590M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Mp3Juice"
+    },
+    {
+      "name": "category",
+      "value": "Music & Audio"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "ProBro lnc"
+    },
+    {
+      "name": "Version",
+      "value": "v11.5.10"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>Mp3Juice - Perfect Your Playlist with Free Music Downloads</strong></p>\n<p><strong>Brief:</strong>\nMp3Juice offers a seamless experience for music lovers to download their favorite tracks directly into their devices. This free application provides a convenient method of saving music offline, enabling users to enjoy high-quality sound in various formats without the hassle of streaming.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🎵 <strong>Unlimited Downloads:</strong> Access a vast library of tracks and download music without limitations.</li>\n<li>📁 <strong>Album Downloads:</strong> Easily download complete albums, ensuring your collection stays organized.</li>\n<li>🌟 <strong>Quality Control:</strong> Choose between multiple quality settings, including 320kbps, 160kbps, and 96kbps.</li>\n<li>💾 <strong>Local Storage Saving:</strong> Directly save music to your device's local storage for listening without an internet connection.</li>\n<li>🔖 <strong>ID3 Tagging:</strong> Tracks come with embedded AlbumArt and Audio Information, providing a polished listening experience.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 <strong>Adaptable Formats:</strong> Supports multiple file types such as mp3 and m4a, catering to a wide array of preferences.</li>\n<li>👍 <strong>Lyrics Download:</strong> Enhance your experience by getting the lyrics for your downloaded songs.</li>\n<li>👍 <strong>Fascinating Graphics:</strong> Album arts and other graphical elements of songs are automatically downloaded.</li>\n<li>👍 <strong>User-Friendly Interface:</strong> The app is designed to look aesthetically pleasing and operate smoothly on mobile devices.</li>\n<li>👍 <strong>Responsive Support:</strong> The team is dedicated to improving the app and swiftly addressing user-reported issues.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 <strong>Early Version Bugs:</strong> Being the initial release, some bugs are to be expected.</li>\n<li>👎 <strong>Potentially Limited Catalog:</strong> The range of available songs may vary based on the music source's library.</li>\n<li>👎 <strong>Device Compatibility:</strong> ID3 tagging is only enabled for devices with Android Oreo and above.</li>\n<li>👎 <strong>Copyrights:</strong> Users must be cautious about copyrighted material.</li>\n<li>👎 <strong>Third-Party Dependency:</strong> Relies on a third-party service (JioSaavn) for content.</li>\n</ul>\n<p><strong>Price:</strong></p>\n<ul>\n<li>💵 <strong>Complimentary Access:</strong> Mp3Juice provides all of its features free of charge to its users.</li>\n</ul>\n<p>Download Mp3Juice - Free Mp3 Juice Download and elevate your music experience by keeping your favorite tunes just a tap away. Enjoy the simplicity of offline music with the added benefit of high-quality audio and comprehensive album graphics.</p>\n<p><em>Please note that all trademarks and copyrights belong to their respective owners. Use of this app is subject to Fair Use and the Digital Millennium Copyrights Act (DMCA).</em></p>\n<p>For concerns about hosted content or assistance, please contact JioSaavn or reach out to Mp3Juice's support at <a href=\"http://mp3juices.store/copyright_report/\" rel=\"noopener noreferrer\" target=\"_blank\">content removal team</a>.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-simmusic-oldjpop/49056.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.simmusic.oldjpop.png",
+      "name": "昭和の名曲 - 70年代/80年代名曲, 昭和の歌謡曲",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-bigsoft-voicereverse-audiochanger/39378.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.bigsoft.voicereverse.audiochanger.png",
+      "name": "Funny Voice Reverse",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "3.1"
+    },
+    {
+      "link": "/details/com-realdrum-drumset-drumapp-beatmaker-music-instruments-drumkit/16783.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.realdrum.drumset.drumapp.beatmaker.music.instruments.drumkit.png",
+      "name": "Learn Drum - Pad & Beat Maker",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-musicplayer-mp3-audio-mymusic-player/15795.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.musicplayer.mp3.audio.mymusic.player.png",
+      "name": "Music Player & MP3 - MMusic",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/com-ai-sound-donna/15626.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.ai.sound.donna.png",
+      "name": "Donna AI Song & Music Maker",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-vanniktech-rssreader/15328.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.vanniktech.rssreader.png",
+      "name": "RSS Reader Offline | Podcast",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-voicechanger-supereffect-soundeffect/14158.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.voicechanger.supereffect.soundeffect.png",
+      "name": "Voice Changer: Audio Effect",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/org-cru-womans-herbible/14124.html",
+      "icon": "https://img.buzzsight.co/apk/icon/org.cru.womans.herbible.png",
+      "name": "her.BIBLE Women's Audio Bible",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    }
+  ]
+}

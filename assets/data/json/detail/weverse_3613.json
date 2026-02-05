@@ -1,0 +1,111 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/co.benx.weverse.png",
+    "title": "Weverse",
+    "ratings": "4.7",
+    "downloads": "270M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Weverse"
+    },
+    {
+      "name": "category",
+      "value": "Social"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "beNX CO., LTD"
+    },
+    {
+      "name": "Version",
+      "value": "2.3.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/gQDaqOZlVQHwFZ3rMNAH8ekQyfu6RBzndw1PYPDaSyW8UsUdI9k1ugCaQe3zoD4NrAk",
+    "https://play-lh.googleusercontent.com/AN4GNtepo0hm3Y-ZcE5TW-HaGOzJXyxQmMWAqUsHJTZt4DFEQ53Pbei-_pslzKcN9A",
+    "https://play-lh.googleusercontent.com/VyNGTI0VlvYi-iuNi4SSpD3uy7T2LvJn-E-OffutIvsCw5whJF0UDi54l3QP8BMPvtI_",
+    "https://play-lh.googleusercontent.com/uwTj1PQ-wdlCLhefzIKwPkQu7G_3dyP-lshNkP28JMpnkibr2RyZnUKvFK17yIAbhVA",
+    "https://play-lh.googleusercontent.com/TbuBI6aXh32MMpMw5eAYs6814wQytS1adnZG4pzFngoLWypIfcd2ITS76onrfWhDkIU",
+    "https://play-lh.googleusercontent.com/nrKEbg4lZh1JBy8hz0G4UkId6olMij3G1MTFBnCcDRlVOa7EBArTcHIKLpgnvCljjug",
+    "https://play-lh.googleusercontent.com/y7-dUMMPo5ybQ_-PKcUnPPPRukzQsC26Uqc03-YWuIPm9w5DYMHbItEwbA5iOsd89g"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> Weverse</p>\n<p><strong>Brief:</strong>\nWeverse is a fan community platform that brings you closer to your favorite artists. This unique app allows fans to engage with exclusive video content, share artists' day-to-day experiences, and connect with a global fanbase through a seamless translation feature. Perfect for dedicated followers, Weverse offers a personalized gateway to stay updated and show support for their beloved artists.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🎥 <strong>Exclusive Video Content:</strong> Access a wide range of videos from official releases to unique content curated just for Weverse users. 📌</li>\n<li>🤳 <strong>Artists' Daily Updates:</strong> Track the latest and real-life moments of your favorite artists and interact with their posts. 📌</li>\n<li>🌐 <strong>Translation Feature:</strong> Utilize the tap-to-translate option to understand posts and comments in various languages effortlessly. 📌</li>\n<li>🎁 <strong>Membership Perks:</strong> Unlock special content and menus exclusive to official fan club members like ARMY, MOA, and BUDDY. 📌</li>\n<li>📱 <strong>App Permissions:</strong> Access settings include device activities, camera, and file storage for app functionality such as QR code scanning and 1-on-1 support. 📌</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 <strong>Direct Artist Interaction:</strong> Engage directly with your favorite artists, providing a unique fan experience.</li>\n<li>👍 <strong>Language Accessibility:</strong> Break down language barriers with the easy-to-use translation functionality.</li>\n<li>👍 <strong>Exclusive Content:</strong> Members have access to exclusive videos and contents that are not available to the general public.</li>\n<li>👍 <strong>Community Support:</strong> Show encouragement and communicate with other fans worldwide through comments and cheer functions.</li>\n<li>👍 <strong>Device Integration:</strong> Connect your official Light Stick and other devices to sync with the application for an enhanced fan experience.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 <strong>Membership Exclusivity:</strong> Some content may only be accessible to official fanclub members, which could be limiting for non-members.</li>\n<li>👎 <strong>Permission Requirements:</strong> The app requires certain permissions which may raise privacy concerns for some users.</li>\n<li>👎 <strong>Content Limitation:</strong> There might be times when fresh content is not frequently updated, depending on the artists' schedules.</li>\n<li>👎 <strong>Connectivity Requirements:</strong> Some features need a stable internet connection, which may affect accessibility for those with limited connectivity.</li>\n<li>👎 <strong>Platform-Specific Content:</strong> Some content and features might be exclusive to Weverse and not shareable to other social platforms.</li>\n</ul>\n<p><strong>Price:</strong>\n💵 The Weverse app is free to download with in-app purchases for exclusive content and membership access. The price for these features may vary.</p>\n<p><strong>Community:</strong></p>\n<ul>\n<li>🕸️ <strong>Official Site:</strong> <a href=\"https://www.weverse.io/\" rel=\"noopener noreferrer\" target=\"_blank\">Weverse</a></li>\n<li>📺 <strong>YouTube Channel:</strong> <a href=\"https://www.youtube.com/channel/UCFcBOdgHFUnx_oH_cPLAAYQ\" rel=\"noopener noreferrer\" target=\"_blank\">Weverse Official YouTube</a></li>\n<li>Additionally, fans can follow Weverse related content on popular social media platforms to stay connected with the community and updates.</li>\n</ul>\n<p>(Note: If other specific community links are available for platforms like Instagram, Twitter, Discord, Facebook, TikTok, or Reddit, they would be included here. In case of no available data, those sections are not provided in the output.)</p>",
+  "related_apps": [
+    {
+      "link": "/details/jp-cocone-livly/54171.html",
+      "icon": "assets/img/apk/icon/jp.cocone.livly.png",
+      "name": "Livly Island - Adopt Cute Pets",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-daily-festival-photos/39721.html",
+      "icon": "assets/img/apk/icon/com.daily.festival.photos.png",
+      "name": "Daily Festival Photo",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/tv-medal-recorder/39573.html",
+      "icon": "assets/img/apk/icon/tv.medal.recorder.png",
+      "name": "Medal - Gaming Clips",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-ptanktechnology-reincornation/39352.html",
+      "icon": "assets/img/apk/icon/com.ptanktechnology.reincornation.png",
+      "name": "Reincarnation",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-tiktok-lite-go/15392.html",
+      "icon": "assets/img/apk/icon/com.tiktok.lite.go.png",
+      "name": "TikTok Lite - Faster TikTok",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-petmeetly/15275.html",
+      "icon": "assets/img/apk/icon/com.petmeetly.png",
+      "name": "Petmeetly - Pet's Match Finder",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-xingin-xhs/14603.html",
+      "icon": "assets/img/apk/icon/com.xingin.xhs.png",
+      "name": "REDnote—小红书国际版",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-stdev-dissordap/10395.html",
+      "icon": "assets/img/apk/icon/com.stdev.dissordap.png",
+      "name": "Vote Social - Photo Voting VS",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "3.8"
+    }
+  ]
+}

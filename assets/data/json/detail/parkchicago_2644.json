@@ -1,0 +1,109 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/com.passportparking.mobile.parkchicago.png",
+    "title": "ParkChicago",
+    "ratings": "4.8",
+    "downloads": "40M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "ParkChicago"
+    },
+    {
+      "name": "category",
+      "value": "Maps & Navigation"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Chicago Parking Meters, LLC."
+    },
+    {
+      "name": "Version",
+      "value": "5.1.18"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/4RnbThMf5o_2RmnNNNSUTwItaeUFBfPh_52vCgbcHyjxpkSiECYBNLcmsvLmi_Efibo",
+    "https://play-lh.googleusercontent.com/VKrh0_5xtBZ7pCimco6JeH-VyZFGMDYRTfUwxLoaDFRP3wRhWC3iyP1Ru7icfnpDUso",
+    "https://play-lh.googleusercontent.com/XGrn4uGz-69KQDsuM8iNOvLZ2v9yUqh6jEcqxmWkodwuk6O1ISfJ1o1rfEXSZgDFW3ya",
+    "https://play-lh.googleusercontent.com/MKqig4k6Jhq2FkGTopKiTfd-MUMkc-npGufBGjDHGGk-6LOpkk2mQoIkML2BSnr219OY",
+    "https://play-lh.googleusercontent.com/9zI3K-QSufJbde09zKxmodASSJyJT5guqZwuvDfl-gfra58M1l3_6eHLn3SbWgylPMpW"
+  ],
+  "app_descript": "<h3>ParkChicago</h3>\n<p><strong>Brief:</strong>\nTake the hassle out of parking in the Windy City with ParkChicago. This intuitive app transforms your smartphone into a convenient parking meter, allowing you to initiate and extend parking sessions with just a few taps. Manage your parking history, receive timely notifications, and never worry about carrying coins again!</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🚗 <strong>Reminder Function:</strong> Set reminders to never forget an ongoing parking session.</li>\n<li>⏱️ <strong>Parking Timer:</strong> Keep track of time left on your parking spot with ease.</li>\n<li>🗃️ <strong>Parking History Management:</strong> Review and manage your past parking activities.</li>\n<li>🛎️ <strong>Timely Notifications:</strong> Get notified promptly when your parking session is about to expire.</li>\n<li>💳 <strong>Multiple Payment Options:</strong> Choose to pay with ParkChicago or a ParkChicago Pay Box.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 <strong>Convenience:</strong> Park and pay on the go without the need for physical meters or change.</li>\n<li>👍 <strong>User-Friendly Interface:</strong> A simple, clear user experience designed for ease of use.</li>\n<li>👍 <strong>On-The-Spot Management:</strong> Alter parking time conveniently from your phone.</li>\n<li>👍 <strong>Account Management:</strong> Reset PINs and update payment details directly through the app.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 <strong>Sign-Up Process:</strong> Some users find the registration process cumbersome with too many steps.</li>\n<li>👎 <strong>Limited Exit Time Option:</strong> No feature to set a specific exit time; can only add more time.</li>\n<li>👎 <strong>Unexpected Fees:</strong> Charges for the service might be a nuisance for some users.</li>\n<li>👎 <strong>Silent Alerts:</strong> The app doesn’t emit an audible alert when a parking session is close to ending.</li>\n</ul>\n<p><strong>Pricing:</strong>\n💵 The ParkChicago app provides its core functionality for free. However, any parking fees and potentially additional service charges apply and vary depending on your parking location and duration.</p>\n<p>By enhancing your parking experience with its range of convenient features, ParkChicago is ideal for motorists in Chicago looking for a smarter way to park. Despite its drawbacks, such as the somewhat intricate sign-up process and lack of audible alerts, the app's ease of use and time-saving features are a win for the daily commuter or the occasional visitor in need of quick parking solutions.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-hundred-qibla-finder/14082.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.hundred.qibla.finder.png",
+      "name": "Qibla Finder Compass 100%",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/kbk-maparea-measure-geo/5067.html",
+      "icon": "https://img.buzzsight.co/apk/icon/kbk.maparea.measure.geo.png",
+      "name": "Gps Area Calculator",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "3.9"
+    },
+    {
+      "link": "/details/Offline-Maps-GPS-Speedometer/4633.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.radarapp.trip.speedometer.png",
+      "name": "Offline Maps, GPS, Speedometer",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/Satellite-View-Offline/4620.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.breezeammarathon.viskoproton.grampooffline.png",
+      "name": "Satellite View Offline",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/Rapido/4563.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.rapido.passenger.png",
+      "name": "Rapido",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/CarInfo/4500.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.cuvora.carinfo.png",
+      "name": "CarInfo",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-trailbehind-android-gaiagps-pro/4473.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.trailbehind.android.gaiagps.pro.png",
+      "name": "Gaia GPS: Offroad Hiking Maps",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-gpsnavigation-maps-gpsroutefinder-routemap/4472.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.gpsnavigation.maps.gpsroutefinder.routemap.png",
+      "name": "GPS Navigation: Road Map Route",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    }
+  ]
+}

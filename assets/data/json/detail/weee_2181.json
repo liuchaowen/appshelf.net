@@ -1,0 +1,112 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.sayweee.weee.png",
+    "title": "Weee!",
+    "ratings": "4.9",
+    "downloads": "600M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Weee!"
+    },
+    {
+      "name": "category",
+      "value": "Food & Drink"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Weee! Inc."
+    },
+    {
+      "name": "Version",
+      "value": "13.3"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/AgKobwem36b4o4OTjSZ3217VeoY3OjDltkQ9DcnOR8Ex_5TSMd2-bevLZDiOQ4CplQhy",
+    "https://play-lh.googleusercontent.com/osY2VetCTyb3ysEeOlrmFgMXMzSCjQC18xF04eHxh_iNHzlmXLaFrkSJtlWLx_GMjmhc",
+    "https://play-lh.googleusercontent.com/LaYohkvKTIHDEXA5QoB3tYaREDwCtrwaQOCmARNQLhGD4xn3_bfYfz_xoPus25neHA",
+    "https://play-lh.googleusercontent.com/6sQaCLOygWa3K7YkflmCZwluO8BswXeEO7xZ-EgofpJXm-hRHrqXTmuNqxdes7HsqEcK",
+    "https://play-lh.googleusercontent.com/w_Mp8EYlPXGLg8CAF-DOhYIgozMqEwQD4mon03JaOXM7oQIGahxnpSBjbspfUGdUAw",
+    "https://play-lh.googleusercontent.com/30jOf3-HYLuxQSUk8r1J-bVVout9tsSNIxmD5IMfCVkOq4WRp4k3gfWzuDmre1e7Xpco",
+    "https://play-lh.googleusercontent.com/grEeTLhfK-L3EYqCmhznJpGvL4csKJa3pPAR75ZI00plypj5iS28yHMzaz_Pu2u62Q-E",
+    "https://play-lh.googleusercontent.com/mQZannJpAXL-SrskC0dK_VVgxSZgSoZ7rxyR4ThznT0l-v050xDpP_T9Ockj1HmZ8Jac"
+  ],
+  "app_descript": "<p><strong>Weee! - Fresh Grocery Delivery</strong></p>\n<p><strong>Brief:</strong>\nExperience the convenience of having fresh, quality groceries delivered right to your doorstep with Weee! Select from an assortment of fresh staples including eggs, milk, fruits, vegetables, and an array of meats, sourced directly from local farms to ensure top-notch freshness. For your thematic dinner nights to everyday essentials, Weee! caters to all your culinary needs. Craving something special like sweet Champagne mangos? We've got you covered. Plus, with a freshness guarantee and non-contact delivery service, Weee! ensures that your grocery shopping is hassle-free and safe.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🥦 A wide range of fresh grocery items, from standard staples to specialty products.</li>\n<li>🏪 Partnership with local farms for the freshest quality and best value groceries.</li>\n<li>🛡️ Freshness guarantee with a straightforward refund process for unsatisfactory items.</li>\n<li>🏠 Non-contact delivery ensuring your groceries are safely delivered in chilled boxes.</li>\n<li>📍 Service available in 16 cities across the US, with a simple zip code check for availability.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👩‍🌾 Access to high-quality farm-fresh products ensures peak flavor and nutrition.</li>\n<li>🛒 Diverse inventory caters to various dietary needs, including organic and non-organic options.</li>\n<li>📲 User-friendly app with a real-time delivery tracking feature.</li>\n<li>🔁 Quick and easy refund requests, typically processed within 24 hours.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>🗺️ Limited availability, serving only 16 cities within the United States.</li>\n<li>🕒 Delivery schedules might not be as flexible compared to local grocery shopping.</li>\n<li>📦 Dependence on packaging could increase plastic use.</li>\n<li>☎️ Potential need for customer support if delivery issues arise.</li>\n</ul>\n<p><strong>Price:</strong></p>\n<ul>\n<li>💵 The Weee! app is free to download with the cost of groceries varying per item. Delivery fees and any applicable charges will be transparently displayed at checkout.</li>\n</ul>\n<p>Your fresh and fantastic grocery adventure is just a click away with the Weee! app. Check out the availability in your area and enjoy the freshness delivered to your doorstep.</p>\n<p><a href=\"https://www.sayweee.com\" rel=\"noopener noreferrer\" target=\"_blank\">Check Availability &amp; Download the Weee! App</a></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-buzzfeed-tasty/16927.html",
+      "icon": "assets/img/apk/icon/com.buzzfeed.tasty.png",
+      "name": "Tasty",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-hacklatino-chingon-android/15837.html",
+      "icon": "assets/img/apk/icon/com.hacklatino.chingon.android.png",
+      "name": "Hack Latino",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-postmates-android/4464.html",
+      "icon": "assets/img/apk/icon/com.postmates.android.png",
+      "name": "Postmates - Food Delivery",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-seamlessweb-android-view/4463.html",
+      "icon": "assets/img/apk/icon/com.seamlessweb.android.view.png",
+      "name": "Seamless: Local Food Delivery",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-trycaviar-customer/4462.html",
+      "icon": "assets/img/apk/icon/com.trycaviar.customer.png",
+      "name": "Caviar - Order Food Delivery",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-chownow-discover/4461.html",
+      "icon": "assets/img/apk/icon/com.chownow.discover.png",
+      "name": "ChowNow: Local Food Ordering",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-toasttab-consumer/4460.html",
+      "icon": "assets/img/apk/icon/com.toasttab.consumer.png",
+      "name": "Toast Takeout & Delivery",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/menulog-au/3667.html",
+      "icon": "assets/img/apk/icon/com.menulog.m.png",
+      "name": "Menulog AU",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.2"
+    }
+  ]
+}

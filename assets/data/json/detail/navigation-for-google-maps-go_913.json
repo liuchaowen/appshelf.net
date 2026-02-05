@@ -1,0 +1,108 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/com.google.android.apps.navlite.png",
+    "title": "Navigation for Google Maps Go",
+    "ratings": "4.3",
+    "downloads": "410M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Navigation for Google Maps Go"
+    },
+    {
+      "name": "category",
+      "value": "Travel & Local"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Google LLC"
+    },
+    {
+      "name": "Version",
+      "value": "10.74.3"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/GoH4NWpmXQY-1gSr5YJxyJDkgFVFvV9bqtrChipCfp3de3koMwhaK0tvRyc4ze9pS_4",
+    "https://play-lh.googleusercontent.com/dqyRKVB2eZvH4AdrI1fQ6nRYe6eCQTY_REee7qL9kRbcokz6hhVMGPm66o-hx7IOfpw",
+    "https://play-lh.googleusercontent.com/XCqeDfkQ1U2-15XVXRZiYYXU80S4GRLCOZ8ZBOBUhku67WmSgifeGL32ErhVCy5HcL8",
+    "https://play-lh.googleusercontent.com/ONCKKy6SViQjoV3gZa13v6PIE6t8p_3o_s9L5vZqJiw9E1zgwOfesmDAyImBTSgL740"
+  ],
+  "app_descript": "<h2>Navigation for Google Maps Go</h2>\n<h3>Brief</h3>\n<p>Navigation for Google Maps Go is designed to be a lightweight companion to Google Maps Go, providing turn-by-turn direction guidance for various modes of transportation. This app ensures you remain on track with your route even in areas with patchy network coverage, offering voice guidance in a multitude of languages.</p>\n<h3>Core Features 🗺️</h3>\n<ul>\n<li><strong>Multi-Modal Directions</strong>: Receive turn-by-turn navigation for driving, walking, bicycling, and motorcycle routes where available. 🚗</li>\n<li><strong>Offline Reliability</strong>: Continues to provide navigation even when you lose your network connection. 📴</li>\n<li><strong>Global Language Support</strong>: Get voice-guided navigation in over 50 languages, catering to a diverse user base. 🌐</li>\n<li><strong>Integrated Experience</strong>: Works seamlessly with Google Maps Go, requiring direction searches to be initiated there. 🔗</li>\n<li><strong>Continuous Updates</strong>: Regular updates for better performance and new features. ⏱️</li>\n</ul>\n<h3>Pros 👍</h3>\n<ul>\n<li><strong>User-Friendly Interface</strong>: Intuitive and easy-to-navigate user interface. 🌟</li>\n<li><strong>Stress-Free Navigation</strong>: Less worry about losing directions when the network is unavailable. 🛣️</li>\n<li><strong>Extensive Language Options</strong>: Makes it accessible for users worldwide with multi-language support. 🗣️</li>\n<li><strong>Resource-Efficient</strong>: Designed for devices with limited resources, ensuring smooth performance. 💡</li>\n<li><strong>Google Reliability</strong>: Backed by the robust technology and support of Google. ✅</li>\n</ul>\n<h3>Cons 👎</h3>\n<ul>\n<li><strong>Dependence on Google Maps Go</strong>: Cannot function independently; requires use of another app. 🔓</li>\n<li><strong>Limited Compatibility</strong>: Exclusively tailored for devices compatible with Google Maps Go. 📱</li>\n<li><strong>Data Usage</strong>: May incur data charges when downloading maps for offline use. 📊</li>\n<li><strong>Potential Glitches</strong>: Might experience periodic bugs or hiccups, requiring updates. 🐞</li>\n<li><strong>Feature Restrictions</strong>: Some features may be lacking compared to the full Google Maps app. 🚧</li>\n</ul>\n<h3>Price 💵</h3>\n<ul>\n<li><strong>Free to Download</strong>: No cost for downloading and basic usage. 💸</li>\n<li><strong>Data Charges May Apply</strong>: While the app itself is free, using online features may lead to data usage costs. 🌐</li>\n</ul>\n<p>Navigation for Google Maps Go is a handy, efficient app that's perfect for users seeking a lightweight navigation solution. While there are limitations regarding its standalone capabilities and compatibility, it remains a reliable choice for those invested in the Google Maps ecosystem, offering continuous navigation assistance without a constant need for network connectivity.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-bp-app-bpme-global-ros/16042.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.bp.app.bpme.global.ros.png",
+      "name": "earnify",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/kulana-tools-vacationcountdown/10380.html",
+      "icon": "https://img.buzzsight.co/apk/icon/kulana.tools.vacationcountdown.png",
+      "name": "Vacation Countdown App",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-disney-playdisneyparks-goo/4681.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.disney.playdisneyparks.goo.png",
+      "name": "Play Disney Parks",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-hornblower-statuecruises/4679.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.hornblower.statuecruises.png",
+      "name": "Statue Cruises",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-usnpw-grca/4678.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.usnpw.grca.png",
+      "name": "Grand Canyon National Park",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/MakeMyTrip-Hotels-Flight-Bus/4591.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.makemytrip.png",
+      "name": "MakeMyTrip Hotels, Flight, Bus",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/ConfirmTkt/4570.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.confirmtkt.lite.png",
+      "name": "ConfirmTkt",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/Bus-Train-Ticket-Booking-App/4503.html",
+      "icon": "https://img.buzzsight.co/apk/icon/in.redbus.android.png",
+      "name": "Bus, Train Ticket Booking App",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.9"
+    }
+  ]
+}

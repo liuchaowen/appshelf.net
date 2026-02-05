@@ -1,0 +1,108 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/com.littlecaesars.png",
+    "title": "Little Caesars",
+    "ratings": "4.7",
+    "downloads": "800M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Little Caesars"
+    },
+    {
+      "name": "category",
+      "value": "Food & Drink"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Little Caesar Enterprises, Inc."
+    },
+    {
+      "name": "Version",
+      "value": "v6.14"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/GfaNPiLZYgiVyqJzk1GFycpD4B0Y0IN5GZOhKRpgvOObsXwziuTZ-6SZHmwrlr7gJA",
+    "https://play-lh.googleusercontent.com/_lIxFBk30-ND6JB5YWSd9UtSdS-855Rcnl2ZMiOhkmbQFfDJFo7ZScfpI5_bLSAFWA",
+    "https://play-lh.googleusercontent.com/hJNhBjpc8ifKe_LfzzSkheD3ksv45on3HoatdQvZ7iPBlcO-oHgV7MXxs-_ZJvQWpBA",
+    "https://play-lh.googleusercontent.com/OyTofH_IJa_6naIwNToW9nZ3tfYoxgIxj-s-ebWDvf9zJqMMEHfKDYzFA1-a-QscuBI"
+  ],
+  "app_descript": "<h3>Brief:</h3>\n<p>The Little Caesars app is an essential tool for pizza lovers, designed to make the ordering process as smooth and efficient as possible. This app serves up a virtual pizza parlor experience, providing a user-friendly interface, convenient payment options, and advanced order scheduling for all your pizza cravings. Especially for fans of the iconic Little Caesars Pizza, which has grown from a single family-owned restaurant in 1959 to a globally recognized pizza chain, this app is an indispensable slice of modern convenience.</p>\n<h3>Core Features:</h3>\n<ul>\n<li>🖐️ <strong>Biometric Login</strong>: Easily access your account using Touch ID, Fingerprint, or Face ID for a secure and quick login process.</li>\n<li>💳 <strong>Mobile Payment Support</strong>: Enjoy various mobile payment options, including Apple Pay for iOS users, facilitating a swift checkout.</li>\n<li>⏰ <strong>Advanced Order Scheduling</strong>: Plan your pizza feasts up to six days ahead, ensuring that your meal is ready exactly when you crave it.</li>\n<li>📱 <strong>Streamlined Transactions</strong>: Experience a clean interface with minimal clicks needed per transaction, designed to save you time and hassle.</li>\n<li>💾 <strong>Personalized Account</strong>: Create an account to save your favorite orders and personal details for faster re-ordering in the future. </li>\n</ul>\n<h3>Pros:</h3>\n<ul>\n<li>👍 <strong>Convenience at Your Fingertips</strong>: Intuitive app navigation allows for a hassle-free ordering experience.</li>\n<li>👍 <strong>Payment Flexibility</strong>: Choose from a variety of payment methods to suit your preference.</li>\n<li>👍 <strong>Plan Ahead</strong>: With the scheduling feature, you can easily manage meal times around your busy life.</li>\n<li>👍 <strong>Effortless Reordering</strong>: Personal account features mean your favorite meals are just a few taps away.</li>\n<li>👍 <strong>Local Availability</strong>: Access the app's features across the United States, catering to a wide audience of pizza enthusiasts.</li>\n</ul>\n<h3>Cons:</h3>\n<ul>\n<li>👎 <strong>Regional Limitation</strong>: Currently only available within the United States, restricting global access to international fans.</li>\n<li>👎 <strong>Dependence on Device Capability</strong>: Biometric login features require compatible devices.</li>\n<li>👎 <strong>Requires Account Creation</strong>: Some may find mandatory account creation for order history saving a minor inconvenience.</li>\n<li>👎 <strong>No Built-in Loyalty Program</strong>: Lack of a rewards system for frequent users.</li>\n<li>👎 <strong>Limited Customization</strong>: The app may not provide detailed customization options for orders that some users desire.</li>\n</ul>\n<h3>Price:</h3>\n<ul>\n<li>💵 The Little Caesars app is available as a <strong>free download</strong> with no initial costs, enabling users to enjoy the convenience of mobile ordering without an extra fee. In-app transactions reflect the cost of menu items at the time of order.</li>\n</ul>\n<h3>Community:</h3>\n<p>Unfortunately, no community resources are found for the Little Caesars app.</p>\n<p><a href=\"https://apps.apple.com/us/app/little-caesars/id477469516\" rel=\"noopener noreferrer\" target=\"_blank\">Download Little Caesars for iOS</a> or <a href=\"https://play.google.com/store/apps/details?id=com.littlecaesars\" rel=\"noopener noreferrer\" target=\"_blank\">Get it on Google Play</a> and enjoy a piping hot pizza with convenience that matches the modern era.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-buzzfeed-tasty/16927.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.buzzfeed.tasty.png",
+      "name": "Tasty",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-hacklatino-chingon-android/15837.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.hacklatino.chingon.android.png",
+      "name": "Hack Latino",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-postmates-android/4464.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.postmates.android.png",
+      "name": "Postmates - Food Delivery",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-seamlessweb-android-view/4463.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.seamlessweb.android.view.png",
+      "name": "Seamless: Local Food Delivery",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-trycaviar-customer/4462.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.trycaviar.customer.png",
+      "name": "Caviar - Order Food Delivery",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-chownow-discover/4461.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.chownow.discover.png",
+      "name": "ChowNow: Local Food Ordering",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-toasttab-consumer/4460.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.toasttab.consumer.png",
+      "name": "Toast Takeout & Delivery",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/menulog-au/3667.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.menulog.m.png",
+      "name": "Menulog AU",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.2"
+    }
+  ]
+}

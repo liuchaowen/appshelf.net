@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.go.smasher.junk.png",
+    "title": "Junk Smasher",
+    "ratings": "4.9",
+    "downloads": "610M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Junk Smasher"
+    },
+    {
+      "name": "category",
+      "value": "Productivity"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "InnoDev Pro Team"
+    },
+    {
+      "name": "Version",
+      "value": "3.87"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> Junk Smasher</p>\n<p><strong>Brief:</strong>\nEnhance your smartphone's performance with Junk Smasher, the all-in-one cleaner and optimization tool designed to keep your device running smoothly. With a suite of powerful tools, this app clears unnecessary files, manages apps, cools down the CPU, and speeds up your phone with a single tap!</p>\n<p>📌 <strong>Core Features:</strong></p>\n<ul>\n<li>🗑️ Junk Smash: Instantly clear out junk files to free up memory and improve device efficiency.</li>\n<li>🚀 Cache Clean: Eliminate obsolete application cache files without disrupting app performance.</li>\n<li>❄️ CPU Cooler: Reduce CPU temperature to prevent overheating and maintain optimal phone operation.</li>\n<li>🛠️ App Manager: Smart analysis and management of app statuses for better device organization.</li>\n<li>⚡ Phone Booster: Optimize phone memory for a faster, more responsive experience.</li>\n<li>✨ 1 Tap Booster: Effortlessly accelerate your phone with a one-touch performance boost.</li>\n</ul>\n<p>👍 <strong>Pros:</strong></p>\n<ul>\n<li>🔄 Efficient Optimization: The app provides a comprehensive solution for phone maintenance tasks.</li>\n<li>🔋 Saves Battery: By closing unnecessary apps, it extends battery life.</li>\n<li>📈 Enhances Performance: The CPU Cooler and Phone Booster features contribute to smoother operations.</li>\n<li>🌟 User-Friendly Interface: The 1-tap booster function allows for simple and quick optimization.</li>\n</ul>\n<p>👎 <strong>Cons:</strong></p>\n<ul>\n<li>⏲️ Manual Intervention: Some tasks may require user initiation to activate features.</li>\n<li>📶 Connectivity: May need an internet connection for full functionality or updates.</li>\n<li>🛑 Interruptions: Potential for app activities to disrupt multitasking if not managed properly.</li>\n<li>🚨 Notifications: Users might receive prompts or notifications to run optimizations.</li>\n</ul>\n<p>💵 <strong>Price:</strong>\nJunk Smasher is free to download and use, offering an immediate solution for your device's maintenance without any initial cost. Keep an eye out for in-app purchases or premium features, which may require payment for access.</p>\n<p>Transform your smartphone maintenance with Junk Smasher today and give your device the care it deserves. Download now for a cleaner, faster, and more efficient mobile experience!</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-takeofflabs-fontmaker/54188.html",
+      "icon": "assets/img/apk/icon/com.takeofflabs.fontmaker.png",
+      "name": "Fontmaker - Font Keyboard App",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-game-console-emulator/39577.html",
+      "icon": "assets/img/apk/icon/com.game.console.emulator.png",
+      "name": "Gamu: Retro Game Hub",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/app-itwingtech-power_of_mind-predicator/39340.html",
+      "icon": "assets/img/apk/icon/app.itwingtech.power_of_mind.predicator.png",
+      "name": "Mind Test: Test My Brain",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-pdfreader-pdfeditor-scandocu-pro-app-amb/16953.html",
+      "icon": "assets/img/apk/icon/com.pdfreader.pdfeditor.scandocu.pro.app.amb.png",
+      "name": "PDFPro: Scanner & Editor",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "3.8"
+    },
+    {
+      "link": "/details/ai-perplexity-app-android/16744.html",
+      "icon": "assets/img/apk/icon/ai.perplexity.app.android.png",
+      "name": "Perplexity - Ask Anything",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-safeshellvpn/16639.html",
+      "icon": "assets/img/apk/icon/com.safeshellvpn.png",
+      "name": "SafeShell VPN: Fast & Secure",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-roblox-skin-cloth-freeskins/16603.html",
+      "icon": "assets/img/apk/icon/com.roblox.skin.cloth.freeskins.png",
+      "name": "Clothes Skin For Roblox",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-underthing-focus-friend/16526.html",
+      "icon": "assets/img/apk/icon/com.underthing.focus.friend.png",
+      "name": "Focus Friend by Hank Green",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.7"
+    }
+  ]
+}

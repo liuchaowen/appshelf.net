@@ -1,0 +1,128 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/com.chucklefish.stardewvalley.png",
+    "title": "Stardew Valley",
+    "ratings": "4.6",
+    "downloads": "517M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Stardew Valley"
+    },
+    {
+      "name": "category",
+      "value": "Role Playing"
+    },
+    {
+      "name": "Price",
+      "value": "4.99"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "ConcernedApe"
+    },
+    {
+      "name": "Version",
+      "value": "5.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/9uy1ZwSwrhXDrIXQMySQgOgoMU8T3oSjf85T68_HDLtTuc6iqDPSYVZ5D6Vysg-D9DY",
+    "https://play-lh.googleusercontent.com/cYewDYY9nudl75kNKpL1aiDO_ZseAVJnuim2FweDBHheEWzJpfsap-LaXEsX2rA-zg",
+    "https://play-lh.googleusercontent.com/K3iTDHZUEWPARrou2r_30gaXIoKXZfirTkNpY2I6YvGGoNfPLhXDIvJGd1cGQ-9UxA",
+    "https://play-lh.googleusercontent.com/pes5bS_toMehtprdAAAExCblDzsRHUTY-ktQ2fneN1lZPYc-P7VzS-8QcfXmBwd9CeI",
+    "https://play-lh.googleusercontent.com/LyHFCSzFwBajMuKmZ95-guNF1eNqHz9c6B3G5s8IgfwDHNCvZacNsMSMn-SFTS8pQN8",
+    "https://play-lh.googleusercontent.com/3657QN94eYalXsYbduUGDQ_iuEtyg26YjosXxLlkcm1v2JfLUIOjxm8l5QsqeKBRu1c3",
+    "https://play-lh.googleusercontent.com/I4GyppX9i3nmpPIxtWT39mTL0-cwZc_OCEoDFNAwDoyPlURHyJSxc0P6ch_55PkALLQ0",
+    "https://play-lh.googleusercontent.com/J7e5k1zOyVoEgFeDT2Td56vwyn-rp8cozTaNQEFlVrc9WhsygAJQCoqTbj86ldEvsMpm",
+    "https://play-lh.googleusercontent.com/hcmUMGY8RFO1In5UUhXtifxth76jBB5J_QD29dF1Ja9mzBN1gOU0nhu2kPf8d0VH_2Pj",
+    "https://play-lh.googleusercontent.com/Sq3d4Xdc8lqgcItDv4Xw1GgPsjCZmCDRFAnOpvLaklu6YgHxyKLj5ZcHRiE2PbFTAQ",
+    "https://play-lh.googleusercontent.com/rfpkP70xI86fBcoLqr_u4SKtJ90CMzJ9y2zxy07O77XXiJDSurfG99BzgAv_toAkgGg",
+    "https://play-lh.googleusercontent.com/Ao4vaz7pvFPB0f5LO01hzzI7o9e1wJ7OLCT29RrS3m3oOsVzWYIY66Kp2xABismxSg",
+    "https://play-lh.googleusercontent.com/iIcZccsxFkPLj_y_UFJLaK7-BA2QI5l_-lt8JHcg1dbEQ9lPvfl8vsfogLaWh1DlQIE",
+    "https://play-lh.googleusercontent.com/iMYDViObxpvieM0zRi4LDTTeXhcP499qfIN1MgPY3Aw8P8rSo2SyfmHGaoyfpEE7Sg",
+    "https://play-lh.googleusercontent.com/sAXzlDJZOzJmsrqSDqoSUuDAIPLdLUOW21t6ClRzWcbZFBulMNXcGW35JD0ZTHAijOZA",
+    "https://play-lh.googleusercontent.com/thXhByCxXZQBvIrMSJGzaQEVaQVe0h9gXIQZZUovRpK-ef6xHykmuR3te1byu8Mxxck",
+    "https://play-lh.googleusercontent.com/kw7q1ywlOA84nF7zMjAm1dUiBLCmaVg_VZtANv8rsXJQc_-EPdJTbQ6gzbzm2o_2g28",
+    "https://play-lh.googleusercontent.com/kA2_Lbm2gXfxSRmiRfm4W-1hbVGDQY53RlTEtdfe9n4JzmyXh6qeVwophWUx-HvRkg",
+    "https://play-lh.googleusercontent.com/0P9lz0AKI7K3PHGywYQ9u4gPvkM2VdvGr2-As72GFklw7czE3y2OrtyBzOsai0kDUr4",
+    "https://play-lh.googleusercontent.com/GltG4lICe8G-EaV0IqGGoX34zjrTlbXXTJV-xyfOnKXKrddc-6vT9XgDh0U6kBE0Ir4",
+    "https://play-lh.googleusercontent.com/_SybwMqI1_a7eNQcaGh_JTgZkYP_OT-74VSWzKsbk5TEl2fV3F8zuj7hczQGJAmViUSE",
+    "https://play-lh.googleusercontent.com/LSc9RbZAjxlw-QaA-kXcB2V2WD1tMrHUSZEJPH8_xbVhPFVea76Snrp_dGdOpZwz4Mvi",
+    "https://play-lh.googleusercontent.com/UBlIicrbPrjXdqJbdxWFfoZbfjnN45e6tmwYVxbpHfWWvkmXVpL5mksU5g5dNLGhg-0",
+    "https://play-lh.googleusercontent.com/IwTiUXbPKtYZKcUMEPdmneuucMqbPPQ7O85ThnHTokRx8zkUy0ivts9IRQy7QzsfoQ"
+  ],
+  "app_descript": "<h1>Stardew Valley App Description</h1>\n<h2>Brief</h2>\n<p>Stardew Valley brings the enchanting world of farming RPGs to your mobile device! Immerse yourself in over 50 hours of gameplay as you cultivate crops, raise animals, and build your dream farm in this award-winning title. With engaging new mobile-specific features like auto-save and customizable controls, this beloved game offers an enriched experience for on-the-go players.</p>\n<h2>Core Features</h2>\n<ul>\n<li><strong>Dream Farm Creation</strong>: Transform an overgrown field into a thriving agricultural paradise 🌾.</li>\n<li><strong>Animal Husbandry</strong>: Raise and breed animals while managing seasonal crops tailored to your preferences 🐄.</li>\n<li><strong>Community Engagement</strong>: Participate in seasonal festivals, quests, and build relationships with up to 12 marriage candidates ❤️.</li>\n<li><strong>Exploration and Adventure</strong>: Discover mysterious caves filled with monsters and hidden treasures ⚔️.</li>\n<li><strong>Intuitive Controls</strong>: Enjoy mobile-optimized controls including touch-screen support and virtual joystick options 🎮.</li>\n</ul>\n<h2>Pros</h2>\n<ul>\n<li><strong>Rich Content</strong>: Offers over 50 hours of diverse gameplay packed with quests and features ⏳.</li>\n<li><strong>Customization</strong>: Extensive options for personalizing your character and farm style 🖌️.</li>\n<li><strong>Charming Visuals and Music</strong>: Beautiful pixel art graphics combined with a soothing soundtrack create a captivating atmosphere 🎶.</li>\n<li><strong>Positive Community</strong>: Engaged player base sharing tips, stories, and experiences 🌍.</li>\n<li><strong>No In-App Purchases</strong>: Enjoy the game without additional costs after purchase 💰.</li>\n</ul>\n<h2>Cons</h2>\n<ul>\n<li><strong>Multiplayer Functionality Not Supported</strong>: Limited to single-player gameplay, which may disappoint some players 👥.</li>\n<li><strong>No Cross-Platform Play</strong>: Playing with friends on different platforms is not available 🚫.</li>\n<li><strong>Occasional Bugs</strong>: Some users have reported minor glitches during gameplay 🐛.</li>\n<li><strong>Limited Help Options</strong>: New players may find the initial learning curve challenging without guided tutorials 📖.</li>\n<li><strong>Potential for Time Sink</strong>: The immersive nature of the game can lead to extended playtime, affecting productivity ⏳.</li>\n</ul>\n<h2>Price</h2>\n<p>The app is a one-time purchase with no in-app purchases, allowing for a full, uninterrupted experience at a single cost 💵.</p>\n<h2>Community</h2>\n<ul>\n<li><a href=\"https://www.stardewvalley.net\" rel=\"noopener noreferrer\" target=\"_blank\">Official Site</a></li>\n<li><a href=\"https://www.youtube.com/stardewvalley\" rel=\"noopener noreferrer\" target=\"_blank\">YouTube Channel</a></li>\n<li><a href=\"https://www.youtube.com/c/Let’sPlayStardewValley\" rel=\"noopener noreferrer\" target=\"_blank\">Related Popular YouTuber</a></li>\n<li><a href=\"https://www.instagram.com/stardewvalley\" rel=\"noopener noreferrer\" target=\"_blank\">Most Followed Instagram Account</a></li>\n<li><a href=\"https://twitter.com/ChucklefishLTD\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a></li>\n<li><a href=\"https://discord.com/invite/stardewvalley\" rel=\"noopener noreferrer\" target=\"_blank\">Discord</a></li>\n<li><a href=\"https://www.facebook.com/stardewvalley\" rel=\"noopener noreferrer\" target=\"_blank\">Facebook</a></li>\n<li><a href=\"https://www.tiktok.com/@stardewvalley\" rel=\"noopener noreferrer\" target=\"_blank\">TikTok</a></li>\n<li><a href=\"https://www.reddit.com/r/stardewvalley/\" rel=\"noopener noreferrer\" target=\"_blank\">Reddit</a></li>\n<li><a href=\"https://stardewvalley.fandom.com/wiki/Stardew_Valley_Wiki\" rel=\"noopener noreferrer\" target=\"_blank\">Fandom Wiki</a></li>\n</ul>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-squareenix-lis-bts/54482.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.squareenix.lis.bts.png",
+      "name": "Life is Strange: Before Storm",
+      "categoryLink": "/en/categories/role.playing/43",
+      "category": "Role Playing",
+      "rating": "3.6"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-escape-tsunami-steal-all-brainrots-game/54470.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.escape.tsunami.steal.all.brainrots.game.png",
+      "name": "Escape Tsunami For Brainrots",
+      "categoryLink": "/en/categories/role.playing/43",
+      "category": "Role Playing",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-candy-ball-run-games-arena/54362.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.candy.ball.run.games.arena.png",
+      "name": "Candy Ball Run - Rolling Games",
+      "categoryLink": "/en/categories/role.playing/43",
+      "category": "Role Playing",
+      "rating": "3.7"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-cozco-bird-sim-game/53860.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.cozco.bird.sim.game.png",
+      "name": "I Am Bird Sim 3D",
+      "categoryLink": "/en/categories/role.playing/43",
+      "category": "Role Playing",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-NewFolderGames-IAmBird/53857.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.NewFolderGames.IAmBird.png",
+      "name": "I Am Bird",
+      "categoryLink": "/en/categories/role.playing/43",
+      "category": "Role Playing",
+      "rating": "4.8"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-pigamesstudio-momspregnantcare/39528.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.pigamesstudio.momspregnantcare.png",
+      "name": "Mom and Newborn care game",
+      "categoryLink": "/en/categories/role.playing/43",
+      "category": "Role Playing",
+      "rating": "4.1"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-piispanen-hotelhideaway/39474.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.piispanen.hotelhideaway.png",
+      "name": "Hotel Hideaway: Avatar & Chat",
+      "categoryLink": "/en/categories/role.playing/43",
+      "category": "Role Playing",
+      "rating": "4.1"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/httpcom-ciphers-realm-christmas-santa-gifts-delivery/39461.html",
+      "icon": "https://img.buzzsight.co/apk/icon/httpcom.ciphers.realm.christmas.santa.gifts.delivery.png",
+      "name": "Christmas Gift Simulator",
+      "categoryLink": "/en/categories/role.playing/43",
+      "category": "Role Playing",
+      "rating": "4.5"
+    }
+  ]
+}

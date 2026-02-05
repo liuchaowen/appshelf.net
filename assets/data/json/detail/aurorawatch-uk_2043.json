@@ -1,0 +1,108 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/com.smallbouldering.aurorawatchuk.png",
+    "title": "AuroraWatch UK",
+    "ratings": "4.8",
+    "downloads": "540M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "AuroraWatch UK"
+    },
+    {
+      "name": "category",
+      "value": "Weather"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Smallbouldering Projects"
+    },
+    {
+      "name": "Version",
+      "value": "1.53"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/TZgP-L_E08kMhGzSwKWnngHZnTEKn7wyoB6AZZzHx1ss8RfnCafC4iSfDcAOKoHQUQ",
+    "https://play-lh.googleusercontent.com/M5hTh05LfulfKrC1aigr3C7q9vewBV9EoVgMjcIwPdvN4zPgEFkhlJ0LZmzQ3YVuVD5M",
+    "https://play-lh.googleusercontent.com/97mzDat6wiilA-D_Amr1lP5rnGC2u1oggq62IRXU7SbsDgVCS_420DSaW9HnpdLBFuy3",
+    "https://play-lh.googleusercontent.com/T0z6C1nRqnvluelEF7iJpKJnLEYBZMlQBETtZtNg3oTcBs9cDv1-ckl-qndBtYiJCw"
+  ],
+  "app_descript": "<p><strong>AuroraWatch UK</strong></p>\n<p><strong>Brief:</strong>\nAuroraWatch UK is a mobile application designed to provide real-time alerts and information regarding aurora borealis sightings within the UK. Developed by Smallbouldering Projects, this app informs users when there's a possibility to view this natural phenomenon, leveraging data sourced from Lancaster University's magnetometer networks.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🔄 Real-time Aurora Alerts: Stay informed about the Northern Lights' visibility in the UK as the app notifies you when conditions are favorable. 📡</li>\n<li>🌐 Data from Trusted Sources: Relies on the SAMNET and AuroraWatchNet networks for accurate and reliable information. 🔬</li>\n<li>🔔 Notifications: Offers alert notifications, although it requires an active internet connection and device power to retrieve updates. 🔌</li>\n<li>📖 In-depth Information: Access comprehensive information on the aurora borealis phenomenon through integration with Lancaster University's content. 📘</li>\n<li>🌿 Non-Official Yet Dedicated: Developed with a passion for aurora watching, albeit not an 'Official' app of AuroraWatch UK. 💚</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>😍 Enhances Aurora Experience: Aids enthusiasts in maximizing their chances of witnessing the aurora borealis. 🌌</li>\n<li>🎓 Scientific Collaboration: Benefits from collaboration with educational institutions for authentic data. 🏫</li>\n<li>📱 User Convenience: Push notifications remove the need for manual checks, allowing spontaneous viewing opportunities. 🚀</li>\n<li>🆓 Free to Use: Available for use without incurring direct costs to the user. 🤑</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>🚫 No Historical Alerts: The app does not record or notify about past aurora events. ⏱️</li>\n<li>📲 Connectivity Dependent: Requires consistent internet access and power to provide alerts, which may be a limitation. 🌐</li>\n<li>❗ Non-Official App: May not be tied to official government-stamped sources which can be a concern for some users. 🔍</li>\n<li>📉 Limited Functionality Offline: Cannot provide timely updates in the absence of a network connection. 💤</li>\n</ul>\n<p><strong>Price:</strong>\n💵 The AuroraWatch UK app is free to download and use, offering a cost-effective way to stay updated on aurora sightings.</p>\n<p>Please note that the above description is based on the information available as of our knowledge cut-off and may be subject to change. For further inquiries or issues with the app, users can contact [email protected] through the app's provided contact email.</p>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-eet-weather-launcher/15703.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.eet.weather.launcher.png",
+      "name": "Weather Now Launcher - Radar",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "3.6"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-daily-forecast-weather-radar/4930.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.daily.forecast.weather.radar.png",
+      "name": "Daily Forecast: Weather&Radar",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-mahersafadi-sunny/4921.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.mahersafadi.sunny.png",
+      "name": "Sunny: Weather forecast",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/WeatherPal/4628.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.precise.opliging.kitan.png",
+      "name": "WeatherPal",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.8"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/live-weather/2063.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.appsinnova.weatherforecast.liveweather.png",
+      "name": "Live Weather",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.1"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/radarnow/2062.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.usnaviguide.radar_now.png",
+      "name": "RadarNow!",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/local-weather/2061.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.weather.forecast.channel.local.png",
+      "name": "Local Weather",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/iqair-airvisual/2060.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.airvisual.png",
+      "name": "IQAir AirVisual",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.6"
+    }
+  ]
+}

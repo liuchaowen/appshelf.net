@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/com.instagram.igtv.png",
+    "title": "IGTV",
+    "ratings": "4.6",
+    "downloads": "290M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "IGTV"
+    },
+    {
+      "name": "category",
+      "value": "Social"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Instagram"
+    },
+    {
+      "name": "Version",
+      "value": "137.0.0.31.123"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h3>Brief:</h3>\n<p>IGTV by Instagram is a dedicated video app that lets users immerse themselves in long-form, vertical videos from their favorite Instagram creators. It acts as a platform to watch and engage with videos that are longer than those allowed on Instagram's main feed, offering deeper content and a more thorough storytelling opportunity.</p>\n<h3>Core Features:</h3>\n<ul>\n<li>Seamless Integration 📲: Log in with your existing Instagram account to get started immediately.</li>\n<li>Curated Content Home 🎥: Access a personalized feed with videos from creators you follow.</li>\n<li>Discover &amp; Search 🔍: Explore new videos or look for specific creators' channels.</li>\n<li>Effortless Video Uploads 📤: Use the Hands-free Capture feature to create and share your own videos.</li>\n</ul>\n<h3>Pros:</h3>\n<ul>\n<li>User-Friendly Interface 👌: The app boasts a straightforward design, focusing on easy navigation.</li>\n<li>Strong Integration with Instagram ✨: IGTV is well-integrated with the Instagram community, making it simple to connect with followers.</li>\n<li>Emphasis on Creators 🌟: It's optimized for content creators looking to expand their reach and deliver high-quality vertical videos.</li>\n<li>Hands-free Functionality 🙌: Making and uploading videos is simple, thanks to the hands-free recording option.</li>\n</ul>\n<h3>Cons:</h3>\n<ul>\n<li>Platform Limitations 👀: The vertical video format may not be everyone's preference and limits the viewing experience.</li>\n<li>Competition Overlap 🏆: The app faces stiff competition from other video platforms that offer horizontal video formats and established viewer bases.</li>\n<li>Navigational Learning Curve ↔️: New users may need some time to get used to the interface and features.</li>\n<li>Content Discovery Challenges 🔍: Finding new content can be difficult if algorithm recommendations don't align with user preferences.</li>\n</ul>\n<h3>Price:</h3>\n<p>💵 The IGTV app is free to download and use, encouraging wider accessibility and content sharing.</p>\n<h3>Community:</h3>\n<ul>\n<li>Official IGTV Site: <a href=\"https://instagram.com/tv\" rel=\"noopener noreferrer\" target=\"_blank\">Instagram TV</a></li>\n<li>YouTube: Explore <a href=\"https://www.youtube.com/user/instagram\" rel=\"noopener noreferrer\" target=\"_blank\">Instagram's Official YouTube Channel</a></li>\n<li>Instagram: You can follow <a href=\"https://instagram.com/instagram\" rel=\"noopener noreferrer\" target=\"_blank\">Instagram's Official Account</a> for updates and features.</li>\n<li>Twitter: Stay updated with announcements on <a href=\"https://twitter.com/instagram\" rel=\"noopener noreferrer\" target=\"_blank\">Instagram's Official Twitter Account</a></li>\n<li>Discord, Facebook, TikTok, Reddit, and Fandom Wiki: Currently, no specific official channels or communities for IGTV are listed on these platforms.</li>\n</ul>",
+  "related_apps": [
+    {
+      "link": "/details/jp-cocone-livly/54171.html",
+      "icon": "https://img.buzzsight.co/apk/icon/jp.cocone.livly.png",
+      "name": "Livly Island - Adopt Cute Pets",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-daily-festival-photos/39721.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.daily.festival.photos.png",
+      "name": "Daily Festival Photo",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/tv-medal-recorder/39573.html",
+      "icon": "https://img.buzzsight.co/apk/icon/tv.medal.recorder.png",
+      "name": "Medal - Gaming Clips",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-ptanktechnology-reincornation/39352.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.ptanktechnology.reincornation.png",
+      "name": "Reincarnation",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-tiktok-lite-go/15392.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.tiktok.lite.go.png",
+      "name": "TikTok Lite - Faster TikTok",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-petmeetly/15275.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.petmeetly.png",
+      "name": "Petmeetly - Pet's Match Finder",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-xingin-xhs/14603.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.xingin.xhs.png",
+      "name": "REDnote—小红书国际版",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-stdev-dissordap/10395.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.stdev.dissordap.png",
+      "name": "Vote Social - Photo Voting VS",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "3.8"
+    }
+  ]
+}

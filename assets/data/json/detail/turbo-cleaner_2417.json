@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/turbo-cleaner.png",
+    "title": "Turbo Cleaner",
+    "ratings": "4.7",
+    "downloads": "270M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Turbo Cleaner"
+    },
+    {
+      "name": "category",
+      "value": "Tools"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Turboc Dev"
+    },
+    {
+      "name": "Version",
+      "value": "1.0"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h3>Turbo Cleaner</h3>\n<p><strong>Brief:</strong>\nTurbo Cleaner is a robust mobile optimization application that is designed to significantly enhance your smartphone's performance. By efficiently decluttering your device, it frees up storage space, boosts memory, cools down the CPU, and extends the battery life. This application promises to optimize your phone's operations by up to 50% and distinguishes itself by preventing closed apps from restarting, ensuring a smoother, faster, and more reliable user experience.</p>\n<p><strong>📌 Core Features:</strong></p>\n<ul>\n<li><strong>Clean Junk Files &amp; Cache:</strong> Quickly eliminate residual files and cache from uninstalled or installed applications to recover storage space. 🗑️</li>\n<li><strong>One-Tap Boost Memory:</strong> Utilize the Phone Boost to instantly free up RAM and halt superfluous background apps, supplemented with a visual RAM usage indicator. 🚀</li>\n<li><strong>CPU Cooler:</strong> Identify and cease high CPU usage apps to prevent overheating and cool your device promptly. ❄️</li>\n<li><strong>Extend Battery Life:</strong> Actively monitor and manage battery consumption to close energy-draining apps and conserve battery power. 🔋</li>\n</ul>\n<p><strong>👍 Pros:</strong></p>\n<ul>\n<li><strong>Enhanced Performance:</strong> Drastically improves phone speed and performance, making multitasking smoother. 📈</li>\n<li><strong>User-Friendly Interface:</strong> Enjoy a straightforward interface, allowing quick and hassle-free optimization. 👌</li>\n<li><strong>Auto-Prevention of Restarting Apps:</strong> Unique functionality that prevents apps from auto-restarting after being closed. 🔒</li>\n<li><strong>Compact Size:</strong> Despite its wide array of features, Turbo Cleaner remains lightweight and doesn't consume much storage or resources. 📦</li>\n</ul>\n<p><strong>👎 Cons:</strong></p>\n<ul>\n<li><strong>Potential for Inadvertent App Shutdowns:</strong> Aggressive cleaning may accidentally close apps you're using or need running in the background. ⚠️</li>\n<li><strong>Advertisements:</strong> May display ads, which can be intrusive for some users. 📢</li>\n<li><strong>Battery Consumption:</strong> The app itself may consume battery life, somewhat countering its own battery-saving feature. 🔋</li>\n<li><strong>Limited by Device:</strong> Effectiveness can vary depending on the specifications of the individual device. 🔧</li>\n</ul>\n<p><strong>💵 Price:</strong></p>\n<p>Turbo Cleaner is a free-to-use app, but stay attentive to any in-app advertisements or potential premium features that may involve extra costs.</p>\n<hr/>\n<p>Crafted with a focus on enhancing device efficiency, Turbo Cleaner serves as an all-in-one tool for those looking to maintain their smartphone at peak performance.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-antique-snap-identifier-appraisal/54309.html",
+      "icon": "assets/img/apk/icon/com.antique.snap.identifier.appraisal.png",
+      "name": "Antique Identifier - Appraisal",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-age-calculator-life-countdown/54243.html",
+      "icon": "assets/img/apk/icon/com.age.calculator.life.countdown.png",
+      "name": "Age Calculator・Life Expectancy",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.4"
+    },
+    {
+      "link": "/details/com-xv-agecalc/54237.html",
+      "icon": "assets/img/apk/icon/com.xv.agecalc.png",
+      "name": "AgeCalc: Date Life Calculator",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-palm-ai-decode-destiny-soul-futurelines-handline/54206.html",
+      "icon": "assets/img/apk/icon/com.palm.ai.decode.destiny.soul.futurelines.handline.png",
+      "name": "Palm AI: Decode Destiny",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/rbx-robuxcalc-getrbx-freecounter/53839.html",
+      "icon": "assets/img/apk/icon/rbx.robuxcalc.getrbx.freecounter.png",
+      "name": "RBX Calc - Get Robuxcounter",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-internetoptimizer-speedtest-wifispeedtest-netspeed-wifipassword-wifispeed/49027.html",
+      "icon": "assets/img/apk/icon/com.internetoptimizer.speedtest.wifispeedtest.netspeed.wifipassword.wifispeed.png",
+      "name": "Internet Optimizer",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.9"
+    },
+    {
+      "link": "/details/com-blazingappstudio-speed_test_pro/49021.html",
+      "icon": "assets/img/apk/icon/com.blazingappstudio.speed_test_pro.png",
+      "name": "Speed Test - Wifi Optimizer",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-secret-camera-hidden-detector/39728.html",
+      "icon": "assets/img/apk/icon/com.secret.camera.hidden.detector.png",
+      "name": "Hidden Camera & IR Detector",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.framy.placey.png",
+    "title": "Playsee",
+    "ratings": "3.3",
+    "downloads": "550M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Playsee"
+    },
+    {
+      "name": "category",
+      "value": "Social"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Playsee"
+    },
+    {
+      "name": "Version",
+      "value": "8.2.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/6rtuSTDeMNXgY9B-c7RrjNTdI9dGucldzKI-44QDKKtQtXkr90KpLmgqHPHynWAZ7dU",
+    "https://play-lh.googleusercontent.com/L59eu1hIO3tnhZD1IlZ224l2ds_kQCDuJEVxerN5CZaTX3T_y34dJ-ekkrLJZdYnTotZ",
+    "https://play-lh.googleusercontent.com/PlAqbV4i0qnv5y7NWG5uJs2HiqcLhBFTOUb3A3BMax_JllyRHqfg-oOA5gaM4s0nbA",
+    "https://play-lh.googleusercontent.com/FDnSuyQcMmlbIE596COS3VDi2e-7GRhEkYmLWbI-WhFi_vvHIaO1wFmMvniHO8cCnQ",
+    "https://play-lh.googleusercontent.com/bWOeARmGRBfcSWXZQwmmkw4ClymWdBkCWVTpx618EtrODgOTXbvzkuvhDhsYEK0kyjA",
+    "https://play-lh.googleusercontent.com/CuLb3y3ITLCpRe8V1zspeUuIkxbObA3_8EwmICmGUhw-736lBN-qSjmGG6uoLjkPbcZf",
+    "https://play-lh.googleusercontent.com/iOoRBbwU65SMZ7_0UV9oFtmypnmX58ISXd4YJ_c_Rfygrcy9W8UehpDpTzT9yLwJ5Q"
+  ],
+  "app_descript": "<h3>Brief</h3>\n<p>Playsee is a vibrant social platform that brings the joy of global exploration right to the palms of its users. It offers a unique blend of travel and social interaction, allowing users to uncover the world's hidden gems, connect with locals, and share their own favorite spots. On Playsee, you can virtually travel to distant places, engage with communities by becoming a local guide, and post your own experiences for others to enjoy.</p>\n<h3>Core Features 📌</h3>\n<ul>\n<li><strong>Virtual Globe-Trotting:</strong> Embark on digital tours to discover fascinating places thousands of miles away with a single tap.</li>\n<li><strong>Local Insights:</strong> Connect with city dwellers worldwide to see their favorite food spots, hangouts, and attractions.</li>\n<li><strong>Personalized Guides:</strong> Become a Playsee guide, showcase your town, and interact with a network of travelers.</li>\n<li><strong>Multimedia Sharing:</strong> Share your experiences through videos and reviews, and see what's trending in real-time.</li>\n<li><strong>Privacy-First Approach:</strong> The app prioritizes user safety with robust privacy settings and location data practices.</li>\n</ul>\n<h3>Pros 👍</h3>\n<ul>\n<li><strong>Cultural Immersion:</strong> Offers an authentic slice of life from various corners of the globe.</li>\n<li><strong>Global Community:</strong> Users can make friends and contacts all around the world.</li>\n<li><strong>Interactive Content:</strong> The ability to post and check out dynamic videos makes for engaging storytelling.</li>\n<li><strong>Personalized Experience:</strong> Tailor your journey with a personal avatar and curated collection.</li>\n<li><strong>Data Privacy:</strong> Playsee ensures that your privacy is protected while using the app.</li>\n</ul>\n<h3>Cons 👎</h3>\n<ul>\n<li><strong>Location Dependence:</strong> Features like check-ins and local insights require location access, which might not suit everyone.</li>\n<li><strong>Data Usage:</strong> High-quality video content can potentially consume a significant amount of data.</li>\n<li><strong>Discovery Overload:</strong> The volume of content might be overwhelming for some users to navigate.</li>\n<li><strong>Privacy Concerns:</strong> Despite strong practices, some may still have reservations about sharing location data.</li>\n<li><strong>Network Effects:</strong> The value of the app increases with more users, which could limit early adopters in less active regions.</li>\n</ul>\n<h3>Price 💵</h3>\n<p>Playsee is free to download and use, which allows for broad access to its features and community. The app's description did not mention in-app purchases, so additional costs, if any, should be verified within the app itself.</p>\n<h3>Community 🕸️</h3>\n<ul>\n<li><strong>Official Site:</strong> <a href=\"https://www.playsee.co/\" rel=\"noopener noreferrer\" target=\"_blank\">Playsee</a></li>\n<li><strong>YouTube:</strong> You could follow on popular travel channels that often reference Playsee.</li>\n<li><strong>Instagram:</strong> Connect with top travel influencers who share their Playsee adventures.</li>\n<li><strong>Twitter:</strong> Join conversations with traveling communities and Playsee updates.</li>\n<li><strong>Facebook:</strong> Like and follow for the latest announcements and user stories.</li>\n<li><strong>TikTok:</strong> Discover trending Playsee videos from around the world.</li>\n<li><strong>Reddit and Fandom Wiki:</strong> Engage with other users on dedicated forums for tips and shared experiences.</li>\n</ul>\n<p>By packaging travel discovery and social networking in one, Playsee invites you to an expanding world of interactive exploration and global connectivity.</p>",
+  "related_apps": [
+    {
+      "link": "/details/jp-cocone-livly/54171.html",
+      "icon": "assets/img/apk/icon/jp.cocone.livly.png",
+      "name": "Livly Island - Adopt Cute Pets",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-daily-festival-photos/39721.html",
+      "icon": "assets/img/apk/icon/com.daily.festival.photos.png",
+      "name": "Daily Festival Photo",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/tv-medal-recorder/39573.html",
+      "icon": "assets/img/apk/icon/tv.medal.recorder.png",
+      "name": "Medal - Gaming Clips",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-ptanktechnology-reincornation/39352.html",
+      "icon": "assets/img/apk/icon/com.ptanktechnology.reincornation.png",
+      "name": "Reincarnation",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-tiktok-lite-go/15392.html",
+      "icon": "assets/img/apk/icon/com.tiktok.lite.go.png",
+      "name": "TikTok Lite - Faster TikTok",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-petmeetly/15275.html",
+      "icon": "assets/img/apk/icon/com.petmeetly.png",
+      "name": "Petmeetly - Pet's Match Finder",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-xingin-xhs/14603.html",
+      "icon": "assets/img/apk/icon/com.xingin.xhs.png",
+      "name": "REDnote—小红书国际版",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-stdev-dissordap/10395.html",
+      "icon": "assets/img/apk/icon/com.stdev.dissordap.png",
+      "name": "Vote Social - Photo Voting VS",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "3.8"
+    }
+  ]
+}

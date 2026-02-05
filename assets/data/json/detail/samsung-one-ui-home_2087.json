@@ -1,0 +1,108 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.sec.android.app.launcher.png",
+    "title": "Samsung One UI Home",
+    "ratings": "4.9",
+    "downloads": "300M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Samsung One UI Home"
+    },
+    {
+      "name": "category",
+      "value": "Photography"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Samsung Electronics Co., Ltd."
+    },
+    {
+      "name": "Version",
+      "value": "9.0.12.50"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/_R6w5zHka_p6Q0xM0scvaRAYQ2odYrXX5TRNn2mAIRHpq_Y1UiQ2hkXOSKT3ONN88w",
+    "https://play-lh.googleusercontent.com/-_K2b-CsyBclguDs00_GnmIR08hncT6EqBrCoQ7ONN0PihAQhLPPvFAarGrZ9cngwfD5",
+    "https://play-lh.googleusercontent.com/P-y5ZEsAFxSPtA9zb42xSJ3S3JPL7weCyNJHw9RQcOlGmaHduYSpVgxGU_8wfBED9nI",
+    "https://play-lh.googleusercontent.com/_69ndG5qYEWj7tOs_C_Ag5KkyaTFISS6t3UC5z4aQoz3eRhvzFcKsuVQcDLyujz1RUEY"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> Samsung One UI Home<br/>\n<strong>Package Name:</strong> com.sec.android.app.launcher</p>\n<h3>Brief:</h3>\n<p>Experience a refined interface and fluid interactions with your Samsung device through the Samsung One UI Home launcher. Designed with user-friendly full-screen gestures and enhanced customization features, it elevates your Android experience starting from Pie (9.0) onwards, allowing a more significant Home screen space and personalized setup.</p>\n<h3>Core Features:</h3>\n<ul>\n<li><strong>Full Screen Gestures</strong> 🖐️: Navigate effortlessly with full-screen gestures; swipe and interact without the clutter of on-screen buttons.</li>\n<li><strong>Lock Home Screen Layout</strong> 🔒: Secure your Home screen layout to prevent accidental changes or deletions of apps and widgets.</li>\n<li><strong>Quick App Info Access</strong> 🚀: Access essential app and widget settings with a simple long-press, bypassing tedious navigation through menus.</li>\n<li><strong>Permission Control</strong> 🔏: Manage app permissions with ease, ensuring you are in control of your personal information and data security.</li>\n</ul>\n<h3>Pros:</h3>\n<ul>\n<li>👍 <strong>Intuitive Navigation</strong>: Enhanced user experience with gesture-based controls, offering a clean aesthetic and improved usability.</li>\n<li>👍 <strong>Prevent Unwanted Changes</strong>: Lock the Home screen to protect your meticulously arranged icons and widgets from accidental modification.</li>\n<li>👍 <strong>Rapid Customization</strong>: Modify settings quickly with context menus that pop up directly from icons and widgets without additional steps.</li>\n<li>👍 <strong>Safe &amp; Secure</strong>: No required permissions, highlighting a privacy-focused approach; optional permissions for restoring data features are clearly delineated.</li>\n</ul>\n<h3>Cons:</h3>\n<ul>\n<li>👎 <strong>OS Version Requirements</strong>: Limited to Android Pie (9.0) and later versions, which may exclude users with older devices.</li>\n<li>👎 <strong>Compatibility</strong>: Feature availability may vary based on the device model, making some functions inaccessible on certain Samsung devices.</li>\n<li>👎 <strong>Learning Curve</strong>: Full-screen gestures may require an adaptation period for users accustomed to traditional navigation buttons.</li>\n<li>👎 <strong>Software Updates</strong>: Updating system software may be needed to properly configure app permissions, possibly inconvenient for some users.</li>\n</ul>\n<h3>Price:</h3>\n<p>💵 <strong>Free</strong>: The Samsung One UI Home launcher is free to use, offering a premium experience without any associated cost.</p>\n<p>Crafted to prioritize efficiency and elegance, Samsung One UI Home is the gateway to optimizing your interaction with your Samsung smartphone. Embrace the simplicity, stay secure, and personalize your interface with this official Samsung launcher.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-bhimaapps-valentineday/54159.html",
+      "icon": "assets/img/apk/icon/com.bhimaapps.valentineday.png",
+      "name": "Valentine Day Live Wallpaper",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "3"
+    },
+    {
+      "link": "/details/com-St-ValentinesDayLiveWallpaper/54154.html",
+      "icon": "assets/img/apk/icon/com.St.ValentinesDayLiveWallpaper.png",
+      "name": "Valentines Day Live Wallpaper",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-plaxa-parallax3d-wallpaper-overlay-touch-effect-aura/53773.html",
+      "icon": "assets/img/apk/icon/com.plaxa.parallax3d.wallpaper.overlay.touch.effect.aura.png",
+      "name": "Plaxa: Parallax Aura Wallpaper",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-happynewyear-hdwallpapers/49048.html",
+      "icon": "assets/img/apk/icon/com.happynewyear.hdwallpapers.png",
+      "name": "Happy New Year 2026 Wallpaper",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-photo-editor-photocalendar/49045.html",
+      "icon": "assets/img/apk/icon/com.photo.editor.photocalendar.png",
+      "name": "Calendar Maker: Photo Editor",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-watchfacestudio-animatedanalogfireworkswatchface/48946.html",
+      "icon": "assets/img/apk/icon/com.watchfacestudio.animatedanalogfireworkswatchface.png",
+      "name": "Fireworks Happy New Year's Eve",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/happy-neww-bighabits-year-images-wishes-gifs-day-stickers-wallpaper/48940.html",
+      "icon": "assets/img/apk/icon/happy.neww.bighabits.year.images.wishes.gifs.day.stickers.wallpaper.png",
+      "name": "Happy New Year 2026 Habits",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-starwatchfaces-hnyanimated/48934.html",
+      "icon": "assets/img/apk/icon/com.starwatchfaces.hnyanimated.png",
+      "name": "Happy New Year Animated",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4"
+    }
+  ]
+}

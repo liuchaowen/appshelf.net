@@ -1,0 +1,108 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.shakeshack.android.png",
+    "title": "Shake Shack",
+    "ratings": "3.7",
+    "downloads": "480M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Shake Shack"
+    },
+    {
+      "name": "category",
+      "value": "Food & Drink"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Shake Shack"
+    },
+    {
+      "name": "Version",
+      "value": "1.7.2"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/-oRpXNAaTq0WRc0LOgGMtzZrEL2uIX1_jWpRVy4o5fVGhkN4XyPcPErQqHCFDTBWBsj7",
+    "https://play-lh.googleusercontent.com/9-gCZDdRhuX0yU3TVskQwgyeLfUJBeqmjZ5K7vds9vG-sivLbs5p06RZKB2cEyRi_dw",
+    "https://play-lh.googleusercontent.com/W5pPl7CheN80Jk4Noqe3jLNVztTRXJjZs3Fd6xhw-g7vZrDjwl1JfqcGbTSDY1fKMdk",
+    "https://play-lh.googleusercontent.com/kkRjj5KoEnjj-mQFQ8mPawQeNU5IyHfP4vWXZt_j32lKBAH44xe3y2F245bU27OoYw"
+  ],
+  "app_descript": "<h3>Shake Shack App</h3>\n<h4>Brief:</h4>\n<p>The Shake Shack app is a modern solution for foodies looking to satiate their cravings with convenience and speed. This smartly designed app offers a seamless way to order your favorite Shake Shack meals ahead of time, keeps you updated on the latest brand events, and provides easy access to allergy and nutrition information. </p>\n<h4>Core Features:</h4>\n<ul>\n<li><strong>Order Ahead &amp; Schedule Pickup</strong>: Beat the line by ordering and scheduling your pickup time in advance – your meal will be prepared fresh upon arrival 📲.</li>\n<li><strong>Location Finder</strong>: Easily locate the nearest Shake Shack with a handy location tool 📍.</li>\n<li><strong>Favorite Orders</strong>: Quickly reorder from a list of your past favorite meals 🍔.</li>\n<li><strong>Nutritional Information</strong>: Stay informed about what's in your food by accessing detailed allergy and nutritional information 📋.</li>\n<li><strong>Exclusive Content</strong>: Keep up with the latest Shake Shack events, promos, and even view a live camera feed of the original Shack 🎥.</li>\n</ul>\n<h4>Pros:</h4>\n<ul>\n<li><strong>Convenience</strong>: Place and schedule your orders quickly from anywhere, anytime 👍.</li>\n<li><strong>Customization</strong>: Keep track and re-order your personalized favorite meals effortlessly 🧾.</li>\n<li><strong>Informed Dining</strong>: Know exactly what you're eating with just a tap, making it easy for those with dietary restrictions 🥗.</li>\n<li><strong>Engagement</strong>: Stay connected with Shake Shack's lively community and latest happenings 🎉.</li>\n</ul>\n<h4>Cons:</h4>\n<ul>\n<li><strong>Availability</strong>: Some features may depend on local Shake Shack locations and coverage areas 👀.</li>\n<li><strong>Wait Time</strong>: Even with scheduled pickups, heavy traffic times might lead to unexpected waiting 🕒.</li>\n<li><strong>App Dependencies</strong>: Full enjoyment of the app's features requires a consistent internet connection 🌐.</li>\n<li><strong>Limited Platforms</strong>: Currently, the app is exclusively available for users of the specified platforms 📱.</li>\n</ul>\n<h4>Pricing:</h4>\n<p>The Shake Shack app offers you complete access to its features at no cost, but as it's an ordering platform, you'll be paying for the food and potentially incurring additional charges based on your order specifics 💵.</p>\n<h4>Community:</h4>\n<p>For the foodies and Shake Shack aficionados, there's a buzzing community to plug into for sharing your delicious experiences and catching up on the Shack buzz:</p>\n<ul>\n<li>Official Site: <a href=\"https://www.shakeshack.com\" rel=\"noopener noreferrer\" target=\"_blank\">Shake Shack</a></li>\n<li>Instagram: <a href=\"https://www.instagram.com/shakeshack\" rel=\"noopener noreferrer\" target=\"_blank\">@shakeshack</a></li>\n<li>Twitter: <a href=\"https://twitter.com/shakeshack\" rel=\"noopener noreferrer\" target=\"_blank\">@shakeshack</a></li>\n<li>Facebook: <a href=\"https://www.facebook.com/ShakeShack\" rel=\"noopener noreferrer\" target=\"_blank\">Shake Shack</a></li>\n<li>YouTube: <a href=\"https://www.youtube.com/user/shakeshack\" rel=\"noopener noreferrer\" target=\"_blank\">Shake Shack</a></li>\n</ul>\n<p>Please enjoy the ease and delight of Shake Shack right at your fingertips! 📱</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-buzzfeed-tasty/16927.html",
+      "icon": "assets/img/apk/icon/com.buzzfeed.tasty.png",
+      "name": "Tasty",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-hacklatino-chingon-android/15837.html",
+      "icon": "assets/img/apk/icon/com.hacklatino.chingon.android.png",
+      "name": "Hack Latino",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-postmates-android/4464.html",
+      "icon": "assets/img/apk/icon/com.postmates.android.png",
+      "name": "Postmates - Food Delivery",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-seamlessweb-android-view/4463.html",
+      "icon": "assets/img/apk/icon/com.seamlessweb.android.view.png",
+      "name": "Seamless: Local Food Delivery",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-trycaviar-customer/4462.html",
+      "icon": "assets/img/apk/icon/com.trycaviar.customer.png",
+      "name": "Caviar - Order Food Delivery",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-chownow-discover/4461.html",
+      "icon": "assets/img/apk/icon/com.chownow.discover.png",
+      "name": "ChowNow: Local Food Ordering",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-toasttab-consumer/4460.html",
+      "icon": "assets/img/apk/icon/com.toasttab.consumer.png",
+      "name": "Toast Takeout & Delivery",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/menulog-au/3667.html",
+      "icon": "assets/img/apk/icon/com.menulog.m.png",
+      "name": "Menulog AU",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.2"
+    }
+  ]
+}

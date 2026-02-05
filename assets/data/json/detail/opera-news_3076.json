@@ -1,0 +1,111 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.opera.app.news.png",
+    "title": "Opera News",
+    "ratings": "4.3",
+    "downloads": "190M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Opera News"
+    },
+    {
+      "name": "category",
+      "value": "News & Magazines"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Opera"
+    },
+    {
+      "name": "Version",
+      "value": "8.1.2254.54796"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/-HM8eUU0yqhrnjfniNdIVWBRXZiRK06ZEgI9DYWjDC0P3CbOn8OR58KqPjQQVVRLkEh3",
+    "https://play-lh.googleusercontent.com/v48-KxK0JCoozSf5jwh2r6JtHoATWT3jqx5utEf-TrT0XXNz0g2q_b6clOA4nSMXmfBZ",
+    "https://play-lh.googleusercontent.com/Qd8BJDMmqS22WqrBNxyBpkJP13nzMS3jDJ392TW_ol3lfoi18JPEpFIePayrei5KthTU",
+    "https://play-lh.googleusercontent.com/2PY5Q9ekz8Q596nHIK_kApf63OAJj7vLTkNeLmoGjkTlkiiPqR4ZhWG_b-M6JPRKO9i_",
+    "https://play-lh.googleusercontent.com/ozs4ycv0UkO4UGcK1eaOzNhdR4axNHot-OS8ImhyeEBOCLILuc_PEDotERPJpuW_Fk4",
+    "https://play-lh.googleusercontent.com/Cly_7lsOZ2H-LMCtfrT8fYPDUoGfixGXfrFPT-KuhECxNX4L5dzSEZEZUDJWL_qJkeY",
+    "https://play-lh.googleusercontent.com/WTS_wH_ayM01zfHJmCFv-HME02T_ZX-xpWpE27NcWFfK1ffBVOlioVo9A4Ort-klcw"
+  ],
+  "app_descript": "<h3>Brief:</h3>\n<p>Opera News is a premier news app delivering a rich selection of global and national news to your fingertips. It provides a personalized news experience, tailored to your interests, and presents the latest insights across various domains such as entertainment, economy, technology, and sports. The app leverages a robust AI engine to curate content and offers unique features like Instaclips, football team tracking, and data-saving reading modes.</p>\n<h3>Core Features:</h3>\n<ul>\n<li>📰 <strong>Top News Access</strong>: Stay informed with the latest news from top-tier media outlets across various categories. 🌐</li>\n<li>🤖 <strong>AI-Curated Personalization</strong>: Enjoy a news feed that adapts to your interests thanks to the powerful AI news engine. 🔍</li>\n<li>📹 <strong>Instaclips for Trending Videos</strong>: Discover a plethora of trending video clips and share your favorite moments with ease. 🎞️</li>\n<li>⚽ <strong>Football Team Tracking</strong>: Keep up to date with all things football, including major international competitions and live scores. 🏆</li>\n<li>🗞️ <strong>Offline Reading &amp; Data Savings</strong>: Save articles to read later without data and cut down on your mobile data usage with the turbo engine. 💾</li>\n</ul>\n<h3>Pros:</h3>\n<ul>\n<li>👍 <strong>Real-Time Notifications</strong>: Get instant breaking news alerts straight to your home screen. 📲</li>\n<li>👍 <strong>Search &amp; Trending Insights</strong>: A built-in search bar keeps you abreast of trending searches and allows for specific topic discovery. 🔎</li>\n<li>👍 <strong>Customized Content</strong>: \"My interest graph\" tailors the news feed to display what matters most to you. 📈</li>\n<li>👍 <strong>Bookmarking</strong>: Easily save articles to savor at your convenience, even without an internet connection. 🔖</li>\n</ul>\n<h3>Cons:</h3>\n<ul>\n<li>👎 <strong>Content Overload</strong>: The customization might need fine-tuning to avoid overwhelming users with too much content. 📰</li>\n<li>👎 <strong>Data Privacy Concerns</strong>: Despite assurances, users may be wary of AI tracking their reading habits. 🔒</li>\n<li>👎 <strong>Network Dependency for Initial Setup</strong>: Requires an internet connection for downloading content for offline reading. 🌐</li>\n<li>👎 <strong>Notification Management</strong>: Breaking news alerts could become intrusive if not managed well. 🔕</li>\n</ul>\n<h3>Price:</h3>\n<p>Opera News is a free app, enabling users to benefit from its news aggregation service without any direct cost. However, data charges may apply when using the app without Wi-Fi. 💵</p>\n<h3>Community:</h3>\n<p>As Opera News is a news-reading app and not a game, there is no dedicated community section for this summary. </p>\n<p><strong>Download Opera News and tailor your news experience with features designed for convenience, personalization, and data efficiency.</strong></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-app-foapp/15418.html",
+      "icon": "assets/img/apk/icon/com.app.foapp.png",
+      "name": "The Obituary App",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-globalnews-android-novanews/5116.html",
+      "icon": "assets/img/apk/icon/com.globalnews.android.novanews.png",
+      "name": "Global News - Breaking & Local",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/Hindi-News-by-Dainik-Bhaskar/4635.html",
+      "icon": "assets/img/apk/icon/com.ak.ta.dainikbhaskar.activity.png",
+      "name": "Hindi News by Dainik Bhaskar",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/Way2News-News-updates-Election/4625.html",
+      "icon": "assets/img/apk/icon/sun.way2sms.hyd.com.png",
+      "name": "Way2News News updates Election",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/Hindi-News/4507.html",
+      "icon": "assets/img/apk/icon/in.AajTak.headlines.png",
+      "name": "Hindi News",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/TVA-Nouvelles/4479.html",
+      "icon": "assets/img/apk/icon/com.nurun.lcn.png",
+      "name": "TVA Nouvelles",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/uol/3121.html",
+      "icon": "assets/img/apk/icon/br.uol.noticias.png",
+      "name": "UOL",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/local-news/3120.html",
+      "icon": "assets/img/apk/icon/com.opera.app.news.local.png",
+      "name": "Local News",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.5"
+    }
+  ]
+}

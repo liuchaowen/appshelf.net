@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/four.live.call.valour.vidcallrndom.png",
+    "title": "Live Video Call",
+    "ratings": "4.7",
+    "downloads": "130M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Live Video Call"
+    },
+    {
+      "name": "category",
+      "value": "Social"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Blowst"
+    },
+    {
+      "name": "Version",
+      "value": "1.0"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> Live Video Call</p>\n<p><strong>Brief:</strong>\nLive Video Call is a comprehensive app designed to connect individuals globally through the power of video and audio calls. With a focus on simplicity and user security, the app offers an array of features for seamless communication. Users can make new friends, practice language skills, and engage in unlimited conversations with strangers, all while maintaining their privacy.</p>\n<p><strong>📌 Core Features:</strong></p>\n<ol>\n<li>Instant Global Connection – Connect with users from around the world for video and audio calls at a tap 🌐</li>\n<li>Unlimited Live Chats – Engage in limitless video calls, voice chats, and send stickers without any restrictions 🗣️</li>\n<li>HD Quality &amp; Network Adaptability – Experience high-definition audio even on slow internet or via 3G/4G and Wi-Fi 📶</li>\n<li>Privacy Protection – Maintain your anonymity and report any inappropriate behavior easily 🔒</li>\n<li>Language Skill Improvement – A perfect tool for practicing and enhancing English speaking skills with native speakers and strangers 🗣️</li>\n</ol>\n<p><strong>👍 Pros:</strong></p>\n<ol>\n<li>No call duration limit, ensuring uninterrupted conversations 🕒</li>\n<li>Free usage with no hidden costs – a cost-effective way to connect 🆓</li>\n<li>User Privacy is a top priority, safeguarding personal information 🔐</li>\n<li>Intuitive report system for addressing users' misconduct 🚨</li>\n<li>Provides valuable tips for engaging in interesting video chats 👁️‍🗨️</li>\n</ol>\n<p><strong>👎 Cons:</strong></p>\n<ol>\n<li>Only supports English, which could limit non-English speaking users 🏳️</li>\n<li>The effectiveness of reporting system dependent on timely app moderation ⏳</li>\n<li>Possible exposure to strangers might not be suitable for all users 🤝</li>\n<li>Requires a stable internet connection for optimal use 🌐</li>\n<li>Potential for misuse if not monitored properly by users 🔎</li>\n</ol>\n<p><strong>💵 Price:</strong>\nLive Video Call is free to download and use, which includes all of its main features. There may be in-app purchases available for additional content or functionality. </p>\n<p><strong>Community:</strong>\nLive Video Call does not fall under the category of a game app, so no community links are provided. </p>\n<p>Enjoy the world at your fingertips with Live Video Call. Connect to new friends and embrace new cultures with a simple tap on your screen.</p>",
+  "related_apps": [
+    {
+      "link": "/details/jp-cocone-livly/54171.html",
+      "icon": "https://img.buzzsight.co/apk/icon/jp.cocone.livly.png",
+      "name": "Livly Island - Adopt Cute Pets",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-daily-festival-photos/39721.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.daily.festival.photos.png",
+      "name": "Daily Festival Photo",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/tv-medal-recorder/39573.html",
+      "icon": "https://img.buzzsight.co/apk/icon/tv.medal.recorder.png",
+      "name": "Medal - Gaming Clips",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-ptanktechnology-reincornation/39352.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.ptanktechnology.reincornation.png",
+      "name": "Reincarnation",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-tiktok-lite-go/15392.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.tiktok.lite.go.png",
+      "name": "TikTok Lite - Faster TikTok",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-petmeetly/15275.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.petmeetly.png",
+      "name": "Petmeetly - Pet's Match Finder",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-xingin-xhs/14603.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.xingin.xhs.png",
+      "name": "REDnote—小红书国际版",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-stdev-dissordap/10395.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.stdev.dissordap.png",
+      "name": "Vote Social - Photo Voting VS",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "3.8"
+    }
+  ]
+}

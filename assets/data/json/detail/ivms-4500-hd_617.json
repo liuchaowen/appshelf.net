@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/ivms-4500-hd.png",
+    "title": "iVMS-4500 HD",
+    "ratings": "4.1",
+    "downloads": "200M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "iVMS-4500 HD"
+    },
+    {
+      "name": "category",
+      "value": "Video Players & Editors"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "HIKVISION HQ"
+    },
+    {
+      "name": "Version",
+      "value": "4.1.3"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>iVMS-4500 HD</strong></p>\n<hr/>\n<p><strong>Brief:</strong>\niVMS-4500 HD is an advanced mobile surveillance application that allows users to remotely access and control their video surveillance systems. Designed for security monitoring, the app enables live video feeds, playback of recorded footage, and real-time previews across multiple channels. It offers versatile network compatibility, adjustable video resolutions, alarm notifications, and substantial storage for device profiles.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>📹 <strong>Live Streaming:</strong> Stream live surveillance video at your fingertips anywhere, anytime.</li>\n<li>🔄 <strong>Remote Playback:</strong> Access and view recorded videos to stay informed about past events.</li>\n<li>🖼️ <strong>Multi-Screen Viewing:</strong> Real-time monitoring with up to 16 channel previews is possible.</li>\n<li>🕹️ <strong>PTZ Control:</strong> Manage zoom, tilt, and pan settings for dynamic video movement control.</li>\n<li>🌐 <strong>Comprehensive Network Support:</strong> Compatible with a wide range of networks, from 2G to 4G+ LTE and WiFi.</li>\n<li>🔢 <strong>Variable Resolution:</strong> Choose from 480<em>800px up to 1920</em>1080px for clear video display.</li>\n<li>⏰ <strong>Alarm Notifications:</strong> Set alarms for timely system checks and alerts.</li>\n<li>💾 <strong>Extensive Device Storage:</strong> Manage up to 256 sets of device profiles with ease.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 Easy access to surveillance systems for on-the-go monitoring.</li>\n<li>👍 Multi-channel support enhances situational awareness.</li>\n<li>👍 Flexible network options ensure constant connectivity.</li>\n<li>👍 High resolutions for a clearer picture of surveillance areas.</li>\n<li>👍 PTZ control allows users to adjust their surveillance device remotely.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 Data usage may incur network charges.</li>\n<li>👎 Performance could be influenced by network quality and device hardware.</li>\n</ul>\n<p><strong>Price:</strong></p>\n<ul>\n<li>💵 The app is free to download with potential in-app features that may be available for purchase.</li>\n</ul>\n<p><strong>Note:</strong>\nTraffic charges may apply while using this client software. For questions regarding charges, consult with your local Internet Service Provider (ISP). The effective performance of live streaming is dependent on the quality of both the network service and the phone's hardware.</p>\n<hr/>\n<p>The content is crafted with a keen eye on providing an engaging summary and detailed analysis catered to potential users' needs, offering a neutral and informative perspective on iVMS-4500 HD.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-video-newslideshow/53956.html",
+      "icon": "assets/img/apk/icon/com.video.newslideshow.png",
+      "name": "Music Video Maker Magic Effect",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-prominent-aicatch/49088.html",
+      "icon": "assets/img/apk/icon/com.prominent.aicatch.png",
+      "name": "AI Catch: AI Video Generator",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-asianmobile-smartplayer/34766.html",
+      "icon": "assets/img/apk/icon/com.asianmobile.smartplayer.png",
+      "name": "IPTV Player: Smarters Watch TV",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "3.1"
+    },
+    {
+      "link": "/details/halloween-video-maker/34753.html",
+      "icon": "assets/img/apk/icon/halloween.video.maker.png",
+      "name": "Halloween Video Editor 2025",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-cupertinotech-aidancevideo/16075.html",
+      "icon": "assets/img/apk/icon/com.cupertinotech.aidancevideo.png",
+      "name": "AI Dance Video - Photo Dance",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "2.4"
+    },
+    {
+      "link": "/details/com-instagram-basel/15556.html",
+      "icon": "assets/img/apk/icon/com.instagram.basel.png",
+      "name": "Edits, an Instagram app",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/downloader-video-download-free/10303.html",
+      "icon": "assets/img/apk/icon/downloader.video.download.free.png",
+      "name": "Video Downloader & Video Saver",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-renderforest-videomaker/10142.html",
+      "icon": "assets/img/apk/icon/com.renderforest.videomaker.png",
+      "name": "Renderforest Video & Animation",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.5"
+    }
+  ]
+}

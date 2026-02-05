@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.videomaker.photovideo.png",
+    "title": "Video maker with photo & music",
+    "ratings": "4.4",
+    "downloads": "380M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Video maker with photo & music"
+    },
+    {
+      "name": "category",
+      "value": "Video Players & Editors"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Music Video Maker Studio"
+    },
+    {
+      "name": "Version",
+      "value": "1.0.55"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>App Name</strong>: Video Maker with Photo &amp; Music<br/>\n<strong>App Package Name</strong>: com.videomaker.photovideo  </p>\n<hr/>\n<h2>Brief:</h2>\n<p>Turn your cherished memories into mesmerizing videos with Video Maker with Photo &amp; Music. This user-friendly app allows you to craft stunning videos by combining your photos with music, paired with breathtaking 2D and 3D transition effects. Whether you wish to create a memorable gift or share your moments on social media, this app ensures your videos stand out without the hassle of watermarks.</p>\n<h2>Core Features:</h2>\n<ul>\n<li>📸 <strong>Custom Video Creation</strong>: Choose favorite photos, apply transition effects, and add frames to theme your video creation. 🎬</li>\n<li>🔧 <strong>Photo Editing Tools</strong>: Integrated photo editor ensures each image shines in your video compilation. 🛠️</li>\n<li>🎶 <strong>Music Integration</strong>: Add tunes from the app’s music library or your own collection for the perfect soundtrack. 🎵</li>\n<li>⏱️ <strong>Transition Effects</strong>: Select suitable transition durations to keep your audience engaged. ⌛</li>\n<li>📤 <strong>High-Quality Export</strong>: Effortlessly export your videos to share your photo-video artwork with the world. 💼</li>\n</ul>\n<h2>Pros:</h2>\n<ul>\n<li>👍 <strong>Ease of Use</strong>: User-friendly interface allows anyone to create professional-looking videos.  </li>\n<li>👍 <strong>No Watermarks</strong>: Export videos free of any branding or watermarks, making it ideal for personal or commercial use.  </li>\n<li>👍 <strong>Impressive Effects</strong>: 2D and 3D effects add a touch of sophistication to your video projects.  </li>\n<li>👍 <strong>Social Sharing</strong>: Seamlessly share your creations with friends, relatives, and lovers across social media platforms.  </li>\n</ul>\n<h2>Cons:</h2>\n<ul>\n<li>👎 <strong>Possible In-App Purchases</strong>: May have limitations or premium features that require payment.</li>\n<li>👎 <strong>Device Compatibility</strong>: Performance and features may vary based on the user's device capabilities.</li>\n<li>👎 <strong>Learning Curve</strong>: New users might require some time to explore and learn all the features.</li>\n<li>👎 <strong>Storage Space</strong>: High-quality videos may consume significant storage space on your device.</li>\n</ul>\n<h2>Price:</h2>\n<p>💵 The app boasts being 100% FREE, granting you access to its features without the worry of watermarks. Nevertgeless, keep an eye out for potential in-app purchases that could unlock additional functionality.</p>\n<p>(No available data found on the community dimension, thus the 'Community' section is not included)</p>\n<hr/>\n<p>Elevate your video making experience from simple to simply breathtaking with Video Maker with Photo &amp; Music - the ultimate tool for creating visual stories set to the rhythm of your life’s soundtrack. Download now and unleash the videographer in you! 🌟</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-video-newslideshow/53956.html",
+      "icon": "assets/img/apk/icon/com.video.newslideshow.png",
+      "name": "Music Video Maker Magic Effect",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-prominent-aicatch/49088.html",
+      "icon": "assets/img/apk/icon/com.prominent.aicatch.png",
+      "name": "AI Catch: AI Video Generator",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-asianmobile-smartplayer/34766.html",
+      "icon": "assets/img/apk/icon/com.asianmobile.smartplayer.png",
+      "name": "IPTV Player: Smarters Watch TV",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "3.1"
+    },
+    {
+      "link": "/details/halloween-video-maker/34753.html",
+      "icon": "assets/img/apk/icon/halloween.video.maker.png",
+      "name": "Halloween Video Editor 2025",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-cupertinotech-aidancevideo/16075.html",
+      "icon": "assets/img/apk/icon/com.cupertinotech.aidancevideo.png",
+      "name": "AI Dance Video - Photo Dance",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "2.4"
+    },
+    {
+      "link": "/details/com-instagram-basel/15556.html",
+      "icon": "assets/img/apk/icon/com.instagram.basel.png",
+      "name": "Edits, an Instagram app",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/downloader-video-download-free/10303.html",
+      "icon": "assets/img/apk/icon/downloader.video.download.free.png",
+      "name": "Video Downloader & Video Saver",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-renderforest-videomaker/10142.html",
+      "icon": "assets/img/apk/icon/com.renderforest.videomaker.png",
+      "name": "Renderforest Video & Animation",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.5"
+    }
+  ]
+}

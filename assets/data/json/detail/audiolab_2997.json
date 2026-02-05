@@ -1,0 +1,136 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/com.hitrolab.audioeditor.png",
+    "title": "AudioLab",
+    "ratings": "4.7",
+    "downloads": "930M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "AudioLab"
+    },
+    {
+      "name": "category",
+      "value": "Music & Audio"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "HitroLab ? Best Audio Editor & Audio Recorder Dev"
+    },
+    {
+      "name": "Version",
+      "value": "1.2.5"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/chcVPkUXyQ6-vNhJ0OOZ-zfikV9q6pCBn75QvJ4kNrvuxn9353ewMA9zLU7we09A_mk",
+    "https://play-lh.googleusercontent.com/q67IOEEFJI8q-ZZMNksohdwUBNQj-avS3Fv7OZmdfo6ILMCEvwjUYdueMhRyJmi3JA",
+    "https://play-lh.googleusercontent.com/2Kcbk2gAHcH-5_sFPcMzPUTz0yeI_uvEkLDYi30A3lfft8LOL9uDR-4Bli2d3eKCL7lm",
+    "https://play-lh.googleusercontent.com/LvljLYAcNqIiGQDw-FNSCE2NwRRUvcphG23Msubm9F7H_AHc3vYp8-_j0tz4iS7maI8",
+    "https://play-lh.googleusercontent.com/Ha3rIaiNqmZsKEZaY4Mo_hQ6kqifKInkVIiOELLazY7JGmbI2TrK_C4AVX8Dw626SrxF",
+    "https://play-lh.googleusercontent.com/NQyMXhFRtlRvLWFRTdAKHU118Mk5b3mz8c1yfvWARW_RyhPW71FrhdgvI8t4RGzQ168",
+    "https://play-lh.googleusercontent.com/AJZYuEqMr4Z3YgI-T1zmFPhVcs7EtEOtYdbR2KxcUCcc0JeCQRfJHULTo85bgyVjQXU",
+    "https://play-lh.googleusercontent.com/72Vb3sM67dGtntXopv-78sYrAzcSZqIbl1Xorv8N8FFCGouei5xFmCh-XTSqmczu5ws",
+    "https://play-lh.googleusercontent.com/Yxz4u-E0sQrpGNkb7rK_Jvnxftmq2RVccg9cs8OAkkiU29lB0phm3LVYBwrEBEr9KPE",
+    "https://play-lh.googleusercontent.com/rnJ50ES5qFPrq7fMQ481wd0YoH8g00RXLdMQGqkmXo8PLTjh1oiL5KGfljjMRjCJTmPO",
+    "https://play-lh.googleusercontent.com/z5-wGk3_XAhLTjYiwzw88DOuapZFCGOJ4LVlfYCTdmpueNB3cembd025A1deTtf1rA",
+    "https://play-lh.googleusercontent.com/YOzSTwYP3-DPbHhMq3nrKgzbZLfv_lyHFXIIqCLbxqJq1uJxmo596dc54qgGdrthBj0",
+    "https://play-lh.googleusercontent.com/D7wXVUEvYDydsRl0_O32GJjwvMVC693lUNIBF9fVjhPwt1uy0XTv4GkRgvpYHld7lK4",
+    "https://play-lh.googleusercontent.com/7FWTPYgsQHftTt4D_evEJoj7ZKZMooCbFo3XuAUu_38JoM19MlM-rXEsWPbmsmaJBg",
+    "https://play-lh.googleusercontent.com/SkmIbLwEb6Mp2lTd_9VghhWIbOHtVno8I5xyBDaMLQwJGEplcd07X6ZtXhD46m62__k",
+    "https://play-lh.googleusercontent.com/2AuruBzg75Dfc2WF5a_zqVMs7z9pxvtHKG3-lY-FM8-corZfEUuMsG3391UGmZEw_A",
+    "https://play-lh.googleusercontent.com/ZtS9xMBwuuQYrKV0HWNAdDaV4uzUFzuU3yaIBq2y6MERpluS4YkI0VavoiikDw7fii0",
+    "https://play-lh.googleusercontent.com/i09ZUFgZSwZZS5ob9PHINEB4FuPzy_Hbj_9V51wf389SKL-Y-eOPw4XI9cFNXYYXalsL",
+    "https://play-lh.googleusercontent.com/Zef_abgxXuzbZFehiwo3x8ujytCtic7EOu4algHzdHh4HXqOh5-TVFgbuUqfhnFu41Q",
+    "https://play-lh.googleusercontent.com/4m-kGlM986rOPRSN-kE9kFYvECSczLWF89vaCe8q8fpa4KCSUh40wrJV3a3az7igDLE",
+    "https://play-lh.googleusercontent.com/0KVsy-7mxarkZjf1l5Bgu46pyu0rwm3TMMblz9btBdujFYMlzhlXnlP0bw1X1feDsQ",
+    "https://play-lh.googleusercontent.com/4dQ5gkj4cuNWNgRjRGp5NyPl3S40ojD8EMFHDziSg6SuecsPpkN7etJBs71GrSsrGiRE",
+    "https://play-lh.googleusercontent.com/hUySAW7TGqfknKbKSCTWwDg8S2ncYbEoveWwy-0CBCinJ7aiceWPvc8XsOG2dxgWBw",
+    "https://play-lh.googleusercontent.com/7Q1-qWiQ7NhxcWpgb3h8zGbjWTxsWfI8BefGeJXspZtN1KIa6y5iJFF0MZxySpsNNo8",
+    "https://play-lh.googleusercontent.com/6aj4UEC0_g2K8VKCoL4mY85_VzqzQw2Dx_l2yul0uyY1rrcJMkw5ewWYUxm7ajDqjKs",
+    "https://play-lh.googleusercontent.com/jw5T7UgGbEAespkNgI-Z1ffvUH2PxZhOJDzSWQDC1Oq1AhpR66p-lGcU-nw2AbjcQsg",
+    "https://play-lh.googleusercontent.com/HyHzAiFo882t6svzzzxHLKLhTNbzc_II9vwYYW1vtLyDl6MivzUyKUnzFKoHWjpTf8w",
+    "https://play-lh.googleusercontent.com/Q3mEC96mKNrXOEDYvCGjTkWOLrtWC67303l8vhNA938sRzVmiGnMJ8P1dWLk8GvhTFg",
+    "https://play-lh.googleusercontent.com/GxTJdy14Jc_LJKVKcPu1Lr4FRcaG8eobWpGHrK6T4wtZrVLSwybcwTtsPWZTlVfyN40",
+    "https://play-lh.googleusercontent.com/U_B2wzI998m-pztYUU-GCRnwVEZYIdUg6DfRlP1SMrCkUcjHmtAiNLQudI8AfZ4PKQo",
+    "https://play-lh.googleusercontent.com/q-pJ2n-DnJapZvYo8O_i8d0Zebee3zClV0K-SQKCTU2Ton8EeiMAwUz9VHE_iV_QNpg",
+    "https://play-lh.googleusercontent.com/XalGLU3b4mWYAwRd-d05ch6hN8B8Vb0qOD6CEuVV96IyK2YxWpQ-eeFznzVUeXfTCzY"
+  ],
+  "app_descript": "<p><strong>Brief:</strong>\nAudioLab is a versatile audio editor designed for those who want to manipulate audio files with ease and precision. Whether you're aiming to create custom ringtones, gather your mixes, or simply enhance your audio experience, AudioLab provides a rich suite of tools to fulfill your needs. Its intuitive modern interface allows for detailed editing, ensuring your projects sound professional with minimal effort.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>📌 <strong>Audio Trimming:</strong> Precisely cut audio files to capture the perfect segment for use in music tracks, ringtones, and more, with up to 100 ms precision.</li>\n<li>📌 <strong>Audio Mixing:</strong> Blend up to four audio tracks to create innovative remixes, peppered with a host of effects like Echo and Reverb.</li>\n<li>📌 <strong>Audio Conversion:</strong> Transform audio files from one format to another, supporting a multitude of formats including MP3, WAV, and FLAC.</li>\n<li>📌 <strong>Advanced Audio Recording:</strong> Utilize a feature-rich audio recorder with options like Noise Suppressor and Automatic Gain for crisp and clear recordings.</li>\n<li>📌 <strong>Voice Changer:</strong> Have fun altering your voice with a variety of whimsical effects, from Helium to Chipmunk.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 <strong>Multiple Editing Tools:</strong> Equipped with a comprehensive set of editing features such as merge, split, reverse, and more for extensive audio manipulation.</li>\n<li>👍 <strong>Tag Editor:</strong> Correct inaccurate album arts and audio tags to organize your music collection effectively.</li>\n<li>👍 <strong>High-Quality Output:</strong> Merge files of different formats without compromising on audio quality.</li>\n<li>👍 <strong>User-Friendly Interface:</strong> The app boasts a simple and modern UI that's accessible for users of all skill levels.</li>\n<li>👍 <strong>Additional Features:</strong> Voice-to-text capabilities, 18-band equalizer, and noise removal enhance the app’s utility further.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 <strong>Complexity for New Users:</strong> Beginners may find the array of features overwhelming at first.</li>\n<li>👎 <strong>Format Limitations:</strong> While it supports many formats, some less common types might not be compatible.</li>\n<li>👎 <strong>Performance Variation:</strong> The app may perform differently across various devices, depending on hardware capability.</li>\n<li>👎 <strong>Advertisement Interruptions:</strong> Free version may include ads that disrupt the editing experience.</li>\n<li>👎 <strong>Learning Curve:</strong> Some advanced features might require time to learn effectively.</li>\n</ul>\n<p><strong>Price:</strong></p>\n<ul>\n<li>💵 AudioLab offers a free version, but premium features may require in-app purchases, the details of which can be checked within the app.</li>\n</ul>\n<p><em>Please note that the community features like social media platforms and YouTube channels are not applicable for this non-game app, and thus no community section is included in this description.</em></p>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-simmusic-oldjpop/49056.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.simmusic.oldjpop.png",
+      "name": "昭和の名曲 - 70年代/80年代名曲, 昭和の歌謡曲",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-bigsoft-voicereverse-audiochanger/39378.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.bigsoft.voicereverse.audiochanger.png",
+      "name": "Funny Voice Reverse",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "3.1"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-realdrum-drumset-drumapp-beatmaker-music-instruments-drumkit/16783.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.realdrum.drumset.drumapp.beatmaker.music.instruments.drumkit.png",
+      "name": "Learn Drum - Pad & Beat Maker",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.3"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-musicplayer-mp3-audio-mymusic-player/15795.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.musicplayer.mp3.audio.mymusic.player.png",
+      "name": "Music Player & MP3 - MMusic",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.8"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-ai-sound-donna/15626.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.ai.sound.donna.png",
+      "name": "Donna AI Song & Music Maker",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.7"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-vanniktech-rssreader/15328.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.vanniktech.rssreader.png",
+      "name": "RSS Reader Offline | Podcast",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-voicechanger-supereffect-soundeffect/14158.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.voicechanger.supereffect.soundeffect.png",
+      "name": "Voice Changer: Audio Effect",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/org-cru-womans-herbible/14124.html",
+      "icon": "https://img.buzzsight.co/apk/icon/org.cru.womans.herbible.png",
+      "name": "her.BIBLE Women's Audio Bible",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    }
+  ]
+}

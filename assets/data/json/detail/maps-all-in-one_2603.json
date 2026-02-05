@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.newmapsallinone.travelandnavigationradarapp.png",
+    "title": "Maps All in One",
+    "ratings": "4.7",
+    "downloads": "110M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Maps All in One"
+    },
+    {
+      "name": "category",
+      "value": "Maps & Navigation"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Y Mobile Entertainment"
+    },
+    {
+      "name": "Version",
+      "value": "2.4.0"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> Maps All in One</p>\n<p><strong>Brief:</strong>\nMaps All in One is an intrinsic navigation, traffic, and speed camera alert application designed to enhance your travel and route planning experience. Equipped with real-time transit updates, traffic conditions, and detailed navigation assistance, this app assists in streamlining your journey, whether it's your daily commute or a new adventure.</p>\n<p><strong>Core Features:</strong></p>\n<ol>\n<li>Real-time Traffic &amp; Transit Updates: Stay on top of traffic conditions and transit schedules to optimize your travel time 🚦.</li>\n<li>Automatic Rerouting: The app intuitively reroutes based on live traffic, avoiding road closures and incidents 🔄.</li>\n<li>Speed Camera Alerts: Be aware of speed traps and receive notifications to help maintain the right speed and avoid fines 🚓.</li>\n<li>Extensive Coverage: Covers more than 40 countries with accurate speed camera data and mapping 🌍.</li>\n<li>Easy-to-Use Interface: A user-friendly design offering smart, lightweight, and efficient navigation tools 🗺️.</li>\n</ol>\n<p><strong>Pros:</strong></p>\n<ol>\n<li>Minimal Data Usage: Uses very little mobile data, ensuring you stay connected without excessive costs 👍.</li>\n<li>Comprehensive Map Options: Offers a multitude of map types, including offline and topographic variations, for a tailored navigation experience 💾.</li>\n<li>Route Sharing: Easily share your routes with others via instant messaging or email 📤.</li>\n<li>Variety of Navigation Solutions: Integrates with popular services like Yandex Navigation, Uber, and Lyft for a seamless travel experience 🚗.</li>\n<li>User Preferences: Provides personalized driving directions to various destinations like home, work, or any favored location 📍.</li>\n</ol>\n<p><strong>Cons:</strong></p>\n<ol>\n<li>Possible Overlaps with Existing Apps: Users might find functionalities similar to other navigation apps they already use ❓.</li>\n<li>Dependence on Connectivity: Real-time features require internet connection, which might be limiting in areas with poor coverage 🔗.</li>\n<li>Compatibility Issues: Some users may experience compatibility problems with carplay or other in-vehicle systems 🚘.</li>\n<li>Data Privacy Concerns: With location-based services, users might be cautious about privacy and data sharing ⚠️.</li>\n<li>Learning Curve: New users may need time to familiarize themselves with the comprehensive features and map options 📚.</li>\n</ol>\n<p><strong>Price:</strong>\nMaps All in One is a free-to-use app, ensuring accessibility for all users who need navigation assistance without additional costs 💵.</p>\n<p>Maps All in One successfully encapsulates a multitude of navigation tools in a single app, simplifying your travel and ensuring that your journeys are planned efficiently and safely. With its broad range of features, from traffic alerts to multiple map layers, this app is an all-rounder for anyone looking to navigate the roads with ease.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-hundred-qibla-finder/14082.html",
+      "icon": "assets/img/apk/icon/com.hundred.qibla.finder.png",
+      "name": "Qibla Finder Compass 100%",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/kbk-maparea-measure-geo/5067.html",
+      "icon": "assets/img/apk/icon/kbk.maparea.measure.geo.png",
+      "name": "Gps Area Calculator",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "3.9"
+    },
+    {
+      "link": "/details/Offline-Maps-GPS-Speedometer/4633.html",
+      "icon": "assets/img/apk/icon/com.radarapp.trip.speedometer.png",
+      "name": "Offline Maps, GPS, Speedometer",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/Satellite-View-Offline/4620.html",
+      "icon": "assets/img/apk/icon/com.breezeammarathon.viskoproton.grampooffline.png",
+      "name": "Satellite View Offline",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/Rapido/4563.html",
+      "icon": "assets/img/apk/icon/com.rapido.passenger.png",
+      "name": "Rapido",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/CarInfo/4500.html",
+      "icon": "assets/img/apk/icon/com.cuvora.carinfo.png",
+      "name": "CarInfo",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-trailbehind-android-gaiagps-pro/4473.html",
+      "icon": "assets/img/apk/icon/com.trailbehind.android.gaiagps.pro.png",
+      "name": "Gaia GPS: Offroad Hiking Maps",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-gpsnavigation-maps-gpsroutefinder-routemap/4472.html",
+      "icon": "assets/img/apk/icon/com.gpsnavigation.maps.gpsroutefinder.routemap.png",
+      "name": "GPS Navigation: Road Map Route",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    }
+  ]
+}

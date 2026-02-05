@@ -1,0 +1,110 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.chownow.discover.png",
+    "title": "ChowNow: Local Food Ordering",
+    "ratings": "4.6",
+    "downloads": "34M",
+    "age": "4+",
+    "download_link": "https://d.apkpure.com/b/APK/com.chownow.discover?version=latest"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "ChowNow: Local Food Ordering"
+    },
+    {
+      "name": "category",
+      "value": "Food & Drink"
+    },
+    {
+      "name": "Price",
+      "value": "0"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "ChowNow"
+    },
+    {
+      "name": "Version",
+      "value": "9"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/1YIViBo307G9X0jLsL_AmvEshVNs0-sm9WGb-P73QecWIDUc0Um3n5otZt3S7zUdLO4L",
+    "https://play-lh.googleusercontent.com/JadxSSwWJ4_PK0_P5TTHW-HEN72ek1dnkcF1qS9aNWkJECnpbAPisedb5orjLeRoCbst",
+    "https://play-lh.googleusercontent.com/_RmGhLRJI5ME8IclmNxBvB1CvDxmKPYFtVo2B1eRMYl15XJbnoeiTYBuajghsi8kGnQ",
+    "https://play-lh.googleusercontent.com/drGFKB4lgzzSrJQb3PZB9rM8Y5kgD6nJFzs9JOdGv_bb2BnICVms-qvZOjTq7olNCCI",
+    "https://play-lh.googleusercontent.com/g4nuDCC9feRkX1q-0D0hhmyDzy2K9Wt1k3asXjTFypgtjGymdI12xDi_BEA0NuYfexM"
+  ],
+  "app_descript": "<h3>Brief:</h3>\n<p>ChowNow: Local Food Ordering is an unconventional food delivery and pickup app that celebrates local eateries without charging them excessive fees. This customer-friendly platform showcases various independent restaurants, offering a seamless ordering experience from delivery to takeout with real-time tracking updates. Say goodbye to inflated prices and hello to a smorgasbord of local flavors!</p>\n<h3>Core Features:</h3>\n<ul>\n<li>🍜 <strong>Explore a Plethora of Cuisines:</strong> Find local specialties across cuisines like Italian, Korean, Mexican, and more from open restaurants or those with exciting promotions. 🌐</li>\n<li>🛒 <strong>Quick and Easy Check Out:</strong> Use Google Pay or saved card details for swift payment and benefit from rapid reordering features for your favorite meals. 💳</li>\n<li>🛵 <strong>Real-Time Order Tracking:</strong> Stay updated on your delivery with live tracking, ensuring you know when to set the table. 📍</li>\n<li>🤝 <strong>24/7 Human Customer Service:</strong> Whether you need assistance or just want to talk food, real human support is available round the clock via chat, SMS, phone, or email. 📞</li>\n<li>🌍 <strong>Widespread Availability:</strong> Catering to most U.S. cities, including LA, NYC, Chicago, and more, you're never far from enjoying fresh local dishes. 🏙️</li>\n</ul>\n<h3>Pros:</h3>\n<ul>\n<li>👥 <strong>Support for Independent Restaurants:</strong> ChowNow takes a stance against high commissions, benefiting both customers and local businesses. 💪</li>\n<li>🔎 <strong>Extensive Search Options:</strong> Tailor your search for the perfect meal by deals, cuisine, or restaurant names, with a handy map view for convenience. 🔍</li>\n<li>📲 <strong>User-Friendly Interface:</strong> Intuitive design and functionality make it easy to satisfy your cravings without a hassle. 📱</li>\n<li>📍 <strong>Localized Service:</strong> Focused on finding the best of what's around, you'll discover gems in your neighborhood or when traveling across multiple U.S. locations. 🗺️</li>\n</ul>\n<h3>Cons:</h3>\n<ul>\n<li>👎 <strong>Limited to U.S. Locations:</strong> Currently, the service is only available within the United States, which may not cater to international users. 🗽</li>\n<li>🍽 <strong>Varied Restaurant Participation:</strong> Not all local restaurants may be available on the app, depending on individual partnerships. 🏪</li>\n<li>⏰ <strong>Delivery Times May Vary:</strong> Delivery speed can be inconsistent, largely depending on the restaurant and location. 🕔</li>\n<li>📡 <strong>Dependent on Internet Connectivity:</strong> Real-time features and order tracking require a stable internet connection, which might be a limitation for some. 🌐</li>\n</ul>\n<h3>Price:</h3>\n<p>💵 The ChowNow app is free to download. While there are no markup costs for menu prices, delivery fees, tips, and taxes may still apply based on the restaurant and order specifics.</p>\n<p><em>Due to the nature of the app as a local food ordering service, a 'Community' section is not included in this description.</em> </p>\n<p>Download <a href=\"https://play.google.com/store/apps/details?id=com.chownow.discover\" rel=\"noopener noreferrer\" target=\"_blank\"><strong>ChowNow: Local Food Ordering</strong></a> and embark on a quest to support local businesses while indulging in the convenience and variety of food they have to offer—right at your fingertips.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-buzzfeed-tasty/16927.html",
+      "icon": "assets/img/apk/icon/com.buzzfeed.tasty.png",
+      "name": "Tasty",
+      "categoryLink": "/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-hacklatino-chingon-android/15837.html",
+      "icon": "assets/img/apk/icon/com.hacklatino.chingon.android.png",
+      "name": "Hack Latino",
+      "categoryLink": "/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-postmates-android/4464.html",
+      "icon": "assets/img/apk/icon/com.postmates.android.png",
+      "name": "Postmates - Food Delivery",
+      "categoryLink": "/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-seamlessweb-android-view/4463.html",
+      "icon": "assets/img/apk/icon/com.seamlessweb.android.view.png",
+      "name": "Seamless: Local Food Delivery",
+      "categoryLink": "/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-trycaviar-customer/4462.html",
+      "icon": "assets/img/apk/icon/com.trycaviar.customer.png",
+      "name": "Caviar - Order Food Delivery",
+      "categoryLink": "/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-chownow-discover/4461.html",
+      "icon": "assets/img/apk/icon/com.chownow.discover.png",
+      "name": "ChowNow: Local Food Ordering",
+      "categoryLink": "/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-toasttab-consumer/4460.html",
+      "icon": "assets/img/apk/icon/com.toasttab.consumer.png",
+      "name": "Toast Takeout & Delivery",
+      "categoryLink": "/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/menulog-au/3667.html",
+      "icon": "assets/img/apk/icon/com.menulog.m.png",
+      "name": "Menulog AU",
+      "categoryLink": "/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.2"
+    }
+  ]
+}

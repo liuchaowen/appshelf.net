@@ -1,0 +1,110 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/org.coursera.android.png",
+    "title": "Coursera",
+    "ratings": "4.7",
+    "downloads": "60M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Coursera"
+    },
+    {
+      "name": "category",
+      "value": "Education"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Coursera, Inc."
+    },
+    {
+      "name": "Version",
+      "value": "4.5.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/K-5ha-ePq8ybYQg-kqKIQ1jgZ3LKOOeYZI2TaFNFfiUwlAE3IS2C_98WCVwQmX_wvF0",
+    "https://play-lh.googleusercontent.com/c-Y2Tx_0WAOaWYroJ5cozyMNZttjyOoFABKiYZ4hkEvUciiQjOR393lmwjLasJINY5s",
+    "https://play-lh.googleusercontent.com/8jtRA_xc2hOB07E6rvLV-vYP5BTIx2nUgSsWVs3iZ0U2QzdxxyrwO2sxqEXR-3YZlg",
+    "https://play-lh.googleusercontent.com/h7OZsmSdbDLHbm9tJYvpm1jhU-8Zft3EGM2WQBFtkNuYu4YKB45ISTVPGhDETsujg4k",
+    "https://play-lh.googleusercontent.com/KpIdNujQk4QkZj79_0jp1QHLlmGEb68pEODEgOoOyj5qFG8l0qPwuBxVFmFpahnE4MU",
+    "https://play-lh.googleusercontent.com/nRQa1U2dUQ_rgyIbMNudtJItc9IW6TWkFij_G5IhO8dlEw-Yv6s50HN4zMOFc2M6oJE"
+  ],
+  "app_descript": "<p><strong>Coursera</strong></p>\n<h3>Brief:</h3>\n<p>Coursera is an extensive online learning platform that offers you the flexibility to acquire job-relevant skills and earn recognized qualifications from the comfort of your device. It encompasses a wide array of industry-tailored courses, professional certificate programs, and degrees, aiming to cater to various career advancement goals.</p>\n<h3>Core Features:</h3>\n<ul>\n<li>📖 <strong>Hands-On Learning</strong>: Engage with courses offering practical projects to gain real-world skills. 🛠️</li>\n<li>🏅 <strong>Professional Certificates</strong>: Prepare for in-demand roles with certificates from recognized institutions. 💼</li>\n<li>🎓 <strong>Degree Programs</strong>: Progress in your career with bachelor’s and master’s degrees in various fields. 👩‍🎓</li>\n<li>📱 <strong>Flexible Learning</strong>: Study at your own pace with a mobile-friendly interface and downloadable content. 🕒</li>\n<li>🌍 <strong>Multilingual Subtitles</strong>: Access course content with video subtitles in multiple languages. 🈳</li>\n</ul>\n<h3>Pros:</h3>\n<ul>\n<li>👩‍💻 <strong>Industry-Relevant Content</strong>: Courses designed to equip you with skills needed in today's job market. 📈</li>\n<li>💡 <strong>Wide Range of Subjects</strong>: Explore topics from computer science to business and public health. 🌐</li>\n<li>📂 <strong>Seamless Syncing</strong>: Keep your progress in sync across multiple devices and platforms. 🔄</li>\n<li>🌐 <strong>Offline Accessibility</strong>: Download videos and study even when you're not connected to the internet. 📥</li>\n</ul>\n<h3>Cons:</h3>\n<ul>\n<li>👎 <strong>Cost Barrier</strong>: Some courses and specializations require payment, which might not be affordable for everyone. 💰</li>\n<li>🌱 <strong>Self-Motivation Required</strong>: The self-paced nature might pose a challenge for learners needing a structured environment. 🏋️‍♂️</li>\n<li>🌟 <strong>Varied Quality</strong>: As courses are offered by different institutions, the quality and difficulty level may vary. 🎲</li>\n<li>🌐 <strong>Internet Dependency</strong>: Despite offline materials, initial course content download requires an internet connection. 📶</li>\n</ul>\n<h3>Price:</h3>\n<ul>\n<li>💵 Coursera offers both free and paid content, with some professional certificates and degree programs requiring tuition fees. In-app purchases offer more content and specializations. Pricing details vary depending on the course or program chosen.</li>\n</ul>\n<p><em>Community section not included as Coursera is a non-game app.</em></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-nibble-lesson/54302.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.nibble.lesson.png",
+      "name": "Nibble: Your Bite of Knowledge",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-matlubapps-myiq/54109.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.matlubapps.myiq.png",
+      "name": "IQ & Personality Tests: IQlab",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-home-lifehealthinsurance/48965.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.home.lifehealthinsurance.png",
+      "name": "Life & Health Insurance Exam",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "3.5"
+    },
+    {
+      "link": "/details/pp-paramedic/48959.html",
+      "icon": "https://img.buzzsight.co/apk/icon/pp.paramedic.png",
+      "name": "Paramedic Test Prep 2026",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "3.9"
+    },
+    {
+      "link": "/details/org-truthforlife-app/48953.html",
+      "icon": "https://img.buzzsight.co/apk/icon/org.truthforlife.app.png",
+      "name": "Truth For Life",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-habapps-perstest/39344.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.habapps.perstest.png",
+      "name": "The Personality Test",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-schooltoday-alphaomega/39316.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.schooltoday.alphaomega.png",
+      "name": "Alpha & Omega",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-lucida-androidapp/34758.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.lucida.androidapp.png",
+      "name": "Learn Languages - Lucida AI",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "4.6"
+    }
+  ]
+}

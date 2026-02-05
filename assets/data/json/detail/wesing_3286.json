@@ -1,0 +1,110 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.tencent.wesing.png",
+    "title": "WeSing",
+    "ratings": "4.4",
+    "downloads": "390M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "WeSing"
+    },
+    {
+      "name": "category",
+      "value": "Music & Audio"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Tencent Music Entertainment Hong Kong Limited"
+    },
+    {
+      "name": "Version",
+      "value": "5.70.2.784"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/cJH8nkvlxrrLlpRzwcvn-3cz18I29Q_yswomQ5N84bf4kNWQo541MWIA9kxk1xCJVJs",
+    "https://play-lh.googleusercontent.com/GnrMu__LcChEPOdp5NYZn9hPeEvpmoemNkoQfc71pkK3ZKzWcCAtWuhzDi_4mqnK2E8",
+    "https://play-lh.googleusercontent.com/nLAPQ0e1VHukbLnvaUrWslA4VRhbMtYMjbP1PDq1hrud1G-ao3bvw6DoG8TFu6ZhzM4",
+    "https://play-lh.googleusercontent.com/pMV-U2NDr3xZVliee4ZHuhBKuyVJIqui8o3ZmJQAlWCI518QZxgsPTuMXRNoAHp5Wf8",
+    "https://play-lh.googleusercontent.com/i2bscVUMELf09YCrnsaDauXZxMLru_BxXE6QrAZvl6t1ZTDHNx_aqLLB0qLa_paugg",
+    "https://play-lh.googleusercontent.com/_0eGS99m5cvY0b0t-wm6ZsDMkXjRgTymobQbDGf-UZ7a03KuyeDk3CK-tb6UtFrEow"
+  ],
+  "app_descript": "<p><strong>WeSing: Karaoke Sing &amp; Record</strong></p>\n<hr/>\n<p><strong>Brief:</strong>\nWeSing is an exhilarating karaoke app that allows users to bring their singing fantasy to life. Choose from a plethora of songs, record with fantastic voice effects, and share your musical flair with the world.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🎶 <strong>Vast Song Selection:</strong> Access an extensive library of classic and contemporary hits to sing along to.</li>\n<li>🎤 <strong>Advanced Recording Suite:</strong> Utilize voice effects, pitch correction, and feedback for a professional singing experience.</li>\n<li>🎸 <strong>Sing Your Way:</strong> From singing sections of songs to full-on duets with artists or friends, your performance is in your control.</li>\n<li>🤝 <strong>Community Engagement:</strong> Connect with fellow music enthusiasts, send gifts, make friends, and join a global community.</li>\n<li>💾 <strong>Offline Mode:</strong> Download instrumentals to sing without needing an internet connection.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 <strong>Free to Sing:</strong> Jump into karaoke sessions without any charge.</li>\n<li>👍 <strong>Real-Time Feedback:</strong> Improve your skills with pitch correction and feedback as you sing.</li>\n<li>👍 <strong>Dynamic Discoveries:</strong> Get song recommendations based on your musical taste.</li>\n<li>👍 <strong>Social Sharing:</strong> Easily share your performances across various social platforms and build your fan base.</li>\n<li>👍 <strong>Personalized Albums:</strong> Create albums for your songs, embracing the spotlight as your stage.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 <strong>Device Compatibility:</strong> May require a decent quality microphone or earphones for the best experience.</li>\n<li>👎 <strong>In-App Purchases:</strong> Some features could be limited unless you make in-app purchases.</li>\n<li>👎 <strong>Data Privacy Concerns:</strong> As with any social app, sharing personal performances could raise privacy issues.</li>\n<li>👎 <strong>Internet Dependence:</strong> While offline mode exists, an internet connection is required for most social features.</li>\n<li>👎 <strong>Learning Curve:</strong> New users may need time to navigate and make full use of the editing and recording tools.</li>\n</ul>\n<p><strong>Price:</strong>\n💵 WeSing offers its core platform for free. However, there may be in-app purchases for additional features or to access premium content. The detailed pricing structure will be available within the app.</p>\n<p><strong>Community:</strong></p>\n<ul>\n<li>🕸️ <a href=\"https://www.tencent.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Official Website</a></li>\n<li>🕸️ <a href=\"https://www.youtube.com/\" rel=\"noopener noreferrer\" target=\"_blank\">YouTube</a></li>\n<li>🕸️ <a href=\"https://www.instagram.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Instagram</a></li>\n<li>🕸️ <a href=\"https://twitter.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a></li>\n<li>🕸️ <a href=\"https://discord.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Discord</a></li>\n<li>🕸️ <a href=\"https://www.facebook.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Facebook</a></li>\n<li>🕸️ <a href=\"https://www.tiktok.com/\" rel=\"noopener noreferrer\" target=\"_blank\">TikTok</a></li>\n<li>🕸️ <a href=\"https://www.reddit.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Reddit</a></li>\n</ul>\n<p>Feel the rhythm, connect with music lovers, and let your voice be heard with WeSing – a hub for karaoke enthusiasts and aspiring singers alike!</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-simmusic-oldjpop/49056.html",
+      "icon": "assets/img/apk/icon/com.simmusic.oldjpop.png",
+      "name": "昭和の名曲 - 70年代/80年代名曲, 昭和の歌謡曲",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-bigsoft-voicereverse-audiochanger/39378.html",
+      "icon": "assets/img/apk/icon/com.bigsoft.voicereverse.audiochanger.png",
+      "name": "Funny Voice Reverse",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "3.1"
+    },
+    {
+      "link": "/details/com-realdrum-drumset-drumapp-beatmaker-music-instruments-drumkit/16783.html",
+      "icon": "assets/img/apk/icon/com.realdrum.drumset.drumapp.beatmaker.music.instruments.drumkit.png",
+      "name": "Learn Drum - Pad & Beat Maker",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-musicplayer-mp3-audio-mymusic-player/15795.html",
+      "icon": "assets/img/apk/icon/com.musicplayer.mp3.audio.mymusic.player.png",
+      "name": "Music Player & MP3 - MMusic",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/com-ai-sound-donna/15626.html",
+      "icon": "assets/img/apk/icon/com.ai.sound.donna.png",
+      "name": "Donna AI Song & Music Maker",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-vanniktech-rssreader/15328.html",
+      "icon": "assets/img/apk/icon/com.vanniktech.rssreader.png",
+      "name": "RSS Reader Offline | Podcast",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-voicechanger-supereffect-soundeffect/14158.html",
+      "icon": "assets/img/apk/icon/com.voicechanger.supereffect.soundeffect.png",
+      "name": "Voice Changer: Audio Effect",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/org-cru-womans-herbible/14124.html",
+      "icon": "assets/img/apk/icon/org.cru.womans.herbible.png",
+      "name": "her.BIBLE Women's Audio Bible",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    }
+  ]
+}

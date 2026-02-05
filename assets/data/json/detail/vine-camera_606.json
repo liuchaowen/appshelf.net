@@ -1,0 +1,108 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/vine.png",
+    "title": "Vine Camera",
+    "ratings": "4.9",
+    "downloads": "260M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Vine Camera"
+    },
+    {
+      "name": "category",
+      "value": "Video Players & Editors"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Twitter, Inc."
+    },
+    {
+      "name": "Version",
+      "value": "5.34.2"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/XArM78aZNlLTS_vkKGGpLXk9uV7T8I4fI0wKcgye7INpaKGAnk00l1AyNKaJ1DOke0E",
+    "https://play-lh.googleusercontent.com/Ij1Okx0i4hE4aWSXA7tmg2KNNefSVWd1JM7_2cA4kSu-wFHCeiAH-aIZIkqKxc9Bqg",
+    "https://play-lh.googleusercontent.com/9THzGvOhAmczdcA8Y3tMIIjSQzIYBcHjCQB_NakHlh7sqqiiFlvt1CsVXRIeGeIl7fs0",
+    "https://play-lh.googleusercontent.com/P76Iq-VvPsmsp4nI4O7Z-rMGOL3GGNUSrMUBesMttSaR8wdu4Wg2xcWaxaMgwimjNfZR"
+  ],
+  "app_descript": "<h3>Vine Camera</h3>\n<h4>Brief</h4>\n<p>Vine Camera, formerly known as simply Vine, is an innovative app that lets you dive into an endless array of short, looping videos. With the app, you explore the creative work of others, craft your own unique Vines, and engage with a community that's as diverse as it is dynamic. Sharing your creations or favorite finds on other social platforms is streamlined, making it easy to spark a viral trend or catch up with what's buzzing in the micro-video universe.</p>\n<h4>Core Features 📌</h4>\n<ul>\n<li><strong>Explore the Universe</strong>: Delve into the best that Vine has to offer, discovering content that's both wildly original and refreshingly creative.</li>\n<li><strong>Be a Creator</strong>: Produce your own 6-second Vines with the app's user-friendly tools and potentially become part of the platform’s evergreen content legends.</li>\n<li><strong>Social Integration</strong>: Seamlessly share your Vines or those you admire, across other social media platforms, enabling a broader audience reach for your content.</li>\n<li><strong>Trending Pulse</strong>: Stay updated with \"Popular Now\" and \"On the Rise\" sections to know what's making waves in real-time across the Vine universe.</li>\n<li><strong>Enhanced Performance</strong>: Enjoy the latest version, which brings crucial performance improvements and bug fixes for a smoother user experience.</li>\n</ul>\n<h4>Pros 👍</h4>\n<ul>\n<li><strong>Instant Entertainment</strong>: Access to an infinite loop of entertainment that's updated with new content constantly.</li>\n<li><strong>Creative Outlet</strong>: The perfect platform to express yourself in a concise and creative way, thanks to the 6-second format.</li>\n<li><strong>Engagement Tools</strong>: Use features like revining to engage with other content creators and amplify your presence on the platform.</li>\n<li><strong>Multiplatform Availability</strong>: The app's compatibility with Android, iOS, and Windows Phone ensures a wide range of device support.</li>\n</ul>\n<h4>Cons 👎</h4>\n<ul>\n<li><strong>Content Limitations</strong>: The 6-second format may restrict the depth and complexity of content you can create or view.</li>\n<li><strong>Competitive Scene</strong>: Standing out can be a challenge due to the sheer volume of users and content.</li>\n<li><strong>Short-Form Specific</strong>: Those seeking longer-form content may find the app's focus on brief clips limiting.</li>\n<li><strong>Learning Curve</strong>: New users may take some time to learn how to effectively create and edit compelling Vines.</li>\n</ul>\n<h4>Pricing 💵</h4>\n<p>Vine Camera is a free app, providing access to all its features without any initial cost. However, there might be in-app adverts that support the platform financially without mandating purchases from users.</p>\n<p><em>Note: The app description provided did not mention in-app purchases, hence it is assumed that the app operates on an ad-supported model without a premium tier.</em></p>\n<p><a href=\"https://play.google.com/store/apps/details?id=co.vine.android\" rel=\"noopener noreferrer\" target=\"_blank\">Download Vine Camera on Android</a></p>\n<p><em>Due to the nature of Vine Camera being a video creation and sharing platform rather than a game, a Community section is not applicable for this description.</em></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-video-newslideshow/53956.html",
+      "icon": "assets/img/apk/icon/com.video.newslideshow.png",
+      "name": "Music Video Maker Magic Effect",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-prominent-aicatch/49088.html",
+      "icon": "assets/img/apk/icon/com.prominent.aicatch.png",
+      "name": "AI Catch: AI Video Generator",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-asianmobile-smartplayer/34766.html",
+      "icon": "assets/img/apk/icon/com.asianmobile.smartplayer.png",
+      "name": "IPTV Player: Smarters Watch TV",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "3.1"
+    },
+    {
+      "link": "/details/halloween-video-maker/34753.html",
+      "icon": "assets/img/apk/icon/halloween.video.maker.png",
+      "name": "Halloween Video Editor 2025",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-cupertinotech-aidancevideo/16075.html",
+      "icon": "assets/img/apk/icon/com.cupertinotech.aidancevideo.png",
+      "name": "AI Dance Video - Photo Dance",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "2.4"
+    },
+    {
+      "link": "/details/com-instagram-basel/15556.html",
+      "icon": "assets/img/apk/icon/com.instagram.basel.png",
+      "name": "Edits, an Instagram app",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/downloader-video-download-free/10303.html",
+      "icon": "assets/img/apk/icon/downloader.video.download.free.png",
+      "name": "Video Downloader & Video Saver",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-renderforest-videomaker/10142.html",
+      "icon": "assets/img/apk/icon/com.renderforest.videomaker.png",
+      "name": "Renderforest Video & Animation",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.5"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/uber.png",
+    "title": "Uber",
+    "ratings": "4.4",
+    "downloads": "180M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Uber"
+    },
+    {
+      "name": "category",
+      "value": "Maps & Navigation"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Uber Technologies, Inc."
+    },
+    {
+      "name": "Version",
+      "value": "4.494.10000"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/1WNKtLv8BVpy7SO8-6fWff5OKRXsI_-iuDEK0sBjk8crCmhcVW6qQt_LmWJO8uX1zjk",
+    "https://play-lh.googleusercontent.com/DzwPEySmGES3TpuX2102rRHGTVM7D_hoc0f472Q-v1kPPxll6NLBX_yKzOmTNsZSbbc",
+    "https://play-lh.googleusercontent.com/aNQPKhbp8fKX9ZI3dGQ5CSzL7_qcRX2dT8h_qYSnWkfvb0ua5_eat8UJ2IP2b5zaucI",
+    "https://play-lh.googleusercontent.com/pMvkPuiceVzaiIzE7p4ExuLpRUheiVTTQzqXqnFSCVuUxcFH5W7BR6VlTshideNL9QM",
+    "https://play-lh.googleusercontent.com/pt7H5LzDWKE8fZal6k0fsBdAu3g6CpiaD3Mih9TiqEVjHnxbBTuQVgY4c3izbAR9Qrc",
+    "https://play-lh.googleusercontent.com/-kl43lWNkuudKPuF0JiKW1EcAlnZmEHTWXnkv1YRzvwRZvjY3Hzbh_ivfXhBF8QEOA",
+    "https://play-lh.googleusercontent.com/A9cRIv1BO6waua1_Y_ULWjVwlUUoJ97kE17gqe6ePyhGONhgDWsb7FGznZXfK1tYBpum",
+    "https://play-lh.googleusercontent.com/ukP9JuMsem41grCYWjWMEWUdfR1dmmJ9e0z_1YexGTxhR2VMEj3wvJeG9_mYK9KPgFY",
+    "https://play-lh.googleusercontent.com/T2HINcMN_C1H-H0r_6tArZCBmTFzVaH0odU5f9aw57RTXVoQPhLQXlGvqNw7dMKJWg",
+    "https://play-lh.googleusercontent.com/uhVRp7aszH6G2I1jgEf6G_v9PWlrmxCXP5BNj6hKbem2upSaHkKdbpk2Cn65NWGo3eY",
+    "https://play-lh.googleusercontent.com/1HV3lAOVieZFKRXA2Kn4ztAxd0qI-BImtPugUQ6gXW4mIc7dmV-pOBGAP5VQTOSxCw",
+    "https://play-lh.googleusercontent.com/FpBDSLncj9zo9oPnlBGcsQdJqncKx0ZjHEo6Nyh1ZLG4-FNGl5DZNpV2J40sn_4Pdpxd",
+    "https://play-lh.googleusercontent.com/RCZWNAM6w9CQ3xyb7TdOGYCVNQ6I0xPj0Jg_geOXCS8gDjMn0lGskqeB94Ylah6vcl8X",
+    "https://play-lh.googleusercontent.com/JQkeSWd4z5vvkx2WFEga4nqVwVEn0GV2QdF7tWYWNzoUDVWbHmRwYktipmoDUT18CfCX",
+    "https://play-lh.googleusercontent.com/vdqKNk4HbxmEi1ItiLXjuEEBiMrXYZH36Qv38HVZo9B-0cx-pRlmAcJ6JfgxKJ2c5Ps",
+    "https://play-lh.googleusercontent.com/FmdLOjdqY0060eZwpdiTwKpWgjznIBUDvj72abPIgpAyXF3oOFVAnCjH2Uvb6MeqFSc",
+    "https://play-lh.googleusercontent.com/LZFae6oMdWtTC_iP6WOOf0Tr-lmwNPA192J1GzdiZ71GG4LxuAY655y5o00MjXyLx-U",
+    "https://play-lh.googleusercontent.com/IGhzz3pxUb1I5_sitEOPaxuuHJdy1jClCYgU5QG2dlhx79gjkleDupZci2jeQsG_V3U",
+    "https://play-lh.googleusercontent.com/eNddzvI4e24gdVQLVAysK_xRLCQ0_Zjsr_GuCLCwcjd6JTwkyz1LSjufql6nOu98Cg",
+    "https://play-lh.googleusercontent.com/6ApefyBkdxIm-TGVqzxk34PX3jFyc6qeyvh-4VxlbiDqFDdsg2xeDHFmUzF4dSS0OiQ",
+    "https://play-lh.googleusercontent.com/FDvgvuvJ31UPnoGrx2Yuo_BYryXEbMFxD1Gyjbsp6P_Mepbumaulum50O16Gb6UaSog",
+    "https://play-lh.googleusercontent.com/YkJ5Ng6aHmXHLBG0c866SvfGqWHKUn_aEuLLZ8gVxdeoBn0bZWDzI3HTUOkGq73vFg",
+    "https://play-lh.googleusercontent.com/aN_rHhWn4qeQ6hQ7yz9A6cYIDzraREBqGysp3vCDbaPvnleBhXQiMaaCqrpA-Rns",
+    "https://play-lh.googleusercontent.com/JCizt7GRXykvDJIECDkjHIv_K-OcjNdT_8LD7ACaPDjauMnjJuT6GywEtbIDOw6VAw"
+  ],
+  "app_descript": "<p><strong>Uber</strong></p>\n<p><strong>Brief:</strong>\nUber operates as a versatile ride-hailing app that seamlessly connects riders with drivers. Developed by Uber Technologies, Inc., with its headquarters in San Francisco, the app prides itself on providing efficient, high-end travel solutions. Designed for simplicity, Uber ensures users can book a ride with ease and receive fare information promptly post-trip.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🚗 <strong>Ease of Use:</strong> Uber's user-friendly interface facilitates effortless navigation and ride-hailing anytime, offering a reliable solution for transportation needs. 📌</li>\n<li>📉 <strong>Cost Transparency:</strong> Passengers are informed about the cost after reaching their destinations, promoting transparency in fare structure. 📌</li>\n<li>🌎 <strong>Global Presence:</strong> Operational in over 55 countries and 300 cities, Uber enables users to find rides in diverse locations with a simple tap. 📌</li>\n<li>🚘 <strong>Wide Vehicle Selection:</strong> Whether it's a Toyota Prius, Volkswagen Jetta, or a luxury car such as Lincoln or Cadillac, Uber caters to a range of preferences and needs. 📌</li>\n<li>🏆 <strong>Superior Service:</strong> With professional drivers and a commitment to safety, Uber strives to deliver an exceptional travel experience. 📌</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 <strong>Convenience:</strong> Accessible round the clock, aiding customers to avoid being late and missing important events or transport connections.</li>\n<li>👍 <strong>Regular Promotions:</strong> Periodic coupon offerings make Uber an affordable travel option.</li>\n<li>👍 <strong>Driver Tracking:</strong> Passengers can track the driver's location, adding convenience and security to the service.</li>\n<li>👍 <strong>Luxurious Options:</strong> Offers high-end vehicle services, complete with courteous drivers and upscale amenities.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 <strong>Surge Pricing:</strong> Fares can be significantly higher during peak times or in areas with high demand.</li>\n<li>👎 <strong>Availability Concerns:</strong> In some locations, finding a ride can be challenging, especially during busy hours or in less serviced areas.</li>\n<li>👎 <strong>Safety Reports:</strong> There have been instances of safety concerns, although Uber takes steps to address them.</li>\n<li>👎 <strong>Market Variability:</strong> The quality and types of services available can vary substantially between different cities and countries.</li>\n</ul>\n<p><strong>Price:</strong>\n💵 Uber provides free app downloads with variable trip costs based on distance, vehicle choice, and time of day. Riders should expect additional charges during high-demand periods due to surge pricing.</p>\n<p>Please note: The above description offers a neutral overview of Uber's mobile application but does not include a 'Community' section as Uber is a non-game app.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-hundred-qibla-finder/14082.html",
+      "icon": "assets/img/apk/icon/com.hundred.qibla.finder.png",
+      "name": "Qibla Finder Compass 100%",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/kbk-maparea-measure-geo/5067.html",
+      "icon": "assets/img/apk/icon/kbk.maparea.measure.geo.png",
+      "name": "Gps Area Calculator",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "3.9"
+    },
+    {
+      "link": "/details/Offline-Maps-GPS-Speedometer/4633.html",
+      "icon": "assets/img/apk/icon/com.radarapp.trip.speedometer.png",
+      "name": "Offline Maps, GPS, Speedometer",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/Satellite-View-Offline/4620.html",
+      "icon": "assets/img/apk/icon/com.breezeammarathon.viskoproton.grampooffline.png",
+      "name": "Satellite View Offline",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/Rapido/4563.html",
+      "icon": "assets/img/apk/icon/com.rapido.passenger.png",
+      "name": "Rapido",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/CarInfo/4500.html",
+      "icon": "assets/img/apk/icon/com.cuvora.carinfo.png",
+      "name": "CarInfo",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-trailbehind-android-gaiagps-pro/4473.html",
+      "icon": "assets/img/apk/icon/com.trailbehind.android.gaiagps.pro.png",
+      "name": "Gaia GPS: Offroad Hiking Maps",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-gpsnavigation-maps-gpsroutefinder-routemap/4472.html",
+      "icon": "assets/img/apk/icon/com.gpsnavigation.maps.gpsroutefinder.routemap.png",
+      "name": "GPS Navigation: Road Map Route",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    }
+  ]
+}

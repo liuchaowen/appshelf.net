@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.playtube.videotube.tubevideo.png",
+    "title": "Play Tube",
+    "ratings": "4.6",
+    "downloads": "920M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Play Tube"
+    },
+    {
+      "name": "category",
+      "value": "Video Players & Editors"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "play tube video mp3 download"
+    },
+    {
+      "name": "Version",
+      "value": "1.0.7"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h1>Play Tube - Music &amp; Videos</h1>\n<h3>Brief</h3>\n<p>Play Tube offers a fantastic way for users to dive into the world of online video and music streaming. With a focus on YouTube content, Play Tube provides an enriched experience for watching and listening to a vast array of media. Its user-friendly interface and an additional floating player feature enhance the enjoyment of media consumption on-the-go.</p>\n<h3>Core Features 🌟</h3>\n<ul>\n<li>🎵 Collection of favorite videos: Create a personal library filled with the videos and music you love.</li>\n<li>🎞️ Unlimited YouTube videos and music: Access to an endless amount of content at your fingertips.</li>\n<li>🕒 Popup mode (floating player): Multi-task without missing a beat with a floating video player.</li>\n<li>🔍 Search functionality: Easily find videos, channels, and playlists to suit your tastes.</li>\n<li>🎧 Listen to YouTube videos: An experimental feature that turns visual content into an audio experience. 📝</li>\n</ul>\n<h3>Pros 👍</h3>\n<ul>\n<li>📚 Store and organize a personal collection of videos: Perfect for creating tailored playlists.</li>\n<li>🚀 On-demand access to YouTube's vast library: All the music and videos you could ask for, ready when you are.</li>\n<li>🆓 Free usage: Enjoy millions of videos and music tracks at no cost.</li>\n<li>🖼️ Video details display: Obtain key information about the videos you watch—enhancing viewer insight.</li>\n</ul>\n<h3>Cons 👎</h3>\n<ul>\n<li>🔒 YouTube API limitations: Bound by YouTube's rules, certain features like video caching and screen-off playback are not available.</li>\n<li>📱 Data consumption: Streaming video and music can use significant data, which could be a concern for those without unlimited plans.</li>\n<li>❗ Content Restriction Issues: Users may face restrictions with copyrighted materials.</li>\n<li>💤 No background play when the screen is off: The app follows YouTube's guidelines, so you can't listen to music with the screen turned off.</li>\n</ul>\n<h3>Price 💵</h3>\n<ul>\n<li>The app is free to use but be mindful of potential data usage costs from your service provider.</li>\n</ul>\n<p>By downloading Play Tube, you're stepping into a world where millions of free music tracks and videos are right at your fingertips. Enjoy the best of YouTube with enhanced functionality and immerse yourself in an endless stream of media content anytime, anywhere.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-video-newslideshow/53956.html",
+      "icon": "assets/img/apk/icon/com.video.newslideshow.png",
+      "name": "Music Video Maker Magic Effect",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-prominent-aicatch/49088.html",
+      "icon": "assets/img/apk/icon/com.prominent.aicatch.png",
+      "name": "AI Catch: AI Video Generator",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-asianmobile-smartplayer/34766.html",
+      "icon": "assets/img/apk/icon/com.asianmobile.smartplayer.png",
+      "name": "IPTV Player: Smarters Watch TV",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "3.1"
+    },
+    {
+      "link": "/details/halloween-video-maker/34753.html",
+      "icon": "assets/img/apk/icon/halloween.video.maker.png",
+      "name": "Halloween Video Editor 2025",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-cupertinotech-aidancevideo/16075.html",
+      "icon": "assets/img/apk/icon/com.cupertinotech.aidancevideo.png",
+      "name": "AI Dance Video - Photo Dance",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "2.4"
+    },
+    {
+      "link": "/details/com-instagram-basel/15556.html",
+      "icon": "assets/img/apk/icon/com.instagram.basel.png",
+      "name": "Edits, an Instagram app",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/downloader-video-download-free/10303.html",
+      "icon": "assets/img/apk/icon/downloader.video.download.free.png",
+      "name": "Video Downloader & Video Saver",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-renderforest-videomaker/10142.html",
+      "icon": "assets/img/apk/icon/com.renderforest.videomaker.png",
+      "name": "Renderforest Video & Animation",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.5"
+    }
+  ]
+}

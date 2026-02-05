@@ -1,0 +1,111 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/uk.co.icectoc.customer.png",
+    "title": "LNER",
+    "ratings": "4.3",
+    "downloads": "150M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "LNER"
+    },
+    {
+      "name": "category",
+      "value": "Travel & Local"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "London North Eastern Railway Limited"
+    },
+    {
+      "name": "Version",
+      "value": "4.8.3"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/hbkcD6NB9_eedC6g9NdaqWVODmyhB9Yh8nf6_27ot8O0JQiuOZcKcxBpvjcFezYyuA",
+    "https://play-lh.googleusercontent.com/z4fl9U5Ie-b5okfK6W79HOCPIUWOLaCed2XHvHUz29y7V5d0Qd8lu9EoAXpd_C7gmxk",
+    "https://play-lh.googleusercontent.com/pjNxMgZV1WkyZgA9XHoRRakAByvuWDzuPTzozFqkM6_FRoA1I01UHENIo4DTdHHcLVw",
+    "https://play-lh.googleusercontent.com/fZ0qWkwornAkGSpwm2mu_eItMogaOobfyOV5tfnVUAd20S-TH7xQn-tQDGuUdIIG9Q",
+    "https://play-lh.googleusercontent.com/jkTZeAD8IfTP37lrMKsiK8vjWx2m0Aq-33Vey1MuKdIiyAcq24J0F5k_NkscHPuDUQ",
+    "https://play-lh.googleusercontent.com/1oOCjRAwLqWnUKMyUJMFG7wDqSFcE8enqOgJmh0eb-RB54LeziqdAcOibfMEoxSvvao",
+    "https://play-lh.googleusercontent.com/xxdX6kQwIq4dpXfZPExX89oVD7BAunvfFknAvnNapdt5m5MsJiZF54Ltmso0-MRh_Qk"
+  ],
+  "app_descript": "<h3>LNER - London North Eastern Railway</h3>\n<p>Embark on a seamless and comfortable journey across the East Coast of Great Britain with the LNER mobile app. As the official train operator of the East Coast Main Line, LNER's Azuma trains connect key destinations between London and Scotland, making stops in bustling cities like London King’s Cross, Peterborough, York, Leeds, Newcastle, and Edinburgh Waverley. The app is designed not just to make train ticket purchases effortless, but to enhance your entire travel experience with its user-friendly features.</p>\n<h4>Core Features 🚆</h4>\n<ul>\n<li><strong>Contactless eTickets</strong>: Enjoy the convenience of digital ticketing and skip the queues with LNER's eTicket option.</li>\n<li><strong>LNER Perks</strong>: Sign up for LNER's loyalty scheme to earn a £5 bonus and receive 2% credit back on all journeys.</li>\n<li><strong>Seat Selection</strong>: Personalize your travel by selecting your preferred seat on the train.</li>\n<li><strong>Journey Notifications</strong>: Stay updated with real-time travel notifications and have quick access to your tickets.</li>\n<li><strong>Group Travel Discounts</strong>: Travel in groups of 3-9 and enjoy reduced ticket fares with no booking fees. </li>\n</ul>\n<h4>Pros 👍</h4>\n<ul>\n<li><strong>Best Price Assurance</strong>: With LNER's Price Promise, rest assured you're getting the cheapest tickets available.</li>\n<li><strong>Surprise Rewards</strong>: Discover additional treats and bonuses as you use the app and travel with LNER.</li>\n<li><strong>User-Friendliness</strong>: The intuitive interface offers station suggestions based on your location and enables one-click payments.</li>\n<li><strong>Informative Updates</strong>: The LNER Assistant keeps you informed about platform numbers, any journey alterations, and service amendments like onboard catering changes.</li>\n</ul>\n<h4>Cons 👎</h4>\n<ul>\n<li><strong>Limited Geographic Service</strong>: The services and benefits apply distinctly to the East Coast Main Line.</li>\n<li><strong>Connectivity Dependency</strong>: Real-time features require an Internet connection which may be a challenge while on the move.</li>\n<li><strong>LNER Exclusive</strong>: Loyalty rewards can only be redeemed on LNER services and may not appeal to those using multiple rail networks.</li>\n<li><strong>Device Compatibility</strong>: User experience may vary based on the compatibility of your mobile device with the app's features.</li>\n</ul>\n<h4>Pricing 💵</h4>\n<p>The LNER app is free to download and use. It promises no booking fees, ensuring that the ticket price you see is the final amount you pay. In-app purchases are not mentioned, implicating that all app features are offered at no additional cost upon download.</p>\n<p>Embark on a journey of convenience and efficiency with the LNER app, your trusted companion on the East Coast Main Line. Happy travels!</p>\n<p><a href=\"https://play.google.com/store/apps/details?id=uk.co.icectoc.customer\" rel=\"noopener noreferrer\" target=\"_blank\">Download the LNER app</a></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-bp-app-bpme-global-ros/16042.html",
+      "icon": "assets/img/apk/icon/com.bp.app.bpme.global.ros.png",
+      "name": "earnify",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/kulana-tools-vacationcountdown/10380.html",
+      "icon": "assets/img/apk/icon/kulana.tools.vacationcountdown.png",
+      "name": "Vacation Countdown App",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-disney-playdisneyparks-goo/4681.html",
+      "icon": "assets/img/apk/icon/com.disney.playdisneyparks.goo.png",
+      "name": "Play Disney Parks",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-hornblower-statuecruises/4679.html",
+      "icon": "assets/img/apk/icon/com.hornblower.statuecruises.png",
+      "name": "Statue Cruises",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-usnpw-grca/4678.html",
+      "icon": "assets/img/apk/icon/com.usnpw.grca.png",
+      "name": "Grand Canyon National Park",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/MakeMyTrip-Hotels-Flight-Bus/4591.html",
+      "icon": "assets/img/apk/icon/com.makemytrip.png",
+      "name": "MakeMyTrip Hotels, Flight, Bus",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/ConfirmTkt/4570.html",
+      "icon": "assets/img/apk/icon/com.confirmtkt.lite.png",
+      "name": "ConfirmTkt",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/Bus-Train-Ticket-Booking-App/4503.html",
+      "icon": "assets/img/apk/icon/in.redbus.android.png",
+      "name": "Bus, Train Ticket Booking App",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.9"
+    }
+  ]
+}

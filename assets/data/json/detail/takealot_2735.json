@@ -1,0 +1,111 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/fi.android.takealot.png",
+    "title": "Takealot",
+    "ratings": "4.6",
+    "downloads": "770M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Takealot"
+    },
+    {
+      "name": "category",
+      "value": "Shopping"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "TAKEALOT.com"
+    },
+    {
+      "name": "Version",
+      "value": "2.5.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/myomJ3bZDuL74ESNsVPt2yY_XmUBoQsD1ZRj1R04NfUphPvpGezMdboiEXHU4JzGMGk",
+    "https://play-lh.googleusercontent.com/ligTTxmj9_6amrfWsyCsjtBrIqs_923vsZpGka9tvAxulVAA0R1iBmPVYGl3q4hqYw",
+    "https://play-lh.googleusercontent.com/qVtvMpAc2rJJqzKimdQrA7gkqjq_fJAVLwDsqykvZG-kD3O3dcxzEIC2la6-mLdVaMk",
+    "https://play-lh.googleusercontent.com/LbFepkCSIKOyNHLJknqwAewXYnT2f7djDecFzxvMDVEl679coum14KQto23mcfRJDqM",
+    "https://play-lh.googleusercontent.com/dQHemS-wY8qP4UGLV3tUlbQVC1VhHzMGxfOBQqzeBZAusCjZZTn-EgnCDRfttye6le-D",
+    "https://play-lh.googleusercontent.com/VGyGVEexRzX0vaZzMB_29oYA3H60iJBR3tnKnTIhI2Q7XMa_lmafEsi0TN_rliagAg",
+    "https://play-lh.googleusercontent.com/qDSeiNTqocOtO3NkhcBKDB9ZV8jwT_8RaNaeI4IAkbVcLPtSRKHBOdk9cTlJ6HHC5yc"
+  ],
+  "app_descript": "<h1>Takealot: South Africa's Leading Online Store</h1>\n<h3>Brief</h3>\n<p>Discover the ultimate convenience in online shopping with Takealot, South Africa's premier online retailer. With millions of products at your fingertips, Takealot offers a wide range of items across 28 departments, from technology to groceries, ensuring a seamless shopping experience from search to delivery.</p>\n<h3>Core Features</h3>\n<ul>\n<li>🛍️ <strong>Vast Product Selection</strong>: Shop millions of products across diverse categories like tech, home appliances, beauty, and groceries 🛒.</li>\n<li>🤑 <strong>Daily Deals &amp; Discounts</strong>: Access a plethora of daily discounts, app-exclusive deals, and price checks to ensure you get the best value 💸.</li>\n<li>🔒 <strong>Secure Shopping</strong>: Enjoy safe payment options and secure login with biometric authentication 🛡️.</li>\n<li>🚚 <strong>Reliable Delivery</strong>: Benefit from fast, reliable, and contactless delivery to any location within South Africa, with free shipping on orders over R450 🏠.</li>\n<li>🔄 <strong>Hassle-Free Returns</strong>: Experience the ease of returning products if they don't meet your expectations without any trouble 🔄.</li>\n</ul>\n<h3>Pros</h3>\n<ul>\n<li>👍 <strong>Convenient Shopping</strong>: Make purchases anytime, anywhere with just a few taps on your device 📱.</li>\n<li>👍 <strong>Competitive Pricing</strong>: Find unbeatable prices and compare them with in-store items using the barcode scanner feature 🔍.</li>\n<li>👍 <strong>Easy Product Sharing</strong>: Share products easily via email, social media, or messaging 💬.</li>\n<li>👍 <strong>Order Tracking</strong>: Keep tabs on your purchase from checkout to your doorstep ✅.</li>\n</ul>\n<h3>Cons</h3>\n<ul>\n<li>👎 <strong>Delivery Constraints</strong>: Free shipping requires a minimum spend which may not suit all buyers 🚛.</li>\n<li>👎 <strong>App Exclusivity on Some Deals</strong>: Certain discounts may only be accessible through the app, potentially excluding non-app users 📵.</li>\n<li>👎 <strong>Geographical Limitation</strong>: The service is currently exclusive to South Africa, which limits accessibility for international customers 🗺️.</li>\n<li>👎 <strong>Product Overwhelm</strong>: The sheer number of items available could be overwhelming for some users to navigate 🤯.</li>\n</ul>\n<h3>Price</h3>\n<ul>\n<li>💵 The Takealot app is free to download with a variety of items available for purchase. Be aware of in-app deals and minimum purchase requirements for free shipping.</li>\n</ul>\n<h3>Community</h3>\n<p><em>Unfortunately, the community information for Takealot is not available within this summary.</em></p>\n<hr/>\n<p>Indulge in a world of convenience with Takealot - from gadgets to essentials, get everything delivered to your door. Download the app and start shopping today!</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-seagm-store/54458.html",
+      "icon": "assets/img/apk/icon/com.seagm.store.png",
+      "name": "SEAGM - Games Topup, Gift Card",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-gowish-app/39285.html",
+      "icon": "assets/img/apk/icon/com.gowish.app.png",
+      "name": "GoWish - Your Digital Wishlist",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-aldisued-shopgo/16934.html",
+      "icon": "assets/img/apk/icon/com.aldisued.shopgo.png",
+      "name": "ALDI SHOP&GO",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.2"
+    },
+    {
+      "link": "/details/com-wakefern-shoprite/16933.html",
+      "icon": "assets/img/apk/icon/com.wakefern.shoprite.png",
+      "name": "ShopRite: Groceries & Savings",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-yaxo-vancamper/16894.html",
+      "icon": "assets/img/apk/icon/com.yaxo.vancamper.png",
+      "name": "Vancamper: Buy sell campervans",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/com-elfster-elfdroid/16861.html",
+      "icon": "assets/img/apk/icon/com.elfster.elfdroid.png",
+      "name": "Elfster: The Secret Santa App",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-biggu-shopsavvy/16860.html",
+      "icon": "assets/img/apk/icon/com.biggu.shopsavvy.png",
+      "name": "ShopSavvy - Barcode Scanner",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/moloapps-gifttracker/16845.html",
+      "icon": "assets/img/apk/icon/moloapps.gifttracker.png",
+      "name": "GiftTracker : Gift List Helper",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.1"
+    }
+  ]
+}

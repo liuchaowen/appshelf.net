@@ -1,0 +1,110 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/lyft.png",
+    "title": "Lyft",
+    "ratings": "4.4",
+    "downloads": "100M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Lyft"
+    },
+    {
+      "name": "category",
+      "value": "Maps & Navigation"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Lyft, Inc."
+    },
+    {
+      "name": "Version",
+      "value": "6.38.3.1593001991"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/fkpAvgK-a15JTffY3LG6tonJFsLzNnT6uGsjGUwKDM4pv23XTITZbrCiZjJ0kcdptQ",
+    "https://play-lh.googleusercontent.com/9Ozhv0ZTrjhKtcmcdA6TL6jGxz1-Y2S3LynfmhVKE0xT3abbMCxYJeSxRxfREHTddKGL",
+    "https://play-lh.googleusercontent.com/hv2dufiS9Ik45-XSA_k5WXZ8u2CDBoWyLkjDcRfd9uTrhMoJWc9CQRVUQcDTQPR8PnQ",
+    "https://play-lh.googleusercontent.com/_nF2l5DVj8pHaDPNZNg3bApAZSSEcnZIRDqt1f9n9Dt-lHIBZma9CJi9oCNyJksMuPA",
+    "https://play-lh.googleusercontent.com/G1yPnl-ry0MdOEzrnhxpf2eoVY-F2sY8CQo59-slMeh6SoJ1IKAWFyMr4odHuHv6DQ",
+    "https://play-lh.googleusercontent.com/u6SrBpBwEiLYx8OEkXfO2f2T0svM5wW5-myOx42b8okI5NAb0Z5w8D8-FZlKPepPpo0"
+  ],
+  "app_descript": "<p><strong>Lyft</strong></p>\n<p><strong>Brief:</strong>\nLyft elevates personal transportation by offering a reliable and user-friendly ride-sharing service. With its latest update, Lyft enhances user convenience with a new suite of maintenance and emergency services. Now, in addition to providing regular ride services, users in the US can request a tow truck, reserve parking with SpotHero, and schedule car maintenance at Goodyear Auto centers, all through the app. Experience effortless transit, whether you're darting across town or arranging your vehicle's upkeep.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li><strong>Maintenance &amp; Parking Services</strong> 🛠️: Users can request tow services, reserve parking spots via SpotHero, and book maintenance at Goodyear Auto centers directly in the app.</li>\n<li><strong>Multiple Ride Options</strong> 🚗: Choose from a variety of ride types, including Lyft, Lyft Line, or Lyft Plus, depending on your needs and party size.</li>\n<li><strong>Safe Travel</strong> 🛡️: Lyft commits to safety by connecting you with thoroughly vetted and top-rated drivers for a secure journey.</li>\n<li><strong>Hassle-free Payment</strong> 💳: Seamless payment process post-ride, along with the feature to rate your driver, ensuring continuous service quality.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li><strong>Convenience at Fingertips</strong> 👌: Access to both ride-sharing and car maintenance services in one app.</li>\n<li><strong>Cost-Efficiency</strong> 💰: More economical than traditional taxis and often faster than public transport.</li>\n<li><strong>Easy Use</strong> 📱: Intuitive app design makes booking a ride or other service straightforward.</li>\n<li><strong>Reliable Safety Standards</strong> 🔒: Strong emphasis on rider safety with responsible drivers and real-time ride tracking.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li><strong>Service Area Limitation</strong> 🗺️: The new maintenance and tow services may be restricted to certain regions.</li>\n<li><strong>Surge Pricing</strong> 📈: Ride costs can dramatically increase during peak times or in areas of high demand.</li>\n<li><strong>Data Privacy Concerns</strong> 🕵️: Collecting user data for personalized services can raise privacy issues for some individuals.</li>\n<li><strong>Dependence on Driver Availability</strong> 🚖: Sometimes, there may be longer waits or lack of available drivers, affecting service reliability.</li>\n</ul>\n<p><strong>Pricing:</strong>\n💵 Lyft ride services operate on a variable pricing model determined by time of day, demand, and distance. The app itself is free to download. Specific costs for maintenance services, parking reservations, and tow services are available within the app, with prices subject to change based on the provider.</p>\n<p><strong>Community:</strong></p>\n<ul>\n<li><strong>Official Site:</strong> <a href=\"https://www.lyft.com\" rel=\"noopener noreferrer\" target=\"_blank\">Lyft</a></li>\n<li><strong>YouTube Channel:</strong> Currently unavailable</li>\n<li><strong>Related Popular YouTuber's Channel:</strong> Currently unavailable</li>\n<li><strong>Most Followed Instagrammer:</strong> Currently unavailable</li>\n<li><strong>Twitter:</strong> <a href=\"https://twitter.com/lyft\" rel=\"noopener noreferrer\" target=\"_blank\">Lyft Twitter</a></li>\n<li><strong>Discord:</strong> Currently unavailable</li>\n<li><strong>Facebook:</strong> <a href=\"https://www.facebook.com/lyft\" rel=\"noopener noreferrer\" target=\"_blank\">Lyft Facebook</a></li>\n<li><strong>TikTok:</strong> Currently unavailable</li>\n<li><strong>Reddit:</strong> <a href=\"https://www.reddit.com/r/Lyft/\" rel=\"noopener noreferrer\" target=\"_blank\">Lyft Reddit Community</a></li>\n<li><strong>Fandom Wiki Site:</strong> Currently unavailable</li>\n</ul>\n<p>Whether you're in need of a quick ride across the city or seeking assistance with your vehicle, Lyft's expanded services aim to provide comprehensive mobility solutions with the tap of a button.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-hundred-qibla-finder/14082.html",
+      "icon": "assets/img/apk/icon/com.hundred.qibla.finder.png",
+      "name": "Qibla Finder Compass 100%",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/kbk-maparea-measure-geo/5067.html",
+      "icon": "assets/img/apk/icon/kbk.maparea.measure.geo.png",
+      "name": "Gps Area Calculator",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "3.9"
+    },
+    {
+      "link": "/details/Offline-Maps-GPS-Speedometer/4633.html",
+      "icon": "assets/img/apk/icon/com.radarapp.trip.speedometer.png",
+      "name": "Offline Maps, GPS, Speedometer",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/Satellite-View-Offline/4620.html",
+      "icon": "assets/img/apk/icon/com.breezeammarathon.viskoproton.grampooffline.png",
+      "name": "Satellite View Offline",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/Rapido/4563.html",
+      "icon": "assets/img/apk/icon/com.rapido.passenger.png",
+      "name": "Rapido",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/CarInfo/4500.html",
+      "icon": "assets/img/apk/icon/com.cuvora.carinfo.png",
+      "name": "CarInfo",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-trailbehind-android-gaiagps-pro/4473.html",
+      "icon": "assets/img/apk/icon/com.trailbehind.android.gaiagps.pro.png",
+      "name": "Gaia GPS: Offroad Hiking Maps",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-gpsnavigation-maps-gpsroutefinder-routemap/4472.html",
+      "icon": "assets/img/apk/icon/com.gpsnavigation.maps.gpsroutefinder.routemap.png",
+      "name": "GPS Navigation: Road Map Route",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    }
+  ]
+}

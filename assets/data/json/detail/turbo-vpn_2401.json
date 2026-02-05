@@ -1,0 +1,108 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/free.vpn.unblock.proxy.turbovpn.png",
+    "title": "Turbo VPN",
+    "ratings": "4.8",
+    "downloads": "750M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Turbo VPN"
+    },
+    {
+      "name": "category",
+      "value": "Tools"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Innovative Connecting"
+    },
+    {
+      "name": "Version",
+      "value": "3.7.1"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/gyw7GDzoIt-xS46ER3LnpvuIYPHQW4WlQWOVoBtuJmaHlKeAXvY4uFEP_ZgehQ45ceyf",
+    "https://play-lh.googleusercontent.com/3m486pmfzmSUM0dxCT0WpQTf3tR4N5nXRgPs3964ZDGx8VI4cKfoan5wczMvS7PfK1I",
+    "https://play-lh.googleusercontent.com/-xELtuU7wJMoOvAOGGf6u4gc0SkoDFk6m0xSR-LGzd3zFlJu7ibI_R_pRJQVRizm2w",
+    "https://play-lh.googleusercontent.com/ule2E53ul08S1Kkw49Ak1gBocX_gz-I0nzAkt8hwarTjnU7CrFQS5DLlWTc86ztf7Q"
+  ],
+  "app_descript": "<p><strong>Turbo VPN – Free VPN Proxy Server &amp; Secure Service</strong></p>\n<p><strong>Brief:</strong>\nTurbo VPN offers a secure browsing experience by allowing you to bypass firewalls, particularly useful in restricted wifi areas such as schools. It masks your online activities, providing anonymity and protecting your data under any network condition, be it WiFi, LTE, or 3G.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🏫 Bypass Firewalls: Access content behind firewalls, perfect for school and workplace restrictions.</li>\n<li>🕵️‍♂️ Private Browsing: Surf the web anonymously without being tracked and enjoy private browsing.</li>\n<li>🌐 Broad Compatibility: Works across various data carriers including WiFi, LTE, 3G, and mobile data.</li>\n<li>🔒 Secure Encryption: Utilizes OpenVPN protocols (UDP / TCP) to ensure data is encrypted.</li>\n<li>📥 Easy Download: A lightweight app that is free to download and easy to install.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 User-Friendly Interface: Designed for ease of use, making secure browsing accessible to all.</li>\n<li>👍 No-Log Policy: Enhances privacy as it does not track user activities.</li>\n<li>👍 Global Servers: Offers a variety of servers worldwide for improved speed and reliability.</li>\n<li>👍 No Tracking or Tracing: Ensures your online presence is anonymous, preventing tracking.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 In-App Advertisements: Free version may include ads which can be intrusive.</li>\n<li>👎 Limited Features in Free Version: Some advanced features may require a subscription.</li>\n<li>👎 No Service in China: Due to policy reasons, the service is not available in China.</li>\n<li>👎 Speed Variability: Speed might fluctuate depending on server load and location.</li>\n</ul>\n<p><strong>Price:</strong>\n💵 Free to download with in-app purchases available for premium features and an ad-free experience.</p>\n<p>For detailed terms of use and privacy policy, please refer to: <a href=\"https://www.turbovpn.co/static/privacy_policy_turbovpn.html\" rel=\"noopener noreferrer\" target=\"_blank\">Turbo VPN Privacy Policy</a>.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-antique-snap-identifier-appraisal/54309.html",
+      "icon": "assets/img/apk/icon/com.antique.snap.identifier.appraisal.png",
+      "name": "Antique Identifier - Appraisal",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-age-calculator-life-countdown/54243.html",
+      "icon": "assets/img/apk/icon/com.age.calculator.life.countdown.png",
+      "name": "Age Calculator・Life Expectancy",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.4"
+    },
+    {
+      "link": "/details/com-xv-agecalc/54237.html",
+      "icon": "assets/img/apk/icon/com.xv.agecalc.png",
+      "name": "AgeCalc: Date Life Calculator",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-palm-ai-decode-destiny-soul-futurelines-handline/54206.html",
+      "icon": "assets/img/apk/icon/com.palm.ai.decode.destiny.soul.futurelines.handline.png",
+      "name": "Palm AI: Decode Destiny",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/rbx-robuxcalc-getrbx-freecounter/53839.html",
+      "icon": "assets/img/apk/icon/rbx.robuxcalc.getrbx.freecounter.png",
+      "name": "RBX Calc - Get Robuxcounter",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-internetoptimizer-speedtest-wifispeedtest-netspeed-wifipassword-wifispeed/49027.html",
+      "icon": "assets/img/apk/icon/com.internetoptimizer.speedtest.wifispeedtest.netspeed.wifipassword.wifispeed.png",
+      "name": "Internet Optimizer",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.9"
+    },
+    {
+      "link": "/details/com-blazingappstudio-speed_test_pro/49021.html",
+      "icon": "assets/img/apk/icon/com.blazingappstudio.speed_test_pro.png",
+      "name": "Speed Test - Wifi Optimizer",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-secret-camera-hidden-detector/39728.html",
+      "icon": "assets/img/apk/icon/com.secret.camera.hidden.detector.png",
+      "name": "Hidden Camera & IR Detector",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    }
+  ]
+}

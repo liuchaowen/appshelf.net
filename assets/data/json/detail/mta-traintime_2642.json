@@ -1,0 +1,112 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.mta.mobileapp.png",
+    "title": "MTA TrainTime",
+    "ratings": "4.8",
+    "downloads": "1B",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "MTA TrainTime"
+    },
+    {
+      "name": "category",
+      "value": "Maps & Navigation"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "MTA (Metropolitan Transportation Authority)"
+    },
+    {
+      "name": "Version",
+      "value": "8.1.2"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/IHSWisbgyqnKx_ErPvBlyLPiV3Vw_X4xAp68BixZlXeUvl7gWTIuuJEvG18em1LSqXA",
+    "https://play-lh.googleusercontent.com/NjbgTJOzLrToM3idTqbxkN-WwrYcY0BLjVMZC2vnwzn7o5giC-sXDj4bPeXLhD25Vzg",
+    "https://play-lh.googleusercontent.com/IN9sELeqPdTsVl13JORPNmRePnX_9b08CWgR8BB5S7ClNl9bBtljhQddCrip2S33K14",
+    "https://play-lh.googleusercontent.com/w5wl1Gr4hN6BfXORSG1cPS1OlLq9W-mqWZSUy-5t7KgXQHaFxwF0VYStXCsuvb6tOw",
+    "https://play-lh.googleusercontent.com/1gjiVAhpsXz4NSRxUiiESuiPUuoI4HVhYVIX3cy4ogNdvhihwu7iPuBy7az0DP7nYf-5",
+    "https://play-lh.googleusercontent.com/9WohXLYIIcDCX7cc8deAopIpUqKqUvBAi2TMBhnNNNL7yS9PRCXjHRDkTLu9Z8ir5g",
+    "https://play-lh.googleusercontent.com/74xdFM3LY5vu2C7byB3re09sH-Vus4UPB61B9GKrpAggBXM45mpJpdf7A9gofTazZqU",
+    "https://play-lh.googleusercontent.com/QudoOizGDQqsDKQG-O0EDVAIce4pcWgt9FuINRb-OQxq0mMgK8dlUbAnQzCMa_7EFqUS"
+  ],
+  "app_descript": "<h1>MTA TrainTime</h1>\n<p>Embark on a seamless journey through the heart of New York City with MTA TrainTime, the quintessential app for navigating the metropolitan transit system with confidence and ease.</p>\n<h3>📌 Core Features:</h3>\n<ul>\n<li><strong>Trip Planner</strong>: Optimize your travel with schedules, track assignments, and crowd insights. 🗓️</li>\n<li><strong>Live Train Locator</strong>: Track the exact position of your train and arrival predictions on-the-go. 🚄</li>\n<li><strong>Seat Checker</strong>: Gauge seat availability in each car for added comfort during rush hour. 💺</li>\n<li><strong>Instant Alerts</strong>: Stay ahead with direct service alerts tailored to your trip. 🔔</li>\n<li><strong>Customer Chat</strong>: Access real-time assistance from MTA customer service within the app. 💬</li>\n<li><strong>Station Intel</strong>: Obtain crucial station details including departures, facilities status, and ticketing hours. 🏢</li>\n<li><strong>Trip Sharing</strong>: Effortlessly send travel plans to family and friends. 🔄</li>\n</ul>\n<h3>👍 Pros:</h3>\n<ul>\n<li><strong>Efficiency</strong>: Comprehensive trip planning tools make travel planning quick and effective. ⏱️</li>\n<li><strong>Real-time Data</strong>: Dynamic updates on trains and seats keep you informed in real time. 📡</li>\n<li><strong>Communication Ease</strong>: Integrated chat enhances customer support without app-switching hassle. 🗨️</li>\n<li><strong>Personalized Alerts</strong>: Targeted alerts ensure relevance to your specific journey. 👁️</li>\n<li><strong>Informative</strong>: Detailed station information aids in better transit decisions. 🛤️</li>\n</ul>\n<h3>👎 Cons:</h3>\n<ul>\n<li><strong>Locality Limit</strong>: Primarily serves the NYC area; not useful for commuters in other regions. 🌆</li>\n<li><strong>Connectivity Dependent</strong>: Real-time features require a stable internet connection. 📶</li>\n<li><strong>Mobile-Only</strong>: Accessibility limited to the app, with no desktop counterpart. 📱</li>\n<li><strong>Space Requirement</strong>: May consume significant storage space on devices. 💾</li>\n<li><strong>Alert Overload</strong>: Potential for too many alerts, which could be distracting. 🔕</li>\n</ul>\n<h3>💵 Price:</h3>\n<p>MTA TrainTime is a <strong>free</strong> app to download and use, ensuring all its core features are accessible without any cost. There may be standard data charges depending on your mobile plan when using real-time features.</p>\n<hr/>\n<p>Craft your New York transit experience with precision and get from point A to B with the knowledge and convenience that only MTA TrainTime can provide. Whether you're a daily commuter or an occasional visitor, this app is your digital companion for navigating the concrete jungle's railways. Download MTA TrainTime now and take control of your travel around the Big Apple! 🗽🚊⭐</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-hundred-qibla-finder/14082.html",
+      "icon": "assets/img/apk/icon/com.hundred.qibla.finder.png",
+      "name": "Qibla Finder Compass 100%",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/kbk-maparea-measure-geo/5067.html",
+      "icon": "assets/img/apk/icon/kbk.maparea.measure.geo.png",
+      "name": "Gps Area Calculator",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "3.9"
+    },
+    {
+      "link": "/details/Offline-Maps-GPS-Speedometer/4633.html",
+      "icon": "assets/img/apk/icon/com.radarapp.trip.speedometer.png",
+      "name": "Offline Maps, GPS, Speedometer",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/Satellite-View-Offline/4620.html",
+      "icon": "assets/img/apk/icon/com.breezeammarathon.viskoproton.grampooffline.png",
+      "name": "Satellite View Offline",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/Rapido/4563.html",
+      "icon": "assets/img/apk/icon/com.rapido.passenger.png",
+      "name": "Rapido",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/CarInfo/4500.html",
+      "icon": "assets/img/apk/icon/com.cuvora.carinfo.png",
+      "name": "CarInfo",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-trailbehind-android-gaiagps-pro/4473.html",
+      "icon": "assets/img/apk/icon/com.trailbehind.android.gaiagps.pro.png",
+      "name": "Gaia GPS: Offroad Hiking Maps",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-gpsnavigation-maps-gpsroutefinder-routemap/4472.html",
+      "icon": "assets/img/apk/icon/com.gpsnavigation.maps.gpsroutefinder.routemap.png",
+      "name": "GPS Navigation: Road Map Route",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    }
+  ]
+}

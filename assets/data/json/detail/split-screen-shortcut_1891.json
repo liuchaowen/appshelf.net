@@ -1,0 +1,110 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.github.ericytsang.multiwindow.app.android.png",
+    "title": "Split Screen Shortcut",
+    "ratings": "4.2",
+    "downloads": "940M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Split Screen Shortcut"
+    },
+    {
+      "name": "category",
+      "value": "Productivity"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "etsang"
+    },
+    {
+      "name": "Version",
+      "value": "2.13.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/8_fAbR8FYsmQf56o2DBbpkNOgN6Z9OHdQCSl5RwTJlc5jRAAqk-z2ezJdxrv6ZrTn1Q",
+    "https://play-lh.googleusercontent.com/SKZfkVltDChdYxdo0JcGjlaciQgs72O1fcyvzw5VulsVoIcnyLI4yimZNM9IxsAboA",
+    "https://play-lh.googleusercontent.com/xEpVl_PeUJqRbVUxV492NM6TwjVuoeNR0SoWc1aFb_i_SLT6IQGAkzQg-pMG48SEOp0",
+    "https://play-lh.googleusercontent.com/75s6bGdIyjuOLASrGJukefo3MyzGigTFRcBCIEBQ0ueMTalSpB8Azol6RoORnEGAtDo",
+    "https://play-lh.googleusercontent.com/x24rArtr9zVCgJOR7UOaMXLIFb39ctjzfuxPUJj2pDZqaGgrkNMDwUK7xHnlbjET8RM",
+    "https://play-lh.googleusercontent.com/qQCoxG2SgTPc1R3CdqHgZxZvMqghSK_TeL793-sY8uDwbwEDuo7r9x9rXJchqre3XQ"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> Split Screen Shortcut<br/>\n<strong>Package Name:</strong> com.github.ericytsang.multiwindow.app.android  </p>\n<p><strong>Brief:</strong>\nSplit Screen Shortcut is an intuitive application designed to enhance multitasking on Android devices by providing quick and customizable access to the system's split-screen functionality. With various shortcuts at the user's disposal, toggling in and out of split-screen mode becomes more seamless, allowing for efficient usage of multiple apps simultaneously.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🚀 Customizable Shortcuts: Enable split-screen through long-press actions on home, back, or overview buttons.</li>\n<li>🛠️ Accessibility Features: Activate split-screen via the accessibility button for easy use.</li>\n<li>🔔 Notification Interaction: Commence split-screen from a simple tap within the notification drawer.</li>\n<li>📌 Pinnable Shortcuts: Leverage third-party apps like Automate to toggle split-screen with pinned shortcuts.</li>\n<li>⚙️ Additional Settings: The \"Emulate home press on split\" option enhances the multitasking experience.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 Enhanced Productivity: Streamline the workflow by using two apps concurrently with easy toggling.</li>\n<li>👍 User Customization: Tailor the activation of split-screen mode to your individual preferences.</li>\n<li>👍 Efficient Multitasking: Improves the usability of Android's native split-screen mode.</li>\n<li>👍 Quick Accessibility: Optimize split-screen access with various activation methods.</li>\n<li>👍 Third-Party App Compatibility: Integrates perfectly with apps designed to automate functions.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 Device Limitations: May not support all Android devices, especially older versions.</li>\n<li>👎 Learning Curve: New users may need time to familiarize themselves with the shortcuts.</li>\n<li>👎 Potential Interference: Conflicts may arise with other accessibility or system apps.</li>\n<li>👎 Battery Usage: Could lead to increased battery consumption due to constant readiness.</li>\n<li>👎 Overcomplexity: Some users might find the range of shortcut options unnecessarily complicated.</li>\n</ul>\n<p><strong>Price:</strong></p>\n<ul>\n<li>💵 The app appears to be free, but specific details about in-app purchases (if any) are not provided.</li>\n</ul>\n<p><strong>Community:</strong>\nAs this is a utility app and not a game, the community section is not included. </p>\n<hr/>\n<p>Utilize Split Screen Shortcut for a boosted Android multitasking experience. Get it now and transform the way you interact with your device.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-takeofflabs-fontmaker/54188.html",
+      "icon": "assets/img/apk/icon/com.takeofflabs.fontmaker.png",
+      "name": "Fontmaker - Font Keyboard App",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-game-console-emulator/39577.html",
+      "icon": "assets/img/apk/icon/com.game.console.emulator.png",
+      "name": "Gamu: Retro Game Hub",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/app-itwingtech-power_of_mind-predicator/39340.html",
+      "icon": "assets/img/apk/icon/app.itwingtech.power_of_mind.predicator.png",
+      "name": "Mind Test: Test My Brain",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-pdfreader-pdfeditor-scandocu-pro-app-amb/16953.html",
+      "icon": "assets/img/apk/icon/com.pdfreader.pdfeditor.scandocu.pro.app.amb.png",
+      "name": "PDFPro: Scanner & Editor",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "3.8"
+    },
+    {
+      "link": "/details/ai-perplexity-app-android/16744.html",
+      "icon": "assets/img/apk/icon/ai.perplexity.app.android.png",
+      "name": "Perplexity - Ask Anything",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-safeshellvpn/16639.html",
+      "icon": "assets/img/apk/icon/com.safeshellvpn.png",
+      "name": "SafeShell VPN: Fast & Secure",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-roblox-skin-cloth-freeskins/16603.html",
+      "icon": "assets/img/apk/icon/com.roblox.skin.cloth.freeskins.png",
+      "name": "Clothes Skin For Roblox",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-underthing-focus-friend/16526.html",
+      "icon": "assets/img/apk/icon/com.underthing.focus.friend.png",
+      "name": "Focus Friend by Hank Green",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.7"
+    }
+  ]
+}

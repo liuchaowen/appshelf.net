@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/com.nbadigital.gametimelite.png",
+    "title": "NBA",
+    "ratings": "4.8",
+    "downloads": "720M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "NBA"
+    },
+    {
+      "name": "category",
+      "value": "Sports"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "NBA Digital"
+    },
+    {
+      "name": "Version",
+      "value": "2019.7.1"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h3>NBA Official App</h3>\n<p>Keep a pulse on the high-intensity world of NBA basketball with the official NBA app. Whether you're a die-hard fan following your favorite team or a fantasy league enthusiast trying to stay on top of the game, the NBA app keeps you close to the action in Orlando and beyond, covering all the buzz and excitement from the court.</p>\n<h4>📌 Core Features:</h4>\n<ul>\n<li><strong>Live Access:</strong> Subscribe to NBA League Pass and NBA TV for live game coverage and exclusive content. 🏀</li>\n<li><strong>TNT Overtime:</strong> Explore alternative live game streams during playoffs at no extra cost. 📡</li>\n<li><strong>Up-to-the-Minute Updates:</strong> Follow real-time stats, highlights, and the latest NBA news. 📊</li>\n<li><strong>NBA Pick’Em Games:</strong> Participate in prediction games to accumulate points and win NBA prizes. 🏆</li>\n<li><strong>Comprehensive Coverage:</strong> The app includes details from every team in the league. 📋</li>\n</ul>\n<h4>👍 Pros:</h4>\n<ul>\n<li><strong>Extensive Team Coverage:</strong> Enjoy content from all NBA teams, including the Orlando Magic, LA Lakers, Boston Celtics, and more. 🌐</li>\n<li><strong>Real-time Information:</strong> Keep abreast of live scores, stats, and updates as they happen. ⏱</li>\n<li><strong>Exclusive Streams:</strong> TNT Overtime gives you more ways to watch during pivotal games. 📺</li>\n<li><strong>Interactive Games:</strong> Engage with the sport by participating in NBA Pick’Em challenges. 🎮</li>\n<li><strong>User-Friendly Interface:</strong> Navigate easily through the app's features and find what you need quickly. ✅</li>\n</ul>\n<h4>👎 Cons:</h4>\n<ul>\n<li><strong>Subscription Required:</strong> NBA League Pass and NBA TV require a paid subscription for full access. 💳</li>\n<li><strong>Regional Blackouts:</strong> Some games may not be available due to regional blackout restrictions. 🚫</li>\n<li><strong>Data Usage:</strong> Streaming live games can consume a significant amount of data. 📶</li>\n<li><strong>In-App Purchases:</strong> While the basic app is free, some features require additional purchases. 💰</li>\n<li><strong>Performance Variability:</strong> User experience may vary depending on device and network connectivity. 📱</li>\n</ul>\n<h4>💵 Price:</h4>\n<p>The NBA app is free to download, but a paid subscription to NBA League Pass and NBA TV is required for complete access to live games and extra features. In-app purchases are also available for certain premium content. 🆓➕💲</p>\n<h4>🕸️ Community:</h4>\n<ul>\n<li>Official Site: <a href=\"https://www.nba.com/\" rel=\"noopener noreferrer\" target=\"_blank\">NBA</a></li>\n<li>YouTube Channel: <a href=\"https://www.youtube.com/nba\" rel=\"noopener noreferrer\" target=\"_blank\">NBA</a></li>\n<li>Popular YouTuber: Channels vary, please check for NBA-related content creators. </li>\n<li>Instagram: <a href=\"https://www.instagram.com/nba/\" rel=\"noopener noreferrer\" target=\"_blank\">NBA</a></li>\n<li>Twitter: <a href=\"https://twitter.com/NBA\" rel=\"noopener noreferrer\" target=\"_blank\">NBA</a></li>\n<li>Discord: Join dedicated NBA servers for live discussion.</li>\n<li>Facebook: <a href=\"https://www.facebook.com/nba\" rel=\"noopener noreferrer\" target=\"_blank\">NBA</a></li>\n<li>TikTok: <a href=\"https://www.tiktok.com/@nba\" rel=\"noopener noreferrer\" target=\"_blank\">NBA</a></li>\n<li>Reddit: <a href=\"https://www.reddit.com/r/nba/\" rel=\"noopener noreferrer\" target=\"_blank\">r/nba</a></li>\n<li>Fandom Wiki: Check fan-based sites for in-depth team and player information. </li>\n</ul>\n<p>Get closer to the hardwood and never miss a dunk, block, or buzzer-beater with the NBA app - your go-to for all things basketball.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-freegame-allgames/54069.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.freegame.allgames.png",
+      "name": "Game Collection : Mini Games",
+      "categoryLink": "/en/categories/sports/45",
+      "category": "Sports",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-ea-gp-tacticalfootball/39509.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.ea.gp.tacticalfootball.png",
+      "name": "EA SPORTS FC™ Tactical",
+      "categoryLink": "/en/categories/sports/45",
+      "category": "Sports",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-Dino-GalaxySoccer/39364.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.Dino.GalaxySoccer.png",
+      "name": "Galaxy Soccer :Rematch 3v3",
+      "categoryLink": "/en/categories/sports/45",
+      "category": "Sports",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-espn-score_center/16830.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.espn.score_center.png",
+      "name": "ESPN",
+      "categoryLink": "/en/categories/sports/45",
+      "category": "Sports",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-gymclassvr/16685.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.gymclassvr.png",
+      "name": "Gym Class VR: Companion App",
+      "categoryLink": "/en/categories/sports/45",
+      "category": "Sports",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/com-vividgames-realboxing2/16683.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.vividgames.realboxing2.png",
+      "name": "Real Boxing 2",
+      "categoryLink": "/en/categories/sports/45",
+      "category": "Sports",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-ea-gp-maddennfl21mobile/16482.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.ea.gp.maddennfl21mobile.png",
+      "name": "Madden NFL 26 Mobile Football",
+      "categoryLink": "/en/categories/sports/45",
+      "category": "Sports",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-doubletapsoftware-soccer-realtime-sports/16412.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.doubletapsoftware.soccer.realtime.sports.png",
+      "name": "Soccer Battle -  PvP Football",
+      "categoryLink": "/en/categories/sports/45",
+      "category": "Sports",
+      "rating": "4.3"
+    }
+  ]
+}

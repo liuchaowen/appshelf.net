@@ -1,0 +1,112 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/za.co.thefuse.android.png",
+    "title": "The Fuse",
+    "ratings": "4",
+    "downloads": "330M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "The Fuse"
+    },
+    {
+      "name": "category",
+      "value": "News & Magazines"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "VodaMedia"
+    },
+    {
+      "name": "Version",
+      "value": "1.1.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/VCb24EdfzVZfxqou3RB7Ejkyz9b4Eojo42lSNEHm1vn_h1zcSjndLWgLcwiBAhRDBg",
+    "https://play-lh.googleusercontent.com/D82CuXRvNtlMFp11dyxIFZlmfuFY4GILJxd9k9jTE8KxXz4T02dw53rx8Wc41WLpv0k",
+    "https://play-lh.googleusercontent.com/iPY8S6mmh1dsdLyRMsNLBYpfNbdYRiYcLFije0Tn_Yk_wt1xf74f5X8jG9r1NOCj3-4",
+    "https://play-lh.googleusercontent.com/Iz2iJv8k5gHCij8ojFa7U8O_8hdc0R2UCJNPo0bUkdqzR6nhWzgmkdcb-qbUxfjV0xc",
+    "https://play-lh.googleusercontent.com/s2ydwt6Hst1iSgd9ptDUEl9BfxC8_GF7kQnEeTC3Y3ioEcVQ3fzVgvW-7zhPQwkIeben",
+    "https://play-lh.googleusercontent.com/FjRSgzslkBnk53PROVALDevnpCS2T71RojsD7apbf6YCG_iUAmsvFsvCLXVXonxm-A",
+    "https://play-lh.googleusercontent.com/IRr0D5jJDsSvqdW56zoqKSs549pVnaTM68dnBnJ8DQy9SUj8Kp8V7kpawpazNZzxSZI",
+    "https://play-lh.googleusercontent.com/0vYOG7gAq27HRWIRyFJEh2arORucISFzVlpAEC59ZQw03dru_w_Vs3TDGnTi4fxwWQ"
+  ],
+  "app_descript": "<p><strong>The Fuse</strong></p>\n<p><strong>Brief:</strong>\nThe Fuse is a content-centered app that provides users with an immersive experience to personalize their news and story intake. Designed to streamline your daily information feed, The Fuse offers a curated selection to align with your interests, helping you to block out unwanted noise and focus on what matters most to you.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>📚 <strong>Personalized Story Saving:</strong> Bookmark your favorite stories for later enjoyment during your relaxation time 🌟.</li>\n<li>🌐 <strong>Social Media Integration:</strong> Seamlessly share interesting finds with friends across popular social platforms such as WhatsApp, Facebook, and Twitter 💬.</li>\n<li>🛡️ <strong>Noise Filter:</strong> Actively block irrelevant content to maintain a high-quality, personalized newsfeed 🔇.</li>\n<li>🚨 <strong>Custom Alerts:</strong> Receive notifications tailored to your preferences for unique content offerings 🔔.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 <strong>Customization:</strong> Create a personal newsfeed filled with content you love.</li>\n<li>👍 <strong>Connectivity:</strong> Share stories that resonate with you directly through the app.</li>\n<li>👍 <strong>Clutter-free Browsing:</strong> Enjoy a focused reading experience without distracting content.</li>\n<li>👍 <strong>Engagement:</strong> Stay engaged with alerts that bring specially curated content to your attention.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 <strong>Learning Curve:</strong> New users may need time to adapt to content filtering features.</li>\n<li>👎 <strong>Notification Management:</strong> Users may need to fine-tune alert settings to avoid potential information overload.</li>\n<li>👎 <strong>Sharing Limitations:</strong> Limited to certain social media platforms, not inclusive of all available options.</li>\n<li>👎 <strong>Content Variety:</strong> The scope of content could be limited depending on the app's sourcing.</li>\n</ul>\n<p><strong>Price:</strong>\n💵 The Fuse app is available for free. It does not mention any in-app purchases at this time, ensuring unrestricted access to its primary features without immediate cost.</p>\n<p><em>No community information was provided or is available within the current database, hence, the 'Community' section is omitted.</em></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-app-foapp/15418.html",
+      "icon": "assets/img/apk/icon/com.app.foapp.png",
+      "name": "The Obituary App",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-globalnews-android-novanews/5116.html",
+      "icon": "assets/img/apk/icon/com.globalnews.android.novanews.png",
+      "name": "Global News - Breaking & Local",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/Hindi-News-by-Dainik-Bhaskar/4635.html",
+      "icon": "assets/img/apk/icon/com.ak.ta.dainikbhaskar.activity.png",
+      "name": "Hindi News by Dainik Bhaskar",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/Way2News-News-updates-Election/4625.html",
+      "icon": "assets/img/apk/icon/sun.way2sms.hyd.com.png",
+      "name": "Way2News News updates Election",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/Hindi-News/4507.html",
+      "icon": "assets/img/apk/icon/in.AajTak.headlines.png",
+      "name": "Hindi News",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/TVA-Nouvelles/4479.html",
+      "icon": "assets/img/apk/icon/com.nurun.lcn.png",
+      "name": "TVA Nouvelles",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/uol/3121.html",
+      "icon": "assets/img/apk/icon/br.uol.noticias.png",
+      "name": "UOL",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/local-news/3120.html",
+      "icon": "assets/img/apk/icon/com.opera.app.news.local.png",
+      "name": "Local News",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.5"
+    }
+  ]
+}

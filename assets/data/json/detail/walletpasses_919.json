@@ -1,0 +1,108 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/io.walletpasses.android.png",
+    "title": "WalletPasses",
+    "ratings": "4.6",
+    "downloads": "560M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "WalletPasses"
+    },
+    {
+      "name": "category",
+      "value": "Travel & Local"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Wallet Passes Alliance"
+    },
+    {
+      "name": "Version",
+      "value": "1.2.3"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/eJtACkzMYY3gi5BVhGbfgqa2IniVgYTDUmif1V88Wp-YDjCGxkpZpUMSnqUHEn_9BJw",
+    "https://play-lh.googleusercontent.com/uga4uXJAFMtFoGbkQiLX4plafSJw6Wpx7pH1ea9QmIQvl93oOyh-Wu-afT3BF8U0fw",
+    "https://play-lh.googleusercontent.com/x0e8q9c9Qu3T2XhM16TNn5JAe3bU_43-CRvpRA5g80M1v6IIjoAik9djXqb1duxSWMU",
+    "https://play-lh.googleusercontent.com/xwtvq6hLNTYce_sxncRVauY_LyXP5AQ-QBPve7MUku2qYrzBDYned7xSbpmjU9Nv_g"
+  ],
+  "app_descript": "<h3>WalletPasses</h3>\n<p>WalletPasses is an exceptional app designed to seamlessly integrate with the Wallet/Passbook ecosystem, providing users with a hassle-free way of managing their digital passes. From event tickets to loyalty cards, this app ensures that everything you need is right at your fingertips, enabled by a series of innovative features that enhance your experience.</p>\n<h4>📌 Core Features:</h4>\n<ul>\n<li><strong>Automatic Pass Updates &amp; Change Notifications</strong> - Keep your digital assets up-to-date without manual input, as the app notifies you of any changes 🔔.</li>\n<li><strong>Location-Based Display of Passes</strong> - Get smart display of passes when you need them, triggered by time or your location 📍.</li>\n<li><strong>iBeacon Support</strong> - Experience an advanced, contextually aware system that displays passes through iBeacon technology ⚡.</li>\n<li><strong>Embedded QR Code Scanner</strong> - Quickly and conveniently add passes to your wallet with an in-built scanning feature 📸.</li>\n</ul>\n<h4>👍 Pros:</h4>\n<ul>\n<li><strong>Simplifies Pass Management</strong> - Consolidates all your passes in one place for easy access and organization 📂.</li>\n<li><strong>Real-Time Updates</strong> - Stay informed with prompt notifications for any changes to your passes 🔄.</li>\n<li><strong>Intelligent Display</strong> - The app smartly shows the right pass at the right time based on various triggers 🕒.</li>\n<li><strong>Consortium Backed</strong> - Supported by the Wallet Passes Alliance, ensuring ongoing development and security 🛡️.</li>\n</ul>\n<h4>👎 Cons:</h4>\n<ul>\n<li><strong>Platform Limitation</strong> - Primarily designed to work within the Wallet/Passbook ecosystem, which may not suit all users 📱.</li>\n<li><strong>Device Compatibility</strong> - Certain features like iBeacon may require specific hardware compatibility ⚙️.</li>\n<li><strong>Learning Curve</strong> - New users may need time to fully grasp all the functionalities and features 🤔.</li>\n<li><strong>Dependence on Participating Retailers</strong> - The effectiveness of the app is partially reliant on retailers' and other entities' involvement and support 🏪.</li>\n</ul>\n<h4>💵 Price:</h4>\n<p>WalletPasses is free to download. There are no upfront charges, making it an attractive option for anyone looking to streamline their wallet contents without any additional cost 🆓.</p>\n<p>The WalletPasses app not only modernizes how we carry important tickets and cards but does so with ease and efficiency, making it a must-have for those looking to declutter their physical wallets.</p>\n<p><a href=\"https://play.google.com/store/apps/details?id=io.walletpasses.android\" rel=\"noopener noreferrer\" target=\"_blank\">Download Now</a> and simplify your pocket today!</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-bp-app-bpme-global-ros/16042.html",
+      "icon": "assets/img/apk/icon/com.bp.app.bpme.global.ros.png",
+      "name": "earnify",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/kulana-tools-vacationcountdown/10380.html",
+      "icon": "assets/img/apk/icon/kulana.tools.vacationcountdown.png",
+      "name": "Vacation Countdown App",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-disney-playdisneyparks-goo/4681.html",
+      "icon": "assets/img/apk/icon/com.disney.playdisneyparks.goo.png",
+      "name": "Play Disney Parks",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-hornblower-statuecruises/4679.html",
+      "icon": "assets/img/apk/icon/com.hornblower.statuecruises.png",
+      "name": "Statue Cruises",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-usnpw-grca/4678.html",
+      "icon": "assets/img/apk/icon/com.usnpw.grca.png",
+      "name": "Grand Canyon National Park",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/MakeMyTrip-Hotels-Flight-Bus/4591.html",
+      "icon": "assets/img/apk/icon/com.makemytrip.png",
+      "name": "MakeMyTrip Hotels, Flight, Bus",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/ConfirmTkt/4570.html",
+      "icon": "assets/img/apk/icon/com.confirmtkt.lite.png",
+      "name": "ConfirmTkt",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/Bus-Train-Ticket-Booking-App/4503.html",
+      "icon": "assets/img/apk/icon/in.redbus.android.png",
+      "name": "Bus, Train Ticket Booking App",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.9"
+    }
+  ]
+}

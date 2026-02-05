@@ -1,0 +1,144 @@
+{
+  "category_slug": "educational",
+  "category_num": "8",
+  "url": "/categories/educational/8",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "link": "/"
+    },
+    {
+      "text": "Games",
+      "link": "/games"
+    },
+    {
+      "text": "Educational",
+      "link": ""
+    }
+  ],
+  "title": "Educational GAMES",
+  "total_items": 20,
+  "total_pages": 3,
+  "items": [
+    {
+      "icon": "/assets/img/apk/icon/com.yasapets.xmas.png",
+      "name": "Yasa Pets Christmas",
+      "rating": 4.8,
+      "link": "/details/yasa-pets-christmas/3827.html"
+    },
+    {
+      "icon": "/assets/img/apk/icon/com.coloring.christmas.png",
+      "name": "Christmas Coloring",
+      "rating": 4.8,
+      "link": "/details/christmas-coloring/3829.html"
+    },
+    {
+      "icon": "/assets/img/apk/icon/com.tocaboca.tocalifeworld.png",
+      "name": "Toca Life World",
+      "rating": 4.8,
+      "link": "/details/toca-life-world/3834.html"
+    },
+    {
+      "icon": "/assets/img/apk/icon/mytown.airport.free.png",
+      "name": "My Town",
+      "rating": 4.7,
+      "link": "/details/my-town/3830.html"
+    },
+    {
+      "icon": "/assets/img/apk/icon/mytown.wedding.free.png",
+      "name": "My Town : Wedding Bride Game for Girls",
+      "rating": 4.7,
+      "link": "/details/my-town--wedding-bride-game-for-girls/3831.html"
+    },
+    {
+      "icon": "/assets/img/apk/icon/com.mind.quiz.brain.out.png",
+      "name": "Brain Out",
+      "rating": 4.7,
+      "link": "/details/brain-out/3832.html"
+    },
+    {
+      "icon": "/assets/img/apk/icon/air.com.tutotoons.app.sweetbabygirlchristmas2.free.png",
+      "name": "Sweet Baby Girl Christmas 2",
+      "rating": 4.5,
+      "link": "/details/sweet-baby-girl-christmas-2/3828.html"
+    },
+    {
+      "icon": "/assets/img/apk/icon/com.mochibits.google.leftvsright.png",
+      "name": "Brain Games - Left vs Right",
+      "rating": 4.5,
+      "link": "/details/com-mochibits-google-leftvsright/34807.html"
+    },
+    {
+      "icon": "/assets/img/apk/icon/com.ahaworld.ahaworld.png",
+      "name": "Aha World: Create Stories",
+      "rating": 4.5,
+      "link": "/details/com-ahaworld-ahaworld/4705.html"
+    },
+    {
+      "icon": "/assets/img/apk/icon/com.videoigrice.digitalcircuscoloringadventure.png",
+      "name": "Digital Circus Coloring",
+      "rating": 4.5,
+      "link": "/details/com-videoigrice-digitalcircuscoloringadventure/4708.html"
+    },
+    {
+      "icon": "/assets/img/apk/icon/com.ahaworld.ahaworld.png",
+      "name": "Aha World: Create Stories",
+      "rating": 4.5,
+      "link": "/details/com-ahaworld-ahaworld/4705.html"
+    },
+    {
+      "icon": "/assets/img/apk/icon/com.happytools.learning.kids.games.png",
+      "name": "Bebi: Baby Games for 2-4y kids",
+      "rating": 4.4,
+      "link": "/details/com-happytools-learning-kids-games/14319.html"
+    },
+    {
+      "icon": "/assets/img/apk/icon/com.kahoot.read.png",
+      "name": "Kahoot! Learn to Read by Poio",
+      "rating": 4.3,
+      "link": "/details/kahoot-learn-to-read-by-poio/3826.html"
+    },
+    {
+      "icon": "/assets/img/apk/icon/org.pbskids.gamesapp.png",
+      "name": "PBS KIDS Games",
+      "rating": 4.3,
+      "link": "/details/org-pbskids-gamesapp/4779.html"
+    },
+    {
+      "icon": "/assets/img/apk/icon/com.tocaboca.tocalifeworld.png",
+      "name": "Toca Life World: Build a Story",
+      "rating": 4.2,
+      "link": "/details/com-tocaboca-tocalifeworld/4704.html"
+    },
+    {
+      "icon": "/assets/img/apk/icon/mandala-coloring-pages.png",
+      "name": "Mandala Coloring Pages",
+      "rating": 4.1,
+      "link": "/details/mandala-coloring-pages/3833.html"
+    },
+    {
+      "icon": "/assets/img/apk/icon/com.prodigygame.prodigy.png",
+      "name": "Prodigy Math: Kids Game",
+      "rating": 4.1,
+      "link": "/details/com-prodigygame-prodigy/4776.html"
+    },
+    {
+      "icon": "/assets/img/apk/icon/com.tocaboca.tocakitchen2.png",
+      "name": "Toca Boca Jr",
+      "rating": 4.0,
+      "link": "/details/com-tocaboca-tocakitchen2/4706.html"
+    },
+    {
+      "icon": "/assets/img/apk/icon/com.leapfrog.academy.png",
+      "name": "LeapFrog Academy™ Learning",
+      "rating": 3.6,
+      "link": "/details/com-leapfrog-academy/4778.html"
+    },
+    {
+      "icon": "/assets/img/apk/icon/com.peppapig.worldofpeppapig_g.png",
+      "name": "World of Peppa Pig: Kids Games",
+      "rating": 3.4,
+      "link": "/details/com-peppapig-worldofpeppapig_g/10242.html"
+    }
+  ]
+}

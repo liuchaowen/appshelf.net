@@ -1,0 +1,108 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/mclaren.mobile.png",
+    "title": "McLaren Racing",
+    "ratings": "4.4",
+    "downloads": "690M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "McLaren Racing"
+    },
+    {
+      "name": "category",
+      "value": "Sport"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "McLaren F1"
+    },
+    {
+      "name": "Version",
+      "value": "3.8.3"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/Ba2iccy4H-O1X_iNqKkbODzZBa5ESOvwCUhRLiL0bzxqJEDK6_lG1zsdVGOOvNVTSkU",
+    "https://play-lh.googleusercontent.com/-3fSSws9Hy4NpLM9fnzg18zgKG0xN6rYUIEChp9w1Rv5qmtGurksmfSbk2HqvyjlV2o",
+    "https://play-lh.googleusercontent.com/4Gzg2IGoT9qzqaeplRqd6GMQtmSsSh2xQzZdbNyqZbjttlDhhTiGmezNiGmx5Ovc7bM",
+    "https://play-lh.googleusercontent.com/7OYUTflkaUNvOR5Fe1XCbZJW9RbTFkFWGUhRPCiF9NqzxKqInPI5kLjQxYWpILfDgw"
+  ],
+  "app_descript": "<h3>McLaren Racing App</h3>\n<p><strong>Brief:</strong>\nThe McLaren Racing app is a must-have for any McLaren fan, providing up-to-the-minute updates, behind-the-scenes access, and exclusive content relating to all things McLaren Racing. Dive into a world of high-octane racing where you can follow your favorite drivers and be part of the McLaren team’s journey throughout the racing season.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🗓️ <strong>Live Updates:</strong> Stay current with real-time race and driver insights, along with live polls and comprehensive race reports.</li>\n<li>🤝 <strong>Insider Access:</strong> Engage in regular Q&amp;As and live chats with crucial team members, including drivers, team management, and the pit crew.</li>\n<li>🏁 <strong>Exclusive Content:</strong> Unlock exclusive rewards, enter competitions, and gain opportunities to meet the team or win tour tickets and official merchandise.</li>\n<li>🎈 <strong>Fan-Centric Design:</strong> Developed in collaboration with passionate fans to create an app that's genuinely for the fans, by the fans.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👀 <strong>Close Proximity to the Action:</strong> Get unprecedented access to internal team workings and live discussions for an immersive experience.</li>\n<li>🏎️ <strong>Driver Insights:</strong> Learn more about the drivers through intimate Q&amp;As and insider stories.</li>\n<li>🎉 <strong>Unique Opportunities:</strong> Stand a chance to win unique prizes and unforgettable experiences with the McLaren team.</li>\n<li>💛 <strong>Fan-Driven:</strong> A fan-focused platform that connects and caters to the true enthusiasts of the racing brand.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>📲 <strong>Niche Audience:</strong> Primarily caters to existing McLaren fans, which may not appeal to general racing enthusiasts.</li>\n<li>🔔 <strong>Notification Overload:</strong> With real-time updates, users may experience frequent notifications during active racing periods.</li>\n<li>🌐 <strong>Network Dependency:</strong> High-quality content and live features require consistent internet connectivity.</li>\n<li>🛍️ <strong>Merchandise Temptation:</strong> The exclusive merchandise could encourage spending, making it less wallet-friendly for some users.</li>\n</ul>\n<p><strong>Price:</strong>\n💵 This app is free to download, which allows fans to enjoy a wide array of features without an upfront cost. However, in-app purchases and competitions may lead to additional spending for exclusive items or experiences.</p>\n<p>(Note: Pricing details are based on available information and are subject to change; users should check the app for current details.)</p>",
+  "related_apps": [
+    {
+      "link": "/details/Live-Cricket-TV-WorldCup-2023/4582.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.cricketworldcup.livescore.liveline.png",
+      "name": "Live Cricket TV WorldCup 2023",
+      "categoryLink": "/en/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/Rooter/4571.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.threesixteen.app.png",
+      "name": "Rooter",
+      "categoryLink": "/en/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/Supercars-App/4531.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.supercars.app.png",
+      "name": "Supercars App",
+      "categoryLink": "/en/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/yahoo-fantasy-sports/291.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.yahoo.mobile.client.android.fantasyfootball.png",
+      "name": "Yahoo Fantasy Sports",
+      "categoryLink": "/en/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/live-football-tv-stream-hd/289.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.livefootball.mrsports.tvhd.png",
+      "name": "Live Football Tv Stream HD",
+      "categoryLink": "/en/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/the-masters-golf-tournament/288.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.ibm.events.android.masters.png",
+      "name": "The Masters Golf Tournament",
+      "categoryLink": "/en/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/live-sports-tv-streaming/287.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.tehzeeb.livesports.tv.png",
+      "name": "live sports tv streaming",
+      "categoryLink": "/en/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/onx-hunt/286.html",
+      "icon": "https://img.buzzsight.co/apk/icon/onxmaps.hunt.png",
+      "name": "onX Hunt",
+      "categoryLink": "/en/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.9"
+    }
+  ]
+}

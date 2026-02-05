@@ -1,0 +1,110 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/com.jda.mobility.wfmr.png",
+    "title": "Blue Yonder Workforce",
+    "ratings": "4.8",
+    "downloads": "770M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Blue Yonder Workforce"
+    },
+    {
+      "name": "category",
+      "value": "Business"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Blue Yonder Group, Inc."
+    },
+    {
+      "name": "Version",
+      "value": "2022.2.1"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/bD4XTQoRqHpypgBRarj_MbeQEi0UijfI-d___j9hI4_JVnuRqbZacQRAaq-8ysia2jk",
+    "https://play-lh.googleusercontent.com/54TLmaN92Gm6pkbzLBpAPYeSJxdCLsao9Ys9coSP_XBMU5U7u_pqXAZgsr1BOVC7YPc",
+    "https://play-lh.googleusercontent.com/jH5hH3d3XYuGY64fMcml7HhW3RrJLVK-qC3g01ZP02R33IGZxR1e_X79oZ9lEqlH-w",
+    "https://play-lh.googleusercontent.com/c77ydEbAxK5n3IqWqBMXaCiHT_L6tbrGHw328CJqyY6_kTNjh_fD4bzQETm1PX7_m0w",
+    "https://play-lh.googleusercontent.com/ZGSys-k8d_4o1qr-vHwSuBEWc8Cgd0sKqhS4R0916TBzUd5Yc_h958C4RVCHyr_W480",
+    "https://play-lh.googleusercontent.com/Nan767n8FYD4P5hgpOBT_HsksxK6ByN3WJlSDYT4yXAvzztNgrEPmz2TUSDkjHU6JMkG"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> Blue Yonder Workforce<br/>\n<strong>App Package Name:</strong> com.jda.mobility.wfmr</p>\n<h3>Brief:</h3>\n<p>Blue Yonder Workforce is a specialized application designed to empower users holding a Blue Yonder enterprise license with essential workforce management tools. This app streamlines various aspects of employee workflows, offering a suite of features to manage work hours and review compensation details.</p>\n<h3>Core Features:</h3>\n<ul>\n<li><strong>Unpaired Punches</strong>: Keep track of clock-in and clock-out times to ensure accurate timekeeping and payroll. 🕒</li>\n<li><strong>Pay Summary</strong>: Effortlessly access a detailed summary of your payments, which aids in financial tracking and transparency. 💰</li>\n<li><strong>Profile Management</strong>: Update and manage personal profile information within the app for centralized access to workforce data. 🆔</li>\n</ul>\n<h3>Pros:</h3>\n<ul>\n<li><strong>Timekeeping Accuracy</strong>: Enhances precision in work hour tracking, minimizing payroll discrepancies. 👌</li>\n<li><strong>Financial Insight</strong>: Allows users to view detailed pay information, ensuring a clear understanding of earnings. 🧾</li>\n<li><strong>User Convenience</strong>: The profile management feature makes it easy for employees to access and update their information. 🔧</li>\n<li><strong>Problem Resolution Support</strong>: Provides clear troubleshooting steps in case the app faces loading issues. 🛠️</li>\n</ul>\n<h3>Cons:</h3>\n<ul>\n<li><strong>Enterprise License Required</strong>: Usage is limited to those who hold a valid Blue Yonder enterprise license, restricting access. 🔐</li>\n<li><strong>Potential Technical Glitches</strong>: May encounter loading issues which require manual clearing of app data. 🔄</li>\n<li><strong>User Interface</strong>: The description does not mention the quality of user interface, which may affect user experience. 🖌️</li>\n<li><strong>Limited Features Listed</strong>: While useful, there are only a few features detailed, which may not cover the full range of app capabilities. 📋</li>\n</ul>\n<h3>Price:</h3>\n<p>Please note that while the app's description does not specify pricing, the necessity of a Blue Yonder enterprise license implies that there may be costs associated with its use. Users interested in this application should inquire about any related licensing fees with Blue Yonder directly. 💳</p>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-kj2147575505-app/16858.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.kj2147575505.app.png",
+      "name": "Alpha Omega Consulting",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-hypertide-petscan-v8m/15982.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.hypertide.petscan.v8m.png",
+      "name": "PetScan",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "2"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-animalid-scanner/15981.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.animalid.scanner.png",
+      "name": "Pet Scanner",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-webrange-sendoff-app/15417.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.webrange.sendoff.app.png",
+      "name": "Sendoff Funeral App",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-dyve-countthings/10295.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.dyve.countthings.png",
+      "name": "CountThings from Photos",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "3"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-countthis-count-things-counting-template-counter/5097.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.countthis.count.things.counting.template.counter.png",
+      "name": "Count This・Counting Things App",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-aadi-personalitytraittest/4991.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.aadi.personalitytraittest.png",
+      "name": "Personality Trait Test",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.6"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/GlowRoad/4569.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.localqueen.png",
+      "name": "GlowRoad",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.6"
+    }
+  ]
+}

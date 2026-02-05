@@ -1,0 +1,106 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.blockchainvault.png",
+    "title": "Pi Network",
+    "ratings": "4.4",
+    "downloads": "710M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Pi Network"
+    },
+    {
+      "name": "category",
+      "value": "Social"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "SocialChain"
+    },
+    {
+      "name": "Version",
+      "value": "1.29.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/ApfzVTU6FLH8BwJUylBeD6Nb1KZNrHlyQOXWOSzFbQvxTD22BcXijWoOn0Yw8towsMs",
+    "https://play-lh.googleusercontent.com/PBbZlF5wFU_o1DmYQcEQnjOpXulRXKPuO1810sc2QTQu1wQf9Y4WV7pdeO2kyLAX2zFy"
+  ],
+  "app_descript": "<p><strong>Brief:</strong>\nPi Network is a novel digital currency platform that enables users to mine cryptocurrency from their mobile devices. Operating under the package name com.blockchainvault, the app consists of a community-driven network where members can earn Pi, a new cryptocurrency, while contributing to the network's security and overall growth.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🌍 <strong>Mobile Cryptocurrency Mining:</strong> Users can mine Pi cryptocurrency directly from their mobile devices without the need for expensive hardware.</li>\n<li>🛡️ <strong>Enhanced Security:</strong> The platform emphasizes a secure environment for its user base with security protocols.</li>\n<li>💼 <strong>User-Friendly Interface:</strong> Pi Network features an easy-to-navigate interface suitable for beginners in the cryptocurrency space.</li>\n<li>🤝 <strong>Referral Program:</strong> The app includes a referral system that rewards users for inviting friends to the network.</li>\n<li>📦 <strong>Digital Wallet Integration:</strong> Users have access to an in-app wallet to store their earned Pi cryptocurrency securely. 🏦</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👨‍👩‍👧‍👦 <strong>Community-Oriented:</strong> Designed with a strong focus on building and empowering a community of users.</li>\n<li>✅ <strong>Accessibility:</strong> Enables mining without technical knowledge or investment in specialized hardware.</li>\n<li>🔋 <strong>Low Power Consumption:</strong> Unlike traditional mining, Pi Network's approach is designed to be energy efficient.</li>\n<li>🚀 <strong>Innovative Model:</strong> The app represents an exciting experiment in distributed cryptocurrency systems.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>📈 <strong>Market Uncertainty:</strong> As a new player, the Pi currency's future market value and acceptance are uncertain.</li>\n<li>🔄 <strong>Limited Exchanges:</strong> Currently, Pi is not listed on major cryptocurrency exchanges, which limits its immediate liquidity and usability.</li>\n<li>📜 <strong>Regulatory Clarity:</strong> The evolving landscape of cryptocurrency regulations may affect the app's operations.</li>\n<li>🧐 <strong>Need for Network Growth:</strong> The success and value of Pi are dependent on the network's expansion and adoption rate.</li>\n<li>🤷‍♂️ <strong>Verification Process:</strong> Some users may find the user verification process to be cumbersome or intrusive.</li>\n</ul>\n<p><strong>Price:</strong>\n💵 The Pi Network app is free to download and use. However, users should keep an eye out for any future in-app purchases or services that may come with costs as the platform develops.</p>\n<p><strong>Community:</strong></p>\n<ul>\n<li>Official Site: <a href=\"https://minepi.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Pi Network</a></li>\n<li>YouTube Channel: <a href=\"https://www.youtube.com/channel/UCTJ_X0L9WBcdMf1z_ZMPkYw\" rel=\"noopener noreferrer\" target=\"_blank\">Pi Network</a></li>\n<li>Related Popular YouTuber's Channel: N/A</li>\n<li>Most Followed Instagramer: N/A</li>\n<li>Twitter: <a href=\"https://twitter.com/PiCoreTeam\" rel=\"noopener noreferrer\" target=\"_blank\">Pi Network</a></li>\n<li>Discord: <a href=\"https://discord.com/invite/pi\" rel=\"noopener noreferrer\" target=\"_blank\">Pi Network</a></li>\n<li>Facebook: <a href=\"https://www.facebook.com/PiCoreTeam/\" rel=\"noopener noreferrer\" target=\"_blank\">Pi Network</a></li>\n<li>TikTok: N/A</li>\n<li>Reddit: <a href=\"https://www.reddit.com/r/PiNetwork/\" rel=\"noopener noreferrer\" target=\"_blank\">Pi Network</a></li>\n<li>Fandom Wiki Site: N/A</li>\n</ul>\n<p>Pi Network is striving to carve out its niche in the cryptocurrency world, leveraging the power of social networks to create a secure and inclusive digital currency ecosystem.</p>",
+  "related_apps": [
+    {
+      "link": "/details/jp-cocone-livly/54171.html",
+      "icon": "assets/img/apk/icon/jp.cocone.livly.png",
+      "name": "Livly Island - Adopt Cute Pets",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-daily-festival-photos/39721.html",
+      "icon": "assets/img/apk/icon/com.daily.festival.photos.png",
+      "name": "Daily Festival Photo",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/tv-medal-recorder/39573.html",
+      "icon": "assets/img/apk/icon/tv.medal.recorder.png",
+      "name": "Medal - Gaming Clips",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-ptanktechnology-reincornation/39352.html",
+      "icon": "assets/img/apk/icon/com.ptanktechnology.reincornation.png",
+      "name": "Reincarnation",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-tiktok-lite-go/15392.html",
+      "icon": "assets/img/apk/icon/com.tiktok.lite.go.png",
+      "name": "TikTok Lite - Faster TikTok",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-petmeetly/15275.html",
+      "icon": "assets/img/apk/icon/com.petmeetly.png",
+      "name": "Petmeetly - Pet's Match Finder",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-xingin-xhs/14603.html",
+      "icon": "assets/img/apk/icon/com.xingin.xhs.png",
+      "name": "REDnote—小红书国际版",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-stdev-dissordap/10395.html",
+      "icon": "assets/img/apk/icon/com.stdev.dissordap.png",
+      "name": "Vote Social - Photo Voting VS",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "3.8"
+    }
+  ]
+}

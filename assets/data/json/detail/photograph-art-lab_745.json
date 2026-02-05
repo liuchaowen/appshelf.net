@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.photgr.artlb.png",
+    "title": "Photograph Art Lab",
+    "ratings": "4.5",
+    "downloads": "370M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Photograph Art Lab"
+    },
+    {
+      "name": "category",
+      "value": "Photography"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "LGGUEST"
+    },
+    {
+      "name": "Version",
+      "value": "1.0.1"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>Photograph Art Lab</strong></p>\n<p>Breathe new life into your digital images with Photograph Art Lab, an app dedicated to elevating your photography to professional levels. Unleash your inner artist by blending stunning effects and adding personal touches to make each shot unique.</p>\n<p><strong>Core Features</strong>:</p>\n<ul>\n<li><strong>Diverse Effects</strong>: Transform your photos with a range of effects designed to enhance backgrounds and foregrounds alike 🎨.</li>\n<li><strong>Sticker and Emoji Gallery</strong>: Personalize your pictures with a vast selection of stickers and emojis to convey any mood or message 💬.</li>\n<li><strong>Frames</strong>: Frame your memories perfectly with a variety of styles to choose from 🖼️.</li>\n<li><strong>Advanced Editing Tools</strong>: Fine-tune your photos with sophisticated editing options such as color mixing, curves, levels, and vignette effects 🛠️.</li>\n</ul>\n<p><strong>Pros</strong>:</p>\n<ul>\n<li><strong>Professional Look</strong>: Attain a high-quality aesthetic in your photography with ease 👌.</li>\n<li><strong>Creative Freedom</strong>: A plethora of decorative elements gives you the freedom to express your creativity without limits 🌈.</li>\n<li><strong>User-Friendly Interface</strong>: Navigate through the app’s features with a smooth and intuitive user experience ✨.</li>\n<li><strong>Advanced Editing</strong>: Tailored for both novice and pro photographers, offering tools typically found in professional software 🔍.</li>\n</ul>\n<p><strong>Cons</strong>:</p>\n<ul>\n<li><strong>Learning Curve</strong>: Some advanced tools may require a learning period for complete beginners 🤔.</li>\n<li><strong>Device Compatibility</strong>: Depending on the device, some features may not perform optimally 📱.</li>\n<li><strong>Storage Space</strong>: High-quality effects and stickers might consume more storage space on your device 🗃️.</li>\n<li><strong>Overwhelming Options</strong>: An extensive array of options might be overwhelming for users seeking a simple editing tool 🔄.</li>\n</ul>\n<p><strong>Price</strong>:</p>\n<ul>\n<li><strong>Free with In-App Purchases</strong>: Initial download is free, with additional premium features available for purchase 💵.</li>\n</ul>\n<p>Craft, edit, and perfect your pictures with Photograph Art Lab—a haven for photography enthusiasts and professionals alike. Whether you crave the simplicity of adding emotive stickers or you dive deep into the realms of advanced editing, this app is your palette for creating photographic masterpieces.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-appwallet-coupletraditionaldress/54509.html",
+      "icon": "assets/img/apk/icon/com.appwallet.coupletraditionaldress.png",
+      "name": "Traditional Suit : Change Face",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-appwallet-ValentinesDayFrames/54392.html",
+      "icon": "assets/img/apk/icon/com.appwallet.ValentinesDayFrames.png",
+      "name": "Valentine's Day Photo Frame",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-valentineweek-photo_frames/54386.html",
+      "icon": "assets/img/apk/icon/com.valentineweek.photo_frames.png",
+      "name": "Valentine Day Photo Frame 2026",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/valentine-photo-frame-editor/54380.html",
+      "icon": "assets/img/apk/icon/valentine.photo.frame.editor.png",
+      "name": "Valentine's Day Photo Frame",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-aaptechno-photomaker-republicday/54338.html",
+      "icon": "assets/img/apk/icon/com.aaptechno.photomaker.republicday.png",
+      "name": "Republic day Photo Frame",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/utility-independancephotoframe/54332.html",
+      "icon": "assets/img/apk/icon/utility.independancephotoframe.png",
+      "name": "Republic Day Photo Frames",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-appbench-republicdayphotoframes/54326.html",
+      "icon": "assets/img/apk/icon/com.appbench.republicdayphotoframes.png",
+      "name": "Republic Day Photo Frames",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-themasterapps-happybirthdaywishesimages/54176.html",
+      "icon": "assets/img/apk/icon/com.themasterapps.happybirthdaywishesimages.png",
+      "name": "Happy Birthday & Good Morning",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.8"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/mobile.eaudiologia.png",
+    "title": "Hearing Test",
+    "ratings": "4.9",
+    "downloads": "228M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Hearing Test"
+    },
+    {
+      "name": "category",
+      "value": "Medical"
+    },
+    {
+      "name": "Price",
+      "value": "0"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "e-audiologia.pl"
+    },
+    {
+      "name": "Version",
+      "value": "6.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/6TthZgSEzy3AHLHH-yIY6pQk8mN1fnKd9NzO7yC4ZPzX8Q6ph2o6PU-GT-UmpJpylAs",
+    "https://play-lh.googleusercontent.com/WWmrwsGVnmNBPbqpQ1XvP89DfBlwe303BnNvgTzal7ugS-t_Me2zHyU90kaKDsXw6Ts",
+    "https://play-lh.googleusercontent.com/fLkk7qoKdUL0jGkHu4BHplWfFpIVbtEiZG-Sjrobrm4GW4bqu9pTHJ8HCUkewQMlwIs",
+    "https://play-lh.googleusercontent.com/5CV8h3D80FZv78Vsfdfuqz9_FAHfs4ErTfm-KhaUf5XqSYherFviTi-Ecrd9A1hdyL1l",
+    "https://play-lh.googleusercontent.com/bDmGZXo8ipGD5jKrFl9Kj49FLh0GZCg7ca2k6Vt_AKWgosdc9G2crLTUFGxD4XiteTvM",
+    "https://play-lh.googleusercontent.com/VQggf4e5FQVyFcyJBy3zXKhtjkrylay8h00EN6rHv8XOoFLfwfuHq5LIbdyyypye6pQ",
+    "https://play-lh.googleusercontent.com/bN0Q7LIAXABeyKA4xhYgadsMh2T8xVkpb74z4EQA1A94vKlEMMEAZuZ3NZo46cvT5JAU"
+  ],
+  "app_descript": "<h1>Hearing Test</h1>\n<p><strong>Brief:</strong><br/>\nThe Hearing Test app is a comprehensive tool designed to assist users in evaluating their hearing abilities through a variety of assessments. Featuring essential tests like pure-tone audiometry and the speech intelligibility test, this app empowers individuals to understand their hearing health better.</p>\n<h3>📌 Core Features:</h3>\n<ul>\n<li><strong>Pure-tone Audiometry:</strong> Utilize bundled headphones to assess your hearing threshold and determine the degree of hearing loss based on sound frequency. 🎧</li>\n<li><strong>Digits-in-Noise Test:</strong> Measure speech intelligibility by recognizing digits amidst background noise, providing insights into hearing capabilities in real-world environments. 🔊</li>\n<li><strong>Noise Meter:</strong> Gauge the level of background noise during tests, ensuring optimal testing conditions. 📏</li>\n<li><strong>Calibration Options:</strong> Customize device calibration based on personal testing results or non-standard headphones. ⚙️</li>\n<li><strong>Pro Version Enhancements:</strong> Enjoy features like a local database for offline results and cloud synchronization for easy access across devices. ☁️</li>\n</ul>\n<h3>👍 Pros:</h3>\n<ul>\n<li>User-friendly interface that makes it easy for anyone to navigate and conduct tests. 🌟</li>\n<li>Comprehensive test results help provide a clearer picture of hearing health. ✅</li>\n<li>Ability to print results and add personal notes enhances the utility of the app. 📝</li>\n<li>Offline access with the pro version ensures users can check their hearing status anytime, anywhere. 📱</li>\n<li>Syncing capabilities between devices keeps hearing data up-to-date and accessible. 🔄</li>\n</ul>\n<h3>👎 Cons:</h3>\n<ul>\n<li>Limited features in the free version may restrict usability for some users. ⚠️</li>\n<li>Calibration reliance on specific headphones could lead to inconsistent results if different headphones are used. 🔍</li>\n<li>May require a quiet environment for optimal testing accuracy. 💤</li>\n<li>Users may need to upgrade to the pro version for comprehensive results and functionalities. 💰</li>\n<li>Lacks advanced professional audiological services for deeper analysis. 🧑‍⚕️</li>\n</ul>\n<h3>💵 Price:</h3>\n<p>The app is available for free with the option to upgrade to a Pro version for more advanced features. In-app purchases may apply for additional functionalities.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-stress-test/48991.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.stress.test.png",
+      "name": "Stress Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-procrastination-test/39516.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.procrastination.test.png",
+      "name": "Procrastination Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-bingeeating-test/39303.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.bingeeating.test.png",
+      "name": "Binge Eating Disorder Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-ocd-test/34780.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.ocd.test.png",
+      "name": "OCD Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-healthians-main-healthians/34760.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.healthians.main.healthians.png",
+      "name": "Healthians -Full Body Checkup",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-lbrc-PeriodCalendar/34759.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.lbrc.PeriodCalendar.png",
+      "name": "Period Tracker and Calendar",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/es-jshcd-edadosea/34693.html",
+      "icon": "https://img.buzzsight.co/apk/icon/es.jshcd.edadosea.png",
+      "name": "Bone age",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-devdis/16977.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.devdis.png",
+      "name": "Developmental Disabilities",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.5"
+    }
+  ]
+}

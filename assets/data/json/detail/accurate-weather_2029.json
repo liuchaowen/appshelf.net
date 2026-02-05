@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/com.ntech.live.weather.forecast.widget.png",
+    "title": "Accurate Weather",
+    "ratings": "4.9",
+    "downloads": "410M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Accurate Weather"
+    },
+    {
+      "name": "category",
+      "value": "Weather"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "N Tech, Weather & Radar"
+    },
+    {
+      "name": "Version",
+      "value": "2.0.4"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h1>Accurate Weather Forecast &amp; Widget</h1>\n<h2>Brief</h2>\n<p>Accurate Weather is your one-stop mobile tool for everything meteorological. This beautifully designed app brings you the latest weather updates, from hourly to weekly forecasts, for locations around the globe. Leveraging your phone's GPS and network, it locates you automatically or allows for manual entry of any city worldwide, be it from the towering skyscrapers of New York City to the serene landscapes of Oceania.</p>\n<h2>Core Features</h2>\n<ul>\n<li>📊 <strong>Graphical Weather Charts</strong>: Innovative circle graph design that makes reading weekly, daily, and hourly weather data a breeze 🌪️.</li>\n<li>🌎 <strong>Global Coverage</strong>: Offers detailed forecasts for a multitude of locations worldwide, including the Americas, Europe, Asia, Africa, and more 🌍.</li>\n<li>🔄 <strong>Real-Time Updates</strong>: Get the most recent weather updates, with live and accurate data tracked by the hour, day, or week ⏲️.</li>\n<li>🌡️ <strong>Comprehensive Weather Details</strong>: Displays extensive weather statistics including temperature, humidity, wind speed, UV index, and more 📉.</li>\n<li>📍 <strong>Location Detection and Management</strong>: Automatically detects your location via GPS or lets you manually search and manage multiple locations 🔍.</li>\n</ul>\n<h2>Pros</h2>\n<ul>\n<li>👍 <strong>Easy Visuals</strong>: Enhanced chart design for straightforward visual comprehension of weather data ☀️.</li>\n<li>👍 <strong>Personalization</strong>: Options to change units for temperature, wind speed, pressure, and time format to suit personal preferences 🔄.</li>\n<li>👍 <strong>Notification Control</strong>: Flexibility to enable or disable weather notifications as needed 🔔.</li>\n<li>👍 <strong>Weather Widgets</strong>: Embed real-time weather updates on your device's home screen using widgets 📲.</li>\n<li>👍 <strong>Storm and Hazard Tracking</strong>: Includes weather radar animations and trackers for rain, snow, clouds, and extreme conditions ⛈️.</li>\n</ul>\n<h2>Cons</h2>\n<ul>\n<li>👎 <strong>Information Density</strong>: With a vast array of data, the interface might be overwhelming for users seeking only basic weather information ⚠️.</li>\n<li>👎 <strong>Ad Interruptions</strong>: Potential for ads to disrupt user experience in the case of a free ad-supported version 💢.</li>\n<li>👎 <strong>Resource Usage</strong>: The app may consume significant device resources, particularly when running background location and updates 🛠️.</li>\n<li>👎 <strong>Data Reliance</strong>: Dependence on internet connectivity for real-time updates might be limiting in areas with poor network coverage 📶.</li>\n<li>👎 <strong>Learning Curve</strong>: Some users may need time to fully understand and navigate the robust set of features 🤔.</li>\n</ul>\n<h2>Price</h2>\n<p>💵 Accurate Weather is available for free, likely with in-app advertisements. There may also be premium features or an ad-free version available for purchase. The description does not specify if there are in-app purchases, so this would require further investigation.</p>\n<p>Unfortunately, the data provided does not include direct information about a community for this non-game app, therefore no social media or community platforms are listed. For any queries or suggestions, users are encouraged to reach out to the development team via their provided email address. </p>\n<p>Enjoy the comprehensive capabilities of Accurate Weather, and stay prepared for whatever the sky has in store! ⛅</p>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-eet-weather-launcher/15703.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.eet.weather.launcher.png",
+      "name": "Weather Now Launcher - Radar",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "3.6"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-daily-forecast-weather-radar/4930.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.daily.forecast.weather.radar.png",
+      "name": "Daily Forecast: Weather&Radar",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-mahersafadi-sunny/4921.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.mahersafadi.sunny.png",
+      "name": "Sunny: Weather forecast",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/WeatherPal/4628.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.precise.opliging.kitan.png",
+      "name": "WeatherPal",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.8"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/live-weather/2063.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.appsinnova.weatherforecast.liveweather.png",
+      "name": "Live Weather",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.1"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/radarnow/2062.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.usnaviguide.radar_now.png",
+      "name": "RadarNow!",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/local-weather/2061.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.weather.forecast.channel.local.png",
+      "name": "Local Weather",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/iqair-airvisual/2060.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.airvisual.png",
+      "name": "IQAir AirVisual",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.6"
+    }
+  ]
+}

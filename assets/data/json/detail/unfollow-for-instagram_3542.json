@@ -1,0 +1,108 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/app.follow.unfollow.png",
+    "title": "Unfollow for Instagram",
+    "ratings": "4.2",
+    "downloads": "490M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Unfollow for Instagram"
+    },
+    {
+      "name": "category",
+      "value": "Social"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Team Unfollow"
+    },
+    {
+      "name": "Version",
+      "value": "1.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/Eev-gbPeGnCpC9YCeXSndB-ZPp_GajLA4Qv6NtnGxNUcUCXpjVPvuti47055aLKaKhY",
+    "https://play-lh.googleusercontent.com/Sx67kZRWENVqqwspt_kKdBZlMyfRJXSz6agnZD5mboKfZX6FjWALyU63PJxIibVZ64o",
+    "https://play-lh.googleusercontent.com/E9C934RdmTvYKeWGS7QFiHw-oBXM7n0T6F2_K_kZwL1pTlCCUIgQjyMY_eF2-jEGZA",
+    "https://play-lh.googleusercontent.com/IwO3brSZuc_LOqi6wHReAvazqi4LeuMRI6TuswqEZvAQYCZmt_wo7MgdE1PgrqyZte4"
+  ],
+  "app_descript": "<p><strong>Unfollow for Instagram</strong></p>\n<p><strong>Brief:</strong>\nUnfollow for Instagram is a utility tool designed to help Instagram users manage their followings. It identifies accounts that don't follow you back and provides a straightforward mechanism for unfollowing them, either individually or in bulk. Aimed at both average users and brands on Instagram, this app is focused on tidying up your following list rather than boosting your follower count.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li><strong>Track Non-Followers:</strong> Easily see who isn't following you back on Instagram. 📌</li>\n<li><strong>Unfollow Individuals:</strong> Opt to unfollow users one-by-one with a simple interface. 📌</li>\n<li><strong>Bulk Unfollow:</strong> Save time by unfollowing multiple users quickly and efficiently. 📌</li>\n<li><strong>User-Friendly UI:</strong> Navigate through your non-followers list with an intuitive user interface. 📌</li>\n<li><strong>Compliance with Instagram APIs:</strong> Ensures the app aligns with the usage policies of Instagram. 📌</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li><strong>Easy to Use:</strong> The app boasts a straightforward UI, making it user-friendly. 👍</li>\n<li><strong>Time-Saving:</strong> Quickly unfollow non-followers without manually checking each account. 👍</li>\n<li><strong>Effective Account Management:</strong> Useful for influencers and brands to maintain a clean following list. 👍</li>\n<li><strong>Free Utility:</strong> The app is free of cost for all Instagram users. 👍</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li><strong>No Follower Boosting:</strong> It does not provide features to increase followers. 👎</li>\n<li><strong>Unfollow Limits:</strong> Instagram's API imposes unfollow limitations that the app must adhere to. 👎</li>\n<li><strong>Login Issues:</strong> Some users may face login difficulties and need to follow additional steps. 👎</li>\n<li><strong>Affiliation Disclaimer:</strong> The app is not officially affiliated with or endorsed by Instagram. 👎</li>\n</ul>\n<p><strong>Price:</strong>\nUnfollow for Instagram is a free app to download and use. Note that while there's no mention of in-app purchases, the presence of any such features can neither be confirmed nor denied due to lack of provided data. 💵</p>\n<p>By assisting you in managing your Instagram followings, Unfollow for Instagram becomes a handy tool in maintaining a balanced social media presence. Whether you're an individual sorting out your personal account or a business streamlining your followers, this app can enhance your Instagram user experience effectively.</p>",
+  "related_apps": [
+    {
+      "link": "/details/jp-cocone-livly/54171.html",
+      "icon": "assets/img/apk/icon/jp.cocone.livly.png",
+      "name": "Livly Island - Adopt Cute Pets",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-daily-festival-photos/39721.html",
+      "icon": "assets/img/apk/icon/com.daily.festival.photos.png",
+      "name": "Daily Festival Photo",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/tv-medal-recorder/39573.html",
+      "icon": "assets/img/apk/icon/tv.medal.recorder.png",
+      "name": "Medal - Gaming Clips",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-ptanktechnology-reincornation/39352.html",
+      "icon": "assets/img/apk/icon/com.ptanktechnology.reincornation.png",
+      "name": "Reincarnation",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-tiktok-lite-go/15392.html",
+      "icon": "assets/img/apk/icon/com.tiktok.lite.go.png",
+      "name": "TikTok Lite - Faster TikTok",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-petmeetly/15275.html",
+      "icon": "assets/img/apk/icon/com.petmeetly.png",
+      "name": "Petmeetly - Pet's Match Finder",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-xingin-xhs/14603.html",
+      "icon": "assets/img/apk/icon/com.xingin.xhs.png",
+      "name": "REDnote—小红书国际版",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-stdev-dissordap/10395.html",
+      "icon": "assets/img/apk/icon/com.stdev.dissordap.png",
+      "name": "Vote Social - Photo Voting VS",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "3.8"
+    }
+  ]
+}

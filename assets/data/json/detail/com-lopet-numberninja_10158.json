@@ -1,0 +1,108 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.lopet.numberninja.png",
+    "title": "Number Ninja",
+    "ratings": "3.1",
+    "downloads": "125M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Number Ninja"
+    },
+    {
+      "name": "category",
+      "value": "Action"
+    },
+    {
+      "name": "Price",
+      "value": "0"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "SoloGamesPlay"
+    },
+    {
+      "name": "Version",
+      "value": "5.1"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/eLAUmLWEUO0BYuknKo-DMGts4_eC2KZsCZC6LwY3YW760r1Cooww-e5lBXArnXWNiXKl",
+    "https://play-lh.googleusercontent.com/qLnp_LbbGj-N72DIwEzg9kL56SdpWZBygTjN86aQxD-ovNOSkIlCaWeFhr700s-3PWA",
+    "https://play-lh.googleusercontent.com/4BrqXnGeDKK8uZiihmL2_AaC8qL6Njgy40dZq3tUVe-adUkA5txjmBKJapbGF555YyFV",
+    "https://play-lh.googleusercontent.com/QNmZS6b_ilC6u2ssYuHSeS_XHXPhpqFmPUUG1l8wmvb98l6bs3gcwUgjXKcZTiTV-4Y"
+  ],
+  "app_descript": "<h1>Number Ninja</h1>\n<h2>Brief</h2>\n<p>Number Ninja is an exhilarating game that combines modern algorithms with an engaging gameplay experience. Players can collect victories and earn positive charges, all while enjoying mesmerizing presence effects that will keep you captivated.</p>\n<h2>Core Features</h2>\n<ul>\n<li><strong>Realistic Gameplay</strong>: Experience an immersive and interactive environment powered by advanced algorithms. 🎮</li>\n<li><strong>Victory Collection</strong>: Gather achievements as you progress through challenges, enhancing your overall gaming experience. 🏆</li>\n<li><strong>Mind-Blowing Effects</strong>: Enjoy stunning visual effects that elevate the gameplay, making every victory feel monumental. 🌟</li>\n<li><strong>Modern Algorithms</strong>: Benefit from cutting-edge algorithms that provide a unique and challenging experience every time you play. ⚙️</li>\n<li><strong>Positive Charge Mechanism</strong>: Gain a boost through a dynamic charging system that rewards players for their accomplishments. ⚡</li>\n</ul>\n<h2>Pros</h2>\n<ul>\n<li>👍 Engaging and immersive gameplay keeps players invested.</li>\n<li>👍 Stunning visual effects enhance overall experience.</li>\n<li>👍 The algorithm-driven gameplay offers replayability with every session.</li>\n<li>👍 Positive charge mechanism encourages player motivation and progress.</li>\n<li>👍 Suitable for all ages, making it a family-friendly game.</li>\n</ul>\n<h2>Cons</h2>\n<ul>\n<li>👎 May require an initial learning curve for new players.</li>\n<li>👎 Some users may find the effects distracting over time.</li>\n<li>👎 Limited content updates may lead to repetitiveness in gameplay.</li>\n<li>👎 In-game challenges could be frustrating for casual gamers.</li>\n<li>👎 May consume a significant amount of battery life due to graphics.</li>\n</ul>\n<h2>Price</h2>\n<p>This app is free to download with optional in-app purchases available. 💵</p>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-clickteam-ultimatecustomnight/54248.html",
+      "icon": "assets/img/apk/icon/com.clickteam.ultimatecustomnight.png",
+      "name": "Ultimate Custom Night",
+      "categoryLink": "/en/categories/action/33",
+      "category": "Action",
+      "rating": "4.6"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-beyondgames-superherohandrun/54057.html",
+      "icon": "assets/img/apk/icon/com.beyondgames.superherohandrun.png",
+      "name": "Superhero Hand Run",
+      "categoryLink": "/en/categories/action/33",
+      "category": "Action",
+      "rating": "4.6"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-monster-park-horror-survival/53723.html",
+      "icon": "assets/img/apk/icon/com.monster.park.horror.survival.png",
+      "name": "Monster Park Horror Games",
+      "categoryLink": "/en/categories/action/33",
+      "category": "Action",
+      "rating": "3.2"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/jp-co-dwango-HcgDW007SandwichRun/48985.html",
+      "icon": "assets/img/apk/icon/jp.co.dwango.HcgDW007SandwichRun.png",
+      "name": "Sandwich Runner",
+      "categoryLink": "/en/categories/action/33",
+      "category": "Action",
+      "rating": "4.1"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-eg-mimicry-horror-online/39685.html",
+      "icon": "assets/img/apk/icon/com.eg.mimicry.horror.online.png",
+      "name": "Mimicry: Online Horror Action",
+      "categoryLink": "/en/categories/action/33",
+      "category": "Action",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-spiderherofighter-spiderman/39571.html",
+      "icon": "assets/img/apk/icon/com.spiderherofighter.spiderman.png",
+      "name": "Spider Man 3",
+      "categoryLink": "/en/categories/action/33",
+      "category": "Action",
+      "rating": "3.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-rockstargames-gtasa/39510.html",
+      "icon": "assets/img/apk/icon/com.rockstargames.gtasa.png",
+      "name": "Grand Theft Auto: San Andreas",
+      "categoryLink": "/en/categories/action/33",
+      "category": "Action",
+      "rating": "4.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-sega-sonicrumble/39382.html",
+      "icon": "assets/img/apk/icon/com.sega.sonicrumble.png",
+      "name": "Sonic Rumble",
+      "categoryLink": "/en/categories/action/33",
+      "category": "Action",
+      "rating": "4.5"
+    }
+  ]
+}

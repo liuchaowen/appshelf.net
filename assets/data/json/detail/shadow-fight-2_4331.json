@@ -1,0 +1,128 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/shadow-fight-2.png",
+    "title": "Shadow Fight 2",
+    "ratings": "4.6",
+    "downloads": "960M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Shadow Fight 2"
+    },
+    {
+      "name": "category",
+      "value": "Action"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "NEKKI"
+    },
+    {
+      "name": "Version",
+      "value": "1.9.16"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/fJwl4f-3Z0entXWBcaq7PmJXd6OdIQT_1-kwyzOlCYVQRK1n31c8yRUrELxXr-x-KwE",
+    "https://play-lh.googleusercontent.com/iGKkP6WWehMh3JY5ajkdWuwJH8zo8eCBR1lKL5L4dg7t98HGcak89-p_OQv7XjZ3YQ",
+    "https://play-lh.googleusercontent.com/0Jv_y09lGqcBhG4Iyr4rFFyEVUlMmpRp99tVqzElYAsa676yM3RjqOR-3AA4i5eLwLo",
+    "https://play-lh.googleusercontent.com/ds5WosIKkdFrv1-q72hJs3LrZuF4i3suZRT5cMv0V7XwdI6V1_EUdX0jEWuP1fTRQsg",
+    "https://play-lh.googleusercontent.com/OeR1noaCfs4Icuqn77TULEB21ErWSmMX9T4_dCHyGtzSE3g7DutfHLqZsgjuDNGPOw",
+    "https://play-lh.googleusercontent.com/1N47n8jSfIFba4oCqXC0_afqDQ01v_SnFHlOahDn1ejAoC-Sot1PX2kwyInrP_pIHg",
+    "https://play-lh.googleusercontent.com/tc2cAQ-OlebNVEK8PSazVpwNicd18wXV99SM9I8peBUvo070GaXhau55wmbcRUVOnlU",
+    "https://play-lh.googleusercontent.com/KiyXXZVaTFtL9a_wt-NwLAGEI1OtYgF3OAyF6Ik4I9PCN3V29gcHaEIoPu9j0kkWCs4",
+    "https://play-lh.googleusercontent.com/bQwEctGYhWPiYqddqj_HhqLS_8K1LpALh1PwG_3jIc38vvaFDWuDi0qzkU6f-Rt4fZWd",
+    "https://play-lh.googleusercontent.com/O3ju6UkV_Rp1PQv2DCcGkwZD-H85FLrHGtN-zWmaW6yZXbHJ93-2uPiJFeIRrWcCx8w",
+    "https://play-lh.googleusercontent.com/jLTeqT5Lv3F2awEEWMZX0ECT60pQH4OrSToiV-fdGxjMTQRGxTMMLYhpZpQZxvxU5Sew",
+    "https://play-lh.googleusercontent.com/nKjWeU3I70GHtgt_wxNi1aSzM_yXJiBeT-OBaRiClD2MNKi7M8S6uucVfgMVhJOEVw",
+    "https://play-lh.googleusercontent.com/DcH0A_0GmXVz1-2cjEPvD5aNci-u_tKErPaPp-85kkLAfMmRt4jNaTzBMIW7AbfO6w",
+    "https://play-lh.googleusercontent.com/dmDMJ9dBN87lkvl6Xlg7ffTqVLAT_KEQLMJ6qDJ5JmuR72RdsUsDX7sppwuM4BkACg",
+    "https://play-lh.googleusercontent.com/BmAEVmNE8OcpoG6j_zvIE5TmqXu4-YC3bzm9bFUzz519cN4tdMrEL1wV1HAHi2S-gw",
+    "https://play-lh.googleusercontent.com/afAT0_uUG06xGR2TN4SyDFdkpZ19U8OQmc9PqQ2OOfPv-iJo1Ss9ielESMKmWBNBevKh",
+    "https://play-lh.googleusercontent.com/9km6Qg5vM7LqwZnc8_fMSkj5Y0poF6aogjaPBSC4FDLIXTT_NCfLGhdcztfXkCqBM7s",
+    "https://play-lh.googleusercontent.com/gI6r4-vX5Fchsb-se-i9hIqCazgzFifIO1dKCFvIpTjru84h_DEYdv9xAnNJsTrg2_0",
+    "https://play-lh.googleusercontent.com/e0cu-ifbifjMRulpJQCR8RYVcIrGUmlq-3lwgKl9a1dAvtI0ChBG3PokUPqvO3wOuhk",
+    "https://play-lh.googleusercontent.com/O3yF2pj_WYhBcZWecBEiCWaobhuUM8Wm89P5Csd8xSnslwkuZoUO5JQsNIGlEbsqrPE",
+    "https://play-lh.googleusercontent.com/Ozs5DO59DMtOLVBd85rwqs4OW0fPiveypZFcRBGzgEfi995M5gaYCQ5swOGiHi7Rn6lv",
+    "https://play-lh.googleusercontent.com/1Q8mEcn3LooPBAg0tGMeqZIl8eGu2t7-ad9Z-05rvsxzcIXaGWnhZDvBMtnKJDqzrz8",
+    "https://play-lh.googleusercontent.com/IlML7Fi0KzE_ewDOKj9e1rFN5DnxRvXhOCTp8xL2n6nkG5cIfkVpwNoqGIY-aloEIg",
+    "https://play-lh.googleusercontent.com/TAenSXEtU5MrOACYDVBM_yHnF3MVOWLfVNVffxW7rC5hW3hC8SOTGEKNc-hK194IMQ"
+  ],
+  "app_descript": "<p><strong>Shadow Fight 2</strong></p>\n<p><strong>Brief:</strong>\nEmbark on a martial arts journey with Shadow Fight 2, an enthralling combat game that immerses you into a world of ancient fighting techniques and demonic confrontations. With a vast selection of lethal weapons and an extensive range of combat moves, this app promises to deliver an adrenaline-fueled experience as you jump, punch, kick, and slash your way through a series of uniquely challenging battles.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🥋 <strong>Epic Combat Sequences:</strong> Masterfully created animation system that portrays combat sequences with incredible lifelike detail. 🖌️</li>\n<li>🕹️ <strong>Intuitive Controls:</strong> Newly designed fighting interface allows players to battle foes with ease and precision. 🎮</li>\n<li>🌍 <strong>Six Unique Worlds:</strong> Explore a variety of worlds, each with their own captivating narrative and distinctive challenges. 🏰</li>\n<li>⚔️ <strong>Extensive Weaponry and Techniques:</strong> Choose from an array of deadly weapons and learn a plethora of fight techniques to conquer adversaries. 🗡️</li>\n<li>🛡️ <strong>Personalization Options:</strong> Dress your character in armor suits and wield magic powers to enhance your fighting prowess. ✨</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 <strong>Immersive Gameplay:</strong> Engaging storylines and a rich game world keep the player deeply involved in the narrative. 📖</li>\n<li>👍 <strong>High Replay Value:</strong> The diversity of weapons and moves ensure every fight offers a new challenge. 🔁</li>\n<li>👍 <strong>Stunning Graphics:</strong> High-quality animations add to the visceral appeal of the combat experience. 🎨</li>\n<li>👍 <strong>Regularity of Updates:</strong> Continuous updates provide fresh content and improvements to gameplay mechanics. 🆕</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 <strong>Progression Difficulty:</strong> Later levels might become significantly challenging without in-app purchases. 📈</li>\n<li>👎 <strong>In-App Purchases:</strong> Certain powerful items and customization options might require real money. 💳</li>\n<li>👎 <strong>Occasional Glitches:</strong> As with any complex game, users may encounter sporadic bugs. 🐞</li>\n<li>👎 <strong>Grinding:</strong> Some players may feel the game requires a level of repetitiveness to progress. 🔁</li>\n</ul>\n<p><strong>Price:</strong></p>\n<ul>\n<li>💵 The game is free to download and play, but it offers in-app purchases for various in-game items and resources. 💰</li>\n</ul>\n<p><strong>Community:</strong></p>\n<ul>\n<li>🕸️ <strong>Official Site:</strong> <a href=\"https://shadowfight.com\" rel=\"noopener noreferrer\" target=\"_blank\">Shadow Fight 2</a></li>\n<li>📹 <strong>YouTube Channel:</strong> <a href=\"https://www.youtube.com/user/ShadowFightCh\" rel=\"noopener noreferrer\" target=\"_blank\">Shadow Fight 2 Official</a></li>\n<li>🎥 <strong>YouTubers:</strong> Related content can be found on popular gaming channels (specific popular YouTuber's channel link not provided).</li>\n<li>\n<h1>️⃣ <strong>Instagram:</strong> Find the most followed Instagrammer sharing Shadow Fight 2 content (link not provided).</h1>\n</li>\n<li>🐦 <strong>Twitter:</strong> <a href=\"https://twitter.com/ShadowFight_2\" rel=\"noopener noreferrer\" target=\"_blank\">Shadow Fight 2</a></li>\n<li>💬 <strong>Discord:</strong> Join the Shadow Fight community (specific Discord server link not provided).</li>\n<li>👥 <strong>Facebook:</strong> <a href=\"https://www.facebook.com/shadowfightgames\" rel=\"noopener noreferrer\" target=\"_blank\">Shadow Fight</a></li>\n<li>📱 <strong>TikTok:</strong> Look for Shadow Fight-related videos (link not provided).</li>\n<li>🗨️ <strong>Reddit:</strong> Subreddits where Shadow Fight 2 discussions are held (specific subreddit link not provided).</li>\n<li>📚 <strong>Fandom Wiki:</strong> <a href=\"https://shadowfight.fandom.com\" rel=\"noopener noreferrer\" target=\"_blank\">Shadow Fight Wiki</a></li>\n</ul>\n<p>Enjoy the depths of Shadow Fight 2's combat and become a legend as you advance through the ranks, defeating all who stand in your way. Download now and step into the shadow!</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-clickteam-ultimatecustomnight/54248.html",
+      "icon": "assets/img/apk/icon/com.clickteam.ultimatecustomnight.png",
+      "name": "Ultimate Custom Night",
+      "categoryLink": "/en/categories/action/33",
+      "category": "Action",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-beyondgames-superherohandrun/54057.html",
+      "icon": "assets/img/apk/icon/com.beyondgames.superherohandrun.png",
+      "name": "Superhero Hand Run",
+      "categoryLink": "/en/categories/action/33",
+      "category": "Action",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-monster-park-horror-survival/53723.html",
+      "icon": "assets/img/apk/icon/com.monster.park.horror.survival.png",
+      "name": "Monster Park Horror Games",
+      "categoryLink": "/en/categories/action/33",
+      "category": "Action",
+      "rating": "3.2"
+    },
+    {
+      "link": "/details/jp-co-dwango-HcgDW007SandwichRun/48985.html",
+      "icon": "assets/img/apk/icon/jp.co.dwango.HcgDW007SandwichRun.png",
+      "name": "Sandwich Runner",
+      "categoryLink": "/en/categories/action/33",
+      "category": "Action",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-eg-mimicry-horror-online/39685.html",
+      "icon": "assets/img/apk/icon/com.eg.mimicry.horror.online.png",
+      "name": "Mimicry: Online Horror Action",
+      "categoryLink": "/en/categories/action/33",
+      "category": "Action",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-spiderherofighter-spiderman/39571.html",
+      "icon": "assets/img/apk/icon/com.spiderherofighter.spiderman.png",
+      "name": "Spider Man 3",
+      "categoryLink": "/en/categories/action/33",
+      "category": "Action",
+      "rating": "3.4"
+    },
+    {
+      "link": "/details/com-rockstargames-gtasa/39510.html",
+      "icon": "assets/img/apk/icon/com.rockstargames.gtasa.png",
+      "name": "Grand Theft Auto: San Andreas",
+      "categoryLink": "/en/categories/action/33",
+      "category": "Action",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-sega-sonicrumble/39382.html",
+      "icon": "assets/img/apk/icon/com.sega.sonicrumble.png",
+      "name": "Sonic Rumble",
+      "categoryLink": "/en/categories/action/33",
+      "category": "Action",
+      "rating": "4.5"
+    }
+  ]
+}

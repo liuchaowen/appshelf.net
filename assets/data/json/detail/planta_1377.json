@@ -1,0 +1,111 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.stromming.planta.png",
+    "title": "Planta",
+    "ratings": "4.4",
+    "downloads": "700M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Planta"
+    },
+    {
+      "name": "category",
+      "value": "House & Home"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Strömming AB"
+    },
+    {
+      "name": "Version",
+      "value": "1.2.1"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/pcN3RsOa29svmnlrIETAMJh49WLrdUbcIiHSF8ESakAh2x8VUXMfIpMqiyRQwYLuN5M",
+    "https://play-lh.googleusercontent.com/Tp-7vGQTs3ZLCwJaeR81UhCXwlv08BsB2nj7O8Z2k1UR2F1bGXccrSC9BlltfVkj1K7w",
+    "https://play-lh.googleusercontent.com/M9bzPUjR_As5-AVrH7PADXUcdQWHMEHFYlGyQbC2W40ARv4kD94ep6poW5oyGyyX-66I",
+    "https://play-lh.googleusercontent.com/rBeoj6nZjcNyxZPL7JDhEH9FGmgYrld-whsJ2TfVO4Bei8xaBgV2m-Se_S7HghpG_dE",
+    "https://play-lh.googleusercontent.com/_IH-qR7aBY5r0-iiOa_HBVEeDKIoblqjwpTFKr8BQycVUbvM0Zo0fZvjQhB4PCV5z6Q",
+    "https://play-lh.googleusercontent.com/18wBIS8g8X7ic1Z9iQl90GPUUQvEG7heG0kAdrrS1WfbxcwMDjyv6xvLHqrh2kKpL2Q",
+    "https://play-lh.googleusercontent.com/Dk7vAAcxduTCSirA3pj8joH-OYmwTjgLNH40DxA7SWtFAC0eEYS5Jx9fyxDocTY1fJk"
+  ],
+  "app_descript": "<p><strong>Brief:</strong>\nPlanta is a comprehensive plant-care companion app designed for the modern plant enthusiast. Whether you're uncertain about the type of plant you own, looking to discover new plants that'll thrive in your living space, or seeking detailed care tips to ensure your plants are healthy, Planta is here to assist. From plant identification with a simple picture to a meticulous plant journal to track your green journey, Planta is tailored for both novice and seasoned plant parents.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🌿 <strong>Plant Identification</strong>: Snap a photo, and Planta will identify your plant and provide care instructions. Only available for premium members. 📸</li>\n<li>🏡 <strong>Plant Discovery</strong>: Find the perfect plants for every area of your home, regardless of light conditions, with customized recommendations. 🌱</li>\n<li>📘 <strong>In-depth Plant Care Information</strong>: Access a wealth of knowledge to ensure your plants are nurtured exactly how they like it. 📚</li>\n<li>📔 <strong>Plant Journal</strong>: Document your plant's growth journey with photos and notes; a digital haven for reflections on your green endeavors. 🖋️</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👁️ <strong>Efficient Identification</strong>: Quickly learn the name and care requirements of plants with an intuitive identification tool.</li>\n<li>🌤️ <strong>Customized Recommendations</strong>: Receive personalized plant suggestions based on the unique light conditions in your home.</li>\n<li>🧑‍🌾 <strong>Comprehensive Care Guide</strong>: Boost your plant care skills with detailed instructions and tips.</li>\n<li>🌱 <strong>Growth Tracking</strong>: Keep track of every milestone in your plant's life, reinforcing your bond with your foliar friends.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 <strong>Premium Restriction</strong>: Key features like the plant identification tool are locked behind a premium membership.</li>\n<li>🚀 <strong>Learning Curve</strong>: Novices may initially find the plethora of information overwhelming.</li>\n<li>🌐 <strong>Internet Dependency</strong>: Requires a stable connection for plant scanning and accessing detailed care guides.</li>\n<li>📲 <strong>Limited Free Features</strong>: Some essential capabilities are not available in the free version of the app.</li>\n</ul>\n<p><strong>Price:</strong>\n💵 Planta is available to download for free. However, to unlock the full potential of the app, such as plant identification and premium care guides, a subscription fee is required. Details on the pricing model are available within the app.</p>\n<p><strong>Community:</strong>\nDue to the nature of Planta being a non-game app focused on plant care, the community section is not applicable here.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-gg-housedesign-draw-houseplan-free/54045.html",
+      "icon": "assets/img/apk/icon/com.gg.housedesign.draw.houseplan.free.png",
+      "name": "House Design Plan 3D App",
+      "categoryLink": "/en/categories/house.home/13",
+      "category": "House & Home",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-eteks-sweethome3d-mobile/54039.html",
+      "icon": "assets/img/apk/icon/com.eteks.sweethome3d.mobile.png",
+      "name": "Sweet Home 3D: Plan your house",
+      "categoryLink": "/en/categories/house.home/13",
+      "category": "House & Home",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-belightsoft-livehome3d/54033.html",
+      "icon": "assets/img/apk/icon/com.belightsoft.livehome3d.png",
+      "name": "Live Home 3D: House Design",
+      "categoryLink": "/en/categories/house.home/13",
+      "category": "House & Home",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-trulia-android-rentals/14398.html",
+      "icon": "assets/img/apk/icon/com.trulia.android.rentals.png",
+      "name": "Trulia Rent Apartments & Homes",
+      "categoryLink": "/en/categories/house.home/13",
+      "category": "House & Home",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/tenantapp-properties-for-rent/1394.html",
+      "icon": "assets/img/apk/icon/com.ire.tenantapp.png",
+      "name": "TenantApp Properties For Rent",
+      "categoryLink": "/en/categories/house.home/13",
+      "category": "House & Home",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/duproprio/1393.html",
+      "icon": "assets/img/apk/icon/com.duproprio.app.png",
+      "name": "DuProprio",
+      "categoryLink": "/en/categories/house.home/13",
+      "category": "House & Home",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/prime-wire-and-cable/1392.html",
+      "icon": "assets/img/apk/icon/com.prime.on.png",
+      "name": "PRIME Wire and Cable",
+      "categoryLink": "/en/categories/house.home/13",
+      "category": "House & Home",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/zolo/1391.html",
+      "icon": "assets/img/apk/icon/com.ols.zolo.png",
+      "name": "Zolo",
+      "categoryLink": "/en/categories/house.home/13",
+      "category": "House & Home",
+      "rating": "4.2"
+    }
+  ]
+}

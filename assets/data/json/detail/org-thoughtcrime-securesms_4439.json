@@ -1,0 +1,110 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/org.thoughtcrime.securesms.png",
+    "title": "Signal",
+    "ratings": "4.6",
+    "downloads": "550M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Signal"
+    },
+    {
+      "name": "category",
+      "value": "Communication"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Signal Foundation"
+    },
+    {
+      "name": "Version",
+      "value": "6.34.5"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/576v7dex8qJZk6WJoL1ZKJOT-CnwMRg01q2fU_pehZNZsaGqqonakPcg8W3GvUEeFw",
+    "https://play-lh.googleusercontent.com/kBEsxLBVV8QGYm33T5rR9vhmU5uT88Ws_nwvHKPJaCRQpX36dUp3xFaVt0sUEQEsbTk",
+    "https://play-lh.googleusercontent.com/sWWcM2TBbLFud_vl8jIpHhrcm2RYe--0wGRUtDCk8hJvDx16TsGlP9kpWEcG60imeEk",
+    "https://play-lh.googleusercontent.com/KGKl3GDbW0i72lxAlpPPmFyFw-QqelZI7E-QnYY4Ud33U9WQonRIagf6KO708qaeQQ",
+    "https://play-lh.googleusercontent.com/M6WUJmrXpC33rAM8317J3zQWP4B7nKYjxpR7BdLOhTSz8GSFDk6_bLdEazHxGHd3lg",
+    "https://play-lh.googleusercontent.com/QuasHPaLeVRy3qK4L_rpgamtnDG8RufRRpPiiGIRILF6cKY3thb5CUxmK0h2E02JLJU"
+  ],
+  "app_descript": "\n<h3>Brief</h3>\n<p>Signal enhances your communication comfort with the highest level of privacy and encryption. Known for putting security at the forefront, Signal's latest update brings the all-new Stories feature to both iOS and Android users, where you can share your fleeting moments with expiring images, videos, and texts. Stay connected, stay secure with Signal.</p>\n<h3>Core Features</h3>\n<ul>\n<li>📖 <strong>Signal Stories</strong>: Share moments through images, videos, and texts that disappear after 24 hours. 📚</li>\n<li>🔒 <strong>End-to-End Encryption</strong>: Conversations remain confidential with state-of-the-art encryption protocols. 🔐</li>\n<li>🚀 <strong>Speedy Delivery</strong>: Messages reach their destination swiftly, even on sluggish networks. 📩</li>\n<li>🦸 <strong>Independent &amp; Nonprofit</strong>: Signal's commitment to users with no ads or trackers. 🆓</li>\n<li>🤝 <strong>Easy Connectivity</strong>: Use your existing phone number and address book for seamless communication. 📲</li>\n</ul>\n<h3>Pros</h3>\n<ul>\n<li>👤 <strong>Personalization</strong>: Customize notifications and experience dark theme for a comfortable interface. 🌙</li>\n<li>🌐 <strong>Global Communication</strong>: Enhanced audio and video quality to feel close with anyone around the world. 🌍</li>\n<li>🎨 <strong>Creative Tools</strong>: Built-in image editing for the perfect visual message. ✂️</li>\n<li>🔇 <strong>Silent Notifications</strong>: Possibility to set 'None' as your ringtone for when silence is golden. 🔕</li>\n</ul>\n<h3>Cons</h3>\n<ul>\n<li>☎️ <strong>Phone Number Required</strong>: You need a phone number to register, which could be a privacy concern for some. 📵</li>\n<li>🔄 <strong>Contact Adoption</strong>: Relies on other contacts using Signal for secure messaging. 🔄</li>\n<li>🎥 <strong>Data Usage</strong>: High-quality calls might consume more data, affecting users with limited data plans. 📊</li>\n<li>🆕 <strong>New Feature Adoption</strong>: Users accustomed to old functionalities may need time to adapt to new updates like Stories. 🎓</li>\n</ul>\n<h3>Price</h3>\n<ul>\n<li>💸 Signal is <strong>Free</strong>: Enjoy the richness of top-tier privacy without any cost. The app is fully open-source and operates on donations. 💖</li>\n</ul>\n<h3>Community</h3>\n<ul>\n<li>🌐 <a href=\"https://signal.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Official Website</a></li>\n<li>📹 Find community channels and user guides on the <a href=\"https://www.youtube.com/channel/UCLFSU9_bUb4Rc6OYfTt5SPw\" rel=\"noopener noreferrer\" target=\"_blank\">Official Signal YouTube Channel</a></li>\n<li>🐦 Follow Signal updates on <a href=\"https://twitter.com/signalapp\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a></li>\n<li>📘 Check out Signal's latest news on their <a href=\"https://facebook.com/signalapp\" rel=\"noopener noreferrer\" target=\"_blank\">Facebook page</a></li>\n<li>🖼️ Discover more on Signal's <a href=\"https://instagram.com/signal_app\" rel=\"noopener noreferrer\" target=\"_blank\">Instagram</a></li>\n<li>🗨️ Join the conversation on <a href=\"https://reddit.com/r/signal\" rel=\"noopener noreferrer\" target=\"_blank\">Reddit</a></li>\n</ul>\n",
+  "related_apps": [
+    {
+      "link": "/details/com-sst-parrot-photo-frame/53901.html",
+      "icon": "assets/img/apk/icon/com.sst.parrot.photo.frame.png",
+      "name": "Bird Photo Frame",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-new_year-stickers-birthday/39669.html",
+      "icon": "assets/img/apk/icon/com.new_year.stickers.birthday.png",
+      "name": "Happy New Year Stickers 2026",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/org-watchduty-app/14524.html",
+      "icon": "assets/img/apk/icon/org.watchduty.app.png",
+      "name": "Watch Duty (Wildfire)",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-snowcorp-stickerly-android/14453.html",
+      "icon": "assets/img/apk/icon/com.snowcorp.stickerly.android.png",
+      "name": "Sticker.ly - Sticker Maker",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-Happynewyearphotoframe2020/14421.html",
+      "icon": "assets/img/apk/icon/com.Happynewyearphotoframe2020.png",
+      "name": "New Year Video Maker 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-intira-new-year-photo-frame-new/14342.html",
+      "icon": "assets/img/apk/icon/com.intira.new.year.photo.frame.new.png",
+      "name": "New year photo frame 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-christmas-photo-frame-b-new-free/14203.html",
+      "icon": "assets/img/apk/icon/com.christmas.photo.frame.b.new.free.png",
+      "name": "Christmas photo frame 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/ma-apps-face_ml/14137.html",
+      "icon": "assets/img/apk/icon/ma.apps.face_ml.png",
+      "name": "Face reader scanner - analyser",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "3.3"
+    }
+  ]
+}

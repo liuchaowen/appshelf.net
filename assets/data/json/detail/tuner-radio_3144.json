@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.music.tunerradio.png",
+    "title": "Tuner Radio",
+    "ratings": "4.1",
+    "downloads": "520M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Tuner Radio"
+    },
+    {
+      "name": "category",
+      "value": "Music & Audio"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Tuner Radio Official"
+    },
+    {
+      "name": "Version",
+      "value": "1.3.0"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h3>Brief</h3>\n<p>Tuner Radio is an exciting music streaming app designed to satisfy your audio entertainment needs. Whether you're in the mood for current chart-toppers or nostalgic hits, Tuner Radio brings a world of music to your fingertips. Get ready to embark on an auditory journey that lets you tune into various radio stations and explore diverse music genres.</p>\n<h3>Core Features</h3>\n<ul>\n<li><strong>Extensive Music Library</strong> 🎼 - A vast selection of music from different genres and time periods, easily accessible.</li>\n<li><strong>Personalized Stations</strong> 🎙️ - Create and customize radio stations based on your favorite artists and songs.</li>\n<li><strong>On-Demand Music</strong> 🎧 - Listen to songs on-demand whenever you want, without any restrictions.</li>\n<li><strong>User-Friendly Interface</strong> 📱 - A sleek and intuitive interface that makes navigation a breeze.</li>\n<li><strong>Offline Playback</strong> 🔄 - Save your favorite tracks and listen to them even when you're not connected to the internet.</li>\n</ul>\n<h3>Pros</h3>\n<ul>\n<li><strong>Diverse Content</strong> 👍 - Offers a wide range of music catering to a variety of tastes and preferences.</li>\n<li><strong>Customizability</strong> ⚙️ - Provides personalized music experiences through customizable radio stations.</li>\n<li><strong>Ease of Use</strong> 🕹️ - Intuitive controls and user interface allow for easy operation and enjoyment of music.</li>\n<li><strong>Free Features</strong> ✨ - Many of Tuner Radio’s basic features can be accessed without any charges.</li>\n</ul>\n<h3>Cons</h3>\n<ul>\n<li><strong>Ad Interruptions</strong> 👎 - Free version may include ads that can interrupt the music experience.</li>\n<li><strong>Limited Offline Songs</strong> 📉 - There might be a cap on the number of songs you can download for offline playback.</li>\n<li><strong>Data Consumption</strong> 🌐 - Streaming music without a Wi-Fi connection could lead to significant data usage.</li>\n<li><strong>Availability</strong> 🗺️ - Some music or features might not be available in all regions.</li>\n</ul>\n<h3>Price</h3>\n<p>Tuner Radio is a <strong>free app</strong> with in-app purchases that enhance the streaming experience. 💵</p>\n<p><em>Please note that I don't have specific pricing details as there's no original app summary provided.</em></p>\n<p>[Community]\nSince information provided is limited and no explicit permission or details are given regarding the game's social media presence, the community section will not be outputted. If this was a game app and such data was available, the community section would list the app's official site, YouTube channel, related popular YouTuber's channel, and the most followed personalities on platforms like Instagram, Twitter, Discord, Facebook, TikTok, and Reddit, including the fandom wiki site, all formatted with appropriate hyperlinks.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-simmusic-oldjpop/49056.html",
+      "icon": "assets/img/apk/icon/com.simmusic.oldjpop.png",
+      "name": "昭和の名曲 - 70年代/80年代名曲, 昭和の歌謡曲",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-bigsoft-voicereverse-audiochanger/39378.html",
+      "icon": "assets/img/apk/icon/com.bigsoft.voicereverse.audiochanger.png",
+      "name": "Funny Voice Reverse",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "3.1"
+    },
+    {
+      "link": "/details/com-realdrum-drumset-drumapp-beatmaker-music-instruments-drumkit/16783.html",
+      "icon": "assets/img/apk/icon/com.realdrum.drumset.drumapp.beatmaker.music.instruments.drumkit.png",
+      "name": "Learn Drum - Pad & Beat Maker",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-musicplayer-mp3-audio-mymusic-player/15795.html",
+      "icon": "assets/img/apk/icon/com.musicplayer.mp3.audio.mymusic.player.png",
+      "name": "Music Player & MP3 - MMusic",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/com-ai-sound-donna/15626.html",
+      "icon": "assets/img/apk/icon/com.ai.sound.donna.png",
+      "name": "Donna AI Song & Music Maker",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-vanniktech-rssreader/15328.html",
+      "icon": "assets/img/apk/icon/com.vanniktech.rssreader.png",
+      "name": "RSS Reader Offline | Podcast",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-voicechanger-supereffect-soundeffect/14158.html",
+      "icon": "assets/img/apk/icon/com.voicechanger.supereffect.soundeffect.png",
+      "name": "Voice Changer: Audio Effect",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/org-cru-womans-herbible/14124.html",
+      "icon": "assets/img/apk/icon/org.cru.womans.herbible.png",
+      "name": "her.BIBLE Women's Audio Bible",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    }
+  ]
+}

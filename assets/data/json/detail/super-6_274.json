@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.skybet.super6.png",
+    "title": "Super 6",
+    "ratings": "4.2",
+    "downloads": "200M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Super 6"
+    },
+    {
+      "name": "category",
+      "value": "Sport"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Sky Betting and Gaming Apps"
+    },
+    {
+      "name": "Version",
+      "value": "2.8.1"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h3>Super 6</h3>\n<h4>Brief:</h4>\n<p>Super 6 presents a staggering blend of entertainment and challenges, as it features pivotal soccer match predictions. Enter the arena of strategic forecasts with five highlighted matches, such as Wolves vs Southampton, and more. Each kick-off at the precise time of 15:00 GMT on January 15. This app empowers you to place your wagers smartly and stand a chance to win big.</p>\n<h4>Core Features:</h4>\n<ul>\n<li>🗓 <strong>Match Schedule &amp; Predictions</strong>: Embrace the thrill of predicting match outcomes with Super 6's weekly fixtures and tips. ⚽</li>\n<li>💯 <strong>User-Friendly Design</strong>: Navigate a clear, simple interface designed for optimal user enjoyment and seamless interaction. 🌟</li>\n<li>🏅 <strong>Private Leagues</strong>: Create bespoke leagues to elevate the competition against friends for a personalized betting experience. 🏆</li>\n<li>💰 <strong>Cost-free Entertainment</strong>: Dive into the arena of Super 6's predictor games without any entrance fee. Free-of-charge amusement at your fingertips! 🎉</li>\n</ul>\n<h4>Pros:</h4>\n<ul>\n<li>👌 <strong>Zero Expense</strong>: Indulge in the exciting world of match predictions without spending a penny. 👍</li>\n<li>🔎 <strong>Simplicity at Its Best</strong>: Effortlessly interact with a lucid and intelligible interface, crafting an enjoyable user expedition. 🌈</li>\n<li>🕹 <strong>User Engagement</strong>: Enjoy easy and fun usability that keeps you entertained game after game. 😄</li>\n<li>🌐 <strong>Social Features</strong>: Connect and compete with friends by forming your very own league, enhancing the social facet of your gaming experience. 🤝</li>\n</ul>\n<h4>Cons:</h4>\n<ul>\n<li>🔙 <strong>Navigation Quirks</strong>: The absence of a back button may lead to minor irritations in league navigation. ❌</li>\n<li>📱 <strong>Update Adjustments</strong>: Some users may find the navigation to be challenging post an update, indicating a learning curve. 🔄</li>\n</ul>\n<h4>Pricing:</h4>\n<ul>\n<li>💵 <strong>Free to Play</strong>: Super 6 is entirely free, offering a thrilling experience without the need to open your wallet.</li>\n</ul>\n<h4>Community:</h4>\n<ul>\n<li>🌎 <a href=\"http://www.skybet.com/super6\" rel=\"noopener noreferrer\" target=\"_blank\">Official Site</a></li>\n<li>📺 <a href=\"https://www.youtube.com/user/SkyBet\" rel=\"noopener noreferrer\" target=\"_blank\">YouTube</a></li>\n<li>🏟️ Popular YouTuber's Channel: Information not available.</li>\n<li>📸 <a href=\"https://www.instagram.com/super6/\" rel=\"noopener noreferrer\" target=\"_blank\">Instagram</a></li>\n<li>🐦 <a href=\"https://twitter.com/Super6\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a></li>\n<li>💬 <a href=\"https://discord.com\" rel=\"noopener noreferrer\" target=\"_blank\">Discord</a>: Information not available.</li>\n<li>👥 <a href=\"https://www.facebook.com/SoccerSaturdaySuper6\" rel=\"noopener noreferrer\" target=\"_blank\">Facebook</a></li>\n<li>🎥 <a href=\"https://www.tiktok.com/@super6\" rel=\"noopener noreferrer\" target=\"_blank\">TikTok</a>: Information not available.</li>\n<li>📜 <a href=\"https://www.reddit.com/r/SoccerBetting/\" rel=\"noopener noreferrer\" target=\"_blank\">Reddit</a></li>\n<li>📚 <a href=\"https://super6.fandom.com\" rel=\"noopener noreferrer\" target=\"_blank\">Fandom Wiki Site</a>: Information not available.</li>\n</ul>\n<p>Stay alert, as age and registration restrictions apply. You must be over 18 and register an account with Hestview Limited to dive into Super 6's electrifying sports prediction journey.</p>",
+  "related_apps": [
+    {
+      "link": "/details/Live-Cricket-TV-WorldCup-2023/4582.html",
+      "icon": "assets/img/apk/icon/com.cricketworldcup.livescore.liveline.png",
+      "name": "Live Cricket TV WorldCup 2023",
+      "categoryLink": "/en/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/Rooter/4571.html",
+      "icon": "assets/img/apk/icon/com.threesixteen.app.png",
+      "name": "Rooter",
+      "categoryLink": "/en/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/Supercars-App/4531.html",
+      "icon": "assets/img/apk/icon/com.supercars.app.png",
+      "name": "Supercars App",
+      "categoryLink": "/en/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/yahoo-fantasy-sports/291.html",
+      "icon": "assets/img/apk/icon/com.yahoo.mobile.client.android.fantasyfootball.png",
+      "name": "Yahoo Fantasy Sports",
+      "categoryLink": "/en/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/live-football-tv-stream-hd/289.html",
+      "icon": "assets/img/apk/icon/com.livefootball.mrsports.tvhd.png",
+      "name": "Live Football Tv Stream HD",
+      "categoryLink": "/en/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/the-masters-golf-tournament/288.html",
+      "icon": "assets/img/apk/icon/com.ibm.events.android.masters.png",
+      "name": "The Masters Golf Tournament",
+      "categoryLink": "/en/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/live-sports-tv-streaming/287.html",
+      "icon": "assets/img/apk/icon/com.tehzeeb.livesports.tv.png",
+      "name": "live sports tv streaming",
+      "categoryLink": "/en/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/onx-hunt/286.html",
+      "icon": "assets/img/apk/icon/onxmaps.hunt.png",
+      "name": "onX Hunt",
+      "categoryLink": "/en/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.9"
+    }
+  ]
+}

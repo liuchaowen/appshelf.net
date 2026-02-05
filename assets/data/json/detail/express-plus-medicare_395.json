@@ -1,0 +1,109 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/au.gov.dhs.expressplus.medicare.png",
+    "title": "Express Plus Medicare",
+    "ratings": "4.9",
+    "downloads": "720M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Express Plus Medicare"
+    },
+    {
+      "name": "category",
+      "value": "Medical"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Services Australia"
+    },
+    {
+      "name": "Version",
+      "value": "4.11.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/1P8WLMjECbPay9lcN3THmMEyPI3HDA6XsGAguuPwG0TOXV5oFbxclGEVK6h7mLjhfFA",
+    "https://play-lh.googleusercontent.com/WS1x0SnZpMTlD8qpjI3IfqJmZ4ae6f68onSsqSxKPOIhv7ZZ-gtRjnPVUvv9gGMZZQ",
+    "https://play-lh.googleusercontent.com/GOhzO8ihsJPP5AKo76-NhNP-Dcft6SIc-t9XsGd9LKTBXc4IxXk1XaLM7xIH2bEc5T7J",
+    "https://play-lh.googleusercontent.com/kxQz3sqAtxXTR63hIA8PW3brvJCfCCreXS-V8U3G7wAty06IuHYvwgtIdvZsUVuQUBM",
+    "https://play-lh.googleusercontent.com/ZWcqYvcT09Jcy-H9ovCKkaG1lMlXWeGWIwyDKWA0e4i20zxzvakO5GNXAD1w2J_9VMk"
+  ],
+  "app_descript": "<p><strong>Express Plus Medicare</strong></p>\n<p><strong>Brief:</strong>\nExpress Plus Medicare is the official Australian Government app for managing Medicare services. It's designed to help Australians easily access a range of Medicare-related services directly from their mobile devices, including submitting claims for COVID-19 vaccine-related injuries and proving vaccination status.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>📱 <strong>COVID-19 Vaccine Claims:</strong> Submit compensation claims for eligible conditions or injuries caused by TGA-approved COVID-19 vaccines with a streamlined process within the app. 📄</li>\n<li>🛂 <strong>Vaccination Status Proof:</strong> Conveniently provide proof of your COVID-19 vaccination for check-in at various venues and for state regulations compliance. 🆔</li>\n<li>🏥 <strong>Medicare Services Access:</strong> Link your myGov and Medicare to handle your healthcare details, view your claim history, and more all through your mobile device. 📊</li>\n<li>🔐 <strong>Secure Sign-In:</strong> Set up a myGov PIN for secure and quick sign-in, ensuring your personal health information is protected. 🔒</li>\n<li>📚 <strong>Online Help Guides:</strong> Access detailed help guides for assistance with account setup and navigation of the app's features. 🆘</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 Easy navigation and user-friendly interface enhances the user experience. 🌟</li>\n<li>👍 Direct submission of claims and vaccination status provides convenience and saves time. ⏱️</li>\n<li>👍 Secure access to sensitive information with myGov PIN ensures data privacy and safety. 🛡️</li>\n<li>👍 The app continuously updates to reflect the latest government health directives and assistance schemes. 🔄</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 Requires an existing myGov account linked to Medicare, which could be a barrier for new users. 🏛️</li>\n<li>👎 Heavily dependent on the internet connection, which can be limiting in areas with poor connectivity. 📶</li>\n<li>👎 Some users may find the setup process with myGov to be complicated and time-consuming. ⚙️</li>\n<li>👎 Compatibility issues might arise on certain devices or operating systems. 📲</li>\n</ul>\n<p><strong>Price:</strong></p>\n<ul>\n<li>💵 The Express Plus Medicare app is free to download and use. However, data charges may apply for its use depending on your mobile network provider. 🆓</li>\n</ul>\n<p><em>Community section is not included as this is a non-game app.</em> </p>\n<p><a href=\"https://play.google.com/store/apps/details?id=au.gov.dhs.expressplus.medicare\" rel=\"noopener noreferrer\" target=\"_blank\">Express Plus Medicare</a> ensures essential healthcare services are at your fingertips, allowing for efficient, secure, and private management of your Medicare needs.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-stress-test/48991.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.stress.test.png",
+      "name": "Stress Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-procrastination-test/39516.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.procrastination.test.png",
+      "name": "Procrastination Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-bingeeating-test/39303.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.bingeeating.test.png",
+      "name": "Binge Eating Disorder Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-ocd-test/34780.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.ocd.test.png",
+      "name": "OCD Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-healthians-main-healthians/34760.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.healthians.main.healthians.png",
+      "name": "Healthians -Full Body Checkup",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-lbrc-PeriodCalendar/34759.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.lbrc.PeriodCalendar.png",
+      "name": "Period Tracker and Calendar",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/es-jshcd-edadosea/34693.html",
+      "icon": "https://img.buzzsight.co/apk/icon/es.jshcd.edadosea.png",
+      "name": "Bone age",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-devdis/16977.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.devdis.png",
+      "name": "Developmental Disabilities",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.5"
+    }
+  ]
+}

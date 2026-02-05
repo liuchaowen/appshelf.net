@@ -1,0 +1,128 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.VoxelGames.TheBigHit.png",
+    "title": "The Big Hit",
+    "ratings": "4.6",
+    "downloads": "750M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "The Big Hit"
+    },
+    {
+      "name": "category",
+      "value": "Arcade"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Lion Studios"
+    },
+    {
+      "name": "Version",
+      "value": "2.3.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/DKT7i5qmbGXXvzsw1zTkA0r8t_4oeqiD40rM5uuat_V98M6gPuco8M_0Hpd4ehAn4w",
+    "https://play-lh.googleusercontent.com/nUJyPqh8GqdD4OXa-OrmsXUxc14Twmm83YI9kPADokvgMA8JVbMJd48-ghvLKYKUzW91",
+    "https://play-lh.googleusercontent.com/ruUWbA4oilrj6tW50u3QFVZx2JM8qkK1DTZVA2mlWju025nGL62yrylqlwmw3pesY9Y",
+    "https://play-lh.googleusercontent.com/4T2MQKQOVD_WAk6NaaYi-LVBUZJH84mtEFbOs6Bq52_xe5ICCZE34PUOlF96luUFhF0A",
+    "https://play-lh.googleusercontent.com/n-k4z2SVhie1F0aLr_KgQPhhr9D6NzVTkWyhnx-47UzqSFoldlWOe9OX19Cd0rw5RZw",
+    "https://play-lh.googleusercontent.com/8VcvUmbhmFVoHcWCtFMJ_I5fOkfRVX2W3-PgIYy-X7H_p_wNXrVrdfvK6jXf-ZSCoIW8",
+    "https://play-lh.googleusercontent.com/_ou3x37ER6onlfWiJYrpz0YAxBa3JYoDnal9Xgb7Rz1m4tTZyXgVHrYkiMWTYwfBhLc",
+    "https://play-lh.googleusercontent.com/zqFbu_lLj2lW3dNUN2VGJnw2hXU_EdXTZn5RahPBQSlICcwjheoLpExq92b7gkmKIg",
+    "https://play-lh.googleusercontent.com/oh6OrZHisCg3A81U7tnNR4TgumAFsOGaRxHDvR-pmhjGK10yPayzQ84owjTUznv4mw",
+    "https://play-lh.googleusercontent.com/CoffQyxNWfyTmYY_GfQE1_DInwiY2GAGkVkQoP4yr35GjIlRvfMqzf1qnWbeMy2WTEc",
+    "https://play-lh.googleusercontent.com/92Z6evvSjfUM16Nm1qu0YY6arCI3SLXXiTk6u4GgKD--NUR1F4fLtSepJi_MSGg99A",
+    "https://play-lh.googleusercontent.com/zOCh9g81zKqMlNzd2rJ6oO-4J9VrmUxFLhJZ9uQFyiOZI3LRIJo2L6Vw9pHfZfd07A",
+    "https://play-lh.googleusercontent.com/Qi8VQO53rVz73IDNQTQ8rNuxoV2r8OFbMBcWk2nukzCHHjpGsok63KdGZjfUZw1Cm3Tb",
+    "https://play-lh.googleusercontent.com/Q30_Bsl0b0D9MdxjisUwCh9lIsyJyXrGVDaVsMjrMnQGFuuw6xtqbdZOJ0zGgKjI9pc",
+    "https://play-lh.googleusercontent.com/X9IQSb2x2OJbGJFO176wYrudO9Fpah7dkJUQx7Otjelkfy7bZRd4anenI8V4ONsvZg",
+    "https://play-lh.googleusercontent.com/W5euONWSbtN0fcRnCtGkE6D3WFDqKs1MDFODPkrOCOPQtkcuiMxB9wlbhA3uZ1AG_W4",
+    "https://play-lh.googleusercontent.com/ItqqrBV90NOlaV01iKBbUwIxktAdH1pnVP6QcJ3NGxcLNlXQPD9Yi7ewJw7MJLZV7A8",
+    "https://play-lh.googleusercontent.com/-qZjWL30lCdTYY0NJjQj4QF3dNKqZvjpduUkf4KwYDHuRrrvQR5REs8Rub6pEoZWHL0k",
+    "https://play-lh.googleusercontent.com/IAHiRsoo__uH8r63PS-jBj5dRKE7vYsVcQ1Tpe2z00QLifKUxeZysHEdUn1vcPsj-ZI",
+    "https://play-lh.googleusercontent.com/FOj1f7NZYyIy-JMKeMPkyA-_MOu_3b9-nIOAPhp6b5o9EqCUP-X6zAQCMaqXLJLNFA",
+    "https://play-lh.googleusercontent.com/Hwe35-vCLo4x_w1asg4nRM1b8VGu4xq8AmZn5dWyc6ZpvDh09WkxTuqu0mbXZC5DCHvt",
+    "https://play-lh.googleusercontent.com/R8h1P69wrBJXsy-EoawyfCiI7zqGFLO2LIX8PoZXWKe7eaOWdZ-kv8dra7GtVXwEMM8",
+    "https://play-lh.googleusercontent.com/ayPdPKx5R2OwJcfK9mYPDxhQ_3KVL4KFdxtNt3UUOrbL2KxiDh0m63dSSWCXQVcVXsg",
+    "https://play-lh.googleusercontent.com/mQRH7EMHYrw7K-7F3MeUNkmk8hcsoBWgTbc4PPoUfk0kpohWBOgN0IVQ_zbYlcTyHBU"
+  ],
+  "app_descript": "<h3>The Big Hit - A Muscle-Bulking Runner Adventure</h3>\n<p><strong>Brief:</strong>\nEngage in a fun and energetic muscle-building journey with \"The Big Hit\"! Swipe your way through an obstacle-laden course, collecting dumbbells to grow your arm muscles to epic proportions. Prepare yourself for the satisfying sprint to the ultimate challenge - defeating the boss with your pumped-up prowess and upgraded boxing gloves.</p>\n<p>📌 <strong>Core Features:</strong></p>\n<ul>\n<li><strong>Swipe-to-collect mechanics:</strong> Navigate your character by swiping to collect dumbbells and buffs 💪.</li>\n<li><strong>Power Boosts:</strong> Find and utilize speed boosters for a competitive edge 🚀.</li>\n<li><strong>Challenging Obstacles:</strong> Outmaneuver an array of blocks and barriers to reach the end 🚧.</li>\n<li><strong>Boss Battles:</strong> Prove your \"pink\" worthiness to confront and defeat the ultimate boss 👊.</li>\n<li><strong>Glove Upgrades:</strong> Unlock and upgrade a variety of boxing gloves for enhanced punching power 🥊.</li>\n</ul>\n<p>👍 <strong>Pros:</strong></p>\n<ul>\n<li><strong>Intuitive Controls:</strong> Simple finger swiping for an easy-to-learn gameplay experience 🕹️.</li>\n<li><strong>Rewarding Progression:</strong> Feel the satisfaction of powering up and crushing challenges 🏆.</li>\n<li><strong>Endless Replayability:</strong> Diverse obstacles ensure a unique experience with every run 🔄.</li>\n<li><strong>Visual Upgrades:</strong> Collect gems to visually enhance your gloves and show off your power 💎.</li>\n</ul>\n<p>👎 <strong>Cons:</strong></p>\n<ul>\n<li><strong>Repetitive Elements:</strong> Some players may find the gameplay loop monotonous after extended play 🔄.</li>\n<li><strong>Ad Intrusions:</strong> Interruptions by ads can potentially impact the gaming experience 📺.</li>\n<li><strong>Challenge Balance:</strong> The difficulty curve may not suit all players, potentially being too easy or too hard for some 🎚️.</li>\n<li><strong>Limited Variety:</strong> While upgrades exist, some might desire more customization options for their character 🤼.</li>\n</ul>\n<p>💵 <strong>Price:</strong>\nThe Big Hit is free to download and play, but it offers in-app purchases for those who wish to enhance their experience further.</p>\n<p>🕸️ <strong>Community:</strong></p>\n<ul>\n<li>Official Site: <a href=\"https://lionstudios.cc/\" rel=\"noopener noreferrer\" target=\"_blank\">Lion Studios</a></li>\n<li>YouTube: <a href=\"https://youtube.com/c/LionStudiosCC\" rel=\"noopener noreferrer\" target=\"_blank\">Lion Studios</a></li>\n<li>Facebook: <a href=\"https://facebook.com/LionStudios.cc\" rel=\"noopener noreferrer\" target=\"_blank\">Lion Studios</a></li>\n<li>Instagram: <a href=\"https://instagram.com/LionStudioscc\" rel=\"noopener noreferrer\" target=\"_blank\">Lion Studios</a></li>\n<li>Twitter: <a href=\"https://twitter.com/LionStudiosCC\" rel=\"noopener noreferrer\" target=\"_blank\">Lion Studios</a></li>\n</ul>\n<p>Enjoy flexing those virtual muscles and taking down bosses in \"The Big Hit\" today!</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-vARDAmirsGameStudio-CutePocketCat3DPart2/54434.html",
+      "icon": "assets/img/apk/icon/com.vARDAmirsGameStudio.CutePocketCat3DPart2.png",
+      "name": "Cute Pocket Cat 3D - Part 2",
+      "categoryLink": "/en/categories/arcade/35",
+      "category": "Arcade",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-dvloper-granny/39688.html",
+      "icon": "assets/img/apk/icon/com.dvloper.granny.png",
+      "name": "Granny",
+      "categoryLink": "/en/categories/arcade/35",
+      "category": "Arcade",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-kwalee-drawit/39649.html",
+      "icon": "assets/img/apk/icon/com.kwalee.drawit.png",
+      "name": "Draw it",
+      "categoryLink": "/en/categories/arcade/35",
+      "category": "Arcade",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-emulator-gba-gbcfree-gameboyadvance/39580.html",
+      "icon": "assets/img/apk/icon/com.emulator.gba.gbcfree.gameboyadvance.png",
+      "name": "GBA Emulator - 90s Retro Games",
+      "categoryLink": "/en/categories/arcade/35",
+      "category": "Arcade",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-elemental-gloves/39457.html",
+      "icon": "assets/img/apk/icon/com.elemental.gloves.png",
+      "name": "Elemental Gloves - Magic Power",
+      "categoryLink": "/en/categories/arcade/35",
+      "category": "Arcade",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-Pixasoft-DiwaliFireworksMaker/34666.html",
+      "icon": "assets/img/apk/icon/com.Pixasoft.DiwaliFireworksMaker.png",
+      "name": "Diwali Fireworks DIY Maker",
+      "categoryLink": "/en/categories/arcade/35",
+      "category": "Arcade",
+      "rating": "3.6"
+    },
+    {
+      "link": "/details/com-sandboxol-blockymods/16462.html",
+      "icon": "assets/img/apk/icon/com.sandboxol.blockymods.png",
+      "name": "Blockman Go",
+      "categoryLink": "/en/categories/arcade/35",
+      "category": "Arcade",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-bm-steal-brainrot-go-tung-sahur-tralalero-bombardino/16450.html",
+      "icon": "assets/img/apk/icon/com.bm.steal.brainrot.go.tung.sahur.tralalero.bombardino.png",
+      "name": "Steal n Catch the Brainrot",
+      "categoryLink": "/en/categories/arcade/35",
+      "category": "Arcade",
+      "rating": "4.5"
+    }
+  ]
+}

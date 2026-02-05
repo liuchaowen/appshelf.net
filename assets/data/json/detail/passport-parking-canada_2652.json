@@ -1,0 +1,112 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/ca.passportparking.mobile.passportcanada.png",
+    "title": "Passport Parking Canada",
+    "ratings": "4.5",
+    "downloads": "190M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Passport Parking Canada"
+    },
+    {
+      "name": "category",
+      "value": "Maps & Navigation"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Passport Labs, Inc."
+    },
+    {
+      "name": "Version",
+      "value": "1.0.10"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/8DISTOlJWKRw2J4GcUSbbP-KGqTFE9d6GUTeFVu7zDAuJSHKfieMhX06S-4oq6-Uigwk",
+    "https://play-lh.googleusercontent.com/my9M3Ee-MqZCckYHHtnplSralr48n4KtUPIWEtxH2U231AX5DI72IcoIFakwGelmmTM",
+    "https://play-lh.googleusercontent.com/VxmYQYxZ6XeiWKaQjN0p5xnggP2j-XNs29RpvtqIHna7aPT4dPRHJkCL2H7Il_6ppQ",
+    "https://play-lh.googleusercontent.com/Ga4O8WmANltKPWwXLFXnrunJy1yfs6-CGv-CNx_TuUIJv1ubsmY5eSxIJYPJlugyxY12",
+    "https://play-lh.googleusercontent.com/ufRv0x5Ej2a9PPcfZ6dN2pqJqXWzYKk3bNc-SWpN0tQf0QbufY_bG4Durx8sHXjrIg",
+    "https://play-lh.googleusercontent.com/62cyNuYBmsgJdufiBVN9MnwYO5hSaLLgDLLbwetdUiacU_37C1JAfvz8u8S8C7TW-Q",
+    "https://play-lh.googleusercontent.com/LR_D5MYoazLj_ANdvUF6IORm9yaEdR3uTSH7iCI_NeQfBjqEbeHMowo4JyHB9v7XzA",
+    "https://play-lh.googleusercontent.com/ANWlqzdMEVmsbLbuSmAWnR1kKPkGmj_O0zVn0n2zaTIIHjsoQSJ-9Uh-5bplRoA1U7V6"
+  ],
+  "app_descript": "<h3>Passport Parking Canada</h3>\n<p><strong>Brief:</strong>\nPassport Parking Canada is a leading parking application designed to streamline your parking experience. Tailored for Canadian users, this app simplifies the process of finding and paying for parking, letting you spend less time worrying about parking tickets and more time enjoying your destination. Whether you're a local or a visitor, this app promises to enhance how you park all over Canada.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li><strong>Cloud-Based Management:</strong> Access your parking information from anywhere, at any time. 🌐</li>\n<li><strong>Hassle-Free Registration:</strong> Sign up for free without any obligation to use the system. 📝</li>\n<li><strong>Widespread Coverage:</strong> Utilize the app's extensive Canadian parking facility network as you travel. 🚗</li>\n<li><strong>User-Friendly Interface:</strong> Navigate the app with ease for a better parking experience. 📱</li>\n<li><strong>Real-Time Updates:</strong> Stay informed about your parking status and receive notifications. ⏰</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li><strong>Cost-Efficiency:</strong> Avoid parking fines and use cost-effective parking options. 👛</li>\n<li><strong>Time-Saving:</strong> Quickly find and manage your parking spots, saving valuable time. ⌛</li>\n<li><strong>Flexibility:</strong> No long-term commitments required; use the system as you please. 🔄</li>\n<li><strong>Expanding Network:</strong> Rapidly growing installations mean more parking options. 📈</li>\n<li><strong>Customer Support:</strong> Open communication channels for feedback and assistance. 💌</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li><strong>Network Dependence:</strong> Effective use requires a reliable internet connection, which may not be available in all areas. 📶</li>\n<li><strong>Limited to Canada:</strong> International visitors must look for alternate apps when outside Canada. 🍁</li>\n<li><strong>Smartphone Requirement:</strong> Non-smartphone users are unable to leverage the app's features. 📵</li>\n<li><strong>Data Usage:</strong> Using the app can consume data from your mobile plan. 📊</li>\n<li><strong>Learning Curve:</strong> New users may take time to become familiar with the user interface and features. 🧠</li>\n</ul>\n<p><strong>Price:</strong>\nThe Passport Parking Canada app is free to download and register. Additional costs may apply while using its services in various parking facilities. Users should check the app for specific parking rates and possible in-app purchases. 💵</p>\n<p><em>Please note that this description is a summary crafted for informative purposes. For the most recent updates, features, and pricing, please refer to the app or its official communication channels.</em></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-hundred-qibla-finder/14082.html",
+      "icon": "assets/img/apk/icon/com.hundred.qibla.finder.png",
+      "name": "Qibla Finder Compass 100%",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/kbk-maparea-measure-geo/5067.html",
+      "icon": "assets/img/apk/icon/kbk.maparea.measure.geo.png",
+      "name": "Gps Area Calculator",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "3.9"
+    },
+    {
+      "link": "/details/Offline-Maps-GPS-Speedometer/4633.html",
+      "icon": "assets/img/apk/icon/com.radarapp.trip.speedometer.png",
+      "name": "Offline Maps, GPS, Speedometer",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/Satellite-View-Offline/4620.html",
+      "icon": "assets/img/apk/icon/com.breezeammarathon.viskoproton.grampooffline.png",
+      "name": "Satellite View Offline",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/Rapido/4563.html",
+      "icon": "assets/img/apk/icon/com.rapido.passenger.png",
+      "name": "Rapido",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/CarInfo/4500.html",
+      "icon": "assets/img/apk/icon/com.cuvora.carinfo.png",
+      "name": "CarInfo",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-trailbehind-android-gaiagps-pro/4473.html",
+      "icon": "assets/img/apk/icon/com.trailbehind.android.gaiagps.pro.png",
+      "name": "Gaia GPS: Offroad Hiking Maps",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-gpsnavigation-maps-gpsroutefinder-routemap/4472.html",
+      "icon": "assets/img/apk/icon/com.gpsnavigation.maps.gpsroutefinder.routemap.png",
+      "name": "GPS Navigation: Road Map Route",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    }
+  ]
+}

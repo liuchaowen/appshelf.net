@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/co.genvis.travelexemptions.png",
+    "title": "G2G PASS",
+    "ratings": "4.7",
+    "downloads": "10M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "G2G PASS"
+    },
+    {
+      "name": "category",
+      "value": "Travel & Local"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "GenVis"
+    },
+    {
+      "name": "Version",
+      "value": "1.3.6"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h2>G2G PASS</h2>\n<p><strong>Brief:</strong>\nG2G PASS serves as an innovative travel management solution for individuals planning to transit through Western Australia. This intuitive mobile tool is endorsed by the Western Australia Police Force to streamline the travel exemption process, ensuring that travelers are authorized and in compliance with the regional road usage policies.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🚦 <strong>Travel Compliance</strong>: Ensures that users meet the travel criteria outlined by the Western Australia Police Force.</li>\n<li>🗂️ <strong>Document Management</strong>: A central hub to manage all necessary travel documentation and exemption approvals.</li>\n<li>📱 <strong>User-Friendly Interface</strong>: Easy navigation and clear guidance throughout the exemption application process.</li>\n<li>🛂 <strong>Real-Time Updates</strong>: Receive immediate notification regarding the status of travel exemptions.</li>\n<li>🌐 <strong>Community Support</strong>: Access to support channels directly through the app for any queries or assistance required.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👮‍♀️ <strong>Authority Verified</strong>: Backed by the Western Australia Police Force, offering a layer of trust and legitimacy.</li>\n<li>🆓 <strong>Cost-Effective</strong>: Completely free to use for all travelers.</li>\n<li>✈️ <strong>Smooth Travel Experience</strong>: Simplifies the process of obtaining the necessary travel exemptions.</li>\n<li>📖 <strong>Informational Resource</strong>: Provides critical information related to travel requirements and restrictions.</li>\n<li>💌 <strong>Direct Assistance</strong>: In-app access to email support for user convenience.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👀 <strong>Limited Geographic Utility</strong>: Primarily functional only for individuals traveling to or within Western Australia.</li>\n<li>📶 <strong>Dependent on Connectivity</strong>: Requires internet access for real-time information, which might be a limitation for users in areas with poor connectivity.</li>\n<li>🔄 <strong>Manual Updates Needed</strong>: Users need to keep the app updated for the latest travel guidelines.</li>\n<li>🗺️ <strong>Specialized Usage</strong>: Not broadly applicable to users outside the mandated travel exemption scenarios.</li>\n<li>📤 <strong>Potential Delays</strong>: Response times for exemptions may vary, impacting travel plans.</li>\n</ul>\n<p><strong>Price:</strong>\n💵 G2G PASS is a free app but requires a stable internet connection for full functionality, which may incur data usage charges depending on your service plan.</p>\n<p><em>Community section is not included as G2G PASS is a non-game app.</em></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-bp-app-bpme-global-ros/16042.html",
+      "icon": "assets/img/apk/icon/com.bp.app.bpme.global.ros.png",
+      "name": "earnify",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/kulana-tools-vacationcountdown/10380.html",
+      "icon": "assets/img/apk/icon/kulana.tools.vacationcountdown.png",
+      "name": "Vacation Countdown App",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-disney-playdisneyparks-goo/4681.html",
+      "icon": "assets/img/apk/icon/com.disney.playdisneyparks.goo.png",
+      "name": "Play Disney Parks",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-hornblower-statuecruises/4679.html",
+      "icon": "assets/img/apk/icon/com.hornblower.statuecruises.png",
+      "name": "Statue Cruises",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-usnpw-grca/4678.html",
+      "icon": "assets/img/apk/icon/com.usnpw.grca.png",
+      "name": "Grand Canyon National Park",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/MakeMyTrip-Hotels-Flight-Bus/4591.html",
+      "icon": "assets/img/apk/icon/com.makemytrip.png",
+      "name": "MakeMyTrip Hotels, Flight, Bus",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/ConfirmTkt/4570.html",
+      "icon": "assets/img/apk/icon/com.confirmtkt.lite.png",
+      "name": "ConfirmTkt",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/Bus-Train-Ticket-Booking-App/4503.html",
+      "icon": "assets/img/apk/icon/in.redbus.android.png",
+      "name": "Bus, Train Ticket Booking App",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.9"
+    }
+  ]
+}

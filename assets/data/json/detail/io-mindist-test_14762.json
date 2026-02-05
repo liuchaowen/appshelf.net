@@ -1,0 +1,108 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/io.mindist.test.png",
+    "title": "ADHD Test: Science based & fun",
+    "ratings": "4.3",
+    "downloads": "2M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "ADHD Test: Science based & fun"
+    },
+    {
+      "name": "category",
+      "value": "Health & Fitness"
+    },
+    {
+      "name": "Price",
+      "value": "0"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Mindist, Inc."
+    },
+    {
+      "name": "Version",
+      "value": "5.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/xuc_WVeFKY-MM14D9FSekZ5NHeYf2fz-n7gOL3i5ZlejcwPPQtvdHl5PGY9mzesTMQ",
+    "https://play-lh.googleusercontent.com/FDHuED5ZSIrC1LYYxrOAV4JfFOx6En5WC8GelGr7LWvTO0vCqOMquji_g8jlwTozvJs",
+    "https://play-lh.googleusercontent.com/DsU3zE5gVOXO-ydwBu0Ppz3DYLas8sOWkpyb6sAH6w8OTMqAmRqnjSwC7woO7yvIu6A",
+    "https://play-lh.googleusercontent.com/RSEIwzD1Q1uyndh-dnF9GvcqGUxqjZz2-H0iLrj__bD0SeeRJoHry8zJCBdIMEkF5pU"
+  ],
+  "app_descript": "<h1>ADHD Test: Science based &amp; fun</h1>\n<p>Discover your ADHD potential with \"ADHD Test: Science Based &amp; Fun,\" a unique self-assessment tool designed for adults. Utilizing the science-proven ASRS-v1.1 symptom checklist, this app offers an engaging and straightforward way to evaluate your ADHD symptoms.</p>\n<h2>Core Features</h2>\n<ul>\n<li><strong>Easy Self-Assessment</strong> 📝: Take a simple and enjoyable test to check for ADHD symptoms.</li>\n<li><strong>Science-Proven Methodology</strong> 🔬: Based on the validated ASRS-v1.1 symptom checklist, ensuring reliable results.</li>\n<li><strong>User-Friendly Interface</strong> 📱: Navigate effortlessly through the app with its intuitive design.</li>\n<li><strong>Instant Results</strong> ⏱️: Get your assessment results quickly to begin understanding your ADHD.</li>\n<li><strong>Fun Experience</strong> 🎉: Transform a routine assessment into an engaging and enjoyable process.</li>\n</ul>\n<h2>Pros</h2>\n<ul>\n<li><strong>Quick and Efficient</strong> ⚡: Complete the assessment in a short amount of time.</li>\n<li><strong>Accessible</strong> 🌍: Ideal for adults looking to learn more about their ADHD symptoms.</li>\n<li><strong>Data Privacy</strong> 🔒: Your personal assessment results are kept confidential.</li>\n<li><strong>Informative</strong> 📊: Provides insights that may lead to better understanding and management of ADHD.</li>\n</ul>\n<h2>Cons</h2>\n<ul>\n<li><strong>Limited Scope</strong> 🔍: Primarily focused on adult ADHD, not suitable for children.</li>\n<li><strong>Self-Reported Nature</strong> 🗣️: Results are based on your self-assessment, which may not be clinically definitive.</li>\n<li><strong>Potential Inaccuracy</strong> ⚠️: As with any self-test, results should not replace professional diagnosis.</li>\n<li><strong>Lack of Personalized Feedback</strong> 🤔: Offers results but does not provide tailored advice or recommendations.</li>\n</ul>\n<h2>Price</h2>\n<ul>\n<li>The app is <strong>free</strong> to download, with potential <strong>in-app purchases</strong> available for enhanced features.</li>\n</ul>",
+  "related_apps": [
+    {
+      "link": "/details/com-appflows-BodyMuse/48997.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.appflows.BodyMuse.png",
+      "name": "BodyMuse: Body Shape Analysis",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-codev-headache_app/39734.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.codev.headache_app.png",
+      "name": "Headache Diary, Test & Treat",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/life-simple/39727.html",
+      "icon": "https://img.buzzsight.co/apk/icon/life.simple.png",
+      "name": "Simple: AI Weight Loss Coach",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-clearblue-minerva/39464.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.clearblue.minerva.png",
+      "name": "Menopause Stage - Clearblue me",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-jplanet-lungtestandbreathpractice/39424.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.jplanet.lungtestandbreathpractice.png",
+      "name": "Lung Test and Breath Exercise",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "3"
+    },
+    {
+      "link": "/details/healthy-lungs-breathing-exercise-coach-pranayama-breath-workout-lung-exercises/39423.html",
+      "icon": "https://img.buzzsight.co/apk/icon/healthy.lungs.breathing.exercise.coach.pranayama.breath.workout.lung.exercises.png",
+      "name": "Lungs Test: Breathing Exercise",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-smartoptometry-smartoptometry-full/34733.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.smartoptometry.smartoptometry.full.png",
+      "name": "Smart Optometry - Eye Tests",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-b2creativedesigns-eyetest/34732.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.b2creativedesigns.eyetest.png",
+      "name": "Eye test",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.1"
+    }
+  ]
+}

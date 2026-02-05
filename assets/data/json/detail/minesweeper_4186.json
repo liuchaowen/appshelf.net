@@ -1,0 +1,109 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/Draziw.Button.Mines.png",
+    "title": "Minesweeper",
+    "ratings": "4.7",
+    "downloads": "50M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Minesweeper"
+    },
+    {
+      "name": "category",
+      "value": "Puzzle"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Evgeny Karavashkin"
+    },
+    {
+      "name": "Version",
+      "value": "1.12.4"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/TIeGdExRWHRTucmmIus-oV2cSExQiStMrHnHfdtN78G3RrCNqJkKMTMFXh1WTLrhXg",
+    "https://play-lh.googleusercontent.com/TMlpTyPLgYjamHtKFaeBqzwdrrKs5DKkxMQwBRXta94UymC6SSCFJSgJMkyUT9uLsg",
+    "https://play-lh.googleusercontent.com/jJcJcn8zbeHxFnmzft_SFSzxACvwzjOAqKbQByqEHvQdM8VGkHiIZzPYCCkKBZHO",
+    "https://play-lh.googleusercontent.com/dTmwMqd5QdZMQF5dQvcYXqtSTu18ZlsKKNAK2Ombe9cbQLFrZhHyeWUrt82byh24ww",
+    "https://play-lh.googleusercontent.com/z9qjOIyMIA8fhthNdOiuixQdjvGjOJDFz7ABhD677s2Yh4we9EU7FNWdjeW28MDPgQ"
+  ],
+  "app_descript": "<h3>Brief</h3>\n<p>Get ready for an engaging and classic puzzle experience with Minesweeper, the timeless game that combines skill, strategy, and a little bit of luck. In this digital version, players dive into the nostalgic world of Minesweeper, the game that defined a generation of puzzle enthusiasts – and it's entirely free to play! Ready your minds and steady your nerves for a modern take on the beloved game that's both familiar and fresh.</p>\n<h3>Core Features</h3>\n<ul>\n<li>📌 <strong>Classic Gameplay:</strong> Engage with the iconic Minesweeper experience featuring traditional rules and gameplay.</li>\n<li>📌 <strong>Multiple Difficulty Levels:</strong> Choose from beginner, intermediate, expert and custom modes to challenge your intellect at varying levels of complexity.</li>\n<li>📌 <strong>Achievements and Leaderboards:</strong> Earn achievements as you play and climb the global leaderboards to prove your puzzle prowess.</li>\n<li>📌 <strong>Tablet Support:</strong> Enjoy Minesweeper on a larger screen with dedicated tablet support for an enhanced visual experience.</li>\n<li>📌 <strong>Save and Resume:</strong> The auto-save feature allows you to pick up exactly where you left off, ensuring that no session goes to waste.</li>\n</ul>\n<h3>Pros</h3>\n<ul>\n<li>👍 <strong>Free to Play:</strong> Dive into the classic game at no cost and with no hidden charges.</li>\n<li>👍 <strong>Versatile Difficulty Options:</strong> Suitable for both puzzle novices and seasoned experts wanting to test their logic.</li>\n<li>👍 <strong>Competitive Edge:</strong> Challenge friends and global players to beat your high scores.</li>\n<li>👍 <strong>Progressively Challenging:</strong> With each level, learn new strategies and tricks to tackle even tougher challenges.</li>\n<li>👍 <strong>User-Friendly:</strong> Mistakes are easily remediable, making it ideal for learners and veterans alike.</li>\n</ul>\n<h3>Cons</h3>\n<ul>\n<li>👎 <strong>Risk of Repetitiveness:</strong> With classic gameplay, some users may find the experience repetitive over time.</li>\n<li>👎 <strong>Interface Familiarity Required:</strong> New users without nostalgia or prior experience with Minesweeper may require time to fully enjoy the game.</li>\n<li>👎 <strong>Limited Graphics:</strong> The game may not appeal to those looking for high-end graphics or modern aesthetics.</li>\n<li>👎 <strong>Learning Curve:</strong> Beginners might experience a steep learning curve in understanding game mechanics.</li>\n<li>👎 <strong>Ad Interruptions:</strong> As with many free games, ads can sometimes disrupt the gameplay experience.</li>\n</ul>\n<h3>Price</h3>\n<p>💵 Minesweeper is free to download and play, with no in-app purchases necessary.</p>\n<h3>Community</h3>\n<p>🕸️ Explore the vibrant community and see how you stack against other players. While the specific community links are not provided, Minesweeper enthusiasts often share tips, tricks, and their high scores on various platforms. You can likely find fellow players on gaming forums, Reddit and dedicated Minesweeper boards.</p>\n<p>*** Enjoy Minesweeper and aim to dominate the leaderboard as you avoid the mines and engage in one of the most enduring puzzle games of all time! ***</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-fc-p-to-creepy-annoying-puzzle-story/54422.html",
+      "icon": "assets/img/apk/icon/com.fc.p.to.creepy.annoying.puzzle.story.png",
+      "name": "Nightmare Puzzles: The Unknown",
+      "categoryLink": "/en/categories/puzzle/50",
+      "category": "Puzzle",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-tricky-story-brain-quest/54416.html",
+      "icon": "assets/img/apk/icon/com.tricky.story.brain.quest.png",
+      "name": "Tricky Story",
+      "categoryLink": "/en/categories/puzzle/50",
+      "category": "Puzzle",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-dbrother-ragini-isback/54093.html",
+      "icon": "assets/img/apk/icon/com.dbrother.ragini.isback.png",
+      "name": "Ragini Is Back : Horror Escape",
+      "categoryLink": "/en/categories/puzzle/50",
+      "category": "Puzzle",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-grapetree-meowtower/54087.html",
+      "icon": "assets/img/apk/icon/com.grapetree.meowtower.png",
+      "name": "Meow Tower: Nonogram (Offline)",
+      "categoryLink": "/en/categories/puzzle/50",
+      "category": "Puzzle",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/com-ecffri-arrows/49082.html",
+      "icon": "assets/img/apk/icon/com.ecffri.arrows.png",
+      "name": "Arrows – Puzzle Escape",
+      "categoryLink": "/en/categories/puzzle/50",
+      "category": "Puzzle",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-ally-numbermemory/49070.html",
+      "icon": "assets/img/apk/icon/com.ally.numbermemory.png",
+      "name": "Number Memory Games",
+      "categoryLink": "/en/categories/puzzle/50",
+      "category": "Puzzle",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/funcore-bricker-construction_set-puzzle/39538.html",
+      "icon": "assets/img/apk/icon/funcore.bricker.construction_set.puzzle.png",
+      "name": "Construction Set - 3D Builder",
+      "categoryLink": "/en/categories/puzzle/50",
+      "category": "Puzzle",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-puzzlegame-asmr-paper-cut/39525.html",
+      "icon": "assets/img/apk/icon/com.puzzlegame.asmr.paper.cut.png",
+      "name": "Paper Cut: ASMR Puzzle",
+      "categoryLink": "/en/categories/puzzle/50",
+      "category": "Puzzle",
+      "rating": "4.3"
+    }
+  ]
+}

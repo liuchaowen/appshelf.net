@@ -1,0 +1,136 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/com.rovio.abcasual.png",
+    "title": "Angry Birds Journey",
+    "ratings": "4.5",
+    "downloads": "850M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Angry Birds Journey"
+    },
+    {
+      "name": "category",
+      "value": "Puzzle"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Rovio Entertainment Corporation"
+    },
+    {
+      "name": "Version",
+      "value": "2.5.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/KiR22Dk5jt83JO_KHOFZMQxJ_ZS7FFSRdPjmuhsybs6-1RnWbLcwE5boK2yEYmigNQ",
+    "https://play-lh.googleusercontent.com/Owyh0BrgmIM6-sKaMAy8Sc9X_ffOxhL_kdZeYG8Ibiz3wCr_Lm3cyYMiChqxgfwUTA",
+    "https://play-lh.googleusercontent.com/ylPT0LSA8I0CIQWYN9JV39gCGoI71sBHa7n27a4Iauvu2G-Kgil4Q3eYkfqEro_hB4eO",
+    "https://play-lh.googleusercontent.com/N-Fc9yfpjO2_J-xELMgpo-KQD1cRFOLwcb3unPATb9CluldS3o7QA9NFg4Py0ivZmdI",
+    "https://play-lh.googleusercontent.com/AfSSMLzMpEs-pW4H-kIuOrwK1UUE-lnuzTDDgX8wpO8ATUELN_gYXChfCsnOh0gyDPs",
+    "https://play-lh.googleusercontent.com/RSeKBUDP4p2ubbPua7ASCVumH-Jap7L2yzdZQY8kbMxZTD6YUXYRKCqfovHLPTsOq2Ia",
+    "https://play-lh.googleusercontent.com/kKvpGl_Kv58iwXxkQFMWBhTzLr_YGh7qKBMfP-UXXO1s9oAU0CWHA9y0NPiFVEh2Dw",
+    "https://play-lh.googleusercontent.com/3Z1PeXXTZk2GNXogmkr4fzE4Cveyh7pJ068DkRzx-UJklZcglabTp2kf3hPnkNznNk8",
+    "https://play-lh.googleusercontent.com/5OoCSYj1ox9um57Ov4rpZWr5P6GMvvWlfZ_7SSgTxfw5efam_lrcUW-NTPcIQ3nc14w",
+    "https://play-lh.googleusercontent.com/FeNiOuWCamrjIABmF109f7HRnT2YKC9Mz9vhCpaQh8zT7qD1KBm-22F573fz2gBhcOlP",
+    "https://play-lh.googleusercontent.com/nUDvD1WBivFeBEBj2ZV9hRUV2GlB2i2gDztoj87AR3b9x70-3O0A_ljYYFlg5hsF0aEA",
+    "https://play-lh.googleusercontent.com/j2glkqo9VKeIyjKY7BP40LSxusEoj0dMnSAY1li6Yyp87FhXGcnMqai6Fl8GzJD8Qw",
+    "https://play-lh.googleusercontent.com/SSMmauYA3hh5Kbl1WZDiS5v_EGwkeBN__neOMPKzG87RZJbAvoQJ85odQhx9DVMaNgDB",
+    "https://play-lh.googleusercontent.com/aZfy-Zcm1hed3POhcEjkhKhWCIb2ZZtLKrj36XzduTDdbdqQekWK1prnel2J6NQxdg",
+    "https://play-lh.googleusercontent.com/SJ1ChtXbC-x_mV8wkW9Pck9w9etrM35gwAbMbybJpD7P6vRh7aflWNWLkKTC0E8T2EE",
+    "https://play-lh.googleusercontent.com/YIvYZDDCJNFmN_5phvGe60sXScy7V7GEGnrrHnegpVKlJwaqyDWTGh5P1dnpL123XQ",
+    "https://play-lh.googleusercontent.com/DbP3FsDxyw2qa_Dn0EHXBsB27ZUHcc2tkS9DFWZgFp7StPnJm3HFD_YeyKzXXDlMrXZX",
+    "https://play-lh.googleusercontent.com/xHPaCmXEj6dsJueLZFmMWYOdMHyWsd5MWGZ4i7w6yxjeoUo_xPWySizaIK2JFJkYZYE",
+    "https://play-lh.googleusercontent.com/PX-9agLek8ja0autGSziDCWKu99HzjdpwRMQcoWWFPn5YigajTyONPlL0lsyeLzQ81s",
+    "https://play-lh.googleusercontent.com/jnessGR4iPGx_wn7gj6plxQZrnGPMNhPep-y8lWqSRGhbgWhgF8GW46slhFJ_7qkjQ",
+    "https://play-lh.googleusercontent.com/-cul97mWWGWDL4KaijDK64v7UcINDlWoxEvihOD2V1VoKTL0FZWqTOzEdS3U7SDrYUM",
+    "https://play-lh.googleusercontent.com/At3DM6hlc8GKHrfxG9aOZRoFU5NFBcdUcPW830BYNoxVjKPQ3kvriDXwXAjS808T-OM",
+    "https://play-lh.googleusercontent.com/cMEJXc9M6GGobsojFggoExLPJyQrTTvhXH1U0Ka5lWF04wz8hmXoowKnIrfjVSjxQUll",
+    "https://play-lh.googleusercontent.com/55jaZoqy1_vcpI9OEBHOcCdz_J2Y7sNJVpbcegADi4GvRhL-YzcdN4c6UAprNtPNOxw",
+    "https://play-lh.googleusercontent.com/IsypPoxc0xCTwOv1j0B0YEGGu6uLjhbE8-Y6RmFd5Bd9dPnYeELKPwvusVcVgf-VjUyC",
+    "https://play-lh.googleusercontent.com/aNlBYkM1uvJ4gRX7gBJVenM13etD2b_tlGLoazr93NrtjN8iaX77JeCqW8ggXEcHeX0O",
+    "https://play-lh.googleusercontent.com/XyAc2qzHx-YIrRDnE1RdRR_EkwdkDr9QP9lgr9RcUxG5V7owTPE8LCVfHnoFNB23DUTF",
+    "https://play-lh.googleusercontent.com/JCI-4qVXBl1Hh_k91UCfVSEqEzErA5AawkE8MNsD18WXXM7dM4Hzpk1zSt04eCmu4Q",
+    "https://play-lh.googleusercontent.com/VN9sDRRLq9zlhSZQoiJjX55cXRC1g4-t5qhi-ccQyH809GydLugs0o6onSoYLQBEFxI",
+    "https://play-lh.googleusercontent.com/fhwsvbaQkYQ3kagFTfaDWsQKTblUbLknE8uCnE3xhy6hhZsHx3Fk-x0Wjr6M0B7RCkTN",
+    "https://play-lh.googleusercontent.com/a3t6B7qqAiSNIEuEHMB5VADpsRpEtrqbpShumjvpsH-z1aEcZlO4rVEvK_g147Czy0I",
+    "https://play-lh.googleusercontent.com/0VYGVY0VnDQ0HJdvnGn8JC-epeARqL6AvQE4yy2WNEj7Fu5mwDqAy65n9YYoH-JXFLA"
+  ],
+  "app_descript": "<h3>Brief</h3>\n<p>Prepare to fling yourself into the world of \"Angry Birds Journey,\" the latest installment in the renowned Angry Birds franchise! Engage in easy-to-play, pleasurable puzzle experiences as you journey through numerous levels packed with casual entertainment. With revamped gameplay that is accessible anytime and anywhere, join the classic and new Angry Bird characters on an epic quest to uncover the mystery of the Egg Wonders.</p>\n<h3>Core Features 📌</h3>\n<ul>\n<li><strong>Intuitive Gameplay:</strong> Jump in and play with ease, ideal for puzzle aficionados of all ages.</li>\n<li><strong>Entertaining Puzzles:</strong> Delight in solving relaxing and fun puzzles that will keep you entertained for hours.</li>\n<li><strong>Numerous Levels:</strong> Explore hundreds of exciting levels, each offering a unique casual fun experience.</li>\n<li><strong>Rewards and Collectibles:</strong> Complete levels and collect coins to win awesome rewards and boosters.</li>\n<li><strong>Expansive World:</strong> Discover exotic locales and join the beloved Angry Birds on a grand adventure with a captivating story.</li>\n</ul>\n<h3>Pros 👍</h3>\n<ul>\n<li><strong>Pick Up and Play:</strong> Game design allows for quick sessions, perfect for on-the-go entertainment.</li>\n<li><strong>All Favorite Characters:</strong> Play with both the iconic Angry Birds cast and exciting new characters.</li>\n<li><strong>Engaging Storyline:</strong> Follow the engaging narrative of the Egg Wonders as it unfolds throughout the game.</li>\n<li><strong>Regular Updates:</strong> Benefit from continuous updates adding new features, content, and optimizing performance.</li>\n</ul>\n<h3>Cons 👎</h3>\n<ul>\n<li><strong>In-App Purchases:</strong> While free to play, some players may find in-app purchases can impact overall experience.</li>\n<li><strong>Content Updates Required:</strong> Game might not work properly without the latest updates which can be inconvenient for some users.</li>\n<li><strong>Data Usage:</strong> Regular updates may use a significant amount of data.</li>\n<li><strong>Device Compatibility:</strong> Not all features may be supported on older devices.</li>\n</ul>\n<h3>Price 💵</h3>\n<p>The \"Angry Birds Journey\" app is completely free to play, offering hours of puzzle-solving fun at no initial cost. Be aware, there are optional in-app purchases available for players who wish to enhance their gaming experience.</p>\n<h3>Community 🕸️</h3>\n<ul>\n<li><strong>Official Site:</strong> <a href=\"https://www.angrybirds.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Angry Birds</a></li>\n<li><strong>YouTube Channel:</strong> <a href=\"https://www.youtube.com/user/RovioMobile\" rel=\"noopener noreferrer\" target=\"_blank\">Rovio Entertainment</a></li>\n<li><strong>Popular YouTuber:</strong> N/A</li>\n<li><strong>Instagram:</strong> <a href=\"https://www.instagram.com/angrybirds/\" rel=\"noopener noreferrer\" target=\"_blank\">Angry Birds Official</a></li>\n<li><strong>Twitter:</strong> <a href=\"https://twitter.com/AngryBirds\" rel=\"noopener noreferrer\" target=\"_blank\">Angry Birds</a></li>\n<li><strong>Discord:</strong> N/A</li>\n<li><strong>Facebook:</strong> <a href=\"https://www.facebook.com/angrybirds/\" rel=\"noopener noreferrer\" target=\"_blank\">Angry Birds</a></li>\n<li><strong>TikTok:</strong> <a href=\"https://www.tiktok.com/@angrybirds\" rel=\"noopener noreferrer\" target=\"_blank\">Angry Birds</a></li>\n<li><strong>Reddit:</strong> <a href=\"https://www.reddit.com/r/angrybirds/\" rel=\"noopener noreferrer\" target=\"_blank\">Angry Birds Subreddit</a></li>\n<li><strong>Fandom Wiki:</strong> <a href=\"https://angrybirds.fandom.com/wiki/Angry_Birds_Wiki\" rel=\"noopener noreferrer\" target=\"_blank\">Angry Birds Wiki</a></li>\n</ul>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-fc-p-to-creepy-annoying-puzzle-story/54422.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.fc.p.to.creepy.annoying.puzzle.story.png",
+      "name": "Nightmare Puzzles: The Unknown",
+      "categoryLink": "/en/categories/puzzle/50",
+      "category": "Puzzle",
+      "rating": "4.3"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-tricky-story-brain-quest/54416.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.tricky.story.brain.quest.png",
+      "name": "Tricky Story",
+      "categoryLink": "/en/categories/puzzle/50",
+      "category": "Puzzle",
+      "rating": "4.7"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-dbrother-ragini-isback/54093.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.dbrother.ragini.isback.png",
+      "name": "Ragini Is Back : Horror Escape",
+      "categoryLink": "/en/categories/puzzle/50",
+      "category": "Puzzle",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-grapetree-meowtower/54087.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.grapetree.meowtower.png",
+      "name": "Meow Tower: Nonogram (Offline)",
+      "categoryLink": "/en/categories/puzzle/50",
+      "category": "Puzzle",
+      "rating": "4.8"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-ecffri-arrows/49082.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.ecffri.arrows.png",
+      "name": "Arrows – Puzzle Escape",
+      "categoryLink": "/en/categories/puzzle/50",
+      "category": "Puzzle",
+      "rating": "4.6"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-ally-numbermemory/49070.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.ally.numbermemory.png",
+      "name": "Number Memory Games",
+      "categoryLink": "/en/categories/puzzle/50",
+      "category": "Puzzle",
+      "rating": "4.8"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/funcore-bricker-construction_set-puzzle/39538.html",
+      "icon": "https://img.buzzsight.co/apk/icon/funcore.bricker.construction_set.puzzle.png",
+      "name": "Construction Set - 3D Builder",
+      "categoryLink": "/en/categories/puzzle/50",
+      "category": "Puzzle",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-puzzlegame-asmr-paper-cut/39525.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.puzzlegame.asmr.paper.cut.png",
+      "name": "Paper Cut: ASMR Puzzle",
+      "categoryLink": "/en/categories/puzzle/50",
+      "category": "Puzzle",
+      "rating": "4.3"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.rapido.passenger.png",
+    "title": "Rapido",
+    "ratings": "4.7",
+    "downloads": "580M",
+    "age": "4+",
+    "download_link": "https://d.apkpure.com/b/APK/com.rapido.passenger?version=latest"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Rapido"
+    },
+    {
+      "name": "category",
+      "value": "Maps & Navigation"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Rapido Bike Taxi"
+    },
+    {
+      "name": "Version",
+      "value": "8.10.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/lfRJfow79HoyFxQwpBmZ4LEAmhiZ2x8YLRsLMDSjYfK7Lr1vv_CMpdFujnCkByWAdw",
+    "https://play-lh.googleusercontent.com/B556WV47jc4qw7F503gsU5BINncfGPR9XFWvyEAiEP77yc2XS1s7dab5jl2DmwC3Dp75",
+    "https://play-lh.googleusercontent.com/6nZgIITbljEStnkD14OVc4RgEZZC_V3FD6W879Qoi6wSRJ5-FJ-vjAUtyTmsIPF2cKxS",
+    "https://play-lh.googleusercontent.com/naU4lwrls_a4untw1_B7mHMzCiYAVQJd3aznd5n38WcHX_b8VVGPYD7ZvFMOcfmiZj8",
+    "https://play-lh.googleusercontent.com/65oORX_L2Q4Fqc-h27N0IzcCgcEh5V0W6xJhSMEI6HKiJBnXupyudfaZYZLsYzx5Iw",
+    "https://play-lh.googleusercontent.com/WEGhQ3RNWo-Jr4_NPgBzquaqL3cTnt1z4RuK9k64EPn6H5-pdG3HooPlwT7Y23ThtgYG",
+    "https://play-lh.googleusercontent.com/w6e9xbYTcPcBE5F-DNgSewQe0Wi0gsI3lQH18gT6xcfJrBa5eYmbbgDOmEN6M6lQ-A4",
+    "https://play-lh.googleusercontent.com/CHEkF5lkSxRglgo18XqrhFiXD1r_m94vz_321Z4lsBf-W16VRYBVYdWIM33Z3QRO2w"
+  ],
+  "app_descript": "<h3>Brief</h3>\n<p>Rapido is a convenient ride-booking app designed to make commuting fast and affordable by connecting passengers with bike taxi services. The platform diligently works to expand accessibility and ensure user safety, though availability and pricing may vary.</p>\n<h3>Core Features</h3>\n<ul>\n<li>🏍️ <strong>Bike Taxi Services</strong>: Provides an efficient alternative to traditional cabs and public transportation.</li>\n<li>📱 <strong>User-Friendly Interface</strong>: Easy booking with just a few taps on your smartphone.</li>\n<li>📍 <strong>Location-Based Services</strong>: Matches you with nearby drivers for quick pick-up and drop-off.</li>\n<li>🔍 <strong>Driver Verification</strong>: Ensures that all drivers are thoroughly verified for passenger safety.</li>\n<li>💳 <strong>Flexible Payment Options</strong>: Offers multiple payment methods, including cash, to cater to different user preferences. 📌</li>\n</ul>\n<h3>Pros</h3>\n<ul>\n<li>👍 <strong>Efficiency</strong>: Skip the traffic with bike taxis designed to navigate through congestion smoothly.</li>\n<li>👍 <strong>Convenience</strong>: Book rides instantly without the long wait associated with other means of transport.</li>\n<li>👍 <strong>Affordable Rides</strong>: Typically cheaper than other private transportation options.</li>\n<li>👍 <strong>Eco-Friendly</strong>: Lower carbon footprint compared to cars, contributing to environmental sustainability.</li>\n<li>👍 <strong>In-App Support</strong>: Access customer service directly through the app for any queries or concerns. 👍</li>\n</ul>\n<h3>Cons</h3>\n<ul>\n<li>👎 <strong>Limited Accessibility</strong>: Availability is restricted primarily to urban areas, excluding potential rural users.</li>\n<li>👎 <strong>Safety Concerns</strong>: Some passengers may still have reservations about safety despite driver verifications.</li>\n<li>👎 <strong>Variable Pricing</strong>: Surge pricing during peak times may lead to higher than expected fares.</li>\n<li>👎 <strong>Network Dependency</strong>: App functionality heavily relies on internet connectivity, which can be a limitation in areas with poor coverage.</li>\n<li>👎 <strong>Market Specificity</strong>: Not prevalent in all countries, limiting its global usage potential. 👎</li>\n</ul>\n<h3>Pricing</h3>\n<p>💵 Rapido operates on a dynamic pricing model, which means that it is free to download, but the cost per ride can fluctuate based on demand. Payments can be made via various channels within the app.</p>\n<p><a href=\"https://www.rapido.bike/\" rel=\"noopener noreferrer\" target=\"_blank\">Official Site</a></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-hundred-qibla-finder/14082.html",
+      "icon": "assets/img/apk/icon/com.hundred.qibla.finder.png",
+      "name": "Qibla Finder Compass 100%",
+      "categoryLink": "/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/kbk-maparea-measure-geo/5067.html",
+      "icon": "assets/img/apk/icon/kbk.maparea.measure.geo.png",
+      "name": "Gps Area Calculator",
+      "categoryLink": "/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "3.9"
+    },
+    {
+      "link": "/details/Offline-Maps-GPS-Speedometer/4633.html",
+      "icon": "assets/img/apk/icon/com.radarapp.trip.speedometer.png",
+      "name": "Offline Maps, GPS, Speedometer",
+      "categoryLink": "/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/Satellite-View-Offline/4620.html",
+      "icon": "assets/img/apk/icon/com.breezeammarathon.viskoproton.grampooffline.png",
+      "name": "Satellite View Offline",
+      "categoryLink": "/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/Rapido/4563.html",
+      "icon": "assets/img/apk/icon/com.rapido.passenger.png",
+      "name": "Rapido",
+      "categoryLink": "/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/CarInfo/4500.html",
+      "icon": "assets/img/apk/icon/com.cuvora.carinfo.png",
+      "name": "CarInfo",
+      "categoryLink": "/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-trailbehind-android-gaiagps-pro/4473.html",
+      "icon": "assets/img/apk/icon/com.trailbehind.android.gaiagps.pro.png",
+      "name": "Gaia GPS: Offroad Hiking Maps",
+      "categoryLink": "/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-gpsnavigation-maps-gpsroutefinder-routemap/4472.html",
+      "icon": "assets/img/apk/icon/com.gpsnavigation.maps.gpsroutefinder.routemap.png",
+      "name": "GPS Navigation: Road Map Route",
+      "categoryLink": "/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    }
+  ]
+}

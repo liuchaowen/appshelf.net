@@ -1,0 +1,112 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/au.gov.vic.ptv.png",
+    "title": "Public Transport Victoria app",
+    "ratings": "3.6",
+    "downloads": "830M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Public Transport Victoria app"
+    },
+    {
+      "name": "category",
+      "value": "Travel & Local"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Public Transport Victoria"
+    },
+    {
+      "name": "Version",
+      "value": "4.2.1"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/wnPxjUZ94-0y3UocYzrMx5Qoou2hQU8kk3gfnAEt9yeXob4okrwBigMZxs8mB2qKERBe",
+    "https://play-lh.googleusercontent.com/wNLPSPwXCszWMnM6JcbOM2mZsGlVt2BKB6r3YQdxtTVSKV1oW3clpkkEinjEk8ZUhN4",
+    "https://play-lh.googleusercontent.com/aLTYaf2EgZZeVIpfHsCz9pQ21PIp8EeCAeiEnTKIIkRrYp97zJaOhrSNs_pkqwbL_g",
+    "https://play-lh.googleusercontent.com/1KE4R7FPV0iexIuDHAXkTLXadw7EhhYzlRp5BIL58fm9PF57RAm7RDt8nHJd5Oregw",
+    "https://play-lh.googleusercontent.com/nBNVuftAVbljqSRLhhZYkIUZdNRkv5MhK5I-A9788nE_h6-TQNdOJ5Pj6ciTuliHNZM",
+    "https://play-lh.googleusercontent.com/0FFzSWUIDZSP1fjw3HgbYL-8DuC4tNx1x0LWQG4Jziy6cgS1uvgToqOWfiDW9GgUlOc",
+    "https://play-lh.googleusercontent.com/xRQN7cP6hgYRNkat1XQiE5nZQyNFdGx1v1OxHlG2oYiiJF42DQkUPD6D1bFNbAw8CQ",
+    "https://play-lh.googleusercontent.com/RiJH3zTunrzMRk6dQkmpOWEMz2PSuCX-J7ETrdYKVEKU0LfPypWCbGDyaMf7_CWA_5g"
+  ],
+  "app_descript": "<p><strong>Brief:</strong>\nThe Public Transport Victoria app is a must-have companion for anyone commuting in Victoria, Australia. Utilizing your current location, the app simplifies the process of locating nearby transport options and planning journeys. It helps you keep track of real-time departures, manage your myki travel card, and stay informed about any service disruptions, all in one handy tool.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li><strong>Nearby Transport Locator:</strong> Quickly find transport options close to you using geolocation technology 📍</li>\n<li><strong>Home &amp; Work Journey Planner:</strong> Speed up planning by setting up favourite locations ⚙️</li>\n<li><strong>Real-Time Departures:</strong> Stay up-to-date with live service departure times 📆</li>\n<li><strong>Live Tracking:</strong> Watch trains and buses in real-time as they approach stops 🚄</li>\n<li><strong>myki Management:</strong> Top up and manage your myki card with ease within the app 💳</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li><strong>Convenience:</strong> Saves favourite stops and travel routines for quicker access 🌟</li>\n<li><strong>Integration:</strong> Direct access to myki account balances and travel history 🔄</li>\n<li><strong>Updates:</strong> Push notifications keep you informed of any disruptions or announcements 🔔</li>\n<li><strong>User-Friendly Interface:</strong> Seamless and intuitive design for an enjoyable user experience 📲</li>\n<li><strong>Protection:</strong> Register myki cards to safeguard their balance 🛡️</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li><strong>Online Only:</strong> Requires a continuous internet connection, lacks offline functionality 📶</li>\n<li><strong>Limited Vehicle Tracking:</strong> Live tracking is only available for buses and trains, not all transport modes 🚍</li>\n<li><strong>Device Dependence:</strong> Entirely reliant on having your device on hand to access features 📱</li>\n<li><strong>Connectivity Issues:</strong> Performance can be compromised in areas with poor internet connections 🌐</li>\n<li><strong>Customer Service:</strong> Direct contact is limited to email, which may not be the preferred choice for all users ✉️</li>\n</ul>\n<p><strong>Price:</strong>\nThe app is free to download and use, with no mention of in-app purchases or premium features. However, remember that myki card charges and top-ups will apply as per myki's pricing policy. 💵</p>\n<p><em>(Please note that while the app itself is free, standard data charges from your mobile service provider may apply for the use of the app's online services.)</em></p>\n<p>Given that the Public Transport Victoria app is a practical tool for public transit rather than a game, a community section is not applicable for this description. Enjoy smooth and efficient travels throughout Victoria with the Public Transport Victoria app at your fingertips.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-bp-app-bpme-global-ros/16042.html",
+      "icon": "assets/img/apk/icon/com.bp.app.bpme.global.ros.png",
+      "name": "earnify",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/kulana-tools-vacationcountdown/10380.html",
+      "icon": "assets/img/apk/icon/kulana.tools.vacationcountdown.png",
+      "name": "Vacation Countdown App",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-disney-playdisneyparks-goo/4681.html",
+      "icon": "assets/img/apk/icon/com.disney.playdisneyparks.goo.png",
+      "name": "Play Disney Parks",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-hornblower-statuecruises/4679.html",
+      "icon": "assets/img/apk/icon/com.hornblower.statuecruises.png",
+      "name": "Statue Cruises",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-usnpw-grca/4678.html",
+      "icon": "assets/img/apk/icon/com.usnpw.grca.png",
+      "name": "Grand Canyon National Park",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/MakeMyTrip-Hotels-Flight-Bus/4591.html",
+      "icon": "assets/img/apk/icon/com.makemytrip.png",
+      "name": "MakeMyTrip Hotels, Flight, Bus",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/ConfirmTkt/4570.html",
+      "icon": "assets/img/apk/icon/com.confirmtkt.lite.png",
+      "name": "ConfirmTkt",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/Bus-Train-Ticket-Booking-App/4503.html",
+      "icon": "assets/img/apk/icon/in.redbus.android.png",
+      "name": "Bus, Train Ticket Booking App",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.9"
+    }
+  ]
+}

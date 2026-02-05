@@ -1,0 +1,110 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/nz.hwem.gaspy.png",
+    "title": "Gaspy",
+    "ratings": "3",
+    "downloads": "340M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Gaspy"
+    },
+    {
+      "name": "category",
+      "value": "Maps & Navigation"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Hwem"
+    },
+    {
+      "name": "Version",
+      "value": "3.6.8"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/tFTMM2HsvmSsGgQrHwtLLZ0pKnuvXxZuQjJzE5cIvoThov82Nq_eMS5Yb42j-9TSKS6y",
+    "https://play-lh.googleusercontent.com/83Gv0s-ixvUmjxoD2oaDaKOKUuItTribX9FRnXRgowoPnzkgk36StI2leuPOsYUMb04",
+    "https://play-lh.googleusercontent.com/2HTsGQO8DeuvuTCGn0-jMV0AQktnL5w5PzzCkr7pWELGzR_x3Nb26W5b5-hmZixN45M",
+    "https://play-lh.googleusercontent.com/VFmOMZ4Q8kxuzTvqO66eYzUN7b7_A37xYkrjZBxG_Mc_xPeeCsrHKrq6nKWpMt340Q",
+    "https://play-lh.googleusercontent.com/R3-Ii3kSaPi2b5qXsZCZ862frRfRzbfqqLC1dFvvE6xGtea67nAcDHhdaArM6lz_OQ",
+    "https://play-lh.googleusercontent.com/OV0L1DiOoxBuaLnJjOOjh9lNhzexN4UkBey_s_l0TO8ZWXbMO6vyloP_bENlvPugY1ox"
+  ],
+  "app_descript": "<h2>Brief</h2>\n<p>Gaspy is an invaluable tool for motorists looking to save money at the pump. This app collates real-time information on gas prices from various stations, enabling users to locate the cheapest fuel options within their vicinity. Designed for savvy drivers in New Zealand, Gaspy is all about community-driven data, where users contribute to and benefit from the collective knowledge of gas prices nationwide.</p>\n<h2>Core Features</h2>\n<ul>\n<li>🚗 <strong>Fuel Price Tracker</strong>: Keep track of current fuel prices at different stations near you. ⛽</li>\n<li>📍 <strong>Location-Based Services</strong>: Quickly find the least expensive fuel in your area or along your route. 🗺️</li>\n<li>🙌 <strong>User Contributions</strong>: Users can update and confirm gas prices to aid the community. 🤝</li>\n<li>🏷️ <strong>Price Alert Notifications</strong>: Receive alerts when there's a significant drop in gas prices. 📉</li>\n<li>📊 <strong>Historical Price Data</strong>: View and analyze past fuel price trends for informed decisions. 📈</li>\n</ul>\n<h2>Pros</h2>\n<ul>\n<li>👍 Saves money by finding the lowest gas prices available. 💸</li>\n<li>👍 Encourages community engagement and sharing of information. 🤗</li>\n<li>👍 User-friendly interface making it simple to navigate and use. 📱</li>\n<li>👍 Integration of map services for easy location of gas stations. 🌍</li>\n<li>👍 Push notifications keep users updated on price changes. 🔔</li>\n</ul>\n<h2>Cons</h2>\n<ul>\n<li>👎 May not have complete coverage of all gas stations in some areas, depending on user updates. 🗺️</li>\n<li>👎 Requires active user participation to ensure data accuracy. 👥</li>\n<li>👎 Internet connectivity required for real-time updates, which can be an issue in remote areas. 📶</li>\n<li>👎 Occasional discrepancies in reported prices due to time lags or errors in user submissions. ⌛</li>\n<li>👎 Not available for use outside of New Zealand. 🇳🇿</li>\n</ul>\n<h2>Pricing</h2>\n<p>💵 Gaspy is a free app, which may include ads. It does not mention any in-app purchases, providing full access to all features without any additional cost. </p>\n<p>Keep in mind that while the original description was not provided, the summary crafted is based on the app’s known features and its typical use case scenario.</p>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-hundred-qibla-finder/14082.html",
+      "icon": "assets/img/apk/icon/com.hundred.qibla.finder.png",
+      "name": "Qibla Finder Compass 100%",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/kbk-maparea-measure-geo/5067.html",
+      "icon": "assets/img/apk/icon/kbk.maparea.measure.geo.png",
+      "name": "Gps Area Calculator",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "3.9"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/Offline-Maps-GPS-Speedometer/4633.html",
+      "icon": "assets/img/apk/icon/com.radarapp.trip.speedometer.png",
+      "name": "Offline Maps, GPS, Speedometer",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.2"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/Satellite-View-Offline/4620.html",
+      "icon": "assets/img/apk/icon/com.breezeammarathon.viskoproton.grampooffline.png",
+      "name": "Satellite View Offline",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/Rapido/4563.html",
+      "icon": "assets/img/apk/icon/com.rapido.passenger.png",
+      "name": "Rapido",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/CarInfo/4500.html",
+      "icon": "assets/img/apk/icon/com.cuvora.carinfo.png",
+      "name": "CarInfo",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.1"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-trailbehind-android-gaiagps-pro/4473.html",
+      "icon": "assets/img/apk/icon/com.trailbehind.android.gaiagps.pro.png",
+      "name": "Gaia GPS: Offroad Hiking Maps",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.2"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-gpsnavigation-maps-gpsroutefinder-routemap/4472.html",
+      "icon": "assets/img/apk/icon/com.gpsnavigation.maps.gpsroutefinder.routemap.png",
+      "name": "GPS Navigation: Road Map Route",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    }
+  ]
+}

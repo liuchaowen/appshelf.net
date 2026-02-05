@@ -1,0 +1,109 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.route.app.png",
+    "title": "Route",
+    "ratings": "4.7",
+    "downloads": "630M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Route"
+    },
+    {
+      "name": "category",
+      "value": "Shopping"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Route App LLC"
+    },
+    {
+      "name": "Version",
+      "value": "1.18.6"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/uqPAg88pbz979Mj5uQ3On5L3K_H5sl6NE17gyI1lY3M3VTtCkgVoc2pLGtwdKuaqMiw",
+    "https://play-lh.googleusercontent.com/UquvglfdHsJhHaGwvdpX81x3XKXu3eBXu_JvZit8Hla0vVfBxb1w27kxZ11dUxdziA",
+    "https://play-lh.googleusercontent.com/v4p7-wyMe1eJy404N2gWz3IZm71Ks6CcfNapcpQledp3ch_O79IG2KXNSEFdD_JiEg",
+    "https://play-lh.googleusercontent.com/EpCl67irwLihYLqLl1XgttzEg2y-rL6BCuS9rZcQ1odCurY-A56vwVn90G3D1OXcpRgW",
+    "https://play-lh.googleusercontent.com/NzqxFhScOYJoYUw7YRNtGVKxRDNtKo3iWn47KHcHND9kQp6rOCsvDcm_vyeFlxNv9zo"
+  ],
+  "app_descript": "<p><strong>Route: Your Universal Package Tracker</strong></p>\n<p><strong>Brief:</strong>\nRoute revolutionizes online shopping by providing a universal tracking platform that effortlessly syncs with countless stores and numerous shipping carriers globally. Designed to make tracking transparent and shopping stress-free, Route has been lauded by major publications for simplifying the post-purchase experience.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li><strong>Visual Tracking™:</strong> Eliminate the chaos of tracking numbers with Route's seamless connection to your online orders 📍</li>\n<li><strong>Real-time Notifications:</strong> Stay updated with instantaneous alerts from shipping carriers like Amazon, FedEx, UPS, and more 🚚</li>\n<li><strong>Universal Order History:</strong> Effortlessly access and manage your past purchases without scouring through your email 📦</li>\n<li><strong>Comprehensive Privacy:</strong> Enjoy top-tier tracking while Route safeguards your personal information with utmost care 🔒</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li><strong>Simplified Shopping:</strong> Route integrates with a myriad of online retailers for an all-in-one tracking solution 🛍️</li>\n<li><strong>Instant Information:</strong> Get immediate shipment updates, keeping you in the loop every step of the way 📬</li>\n<li><strong>Order Management:</strong> Automatically organizes your shopping history for easy access and repurchase options 🧾</li>\n<li><strong>Privacy-Centric:</strong> With Route, your sensitive data is only used for tracking your packages and never shared elsewhere 🛡️</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li><strong>Compatibility Concerns:</strong> There may be occasional hiccups with specific carriers or retailers that aren't fully supported 🔄</li>\n<li><strong>Notification Overload:</strong> Some users might find frequent updates to be overwhelming if managing many orders at once 🔔</li>\n<li><strong>Internet Dependency:</strong> Real-time tracking requires a stable internet connection, which could be limiting for some users 🌐</li>\n<li><strong>Learning Curve:</strong> Newcomers to package tracking apps might require time to familiarize themselves with all the features 📚</li>\n</ul>\n<p><strong>Price:</strong>\nRoute is accessible as a free app. There is no mention of in-app purchases, ensuring a transparent, cost-free experience for every user. 💵</p>\n<p>Connect with Route and simplify your online shopping experience today.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-seagm-store/54458.html",
+      "icon": "assets/img/apk/icon/com.seagm.store.png",
+      "name": "SEAGM - Games Topup, Gift Card",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-gowish-app/39285.html",
+      "icon": "assets/img/apk/icon/com.gowish.app.png",
+      "name": "GoWish - Your Digital Wishlist",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-aldisued-shopgo/16934.html",
+      "icon": "assets/img/apk/icon/com.aldisued.shopgo.png",
+      "name": "ALDI SHOP&GO",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.2"
+    },
+    {
+      "link": "/details/com-wakefern-shoprite/16933.html",
+      "icon": "assets/img/apk/icon/com.wakefern.shoprite.png",
+      "name": "ShopRite: Groceries & Savings",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-yaxo-vancamper/16894.html",
+      "icon": "assets/img/apk/icon/com.yaxo.vancamper.png",
+      "name": "Vancamper: Buy sell campervans",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/com-elfster-elfdroid/16861.html",
+      "icon": "assets/img/apk/icon/com.elfster.elfdroid.png",
+      "name": "Elfster: The Secret Santa App",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-biggu-shopsavvy/16860.html",
+      "icon": "assets/img/apk/icon/com.biggu.shopsavvy.png",
+      "name": "ShopSavvy - Barcode Scanner",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/moloapps-gifttracker/16845.html",
+      "icon": "assets/img/apk/icon/moloapps.gifttracker.png",
+      "name": "GiftTracker : Gift List Helper",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.1"
+    }
+  ]
+}

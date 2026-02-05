@@ -1,0 +1,108 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/google-plus.png",
+    "title": "Google+",
+    "ratings": "4.6",
+    "downloads": "510M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Google+"
+    },
+    {
+      "name": "category",
+      "value": "Social"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Google LLC"
+    },
+    {
+      "name": "Version",
+      "value": "2023.04.23.530604195.release"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/hCWUWXWNwOAkQ5DWvP8bjCKSiUZcaPoiyb04W-HA-dMYK7qd1DUUJo9pkbx3JlhdBhQ7",
+    "https://play-lh.googleusercontent.com/TJXeo2Ogi9vnOKPYqeEz5WbirTDXYxvAk0PqTn4kRHU0WrUfCBLMNVeZwvxnWcUsWC4",
+    "https://play-lh.googleusercontent.com/G5xDn-yc3wiBZBlvNFIzCA8I4-475brC5C-8FsXP0YVpxeO_iW0a2wbw7F9GnsLEa5I",
+    "https://play-lh.googleusercontent.com/8POILUhvzg-WnPOrSyDNMw-1AlQynJDU1XxfdhPuEdtJT9L6kH-q77lZobTvsMG4ui0"
+  ],
+  "app_descript": "<h3>Google+</h3>\n<p><strong>Brief:</strong>\nGoogle+ is a social network platform designed for seamless communication and sharing amongst users. It allows individuals to keep up with the latest trends of their contacts, effortlessly upload and manage photos, find inspiration through a tailored search engine, and create a more personal sharing experience by organizing friends into groups. </p>\n<p><strong>Core Features:📌</strong></p>\n<ul>\n<li><strong>Info Cluster:</strong> Stay updated with the most current trends among your contacts. 🔄</li>\n<li><strong>Photo Management:</strong> Automatically upload photos from both Android and iOS devices. 📸</li>\n<li><strong>Sparks:</strong> Discover and engage with content that inspires you through a specialized search engine. 🔥</li>\n<li><strong>Social Hub:</strong> Organize friends into groups for efficient and targeted sharing experiences. 🗣️</li>\n<li><strong>Interest Exploration:</strong> Delve into a variety of topics and join communities that pique your curiosity. 🔍</li>\n</ul>\n<p><strong>Pros:👍</strong></p>\n<ul>\n<li><strong>Customized Content Discovery:</strong> Easily find new content tailored to your personal interests. 🌟</li>\n<li><strong>Group Sharing:</strong> Simplify the sharing process by arranging your friends in distinct groups. 👥</li>\n<li><strong>Cross-Platform Support:</strong> Seamlessly manage photo uploads across multiple operating systems. 🌐</li>\n<li><strong>User-Friendly Interface:</strong> Intuitive design makes navigation and interaction straightforward. 🛠️</li>\n<li><strong>Community Engagement:</strong> Join and connect within communities for a robust social experience. 💬</li>\n</ul>\n<p><strong>Cons👎:</strong></p>\n<ul>\n<li><strong>Learning Curve:</strong> New users might require some time to fully grasp the platform's various features. 📚</li>\n<li><strong>Privacy Concerns:</strong> Managing privacy settings can be intricate, requiring users to be vigilant. 🔒</li>\n<li><strong>Limited Appeal:</strong> Might not attract users who have settled on other social networks. 👤</li>\n<li><strong>Content Overload:</strong> The plethora of information and communities can occasionally feel overwhelming. 📈</li>\n<li><strong>Resource Intensive:</strong> The app might consume significant device resources when accessing multiple features. 💾</li>\n</ul>\n<p><strong>Price💵:</strong>\nThe Google+ app is free to download and use, although certain in-app functionalities may carry additional costs dependent on the user's requirements.</p>\n<p><em>Community sections are not applicable as Google+ is not a game app.</em></p>",
+  "related_apps": [
+    {
+      "link": "/details/jp-cocone-livly/54171.html",
+      "icon": "https://img.buzzsight.co/apk/icon/jp.cocone.livly.png",
+      "name": "Livly Island - Adopt Cute Pets",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-daily-festival-photos/39721.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.daily.festival.photos.png",
+      "name": "Daily Festival Photo",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/tv-medal-recorder/39573.html",
+      "icon": "https://img.buzzsight.co/apk/icon/tv.medal.recorder.png",
+      "name": "Medal - Gaming Clips",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-ptanktechnology-reincornation/39352.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.ptanktechnology.reincornation.png",
+      "name": "Reincarnation",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-tiktok-lite-go/15392.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.tiktok.lite.go.png",
+      "name": "TikTok Lite - Faster TikTok",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-petmeetly/15275.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.petmeetly.png",
+      "name": "Petmeetly - Pet's Match Finder",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-xingin-xhs/14603.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.xingin.xhs.png",
+      "name": "REDnote—小红书国际版",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-stdev-dissordap/10395.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.stdev.dissordap.png",
+      "name": "Vote Social - Photo Voting VS",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "3.8"
+    }
+  ]
+}

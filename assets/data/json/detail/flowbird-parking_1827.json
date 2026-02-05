@@ -1,0 +1,112 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/group.flowbird.mpp.png",
+    "title": "Flowbird Parking",
+    "ratings": "4.1",
+    "downloads": "430M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Flowbird Parking"
+    },
+    {
+      "name": "category",
+      "value": "Auto & Vehicles"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Flowbird"
+    },
+    {
+      "name": "Version",
+      "value": "2.7.2"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/f0Banl6NHtyxjRiJ2Yb2azGayZUFPGRVBeta3Fc2Qc71l240c7AaF36JDftazEcNnOM",
+    "https://play-lh.googleusercontent.com/WfPMQuae7eCUM-YmhBBXbuOgA7jhBbOUUCbdW69w8B7gDyT5icYByFaeJtK-9D1UAg",
+    "https://play-lh.googleusercontent.com/ymhLlzARu0GNyRAT4ijZDsvsTuDfGZ6u6MJ7G43BOxOZNIhAgvcqn643x_1qWopR0rg",
+    "https://play-lh.googleusercontent.com/iIytVr22qPe9kUnNlxKRwmqdQyx56MvE_LSEfRQqmNmh7mVNcBPxrs8iYjLt5vbFbfBn",
+    "https://play-lh.googleusercontent.com/29RrzVRuX_8ZWwFT7becCpvDWpXba4p7F_tvR6q5E6JXdOYOskPTdEZ7vmrLTbnbNw",
+    "https://play-lh.googleusercontent.com/4aD5AhEiazKBaDT9Sps-Q4rsiMGCBeCBW8uvww6TtUe1r5cc1wq5lMvsMT2MddWtAlA",
+    "https://play-lh.googleusercontent.com/zBGOk0fMcgO6wy58S1pPEvA9dkE_DigqI7v4_b9bCaj_27jlDnGgaaNRj0bFLutVLUKt",
+    "https://play-lh.googleusercontent.com/sUW-oBKcZTzVYPj0vZkfq7ozo-BECCW7KXhz7eKPAPrhjBdoxm9ijAhNHaOdICy8tMf0"
+  ],
+  "app_descript": "<p><strong>Flowbird Parking</strong></p>\n<p><strong>Brief:</strong>\nFlowbird Parking is the seamless way to pay for parking on the go. Once you register for free through the app, you gain the ability to easily park and pay in a variety of locations that are integrated with the Flowbird system. Keep in mind that Flowbird Parking may not cover all areas. Check the app's site for a list of locations where the service is available.</p>\n<p><strong>Core Features:</strong></p>\n<ol>\n<li>🔄 <strong>Account Creation:</strong> Quick and free sign-up directly within the app.</li>\n<li>🚘 <strong>Vehicle Management:</strong> Conveniently add and select your vehicle license plate.</li>\n<li>📍 <strong>Location Services:</strong> Select your parking spot using an intuitive map interface.</li>\n<li>⏳ <strong>Customizable Timer:</strong> Use a simple dial to set your desired parking duration.</li>\n<li>💳 <strong>Secure Payment:</strong> Certified process that ensures your payment data remains safe. </li>\n</ol>\n<p><strong>Pros:</strong></p>\n<ol>\n<li>👌 <strong>Ease of Use:</strong> Streamlined account set-up and parking process.</li>\n<li>🌐 <strong>Widespread Use:</strong> Valid at numerous participating locations.</li>\n<li>🔒 <strong>Privacy and Security:</strong> Adherence to PCI Data Security Standards.</li>\n<li>🔄 <strong>Flexible Parking Options:</strong> Easy to adjust how long you wish to park.</li>\n</ol>\n<p><strong>Cons:</strong></p>\n<ol>\n<li>🗺️ <strong>Limited Availability:</strong> The app is not universally applicable; location-dependent.</li>\n<li>🌍 <strong>Requires Internet Connection:</strong> An active internet connection is necessary to operate the app.</li>\n<li>🅿️ <strong>Potential Extra Fees:</strong> Some locations may charge additional fees for mobile payment services.</li>\n<li>🚀 <strong>Learning Curve:</strong> New users may take some time getting accustomed to the app functions.</li>\n</ol>\n<p><strong>Price:</strong>\n💵 The Flowbird Parking app is free to download and register. Charges apply only to the parking fees incurred at the locations you visit.</p>\n<p><a href=\"https://group.flowbird.mpp\" rel=\"noopener noreferrer\" target=\"_blank\">Flowbird Parking Official Website</a></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-carvana-carvana/54127.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.carvana.carvana.png",
+      "name": "Carvana: Buy/Sell Used Cars",
+      "categoryLink": "/en/categories/auto.vehicles/2",
+      "category": "Auto & Vehicles",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/com-carmax-carmax/16741.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.carmax.carmax.png",
+      "name": "CarMax: Used Cars for Sale",
+      "categoryLink": "/en/categories/auto.vehicles/2",
+      "category": "Auto & Vehicles",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-maps-radar-trafficappfordriving/10136.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.maps.radar.trafficappfordriving.png",
+      "name": "Driving Instructor-Theory Test",
+      "categoryLink": "/en/categories/auto.vehicles/2",
+      "category": "Auto & Vehicles",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/RTO-Vehicle-Information/4502.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.vehicle.rto.vahan.status.information.register.png",
+      "name": "RTO Vehicle Information",
+      "categoryLink": "/en/categories/auto.vehicles/2",
+      "category": "Auto & Vehicles",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/mileage-tracker-by-driversnote/1833.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.driversnote.driversnote.png",
+      "name": "Mileage Tracker by Driversnote",
+      "categoryLink": "/en/categories/auto.vehicles/2",
+      "category": "Auto & Vehicles",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/dmv-permit-practice-test/1832.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.driveus.dmvapp.png",
+      "name": "DMV Permit Practice test",
+      "categoryLink": "/en/categories/auto.vehicles/2",
+      "category": "Auto & Vehicles",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/dmv-practice-test/1831.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.dmvpracticetest.android.png",
+      "name": "DMV Practice Test",
+      "categoryLink": "/en/categories/auto.vehicles/2",
+      "category": "Auto & Vehicles",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/repairsolutions2/1830.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.innova.rs2.png",
+      "name": "RepairSolutions2",
+      "categoryLink": "/en/categories/auto.vehicles/2",
+      "category": "Auto & Vehicles",
+      "rating": "4.2"
+    }
+  ]
+}

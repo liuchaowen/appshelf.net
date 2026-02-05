@@ -1,0 +1,111 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.naturallybeing.fireready.png",
+    "title": "VicEmergency",
+    "ratings": "3",
+    "downloads": "240M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "VicEmergency"
+    },
+    {
+      "name": "category",
+      "value": "News & Magazines"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Department of Justice & Community Safety, Victoria"
+    },
+    {
+      "name": "Version",
+      "value": "6.3.1"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/IR6d7xpATcnIBN-BPBSs1oRZujXbRcIYZvHn7aob6aZmGia-xMcRnN0jHmmeRShpTWE5",
+    "https://play-lh.googleusercontent.com/PSzMsI4MKwZDg50UTiEB-m0Vt4YwPtcG1VNsTJsFBhSqDADKZY5Hv8OJetZTTcyaEzs",
+    "https://play-lh.googleusercontent.com/tceCIPxmD0ubY5CX9qIt3f5iJyR8WuwM5G8Y5cVW520QEGwgMkvapEIwtNsZfPDardo",
+    "https://play-lh.googleusercontent.com/a-0OO18BIB9LJtYsAzHr2Ty94BLahYU2YFW5FaIbl11znmR30i4KMLDwGVSXCWrBMfk",
+    "https://play-lh.googleusercontent.com/jzjugw3yW0wKN8ufH8L9w5AowByHM_r6B-oVI7JpD4-igg23J8qQbkUCczLEk5vB8Xw",
+    "https://play-lh.googleusercontent.com/Q_BVFIO87TU7HGdoKdgf9bqQzNSfhJLc-hZFYlG0Sdzkk7_vUMyTSLamVoSg-6RJQg",
+    "https://play-lh.googleusercontent.com/VWZ2LlQC_PhbGdyFxbj4ncGGyXgMz29LKZmsB4fZaA_IFN59lznyvfQMjZ6L3NrZXXGm"
+  ],
+  "app_descript": "<h3>VicEmergency App Summary</h3>\n<p>VicEmergency is the official app for community safety and emergency management information from Emergency Management Victoria. It's designed to help residents and visitors stay informed and prepared for emergencies within Victoria by providing live incident mapping, location-based warnings, and comprehensive information about local hazards.</p>\n<h4>📌 Core Features:</h4>\n<ul>\n<li><strong>Live Incident Mapping</strong>: View real-time warnings, planned burns, and other incidents throughout Victoria. 🗺️</li>\n<li><strong>Personalized Watch Zones</strong>: Set up zones to receive official warnings specifically for areas that matter to you. 👀</li>\n<li><strong>GPS Integration</strong>: Find your current location and nearby incidents for added situational awareness. 📍</li>\n<li><strong>Diverse Emergency Information</strong>: Access emergency warnings, advice, and related information from Victoria’s emergency services. 🔔</li>\n<li><strong>Sharing Capability</strong>: Share important incident details with friends and family for their safety. 🔄</li>\n</ul>\n<h4>👍 Pros:</h4>\n<ul>\n<li><strong>Real-Time Alerts</strong>: Ensures you receive the latest warnings and advice as soon as they're available. ⏱️</li>\n<li><strong>Multi-Hazard Support</strong>: Includes various emergency types such as floods, earthquakes, storms, and more. 🌊</li>\n<li><strong>Cross-Device Synchronization</strong>: Manage your user profile and watch zones across different devices. 📲</li>\n<li><strong>Enhanced User Experience</strong>: Landscape view available for all screens and customizable notification tones. 🌐</li>\n<li><strong>User-Friendly Customization</strong>: Easy editing of watch zones and an option for warning notifications via email. ✉️</li>\n</ul>\n<h4>👎 Cons:</h4>\n<ul>\n<li><strong>Internet Dependence</strong>: Requires an internet connection to receive live updates and warnings. 📶</li>\n<li><strong>Location Services Requirement</strong>: GPS and location functions must be enabled to view your current location. 🛰️ </li>\n<li><strong>Not a Single Source</strong>: It’s crucial not to rely solely on the app for emergency information. 🚨</li>\n<li><strong>Accessibility through Settings</strong>: Permission adjustments for notifications might be less intuitive for some users. ⚙️</li>\n</ul>\n<h4>💵 Price:</h4>\n<ul>\n<li>The VicEmergency app is free to download and use, with no in-app purchases. However, it should be noted that the operating internet connection might incur data usage charges as per your mobile network provider or Wi-Fi service. Free 🆓</li>\n</ul>\n<h4>🕸️ Community:</h4>\n<ul>\n<li>Official VicEmergency Website: <a href=\"http://www.emergency.vic.gov.au\" rel=\"noopener noreferrer\" target=\"_blank\">www.emergency.vic.gov.au</a></li>\n<li>VicEmergency Twitter: <a href=\"https://twitter.com/vicemergency\" rel=\"noopener noreferrer\" target=\"_blank\">@vicemergency</a></li>\n<li>VicEmergency Facebook: <a href=\"https://www.facebook.com/vicemergency\" rel=\"noopener noreferrer\" target=\"_blank\">VicEmergency</a></li>\n</ul>\n<p><em>Remember, VicEmergency is one of many channels to get emergency information—stay tuned to local news, radio, and use the VicEmergency hotline 1800 226 226 as part of your preparedness plan.</em></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-app-foapp/15418.html",
+      "icon": "assets/img/apk/icon/com.app.foapp.png",
+      "name": "The Obituary App",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-globalnews-android-novanews/5116.html",
+      "icon": "assets/img/apk/icon/com.globalnews.android.novanews.png",
+      "name": "Global News - Breaking & Local",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/Hindi-News-by-Dainik-Bhaskar/4635.html",
+      "icon": "assets/img/apk/icon/com.ak.ta.dainikbhaskar.activity.png",
+      "name": "Hindi News by Dainik Bhaskar",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/Way2News-News-updates-Election/4625.html",
+      "icon": "assets/img/apk/icon/sun.way2sms.hyd.com.png",
+      "name": "Way2News News updates Election",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/Hindi-News/4507.html",
+      "icon": "assets/img/apk/icon/in.AajTak.headlines.png",
+      "name": "Hindi News",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/TVA-Nouvelles/4479.html",
+      "icon": "assets/img/apk/icon/com.nurun.lcn.png",
+      "name": "TVA Nouvelles",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/uol/3121.html",
+      "icon": "assets/img/apk/icon/br.uol.noticias.png",
+      "name": "UOL",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/local-news/3120.html",
+      "icon": "assets/img/apk/icon/com.opera.app.news.local.png",
+      "name": "Local News",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.5"
+    }
+  ]
+}

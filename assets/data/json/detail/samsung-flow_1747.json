@@ -1,0 +1,108 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.samsung.android.galaxycontinuity.png",
+    "title": "Samsung Flow",
+    "ratings": "4.1",
+    "downloads": "170M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Samsung Flow"
+    },
+    {
+      "name": "category",
+      "value": "Productivity"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Samsung Electronics Co., Ltd."
+    },
+    {
+      "name": "Version",
+      "value": "4.8.07.4"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/ldcXIJv6RIncPfhh6rg462GE6u2M4Xq33keB5YV70nwApp5kTIZ8lwC8o8tIb3v-hz0c",
+    "https://play-lh.googleusercontent.com/93GJdqKT8K_5J4HZTVXrS_KTcwewyf53nRb-rL-y3lwMUFAbaN1YNKQeqZAHB6aG00E",
+    "https://play-lh.googleusercontent.com/ehAK_ku61Vkozp0o4tB27-Ks9EowYi-1sDZmPfzDmnF19vaunda3Iiv4Gge5402h34E",
+    "https://play-lh.googleusercontent.com/1hFfkFGIjpca0c6U6yCDLtnGY2E-f538Wg8xmHWlNlufwv5w79bukYH0Ttq_B1QDMQo"
+  ],
+  "app_descript": "<h2>Connect Seamlessly with Samsung Flow</h2>\n<p><strong>Brief:</strong>\nSamsung Flow provides a seamless connectivity experience between your Samsung devices. Unlock your Samsung Tablet/PC using biometric authentication from your phone or Samsung Wearable, and enjoy the convenience of having your devices synchronized. The app supports a range of devices, ensuring your Galaxy ecosystem works together flawlessly.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>📌 <strong>Biometric Authentication:</strong> Use your Iris or fingerprints to log into your Tablet/PC if registered with Samsung Pass.</li>\n<li>📌 <strong>Cross-Device Notification:</strong> View phone notifications and flow history of shared content on your Tablet/PC or wearable device.</li>\n<li>📌 <strong>Wide Compatibility:</strong> Works with various Windows and Android tablets/PCs, Android phones, and Samsung wearables.</li>\n<li>📌 <strong>Official Software Assurance:</strong> Functional only on official Samsung Electronics software, ensuring a secure experience.</li>\n<li>📌 <strong>Connection Versatility:</strong> Connect through Bluetooth, Wi-Fi/LAN, Wi-Fi Direct, or use your Galaxy Watch to unlock devices.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 <strong>Enhanced Security:</strong> Secure access with biometric data means only you can unlock your devices.</li>\n<li>👍 <strong>Convenience:</strong> Seamlessly use Samsung Pass to login across devices without the need for passwords.</li>\n<li>👍 <strong>Multi-Device Integration:</strong> Manage notifications and content across devices, including Samsung Wearables.</li>\n<li>👍 <strong>Streamlined Sharing:</strong> Easily transfer content and view notifications between your phone, tablet, and PC.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 <strong>Compatibility Limitations:</strong> May not be supported by some models or require specific OS versions and updates.</li>\n<li>👎 <strong>Updates Dependency:</strong> Regular updates necessary for optimal performance, which might be a hassle for some users.</li>\n<li>👎 <strong>Required Permissions:</strong> Certain features mandate permissions that users might be uncomfortable granting.</li>\n<li>👎 <strong>Device Specific:</strong> Exclusively designed for Samsung devices, limiting use for non-Samsung users.</li>\n</ul>\n<p><strong>Price:</strong></p>\n<ul>\n<li>💵 Samsung Flow can be downloaded for free on the Windows App Store. However, ensure to check for any additional costs linked with specific features utilized within the application.</li>\n</ul>\n<p><a href=\"http://www.samsung.com/samsungflow\" rel=\"noopener noreferrer\" target=\"_blank\">Visit Samsung Flow Website</a></p>\n<p>For further assistance with your Samsung Flow setup and the latest version, refer to the application guide provided on their official webpage. To keep your app up-to-date, visit the Windows Store, navigate to Menu, and select Downloads and Updates. </p>\n<p>By using Samsung Flow, you agree to allow the necessary permissions for the app's functions, such as location services for device search and storage for content sharing. Some features may require optional permissions, such as phone access for calls, contacts for caller information, SMS for messaging, and microphone access for Smart View audio recording.</p>\n<p><em>Samsung Flow is committed to enhancing your productivity and keeping your devices connected with ease.</em></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-takeofflabs-fontmaker/54188.html",
+      "icon": "assets/img/apk/icon/com.takeofflabs.fontmaker.png",
+      "name": "Fontmaker - Font Keyboard App",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-game-console-emulator/39577.html",
+      "icon": "assets/img/apk/icon/com.game.console.emulator.png",
+      "name": "Gamu: Retro Game Hub",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/app-itwingtech-power_of_mind-predicator/39340.html",
+      "icon": "assets/img/apk/icon/app.itwingtech.power_of_mind.predicator.png",
+      "name": "Mind Test: Test My Brain",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-pdfreader-pdfeditor-scandocu-pro-app-amb/16953.html",
+      "icon": "assets/img/apk/icon/com.pdfreader.pdfeditor.scandocu.pro.app.amb.png",
+      "name": "PDFPro: Scanner & Editor",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "3.8"
+    },
+    {
+      "link": "/details/ai-perplexity-app-android/16744.html",
+      "icon": "assets/img/apk/icon/ai.perplexity.app.android.png",
+      "name": "Perplexity - Ask Anything",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-safeshellvpn/16639.html",
+      "icon": "assets/img/apk/icon/com.safeshellvpn.png",
+      "name": "SafeShell VPN: Fast & Secure",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-roblox-skin-cloth-freeskins/16603.html",
+      "icon": "assets/img/apk/icon/com.roblox.skin.cloth.freeskins.png",
+      "name": "Clothes Skin For Roblox",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-underthing-focus-friend/16526.html",
+      "icon": "assets/img/apk/icon/com.underthing.focus.friend.png",
+      "name": "Focus Friend by Hank Green",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.7"
+    }
+  ]
+}

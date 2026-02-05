@@ -1,0 +1,109 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.p1.mobile.putong.png",
+    "title": "Tantan",
+    "ratings": "3.6",
+    "downloads": "850M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Tantan"
+    },
+    {
+      "name": "category",
+      "value": "Social"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Tantan, Inc."
+    },
+    {
+      "name": "Version",
+      "value": "3.6.7.1"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/YXXMLgANarbJbw0JwOXCMc1YLK5HpS6hloncOkZAnAVw1E3mQM-VyEbHJhQlQiIRcbwH",
+    "https://play-lh.googleusercontent.com/fB_Q2pgYYDx0Bs47XCZUJvwAaUVqR46Uaajf366bHNJFPFX_N1V8fUbuHgENnu3-vy1t",
+    "https://play-lh.googleusercontent.com/TWPQDXFqDuCki_ADEV_0gCs2bNFvMiCDFewD0iSDHmrfiPDB-wOI28W0VSdQJuvP1Q",
+    "https://play-lh.googleusercontent.com/jYHFxMK83p52r6YJJpteJmmcvl9jwpH7xtaRVdoPpR-LUiQilwdBpkdnGeWQE0nHinCr",
+    "https://play-lh.googleusercontent.com/5rhxi4mkdHhG6tk6cFGqnghBOKLbQp7LWRjlA5Bda9zq-IXbTRgmU-uqZwN1_DWf2Q"
+  ],
+  "app_descript": "<h3>Tantan - Make New Friends &amp; Find Love</h3>\n<p><strong>Brief:</strong>\nTantan invites you to step into a world of social discovery where making new friends and finding love has been made virtually effortless. With its easy-to-like features and private interactions, Tantan paves the way for cultivating meaningful relationships, offering a safe space where your personal social scene blossoms.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>📸 Personalized Profiles: View photos and interests to gauge compatibility.</li>\n<li>💌 Match &amp; Chat: Connect with matches through text, voice, pictures, and videos.</li>\n<li>🚫 No Unwanted Messages: Chat exclusively with individuals you've liked.</li>\n<li>🔒 Assured Privacy: Opt to keep your contacts private and off the suggestion list.</li>\n<li>❄️ Ice-Breaking Questions: Use fun queries to know your matches better. </li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👥 Easy Friend-Making Process: Judge interest alignment before interactions.</li>\n<li>📢 Tailored Interactions: Share life moments to strengthen bonds with matches.</li>\n<li>🛡️ Anti-Harassment: Eliminate spam by restricting chats to mutual likes.</li>\n<li>🤫 Maximum Privacy Control: Hide contacts for enhanced confidentiality.</li>\n<li>🧊 Effective Conversation Starters: Break the ice effortlessly with designed questions.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👀 Limited Discoverability without Likes: Can't chat with someone unless both parties like each other.</li>\n<li>🔄 Potential for Repetitive Profiles: May encounter the same profiles multiple times.</li>\n<li>🌐 Network-Dependent: Experience is contingent on a thriving, active user base.</li>\n<li>🤷‍♂️ Match Depth: Quality of interaction might vary based on users' engagement.</li>\n<li>❗ Privacy Concerns: Sharing personal content can still pose risks, despite privacy settings.</li>\n</ul>\n<p><strong>Price:</strong></p>\n<ul>\n<li>💵 The app is free to download, with additional features available through in-app purchases, although pricing details vary.</li>\n</ul>\n<p><strong>Community:</strong></p>\n<ul>\n<li>Visit the <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">official Tantan site</a> for more details.</li>\n<li>Engage with the community on their <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">YouTube channel</a>.</li>\n<li>Discover content from popular YouTubers and follow the <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">most-followed Instagramers</a> on Tantan.</li>\n<li>Join the conversation on <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a>, connect on <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Discord</a>, follow on <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Facebook</a>, get the latest updates on <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">TikTok</a>, and dive into discussions on <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Reddit</a>.</li>\n<li>Explore the universe of Tantan through the <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">fandom wiki site</a>.</li>\n</ul>",
+  "related_apps": [
+    {
+      "link": "/details/jp-cocone-livly/54171.html",
+      "icon": "assets/img/apk/icon/jp.cocone.livly.png",
+      "name": "Livly Island - Adopt Cute Pets",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-daily-festival-photos/39721.html",
+      "icon": "assets/img/apk/icon/com.daily.festival.photos.png",
+      "name": "Daily Festival Photo",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/tv-medal-recorder/39573.html",
+      "icon": "assets/img/apk/icon/tv.medal.recorder.png",
+      "name": "Medal - Gaming Clips",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-ptanktechnology-reincornation/39352.html",
+      "icon": "assets/img/apk/icon/com.ptanktechnology.reincornation.png",
+      "name": "Reincarnation",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-tiktok-lite-go/15392.html",
+      "icon": "assets/img/apk/icon/com.tiktok.lite.go.png",
+      "name": "TikTok Lite - Faster TikTok",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-petmeetly/15275.html",
+      "icon": "assets/img/apk/icon/com.petmeetly.png",
+      "name": "Petmeetly - Pet's Match Finder",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-xingin-xhs/14603.html",
+      "icon": "assets/img/apk/icon/com.xingin.xhs.png",
+      "name": "REDnote—小红书国际版",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-stdev-dissordap/10395.html",
+      "icon": "assets/img/apk/icon/com.stdev.dissordap.png",
+      "name": "Vote Social - Photo Voting VS",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "3.8"
+    }
+  ]
+}

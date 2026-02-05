@@ -1,0 +1,110 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.opera.app.newslite.png",
+    "title": "Opera News Lite",
+    "ratings": "4.5",
+    "downloads": "670M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Opera News Lite"
+    },
+    {
+      "name": "category",
+      "value": "News & Magazines"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Opera"
+    },
+    {
+      "name": "Version",
+      "value": "1.7.1"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/oKBp6vhKHI_S-ivxXGbl4FgA4qc05MdlNpp-Gl2UkQv_jvyQJUNgGUDx01R6_rTT2wQ",
+    "https://play-lh.googleusercontent.com/TX5MzDpDAZDwfzi_j1w9mgXWo6WrcUc2eAhlF-HypbehMhPD7nJQMClpWe-9tCc17Q",
+    "https://play-lh.googleusercontent.com/OaWrau_2lbbNsgj2T256E5fcIw281DI_xziQ7B3KnyDUoKbU2sX_MfnhvIvTv5j3Gg",
+    "https://play-lh.googleusercontent.com/BPDdcWWG-aDUkYnozBjbIulVCdRXMWQEPMWRk-AE9zqXU8bb8u7uOZAHukQH_9U_GJKr",
+    "https://play-lh.googleusercontent.com/4kB2cwAAfPGG_caS6535Uaqte3nmkHZzhIzeHX4kgsun18Bhh4SirVQsSHuXg5SZU-Ka",
+    "https://play-lh.googleusercontent.com/hJjXn6Z1v3SbZ-KGjvN4hrkIde-6uRYgAhOzqrK0xdBl3rJfW5lVuvNSRBmP7aOoTxE"
+  ],
+  "app_descript": "<h3>Opera News Lite</h3>\n<p><strong>Brief:</strong>\nOpera News Lite is a streamlined news application designed to keep you informed with the latest headlines, local news, and sports updates, particularly football. It's tailored for those who love staying updated on-the-go through a curated briefing and push notifications, ensuring you never miss a beat in current affairs.</p>\n<p>📌 <strong>Core Features:</strong></p>\n<ul>\n<li><strong>Personalized News Feed:</strong> The 'For You' tab curates a selection of news stories tailored to your interests, updated daily. 🗞️</li>\n<li><strong>Breaking News Alerts:</strong> Instant push notifications for breaking news to keep you informed the moment something happens. 🔔</li>\n<li><strong>Football Coverage:</strong> Comprehensive updates on all major football competitions, including Premier League and La Liga. ⚽</li>\n<li><strong>Lightweight Experience:</strong> Designed to be light on data, making it ideal for all mobile users, especially those with limited data plans. 📱</li>\n<li><strong>User Agreement Access:</strong> Easy access to the End User License Agreement and Privacy Statement directly in the app. 🔒</li>\n</ul>\n<p>👍 <strong>Pros:</strong></p>\n<ul>\n<li><strong>Data Efficient:</strong> Uses less data than traditional news apps, saving you bandwidth. 💳</li>\n<li><strong>Easy to Navigate:</strong> User-friendly interface allows for effortless browsing of news articles and stories. 👆</li>\n<li><strong>Customized Briefing:</strong> Your briefing is personalized, keeping you connected to what matters most. 🎯</li>\n<li><strong>Constant Updates:</strong> Regular news updates throughout the day to keep content fresh and relevant. 🔄</li>\n<li><strong>Free to Use:</strong> The app is completely free, ensuring access to news without any financial barrier. 🆓</li>\n</ul>\n<p>👎 <strong>Cons:</strong></p>\n<ul>\n<li><strong>Ad-Supported:</strong> You may encounter ads as it's a free app. 📢</li>\n<li><strong>Limited News Sources:</strong> The selection of news is curated by Opera, which might limit the variety of sources. 📰</li>\n<li><strong>Internet Dependent:</strong> Requires a stable internet connection to fetch the latest news and updates. 🌐</li>\n<li><strong>Notification Overload:</strong> Some users might find frequent push notifications intrusive. 🔕</li>\n<li><strong>Potential Bias:</strong> As with any news aggregator, there may be potential bias in the stories displayed. 🏳️</li>\n</ul>\n<p>💵 <strong>Price:</strong>\nOpera News Lite is free to download and use. It primarily generates revenue through advertisements.</p>\n<hr/>\n<p><em>Links to the app's social media profiles:</em></p>\n<ul>\n<li><strong>Twitter:</strong> <a href=\"http://twitter.com/opera/\" rel=\"noopener noreferrer\" target=\"_blank\">OperaNewsLite on Twitter</a></li>\n<li><strong>Facebook:</strong> <a href=\"https://www.facebook.com/OperaNewsLite/\" rel=\"noopener noreferrer\" target=\"_blank\">OperaNewsLite on Facebook</a></li>\n<li><strong>Instagram:</strong> <a href=\"http://www.instagram.com/opera\" rel=\"noopener noreferrer\" target=\"_blank\">OperaNewsLite on Instagram</a></li>\n</ul>",
+  "related_apps": [
+    {
+      "link": "/details/com-app-foapp/15418.html",
+      "icon": "assets/img/apk/icon/com.app.foapp.png",
+      "name": "The Obituary App",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-globalnews-android-novanews/5116.html",
+      "icon": "assets/img/apk/icon/com.globalnews.android.novanews.png",
+      "name": "Global News - Breaking & Local",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/Hindi-News-by-Dainik-Bhaskar/4635.html",
+      "icon": "assets/img/apk/icon/com.ak.ta.dainikbhaskar.activity.png",
+      "name": "Hindi News by Dainik Bhaskar",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/Way2News-News-updates-Election/4625.html",
+      "icon": "assets/img/apk/icon/sun.way2sms.hyd.com.png",
+      "name": "Way2News News updates Election",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/Hindi-News/4507.html",
+      "icon": "assets/img/apk/icon/in.AajTak.headlines.png",
+      "name": "Hindi News",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/TVA-Nouvelles/4479.html",
+      "icon": "assets/img/apk/icon/com.nurun.lcn.png",
+      "name": "TVA Nouvelles",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/uol/3121.html",
+      "icon": "assets/img/apk/icon/br.uol.noticias.png",
+      "name": "UOL",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/local-news/3120.html",
+      "icon": "assets/img/apk/icon/com.opera.app.news.local.png",
+      "name": "Local News",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.5"
+    }
+  ]
+}

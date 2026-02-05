@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/gov.ct.covid19.exposurenotifications.png",
+    "title": "COVID Alert CT",
+    "ratings": "4.2",
+    "downloads": "50M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "COVID Alert CT"
+    },
+    {
+      "name": "category",
+      "value": "Medical"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "CT Department of Public Health"
+    },
+    {
+      "name": "Version",
+      "value": "1.0"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> COVID Alert CT</p>\n<hr/>\n<h3>Brief:</h3>\n<p>COVID Alert CT is a privacy-focused exposure notification app designed to help curb the spread of COVID-19 in Connecticut. Utilizing the joint efforts of Google, Apple, the Connecticut Department of Administrative Services (DAS), and the Connecticut Department of Public Health (CDPH), it leverages the Google Apple Exposure Notification API to safeguard user data while providing timely alerts for potential virus exposure.</p>\n<h3>Core Features: 📌</h3>\n<ul>\n<li><strong>Exposure Notifications:</strong> Notifies users of possible COVID-19 exposure based on Bluetooth signal strength and duration without compromising privacy.</li>\n<li><strong>Privacy Protection:</strong> Employs the Apple and Google Exposure Notification API guaranteeing no personal data or location tracking.</li>\n<li><strong>Verification Codes:</strong> Incorporates a system that uses codes provided by contact tracers to confirm positive cases and prevent false reports.</li>\n<li><strong>User-Directed Reporting:</strong> Allows users who test positive to confidentially notify others, enhancing community-driven virus tracking.</li>\n<li><strong>State-Specific Application:</strong> Dedicated functionality for Connecticut residents, adhering to state laws and regulations.</li>\n</ul>\n<h3>Pros: 👍</h3>\n<ul>\n<li><strong>Contributes to Public Health:</strong> Aids in halting the spread of COVID-19 by informing users about possible contact with infected individuals.</li>\n<li><strong>Privacy-Centric Design:</strong> Ensures users' data remains on the device without tracking location, addressing privacy concerns.</li>\n<li><strong>User Empowerment:</strong> Users retain control over reporting their COVID-19 status, building trust in the system's accuracy.</li>\n<li><strong>Official Health Department Collaboration:</strong> Developed in partnership with recognized state departments for reliability.</li>\n<li><strong>Free Use:</strong> Available at no cost, facilitating widespread adoption and community health protection.</li>\n</ul>\n<h3>Cons: 👎</h3>\n<ul>\n<li><strong>Limited Geographical Use:</strong> Exclusively for Connecticut residents, limiting its utility for those outside the state.</li>\n<li><strong>Bluetooth Dependency:</strong> Requires Bluetooth to be enabled, which may be a drain on the device's battery life.</li>\n<li><strong>Technology Accessibility:</strong> Effectiveness reliant on user participation and widespread smartphone use.</li>\n<li><strong>Verification Breaches:</strong> Though unlikely, potential exists for the exploitation of verification codes system.</li>\n<li><strong>False Alarms Possibility:</strong> As with all technology, there's a slight chance of receiving or not receiving notifications in error.</li>\n</ul>\n<h3>Price: 💵</h3>\n<p>COVID Alert CT is a free app, aimed at public health support and crisis management, with no in-app purchases.</p>\n<h3>Community: 🕸️</h3>\n<ul>\n<li><strong>Official Site:</strong> <a href=\"https://portal.ct.gov/coronavirus/COVIDAlertCT/PrivacyPolicy\" rel=\"noopener noreferrer\" target=\"_blank\">Connecticut's Official State Website</a></li>\n</ul>\n<p><em>Due to the nature of this non-game app, additional community links for channels like YouTube, Discord, or social media platforms are not provided.</em></p>\n<hr/>\n<p>Together with the Connecticut community, COVID Alert CT aims to keep its residents safe and informed, aiding in the collective effort to move forward during the pandemic.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-stress-test/48991.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.stress.test.png",
+      "name": "Stress Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-procrastination-test/39516.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.procrastination.test.png",
+      "name": "Procrastination Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-bingeeating-test/39303.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.bingeeating.test.png",
+      "name": "Binge Eating Disorder Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-ocd-test/34780.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.ocd.test.png",
+      "name": "OCD Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-healthians-main-healthians/34760.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.healthians.main.healthians.png",
+      "name": "Healthians -Full Body Checkup",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-lbrc-PeriodCalendar/34759.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.lbrc.PeriodCalendar.png",
+      "name": "Period Tracker and Calendar",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/es-jshcd-edadosea/34693.html",
+      "icon": "https://img.buzzsight.co/apk/icon/es.jshcd.edadosea.png",
+      "name": "Bone age",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-devdis/16977.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.devdis.png",
+      "name": "Developmental Disabilities",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.5"
+    }
+  ]
+}

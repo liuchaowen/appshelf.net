@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.geecko.QuickLyric.png",
+    "title": "QuickLyric",
+    "ratings": "4.3",
+    "downloads": "30M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "QuickLyric"
+    },
+    {
+      "name": "category",
+      "value": "Music & Audio"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "QuickLyric SPRL"
+    },
+    {
+      "name": "Version",
+      "value": "3.9.0b"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h1>QuickLyric - Instant Lyrics</h1>\n<p>Unleash the full potential of song lyrics with QuickLyric, your go-to companion for discovering and enjoying lyrics on the fly. Whether you're a die-hard music aficionado or a casual listener, QuickLyric elevates your musical journey to new heights.</p>\n<h3>Brief</h3>\n<p>QuickLyric is a robust lyrics app designed to enhance your music experience by offering offline lyrics, rapid search capabilities, and synchronized lyrics for an all-in-one karaoke experience. The app integrates seamlessly with popular music players, offering a plethora of features that cater to every music lover's needs. With QuickLyric, you can effortlessly display lyrics alongside your tunes, transforming every listen into an interactive event.</p>\n<h3>Core Features</h3>\n<ul>\n<li>🎤 <strong>Offline Lyrics</strong>: Enjoy lyrics to your favorite songs even without an internet connection. 📶</li>\n<li>🔍 <strong>Fast Lyrics Finder</strong>: Quickly find lyrics for any song with an impressive search speed. 🚀</li>\n<li>🎶 <strong>Synchronized Lyrics</strong>: Experience synchronized lyrics that provide a karaoke-like experience right in your pocket. 🎵</li>\n<li>🛸 <strong>Floating Lyrics</strong>: A non-intrusive floating lyrics feature lets you multitask while singing along to your favorite tunes. 🌐</li>\n<li>🌙 <strong>Night Mode</strong>: Protect your eyes in low-light environments with a comfortable night mode. 🌒</li>\n</ul>\n<h3>Pros</h3>\n<ul>\n<li>👏 <strong>Comprehensive Support</strong>: A dedicated support team is readily available to address your questions and enhance your experience. ✉️</li>\n<li>🎵 <strong>Extensive Music Player Integration</strong>: Compatible with numerous music players including Spotify, Google Play Music, and many others. 🔌</li>\n<li>📲 <strong>Rapid Library Lyrics Download</strong>: Download lyrics for your entire music library quickly and efficiently. 💨</li>\n<li>❌ <strong>Ad-Free Option</strong>: Premium features allow for an ad-free experience, letting you focus on the music. 🚫</li>\n</ul>\n<h3>Cons</h3>\n<ul>\n<li>📉 <strong>Unsupported Players</strong>: Some popular music players like SoundCloud are not yet compatible. ❓</li>\n<li>💌 <strong>Notification Access Requirement</strong>: Requires \"Notification access\" to listen for music, which might be a concern for privacy-aware users. 🔐</li>\n<li>💲 <strong>Premium Subscription</strong>: To remove ads and access certain exclusive features, a subscription is necessary. 💳</li>\n<li>🤝 <strong>Partial Support</strong>: Not all songs from certain services like Wynk Music are supported, which may affect consistency. 👥</li>\n</ul>\n<h3>Pricing</h3>\n<ul>\n<li>💵 QuickLyric is a free app with ad support, delivering a rich lyric database at no upfront cost. Premium features, including ad removal, enhanced themes, and night mode, are available with a subscription to cater to the demands imposed by the music industry and ensure fair artist compensation.</li>\n</ul>\n<h3>Community</h3>\n<p>(If this is a game app, a community section is included with details. However, if this is a non-game app, this section is not provided.)</p>\n<p>Experience the joy of music with QuickLyric, the ultimate lyrics companion, by downloading now from <a href=\"https://play.google.com/store/apps/details?id=com.geecko.QuickLyric\" rel=\"noopener noreferrer\" target=\"_blank\">Google Play Store</a>.</p>\n<p>(Note: For up-to-date information and details about compatibility or supported music players, please check the app's official resources or reach out to their support.)</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-simmusic-oldjpop/49056.html",
+      "icon": "assets/img/apk/icon/com.simmusic.oldjpop.png",
+      "name": "昭和の名曲 - 70年代/80年代名曲, 昭和の歌謡曲",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-bigsoft-voicereverse-audiochanger/39378.html",
+      "icon": "assets/img/apk/icon/com.bigsoft.voicereverse.audiochanger.png",
+      "name": "Funny Voice Reverse",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "3.1"
+    },
+    {
+      "link": "/details/com-realdrum-drumset-drumapp-beatmaker-music-instruments-drumkit/16783.html",
+      "icon": "assets/img/apk/icon/com.realdrum.drumset.drumapp.beatmaker.music.instruments.drumkit.png",
+      "name": "Learn Drum - Pad & Beat Maker",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-musicplayer-mp3-audio-mymusic-player/15795.html",
+      "icon": "assets/img/apk/icon/com.musicplayer.mp3.audio.mymusic.player.png",
+      "name": "Music Player & MP3 - MMusic",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/com-ai-sound-donna/15626.html",
+      "icon": "assets/img/apk/icon/com.ai.sound.donna.png",
+      "name": "Donna AI Song & Music Maker",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-vanniktech-rssreader/15328.html",
+      "icon": "assets/img/apk/icon/com.vanniktech.rssreader.png",
+      "name": "RSS Reader Offline | Podcast",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-voicechanger-supereffect-soundeffect/14158.html",
+      "icon": "assets/img/apk/icon/com.voicechanger.supereffect.soundeffect.png",
+      "name": "Voice Changer: Audio Effect",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/org-cru-womans-herbible/14124.html",
+      "icon": "assets/img/apk/icon/org.cru.womans.herbible.png",
+      "name": "her.BIBLE Women's Audio Bible",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    }
+  ]
+}

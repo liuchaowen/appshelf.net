@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/learn-javascript.png",
+    "title": "Learn JavaScript",
+    "ratings": "4.7",
+    "downloads": "540M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Learn JavaScript"
+    },
+    {
+      "name": "category",
+      "value": "Education"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "SoloLearn"
+    },
+    {
+      "name": "Version",
+      "value": "5.7.1"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h2>Learn JavaScript</h2>\n<h3>Brief</h3>\n<p>Unlock the potential of web development with Learn JavaScript, the app cleverly designed to guide you through the nuanced world of JavaScript programming. Whether you're aiming to enhance your career or simply indulge in the art of coding, this app offers a digestible, interactive, and personalized approach to mastering JavaScript on the go.</p>\n<h3>Core Features</h3>\n<ul>\n<li><strong>Comprehensive Learning Platform</strong> 📘: Delve into the vast knowledge of JavaScript programming with structured lessons and resources.</li>\n<li><strong>Hands-on Practice</strong> 💻: Sharpen your skills with practical exercises and test sessions that reinforce learning.</li>\n<li><strong>Creative Code Crafting</strong> 🧑‍💻: Step-by-step guidance through the exciting process of creating your own JavaScript code.</li>\n<li><strong>Global Leaderboards</strong> 🌍: Earn points and compete with a global community of learners.</li>\n<li><strong>Professional Skill Acquisition</strong> 🚀: Gain a marketable skill set to propel your career forward without distractions.</li>\n<li><strong>Uninterrupted Learning Experience</strong> 🛑: Enjoy learning without interruptions, thanks to a no in-app purchases, and no ads policy.</li>\n</ul>\n<h3>Pros</h3>\n<ul>\n<li><strong>User-Centric Design</strong> 👤: Tailored learning experience that adapts to your personal learning style and pace.</li>\n<li><strong>Engaging Interaction</strong> 🎮: Makes coding concepts easy and fun to understand, enhancing retention.</li>\n<li><strong>Learn on the Move</strong> 🚆: Accessible education - learn anytime, anywhere, right from your mobile device.</li>\n<li><strong>Fresh Content Daily</strong> 🆕: Always find something new to discover with daily content updates.</li>\n</ul>\n<h3>Cons</h3>\n<ul>\n<li><strong>Single Language Focus</strong> 🔤: Primarily centered on JavaScript, which may not cater to those looking to learn multiple programming languages simultaneously.</li>\n<li><strong>Internet Dependency</strong> 🌐: Requires a stable internet connection for full functionality and content updates.</li>\n<li><strong>Competitive Aspect</strong> 🏆: The competitive point system might be stress-inducing or demotivating for some learners.</li>\n<li><strong>Device Limitations</strong> 📱: Performance and experience may vary depending on the user's mobile device capabilities.</li>\n</ul>\n<h3>Price</h3>\n<p>💵 Free: This app is free to download and use, with a promise of no in-app purchases and no ads to disrupt your learning journey.</p>\n<p><a href=\"https://www.sololearn.com/home\" rel=\"noopener noreferrer\" target=\"_blank\">Learn JavaScript Official Site</a></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-nibble-lesson/54302.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.nibble.lesson.png",
+      "name": "Nibble: Your Bite of Knowledge",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-matlubapps-myiq/54109.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.matlubapps.myiq.png",
+      "name": "IQ & Personality Tests: IQlab",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-home-lifehealthinsurance/48965.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.home.lifehealthinsurance.png",
+      "name": "Life & Health Insurance Exam",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "3.5"
+    },
+    {
+      "link": "/details/pp-paramedic/48959.html",
+      "icon": "https://img.buzzsight.co/apk/icon/pp.paramedic.png",
+      "name": "Paramedic Test Prep 2026",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "3.9"
+    },
+    {
+      "link": "/details/org-truthforlife-app/48953.html",
+      "icon": "https://img.buzzsight.co/apk/icon/org.truthforlife.app.png",
+      "name": "Truth For Life",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-habapps-perstest/39344.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.habapps.perstest.png",
+      "name": "The Personality Test",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-schooltoday-alphaomega/39316.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.schooltoday.alphaomega.png",
+      "name": "Alpha & Omega",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-lucida-androidapp/34758.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.lucida.androidapp.png",
+      "name": "Learn Languages - Lucida AI",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "4.6"
+    }
+  ]
+}

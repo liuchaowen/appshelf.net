@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/com.weatherport.android.png",
+    "title": "Free Weather Launcher App & Widget",
+    "ratings": "4.9",
+    "downloads": "250M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Free Weather Launcher App & Widget"
+    },
+    {
+      "name": "category",
+      "value": "Weather"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Weather Port"
+    },
+    {
+      "name": "Version",
+      "value": "1.8.9"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h1>Free Weather Launcher App &amp; Widget</h1>\n<p><strong>Brief:</strong>\nFree Weather Launcher App &amp; Widget by WeatherPort ensures that you stay informed about the weather conditions with a comprehensive array of features. This user-friendly weather app provides detailed forecasts, local news, and customizable home screen options, keeping you one step ahead of the weather.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li><strong>Up-to-the-minute updates:</strong> Obtain current temperatures and daily forecasts with precision. 🌡️</li>\n<li><strong>Live news feed:</strong> Stay updated with the most important weather news and local alerts. 📰</li>\n<li><strong>Severe weather alerts:</strong> Be ready for extreme weather conditions with real-time tracking and notifications. 🚨</li>\n<li><strong>Multi-location weather:</strong> Monitor the weather for all your favorite places. 🗺️</li>\n<li><strong>Dynamic backgrounds:</strong> Visualize the weather through live wallpapers that reflect real-time conditions. 🖼️</li>\n<li><strong>Customizable interface:</strong> Tailor your home screen to suit your unique style and preferences. 🎨</li>\n<li><strong>Convenient app organization:</strong> Quickly access your most-used apps with custom drawer groups. 📲</li>\n<li><strong>Dark mode:</strong> Enjoy a sleek experience suiting your viewing comfort. 🌙</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li><strong>Free to use:</strong> No initial cost for the main features. 👍</li>\n<li><strong>User-friendly:</strong> Easy-to-navigate interface for efficient usability. 🤳</li>\n<li><strong>Up-to-date information:</strong> Ensures that you're never caught off-guard by the weather. 🔄</li>\n<li><strong>Personalization options:</strong> Extensive customization to personalize user experience. 🔧</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li><strong>Ads:</strong> Accept advertisements in the free version. 🚫</li>\n<li><strong>Pro features behind paywall:</strong> Some features require a subscription. 💳</li>\n<li><strong>Potential for auto-renewal:</strong> Users need to manually cancel the subscription to avoid automatic billing. ⚠️</li>\n<li><strong>Device-specific performance:</strong> User experience might vary depending on the device. 📱</li>\n</ul>\n<p><strong>Price:</strong>\nThe Free Weather Launcher App &amp; Widget is free to download and use, but it includes in-app purchases:</p>\n<ul>\n<li>Ad-free experience</li>\n<li>Instant weather alerts for saved locations</li>\n<li>Hourly forecast for 48 hours</li>\n</ul>\n<p>The premium Weather Port Pro version is a subscription-based service, and charges will apply to the user's Google Playstore™ account. Users can turn off auto-renewal by cancelling the subscription within the app or through the Google Playstore™.</p>\n<p><em>Privacy Policy:</em> <a href=\"https://weatherport.co/mwp/common/privacypolicy.html\" rel=\"noopener noreferrer\" target=\"_blank\">Privacy Policy</a>\n<em>Terms of Service:</em> <a href=\"https://weatherport.co/mwp/common/termsofservice.html\" rel=\"noopener noreferrer\" target=\"_blank\">Terms of Service</a></p>\n<p>Google Play is a trademark of Google LLC. Usage does not imply any affiliation with or endorsement by Google LLC.</p>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-eet-weather-launcher/15703.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.eet.weather.launcher.png",
+      "name": "Weather Now Launcher - Radar",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "3.6"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-daily-forecast-weather-radar/4930.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.daily.forecast.weather.radar.png",
+      "name": "Daily Forecast: Weather&Radar",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-mahersafadi-sunny/4921.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.mahersafadi.sunny.png",
+      "name": "Sunny: Weather forecast",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/WeatherPal/4628.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.precise.opliging.kitan.png",
+      "name": "WeatherPal",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.8"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/live-weather/2063.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.appsinnova.weatherforecast.liveweather.png",
+      "name": "Live Weather",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.1"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/radarnow/2062.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.usnaviguide.radar_now.png",
+      "name": "RadarNow!",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/local-weather/2061.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.weather.forecast.channel.local.png",
+      "name": "Local Weather",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/iqair-airvisual/2060.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.airvisual.png",
+      "name": "IQAir AirVisual",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.6"
+    }
+  ]
+}

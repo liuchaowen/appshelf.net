@@ -1,0 +1,110 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.amuvirus.roma.png",
+    "title": "Roma VPN",
+    "ratings": "4.4",
+    "downloads": "70M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Roma VPN"
+    },
+    {
+      "name": "category",
+      "value": "Tools"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Muneeb arshad"
+    },
+    {
+      "name": "Version",
+      "value": "30.1"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/jp11G0Ln0a_CD-1OchjVcMy-tS071gH7aua5xFkAlzhsUTS5gJ8cqxLqqRfQb7Wzpny5",
+    "https://play-lh.googleusercontent.com/d-2d1MYLHXnkeu7jYRbxJr6Uwd5wnm4A4WdMgCIlsCCScs_Ajf-oixx4ZWzRGx7bgyI",
+    "https://play-lh.googleusercontent.com/yjrySxq_IcxZvuPaw9j3AUCxTpt1dFJYrI7RnTRscyZXrT1UvP3QsFUPiLQOsJG6j3o",
+    "https://play-lh.googleusercontent.com/qZ9KcUL22CH-9QameASDtxSIG_3nokuH8n7zT8n459TJjedE1hdZ_vfv9w3KblzbTQ",
+    "https://play-lh.googleusercontent.com/zJJW7hrcFL_ivOd_fW7wNlJJcdMxGXrcfQBgpVOkowKcnH2tI_WuSSr7vD4vEudOQvgt",
+    "https://play-lh.googleusercontent.com/E6R9ISl-69jcB4HiXFqbh2H1iocvLaBM_nsvXTWbxrcw-6ho7snb7o71bShc3ngwl6x_"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> Roma VPN\n<strong>Package Name:</strong> com.amuvirus.roma</p>\n<h3>Brief:</h3>\n<p>Roma VPN is a virtual private network application designed to provide users with increased online security and privacy. While it promises to allow users to connect to the internet securely and anonymously, potential users should consider its offerings in comparison to other VPN services on the market.</p>\n<h3>Core Features: 📌</h3>\n<ul>\n<li><strong>Enhanced Privacy:</strong> Offers basic VPN functionalities to keep your online activities private from prying eyes.</li>\n<li><strong>Secure Connection:</strong> Provides encrypted connections to protect your personal information and online transactions.</li>\n<li><strong>Access to Restricted Content:</strong> Enables the bypassing of some geo-restrictions, allowing access to content that may not be available in your region.</li>\n<li><strong>User-Friendly Interface:</strong> Designed with simplicity in mind, facilitating ease of use for all users regardless of their technical expertise.</li>\n</ul>\n<h3>Pros: 👍</h3>\n<ul>\n<li><strong>Anonymity Online:</strong> Ensures a level of anonymity while browsing the internet.</li>\n<li><strong>Uncomplicated Usage:</strong> Boasts a straightforward interface that's easy to navigate for a hassle-free VPN experience.</li>\n<li><strong>Geo-Restriction Bypass:</strong> It can potentially unlock geo-blocked content, making it useful for users looking to access a broader range of online services.</li>\n<li><strong>Data Protection:</strong> Encrypted connections help protect data from unauthorized access.</li>\n</ul>\n<h3>Cons: 👎</h3>\n<ul>\n<li><strong>Limited Server Options:</strong> Offers fewer servers than leading VPN services, which may impact flexibility and speed.</li>\n<li><strong>Vague Privacy Policies:</strong> Lacks a clear and transparent privacy policy, casting doubt on data privacy assurances.</li>\n<li><strong>Basic Security Measures:</strong> May not have advanced security features such as a kill switch or multi-factor authentication.</li>\n</ul>\n<h3>Pricing: 💵</h3>\n<p>Details regarding the pricing of Roma VPN are not provided. It’s essential for potential users to check if the service is free or requires payment, and if there are any in-app purchases or subscription models available.</p>\n<p>In summary, while Roma VPN provides fundamental VPN features and user-friendly design, its limitations in server options, uncertainty in privacy policy, and security features should be carefully weighed by anyone considering this service for their online privacy needs. Users are advised to research further for the latest updates and verify the current status of features and services directly from the service provider.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-antique-snap-identifier-appraisal/54309.html",
+      "icon": "assets/img/apk/icon/com.antique.snap.identifier.appraisal.png",
+      "name": "Antique Identifier - Appraisal",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-age-calculator-life-countdown/54243.html",
+      "icon": "assets/img/apk/icon/com.age.calculator.life.countdown.png",
+      "name": "Age Calculator・Life Expectancy",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.4"
+    },
+    {
+      "link": "/details/com-xv-agecalc/54237.html",
+      "icon": "assets/img/apk/icon/com.xv.agecalc.png",
+      "name": "AgeCalc: Date Life Calculator",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-palm-ai-decode-destiny-soul-futurelines-handline/54206.html",
+      "icon": "assets/img/apk/icon/com.palm.ai.decode.destiny.soul.futurelines.handline.png",
+      "name": "Palm AI: Decode Destiny",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/rbx-robuxcalc-getrbx-freecounter/53839.html",
+      "icon": "assets/img/apk/icon/rbx.robuxcalc.getrbx.freecounter.png",
+      "name": "RBX Calc - Get Robuxcounter",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-internetoptimizer-speedtest-wifispeedtest-netspeed-wifipassword-wifispeed/49027.html",
+      "icon": "assets/img/apk/icon/com.internetoptimizer.speedtest.wifispeedtest.netspeed.wifipassword.wifispeed.png",
+      "name": "Internet Optimizer",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.9"
+    },
+    {
+      "link": "/details/com-blazingappstudio-speed_test_pro/49021.html",
+      "icon": "assets/img/apk/icon/com.blazingappstudio.speed_test_pro.png",
+      "name": "Speed Test - Wifi Optimizer",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-secret-camera-hidden-detector/39728.html",
+      "icon": "assets/img/apk/icon/com.secret.camera.hidden.detector.png",
+      "name": "Hidden Camera & IR Detector",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    }
+  ]
+}

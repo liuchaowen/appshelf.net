@@ -1,0 +1,112 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.wanderlog.android.png",
+    "title": "Wanderlog - Trip Planner App",
+    "ratings": "4.7",
+    "downloads": "103M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Wanderlog - Trip Planner App"
+    },
+    {
+      "name": "category",
+      "value": "Travel & Local"
+    },
+    {
+      "name": "Price",
+      "value": "0"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Wanderlog"
+    },
+    {
+      "name": "Version",
+      "value": "8.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/s4ov2KdTRKPFNmW8uqzvS9aHB2hAg93KzUEL2rJ1blL1Sdgli6OzouOIn_0fH8N2yiw9",
+    "https://play-lh.googleusercontent.com/hv0ww5ird-jcav8NYs9G4U7g9vfShOGH_V0qvplERqNIlapGqO2wvnMYtUf8Bl4Byg",
+    "https://play-lh.googleusercontent.com/SfJKx8Xp1VEHUxOkNDTFBsY7F1ROEsCJ5PM683e5NRdvaFWpKTxnhOTXQ9RTW2IgVPU",
+    "https://play-lh.googleusercontent.com/bHi0phpXB0Gv8S8dfDRPUJcAdj5yKa1Vr3m4Y3C2kIagGmKMydHiRBFHmXr2rNYOVS84",
+    "https://play-lh.googleusercontent.com/mHJtRJgsG3ti-BJltQ2zoTOn0GUaRCC9bfYY4fCr8hfKShLH3VfE4QXy2F0465hubePU",
+    "https://play-lh.googleusercontent.com/0lybPwdP2xX6zvxFhgwJ-qq40Ycgpi0Yu5IIkQXijt0d0G91vizFsJAQgxRSzugXHw",
+    "https://play-lh.googleusercontent.com/TCTXPzxqld4owbTWUDybBVUWSXmNmFmKOFViubFKC-Eo5I6u-8AzE40oXcsIHjO0LcI",
+    "https://play-lh.googleusercontent.com/FUqSOBXt2XMMt-DjCX-2Fw9JEiCiLDdd0Qe9kY4ljczevM01v5OrvsuFlr4Lg-uoOHBK"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> Wanderlog - Trip Planner App</p>\n<h3>Brief</h3>\n<p>Wanderlog offers a seamless and comprehensive solution to trip planning, suited for all travel types—be it solo adventures, family vacations, group trips, or road extrusions. It blends functionality such as itinerary mapping, reservations management, and collaboration into one free platform, making travel planning both fun and efficient. After your trip, sharing your experiences becomes an instant gateway to inspire fellow travel enthusiasts.</p>\n<h3>Core Features 📌</h3>\n<ul>\n<li><strong>Itinerary Creation:</strong> Easily set up and customize your travel itinerary with flight, hotel, and car reservations all in one place.</li>\n<li><strong>Interactive Travel Map:</strong> View and map your route, optimizing travels and pinning key attractions to create the perfect journey.</li>\n<li><strong>Collaborative Planning:</strong> Collaborate in real time with friends for group trips, modifying shared trip plans like a Google Doc.</li>\n<li><strong>Offline Functionality:</strong> Access your trip plans even when offline, ensuring you're prepared regardless of connectivity.</li>\n<li><strong>Financial Tracking:</strong> Manage and track your expenses with integrated budgeting tools, especially useful for group finances.</li>\n</ul>\n<h3>Pros 👍</h3>\n<ul>\n<li><strong>Free to Use:</strong> Wanderlog offers a robust set of tools without any upfront costs.</li>\n<li><strong>Unlimited Stops for Road Trips:</strong> Perfect for minutely detailed road trip planning with no restrictions on the number of stops.</li>\n<li><strong>Cross-Device Sync:</strong> Your plans update across all devices, making it easy to stay on the same page.</li>\n<li><strong>Import Reservations Automatically:</strong> Effortlessly bring in travel bookings by email or connect your Gmail for automatic integration.</li>\n</ul>\n<h3>Cons 👎</h3>\n<ul>\n<li><strong>Offline Features Pro Only:</strong> Some offline capabilities might be limited to the Pro version of the app.</li>\n<li><strong>Dependency on Internet:</strong> While offline access is provided, full features require an active internet connection.</li>\n<li><strong>Possible Learning Curve:</strong> New users might need time to become familiar with all the available functions.</li>\n<li><strong>Email Forwarding for Integration:</strong> Some might find forwarding emails for reservation integration less than ideal.</li>\n</ul>\n<h3>Price 💵</h3>\n<p>Wanderlog is a completely free app, offering core travel planning functionalities without charge. However, it's important to note that there might be a Pro version with enhanced offline features and additional capabilities, for which pricing details would need to be confirmed within the app.</p>\n<h3>Community 🕸️</h3>\n<p>Since Wanderlog is not a game application, no community links and resources have been provided in this description.</p>\n<hr/>\n<p>Unleash the full potential of travel planning with Wanderlog - the ultimate trip companion that redefines the joy of preparing for journeys, both far-flung and close to heart.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-bp-app-bpme-global-ros/16042.html",
+      "icon": "assets/img/apk/icon/com.bp.app.bpme.global.ros.png",
+      "name": "earnify",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/kulana-tools-vacationcountdown/10380.html",
+      "icon": "assets/img/apk/icon/kulana.tools.vacationcountdown.png",
+      "name": "Vacation Countdown App",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-disney-playdisneyparks-goo/4681.html",
+      "icon": "assets/img/apk/icon/com.disney.playdisneyparks.goo.png",
+      "name": "Play Disney Parks",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-hornblower-statuecruises/4679.html",
+      "icon": "assets/img/apk/icon/com.hornblower.statuecruises.png",
+      "name": "Statue Cruises",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-usnpw-grca/4678.html",
+      "icon": "assets/img/apk/icon/com.usnpw.grca.png",
+      "name": "Grand Canyon National Park",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/MakeMyTrip-Hotels-Flight-Bus/4591.html",
+      "icon": "assets/img/apk/icon/com.makemytrip.png",
+      "name": "MakeMyTrip Hotels, Flight, Bus",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/ConfirmTkt/4570.html",
+      "icon": "assets/img/apk/icon/com.confirmtkt.lite.png",
+      "name": "ConfirmTkt",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/Bus-Train-Ticket-Booking-App/4503.html",
+      "icon": "assets/img/apk/icon/in.redbus.android.png",
+      "name": "Bus, Train Ticket Booking App",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.9"
+    }
+  ]
+}

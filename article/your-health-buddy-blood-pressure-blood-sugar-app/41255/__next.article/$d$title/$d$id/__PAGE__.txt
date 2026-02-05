@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[506782,["/_next/static/chunks/1dd7c721fb053739.js","/_next/static/chunks/15c0b0f887b8c025.js"],"default"]
+3:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/d80b3790a119a285.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"V8z4RYgXIGbyhDIdz6vMW","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"your-health-buddy-blood-pressure-blood-sugar-app","id":"41255"}],[["$","script","script-0",{"src":"/_next/static/chunks/1dd7c721fb053739.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/15c0b0f887b8c025.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

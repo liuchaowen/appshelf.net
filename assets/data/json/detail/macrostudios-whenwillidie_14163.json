@@ -1,0 +1,107 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/macrostudios.whenwillidie.png",
+    "title": "When Will I Die - Prank Quiz",
+    "ratings": "3.8",
+    "downloads": "36M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "When Will I Die - Prank Quiz"
+    },
+    {
+      "name": "category",
+      "value": "Entertainment"
+    },
+    {
+      "name": "Price",
+      "value": "0"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "KDR Games"
+    },
+    {
+      "name": "Version",
+      "value": "4.4"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/JCwu2YAUsSJzzt8mMzrWyO_hLjnz6NVEyE640JHR-0ct4xPvY8qeHD8HG444Ob8txgD2",
+    "https://play-lh.googleusercontent.com/jezm4nobzAK-5HeHPkjymCW05L5Ztu5a-8qdihjquubdykS5UN_6niuGJYbQvcXfAqY",
+    "https://play-lh.googleusercontent.com/ih7L3wdjHTLmPqmrLnDJCNHKDAhzMWx9j6ChQuQl6VDZlktz4jke-4006HdaQi2CocU"
+  ],
+  "app_descript": "<h1>When Will I Die - Prank Quiz</h1>\n<p>Discover the lighter side of life and have a bit of fun with your friends using <strong>When Will I Die - Prank Quiz</strong>! This entertaining app uses a unique algorithm to estimate your death date based on various lifestyle and habit questions. Whether you're looking to prank your friends or just curious about what the app calculates, it's a light-hearted take on a serious subject.</p>\n<h3>📌 Core Features:</h3>\n<ul>\n<li><strong>Countdown Calculator</strong>: Engage with a fun death date countdown calculator that builds suspense! ⏳</li>\n<li><strong>Lifestyle Quiz</strong>: Answer intriguing questions related to your lifestyle and habits to find out your estimated demise date. ❓</li>\n<li><strong>Multiple Quizzes</strong>: Choose from three different quizzes for varied results and endless entertainment. 🎉</li>\n<li><strong>Prank-Friendly</strong>: Perfect for sharing with friends to get some laughs and light-hearted discussions. 😂</li>\n<li><strong>Free to Use</strong>: Enjoy all the features of this app without any cost! 💸</li>\n</ul>\n<h3>👍 Pros:</h3>\n<ul>\n<li><strong>Entertaining Experience</strong>: Provides a whimsical and humorous twist on the concept of death. 😄</li>\n<li><strong>Social Engagement</strong>: Great for gatherings, maintaining fun conversations and laughs among friends. 🎊</li>\n<li><strong>Unique Algorithm</strong>: Uses a unique approach to estimate outcomes, making each quiz enjoyable and different. 🌟</li>\n<li><strong>User-Friendly Interface</strong>: Simple and intuitive design ensures ease of navigation throughout the app. 📱</li>\n<li><strong>No Cost</strong>: Completely free, letting you enjoy without spending a dime! 🆓</li>\n</ul>\n<h3>👎 Cons:</h3>\n<ul>\n<li><strong>Not for Serious Use</strong>: The estimates are purely for entertainment and shouldn't be taken seriously. 🚫</li>\n<li><strong>Limited Depth</strong>: Lacks detailed health analysis or real-life implications regarding life expectancy. 🔍</li>\n<li><strong>Potential Misinterpretation</strong>: Some users may misinterpret the results seriously, leading to misunderstanding. ⚠️</li>\n<li><strong>Repetitive Questions</strong>: Some quizzes may have overlapping questions, resulting in repetitive gameplay. 🔄</li>\n<li><strong>Minimal Educational Value</strong>: While fun, it's not an app for gaining serious insights about health. 📉</li>\n</ul>\n<h3>💵 Price:</h3>\n<p>This app is completely free to download and use, but it may contain in-app advertisements.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-moonphaseapps-astro/54410.html",
+      "icon": "assets/img/apk/icon/com.moonphaseapps.astro.png",
+      "name": "AstroBella Astrology & Healing",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-girlmaker-create-avatar-creator/54356.html",
+      "icon": "assets/img/apk/icon/com.girlmaker.create.avatar.creator.png",
+      "name": "PFP Girl: Avatar Maker",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-photocrop-challengefilter/54321.html",
+      "icon": "assets/img/apk/icon/com.photocrop.challengefilter.png",
+      "name": "Photo Crop Challenge Filter",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-photo-cropfilter-challenge/54315.html",
+      "icon": "assets/img/apk/icon/com.photo.cropfilter.challenge.png",
+      "name": "Photo Crop Challenge Video",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/vyten-colormatrix/54297.html",
+      "icon": "assets/img/apk/icon/vyten.colormatrix.png",
+      "name": "The Personality Color Matrix",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-truelove-tester-love/54289.html",
+      "icon": "assets/img/apk/icon/com.truelove.tester.love.png",
+      "name": "True Love Tester",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-lifeexpectancycalculator/54231.html",
+      "icon": "assets/img/apk/icon/com.lifeexpectancycalculator.png",
+      "name": "Life Expectancy Calculator",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-insect-filters-funny-prank-bug-filter-face-camera/54212.html",
+      "icon": "assets/img/apk/icon/com.insect.filters.funny.prank.bug.filter.face.camera.png",
+      "name": "Bugzz: Insect Prank Filters",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4"
+    }
+  ]
+}

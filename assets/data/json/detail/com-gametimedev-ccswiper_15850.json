@@ -1,0 +1,108 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/com.gametimedev.ccswiper.png",
+    "title": "CC Swiper",
+    "ratings": "4.1",
+    "downloads": "1M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "CC Swiper"
+    },
+    {
+      "name": "category",
+      "value": "Tools"
+    },
+    {
+      "name": "Price",
+      "value": "0"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "GameTimeDev"
+    },
+    {
+      "name": "Version",
+      "value": "5.1"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/v6GyzAoUWz1eQ4FRPDaGelu9B1jbQ0tI0TPYisPQI3rJEXACePxOCe8oEtfu4O0P-zA",
+    "https://play-lh.googleusercontent.com/zv4OhTTOy-77Cz8WuPL1svjIoVH7l27ZKS1vyvIpWiaWj16bO8SaBaueRhsTMHYqWFA",
+    "https://play-lh.googleusercontent.com/AFcSNX9xIszQ8Rlv235D4CazXgyMkt8EjAc9T5yJoAfaZUzwuuTH2tB_WuqlM0RYN7uB",
+    "https://play-lh.googleusercontent.com/IR9e1GoCtsMx_9Jugvd24ttDpeMgvLp2gehn9gP6RU96N8DZbTBv065bI_IClkVa5yxd"
+  ],
+  "app_descript": "<h1>CC Swiper</h1>\n<p>The <strong>CC Swiper</strong> app is a must-have tool for fans of custom content (CC) from GameTimeDev's Mod Manager. This innovative extension simplifies the process of discovering, sorting, and managing CC files, ensuring that your gaming experience remains enjoyable without the hassle of tedious organization.</p>\n<h2>📌 Core Features</h2>\n<ul>\n<li><strong>Easy Sorting:</strong> Swipe through your installed CCs to effortlessly decide which to keep or discard. 🖱️</li>\n<li><strong>Discover New CC:</strong> Access a vast library of CurseForge mods and CC directly from your phone with a simple swipe. 🌐</li>\n<li><strong>Integration with Mod Manager:</strong> Seamlessly connect the app to the Mod Manager for straightforward management of your CC collection. 🔄</li>\n<li><strong>Creator Showcase:</strong> Browse through projects created by your favorite creators, making it easier to find new content you love. ❤️</li>\n<li><strong>User-Friendly Interface:</strong> Enjoy a smooth and engaging user experience designed for quick navigation and sorting. 👍</li>\n</ul>\n<h2>👍 Pros</h2>\n<ul>\n<li><strong>Time-Saving:</strong> Speeds up the process of sorting through CC, reducing clutter in your mod folder. ⏳</li>\n<li><strong>Fun Discovery:</strong> Makes exploring new content exciting and interactive. 🎉</li>\n<li><strong>Convenient:</strong> Accessible from your phone, allowing you to manage your CC anywhere, anytime. 🌍</li>\n<li><strong>Organized Management:</strong> Helps maintain an organized collection of CC, enhancing gameplay. 📂</li>\n<li><strong>Community Engagement:</strong> Connects you with a community of creators and fellow gamers. 🤝</li>\n</ul>\n<h2>👎 Cons</h2>\n<ul>\n<li><strong>Limited to GameTimeDev:</strong> Only works with the GameTimeDev Mod Manager, restricting its use with other mod managers. 🔒</li>\n<li><strong>Mobile Dependency:</strong> Requires a mobile device, which may not be ideal for all users. 📱</li>\n<li><strong>Initial Setup Required:</strong> Needs initial configuration to connect with the Mod Manager, which could be cumbersome for some users. ⚙️</li>\n<li><strong>Potential Bugs:</strong> As with any app, users may encounter bugs that can disrupt the experience. 🐞</li>\n<li><strong>Updates Needed:</strong> Frequent updates could be necessary to maintain compatibility with the latest mods/CCs. 🆕</li>\n</ul>\n<h2>💵 Price</h2>\n<p>CC Swiper is available for free, but in-app purchases may exist for additional features or content. 💰</p>\n<h2>🕸️ Community</h2>\n<ul>\n<li><a href=\"https://gametimedev.com\" rel=\"noopener noreferrer\" target=\"_blank\">Official Site</a></li>\n<li><a href=\"https://www.youtube.com/user/GameTimeDev\" rel=\"noopener noreferrer\" target=\"_blank\">YouTube Channel</a></li>\n<li><a href=\"https://www.youtube.com/user/YourFavoriteGamer\" rel=\"noopener noreferrer\" target=\"_blank\">Popular YouTuber</a></li>\n<li><a href=\"https://www.instagram.com/gametimedev\" rel=\"noopener noreferrer\" target=\"_blank\">Instagram</a></li>\n<li><a href=\"https://twitter.com/gametimedev\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a></li>\n<li><a href=\"https://discord.gg/gametimedev\" rel=\"noopener noreferrer\" target=\"_blank\">Discord</a></li>\n<li><a href=\"https://www.facebook.com/gametimedev\" rel=\"noopener noreferrer\" target=\"_blank\">Facebook</a></li>\n<li><a href=\"https://www.tiktok.com/@gametimedev\" rel=\"noopener noreferrer\" target=\"_blank\">TikTok</a></li>\n<li><a href=\"https://www.reddit.com/r/gametimedev\" rel=\"noopener noreferrer\" target=\"_blank\">Reddit</a></li>\n<li><a href=\"https://gametimedev.fandom.com\" rel=\"noopener noreferrer\" target=\"_blank\">Fandom Wiki</a></li>\n</ul>",
+  "related_apps": [
+    {
+      "link": "/details/com-antique-snap-identifier-appraisal/54309.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.antique.snap.identifier.appraisal.png",
+      "name": "Antique Identifier - Appraisal",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-age-calculator-life-countdown/54243.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.age.calculator.life.countdown.png",
+      "name": "Age Calculator・Life Expectancy",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.4"
+    },
+    {
+      "link": "/details/com-xv-agecalc/54237.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.xv.agecalc.png",
+      "name": "AgeCalc: Date Life Calculator",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-palm-ai-decode-destiny-soul-futurelines-handline/54206.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.palm.ai.decode.destiny.soul.futurelines.handline.png",
+      "name": "Palm AI: Decode Destiny",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/rbx-robuxcalc-getrbx-freecounter/53839.html",
+      "icon": "https://img.buzzsight.co/apk/icon/rbx.robuxcalc.getrbx.freecounter.png",
+      "name": "RBX Calc - Get Robuxcounter",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-internetoptimizer-speedtest-wifispeedtest-netspeed-wifipassword-wifispeed/49027.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.internetoptimizer.speedtest.wifispeedtest.netspeed.wifipassword.wifispeed.png",
+      "name": "Internet Optimizer",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.9"
+    },
+    {
+      "link": "/details/com-blazingappstudio-speed_test_pro/49021.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.blazingappstudio.speed_test_pro.png",
+      "name": "Speed Test - Wifi Optimizer",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-secret-camera-hidden-detector/39728.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.secret.camera.hidden.detector.png",
+      "name": "Hidden Camera & IR Detector",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    }
+  ]
+}

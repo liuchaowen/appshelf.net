@@ -1,0 +1,112 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/pdf.tap.scanner.png",
+    "title": "TapScanner",
+    "ratings": "4.6",
+    "downloads": "790M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "TapScanner"
+    },
+    {
+      "name": "category",
+      "value": "Productivity"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Smart media"
+    },
+    {
+      "name": "Version",
+      "value": "2.6.88"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/mgFuEisS0WtT7nv1LOtYJ9HxCh9xBcDRgUwYTtyW10tEasuJrzW_EEoC2qOB3J4xi2Q",
+    "https://play-lh.googleusercontent.com/bYs4iHUav4Fv-ngK1FiQncoIrebITCgbWHyXI3_B3iGC9BASM1Op9nn_eDGSt2_CxA",
+    "https://play-lh.googleusercontent.com/Nax7zVV7xyk9fPXZ5CHgAWJ_nfKNnxdK3E_Sbg5bUT_5wN-0on0cF4leAorkYh6BS7w",
+    "https://play-lh.googleusercontent.com/5pN7rOWGx8mWss4eEZArilQQtuzJo2vhGw3XC9PSEvki7RiiM1BXEQoHzu95zHpoxQ",
+    "https://play-lh.googleusercontent.com/JQVvUm0FEz7DvQVpYaTsN0lbUMKdg_elq1bMc5J2V84w4Nev7oYUp4F3VbZCCDZZYw",
+    "https://play-lh.googleusercontent.com/LYcHUXhsZgZKrvEngWkoASLobElRXPp3mm47LNqSxPU2p1pxZDATm5hHYsKq87gY1w",
+    "https://play-lh.googleusercontent.com/Nf5f5ZkQ_MJK5HSCY1DBrEZrJPmM3xvncXoCxz_P-z0MK7jZ2aYx7_r8gcaPMAsRnHo",
+    "https://play-lh.googleusercontent.com/-9omTTUJ4FHBdUu1n0lrVKKjAQgke86wYGdAf2mEsLITpZ7a_tJtcJCMvL6Qv1307nMA"
+  ],
+  "app_descript": "<h3>TapScanner</h3>\n<p><strong>Brief:</strong>\nTapScanner is a comprehensive document scanning app that transforms your device into a powerful portable PDF scanner, enabling you to digitize your paper documents with ease. It offers border detection, a suite of image filters, and editing tools including OCR for text conversion. Additionally, TapScanner facilitates document sharing, cloud backup, and effective document organization.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li><strong>PDF Scanning and Export</strong> - Convert any document into a PDF and share or print instantly. 📄</li>\n<li><strong>Intelligent Border Detection</strong> - Automates the process of finding document edges for a neat scan. 🎯</li>\n<li><strong>Advanced Image Filters</strong> - Enhance your scans with filters that adjust brightness and contrast, and remove shadows or artifacts. 🖌️</li>\n<li><strong>OCR Text Conversion</strong> - Extract text from images and export it for further use, with an integrated QR code reader. 🔍</li>\n<li><strong>Cloud Backup and Organization</strong> - Autosave your documents to the cloud and sort them for quick retrieval. ☁️</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li><strong>Effortless Scanning</strong> - Turn your phone into a high-quality scanner for all types of documents. 👍</li>\n<li><strong>Easy Sharing</strong> - Quickly send your scanned PDFs through email, social media, or instant messaging. 🚀</li>\n<li><strong>Editable Scans</strong> - Modify your documents post-scan and separate them into multiple PDFs as required. ✂️</li>\n<li><strong>On-the-go Efficiency</strong> - Manage documents effectively, even while mobile, with cloud integration and sorting functionality. 📁</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li><strong>In-app Advertisements</strong> - May contain ads that can disrupt the user experience. 📢</li>\n<li><strong>Internet Dependency</strong> - Requires an internet connection for OCR and cloud-based features. 🌐</li>\n<li><strong>Limited Free Features</strong> - Some features might be locked behind a paywall, necessitating an upgrade. 🔒</li>\n<li><strong>Storage Usage</strong> - Heavy usage could consume significant storage space on your device. 💾</li>\n</ul>\n<p><strong>Price:</strong>\nThe TapScanner app is free to download and provides basic scanning functionalities. However, advanced features may require in-app purchases, for which the prices vary.</p>\n<p>By embracing the power of TapScanner, you can say goodbye to physical clutter and hello to a streamlined, digital document management system—your paperless office companion. Download for Free and start scanning now with the top scanner choice!</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-takeofflabs-fontmaker/54188.html",
+      "icon": "assets/img/apk/icon/com.takeofflabs.fontmaker.png",
+      "name": "Fontmaker - Font Keyboard App",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-game-console-emulator/39577.html",
+      "icon": "assets/img/apk/icon/com.game.console.emulator.png",
+      "name": "Gamu: Retro Game Hub",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/app-itwingtech-power_of_mind-predicator/39340.html",
+      "icon": "assets/img/apk/icon/app.itwingtech.power_of_mind.predicator.png",
+      "name": "Mind Test: Test My Brain",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-pdfreader-pdfeditor-scandocu-pro-app-amb/16953.html",
+      "icon": "assets/img/apk/icon/com.pdfreader.pdfeditor.scandocu.pro.app.amb.png",
+      "name": "PDFPro: Scanner & Editor",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "3.8"
+    },
+    {
+      "link": "/details/ai-perplexity-app-android/16744.html",
+      "icon": "assets/img/apk/icon/ai.perplexity.app.android.png",
+      "name": "Perplexity - Ask Anything",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-safeshellvpn/16639.html",
+      "icon": "assets/img/apk/icon/com.safeshellvpn.png",
+      "name": "SafeShell VPN: Fast & Secure",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-roblox-skin-cloth-freeskins/16603.html",
+      "icon": "assets/img/apk/icon/com.roblox.skin.cloth.freeskins.png",
+      "name": "Clothes Skin For Roblox",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-underthing-focus-friend/16526.html",
+      "icon": "assets/img/apk/icon/com.underthing.focus.friend.png",
+      "name": "Focus Friend by Hank Green",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.7"
+    }
+  ]
+}

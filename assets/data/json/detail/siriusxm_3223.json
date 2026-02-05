@@ -1,0 +1,128 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.sirius.png",
+    "title": "SiriusXM",
+    "ratings": "4.5",
+    "downloads": "860M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "SiriusXM"
+    },
+    {
+      "name": "category",
+      "value": "Music & Audio"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Sirius XM Radio Inc"
+    },
+    {
+      "name": "Version",
+      "value": "6.5.1"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/YXD7DqXDFURFu9p5tcWGdj_9YYMZPAKsslKFo1pajusmIqhrWJkneNa9GMvGR9cvhQ",
+    "https://play-lh.googleusercontent.com/QwRwMiA9mcLGTtgbpIdSrRa6AuFVtddbLcqqFQExl9fLLL4Jf7tmkZbb-MVu2aYrJg",
+    "https://play-lh.googleusercontent.com/bJ0btvvRoS1svkqcK-4Nmkxvou-LmzkbJYmVllCTA3dbxTzNbJ7aj97LyeyextHcmA",
+    "https://play-lh.googleusercontent.com/Mfxy9snWzrCemG-QriWvRQBFxF1fwd2p1dfMWnmka4Po7SVm5bd0VhlEmj_PkQ4sJw",
+    "https://play-lh.googleusercontent.com/CWHh-aCfShVMPY2Bm6msyK_kceHEHsfWqeEqK2tVyVatAEfMZhSxcCPwl_6EFWNkZfo",
+    "https://play-lh.googleusercontent.com/kAZexKyCey8vBCDknf1LlGkKbdU573eLdYBjTsVV19Rj6PSsbGxxNwyCpskJ-3a0c4M",
+    "https://play-lh.googleusercontent.com/mN1GrEzorrqb5HaiwzOU0quHZdOgvg7rCYY2asl8HDh56W-q-FKbtUoiVYY-Dc4fX3D9",
+    "https://play-lh.googleusercontent.com/7owbdgnbKDYVw2vNS3lJ8ubru46mOIaR30hAdk43FHyFSyD6KuSp6MjhgDBORX42gBU",
+    "https://play-lh.googleusercontent.com/_6XnVWcujGaXbx56slifxPDm4ewKPeZ5g5uqUH6FUTMQvhpgnu_PyTvRDPBjhqJivGk",
+    "https://play-lh.googleusercontent.com/Pd-vd1-ripgEtzWsXPkgUzoUytY5h-VgVvhAYDhtYNV7oU6MJbGbefTSTDhNihDkjCw",
+    "https://play-lh.googleusercontent.com/0OUdqkyAGdnT7WOxPqMSeVXKzO9TxvwBY9_e1hMuuJQd4XRzvFq-e0VwVrp5cq50HeQ",
+    "https://play-lh.googleusercontent.com/j3aLJ2Llq2ArUPQWXUyI_TWZRbvBpgfeTNTwAP8-egGp5ODQcyqrNV_q4FCYyAxyfok",
+    "https://play-lh.googleusercontent.com/BXVEd79j_Inzo06gKnI3IWWbmMN8LD4bFnsubpusLBerMgFBF1mudUQ275dz9rw1oU4",
+    "https://play-lh.googleusercontent.com/YNm5uVuXfm5SbOtu6DLdzYwJPesG057mLqtvvo1hivWxFE0ajek1Q5s30C4Fj2vSozhx",
+    "https://play-lh.googleusercontent.com/IwhrgyxFVAYUiKCvMQN4EDcy_K_AWhbv1KMzLRabkSsPtPSQ6cbSAuIIXiCcrzEGb6k",
+    "https://play-lh.googleusercontent.com/eM4qbrBBgDrufnRrJpwX1gu6fenz65PbrMWl6_0JQUtVtd_mizoseHJSxsBOnQhWXw",
+    "https://play-lh.googleusercontent.com/9C-UtZQ5rxs9KG-BPkS4eTWdo6uNOtY3eqGrHXKVV9Jjy_aXfFIW3laaqJMBx88irQ",
+    "https://play-lh.googleusercontent.com/NKus4ltWTOBJOO65Gy3Pfj-J_-q_rThnw9EvtiD36ftK0TD1bizGPEk_zucwYu38x457",
+    "https://play-lh.googleusercontent.com/hYehEhtlf_ouI5cV0g6OpWuf6jlyCWDzQM_Q_llheWnfsfmIc2Y7Z8QB0YIrlW324A",
+    "https://play-lh.googleusercontent.com/GxcuJIUUt5UStvOgCwIIxVMLPd75nO4iGT2Qtjfdp1sI2DDBV4NQZCM-9mTiRtVd_7Q",
+    "https://play-lh.googleusercontent.com/cjuUk6iIxI8WH67BUqG5eYa17urQOYujAEjB3U20OAM0HznccBBk2QhoU41nkskssa-9",
+    "https://play-lh.googleusercontent.com/l8E_HenU3V-765vYv5yGT3JBACxJl8_b4fwIxkqlZpXGcAOa5yY0_o648Llh4DD9Ki0",
+    "https://play-lh.googleusercontent.com/d8CwJ6lMcjhrjzo4DB-sGEy670bpK2V2tknzai47zK7um7LCFhcmPXBm21CmWwSc8xg",
+    "https://play-lh.googleusercontent.com/DL3DnHzEJUaQJCFjMKB2UMRBoSFnMb58sk0FM35foN2NzyBWDIkUxDy-zHxfNYJszA"
+  ],
+  "app_descript": "<p><strong>SiriusXM: Stream Music, Radio, and Videos</strong></p>\n<p><strong>Brief:</strong>\nSiriusXM brings the world of entertainment to your fingertips, offering an expansive range of music, sports, news, and videos. Immerse yourself in the rhythms of diverse music channels, get front-row access to exclusive interviews, stay informed with up-to-the-minute news coverage, and enjoy the thrill of live sports broadcasts, all within a single app.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🎶 <strong>Music</strong>: Indulge in an ad-free musical journey with channels tailored for every mood, occasion, or activity, featuring hits from popular and niche genres alike. 🎧</li>\n<li>📺 <strong>Video</strong>: Experience exclusive interviews, gripping performances, and catch episodes from the Howard Stern Show, all available in video format. 📼</li>\n<li>🏈 <strong>Sports</strong>: Stay connected with your favorite sports through round-the-clock talk and live coverage—including MLB, NBA, NHL, PGA TOUR, and dedicated college conference channels. 🏀</li>\n<li>📰 <strong>News</strong>: Keep abreast of global events with professional news programming in multiple languages, from top channels like CNBC, CNN, and the BBC World Service. 🌍</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 <strong>Vast Content Range</strong>: SiriusXM offers a wide variety of music, sports, and news, seeking to satisfy all media consumption needs in one place. 📚</li>\n<li>👍 <strong>Exclusive Channels &amp; Events</strong>: Engage with special channels honoring artists like David Bowie and bands like Coldplay, along with Grammy exclusives. 🌟</li>\n<li>👍 <strong>Apple Music Benefit</strong>: Platinum VIP subscribers enjoy a complimentary 12-month subscription to Apple Music, enhancing the listening experience. 🍏</li>\n<li>👍 <strong>Ad-Free Experience</strong>: Enjoy uninterrupted streaming with hundreds of ad-free channels, making every listen a pleasure. 🔇</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 <strong>App Performance</strong>: Some users might experience stuttering or dropout issues when the app is in the background. 📱</li>\n<li>👎 <strong>Platform Availability</strong>: While the app offers great features, playback is limited to the app itself, rather than being integrative with other devices or services. 📡</li>\n<li>👎 <strong>Subscription Cost</strong>: With a premium price point, especially for the Platinum VIP tier, SiriusXM may not be the most cost-effective choice for everyone. 💰</li>\n<li>👎 <strong>Limited-Run Channels</strong>: Certain channels are available for a finite period, which might disappoint users who look for long-term consistency. ⌛</li>\n</ul>\n<p><strong>💵 Price:</strong>\nSiriusXM varies in pricing. Some content is available free of charge, but the full experience, including the Platinum VIP perks and Apple Music subscription, comes at a premium of $34.99 per month.</p>\n<p><strong>Community:</strong>\nWhile SiriusXM is primarily a streaming service and not a game, it does foster a community of music lovers and radio listeners. However, in regards to specific community links relating to the service, there appears to be no available data at this time. </p>\n<p>Discover more about what SiriusXM has to offer on their <a href=\"https://www.siriusxm.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Official Site</a>.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-simmusic-oldjpop/49056.html",
+      "icon": "assets/img/apk/icon/com.simmusic.oldjpop.png",
+      "name": "昭和の名曲 - 70年代/80年代名曲, 昭和の歌謡曲",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-bigsoft-voicereverse-audiochanger/39378.html",
+      "icon": "assets/img/apk/icon/com.bigsoft.voicereverse.audiochanger.png",
+      "name": "Funny Voice Reverse",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "3.1"
+    },
+    {
+      "link": "/details/com-realdrum-drumset-drumapp-beatmaker-music-instruments-drumkit/16783.html",
+      "icon": "assets/img/apk/icon/com.realdrum.drumset.drumapp.beatmaker.music.instruments.drumkit.png",
+      "name": "Learn Drum - Pad & Beat Maker",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-musicplayer-mp3-audio-mymusic-player/15795.html",
+      "icon": "assets/img/apk/icon/com.musicplayer.mp3.audio.mymusic.player.png",
+      "name": "Music Player & MP3 - MMusic",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/com-ai-sound-donna/15626.html",
+      "icon": "assets/img/apk/icon/com.ai.sound.donna.png",
+      "name": "Donna AI Song & Music Maker",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-vanniktech-rssreader/15328.html",
+      "icon": "assets/img/apk/icon/com.vanniktech.rssreader.png",
+      "name": "RSS Reader Offline | Podcast",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-voicechanger-supereffect-soundeffect/14158.html",
+      "icon": "assets/img/apk/icon/com.voicechanger.supereffect.soundeffect.png",
+      "name": "Voice Changer: Audio Effect",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/org-cru-womans-herbible/14124.html",
+      "icon": "assets/img/apk/icon/org.cru.womans.herbible.png",
+      "name": "her.BIBLE Women's Audio Bible",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/uk.shellenergy.shellenergy.png",
+    "title": "Shell Energy",
+    "ratings": "4.9",
+    "downloads": "970M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Shell Energy"
+    },
+    {
+      "name": "category",
+      "value": "House & Home"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Shell Energy Retail Limited"
+    },
+    {
+      "name": "Version",
+      "value": "1.40.1"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/RubxZuXruyFB054ESme5BFd9KK6QV6RNxri8PD8VP3bu8X-Jl1p52n4xoMaND1CwFSYN",
+    "https://play-lh.googleusercontent.com/KsjoRd0W1hOZVNo3HMzKWVUHLrGDP6NWDULbhnf-fF2hyxPspO-P7e41DMHaIBLYHw",
+    "https://play-lh.googleusercontent.com/_dYWX_ekg9o0tNspxj_YJ-VfJ6U8x4t36NfCtsBerbpKvb9D5lMpxkqYqWfrtp6ujw",
+    "https://play-lh.googleusercontent.com/kkVlJKRfYOZ3ETn31UlDUKyN1MhKpUvb9ki7JrbwIaPqppEsUt0uyJo0bYmqhxd5n4OL",
+    "https://play-lh.googleusercontent.com/aK3cBITk_v-z5P_RmZAGtMSE6HdhBoakP2pOwxiBznrH8c6w7v8-37J_G5L2Sd2J3r8"
+  ],
+  "app_descript": "<h3>Shell Energy App Description</h3>\n<p><strong>Brief:</strong>\nThe Shell Energy app is a user-friendly tool designed for customers of Shell Energy to manage their energy usage and accounts effortlessly. With a range of features aimed at enhancing the user's experience, this app allows for convenient access to energy-related services such as meter readings, bill management, and energy efficiency advice—all from the palm of your hand.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li><strong>Account Login:</strong> Secure access with your email address to manage your account. 📧</li>\n<li><strong>Meter Readings Submission:</strong> Easily submit your meter readings to avoid estimated bills. 🔍</li>\n<li><strong>Bill and Payment Tracking:</strong> Keep track of and view your monthly bills and payments for better spending control. 💸</li>\n<li><strong>Help Centre:</strong> Access a comprehensive Help Centre to find quick answers to your queries. ❓</li>\n<li><strong>Account Top-Up:</strong> Top up your Shell Energy account balance using credit or debit cards. 💳</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li><strong>Convenience:</strong> Manage your energy usage and account details from anywhere at any time.✅</li>\n<li><strong>Tariff Management:</strong> Monitor your tariff and explore the best Shell Energy deals available. 🔄</li>\n<li><strong>100% Renewable Electricity:</strong> Support a sustainable energy future with all-electricity from renewable sources. 🌱</li>\n<li><strong>Loyalty Rewards:</strong> Benefit from loyalty club rewards, including savings on vehicle fuel at Shell service stations. 🛒</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li><strong>Compatibility:</strong> May require a compatible device or operating system to function optimally. 📲</li>\n<li><strong>Connectivity:</strong> Dependency on an Internet connection could limit access in certain areas. 📡</li>\n<li><strong>Feedback Dependence:</strong> Relies on user feedback for improvements, indicating potential initially unaddressed issues. 🔄</li>\n<li><strong>Complex Features:</strong> Some users might find the array of features overwhelming at first. 🧠</li>\n</ul>\n<p><strong>Price:</strong>\nThe Shell Energy app is available free of charge, making energy management accessible without additional cost. However, the standard rates for the energy services you utilize through the app will apply. 💵</p>\n<p>Manage your energy with ease by using the Shell Energy app: an innovative solution for staying on top of your energy consumption and expenses while enjoying the perks of renewable electricity.</p>\n<p><a href=\"https://apps.apple.com/gb/app/shell-energy-saving-simpler/id1450989740\" rel=\"noopener noreferrer\" target=\"_blank\">Download the Shell Energy app on the App Store</a> or <a href=\"https://play.google.com/store/apps/details?id=uk.shellenergy.shellenergy&amp;hl=en&amp;gl=US\" rel=\"noopener noreferrer\" target=\"_blank\">Get it on Google Play</a> and join in on a better energy future! 📥</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-gg-housedesign-draw-houseplan-free/54045.html",
+      "icon": "assets/img/apk/icon/com.gg.housedesign.draw.houseplan.free.png",
+      "name": "House Design Plan 3D App",
+      "categoryLink": "/en/categories/house.home/13",
+      "category": "House & Home",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-eteks-sweethome3d-mobile/54039.html",
+      "icon": "assets/img/apk/icon/com.eteks.sweethome3d.mobile.png",
+      "name": "Sweet Home 3D: Plan your house",
+      "categoryLink": "/en/categories/house.home/13",
+      "category": "House & Home",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-belightsoft-livehome3d/54033.html",
+      "icon": "assets/img/apk/icon/com.belightsoft.livehome3d.png",
+      "name": "Live Home 3D: House Design",
+      "categoryLink": "/en/categories/house.home/13",
+      "category": "House & Home",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-trulia-android-rentals/14398.html",
+      "icon": "assets/img/apk/icon/com.trulia.android.rentals.png",
+      "name": "Trulia Rent Apartments & Homes",
+      "categoryLink": "/en/categories/house.home/13",
+      "category": "House & Home",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/tenantapp-properties-for-rent/1394.html",
+      "icon": "assets/img/apk/icon/com.ire.tenantapp.png",
+      "name": "TenantApp Properties For Rent",
+      "categoryLink": "/en/categories/house.home/13",
+      "category": "House & Home",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/duproprio/1393.html",
+      "icon": "assets/img/apk/icon/com.duproprio.app.png",
+      "name": "DuProprio",
+      "categoryLink": "/en/categories/house.home/13",
+      "category": "House & Home",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/prime-wire-and-cable/1392.html",
+      "icon": "assets/img/apk/icon/com.prime.on.png",
+      "name": "PRIME Wire and Cable",
+      "categoryLink": "/en/categories/house.home/13",
+      "category": "House & Home",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/zolo/1391.html",
+      "icon": "assets/img/apk/icon/com.ols.zolo.png",
+      "name": "Zolo",
+      "categoryLink": "/en/categories/house.home/13",
+      "category": "House & Home",
+      "rating": "4.2"
+    }
+  ]
+}

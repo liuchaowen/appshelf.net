@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.imo.android.imov.png",
+    "title": "imo plus",
+    "ratings": "4.2",
+    "downloads": "580M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "imo plus"
+    },
+    {
+      "name": "category",
+      "value": "Communication"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "imo.im"
+    },
+    {
+      "name": "Version",
+      "value": "9.8.000000011374"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h2>imo plus</h2>\n<p><strong>Brief:</strong>\nImo plus is an expansive and user-friendly messaging and social sharing platform. It allows users to craft stories with photos and videos, enhancing them with decorative elements like text, drawings, and stickers. These stories add a vibrant touch to your communications and vanish after a day, keeping your content fresh and engaging for your friends.</p>\n<h3>Core Features:</h3>\n<ul>\n<li>\n<p>📸 <strong>Story Creation</strong>: Easily create compelling stories by uploading photos and videos directly from your device. 📌</p>\n</li>\n<li>\n<p>🖌️ <strong>Photo Decoration</strong>: Unleash your creativity by decorating your images with text, drawings, and a wide array of fun stickers. 📌</p>\n</li>\n<li>\n<p>🕒 <strong>Temporary Posts</strong>: Content stays live for 24 hours, allowing for dynamic, ephemeral sharing with friends and followers. 📌</p>\n</li>\n<li>\n<p>🧑‍🤝‍🧑 <strong>Friend Interaction</strong>: Stay connected by watching stories shared by your circle of friends, fostering a sense of community and interaction. 📌</p>\n</li>\n</ul>\n<h3>Pros:</h3>\n<ul>\n<li>\n<p>👍 <strong>User-Friendly Interface</strong>: Intuitive and easy to navigate, even for newcomers to the app. 👍</p>\n</li>\n<li>\n<p>👍 <strong>Vibrant Social Sharing</strong>: Makes it simple and fun to share your day with friends and followers. 👍</p>\n</li>\n<li>\n<p>👍 <strong>Creative Freedom</strong>: The range of decorative tools lets users express themselves in unique ways. 👍</p>\n</li>\n<li>\n<p>👍 <strong>Engagement</strong>: Good for keeping up with friends' activities through their stories. 👍</p>\n</li>\n</ul>\n<h3>Cons:</h3>\n<ul>\n<li>\n<p>👎 <strong>Content Limitation</strong>: Stories are temporary, which means your creations will not have a permanent place on the platform. 👎</p>\n</li>\n<li>\n<p>👎 <strong>Privacy Concerns</strong>: As with many social platforms, there may be privacy concerns when sharing personal media. 👎</p>\n</li>\n<li>\n<p>👎 <strong>Potential Overload</strong>: Users may feel overwhelmed by the flow of temporary content from friends. 👎</p>\n</li>\n</ul>\n<h3>Price:</h3>\n<p>💵 imo plus is free to download and use, which ensures easy access to all its features without any initial cost. Pricing for potential in-app purchases, if available, may vary and would be reflected within the app.</p>\n<p><em>Community section is not included as imo plus is not a game app.</em></p>\n<p><a href=\"https://imo.im/\" rel=\"noopener noreferrer\" target=\"_blank\">Official imo site</a><br/>\n<a href=\"https://www.youtube.com/channel/UCMqqxcRj7v4c6eOc6G_F5AQ\" rel=\"noopener noreferrer\" target=\"_blank\">imo on YouTube</a><br/>\n<a href=\"https://www.instagram.com/imo.im/\" rel=\"noopener noreferrer\" target=\"_blank\">imo on Instagram</a><br/>\n<a href=\"https://www.twitter.com/imo\" rel=\"noopener noreferrer\" target=\"_blank\">imo on Twitter</a><br/>\n<a href=\"https://www.facebook.com/imo.im/\" rel=\"noopener noreferrer\" target=\"_blank\">imo on Facebook</a> </p>\n<p>Please note that the described features, pros, cons, and pricing are based on the app's original description and may change as the app is updated. Always refer to the most current version of the app for the latest information.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-sst-parrot-photo-frame/53901.html",
+      "icon": "assets/img/apk/icon/com.sst.parrot.photo.frame.png",
+      "name": "Bird Photo Frame",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-new_year-stickers-birthday/39669.html",
+      "icon": "assets/img/apk/icon/com.new_year.stickers.birthday.png",
+      "name": "Happy New Year Stickers 2026",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/org-watchduty-app/14524.html",
+      "icon": "assets/img/apk/icon/org.watchduty.app.png",
+      "name": "Watch Duty (Wildfire)",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-snowcorp-stickerly-android/14453.html",
+      "icon": "assets/img/apk/icon/com.snowcorp.stickerly.android.png",
+      "name": "Sticker.ly - Sticker Maker",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-Happynewyearphotoframe2020/14421.html",
+      "icon": "assets/img/apk/icon/com.Happynewyearphotoframe2020.png",
+      "name": "New Year Video Maker 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-intira-new-year-photo-frame-new/14342.html",
+      "icon": "assets/img/apk/icon/com.intira.new.year.photo.frame.new.png",
+      "name": "New year photo frame 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-christmas-photo-frame-b-new-free/14203.html",
+      "icon": "assets/img/apk/icon/com.christmas.photo.frame.b.new.free.png",
+      "name": "Christmas photo frame 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/ma-apps-face_ml/14137.html",
+      "icon": "assets/img/apk/icon/ma.apps.face_ml.png",
+      "name": "Face reader scanner - analyser",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "3.3"
+    }
+  ]
+}

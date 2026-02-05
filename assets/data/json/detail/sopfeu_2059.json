@@ -1,0 +1,108 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/ca.skex.sopfeu.png",
+    "title": "SOPFEU",
+    "ratings": "4.8",
+    "downloads": "420M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "SOPFEU"
+    },
+    {
+      "name": "category",
+      "value": "Weather"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "nventive"
+    },
+    {
+      "name": "Version",
+      "value": "1.4.3"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/VMZktA0OF_gFHbrta0CBxlQxT9h7v7arpIVAS9WeK-kMO8s8pRUl9epA97rbXH2GSw",
+    "https://play-lh.googleusercontent.com/_j2NsX4LOu4b74d5MbyhJrZVaYeYLTX3NdXMQnKRBRyQUIE5geLvjCyBmxd2e2hPLw",
+    "https://play-lh.googleusercontent.com/VaU3eGdUU3JtVn9faxzRmHvLcuwpBVplr-frGFg0dDY6hk5RNhMpUWgA-gyMIXV5DdPs",
+    "https://play-lh.googleusercontent.com/qRvCAMK80RRn9gwwI1Dk4Qt6ts4QYpfFqcPL9YC0ljvKpGDCFK5uCqWV4cf08aU99Qo"
+  ],
+  "app_descript": "<h3>Brief</h3>\n<p>SOPFEU is an app designed to keep users informed about the risk of forest fires. Although the original description provided lacks details, using the app package name and name itself, we can understand that this app likely plays a role in forest fire prevention and awareness in a specific region.</p>\n<h3>Core Features</h3>\n<ul>\n<li>📊 Real-Time Fire Risk Assessment: Stay updated with the current forest fire hazard levels in your local area.</li>\n<li>🔔 Alerts and Notifications: Receive instant notifications and alerts related to forest fires and preventive measures.</li>\n<li>🗺️ Interactive Map: Explore an interactive map detailing active fires, potentially hazardous regions, and more.</li>\n<li>📝 Educational Resources: Access a wealth of information on forest fire prevention and what to do in the event of a fire.</li>\n<li>🚒 Integration with Firefighting Services: Get direct insights from and possibly report to local firefighting and prevention services. 🌳</li>\n</ul>\n<h3>Pros</h3>\n<ul>\n<li>👨‍👩‍👦 Public Safety: Increases awareness and preparedness among residents, potentially saving lives and property.</li>\n<li>🚀 Quick Updates: Timely information allows for faster decision-making during critical situations.</li>\n<li>📱 User-Friendly: Designed to be easily navigable and accessible to the general public.</li>\n<li>🌐 Community Involvement: Encourages active engagement and participation in forest fire prevention. 🔥</li>\n</ul>\n<h3>Cons</h3>\n<ul>\n<li>🏞️ Regional Limitations: The app may be restricted to certain regions and not applicable for global users.</li>\n<li>🌐 Internet Dependency: Real-time updates require an uninterrupted internet connection, which may be challenging in remote regions prone to fires.</li>\n<li>🔋 Battery Consumption: Frequent alerts and GPS usage can drain the device's battery life.</li>\n<li>📶 Connectivity Issues: In areas with poor cell service, the app's functionality could be compromised. 📡</li>\n</ul>\n<h3>Price</h3>\n<p>💵 SOPFEU is presumed to be a free app, aiming to provide critical forest fire information to the public. Some features within the app may require internet connectivity, which could incur data charges depending on the user's mobile plan.</p>\n<h3>Community</h3>\n<p>As SOPFEU is a non-game app with a specific focus on public safety, the community section is not included in this format. </p>\n<hr/>\n<p>Please note that without an original description or access to specific app details, some assumptions have been made about SOPFEU's functionality based on its name and typical services offered by apps of this nature. Users should verify the app's features and offerings through the official app stores or the developer's channels.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-eet-weather-launcher/15703.html",
+      "icon": "assets/img/apk/icon/com.eet.weather.launcher.png",
+      "name": "Weather Now Launcher - Radar",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "3.6"
+    },
+    {
+      "link": "/details/com-daily-forecast-weather-radar/4930.html",
+      "icon": "assets/img/apk/icon/com.daily.forecast.weather.radar.png",
+      "name": "Daily Forecast: Weather&Radar",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-mahersafadi-sunny/4921.html",
+      "icon": "assets/img/apk/icon/com.mahersafadi.sunny.png",
+      "name": "Sunny: Weather forecast",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4"
+    },
+    {
+      "link": "/details/WeatherPal/4628.html",
+      "icon": "assets/img/apk/icon/com.precise.opliging.kitan.png",
+      "name": "WeatherPal",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/live-weather/2063.html",
+      "icon": "assets/img/apk/icon/com.appsinnova.weatherforecast.liveweather.png",
+      "name": "Live Weather",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/radarnow/2062.html",
+      "icon": "assets/img/apk/icon/com.usnaviguide.radar_now.png",
+      "name": "RadarNow!",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/local-weather/2061.html",
+      "icon": "assets/img/apk/icon/com.weather.forecast.channel.local.png",
+      "name": "Local Weather",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/iqair-airvisual/2060.html",
+      "icon": "assets/img/apk/icon/com.airvisual.png",
+      "name": "IQAir AirVisual",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.6"
+    }
+  ]
+}

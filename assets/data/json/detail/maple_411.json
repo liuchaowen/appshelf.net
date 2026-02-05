@@ -1,0 +1,128 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.maplenativeuser.png",
+    "title": "Maple",
+    "ratings": "4.9",
+    "downloads": "560M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Maple"
+    },
+    {
+      "name": "category",
+      "value": "Medical"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Maple Corporation"
+    },
+    {
+      "name": "Version",
+      "value": "4.7.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/1hOh_4hJRqG2xv66Ms7hRS0QZ61UJaQZxNtG-JWKgJN5J8ZdcjVy4X6TZ7tjTPtCqkY",
+    "https://play-lh.googleusercontent.com/6uBcuqnlySj-2qS1sAj9X10FVnrgiKT2waRH4HplcmTLo3SDbUwAoamnZEWFu3oIYQ",
+    "https://play-lh.googleusercontent.com/Hv25ZXTKlKuWWATlYMYIYa0PoQKM1DNM62Z4cVL4tREM4ypi2Vl-SAy_9aewmJh_ch4m",
+    "https://play-lh.googleusercontent.com/MeOlWuc9YqIgfLAi2HcVqW5x1CDl-IphtBJs7sYkFQkp2CTQzKaaG3kJJv9NvEzejJw",
+    "https://play-lh.googleusercontent.com/-2Kd5shqLeIKPFx7hM6FVOTYeB3uaicab94lRKWOR1T0pEBgknaw61uHgDX8RNmmTe4P",
+    "https://play-lh.googleusercontent.com/3NIOG94nd8htG4h1ZYcnEjkvPgppTHt6rErTFefEzx8LzxAniW9EWsEWL_vcQApoEQ0",
+    "https://play-lh.googleusercontent.com/1NUO-vdHg2ambPFI0mZqff8dyjq50v4zdKsqbMpMiGQn2Aucu1nJmndxavgHP1uFbT8",
+    "https://play-lh.googleusercontent.com/9p9Kqwz8DMK--0-ziflqCqjWIq0NfN02lD4Mrr8JU_b_4cozt1Hg-V2LAee7Z0kasg",
+    "https://play-lh.googleusercontent.com/JB-Vxokn8Ovi2aJHUn2JWjJy4O6UlllJcJ4Y9V8xgWgf9o2pY-3kl0x-5NmaYkW9Fxj5",
+    "https://play-lh.googleusercontent.com/XdPYtJxJVWdRXhUQNVni2bWI9wdNvhPg2yc-La7jmLqU8H0UPrbsv94xCG0BPHBiBs8",
+    "https://play-lh.googleusercontent.com/M1CfqVh_pH7ALckonFHg7U7J9JlccU9f3_9SnhBGMsLLPviYrE2ufZR2hRkf-Yt63FE",
+    "https://play-lh.googleusercontent.com/t1iFFmdLbDQCgywnhQK2JijVB9eV-ykALI-iIV3nZZSCut2rfrH8RYnqIg6PujpHRkY",
+    "https://play-lh.googleusercontent.com/3P6cmWSx1LvA8LGs-G7s2pBXyxhERF7szQ1fdlWLYJs-nNWWkrNb2joaZDMZ0tdlGw",
+    "https://play-lh.googleusercontent.com/8WXdM3gTKEpkumzgvt5-tgSZIW29w6cdGeQDlYPS1ZqcnfBWWJL6Xd1fjiO0W6p-kw",
+    "https://play-lh.googleusercontent.com/iZXuvrmBnjMHh2OQD-TSDbacHGS0wSXqjBbmFUcyVaK7X5DsiZGIbd-KWXA0svHX3A",
+    "https://play-lh.googleusercontent.com/X2OtuLpkWoT1VVsdWiPJPmsVtfP8SSdanoLZ4Cx-dxwpqu2n81AXBspH-yVwAvD6yag",
+    "https://play-lh.googleusercontent.com/h5_rGy6BPzfIndJFG-eKkIo4T-GOhBESmYluKx8mw6sbnuAOKIunjvxCtPmMAl3jEg",
+    "https://play-lh.googleusercontent.com/z4S8cx9Q8Kxiakxro9X17BmxOlfRkGXZDByJTxnItwIOAk0kkoT3l6XjB3Ojh1Ecwac",
+    "https://play-lh.googleusercontent.com/U57n6QRQGk85maEK4EvDYgMR0jJs98xb7CA_IfTB5cPD8y_CcF4areWQh8SH2MAfPx4X",
+    "https://play-lh.googleusercontent.com/V7hlmHzIMw726ss36ZzEtEzbBDoZ5VD7t-xIkg7JtR-XS6phbFTuVSN1k5HWKoTZn2k",
+    "https://play-lh.googleusercontent.com/dihKkcFnFqbRtsfCo1q1k6Wf9sd5uITZWgSUdTP1H_ksKuebdStMoReJnWL2iIovrg",
+    "https://play-lh.googleusercontent.com/PpEWOQMjashOuu0TNatAeCxNefu7SvapGX24xt3ny3ygYvUZwE0FjO94JYji45O5a9eY",
+    "https://play-lh.googleusercontent.com/5lor5Vt9wEX_0lGI-L2YVLOallphbGjrJB5Ldpw32Lr5oPKucJLpo7CpUCLwjRL1Pi0",
+    "https://play-lh.googleusercontent.com/fzLij_r-iUGcxnk0vPYMv7jWvoWairL39K9RTjhtPkrS8JZFQknicARMItc-LVYNiA"
+  ],
+  "app_descript": "<h3>Maple 🍁 - Virtual Doctor Consultations</h3>\n<p><strong>Brief:</strong>\nMaple eliminates the hassle of traditional doctor visits by connecting you instantly with licensed Canadian healthcare providers from the comfort of your own home. Get diagnosed, receive prescriptions, and access specialist assistance—all through a streamlined mobile experience.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🚀 <strong>Immediate Doctor Match</strong>: Quickly connect with a licensed Canadian doctor after hitting the \"See the doctor now\" button.</li>\n<li>💊 <strong>Full Medical Consults</strong>: Comprehensive medical consultations with diagnosis and prescriptions, available across Canadian provinces.</li>\n<li>📲 <strong>Digital Prescriptions and Sick Notes</strong>: Conveniently receive digital prescriptions that are automatically forwarded to a pharmacy or choose free delivery for added convenience.</li>\n<li>🔒 <strong>Private and Secure</strong>: Utmost privacy with secure health data that is accessible only by you and your doctor.</li>\n<li>💡 <strong>Diverse Healthcare Services</strong>: Get help with a wide range of medical issues, from cold and flu to mental health, by specialists including dermatologists and mental health experts.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👨‍⚕️ <strong>Licensed Practitioners</strong>: Engage exclusively with family or emergency medicine doctors, all practicing in Canada.</li>\n<li>🕒 <strong>Swift Responses</strong>: Doctors review and respond to requests within minutes, ensuring timely medical advice.</li>\n<li>📋 <strong>Variety of Treatments</strong>: From UTIs to erectile dysfunction and mental health support, Maple doctors are ready to assist with an array of health concerns.</li>\n<li>🏥 <strong>Specialist Access</strong>: Connect with specialists like naturopathic doctors, endocrinologists, and more for targeted care.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>💳 <strong>Payment Required</strong>: If not covered by employers or insurers, you'll need to manage out-of-pocket costs.</li>\n<li>🏞️ <strong>Limited to Canada</strong>: Full range of services is exclusively available to Canadian residents or visitors.</li>\n<li>📶 <strong>Internet Dependent</strong>: Robust internet connection required for uninterrupted consultations.</li>\n<li>🚫 <strong>Non-Substitute for Emergency Care</strong>: Maple should not be used for emergency medical issues or as a complete substitute for in-person healthcare.</li>\n</ul>\n<p><strong>Price:</strong></p>\n<ul>\n<li>💵 This service may require a fee for patients without employer or insurer coverage. Specific pricing details are disclosed within the app or through Maple's customer service.</li>\n</ul>\n<p><strong>Community:</strong>\nShould Maple be a game app, a community section would be included.</p>\n<hr/>\n<p>Experience a revolution in healthcare with Maple, your one-stop-app for hassle-free virtual doctor consultations. Download Maple and receive the medical attention you need, when you need it. Don’t forget to rate and provide feedback to help us serve you better! 🌟</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-stress-test/48991.html",
+      "icon": "assets/img/apk/icon/com.stress.test.png",
+      "name": "Stress Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-procrastination-test/39516.html",
+      "icon": "assets/img/apk/icon/com.procrastination.test.png",
+      "name": "Procrastination Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-bingeeating-test/39303.html",
+      "icon": "assets/img/apk/icon/com.bingeeating.test.png",
+      "name": "Binge Eating Disorder Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-ocd-test/34780.html",
+      "icon": "assets/img/apk/icon/com.ocd.test.png",
+      "name": "OCD Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-healthians-main-healthians/34760.html",
+      "icon": "assets/img/apk/icon/com.healthians.main.healthians.png",
+      "name": "Healthians -Full Body Checkup",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-lbrc-PeriodCalendar/34759.html",
+      "icon": "assets/img/apk/icon/com.lbrc.PeriodCalendar.png",
+      "name": "Period Tracker and Calendar",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/es-jshcd-edadosea/34693.html",
+      "icon": "assets/img/apk/icon/es.jshcd.edadosea.png",
+      "name": "Bone age",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-devdis/16977.html",
+      "icon": "assets/img/apk/icon/com.devdis.png",
+      "name": "Developmental Disabilities",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.5"
+    }
+  ]
+}

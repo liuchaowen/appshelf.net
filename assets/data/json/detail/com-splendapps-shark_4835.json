@@ -1,0 +1,112 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/com.splendapps.shark.png",
+    "title": "Uninstaller",
+    "ratings": "4.8",
+    "downloads": "566M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Uninstaller"
+    },
+    {
+      "name": "category",
+      "value": "Tools"
+    },
+    {
+      "name": "Price",
+      "value": "0"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Splend Apps"
+    },
+    {
+      "name": "Version",
+      "value": "6.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/pE01zhL4aYIo-gioLwMKsGAv1K_-QWHcYST4mACalbjQlMXGApw8fge07UPZ-b0pl9w",
+    "https://play-lh.googleusercontent.com/mtDSJ7yzzCQEGwNDswL-ZoCly3DoLTUc5aFW2JHnlX8fJUHwPtkBLn-QK10UQHDYXA",
+    "https://play-lh.googleusercontent.com/iwKT-2pJotgsWMIDU02Em7-gCxp8bmjLIebgxuID0ilQ_QoThTxzw0udNf5EnuoRpQ",
+    "https://play-lh.googleusercontent.com/8k-ewIK2RXdrPoDCVzxQlm0qbiaW8M8b962AkQ8N9xDtClpnS6SUhx3yViTJWsMHrQ",
+    "https://play-lh.googleusercontent.com/5fxXfXGZj26SU0i5M0oMap2SMTa_k_NiLGnncoeZ6KDXgwiuaNylQdxRM_TRHI12uAM",
+    "https://play-lh.googleusercontent.com/wqeYl3Za2wwzMPntptl49b5IHr5CqW22rZOahCYcXYD7fohJCs8uRXZTCT5NGtcpWA",
+    "https://play-lh.googleusercontent.com/jhT__rFXhVp8h6d5uhijxm-P-abhkM-kZgHCAmssxJr7qkBbFKXEQ7RfioVgOcCx8w",
+    "https://play-lh.googleusercontent.com/resJ8gZHxJLeLD3H3xQklCcMEJ2AfZUDQU3FBO9xd6JQkrU3Tp8GXf7yRpOr7LjbRQ"
+  ],
+  "app_descript": "<p><strong>Uninstaller by SplendApps</strong></p>\n<p>Brief:\nUninstaller is a user-friendly tool for Android devices that allows for simple and efficient management of installed apps. It is designed to help users free up memory space by easily removing unwanted applications.</p>\n<p>Core Features:</p>\n<ul>\n<li>🛠️ Single Click Removal: Quickly uninstall unwanted apps with just a tap.</li>\n<li>🗑️ Batch Uninstall Support: Effortlessly select and dispose of multiple applications simultaneously.</li>\n<li>📊 App Information Display: View detailed information about each app, including name, version, installation time, and size.</li>\n<li>🔍 Smart Search Functionality: Locate applications using a standard or voice search option.</li>\n<li>🔃 Advanced Sorting: Organize your apps by name, size, or installation date in ascending or descending order.</li>\n</ul>\n<p>Pros:</p>\n<ul>\n<li>👍 Quick Access via Status Bar: Speedy app management directly from the notification area, toggle-able in the app settings.</li>\n<li>👍 User-Friendly Interface: Navigate the app with ease due to its intuitive design.</li>\n<li>👍 Shortcut Creation: Generate convenient shortcuts for apps right on your home screen.</li>\n<li>👍 Free Memory Space Info: Keep an eye on your device's available storage for optimal performance.</li>\n</ul>\n<p>Cons:</p>\n<ul>\n<li>👎 Cannot Remove System Apps: Limited to uninstalling only non-system applications.</li>\n<li>👎 No Advanced Features: Lacks more sophisticated app management functions that power users might desire.</li>\n</ul>\n<p>Pricing:</p>\n<ul>\n<li>💵 The Uninstaller app is free to download and use, keeping essential app management accessible for everyone.</li>\n</ul>\n<p>Community:</p>\n<ul>\n<li>🕸️ Official Website: <a href=\"http://splendapps.com/\" rel=\"noopener noreferrer\" target=\"_blank\">SplendApps.com</a></li>\n<li>🕸️ Privacy Policy: <a href=\"http://splendapps.com/privacy-policy\" rel=\"noopener noreferrer\" target=\"_blank\">Privacy Policy</a></li>\n<li>🕸️ Contact Us: <a href=\"http://splendapps.com/contact-us\" rel=\"noopener noreferrer\" target=\"_blank\">Contact</a></li>\n<li>🕸️ Facebook: <a href=\"https://www.facebook.com/SplendApps/\" rel=\"noopener noreferrer\" target=\"_blank\">SplendApps on Facebook</a></li>\n<li>🕸️ Instagram: <a href=\"https://www.instagram.com/splendapps/\" rel=\"noopener noreferrer\" target=\"_blank\">SplendApps on Instagram</a></li>\n<li>🕸️ Twitter: <a href=\"https://twitter.com/SplendApps\" rel=\"noopener noreferrer\" target=\"_blank\">SplendApps on Twitter</a></li>\n</ul>",
+  "related_apps": [
+    {
+      "link": "/details/com-antique-snap-identifier-appraisal/54309.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.antique.snap.identifier.appraisal.png",
+      "name": "Antique Identifier - Appraisal",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-age-calculator-life-countdown/54243.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.age.calculator.life.countdown.png",
+      "name": "Age Calculator・Life Expectancy",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.4"
+    },
+    {
+      "link": "/details/com-xv-agecalc/54237.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.xv.agecalc.png",
+      "name": "AgeCalc: Date Life Calculator",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-palm-ai-decode-destiny-soul-futurelines-handline/54206.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.palm.ai.decode.destiny.soul.futurelines.handline.png",
+      "name": "Palm AI: Decode Destiny",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/rbx-robuxcalc-getrbx-freecounter/53839.html",
+      "icon": "https://img.buzzsight.co/apk/icon/rbx.robuxcalc.getrbx.freecounter.png",
+      "name": "RBX Calc - Get Robuxcounter",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-internetoptimizer-speedtest-wifispeedtest-netspeed-wifipassword-wifispeed/49027.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.internetoptimizer.speedtest.wifispeedtest.netspeed.wifipassword.wifispeed.png",
+      "name": "Internet Optimizer",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.9"
+    },
+    {
+      "link": "/details/com-blazingappstudio-speed_test_pro/49021.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.blazingappstudio.speed_test_pro.png",
+      "name": "Speed Test - Wifi Optimizer",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-secret-camera-hidden-detector/39728.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.secret.camera.hidden.detector.png",
+      "name": "Hidden Camera & IR Detector",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    }
+  ]
+}

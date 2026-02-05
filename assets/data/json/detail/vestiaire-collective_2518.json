@@ -1,0 +1,111 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/fr.vestiairecollective.png",
+    "title": "Vestiaire Collective",
+    "ratings": "4.6",
+    "downloads": "30M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Vestiaire Collective"
+    },
+    {
+      "name": "category",
+      "value": "Shopping"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Vestiaire Collective"
+    },
+    {
+      "name": "Version",
+      "value": "3.28.1"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/ycktBS5sDd-oQiTmGvfjU7xZHO3p4AosEQcNwPUkTrRhgX8Isb5Y1Gy2CALCZcQM0qk",
+    "https://play-lh.googleusercontent.com/mnW2pM6TImrHKb_pX1A-yGnNWdd7D5wecwzGHXbw_cSD9WdsN2IvGtVHzd5WTUJ4KYHC",
+    "https://play-lh.googleusercontent.com/muVS_7F128HVpTdcRobvGqbFqLMJ3EMDPbAkvAR3Y-iRJWNHikL4wGWtZqkvjRElZA",
+    "https://play-lh.googleusercontent.com/1v8SR-TmoRCPqbbt9B1rLh4pMTQcEdXUw_b7Pv10slWIiA4qRBEbdHJ2SHcoLAtC5g",
+    "https://play-lh.googleusercontent.com/QGh8YbQ_2hOCylP8EJSEqVWABGKrZqr_3nuz76puNsD5wwXhrze-jR9PM1HNltpHL_7y",
+    "https://play-lh.googleusercontent.com/3WUP-dfRAUEZkUSmQ6uNiom3LCJGcQzwkFPwPC6kguXc7hTcgACMLZWoRp-iQzPlNcU",
+    "https://play-lh.googleusercontent.com/WQdHNQaL6tffOYVdXosaArCZWahGKBXFUkZ3bJ0xmONbZgcq4YKo544WMfZnNLh34rgd"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> Vestiaire Collective</p>\n<p><strong>App Package Name:</strong> fr.vestiairecollective</p>\n<p><strong>Brief:</strong>\nVestiaire Collective is the ultimate app for fashion enthusiasts looking to buy, sell, and share unique second-hand pieces from high-caliber brands. Designed to ensure a safe, secure, and satisfying fashion experience, with this app you can revamp your wardrobe, find amazing deals, and even give your own items a new lease on life.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🛍️ <strong>Extensive Selection</strong>: Access a vast portfolio of pre-loved fashion pieces, ensuring you find something unique.</li>\n<li>🔒 <strong>Quality Assurance</strong>: Benefit from a professional team inspecting sold products to deliver top-notch quality.</li>\n<li>📱 <strong>Efficiency in Selling</strong>: List your fashionable items swiftly in under a minute using the app's intuitive interface.</li>\n<li>🕵️‍♂️ <strong>Custom Alerts</strong>: Set custom notifications for your desired items and never miss a chance to snatch them.</li>\n<li>💳 <strong>Flexible Payments</strong>: Relish a variety of secure payment options, including card, PayPal, and various currencies, with interest-free payment splits.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👗 <strong>Fashion-forward</strong>: Keep your style on-point with luxury and designer brands readily at your disposal.</li>\n<li>🔄 <strong>Sustainable Shopping</strong>: Engage in eco-friendly fashion by recycling high-quality garments.</li>\n<li>🔔 <strong>Active Notifications</strong>: Stay informed on the go with alerts about sales and new item listings that match your preferences.</li>\n<li>💬 <strong>Community Interaction</strong>: Connect with like-minded fashionistas, follow their style, and keep up with the community's latest trends.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>📦 <strong>Pre-owned Nature</strong>: The items are second-hand, which might not appeal to those looking for brand-new products.</li>\n<li>🌍 <strong>Availability</strong>: Certain items might be limited by geographic location or shipping constraints.</li>\n<li>💼 <strong>Seller Responsibility</strong>: As a seller, you need to ensure the item's condition meets the community's standards.</li>\n<li>🗂️ <strong>Inventory Overwhelm</strong>: The large number of items might make it challenging to find something specific without employing filters.</li>\n</ul>\n<p><strong>Price:</strong></p>\n<ul>\n<li>💵 The app itself is free to download. Transactions, including buyer purchases and seller listings, may be subject to fees consistent with the platform's pricing policies.</li>\n</ul>\n<p><strong>Community:</strong></p>\n<ul>\n<li>🕸️ <strong>Official Site</strong>: <a href=\"https://www.vestiairecollective.com\" rel=\"noopener noreferrer\" target=\"_blank\">Vestiaire Collective</a></li>\n<li>📸 <strong>Instagram</strong>: Follow <a href=\"https://www.instagram.com/vestiaireco\" rel=\"noopener noreferrer\" target=\"_blank\">@vestiaireco</a> for sneak peeks and exclusive content.</li>\n</ul>\n<p>Enjoy the seamless blend of fashion, function, and sustainability offered by the Vestiaire Collective app. Whether you're decluttering your closet or hunting for that rare piece, this app provides an elite marketplace at your fingertips.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-seagm-store/54458.html",
+      "icon": "assets/img/apk/icon/com.seagm.store.png",
+      "name": "SEAGM - Games Topup, Gift Card",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-gowish-app/39285.html",
+      "icon": "assets/img/apk/icon/com.gowish.app.png",
+      "name": "GoWish - Your Digital Wishlist",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-aldisued-shopgo/16934.html",
+      "icon": "assets/img/apk/icon/com.aldisued.shopgo.png",
+      "name": "ALDI SHOP&GO",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.2"
+    },
+    {
+      "link": "/details/com-wakefern-shoprite/16933.html",
+      "icon": "assets/img/apk/icon/com.wakefern.shoprite.png",
+      "name": "ShopRite: Groceries & Savings",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-yaxo-vancamper/16894.html",
+      "icon": "assets/img/apk/icon/com.yaxo.vancamper.png",
+      "name": "Vancamper: Buy sell campervans",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/com-elfster-elfdroid/16861.html",
+      "icon": "assets/img/apk/icon/com.elfster.elfdroid.png",
+      "name": "Elfster: The Secret Santa App",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-biggu-shopsavvy/16860.html",
+      "icon": "assets/img/apk/icon/com.biggu.shopsavvy.png",
+      "name": "ShopSavvy - Barcode Scanner",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/moloapps-gifttracker/16845.html",
+      "icon": "assets/img/apk/icon/moloapps.gifttracker.png",
+      "name": "GiftTracker : Gift List Helper",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.1"
+    }
+  ]
+}

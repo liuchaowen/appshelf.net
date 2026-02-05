@@ -1,0 +1,108 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.rcatch.qrcat.png",
+    "title": "QRCatch-Simple QR code scanner",
+    "ratings": "4",
+    "downloads": "146M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "QRCatch-Simple QR code scanner"
+    },
+    {
+      "name": "category",
+      "value": "Tools"
+    },
+    {
+      "name": "Price",
+      "value": "0"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "DevLancer"
+    },
+    {
+      "name": "Version",
+      "value": "5.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/bJw0YTQKeo6bsU69_iBP5slpy-1fHwly2qJUIBVv4kq07AAN7H9XSkas64Ld8COhBA",
+    "https://play-lh.googleusercontent.com/zLmZJrurslYb93RF60Wl8VH1GeYAqk4xCgcvIhZ3W5O_V6rF0lwvXQvufTuhnHaZjP0",
+    "https://play-lh.googleusercontent.com/pe4qojoHsXTpwsQDW3nKKx3cJjCiowmkDKY707rzgk1dtuLQK5L12bNMRO277SsPdw",
+    "https://play-lh.googleusercontent.com/Vb6j6jJvNNSJLEtSDpFn8r6otkmvax11FpBkus2fN6srl0BbmWMMN-iAA0sQzRV5srg"
+  ],
+  "app_descript": "<p><strong>QRCatch - Simple QR Code Scanner</strong></p>\n<p><strong>Brief:</strong>\nQRCatch stands out in the digital tool collection as an adept QR code scanner designed to bring efficiency and accuracy into your hands. Its rapid identification and precise decoding of various QR code types, bolstered by top-notch image processing technology, make it a must-have for quick information retrieval.</p>\n<p><strong>📌 Core Features:</strong></p>\n<ul>\n<li><strong>Instant QR Code Recognition:</strong> Harnesses advanced algorithms to provide lightning-fast decoding 🚀.</li>\n<li><strong>Diverse QR Code Support:</strong> Capable of interpreting a wide array of QR code contents accurately 🌐.</li>\n<li><strong>Custom QR Code Generation:</strong> Offers multiple template options for creating unique QR codes for Wi-Fi, SMS, contacts, and email 📱.</li>\n<li><strong>Save &amp; Share Functionality:</strong> Easily save the generated QR codes to your device or share them with others 🔗.</li>\n<li><strong>User-Friendly Interface:</strong> A seamless interface that simplifies the process of both scanning and generating QR codes 🖌️.</li>\n</ul>\n<p><strong>👍 Pros:</strong></p>\n<ul>\n<li><strong>High-Speed Scanning:</strong> Reduces wait times significantly when scanning for information ⏱️.</li>\n<li><strong>Versatile Use Cases:</strong> Equally beneficial for personal and business needs 🛠️.</li>\n<li><strong>Enhanced Productivity:</strong> Automates data capture from QR codes, aiding in better time management ⏳.</li>\n<li><strong>Convenience:</strong> Simplifies complex information into easily manageable QR codes, streamlining daily tasks 🎯.</li>\n<li><strong>Accuracy:</strong> Minimizes errors in code recognition to ensure reliable data capture ✔️.</li>\n</ul>\n<p><strong>👎 Cons:</strong></p>\n<ul>\n<li><strong>Internet Dependence:</strong> May require an active internet connection for some functionalities 📡.</li>\n<li><strong>Template Limitations:</strong> The range of QR code templates might not cover all possible use cases 🔍.</li>\n<li><strong>Storage Constraints:</strong> Saving multiple QR codes could lead to storage space concerns on the device 💾.</li>\n<li><strong>Sharing Compatibility:</strong> Shared QR codes might face compatibility issues across different platforms and devices 📤.</li>\n<li><strong>Learning Curve:</strong> New users may need some time to familiarize themselves with the various features 📘.</li>\n</ul>\n<p><strong>💵 Price:</strong>\nQRCatch is available for free download. However, in-app purchases for additional features or ad removal may apply. Check the app for the latest pricing details 💰.</p>\n<p>Crafted to complement a busy lifestyle, QRCatch anticipates your needs and empowers you with a blend of speed and precision. Download QRCatch today for an elevated, user-centered QR code scanning experience.</p>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-antique-snap-identifier-appraisal/54309.html",
+      "icon": "assets/img/apk/icon/com.antique.snap.identifier.appraisal.png",
+      "name": "Antique Identifier - Appraisal",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-age-calculator-life-countdown/54243.html",
+      "icon": "assets/img/apk/icon/com.age.calculator.life.countdown.png",
+      "name": "Age Calculator・Life Expectancy",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-xv-agecalc/54237.html",
+      "icon": "assets/img/apk/icon/com.xv.agecalc.png",
+      "name": "AgeCalc: Date Life Calculator",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-palm-ai-decode-destiny-soul-futurelines-handline/54206.html",
+      "icon": "assets/img/apk/icon/com.palm.ai.decode.destiny.soul.futurelines.handline.png",
+      "name": "Palm AI: Decode Destiny",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/rbx-robuxcalc-getrbx-freecounter/53839.html",
+      "icon": "assets/img/apk/icon/rbx.robuxcalc.getrbx.freecounter.png",
+      "name": "RBX Calc - Get Robuxcounter",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-internetoptimizer-speedtest-wifispeedtest-netspeed-wifipassword-wifispeed/49027.html",
+      "icon": "assets/img/apk/icon/com.internetoptimizer.speedtest.wifispeedtest.netspeed.wifipassword.wifispeed.png",
+      "name": "Internet Optimizer",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.9"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-blazingappstudio-speed_test_pro/49021.html",
+      "icon": "assets/img/apk/icon/com.blazingappstudio.speed_test_pro.png",
+      "name": "Speed Test - Wifi Optimizer",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-secret-camera-hidden-detector/39728.html",
+      "icon": "assets/img/apk/icon/com.secret.camera.hidden.detector.png",
+      "name": "Hidden Camera & IR Detector",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    }
+  ]
+}

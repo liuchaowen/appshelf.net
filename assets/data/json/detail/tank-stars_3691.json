@@ -1,0 +1,128 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.playgendary.tanks.png",
+    "title": "Tank Stars",
+    "ratings": "4.7",
+    "downloads": "500M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Tank Stars"
+    },
+    {
+      "name": "category",
+      "value": "Arcade"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Playgendary"
+    },
+    {
+      "name": "Version",
+      "value": "1.3.1"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/f_uYs51wruemgHhkZvYV6z5TNRN9dXkN51ujQk24oeIQbTbOViTl61dth0dNvOjFuePJ",
+    "https://play-lh.googleusercontent.com/lpxSTGfaBG7VrzSV9aiG_6uTi9KxDEEoGeosRsM9H0l5j_x8tMobGyakJTy8_u71L-8",
+    "https://play-lh.googleusercontent.com/uusT1pJ7tTnQ5t--dE6OKbCRQejsCVgZlIS4m2FmqfpfIDgEvWeiyhlckaiyVzI_Iw",
+    "https://play-lh.googleusercontent.com/iDb8iDKWPobzSCcz_ggcxkVxfDNEVhGjs6Hi96IdShlyBt7XjKUJAx0VDBeCg3kGfA",
+    "https://play-lh.googleusercontent.com/6m7J2n-yo7PJ83ibgj60STiCI93CIME78frjABu6f1fBoRh7SvLoQACUQMUmA8rInlM",
+    "https://play-lh.googleusercontent.com/Es8iqTxRuxcSiyzWjMEv3WGAQA8QO7y8JSfTIaNpvBAIsjVQ2LqUr6lD8Byi1BXXmN0",
+    "https://play-lh.googleusercontent.com/NlqMPkwIigvBVYH4dl_CXCa9Bp0fM4VA91Kwsm7IezpNYvWBgPTro9d7A_gVpzNuXIs",
+    "https://play-lh.googleusercontent.com/Yr-VxUraoWdn4C_8ZE5mK3ejcLy_itiJJ9HM5eku2a3Xek1UvhyfWOqhnsXkWz0KQQ",
+    "https://play-lh.googleusercontent.com/SprxZINyS96VOjAtf4mLqAMbpEIbw5PkoedQo8GcTOBCNAFfaxoPYTyaykVoFiHViw",
+    "https://play-lh.googleusercontent.com/ZyYBcrjQTQ_nFqXvSgyuKcKTHFQ4_0MPLEWvr4tuwRvTe523axHJEFZTgmjJyVrS3w",
+    "https://play-lh.googleusercontent.com/cnCVhhRa3jKJA18F1GkpSsuKBOXkvP7Eg-eVMBftBx4SidjmPqY_0U_Bf2Zj3Cs0yLw",
+    "https://play-lh.googleusercontent.com/sYY2aynrkxGTEjIbdF3969a1H6dZZv5DxVJD735EuMt2GbQo3VVlrev13M7IZhoKB0vU",
+    "https://play-lh.googleusercontent.com/SbX8N1nmoKSp4b9-aSDOzj8e2KmSXasj4RtM7EiIwecBOMaU8TOqHnKOB3xb_2TFDIA",
+    "https://play-lh.googleusercontent.com/n4B1PIdj_oTuJI5vhgBMo4LYLA_1nLpr23-acJddbW4VKG9zby1_t1InmFxfitINulw",
+    "https://play-lh.googleusercontent.com/4lMKba9uw1INcuHiN-9hBAR6YkvKlJuN4pCnnVqvVoicB5OKODnJdMALZw5_kDlUUPLd",
+    "https://play-lh.googleusercontent.com/8jYSf2avnfXlrm2QPHB_tT4Yb1AX5n6ZlevFOawmIa_4wcQPIHCRJBn3PkJ4VA6BDiQ",
+    "https://play-lh.googleusercontent.com/ULx4ZSVUVfdGAn3wQkux0YYh9yam4E-SQRMuxZmJERS1q28ys9JChdIVx0q0wxwBPqQ",
+    "https://play-lh.googleusercontent.com/ONN9_cviQQs-1HNLSFshx1io5prIpRLAgxzdzHbdyJVUVed6-RsmpnWNlnGPv-R2Dw",
+    "https://play-lh.googleusercontent.com/FGxGF1BKniYwksmvHDwZq35GBB2AxAiE2HGLEhzjy4_Anoh4qsEbIEKLu7BP8vSzsj8",
+    "https://play-lh.googleusercontent.com/q66Nkw38NNgcfjOFZv2wtXgpi-mtZe8ROn5j-I_DVBTj507x5jgXGLSvH9nUT_vuRyM",
+    "https://play-lh.googleusercontent.com/A6kQKAA8VqHDlnB1bGhIo8hbeTofKC0cdUKwYfv-eDycadwQRvWDLvmbZDtaaIno2A",
+    "https://play-lh.googleusercontent.com/Dh1gZYFhfvGvtZLTFQpQEZU__4LYMJWrp09XwWE2nc-jgGKqzlaQDBxTZwuemyPCogA",
+    "https://play-lh.googleusercontent.com/x6-JGPzGq0TY77lAaSC9sHkNoZbV7eUjsi2tRUczk8Cdr7v2e3ANY5wVOjw45Rp7We8",
+    "https://play-lh.googleusercontent.com/n3Qado6_KhRwbdQYvRXaIZxSOx-_wSz1fOMAQ_osqayk0YE5lGFGAHGyaUosAdKMgqo"
+  ],
+  "app_descript": "<p><strong>Brief:</strong>\nTank Stars is an action-packed, thrilling game where you command a tank to obliterate your opponents with an arsenal of powerful weapons. The game boasts a mix of strategy and shooting elements wrapped in stunning graphics that leap off the screen, ensuring an explosive gaming experience.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🎯 Precision Aiming: Master the art of aiming to destroy enemies with pinpoint accuracy. 🎯</li>\n<li>💥 Diverse Weaponry: Equip your tank with a variety of upgradeable weapons to gain an edge in combat. 💥</li>\n<li>📈 Strategic Gameplay: Choose the appropriate weapon and correct angle to outmaneuver and defeat adversaries. 📈</li>\n<li>🎨 Stunning Visuals: Immerse yourself in the battle with epic graphic effects that enhance the gameplay. 🎨</li>\n<li>🏆 Competitive Play: Climb the leaderboards by battling against other players in thrilling matches. 🏆</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👌 Easy to Learn: The game's intuitive controls make it accessible to gamers of all skill levels. 👌</li>\n<li>🔁 Regular Updates: With frequent updates, the game keeps delivering new content to keep the excitement alive. 🔁</li>\n<li>🌎 Multiplayer Functionality: Engage in online battles with players around the world for endless entertainment. 🌎</li>\n<li>📱 Mobile-Optimized: Designed for mobile devices, providing a top-notch gaming experience on the go. 📱</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>🚫 In-App Purchases: Some users might find the in-app purchases for upgrades a bit intrusive. 🚫</li>\n<li>📶 Internet Dependency: Requires a stable internet connection for multiplayer, which can be a limitation for some. 📶</li>\n<li>🔄 Repetitive Gameplay: After extended play, some players might find the game can become repetitive. 🔄</li>\n<li>📜 Limited Single-Player Content: The focus on multiplayer may disappoint those looking for a robust single-player mode. 📜</li>\n</ul>\n<p><strong>Price:</strong></p>\n<ul>\n<li>💵 Tank Stars is free to play, but it does offer in-app purchases for those looking to enhance their gaming experience. 💵</li>\n</ul>\n<p><strong>Community:</strong></p>\n<ul>\n<li>🕸️ Official Site: <a href=\"http://playgendary.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Tank Stars Official</a></li>\n<li>📹 YouTube: <a href=\"https://www.youtube.com/c/Playgendary\" rel=\"noopener noreferrer\" target=\"_blank\">Tank Stars YouTube Channel</a></li>\n<li>📘 Facebook: <a href=\"https://www.facebook.com/playgendary\" rel=\"noopener noreferrer\" target=\"_blank\">Tank Stars on Facebook</a></li>\n<li>🐦 Twitter: <a href=\"https://twitter.com/playgendary\" rel=\"noopener noreferrer\" target=\"_blank\">Tank Stars on Twitter</a></li>\n<li>📸 Instagram: <a href=\"https://www.instagram.com/playgendary/\" rel=\"noopener noreferrer\" target=\"_blank\">Tank Stars on Instagram</a></li>\n</ul>\n<p>Dive into the dynamic world of Tank Stars and experience the rush of annihilating your enemies through strategic artillery combat. Join the online community to compare your scores, exchange tips, and compete with players around the globe.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-vARDAmirsGameStudio-CutePocketCat3DPart2/54434.html",
+      "icon": "assets/img/apk/icon/com.vARDAmirsGameStudio.CutePocketCat3DPart2.png",
+      "name": "Cute Pocket Cat 3D - Part 2",
+      "categoryLink": "/en/categories/arcade/35",
+      "category": "Arcade",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-dvloper-granny/39688.html",
+      "icon": "assets/img/apk/icon/com.dvloper.granny.png",
+      "name": "Granny",
+      "categoryLink": "/en/categories/arcade/35",
+      "category": "Arcade",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-kwalee-drawit/39649.html",
+      "icon": "assets/img/apk/icon/com.kwalee.drawit.png",
+      "name": "Draw it",
+      "categoryLink": "/en/categories/arcade/35",
+      "category": "Arcade",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-emulator-gba-gbcfree-gameboyadvance/39580.html",
+      "icon": "assets/img/apk/icon/com.emulator.gba.gbcfree.gameboyadvance.png",
+      "name": "GBA Emulator - 90s Retro Games",
+      "categoryLink": "/en/categories/arcade/35",
+      "category": "Arcade",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-elemental-gloves/39457.html",
+      "icon": "assets/img/apk/icon/com.elemental.gloves.png",
+      "name": "Elemental Gloves - Magic Power",
+      "categoryLink": "/en/categories/arcade/35",
+      "category": "Arcade",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-Pixasoft-DiwaliFireworksMaker/34666.html",
+      "icon": "assets/img/apk/icon/com.Pixasoft.DiwaliFireworksMaker.png",
+      "name": "Diwali Fireworks DIY Maker",
+      "categoryLink": "/en/categories/arcade/35",
+      "category": "Arcade",
+      "rating": "3.6"
+    },
+    {
+      "link": "/details/com-sandboxol-blockymods/16462.html",
+      "icon": "assets/img/apk/icon/com.sandboxol.blockymods.png",
+      "name": "Blockman Go",
+      "categoryLink": "/en/categories/arcade/35",
+      "category": "Arcade",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-bm-steal-brainrot-go-tung-sahur-tralalero-bombardino/16450.html",
+      "icon": "assets/img/apk/icon/com.bm.steal.brainrot.go.tung.sahur.tralalero.bombardino.png",
+      "name": "Steal n Catch the Brainrot",
+      "categoryLink": "/en/categories/arcade/35",
+      "category": "Arcade",
+      "rating": "4.5"
+    }
+  ]
+}

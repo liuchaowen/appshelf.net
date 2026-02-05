@@ -1,0 +1,129 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.neulion.smartphone.ufc.android.png",
+    "title": "UFC",
+    "ratings": "4.7",
+    "downloads": "180M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "UFC"
+    },
+    {
+      "name": "category",
+      "value": "Sport"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "UFC® - The Ultimate Fighting Championship®"
+    },
+    {
+      "name": "Version",
+      "value": "11.9.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/Bn80MP5YC5PFm0zPJD4qg15rp7i-Km_3NpPtGY6esJxk4KxxCm-QiujA7mSorj1IoSvd",
+    "https://play-lh.googleusercontent.com/pgOzKaXHwd2IuMbnO4_a-vf7Oe6FKgIxtfjK0fScvb4dDAlCn4pXT1fO52c1te38lw",
+    "https://play-lh.googleusercontent.com/-mB3rFV7p9NXW899XqtMMhv-ip4i3PbXanjShGFwuwQQKQ-CGnJmg81LLewBDZskZRA",
+    "https://play-lh.googleusercontent.com/GZ7wblvcMRWhZW3L-R8lvALnINkeMC8VuhQX5T4F1vKiHj3UHmhig1O5xia-tjBBobU",
+    "https://play-lh.googleusercontent.com/FPdxYLDfPB8aHRKyzx_1WUWuZRmUpT5vYzc8Ell8VKZ-kwSCc_OKvvOGkTnaU2zY0Yw",
+    "https://play-lh.googleusercontent.com/xwq3yZOdo5CnkI1RYbtJorS9civJfOkDL8Wao8_88c2pKN0yea0Rnq6ATv2HVog9-Qc",
+    "https://play-lh.googleusercontent.com/abnuyK98nlk4CxqfzvSwY__a3wSRVg9rqMfmNR0TI3MFxTDaZBK8F_MGILRvtGWsU5wM",
+    "https://play-lh.googleusercontent.com/TW2Xb7cwxH0bY9v1umHZPFRLpV-PHgy3z4faaT1Ru8Yfod5Q4P42jBU8SvstbH6pjqQ",
+    "https://play-lh.googleusercontent.com/36xPubYoRE-tbdI9Q_b_fdt4tUMwjbj_cRgBIYGGqbJeBPCLW41pRaSyLlgWIdkAvIX1",
+    "https://play-lh.googleusercontent.com/AUPPMGUjcq3-vUWdiFFo_uLoAm0Kg4FKQrem3sPgunfhDfeNxxkcXqRZQBUgHOszsvA",
+    "https://play-lh.googleusercontent.com/AEYfBEjRZYNOfZ5cYmwZfT7fcoBEKEK-OmPU0CAsuSvCIQmGNtgwoY-cBwpmOvqo0LM",
+    "https://play-lh.googleusercontent.com/ddklCgCY5bi33if1RutpwMvQ10-btzPgZJTic4zSS3Ck7Lja4ku3ZOAQTDIPna193lQ",
+    "https://play-lh.googleusercontent.com/PTP2t1v3xhvxWMBVkXAM6ScRq8tOu90mujAiqvKjxwWahZ75LsbHoGkjnlsFdzL6qA",
+    "https://play-lh.googleusercontent.com/mP-JT6M4CSA0r3cw_AIl6S_bRpq1R-ulvE5MCS6O9YPgFCSfyuRHNc1_GlIsrlh_QvUq",
+    "https://play-lh.googleusercontent.com/lOjB7cGTNAPsy2zCYJ5zUMl_xp6p7Iqy41AaYhPaiLBeFC9MhlBZy9J5M-lAsQOsv2U",
+    "https://play-lh.googleusercontent.com/ocjUXQryvEV0tRQyFLn8zuXNUpEAfOHjU3_M3-8PzAwbT4iGJ_WFn_2v05DgJ_cGNho",
+    "https://play-lh.googleusercontent.com/OUzLxJ1wHcvoLUhetkNft_fKE_k-yIqumnrlAkiDJaFC81M7QgQ1ochcVy_J3K2E8pvi",
+    "https://play-lh.googleusercontent.com/UbtV-34t_84VxMcSV5jpaAKokUchiklGk4tDnXq8qEGaEXRWwpLjEnVpg-4vqjpFSm47",
+    "https://play-lh.googleusercontent.com/c7VbvHFjRJPm9zFUlwz1P_uD3XQOmDtuSwe3tBR99SIRMXFov5yyITkvJNn9zO_nJps",
+    "https://play-lh.googleusercontent.com/BRWRnBqQrdiYDisqH2pr3ABN3J9Umwcl0RZhxE3x6b3P0PbrmzIsA0axZUmSeC0-pyE",
+    "https://play-lh.googleusercontent.com/5QwzXl5UBjigivsWJAMJ3cyHVROpV8q6ZRClQ6HXHxx6E-YKsieRDRL4ITky7zZpRqQ",
+    "https://play-lh.googleusercontent.com/_haMPON2MgR6R0AFIZQWWHsdWViNXmMcwsTCxLDyGZWULkK9xehSPOll3RAL30gjjlg",
+    "https://play-lh.googleusercontent.com/7CVCM7r4AmvJJY5jTknB1lnR--H6IuQCGrxstjK26ILprc8QgH6X5QftCG0n9t4T_a4O",
+    "https://play-lh.googleusercontent.com/DdqINYvMLoZTwVDvBIhmsEEd1HaDM9bhuhy0bxV2n7SG-yEHrmQZws1F7SyRfvTabA",
+    "https://play-lh.googleusercontent.com/KnJzm7LhHAzcGAvfx8UfL1moMmdpdCShzImwnwspzNSxQkxOYEr2eaFaQFirsSSQew"
+  ],
+  "app_descript": "<p><strong>Brief</strong>:\nThe Ultimate Fighting Championship (UFC) app is the essential application for fans of mixed martial arts and the UFC franchise. Experience the thrill of the octagon at your fingertips, with live event streaming, fighter profiles, and the latest UFC news. Please note that the original description was not provided, so this compilation is based on the known features associated with the UFC app and brand.</p>\n<p><strong>Core Features</strong>:</p>\n<ul>\n<li>📡 <strong>Live Event Streaming</strong>: Catch every high-impact event live or on-demand, ensuring you never miss a moment of UFC action. 🥊</li>\n<li>🏆 <strong>Exclusive Content</strong>: Unlock behind-the-scenes content, watch weight-in live, and get an inside look at your favorite fighters' training regimes. 🎥</li>\n<li>💂‍♂️ <strong>Fighter Database</strong>: Browse an extensive database of fighters, complete with stats, fight history, and profiles. 📊</li>\n<li>📰 <strong>Up-to-Date News</strong>: Stay informed with the latest news, announcements, and event schedules straight from the UFC world. 🗞️</li>\n<li>🔔 <strong>Alerts and Notifications</strong>: Set personalized alerts to receive real-time updates on fights, events, and news that matters to you. 📲</li>\n</ul>\n<p><strong>Pros</strong>:</p>\n<ul>\n<li>👊 <strong>In-Depth UFC Access</strong>: Engage with the sport deeper through exclusive content and comprehensive fighter insights. </li>\n<li>🕒 <strong>Anytime, Anywhere</strong>: Conveniently enjoy UFC content on the go, keeping up with live events regardless of your location. </li>\n<li>🛠️ <strong>Customization</strong>: Tailor your app experience with notifications and content preferences suited to your liking.</li>\n<li>🌐 <strong>Multi-Language Support</strong>: Accessibility in multiple languages makes it a resource for international fans. </li>\n<li>🔄 <strong>Regular Updates</strong>: The app is routinely updated in response to user feedback and evolving features.</li>\n</ul>\n<p><strong>Cons</strong>:</p>\n<ul>\n<li>👤 <strong>Account Requirement</strong>: To access certain premium content and features, you may need a UFC account or subscription.</li>\n<li>📶 <strong>Connectivity Dependency</strong>: Streaming live events requires a strong internet connection, which can be an issue in areas with poor coverage.</li>\n<li>💸 <strong>Potential Costs</strong>: Some content might only be accessible through in-app purchases or a UFC Fight Pass subscription.</li>\n<li>🤝 <strong>Limited Compatibility</strong>: Depending on your device's specifications, the app performance may vary.</li>\n<li>🗺️ <strong>Regional Restrictions</strong>: Users in some locations might face restrictions on content due to broadcasting rights agreements.</li>\n</ul>\n<p><strong>Price</strong>:</p>\n<ul>\n<li>💵 The UFC app can be downloaded for free, but it offers in-app purchases and subscription plans, like UFC Fight Pass, which vary in price depending on the type of access and duration you choose.</li>\n</ul>\n<p><strong>Community</strong>:\nFor dedicated MMA enthusiasts and UFC fans, the community surrounding the app is vibrant and active across various platforms:</p>\n<ul>\n<li>Official Site: <a href=\"https://www.ufc.com/\" rel=\"noopener noreferrer\" target=\"_blank\">UFC</a></li>\n<li>YouTube Channel: <a href=\"https://www.youtube.com/user/UFC\" rel=\"noopener noreferrer\" target=\"_blank\">UFC - Ultimate Fighting Championship</a></li>\n<li>Instagram: <a href=\"https://www.instagram.com/ufc/\" rel=\"noopener noreferrer\" target=\"_blank\">@UFC</a></li>\n<li>Twitter: <a href=\"https://twitter.com/ufc\" rel=\"noopener noreferrer\" target=\"_blank\">@UFC</a></li>\n<li>Facebook: <a href=\"https://www.facebook.com/UFC\" rel=\"noopener noreferrer\" target=\"_blank\">UFC</a></li>\n<li>TikTok: <a href=\"https://www.tiktok.com/@ufc\" rel=\"noopener noreferrer\" target=\"_blank\">@UFC</a></li>\n<li>Reddit: <a href=\"https://www.reddit.com/r/ufc/\" rel=\"noopener noreferrer\" target=\"_blank\">r/ufc</a></li>\n</ul>\n<p>(The presence of a Fandom Wiki or Discord community would be listed here if available).</p>\n<p>Please note that the community elements are dynamic and the presence or popularity may change over time.</p>",
+  "related_apps": [
+    {
+      "link": "/details/Live-Cricket-TV-WorldCup-2023/4582.html",
+      "icon": "assets/img/apk/icon/com.cricketworldcup.livescore.liveline.png",
+      "name": "Live Cricket TV WorldCup 2023",
+      "categoryLink": "/en/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/Rooter/4571.html",
+      "icon": "assets/img/apk/icon/com.threesixteen.app.png",
+      "name": "Rooter",
+      "categoryLink": "/en/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/Supercars-App/4531.html",
+      "icon": "assets/img/apk/icon/com.supercars.app.png",
+      "name": "Supercars App",
+      "categoryLink": "/en/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/yahoo-fantasy-sports/291.html",
+      "icon": "assets/img/apk/icon/com.yahoo.mobile.client.android.fantasyfootball.png",
+      "name": "Yahoo Fantasy Sports",
+      "categoryLink": "/en/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/live-football-tv-stream-hd/289.html",
+      "icon": "assets/img/apk/icon/com.livefootball.mrsports.tvhd.png",
+      "name": "Live Football Tv Stream HD",
+      "categoryLink": "/en/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/the-masters-golf-tournament/288.html",
+      "icon": "assets/img/apk/icon/com.ibm.events.android.masters.png",
+      "name": "The Masters Golf Tournament",
+      "categoryLink": "/en/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/live-sports-tv-streaming/287.html",
+      "icon": "assets/img/apk/icon/com.tehzeeb.livesports.tv.png",
+      "name": "live sports tv streaming",
+      "categoryLink": "/en/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/onx-hunt/286.html",
+      "icon": "assets/img/apk/icon/onxmaps.hunt.png",
+      "name": "onX Hunt",
+      "categoryLink": "/en/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.9"
+    }
+  ]
+}

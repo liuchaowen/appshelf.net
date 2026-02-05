@@ -1,0 +1,112 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.zoho.meeting.png",
+    "title": "Zoho Meeting",
+    "ratings": "4.5",
+    "downloads": "220M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Zoho Meeting"
+    },
+    {
+      "name": "category",
+      "value": "Business"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Zoho Corporation"
+    },
+    {
+      "name": "Version",
+      "value": "1.5.14"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/SnWSFJgpPMZyJK9zVEN1c8kYpGd7wB3dDzny31VvL_7wHQvTN8_-gTmG4Yv2sRXTK41E",
+    "https://play-lh.googleusercontent.com/mpuMO1ZUAJsnj9MYA85veXl7SEmVThfD6YCXyoC-KP6ogVYCRw5szYwFCn0_WYfNyzE",
+    "https://play-lh.googleusercontent.com/d_8-SWCMdZ9l0spiO9qqhhJtRQihecksBBwLZAlM3v0ibJ70HCC0C8N4Y5YthyvYmmqJ",
+    "https://play-lh.googleusercontent.com/HaiyDvZt-h-ALpINoV15-xZaOhsjwQJrwbNgAo9SxfNyeJ_T3XrnYHZJATJo_HPWMBo",
+    "https://play-lh.googleusercontent.com/8c8ouvHnmQJoY7pfGxgdT9Rv4H2r_2yk2u1_BTUaJ62Cq-7Sqqp2ILwhB83Ca9pAEw",
+    "https://play-lh.googleusercontent.com/vCAuhwBYok4DurmRRXnCWzvFg2y8UCyDa7CdHTfi2rz4UUxxBZnh8OZtf87-3unvpys",
+    "https://play-lh.googleusercontent.com/fM54-J6J8ewKUqQRB7Y3cIQnV-YPCB6G6It9209dbmKFkXgQZk6iNQn-2iQZqNx82V0",
+    "https://play-lh.googleusercontent.com/e6zE3Xmb-XF8iCcrbj7HlTUguNQPswKd20PMbPkgrebuum94A6S7USB8NIBDzoZpGVg"
+  ],
+  "app_descript": "<h3>Brief</h3>\n<p>Zoho Meeting is an easy-to-use video conferencing app that allows you to join meetings with just a few taps, without the need to sign up. With Zoho Meeting, you can have face-to-face interactions with others, enhancing your communication and helping build rapport. Easily follow live presentations and join in with interactive discussions, all from your mobile device.</p>\n<h3>Core Features 📌</h3>\n<ul>\n<li><strong>One-Tap Join</strong>: Jump into meetings swiftly without any need for signup.</li>\n<li><strong>Video Collaboration</strong>: Engage in clear, face-to-face communication with other participants.</li>\n<li><strong>Real-Time Screen Sharing</strong>: View the presenter’s screen live for detailed and contextual understanding.</li>\n<li><strong>Interactive Discussions</strong>: Participate in the meetings with the ability to converse and interact in real-time.</li>\n</ul>\n<h3>Pros 👍</h3>\n<ul>\n<li>Easy and immediate access to meetings.</li>\n<li>Enhances communication with video interaction.</li>\n<li>Allows for real-time screen sharing to boost engagement.</li>\n<li>No sign-up requirement facilitates quick entry into meetings.</li>\n<li>Optimized for mobile devices for meetings on the go.</li>\n</ul>\n<h3>Cons 👎</h3>\n<ul>\n<li>Limited functionality outside of meetings.</li>\n<li>Potential dependency on internet quality for video clarity.</li>\n<li>Possible lack of advanced meeting features found in desktop versions.</li>\n<li>May require adaptation for users unfamiliar with video conferencing.</li>\n</ul>\n<h3>Pricing 💵</h3>\n<p>Zoho Meeting is a free app, making it accessible for all users to download and start using immediately. The app may have in-app purchases or premium features available, subject to Zoho's pricing policies.</p>\n<p><a href=\"https://play.google.com/store/apps/details?id=com.zoho.meeting\" rel=\"noopener noreferrer\" target=\"_blank\">Download Zoho Meeting</a></p>\n<hr/>\n<p><em>Please note that the 'Community' section is not provided for Zoho Meeting as it is a non-game app.</em></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-kj2147575505-app/16858.html",
+      "icon": "assets/img/apk/icon/com.kj2147575505.app.png",
+      "name": "Alpha Omega Consulting",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-hypertide-petscan-v8m/15982.html",
+      "icon": "assets/img/apk/icon/com.hypertide.petscan.v8m.png",
+      "name": "PetScan",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "2"
+    },
+    {
+      "link": "/details/com-animalid-scanner/15981.html",
+      "icon": "assets/img/apk/icon/com.animalid.scanner.png",
+      "name": "Pet Scanner",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-webrange-sendoff-app/15417.html",
+      "icon": "assets/img/apk/icon/com.webrange.sendoff.app.png",
+      "name": "Sendoff Funeral App",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-dyve-countthings/10295.html",
+      "icon": "assets/img/apk/icon/com.dyve.countthings.png",
+      "name": "CountThings from Photos",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "3"
+    },
+    {
+      "link": "/details/com-countthis-count-things-counting-template-counter/5097.html",
+      "icon": "assets/img/apk/icon/com.countthis.count.things.counting.template.counter.png",
+      "name": "Count This・Counting Things App",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-aadi-personalitytraittest/4991.html",
+      "icon": "assets/img/apk/icon/com.aadi.personalitytraittest.png",
+      "name": "Personality Trait Test",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/GlowRoad/4569.html",
+      "icon": "assets/img/apk/icon/com.localqueen.png",
+      "name": "GlowRoad",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.6"
+    }
+  ]
+}

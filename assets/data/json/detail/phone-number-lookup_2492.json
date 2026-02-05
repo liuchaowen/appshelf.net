@@ -1,0 +1,108 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.phone.number.lookup.kk.png",
+    "title": "Phone Number Lookup",
+    "ratings": "4.4",
+    "downloads": "150M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Phone Number Lookup"
+    },
+    {
+      "name": "category",
+      "value": "Tools"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Privacy+"
+    },
+    {
+      "name": "Version",
+      "value": "1.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/G2R4pt8LVo97WLRMEoxL3d4XeYt63I8j2Xp2HogYoHFq_rDj8gG1yk27YZL_LxamFkKA",
+    "https://play-lh.googleusercontent.com/bYkruuFznfntQu3YfuveneatNEEemNgI8QN_EEPYkgDfkv30AcTZeNv9oxZ0kXdfRbY",
+    "https://play-lh.googleusercontent.com/p9LiRrIWA42BhJ2sCMMHIm5_c9uY8LrOmZ-8Bf9-BvFMFklSdpQ3_h8HxS7mh9miSi4",
+    "https://play-lh.googleusercontent.com/WpSOQj3ZJCCnuwMqvZaMIjXm9oBhhoJzeYCp9TsQytEZSQmxJZIixEdZwhKJFqLND6sJ"
+  ],
+  "app_descript": "<p>It seems that the original description for \"Phone Number Lookup\" is not provided in the details. However, I will craft a comprehensive app description based on the app's name and typical features of a phone number lookup service.</p>\n<hr/>\n<h2>Phone Number Lookup</h2>\n<p>Brief:\n\"Phone Number Lookup\" is an essential tool for those who wish to gain insight into unknown callers and manage their contacts more effectively. Whether you're dealing with spam, conducting business, or simply organizing your phone book, this app provides a range of features to help you identify and investigate phone numbers with ease.</p>\n<p>Core Features:</p>\n<ul>\n<li>📞 <strong>Caller ID</strong>: Instantly see who's calling you before you answer.</li>\n<li>🔍 <strong>Reverse Phone Lookup</strong>: Enter any number to retrieve owner information and related data.</li>\n<li>🚫 <strong>Spam Detection</strong>: Get real-time alerts for suspected spam or telemarketing calls.</li>\n<li>📇 <strong>Contact Management</strong>: Easily manage and update your contact list with enriched data.</li>\n<li>🕵️ <strong>Number Investigation</strong>: Deep-dive into any number for background checks and more. </li>\n</ul>\n<p>Pros:</p>\n<ul>\n<li>👁‍🗨 <strong>Increased Privacy</strong>: Understand who owns a phone number before sharing personal information.</li>\n<li>🛡️ <strong>Enhanced Security</strong>: Avoid potential scams or fraudulent activity by identifying risky callers.</li>\n<li>🤖 <strong>Automated Screening</strong>: The app automatically identifies unknown numbers, saving you time and hassle.</li>\n<li>🧹 <strong>Clutter-Free Contact List</strong>: Keep your phonebook organized and up-to-date with ease.</li>\n<li>📈 <strong>Community Insights</strong>: Get valuable context from other users who have interacted with the same numbers.</li>\n</ul>\n<p>Cons:</p>\n<ul>\n<li>🔒 <strong>Data Access</strong>: Requires access to your call log and contacts which may raise privacy concerns for some users.</li>\n<li>🌐 <strong>Internet Dependent</strong>: Effective operation requires a continuous internet connection.</li>\n<li>📉 <strong>Accuracy Limitations</strong>: The app may not always provide accurate or up-to-date information for every number.</li>\n<li>📱 <strong>Device Compatibility</strong>: Performance may vary depending on the device and operating system.</li>\n<li>📜 <strong>Legal Restrictions</strong>: Use of such services is regulated by local laws, which may limit functionality in some areas.</li>\n</ul>\n<p>Price:</p>\n<ul>\n<li>💵 \"Phone Number Lookup\" is a free app with some basic features available to all users. Premium features may require in-app purchases, and pricing details are provided within the app.</li>\n</ul>\n<p>Due to the nature of the \"Phone Number Lookup\" app being a non-game utility app, no community section is included.</p>\n<hr/>\n<p>For an app like \"Phone Number Lookup,\" it's always wise to read user reviews and see how it operates among different countries and user groups since regulations and effectiveness can vary. Always maintain your privacy and security as a priority when granting permissions to such applications.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-antique-snap-identifier-appraisal/54309.html",
+      "icon": "assets/img/apk/icon/com.antique.snap.identifier.appraisal.png",
+      "name": "Antique Identifier - Appraisal",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-age-calculator-life-countdown/54243.html",
+      "icon": "assets/img/apk/icon/com.age.calculator.life.countdown.png",
+      "name": "Age Calculator・Life Expectancy",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.4"
+    },
+    {
+      "link": "/details/com-xv-agecalc/54237.html",
+      "icon": "assets/img/apk/icon/com.xv.agecalc.png",
+      "name": "AgeCalc: Date Life Calculator",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-palm-ai-decode-destiny-soul-futurelines-handline/54206.html",
+      "icon": "assets/img/apk/icon/com.palm.ai.decode.destiny.soul.futurelines.handline.png",
+      "name": "Palm AI: Decode Destiny",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/rbx-robuxcalc-getrbx-freecounter/53839.html",
+      "icon": "assets/img/apk/icon/rbx.robuxcalc.getrbx.freecounter.png",
+      "name": "RBX Calc - Get Robuxcounter",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-internetoptimizer-speedtest-wifispeedtest-netspeed-wifipassword-wifispeed/49027.html",
+      "icon": "assets/img/apk/icon/com.internetoptimizer.speedtest.wifispeedtest.netspeed.wifipassword.wifispeed.png",
+      "name": "Internet Optimizer",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.9"
+    },
+    {
+      "link": "/details/com-blazingappstudio-speed_test_pro/49021.html",
+      "icon": "assets/img/apk/icon/com.blazingappstudio.speed_test_pro.png",
+      "name": "Speed Test - Wifi Optimizer",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-secret-camera-hidden-detector/39728.html",
+      "icon": "assets/img/apk/icon/com.secret.camera.hidden.detector.png",
+      "name": "Hidden Camera & IR Detector",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/com.fsn.nds.png",
+    "title": "Nykaa Fashion",
+    "ratings": "4.8",
+    "downloads": "580M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Nykaa Fashion"
+    },
+    {
+      "name": "category",
+      "value": "Shopping"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Nykaa.com"
+    },
+    {
+      "name": "Version",
+      "value": "2.5.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/4MZQwh_TRbM-B8UmccvZ9L0L3uNz88ki8EI92EMSFrg-FJw0D1Bs_LmXWTl6D38xTt0",
+    "https://play-lh.googleusercontent.com/RcgQxUKYgA36KRCtSwCwzqdUfx_TXWhgjsx-gK5F9g1ttinFucaRUcK_FEiUkuYPcg",
+    "https://play-lh.googleusercontent.com/JFkbNrKU2o4eWYbG4htQ0YTvZy7-ggjxU3sP04WkMlwRMyDyLBlZZKkYIr8QVgdE2Q",
+    "https://play-lh.googleusercontent.com/RLn0Ig3JlEcWZNGOb1bbR5HWtPpu0jJ57prYvM-TVdfgWB4BzPLTT2dZfoDG2v0PYg",
+    "https://play-lh.googleusercontent.com/6Eh5oDUYuE29Y6hPUF1-63iuPi9VtHi9zx95qa4fI5dB-7wN57bdfkwgOyngnw5pnw",
+    "https://play-lh.googleusercontent.com/V64cc5qPd-9_VuxpWEMevlgMrIRx2QXr9XXrj3L5LS7l-akJuew2dXWq-OJMC4rO"
+  ],
+  "app_descript": "<h3>Brief</h3>\n<p>Nykaa Fashion is an online shopping app that brings users an exclusive selection of fashion and lifestyle products. Cater to your style needs with a curated ensemble that ranges from upscale designer wear to everyday essentials.</p>\n<h3>Core Features</h3>\n<ul>\n<li><strong>Wide Range of Fashion Picks</strong> 🛍️: Access a variety of clothing, accessories, and beauty products from popular and emerging brands.</li>\n<li><strong>Curated Collections</strong> ✨: Enjoy handpicked selections that match the latest trends, seasonal styles, and special occasions.</li>\n<li><strong>Personalized Recommendations</strong> 👗: Experience tailored fashion suggestions based on your preferences and browsing history.</li>\n<li><strong>User-friendly Interface</strong> 💻: Navigate through a beautifully designed app layout aimed at enhancing your shopping experience.</li>\n</ul>\n<h3>Pros</h3>\n<ul>\n<li>👗 <strong>Fashion-Forward Selections</strong>: Stay ahead of the curve with trendy, up-to-date styles.</li>\n<li>🛍️ <strong>One-Stop-Shop</strong>: Find everything from clothing to accessories under one digital roof.</li>\n<li>✨ <strong>Lifestyle Inspirations</strong>: Get inspiration from the app's lifestyle section, featuring lookbooks and style guides.</li>\n<li>🚛 <strong>Convenient Delivery</strong>: Enjoy seamless delivery services, making your shopping experience smooth and hassle-free.</li>\n</ul>\n<h3>Cons</h3>\n<ul>\n<li>👎 <strong>Limited Brand Diversity</strong>: Lack of eclectic brand options for a wider variety of tastes and budgets.</li>\n<li>🕑 <strong>Interface Glitches</strong>: Occasional slow load times and navigation challenges that affect the shopping experience.</li>\n<li>📏 <strong>Inconsistent Sizing Guides</strong>: Variability in sizing across brands leading to potential returns and the inconvenience of not having a standardized fit.</li>\n</ul>\n<h3>Price</h3>\n<ul>\n<li>💵 Nykaa Fashion is a <strong>free-to-use</strong> shopping app, although it hosts a range of products that vary greatly in price. The app may have a range of products with prices that cater to different budget ranges.</li>\n</ul>\n<h3>Community</h3>\n<p>As Nykaa Fashion is a non-game app, the community section is not included.</p>\n<p>With an ambitious goal to redefine online fashion, Nykaa Fashion offers an engaging and distinctive shopping experience that hopes to address the concerns of consumers and consistently improve upon its offerings.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-seagm-store/54458.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.seagm.store.png",
+      "name": "SEAGM - Games Topup, Gift Card",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-gowish-app/39285.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.gowish.app.png",
+      "name": "GoWish - Your Digital Wishlist",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-aldisued-shopgo/16934.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.aldisued.shopgo.png",
+      "name": "ALDI SHOP&GO",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.2"
+    },
+    {
+      "link": "/details/com-wakefern-shoprite/16933.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.wakefern.shoprite.png",
+      "name": "ShopRite: Groceries & Savings",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-yaxo-vancamper/16894.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.yaxo.vancamper.png",
+      "name": "Vancamper: Buy sell campervans",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/com-elfster-elfdroid/16861.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.elfster.elfdroid.png",
+      "name": "Elfster: The Secret Santa App",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-biggu-shopsavvy/16860.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.biggu.shopsavvy.png",
+      "name": "ShopSavvy - Barcode Scanner",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/moloapps-gifttracker/16845.html",
+      "icon": "https://img.buzzsight.co/apk/icon/moloapps.gifttracker.png",
+      "name": "GiftTracker : Gift List Helper",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.1"
+    }
+  ]
+}

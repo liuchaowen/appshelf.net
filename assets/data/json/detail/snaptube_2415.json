@@ -1,0 +1,106 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/snaptube.png",
+    "title": "SnapTube",
+    "ratings": "4.3",
+    "downloads": "40M",
+    "age": "4+",
+    "download_link": "https://d.apkpure.com/b/APK/snaptube?version=latest"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "SnapTube"
+    },
+    {
+      "name": "category",
+      "value": "Tools"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Snaptube"
+    },
+    {
+      "name": "Version",
+      "value": "4.10.0.8632"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>SnapTube</strong></p>\n<p>SnapTube is a streamlined multimedia application designed to provide users with a convenient and clutter-free environment for downloading and managing video and audio content from a plethora of online sources.</p>\n<p><strong>Brief:</strong>\nSnapTube offers a simple solution for anyone looking to download and manage videos and music without the need for any additional encoding software or plugins. Users can swiftly find content through intuitive search features and enjoy a seamless, ad-free experience.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🖌️ <strong>Clean Design:</strong> Boasting a user-friendly interface for easy navigation and quick access to contents. 📱</li>\n<li>🔍 <strong>Smart Search:</strong> Utilize keyword and subdirectory searches to locate the exact video you're after. 🔎</li>\n<li>🎞️ <strong>Video Variety:</strong> Explore videos across different categories and resolutions, from 360p to a crisp 1080p. 🌐</li>\n<li>🏞️ <strong>Space Saving:</strong> Download smaller files to save precious space on your device. 💾</li>\n<li>⏯️ <strong>Download Management:</strong> Take control with options to pause, cancel or resume downloads, and easily manage your library. 🎵</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 <strong>No Ads:</strong> Enjoy an uninterrupted experience with no annoying advertisements. 🛑</li>\n<li>👍 <strong>Free Downloads:</strong> Access videos and music for download without incurring any cost. 🔓</li>\n<li>👍 <strong>High Definition:</strong> Select your preferred video quality up to HD resolutions. 🌟</li>\n<li>👍 <strong>Centralized Management:</strong> Manage all your videos and music downloads within the app. ✅</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 <strong>Limited to Android &amp; Older iOS:</strong> Only available for Android and iOS 8.0 or later, which may exclude some users. 🚫</li>\n<li>👎 <strong>Compatibility Issues:</strong> Minimum requirement for Android is 2.3.4, which is considered outdated. ⏳</li>\n<li>👎 <strong>Storage Dependence:</strong> Downloads can consume significant device storage space. 🗃️</li>\n<li>👎 <strong>Country Restrictions:</strong> May not be available for download in certain countries. 🗺️</li>\n</ul>\n<p><strong>Pricing:</strong></p>\n<ul>\n<li>💵 <strong>Free of Charge:</strong> SnapTube is free to download and use, with no hidden costs. 💰</li>\n</ul>\n<p>SnapTube's qualities make it an appealing tool for users seeking a no-fuss environment to search, download, and manage their video and audio content from various sources online. However, it's important to keep in mind the device requirements and potential storage constraints when using the app.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-internetoptimizer-speedtest-wifispeedtest-netspeed-wifipassword-wifispeed/49027.html",
+      "icon": "assets/img/apk/icon/com.internetoptimizer.speedtest.wifispeedtest.netspeed.wifipassword.wifispeed.png",
+      "name": "Internet Optimizer",
+      "categoryLink": "/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.9"
+    },
+    {
+      "link": "/details/com-blazingappstudio-speed_test_pro/49021.html",
+      "icon": "assets/img/apk/icon/com.blazingappstudio.speed_test_pro.png",
+      "name": "Speed Test - Wifi Optimizer",
+      "categoryLink": "/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-secret-camera-hidden-detector/39728.html",
+      "icon": "assets/img/apk/icon/com.secret.camera.hidden.detector.png",
+      "name": "Hidden Camera & IR Detector",
+      "categoryLink": "/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-findmymobile-lostphone-phonetracker/39682.html",
+      "icon": "assets/img/apk/icon/com.findmymobile.lostphone.phonetracker.png",
+      "name": "Anti Theft Alarm–Find my Phone",
+      "categoryLink": "/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/donttouchmyphone-antitheftalarm-iantitheft/39681.html",
+      "icon": "assets/img/apk/icon/donttouchmyphone.antitheftalarm.iantitheft.png",
+      "name": "Anti Theft Phone Alarm",
+      "categoryLink": "/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/download-videobrowser-pic-makerapp/39657.html",
+      "icon": "assets/img/apk/icon/download.videobrowser.pic.makerapp.png",
+      "name": "Fi Film - Movie Track",
+      "categoryLink": "/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.5"
+    },
+    {
+      "link": "/details/com-keeratipong-skineditorminecraft/39591.html",
+      "icon": "assets/img/apk/icon/com.keeratipong.skineditorminecraft.png",
+      "name": "Skin Editor for Minecraft",
+      "categoryLink": "/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-rbxconvert-freerobux-newcalculator/39576.html",
+      "icon": "assets/img/apk/icon/com.rbxconvert.freerobux.newcalculator.png",
+      "name": "RBX Calculator Robox Counter",
+      "categoryLink": "/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.3"
+    }
+  ]
+}

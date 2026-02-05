@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.tqyspbj.videocut.png",
+    "title": "OneCut",
+    "ratings": "4.3",
+    "downloads": "250M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "OneCut"
+    },
+    {
+      "name": "category",
+      "value": "Video Players & Editors"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Denise Arabella"
+    },
+    {
+      "name": "Version",
+      "value": "7.1"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> OneCut<br/>\n<strong>Package Name:</strong> com.tqyspbj.videocut</p>\n<p><strong>Brief:</strong>\nOneCut is a versatile video editing app designed to bring your micro video content to life with fun and interactive elements. Whether you're looking to add an expressive touch with stickers, personalize with text, or enhance with music, OneCut offers a user-friendly platform to unleash your creativity on videos with just a few taps.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🚀 <strong>Sticker Implementation</strong>: Easily add a variety of stickers to your videos, with the ability to resize and reposition them effortlessly. 🎨</li>\n<li>✍️ <strong>Custom Text Overlays</strong>: Personalize your videos by adding your own text, perfect for including names or captions. ✏️</li>\n<li>🎶 <strong>Background Music Addition</strong>: Augment your videos with a selection of background tunes, and control whether to keep or mute the original audio. 🔊</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👌 <strong>User-Friendly Interface</strong>: Intuitive drag-and-drop features make video customization accessible to all skill levels. 👍</li>\n<li>🛠️ <strong>Versatile Editing Tools</strong>: From stickers to text, OneCut provides a range of editing options to enhance video storytelling. 📝</li>\n<li>🔄 <strong>Original Sound Flexibility</strong>: Choose to embrace the raw audio or set the mood with background music options. 🔇</li>\n<li>📲 <strong>Quick Sharing Options</strong>: Edited videos can be easily shared across various platforms directly from the app. 🌐</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>🔄 <strong>Limited Video Length</strong>: Primarily tailored for micro videos, which may not be ideal for longer content. ⏳</li>\n<li>🎨 <strong>Sticker and Music Library Variability</strong>: Available sticker and music options may be limited compared to other more advanced apps. 📚</li>\n<li>💾 <strong>Storage Space Usage</strong>: Saving high-quality edited videos might consume considerable storage space on your device. 🗃️</li>\n<li>❗ <strong>Potential for In-App Purchases</strong>: Additional features and premium content may require in-app purchases. 💰</li>\n</ul>\n<p><strong>Price:</strong></p>\n<ul>\n<li>💵 The OneCut app is free to download, with potential in-app purchases for access to exclusive stickers, music, and other advanced features. </li>\n</ul>\n<p>Craft your next video masterpiece with OneCut and experience how a few simple tools can transform ordinary footage into engaging, shareable content. Download now and start adding that personal touch to your video stories!</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-video-newslideshow/53956.html",
+      "icon": "assets/img/apk/icon/com.video.newslideshow.png",
+      "name": "Music Video Maker Magic Effect",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-prominent-aicatch/49088.html",
+      "icon": "assets/img/apk/icon/com.prominent.aicatch.png",
+      "name": "AI Catch: AI Video Generator",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-asianmobile-smartplayer/34766.html",
+      "icon": "assets/img/apk/icon/com.asianmobile.smartplayer.png",
+      "name": "IPTV Player: Smarters Watch TV",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "3.1"
+    },
+    {
+      "link": "/details/halloween-video-maker/34753.html",
+      "icon": "assets/img/apk/icon/halloween.video.maker.png",
+      "name": "Halloween Video Editor 2025",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-cupertinotech-aidancevideo/16075.html",
+      "icon": "assets/img/apk/icon/com.cupertinotech.aidancevideo.png",
+      "name": "AI Dance Video - Photo Dance",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "2.4"
+    },
+    {
+      "link": "/details/com-instagram-basel/15556.html",
+      "icon": "assets/img/apk/icon/com.instagram.basel.png",
+      "name": "Edits, an Instagram app",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/downloader-video-download-free/10303.html",
+      "icon": "assets/img/apk/icon/downloader.video.download.free.png",
+      "name": "Video Downloader & Video Saver",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-renderforest-videomaker/10142.html",
+      "icon": "assets/img/apk/icon/com.renderforest.videomaker.png",
+      "name": "Renderforest Video & Animation",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.5"
+    }
+  ]
+}

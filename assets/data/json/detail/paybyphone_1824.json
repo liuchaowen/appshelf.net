@@ -1,0 +1,111 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.paybyphone.png",
+    "title": "PayByPhone",
+    "ratings": "4",
+    "downloads": "580M",
+    "age": "4+",
+    "download_link": "https://d.apkpure.com/b/APK/com.paybyphone?version=latest"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "PayByPhone"
+    },
+    {
+      "name": "category",
+      "value": "Auto & Vehicles"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "PayByPhone Technologies Inc"
+    },
+    {
+      "name": "Version",
+      "value": "5.10.1.1936"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/gh_nL-JXxY0wStIlztP7Xrs0IKx0b7ljJG_VxYnCkdi5MKzmzugv8cLeL8yB4BfN-lMY",
+    "https://play-lh.googleusercontent.com/25QMrTSaSBTsEUFhwLBkC6axdcP2X6T09YVd06jQb7LCR1CdqNhgWQAuHcEWVut_PQ",
+    "https://play-lh.googleusercontent.com/ZxsH7Ay7c6uww7R6A4N9qBAu-Xz274PjpISGmZndWxH2FKwcwnAguzH_CoGAmzp7uQ",
+    "https://play-lh.googleusercontent.com/T-qlO7w320HzhAtVYfHDGLOeYERaXB0YBZGgHATKaLn646FKLabzi7psa9gnhTmWyXY",
+    "https://play-lh.googleusercontent.com/yqYPFD0nGupRI3HyQAvT10P8ZDmPObR21H6JeK85OhApo0X0M4blBgKd-3buXM46Qg",
+    "https://play-lh.googleusercontent.com/aXCc2pbkfevQ402J6J-M5jkLOFXaLbgB4VUxBriOWOXkJ81yLVk7X9wnS3ctsMXsUQ"
+  ],
+  "app_descript": "<p><strong>Brief:</strong>\nPayByPhone revolutionizes the way you handle parking payments with its seamless app. As a top-tier solution for cashless parking across 400 cities globally, this app lets you find, pay, and extend your parking session from the palm of your hand. Forget the hustle of returning to the meter; with PayByPhone, parking convenience is at your fingertips, available in 12 different languages for your ease.</p>\n<p><strong>📌 Core Features:</strong></p>\n<ul>\n<li><strong>Quick Setup:</strong> Start parking sessions effortlessly by entering a location number—no signup hassle required. 🚘</li>\n<li><strong>Parking Locator:</strong> Integrated maps assist in pinpointing nearby parking facilities where PayByPhone is accepted. 🗺️</li>\n<li><strong>Timely Alerts:</strong> Receive proactive notifications before your parking session is due to expire. ⏰</li>\n<li><strong>Remote Extension:</strong> Add more parking time wherever you are without rushing back to your vehicle. 📲</li>\n</ul>\n<p><strong>👍 Pros:</strong></p>\n<ul>\n<li><strong>Global Reach:</strong> Universally acceptable in over 400 cities, making it an ideal travel companion. 🌍</li>\n<li><strong>Multilingual Interface:</strong> Offers a user-friendly experience in 12 languages catering to a diverse user base. 🈚</li>\n<li><strong>Diverse Payment Options:</strong> Supports multiple payment methods, including credit cards and Apple Pay, providing flexibility. 💳</li>\n<li><strong>No More Coins:</strong> Eliminates the need for carrying change or interacting with parking meters. 💰</li>\n</ul>\n<p><strong>👎 Cons:</strong></p>\n<ul>\n<li><strong>Integration Limitations:</strong> Only applicable in areas where PayByPhone service is available. 📍</li>\n<li><strong>Connectivity Dependency:</strong> Requires stable internet access for full functionality. 🌐</li>\n<li><strong>Payment Method Restrictions:</strong> Limited to the payment methods supported by the app. 💡</li>\n<li><strong>Notification Overreliance:</strong> May place users at risk of parking fines if notifications are overlooked or not delivered. 🔔</li>\n</ul>\n<p><strong>💵 Price:</strong>\nPayByPhone app is free to download, and users pay only for their parking sessions. Rates and transaction fees vary based on local policies and parking regulations.</p>\n<hr/>\n<p>📄 <em>Please note: No community section is required since PayByPhone is not a game app.</em></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-carmax-carmax/16741.html",
+      "icon": "assets/img/apk/icon/com.carmax.carmax.png",
+      "name": "CarMax: Used Cars for Sale",
+      "categoryLink": "/categories/auto.vehicles/2",
+      "category": "Auto & Vehicles",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-maps-radar-trafficappfordriving/10136.html",
+      "icon": "assets/img/apk/icon/com.maps.radar.trafficappfordriving.png",
+      "name": "Driving Instructor-Theory Test",
+      "categoryLink": "/categories/auto.vehicles/2",
+      "category": "Auto & Vehicles",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/RTO-Vehicle-Information/4502.html",
+      "icon": "assets/img/apk/icon/com.vehicle.rto.vahan.status.information.register.png",
+      "name": "RTO Vehicle Information",
+      "categoryLink": "/categories/auto.vehicles/2",
+      "category": "Auto & Vehicles",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/mileage-tracker-by-driversnote/1833.html",
+      "icon": "assets/img/apk/icon/com.driversnote.driversnote.png",
+      "name": "Mileage Tracker by Driversnote",
+      "categoryLink": "/categories/auto.vehicles/2",
+      "category": "Auto & Vehicles",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/dmv-permit-practice-test/1832.html",
+      "icon": "assets/img/apk/icon/com.driveus.dmvapp.png",
+      "name": "DMV Permit Practice test",
+      "categoryLink": "/categories/auto.vehicles/2",
+      "category": "Auto & Vehicles",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/dmv-practice-test/1831.html",
+      "icon": "assets/img/apk/icon/com.dmvpracticetest.android.png",
+      "name": "DMV Practice Test",
+      "categoryLink": "/categories/auto.vehicles/2",
+      "category": "Auto & Vehicles",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/repairsolutions2/1830.html",
+      "icon": "assets/img/apk/icon/com.innova.rs2.png",
+      "name": "RepairSolutions2",
+      "categoryLink": "/categories/auto.vehicles/2",
+      "category": "Auto & Vehicles",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/shell-us-canada/1829.html",
+      "icon": "assets/img/apk/icon/com.shell.sitibv.motorist.america.png",
+      "name": "Shell US & Canada",
+      "categoryLink": "/categories/auto.vehicles/2",
+      "category": "Auto & Vehicles",
+      "rating": "4.6"
+    }
+  ]
+}

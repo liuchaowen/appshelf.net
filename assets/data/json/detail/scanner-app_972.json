@@ -1,0 +1,112 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.bpmobile.iscanner.free.png",
+    "title": "Scanner App",
+    "ratings": "4.6",
+    "downloads": "130M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Scanner App"
+    },
+    {
+      "name": "category",
+      "value": "Business"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "BPMobile"
+    },
+    {
+      "name": "Version",
+      "value": "5.2.8"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/l0ZpezPGmMP6LGPpXlCFomtSmxNJoyFXHklqWDNjacpSTP-I966yzM5d6NWn-WR4aJM",
+    "https://play-lh.googleusercontent.com/uy1J7Hz9kHns_wu6sQHWeZGYxk7rp8VMZTzsLzwjy8NG4n5yr6AzDyG3QJkHGkOAzKk",
+    "https://play-lh.googleusercontent.com/FeVL4x7srCvKgMqWDdHNn41BKEtaNQ-UXWPTekt3IUvgKpvHMTk4cpJMW8zCd5Fmvao",
+    "https://play-lh.googleusercontent.com/CQ5x3AmCxnAdvcRr6bxfLOUVvxt4_b8zkGLC-M8qdkBU385kS58tCyEN5XDbs95vm1AJ",
+    "https://play-lh.googleusercontent.com/J4Mw2tJHAjGgJYCLQskkr09vFMYdoO1BdjuBIWFXtLh20bjcnB9oZ6mlnpVOpUI2vbU",
+    "https://play-lh.googleusercontent.com/ShxsbBUAE6dpx0UIZp8OCF7uVqbaOL8R-41-brIUGw2lCXgUJoHGTKe0Z_-GKHN4G8Gy",
+    "https://play-lh.googleusercontent.com/0_vDUPLOxFl90TiInwkNRdGTz6qbTzE08VI4XIcxER6I0_bRtcK_rvUVmP4Rd0y0n4I",
+    "https://play-lh.googleusercontent.com/nXdZiApk_pvI1OohuYi_CLFl7CvFz9wud9xLhoqpsdhQGWqThpLo5uKg7XLWE7vB3uRP"
+  ],
+  "app_descript": "<p><strong>Scanner App</strong></p>\n<p>Transform your device into a powerful, portable document scanner with the Scanner App. Designed to convert physical documents into digital ones with just a few taps, this app is a versatile tool for anyone looking to digitize and manage their paperwork with efficiency and security.</p>\n<p><strong>📌 Core Features</strong></p>\n<ul>\n<li><strong>Document Scanning:</strong> Capture high-quality scans of documents, ID cards, receipts, and more using your device's camera or import from the Gallery 📷.</li>\n<li><strong>Electronic Signature:</strong> Efficiently sign and send documents directly from the app with the integrated e-signature feature ✍️.</li>\n<li><strong>OCR Text Recognition:</strong> Convert scanned images to editable text with advanced OCR technology that supports multiple languages 🔍.</li>\n<li><strong>PIN Protection:</strong> Secure your sensitive documents with a PIN to prevent unauthorized access 🔐.</li>\n<li><strong>Advanced PDF Scanner:</strong> Create and edit PDFs with options to scan as JPEGs, in grayscale, or in full color. Enhanced image editing helps perfect scans 🔖.</li>\n</ul>\n<p><strong>👍 Pros</strong></p>\n<ul>\n<li><strong>Versatility:</strong> Scans a multitude of document types, making it suitable for professional and personal use 🌟.</li>\n<li><strong>Ease of Use:</strong> Smart features like automatic shutter and border detection simplify the scanning process 💡.</li>\n<li><strong>Editing Capabilities:</strong> In-app document editing, including signing, page additions, and text edits, boosts productivity ✏️.</li>\n<li><strong>File Management:</strong> Organize, lock, and share your scanned documents effortlessly 📂.</li>\n<li><strong>Local Storage:</strong> Ensures privacy as all documents are stored locally and are inaccessible to third parties 👤.</li>\n</ul>\n<p><strong>👎 Cons</strong></p>\n<ul>\n<li><strong>Complexity for New Users:</strong> First-time users may need time to familiarize themselves with the app's many features 🤔.</li>\n<li><strong>Performance Relies on Device:</strong> Scan quality is dependent on your device's camera resolution 📸.</li>\n<li><strong>Space Management:</strong> The app may consume considerable storage space on your device with extensive use 💾.</li>\n<li><strong>Potential for In-app Purchases:</strong> Some advanced features may not be free and require in-app purchases 💰.</li>\n</ul>\n<p><strong>💵 Price</strong></p>\n<p>The Scanner App can be downloaded for free, and it offers core functionalities without charge. However, access to premium features may require in-app purchases. Exact pricing details are outlined within the app.</p>\n<hr/>\n<p>Experience heightened productivity and document management convenience with Scanner App—your on-the-go scanning solution. If you have any questions or need support, reach out to the developers at <a href=\"http://bpmob.com/scannerfree/android/support\" rel=\"noopener noreferrer\" target=\"_blank\">bpmob's support page</a>.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-kj2147575505-app/16858.html",
+      "icon": "assets/img/apk/icon/com.kj2147575505.app.png",
+      "name": "Alpha Omega Consulting",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-hypertide-petscan-v8m/15982.html",
+      "icon": "assets/img/apk/icon/com.hypertide.petscan.v8m.png",
+      "name": "PetScan",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "2"
+    },
+    {
+      "link": "/details/com-animalid-scanner/15981.html",
+      "icon": "assets/img/apk/icon/com.animalid.scanner.png",
+      "name": "Pet Scanner",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-webrange-sendoff-app/15417.html",
+      "icon": "assets/img/apk/icon/com.webrange.sendoff.app.png",
+      "name": "Sendoff Funeral App",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-dyve-countthings/10295.html",
+      "icon": "assets/img/apk/icon/com.dyve.countthings.png",
+      "name": "CountThings from Photos",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "3"
+    },
+    {
+      "link": "/details/com-countthis-count-things-counting-template-counter/5097.html",
+      "icon": "assets/img/apk/icon/com.countthis.count.things.counting.template.counter.png",
+      "name": "Count This・Counting Things App",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-aadi-personalitytraittest/4991.html",
+      "icon": "assets/img/apk/icon/com.aadi.personalitytraittest.png",
+      "name": "Personality Trait Test",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/GlowRoad/4569.html",
+      "icon": "assets/img/apk/icon/com.localqueen.png",
+      "name": "GlowRoad",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.6"
+    }
+  ]
+}

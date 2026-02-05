@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/com.gotomeeting.png",
+    "title": "GoToMeeting",
+    "ratings": "4.4",
+    "downloads": "970M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "GoToMeeting"
+    },
+    {
+      "name": "category",
+      "value": "Business"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "LogMeIn, Inc."
+    },
+    {
+      "name": "Version",
+      "value": "3.0.2.1"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h3>GoToMeeting</h3>\n<p><strong>Brief</strong>:\nGoToMeeting offers a robust conferencing solution that connects you with colleagues and clients globally, whether you're new to the service or already using it in-office. This app facilitates meetings without the need for sign-up, a credit card, or a heavy data footprint - all from the convenience of your Android device.</p>\n<p><strong>Core Features</strong>:</p>\n<ul>\n<li>📲 <strong>Effortless Meeting Accessibility</strong>: Easily join or host meetings from your Android device.</li>\n<li>🎧 <strong>High-Quality Audio</strong>: Crystal clear, full band VoIP audio makes for effective communication.</li>\n<li>🎥 <strong>Seamless Video Conferencing</strong>: Engage in face-to-face interactions, no matter the location.</li>\n<li>🖥️ <strong>Screen Sharing Capability</strong>: Showcase your entire device screen to all meeting participants.</li>\n<li>✋ <strong>Interactive Control Hand-off</strong>: Pass presentation control to others for smooth collaboration. 📅</li>\n</ul>\n<p><strong>Pros</strong>:</p>\n<ul>\n<li>👍 <strong>Simple Joining Process</strong>: No sign-up required to join meetings.</li>\n<li>👍 <strong>Free Hosting</strong>: Host meetings conveniently without entering payment details.</li>\n<li>👍 <strong>Calendar Integration</strong>: Sync your calendar and join meetings with a tap.</li>\n<li>👍 <strong>Data Efficiency</strong>: Utilize 'Commuter Mode' to join meetings with 90% less data usage.</li>\n<li>👍 <strong>Meeting Alerts</strong>: Receive notifications for upcoming meetings.</li>\n</ul>\n<p><strong>Cons</strong>:</p>\n<ul>\n<li>👎 <strong>Device Compatibility</strong>: May vary, potentially affecting user experience.</li>\n<li>👎 <strong>Data Usage</strong>: Despite Commuter Mode, data is still used, which might be a concern for limited data plans.</li>\n<li>👎 <strong>Screen Sharing Limitations</strong>: On smaller devices, screen sharing could be less impactful.</li>\n<li>👎 <strong>VoIP Dependability</strong>: Relies on a stable internet connection for clear audio.</li>\n<li>👎 <strong>Navigation Learning Curve</strong>: New users may need time to learn the app's features.</li>\n</ul>\n<p><strong>Price</strong>:</p>\n<ul>\n<li>💵 The app is free to download, with optional in-app purchases for additional features.</li>\n</ul>\n<p><a href=\"https://www.gotomeeting.com/meeting/online-meeting-support\" rel=\"noopener noreferrer\" target=\"_blank\">Visit GoToMeeting Support</a></p>\n<p>Join the GoToMeeting beta program for early access to features: <a href=\"https://play.google.com/apps/testing/com.gotomeeting\" rel=\"noopener noreferrer\" target=\"_blank\">Beta Program</a></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-kj2147575505-app/16858.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.kj2147575505.app.png",
+      "name": "Alpha Omega Consulting",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-hypertide-petscan-v8m/15982.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.hypertide.petscan.v8m.png",
+      "name": "PetScan",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "2"
+    },
+    {
+      "link": "/details/com-animalid-scanner/15981.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.animalid.scanner.png",
+      "name": "Pet Scanner",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-webrange-sendoff-app/15417.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.webrange.sendoff.app.png",
+      "name": "Sendoff Funeral App",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-dyve-countthings/10295.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.dyve.countthings.png",
+      "name": "CountThings from Photos",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "3"
+    },
+    {
+      "link": "/details/com-countthis-count-things-counting-template-counter/5097.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.countthis.count.things.counting.template.counter.png",
+      "name": "Count This・Counting Things App",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-aadi-personalitytraittest/4991.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.aadi.personalitytraittest.png",
+      "name": "Personality Trait Test",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/GlowRoad/4569.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.localqueen.png",
+      "name": "GlowRoad",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.6"
+    }
+  ]
+}

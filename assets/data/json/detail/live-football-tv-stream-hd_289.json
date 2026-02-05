@@ -1,0 +1,106 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.livefootball.mrsports.tvhd.png",
+    "title": "Live Football Tv Stream HD",
+    "ratings": "4.2",
+    "downloads": "70M",
+    "age": "4+",
+    "download_link": "https://d.apkpure.com/b/APK/com.livefootball.mrsports.tvhd?version=latest"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Live Football Tv Stream HD"
+    },
+    {
+      "name": "category",
+      "value": "Sport"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "MR-Sports"
+    },
+    {
+      "name": "Version",
+      "value": "1.4"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h3>Brief</h3>\n<p><strong>Live Football TV Stream HD</strong> is your go-to app for streaming high-definition football matches directly on your mobile device. Catering to sports enthusiasts, this app presents a variety of sports channels, ensuring you never miss a match. With user-friendly features designed for different internet speeds, the content is frequently updated for a seamless viewing experience.</p>\n<h3>Core Features</h3>\n<ul>\n<li>📡 <strong>HD Streaming</strong>: Watch your favorite football matches in clear, high-definition quality. 📺</li>\n<li>🌐 <strong>Quality Selection</strong>: Choose from HD or lower quality streams to match your internet connection. 🔽</li>\n<li>🔄 <strong>Regular Updates</strong>: Fresh content to keep the streams up-to-date with the latest matches. ⏱️</li>\n<li>🛠️ <strong>Stability</strong>: Experience smooth and stable streaming without frustrating interruptions. 🌪️</li>\n<li>🔌 <strong>No Extra Plugins</strong>: Stream without the hassle of downloading additional plugins or software. ✅</li>\n</ul>\n<h3>Pros</h3>\n<ul>\n<li>👍 High-quality video streams for an enhanced viewing experience. 🏟️</li>\n<li>👍 Agile performance across different internet speeds thanks to adjustable stream quality. 🚀</li>\n<li>👍 Continuous updates to maintain a roster of current sports channels and events. 🔄</li>\n<li>👍 User-friendly interface without the need for unnecessary extra installations. 🎮</li>\n</ul>\n<h3>Cons</h3>\n<ul>\n<li>👎 May be restricted to certain regions or subject to broadcasting rights. 🌍</li>\n<li>👎 Heavy data usage could be a concern for HD streams if not on Wi-Fi. 📶</li>\n<li>👎 Potential for in-app advertisements disrupting the viewing experience. 🚫</li>\n<li>👎 Dependent on the quality of your internet connection, which may affect streaming. 🕸️</li>\n</ul>\n<h3>Price</h3>\n<ul>\n<li>💵 <strong>Live Football TV Stream HD</strong> offers a dynamic streaming service that is completely free to download and use, although it may feature in-app advertisements. There are no mentions of in-app purchases, making it accessible for everyone without upfront costs. 🆓</li>\n</ul>\n<h3>Community</h3>\n<p>Unfortunately, there is no available data for the community aspect of <strong>Live Football TV Stream HD</strong> at this time.</p>\n<p>Download <strong>Live Football TV Stream HD</strong> now and transform your device into a portable football television! ⚽📲</p>",
+  "related_apps": [
+    {
+      "link": "/details/Live-Cricket-TV-WorldCup-2023/4582.html",
+      "icon": "assets/img/apk/icon/com.cricketworldcup.livescore.liveline.png",
+      "name": "Live Cricket TV WorldCup 2023",
+      "categoryLink": "/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/Rooter/4571.html",
+      "icon": "assets/img/apk/icon/com.threesixteen.app.png",
+      "name": "Rooter",
+      "categoryLink": "/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/Supercars-App/4531.html",
+      "icon": "assets/img/apk/icon/com.supercars.app.png",
+      "name": "Supercars App",
+      "categoryLink": "/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/sportsnet/293.html",
+      "icon": "assets/img/apk/icon/com.rogers.sportsnet.sportsnet.png",
+      "name": "Sportsnet",
+      "categoryLink": "/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/nhl/292.html",
+      "icon": "assets/img/apk/icon/com.nhl.gc1112.free.png",
+      "name": "NHL",
+      "categoryLink": "/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/yahoo-fantasy-sports/291.html",
+      "icon": "assets/img/apk/icon/com.yahoo.mobile.client.android.fantasyfootball.png",
+      "name": "Yahoo Fantasy Sports",
+      "categoryLink": "/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/nfl-fantasy-football/290.html",
+      "icon": "assets/img/apk/icon/com.nfl.fantasy.core.android.png",
+      "name": "NFL Fantasy Football",
+      "categoryLink": "/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/live-football-tv-stream-hd/289.html",
+      "icon": "assets/img/apk/icon/com.livefootball.mrsports.tvhd.png",
+      "name": "Live Football Tv Stream HD",
+      "categoryLink": "/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.2"
+    }
+  ]
+}

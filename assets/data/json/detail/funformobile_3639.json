@@ -1,0 +1,109 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/funformobile.png",
+    "title": "FunForMobile",
+    "ratings": "4.7",
+    "downloads": "700M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "FunForMobile"
+    },
+    {
+      "name": "category",
+      "value": "Social"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "fun for mobile inc."
+    },
+    {
+      "name": "Version",
+      "value": "3.19"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/XVrOaCsV5TgFv-RsoBPbsvtHLb182pTihvAJgrONKC1tAwZvOyAI0wvGigjPk_fiLts",
+    "https://play-lh.googleusercontent.com/RLG6763dkq5xDHG_bZUCjb6PXrmbbpvmr2DmXi3vWhAIk6UX8FehJgm-34ry4p9QKA",
+    "https://play-lh.googleusercontent.com/i6wcrO8R1DuPbNnB4C3kAGDAE5Z55v_NboP0eKSI4t1x9XOaqqSioPbWNPAhn6SCgXI",
+    "https://play-lh.googleusercontent.com/STM5zO_AMHFCZ9Hoaj9kLqtxnXFNy4ZhhhNcwC4gfFb3J-Dp3hUMvATmffkRD57u8VI",
+    "https://play-lh.googleusercontent.com/AqJJcpAfgAJFQUgx1fWDmaM2DpsCFyNkN9Yz_tYgQIURxf0rYF5EGfQJAyzBrxgqKF8"
+  ],
+  "app_descript": "<h3>FunForMobile: Connect, Customize, and Share Your Media with Ease</h3>\n<p><strong>Brief:</strong>\nFunForMobile is a vibrant hub for personalizing your mobile experience and engaging with an active user community. Whether you're looking to share your personal photos and videos, create custom ringtones from your music library or voice recordings, or just want to enjoy a plethora of multimedia content like GIF animations, wallpapers, and video libraries, FunForMobile is your go-to app. The platform offers a range of features aimed at enhancing your mobile interactions, including greeting cards, customizable menus, and an innovative popup window for private conversations.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🎶 <strong>Custom Ringtone Maker:</strong> Craft your unique ringtones from your music files or voice recordings. 📌</li>\n<li>💌 <strong>Greeting Cards:</strong> Send personalized greeting cards for any occasion, expressing your emotions creatively. 📌</li>\n<li>💃 <strong>GIF Play &amp; Download:</strong> Engage in the fun of playing and downloading a diverse selection of GIF animations. 📌</li>\n<li>📤 <strong>Media Uploads:</strong> Share your ringtones, photos, and sounds with the FunForMobile community. 📌</li>\n<li>💬 <strong>Chatting &amp; Customization:</strong> Communicate with other members and customize your talk messages for a more personal touch. 📌</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 <strong>Extensive Customization:</strong> Offers a deep level of personalization for various features such as ringtones and menus. 👍</li>\n<li>👍 <strong>User-Friendly Interface:</strong> Designed with a smarter popup window, making access to private information and chats seamless. 👍</li>\n<li>👍 <strong>Social Interaction:</strong> A platform to connect with others and share media, enhancing community feel. 👍</li>\n<li>👍 <strong>Free Content:</strong> A large library of free ringtones, wallpapers, and videos to download and personalize your device. 👍</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 <strong>Privacy Concerns:</strong> Shared media might raise privacy issues if not carefully managed. 👎</li>\n<li>👎 <strong>Interface Overload:</strong> Abundance of features might overwhelm new users. 👎</li>\n<li>👎 <strong>Potential for Spam:</strong> The social aspect could lead to unwanted messages or spam. 👎</li>\n<li>👎 <strong>Feature Redundancy:</strong> Some features may replicate existing functionalities on standard smartphones. 👎</li>\n</ul>\n<p><strong>Price:</strong></p>\n<ul>\n<li>💵 FunForMobile is free to download and use. However, always check for any in-app purchases or additional costs for premium content. 💵</li>\n</ul>\n<p>Transform the way you customize and interact with your mobile device today with FunForMobile. Whether you're in the mood to share, create, or just explore, this app empowers you to do more with your phone, your way.</p>",
+  "related_apps": [
+    {
+      "link": "/details/jp-cocone-livly/54171.html",
+      "icon": "assets/img/apk/icon/jp.cocone.livly.png",
+      "name": "Livly Island - Adopt Cute Pets",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-daily-festival-photos/39721.html",
+      "icon": "assets/img/apk/icon/com.daily.festival.photos.png",
+      "name": "Daily Festival Photo",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/tv-medal-recorder/39573.html",
+      "icon": "assets/img/apk/icon/tv.medal.recorder.png",
+      "name": "Medal - Gaming Clips",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-ptanktechnology-reincornation/39352.html",
+      "icon": "assets/img/apk/icon/com.ptanktechnology.reincornation.png",
+      "name": "Reincarnation",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-tiktok-lite-go/15392.html",
+      "icon": "assets/img/apk/icon/com.tiktok.lite.go.png",
+      "name": "TikTok Lite - Faster TikTok",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-petmeetly/15275.html",
+      "icon": "assets/img/apk/icon/com.petmeetly.png",
+      "name": "Petmeetly - Pet's Match Finder",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-xingin-xhs/14603.html",
+      "icon": "assets/img/apk/icon/com.xingin.xhs.png",
+      "name": "REDnote—小红书国际版",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-stdev-dissordap/10395.html",
+      "icon": "assets/img/apk/icon/com.stdev.dissordap.png",
+      "name": "Vote Social - Photo Voting VS",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "3.8"
+    }
+  ]
+}

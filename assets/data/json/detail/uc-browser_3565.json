@@ -1,0 +1,109 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/uc-browser.png",
+    "title": "UC Browser",
+    "ratings": "4.9",
+    "downloads": "20M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "UC Browser"
+    },
+    {
+      "name": "category",
+      "value": "Communication"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "UCWeb Inc."
+    },
+    {
+      "name": "Version",
+      "value": "12.13.0.1207"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/C-zaKXPB7SZw2QsizJKedgbnQbrYtdGK_6JZ34lrga731PqZU_esjgqIXwtZTm8G8Q",
+    "https://play-lh.googleusercontent.com/b7FK1Vzb8MF8ACml-805qfIBjn_9kUnMkYs2ydEAucds6DwRzeeKDjPhWqEJrpwh_A",
+    "https://play-lh.googleusercontent.com/gjwW7eTuX8jJPxQbdLcgd67uPpDu4Jx6x4vGsWG6h-7W_54kFuqdgfiFJNuL6xri-jlN",
+    "https://play-lh.googleusercontent.com/lbN43BPz-3GYhJQ_wyf2Eao5EFAy7acR-aAO4zAQkaXusCfSMLssnvSECbWYVDgmD6Qq",
+    "https://play-lh.googleusercontent.com/2t410jToo23GcwIfir_7odFyqRQJaRb_X0VVgJVuSD-CXyYAYVzhnTX40wTs9mMPsEU"
+  ],
+  "app_descript": "<p><strong>UC Browser</strong></p>\n<p>Experience an enhanced web browsing experience with UC Browser, a mobile internet browser known for its speed, efficiency, and unique features tailored for smartphone users. Specially optimized for mobile devices, UC Browser brings you a rich and fluid browsing environment.</p>\n<p><strong>Core Features</strong> 🌐</p>\n<ul>\n<li><strong>Upgraded Web Browsing Experience</strong>: Leverages the U4 engine to boost web connectivity, security, and storage management by 20% over previous versions. 🚀</li>\n<li><strong>Fast Download</strong>: Download videos swiftly with the app's capability to resume downloads after interruptions and experience faster completion times. ⏬</li>\n<li><strong>Small Window Mode</strong>: Enjoy videos in a movable pop-up window while multitasking on your device without any interruption. 🖼️</li>\n<li><strong>Background Video Play</strong>: Listen to your videos in the background while using other apps with just a tap. 🎧</li>\n<li><strong>Data Saving</strong>: Compresses data to accelerate navigation and reduce cellular data usage significantly. 💾</li>\n<li><strong>Ad Block</strong>: Block various types of advertisements to enjoy a cleaner and faster browsing experience. 🛑</li>\n</ul>\n<p><strong>Pros</strong> 👍</p>\n<ul>\n<li><strong>Enhanced Video Experience</strong>: Delivers an excellent video watching experience through its self-developed video player and technology. 🎥</li>\n<li><strong>Incognito Mode</strong>: Provides private browsing without saving history, cookies, or caches. 🕵️‍♂️</li>\n<li><strong>Facebook Mode</strong>: Optimizes speed for Facebook, ensuring a smooth experience regardless of network conditions. 📘</li>\n<li><strong>Night Mode</strong>: Protects eyes in low light conditions, making reading at night more comfortable. 🌙</li>\n</ul>\n<p><strong>Cons</strong> 👎</p>\n<ul>\n<li><strong>Privacy Concerns</strong>: Some users may have reservations about data security and privacy when using third-party browsers. 🔒</li>\n<li><strong>Potential Bloat</strong>: With many features, the app might consume more resources, potentially affecting performance on older devices. 📱</li>\n<li><strong>Ad Blocking Limitations</strong>: Ad-blocking might not be effective on all types of ads or websites. 🏳️‍🌈</li>\n<li><strong>Region Specific</strong>: Some features might be optimized for or limited to specific regions or networks. 🌍</li>\n</ul>\n<p><strong>Price</strong> 💵\nUC Browser is free to download and use, offering most of its features without additional cost. It may also contain in-app advertisements or offers to enhance the browsing experience.</p>\n<p><strong>Community</strong> 🕸️</p>\n<ul>\n<li><strong>Facebook</strong>: <a href=\"https://www.facebook.com/UCBrowser\" rel=\"noopener noreferrer\" target=\"_blank\">UC Browser</a></li>\n<li><strong>Twitter</strong>: <a href=\"https://twitter.com/UCBrowser\" rel=\"noopener noreferrer\" target=\"_blank\">UC Browser</a></li>\n<li><strong>YouTube</strong>: <a href=\"http://www.youtube.com/ucwebvideo\" rel=\"noopener noreferrer\" target=\"_blank\">UCWeb Video</a></li>\n</ul>\n<p>With accolades like Editor’s Choice 2018 from the OPPO App Store and the Gold Mi Award 2018 from the Xiaomi App Store, UC Browser has established itself as a credible choice among mobile web browsers. Enjoy a refined browsing experience that adapts to your lifestyle, complemented by a suite of features designed for optimized internet use.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-sst-parrot-photo-frame/53901.html",
+      "icon": "assets/img/apk/icon/com.sst.parrot.photo.frame.png",
+      "name": "Bird Photo Frame",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-new_year-stickers-birthday/39669.html",
+      "icon": "assets/img/apk/icon/com.new_year.stickers.birthday.png",
+      "name": "Happy New Year Stickers 2026",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/org-watchduty-app/14524.html",
+      "icon": "assets/img/apk/icon/org.watchduty.app.png",
+      "name": "Watch Duty (Wildfire)",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-snowcorp-stickerly-android/14453.html",
+      "icon": "assets/img/apk/icon/com.snowcorp.stickerly.android.png",
+      "name": "Sticker.ly - Sticker Maker",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-Happynewyearphotoframe2020/14421.html",
+      "icon": "assets/img/apk/icon/com.Happynewyearphotoframe2020.png",
+      "name": "New Year Video Maker 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-intira-new-year-photo-frame-new/14342.html",
+      "icon": "assets/img/apk/icon/com.intira.new.year.photo.frame.new.png",
+      "name": "New year photo frame 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-christmas-photo-frame-b-new-free/14203.html",
+      "icon": "assets/img/apk/icon/com.christmas.photo.frame.b.new.free.png",
+      "name": "Christmas photo frame 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/ma-apps-face_ml/14137.html",
+      "icon": "assets/img/apk/icon/ma.apps.face_ml.png",
+      "name": "Face reader scanner - analyser",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "3.3"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/marcostudios.kissingtest.png",
+    "title": "The Kissing Test - Prank Game",
+    "ratings": "3.3",
+    "downloads": "40M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "The Kissing Test - Prank Game"
+    },
+    {
+      "name": "category",
+      "value": "Entertainment"
+    },
+    {
+      "name": "Price",
+      "value": "0"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "KDR Games"
+    },
+    {
+      "name": "Version",
+      "value": "4.4"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/yp8QpBKKjsY0OS-eFTdln0vTf9TLU4xMIbN0GA7b-3HgPN10F5ZBTMRgXa6UFkqllAc",
+    "https://play-lh.googleusercontent.com/B7--h3Z9H5Gab-dQVyqADGL9fC4I1XUdEO4TxRcqX70ANvJ0RTN0EakTx-9mIsZu9rQ",
+    "https://play-lh.googleusercontent.com/NkRYpY2QNJOCbrw79Hn0IbsIwa6277W-rIRVflmF5ATW9QR2zd1_yhMYODxvGu1ttgA"
+  ],
+  "app_descript": "<h1>The Kissing Test - Prank Game</h1>\n<h2>Brief</h2>\n<p>The Kissing Test - Prank Game is an entertaining prank application designed for users who want to have some fun and test their kissing skills in a light-hearted way. Utilizing a unique numerical algorithm, this app serves purely for amusement, allowing friends and significant others to engage in playful challenges.</p>\n<h2>Core Features</h2>\n<ul>\n<li><strong>Kissing Simulator</strong>: Simulate a kiss on the screen and test your abilities! 💋</li>\n<li><strong>Fun Results</strong>: After kissing the red lips for 3 seconds, receive a score reflecting your kissing prowess. 📊</li>\n<li><strong>Prank Friends</strong>: Challenge your friends to see who can score the highest! 🤪</li>\n<li><strong>User-Friendly Interface</strong>: Simple and intuitive design for an effortless experience. 🖱️</li>\n<li><strong>Pure Entertainment</strong>: Made strictly for fun without any serious implications. 🎉</li>\n</ul>\n<h2>Pros</h2>\n<ul>\n<li>👍 Great for parties and social gatherings.</li>\n<li>👍 Easy to use, perfect even for non-tech savvy individuals.</li>\n<li>👍 Provides laughs and entertainment for all ages.</li>\n<li>👍 No in-app purchases or hidden costs; it's completely free!</li>\n<li>👍 Lightweight app, won't take up much space on your device.</li>\n</ul>\n<h2>Cons</h2>\n<ul>\n<li>👎 Results are algorithm-based and not scientifically valid.</li>\n<li>👎 Limited gameplay; may lose appeal after a few tries.</li>\n<li>👎 Lacks varied features beyond the basic kissing test.</li>\n<li>👎 May not appeal to serious users or those looking for a genuine skill evaluation.</li>\n<li>👎 Possible risk of misuse if used inappropriately as a prank.</li>\n</ul>\n<h2>Price</h2>\n<p>💵 Free to download, with no in-app purchases.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-moonphaseapps-astro/54410.html",
+      "icon": "assets/img/apk/icon/com.moonphaseapps.astro.png",
+      "name": "AstroBella Astrology & Healing",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-girlmaker-create-avatar-creator/54356.html",
+      "icon": "assets/img/apk/icon/com.girlmaker.create.avatar.creator.png",
+      "name": "PFP Girl: Avatar Maker",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-photocrop-challengefilter/54321.html",
+      "icon": "assets/img/apk/icon/com.photocrop.challengefilter.png",
+      "name": "Photo Crop Challenge Filter",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-photo-cropfilter-challenge/54315.html",
+      "icon": "assets/img/apk/icon/com.photo.cropfilter.challenge.png",
+      "name": "Photo Crop Challenge Video",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/vyten-colormatrix/54297.html",
+      "icon": "assets/img/apk/icon/vyten.colormatrix.png",
+      "name": "The Personality Color Matrix",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-truelove-tester-love/54289.html",
+      "icon": "assets/img/apk/icon/com.truelove.tester.love.png",
+      "name": "True Love Tester",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-lifeexpectancycalculator/54231.html",
+      "icon": "assets/img/apk/icon/com.lifeexpectancycalculator.png",
+      "name": "Life Expectancy Calculator",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-insect-filters-funny-prank-bug-filter-face-camera/54212.html",
+      "icon": "assets/img/apk/icon/com.insect.filters.funny.prank.bug.filter.face.camera.png",
+      "name": "Bugzz: Insect Prank Filters",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4"
+    }
+  ]
+}

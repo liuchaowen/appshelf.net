@@ -1,0 +1,106 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.fromthenephothetovt.png",
+    "title": "Share phone it",
+    "ratings": "4.2",
+    "downloads": "450M",
+    "age": "4+",
+    "download_link": "https://d.apkpure.com/b/APK/com.fromthenephothetovt?version=latest"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Share phone it"
+    },
+    {
+      "name": "category",
+      "value": "House & Home"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Dimitrios Patsiogiorgos"
+    },
+    {
+      "name": "Version",
+      "value": "1.0.0"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>App Name</strong>: Share phone it</p>\n<p><strong>Package Name</strong>: com.fromthenephothetovt</p>\n<h3>Brief:</h3>\n<p>Experience high-quality smartphone mirroring on your TV with \"Share phone it.\" This app enhances your viewing pleasure by effortlessly casting your mobile device's content, including videos, music, and photos, onto a larger TV screen. Dive into a big-screen adventure and elevate your multimedia experiences right from the comfort of your sofa.</p>\n<h3>Core Features:</h3>\n<ul>\n<li>🎨 <strong>Engaging User Interface</strong>: Offers amazing animation and user-friendly graphics for an immersive experience.</li>\n<li>📺 <strong>Screen Mirroring</strong>: Easily mirror your smartphone or tablet's screen on your smart TV in high quality.</li>\n<li>🎞️ <strong>Media Sharing</strong>: Play videos, music, and display photos on your big TV screen.</li>\n<li>📲 <strong>Simple Connectivity</strong>: Hassle-free connection process to link your phone to the TV via the app.</li>\n</ul>\n<h3>Pros:</h3>\n<ul>\n<li>👌 <strong>User-Friendly</strong>: Designed with simplicity in mind, ensuring a seamless setup and usage.</li>\n<li>📈 <strong>Enhanced Viewing</strong>: Provides a superior screen sharing experience that amplifies the fun of watching multimedia content.</li>\n<li>🛠️ <strong>Versatile Utility</strong>: Perfect for presentations, gaming, or enjoying your favorite media on a bigger screen.</li>\n<li>🔄 <strong>Quick Share</strong>: Immediate streaming of movies from phone to TV without intricate processes.</li>\n</ul>\n<h3>Cons:</h3>\n<ul>\n<li>👀 <strong>Device Compatibility</strong>: May have varying performance based on different smart TV models and brands.</li>\n<li>📶 <strong>Network Dependence</strong>: Requires a stable Wi-Fi connection for uninterrupted mirroring.</li>\n<li>🔋 <strong>Battery Usage</strong>: Screen mirroring can consume significant battery life on your mobile device.</li>\n<li>🧱 <strong>Potential Delays</strong>: Some users might experience a lag between audio and video feeds depending on their Wi-Fi strength.</li>\n</ul>\n<h3>Price:</h3>\n<p>💵 \"Share phone it\" is available for download, and users can revel in the convenience of device mirroring at no initial cost. There could be in-app purchases for additional features, although pricing details are unspecified.</p>\n<h3>Community:</h3>\n<p>As a tool designed to optimize your multimedia experience, \"Share phone it\" does not have a game-specific community aspect included.</p>\n<hr/>\n<p>Enjoy a day filled with smooth media display and effortless casting by downloading \"Share phone it\" now. Give your content the big screen treatment it deserves!</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-trulia-android-rentals/14398.html",
+      "icon": "assets/img/apk/icon/com.trulia.android.rentals.png",
+      "name": "Trulia Rent Apartments & Homes",
+      "categoryLink": "/categories/house.home/13",
+      "category": "House & Home",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/tenantapp-properties-for-rent/1394.html",
+      "icon": "assets/img/apk/icon/com.ire.tenantapp.png",
+      "name": "TenantApp Properties For Rent",
+      "categoryLink": "/categories/house.home/13",
+      "category": "House & Home",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/duproprio/1393.html",
+      "icon": "assets/img/apk/icon/com.duproprio.app.png",
+      "name": "DuProprio",
+      "categoryLink": "/categories/house.home/13",
+      "category": "House & Home",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/prime-wire-and-cable/1392.html",
+      "icon": "assets/img/apk/icon/com.prime.on.png",
+      "name": "PRIME Wire and Cable",
+      "categoryLink": "/categories/house.home/13",
+      "category": "House & Home",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/zolo/1391.html",
+      "icon": "assets/img/apk/icon/com.ols.zolo.png",
+      "name": "Zolo",
+      "categoryLink": "/categories/house.home/13",
+      "category": "House & Home",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/mysmarte/1390.html",
+      "icon": "assets/img/apk/icon/io.eliq.e.png",
+      "name": "MySmartE",
+      "categoryLink": "/categories/house.home/13",
+      "category": "House & Home",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/universal-smart-tv-remote-ctrl/1389.html",
+      "icon": "assets/img/apk/icon/com.fineart.universal.tv.remote.control.png",
+      "name": "Universal Smart Tv Remote Ctrl",
+      "categoryLink": "/categories/house.home/13",
+      "category": "House & Home",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/share-phone-it/1388.html",
+      "icon": "assets/img/apk/icon/com.fromthenephothetovt.png",
+      "name": "Share phone it",
+      "categoryLink": "/categories/house.home/13",
+      "category": "House & Home",
+      "rating": "4.2"
+    }
+  ]
+}

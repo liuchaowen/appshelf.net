@@ -1,0 +1,111 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.tranzmate.png",
+    "title": "Moovit",
+    "ratings": "3.9",
+    "downloads": "900M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Moovit"
+    },
+    {
+      "name": "category",
+      "value": "Maps & Navigation"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Moovit"
+    },
+    {
+      "name": "Version",
+      "value": "5.128.0.596"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/lrpnXqu1c3Z9PzZD_GthS14sUJJjPC3syDmeWpq2MMkzHFP3zXBeWxlLinnNPEMUdLc",
+    "https://play-lh.googleusercontent.com/wC9DgBCIyZsXG-YoNmeC2-r_dKkRGULBCuN1Ia2Jlx2uruuvFZC6oaHzSeiLBcrRpAgc",
+    "https://play-lh.googleusercontent.com/nR0RSl5JH5_rXO0BOMYez8mIF4KUf0s1EzImVapMcduOms1QL3wq99oV_KTAkJ2Hyw",
+    "https://play-lh.googleusercontent.com/gEwdvq7aPgLE66hgNsfRbJQhbEyYNKbBHBOtZrvlryOV8ubJHRPL4SSYZ2HMJwkajZw",
+    "https://play-lh.googleusercontent.com/EIWyWK1Ep14oOJL2IUPqfi8EVPmcmezhIl1Y-ZwqfFuciK9-hIPz1Q_TSdYxWHx2u6A",
+    "https://play-lh.googleusercontent.com/SU022Ws8LCNcQOap6iTtnIqCxNyRbKmRxD7TBEdJKOJn7JNvHKLeSb3X7rvVbzKs0Q",
+    "https://play-lh.googleusercontent.com/V48KLBAMhhLEsMaPoYnuhKZZpHt1sJqLHOjpAWnXfiMxdq1s5QlUU2Zu--m0DxhK4k1l"
+  ],
+  "app_descript": "<p><strong>Moovit: Your Smart Public Transit Assistant</strong></p>\n<p><strong>Brief:</strong>\nMoovit is an all-in-one public transport navigation app that simplifies your urban commutes. With over 930 million users across more than 3400 cities worldwide, Moovit provides reliable train and bus times, live navigation, and real-time arrival information. Enhanced with augmented reality, digital payment options, and a robust alert system, Moovit is a robust tool for planning and executing your daily travels with confidence and ease. Awarded as one of the best apps by Google Play and App Stores in 2016 and 2017, it's the ultimate app for commuters to stay informed and connected with public transit systems.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🚍 <strong>Real-Time Data</strong>: Live updates on bus and train times straight from the vehicles' GPS. ⏱️</li>\n<li>💳 <strong>Digital Payment</strong>: Easily buy and validate transit tickets using a digital wallet in supported areas. 💰</li>\n<li>🔔 <strong>Service Alerts</strong>: Stay ahead of disruptions with timely alerts about emergencies, delays, and construction. 🚧</li>\n<li>📍 <strong>Live Navigation</strong>: Step-by-step guidance with in-transit alerts and AR-powered stop discovery. 🧭</li>\n<li>🗺️ <strong>Offline Maps</strong>: Access downloadable map views and PDFs for transit navigation without an internet connection. 🌐</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 <strong>Extensive Coverage</strong>: Supports thousands of cities and an array of transit agencies (MTA, NJ Transit, MBTA, etc.). 🌍</li>\n<li>👍 <strong>User-driven Reports</strong>: Crowd-sourced information keeps the community updated on transit statuses. 📢</li>\n<li>👍 <strong>Multimodal Routes</strong>: Mix and match transit options, including bikes, for more flexible route planning. 🚴</li>\n<li>👍 <strong>Favorites System</strong>: Personalize your experience by bookmarking lines, stations, and frequent destinations. ⭐</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 <strong>Geographic Limitations</strong>: Some features may not be available outside of supported metros/cities. 🏙️</li>\n<li>👎 <strong>Dependence on User Reports</strong>: Accuracy relies partly on community input, which can vary. 📊</li>\n<li>👎 <strong>Potential for Digital Payment Issues</strong>: While convenient, digital wallets are only accepted in certain regions. 💼</li>\n<li>👎 <strong>Data Connectivity</strong>: Offline maps are useful, but live features need a strong internet connection to function optimally. 🌐</li>\n</ul>\n<p><strong>Price:</strong>\n💵 Moovit app is free to download and use. In-app purchases and subscriptions may apply for additional features and services, varying by region and service provider. </p>\n<p><a href=\"https://moovitapp.zendesk.com/hc/requests/new\" rel=\"noopener noreferrer\" target=\"_blank\">Contact Moovit Support</a></p>\n<p>Find Moovit on <a href=\"https://www.facebook.com/moovit\" rel=\"noopener noreferrer\" target=\"_blank\">Facebook</a> and <a href=\"https://twitter.com/moovit\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a>. </p>\n<p><em>Moovit, your personal guide to the maze of public transit, guiding you smoothly from point A to point B.</em></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-hundred-qibla-finder/14082.html",
+      "icon": "assets/img/apk/icon/com.hundred.qibla.finder.png",
+      "name": "Qibla Finder Compass 100%",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/kbk-maparea-measure-geo/5067.html",
+      "icon": "assets/img/apk/icon/kbk.maparea.measure.geo.png",
+      "name": "Gps Area Calculator",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "3.9"
+    },
+    {
+      "link": "/details/Offline-Maps-GPS-Speedometer/4633.html",
+      "icon": "assets/img/apk/icon/com.radarapp.trip.speedometer.png",
+      "name": "Offline Maps, GPS, Speedometer",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/Satellite-View-Offline/4620.html",
+      "icon": "assets/img/apk/icon/com.breezeammarathon.viskoproton.grampooffline.png",
+      "name": "Satellite View Offline",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/Rapido/4563.html",
+      "icon": "assets/img/apk/icon/com.rapido.passenger.png",
+      "name": "Rapido",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/CarInfo/4500.html",
+      "icon": "assets/img/apk/icon/com.cuvora.carinfo.png",
+      "name": "CarInfo",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-trailbehind-android-gaiagps-pro/4473.html",
+      "icon": "assets/img/apk/icon/com.trailbehind.android.gaiagps.pro.png",
+      "name": "Gaia GPS: Offroad Hiking Maps",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-gpsnavigation-maps-gpsroutefinder-routemap/4472.html",
+      "icon": "assets/img/apk/icon/com.gpsnavigation.maps.gpsroutefinder.routemap.png",
+      "name": "GPS Navigation: Road Map Route",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    }
+  ]
+}

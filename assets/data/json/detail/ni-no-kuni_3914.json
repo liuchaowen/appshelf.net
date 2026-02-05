@@ -1,0 +1,128 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.netmarble.enngb.png",
+    "title": "Ni no Kuni",
+    "ratings": "3.5",
+    "downloads": "610M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Ni no Kuni"
+    },
+    {
+      "name": "category",
+      "value": "Role Playing"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Netmarble"
+    },
+    {
+      "name": "Version",
+      "value": "1.01.008"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/s0KoHv3xgMqUilkeBuYe5P7IR-ySURHzOk3axezWnHzDufqcSBH-ShE6eiouHn0_hyVS",
+    "https://play-lh.googleusercontent.com/-AIoBUv4zAMB5svTgzBDpgUIoutPVxu7gJzeVtYyctc3Yg9_BgPK6X_s7oxMo26G-B4",
+    "https://play-lh.googleusercontent.com/DvaRRUCSB-zKLzTdl4KChxz-CPlkW64BzvFf3QCn82mxXldb_tWY7xOMldHZtbR3c-A",
+    "https://play-lh.googleusercontent.com/kT5nt9uxekrv70eHEShD3VSLkc9ohIQLzCpAinejfzc5Qf1RHipam5_ky4823r3Lm78",
+    "https://play-lh.googleusercontent.com/yn4vrONbM8gbZFt08i-UJwW38zRJuqeyuikVI83mN2vTHrUwhRfAKMvAALQdgigT2e4",
+    "https://play-lh.googleusercontent.com/iXGgX2ZvGWWiTMCeAj3DLBru1__i9Y1ZMlz0TB2yA5i4jV_9gwwnDTzgR9Eq4pxRLw",
+    "https://play-lh.googleusercontent.com/S4XWv1w3vkADmN0Ij6t9HRfQnAAvlLiy3uHafuyEm8IXL1JaLsGG4mMprgbGqDGKUg",
+    "https://play-lh.googleusercontent.com/Wgu0JjZJ3PJ6ltN_Fv6-DxKCkXVAjAnZtIhk_2mUkiYJtREdXGE9BBLrNqbJGIYck-M",
+    "https://play-lh.googleusercontent.com/amTYcVTyz-WiRAtoLNjdDOHSzYv7jVR40Tf4ELbhXcBbsEtB5VvkOuHHKVpyM-ZvTEw",
+    "https://play-lh.googleusercontent.com/xWuDsNjGGOReo8gn4njGcek0vtLvhLM9m--UP2g56rSRcwPiz1oV2hnbN0HSQj5NCsE",
+    "https://play-lh.googleusercontent.com/G6HobT30c6oochXOiNP03PPnwTOUs3fdnQVDacHN4FPE9u2K6CS6ZUYJ4YDFquCKpBs",
+    "https://play-lh.googleusercontent.com/ukCQ_c8yJDhjtbuirJa2QRcFyPrAJs894axmMwytC05AS4wDWE_9WkMHvcwuX21RQw",
+    "https://play-lh.googleusercontent.com/SEjibnOr_rSvOeTgzYKdOu5-nDRfkAwviXAS1HxpAapwHR0_XupAkyO3t4LjpnEGihwJ",
+    "https://play-lh.googleusercontent.com/7aRiFH4gc6crD3rriBL8ubrQ_Ef5WnSWJaUoKbwS99rw8yzW4tXi00Es3AFIakmDpHI",
+    "https://play-lh.googleusercontent.com/TpIwOVe3hE9IoWZNAuB5OtH5Y432BYBSv5OccIjd640PcheyOEG45LFe-YQ17xzCKhM",
+    "https://play-lh.googleusercontent.com/ymQ5VeoYYHFXTAIZuSFrYJ_jnMLIzUfuuOvxezLJNLCrrAm0dMunXu2r1sdbi-Ufrw",
+    "https://play-lh.googleusercontent.com/u1DpTnj5lekwj6vo6eEUmCPYJ4apVuLLMrf4nGmtrmSvBZPUw0GzcislKYdDQEzfLg",
+    "https://play-lh.googleusercontent.com/YsKFOynm8iv6c3lw6Kr7lJ7tm1WXgkA4f42ukn4xW9_ZtIaHlb3mRIgbQmZs-auYkQ",
+    "https://play-lh.googleusercontent.com/z_lIDDpgRWveJj39mWTLuOH5dHeNWXYsRGjlnNLXkZmT8rA3tMEmdIe-mmUybqXjCW8",
+    "https://play-lh.googleusercontent.com/DWEfQx0RVd6DMYQta4A-mdv2L7uBfaBB9EyFY7t_EUApAt6Ye_WihqWFqNb_TSTMTCE",
+    "https://play-lh.googleusercontent.com/6_pvMxOndSdyRP5JA6mZAiiMyZvPRcw0Xd9Off-ZdXiEOiU2Swsc4D8PFk51zPb75x-T",
+    "https://play-lh.googleusercontent.com/kjxRgMOqMZ9-UxZXSI7tt3rNVUD3OIfQYoCNc8uoWmsQyJdEB-hRUvyY1UcZHd05QAji",
+    "https://play-lh.googleusercontent.com/_sebyMzpYQUL_0CuAN6vToE5deYutetQ_gwOqyLc66lXOf7epU_fdnh4tfwSEVEFJj8W",
+    "https://play-lh.googleusercontent.com/HXz4C9W5__VgR2qpRnUS90MI6cqr4kGg-cJ5AxtlhlGNt0MjYdLkqGDaI_FIEKlk7A"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> Ni no Kuni: Cross Worlds</p>\n<p><strong>Brief:</strong>\nEmbark on an extraordinary and enchanting adventure in \"Ni no Kuni: Cross Worlds,\" where the lines between reality and fantasy blur. Step into a magnificent open world, inspired by an animated film and brought to life with the Unreal Engine 4. Choose your hero, team up with adorable yet powerful Familiars, and build up your own farm. Forge alliances in a kingdom, and strive to restore glory to the fallen Nameless Kingdom. Dive into this rich and vivid RPG and uncover the epic that awaits.</p>\n<p><strong>📌 Core Features:</strong></p>\n<ul>\n<li><strong>Immersive Storyline:</strong> Get swept up in a narrative that bridges the real and the fantastical in a well-conceived virtual reality game setting 🎮.</li>\n<li><strong>Graphically Stunning World:</strong> Explore a beautifully crafted landscape powered by Unreal Engine 4, delivering a world akin to an animated masterpiece 🌄.</li>\n<li><strong>Character Customization:</strong> With a variety of characters like the Swordsman, Witch, Engineer, Rogue, and Destroyer, express your individuality in-game 👤.</li>\n<li><strong>Collectible Familiars:</strong> Befriend and collect unique Familiars, each with their own charming designs and potent abilities 🐾.</li>\n<li><strong>Farm Decoration:</strong> Indulge in a slice of tranquility by decorating and managing your own Familiar's Forest farm 🏡.</li>\n</ul>\n<p><strong>👍 Pros:</strong></p>\n<ul>\n<li><strong>High-Quality Animation and Graphics:</strong> Enjoy a visually stunning game akin to watching a high-end animated film 🎥.</li>\n<li><strong>Varied Gameplay:</strong> Experience a mix of adventure, role-playing, kingdom building, and life simulation 🕹️.</li>\n<li><strong>Multiplayer Interactivity:</strong> Join forces with others to build kingdoms, showing unity and strategic prowess in a communal online setting 👥.</li>\n<li><strong>Engaging Content:</strong> With different classes, Familiars to train, and farms to customize, there's a wealth of content to engage with 🌟.</li>\n</ul>\n<p><strong>👎 Cons:</strong></p>\n<ul>\n<li><strong>Device Requirements:</strong> The game requires moderately high hardware specs, which may not be accessible to all players 📱.</li>\n<li><strong>Potential In-App Purchases:</strong> Although the game is free, improvement and advancement may invite in-app purchases 💵.</li>\n<li><strong>Storage Space:</strong> High-quality graphics might mean a substantial storage requirement, possibly impacting device performance 🗃️.</li>\n<li><strong>Learning Curve:</strong> The variety of features can initially overwhelm new players, presenting a steeper learning curve 📚.</li>\n</ul>\n<p><strong>💵 Price:</strong>\nNi no Kuni: Cross Worlds is free to download and play, with in-app purchases available for additional content and upgrades.</p>\n<p><strong>🕸️ Community:</strong></p>\n<ul>\n<li>Official Site: <a href=\"https://ninokuni.netmarble.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Ni no Kuni Official</a></li>\n<li>YouTube Channel: <em>(Unavailable)</em></li>\n<li>Related YouTuber's Channel: Many YouTubers feature gameplays; however, no specific channel stands out as most prominent.</li>\n<li>Instagram Influencer: <em>(Unavailable)</em></li>\n<li>Twitter: <a href=\"https://twitter.com/NinoKuniGlobal\" rel=\"noopener noreferrer\" target=\"_blank\">Ni no Kuni Twitter</a></li>\n<li>Discord: <a href=\"https://discord.com/invite/ninokuni\" rel=\"noopener noreferrer\" target=\"_blank\">Ni no Kuni Discord</a></li>\n<li>Facebook: <a href=\"https://www.facebook.com/NinoKuniCrossWorlds/\" rel=\"noopener noreferrer\" target=\"_blank\">Ni no Kuni Facebook</a></li>\n<li>TikTok: <em>(Unavailable)</em></li>\n<li>Reddit: <a href=\"https://www.reddit.com/r/Ni_no_Kuni/\" rel=\"noopener noreferrer\" target=\"_blank\">r/Ni_no_Kuni</a></li>\n<li>Fandom Wiki: <a href=\"https://ninokuni.fandom.com/wiki/Ni_no_Kuni_Wiki\" rel=\"noopener noreferrer\" target=\"_blank\">Ni no Kuni Wiki</a></li>\n</ul>",
+  "related_apps": [
+    {
+      "link": "/details/com-squareenix-lis-bts/54482.html",
+      "icon": "assets/img/apk/icon/com.squareenix.lis.bts.png",
+      "name": "Life is Strange: Before Storm",
+      "categoryLink": "/en/categories/role.playing/43",
+      "category": "Role Playing",
+      "rating": "3.6"
+    },
+    {
+      "link": "/details/com-escape-tsunami-steal-all-brainrots-game/54470.html",
+      "icon": "assets/img/apk/icon/com.escape.tsunami.steal.all.brainrots.game.png",
+      "name": "Escape Tsunami For Brainrots",
+      "categoryLink": "/en/categories/role.playing/43",
+      "category": "Role Playing",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-candy-ball-run-games-arena/54362.html",
+      "icon": "assets/img/apk/icon/com.candy.ball.run.games.arena.png",
+      "name": "Candy Ball Run - Rolling Games",
+      "categoryLink": "/en/categories/role.playing/43",
+      "category": "Role Playing",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-cozco-bird-sim-game/53860.html",
+      "icon": "assets/img/apk/icon/com.cozco.bird.sim.game.png",
+      "name": "I Am Bird Sim 3D",
+      "categoryLink": "/en/categories/role.playing/43",
+      "category": "Role Playing",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-NewFolderGames-IAmBird/53857.html",
+      "icon": "assets/img/apk/icon/com.NewFolderGames.IAmBird.png",
+      "name": "I Am Bird",
+      "categoryLink": "/en/categories/role.playing/43",
+      "category": "Role Playing",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/com-pigamesstudio-momspregnantcare/39528.html",
+      "icon": "assets/img/apk/icon/com.pigamesstudio.momspregnantcare.png",
+      "name": "Mom and Newborn care game",
+      "categoryLink": "/en/categories/role.playing/43",
+      "category": "Role Playing",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-piispanen-hotelhideaway/39474.html",
+      "icon": "assets/img/apk/icon/com.piispanen.hotelhideaway.png",
+      "name": "Hotel Hideaway: Avatar & Chat",
+      "categoryLink": "/en/categories/role.playing/43",
+      "category": "Role Playing",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/httpcom-ciphers-realm-christmas-santa-gifts-delivery/39461.html",
+      "icon": "assets/img/apk/icon/httpcom.ciphers.realm.christmas.santa.gifts.delivery.png",
+      "name": "Christmas Gift Simulator",
+      "categoryLink": "/en/categories/role.playing/43",
+      "category": "Role Playing",
+      "rating": "4.5"
+    }
+  ]
+}

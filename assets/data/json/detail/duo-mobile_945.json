@@ -1,0 +1,107 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.duosecurity.duomobile.png",
+    "title": "Duo Mobile",
+    "ratings": "4.3",
+    "downloads": "880M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Duo Mobile"
+    },
+    {
+      "name": "category",
+      "value": "Business"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Duo Security, Inc."
+    },
+    {
+      "name": "Version",
+      "value": "4.41.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/ztdn-P_g79ohcr-i2HC8BgbvHT1gaFVmtiaZU6C7dO1rRfKQQISrMkkxYoGR1yTOSwI",
+    "https://play-lh.googleusercontent.com/JjrGlmP7CySJukVaRN4X6YzSoZNW43TEUI2J1BfPsCEE9bT1ZeQy66rRsyjQI6ZxaxM",
+    "https://play-lh.googleusercontent.com/prcog_nlzR1MZteJqJi9ZYDeFbO71Jv9kPGtSzrVMKs456r_2lpIRXAs6SU2G9kBaVk"
+  ],
+  "app_descript": "<p><strong>Duo Mobile</strong></p>\n<hr/>\n<p><strong>Brief:</strong>\nDuo Mobile enhances your online security by providing a simple and effective two-factor authentication service for a multitude of applications and web services. By generating passcodes for secure login procedures, it ensures that accessing your accounts remains a private affair.</p>\n<hr/>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🏷️ <strong>Two-Factor Authentication</strong>: Add an extra layer of security to your logins for various services.</li>\n<li>📲 <strong>Easy Account Activation</strong>: Use the activation link provided during Duo's enrollment for a quick setup.</li>\n<li>🔒 <strong>Third-Party Account Integration</strong>: Securely manage access for a wide range of applications beyond Duo.</li>\n<li>📸 <strong>QR Code Scanning</strong>: Convenient account activation by scanning QR codes with your camera.</li>\n</ul>\n<hr/>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👌 <strong>Enhanced Security</strong>: Protect against unauthorized access with additional authentication steps.</li>\n<li>🔄 <strong>Versatile Use</strong>: Compatible with multiple applications and web services for broad coverage.</li>\n<li>🚀 <strong>User-Friendly Setup</strong>: Activation process is straightforward and tailored for ease of use.</li>\n<li>🔐 <strong>Privacy-Focused</strong>: Requests camera access solely for QR code validation, preserving privacy.</li>\n</ul>\n<hr/>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>📶 <strong>Initial Activation Required</strong>: Must be activated and linked to a Duo account before use.</li>\n<li>📡 <strong>Dependence on Internet</strong>: Requires a stable internet connection for some features.</li>\n<li>🔄 <strong>Learning Curve</strong>: Some users may need time to familiarize themselves with the two-factor process.</li>\n<li>🌐 <strong>Compatibility</strong>: May not support all services, requiring checks for compatibility.</li>\n</ul>\n<hr/>\n<p><strong>Price:</strong>\n💵 The app is available for free, although it may have in-app purchases for added features or services.</p>\n<hr/>\n<p>By ensuring secure access to your important accounts, Duo Mobile acts as a reliable digital gatekeeper for your online presence. With its emphasis on simplicity and robust security protocols, Duo Mobile provides the peace of mind you need in an increasingly interconnected world.</p>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-kj2147575505-app/16858.html",
+      "icon": "assets/img/apk/icon/com.kj2147575505.app.png",
+      "name": "Alpha Omega Consulting",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-hypertide-petscan-v8m/15982.html",
+      "icon": "assets/img/apk/icon/com.hypertide.petscan.v8m.png",
+      "name": "PetScan",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "2"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-animalid-scanner/15981.html",
+      "icon": "assets/img/apk/icon/com.animalid.scanner.png",
+      "name": "Pet Scanner",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-webrange-sendoff-app/15417.html",
+      "icon": "assets/img/apk/icon/com.webrange.sendoff.app.png",
+      "name": "Sendoff Funeral App",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-dyve-countthings/10295.html",
+      "icon": "assets/img/apk/icon/com.dyve.countthings.png",
+      "name": "CountThings from Photos",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "3"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-countthis-count-things-counting-template-counter/5097.html",
+      "icon": "assets/img/apk/icon/com.countthis.count.things.counting.template.counter.png",
+      "name": "Count This・Counting Things App",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-aadi-personalitytraittest/4991.html",
+      "icon": "assets/img/apk/icon/com.aadi.personalitytraittest.png",
+      "name": "Personality Trait Test",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.6"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/GlowRoad/4569.html",
+      "icon": "assets/img/apk/icon/com.localqueen.png",
+      "name": "GlowRoad",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.6"
+    }
+  ]
+}

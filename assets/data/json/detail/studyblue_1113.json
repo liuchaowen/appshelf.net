@@ -1,0 +1,110 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.studyblue.png",
+    "title": "StudyBlue",
+    "ratings": "4.4",
+    "downloads": "460M",
+    "age": "4+",
+    "download_link": "https://d.apkpure.com/b/APK/com.studyblue?version=latest"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "StudyBlue"
+    },
+    {
+      "name": "category",
+      "value": "Education"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "StudyBlue"
+    },
+    {
+      "name": "Version",
+      "value": "5.63"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/NLRoAqC9KXOw519D14z4YjhGkHEDG_ZjyXPtHNCEPad73fskCxtX5dBbBO-pvoXwC0g",
+    "https://play-lh.googleusercontent.com/At8dNHVC0gwuUErynk5Ds0w5fz8rP-827l0Aj_oWBJ9Mn693rAHe3YUfjqJwL1L0HA4a",
+    "https://play-lh.googleusercontent.com/RZajAX_aspYnn-IG2JEOU-9_3z3mfBGvJA9emHovT13J-E_e84NsEq-mF15ZPMPsDVX9",
+    "https://play-lh.googleusercontent.com/MXpa9G97a2qx_ZOPhvvoR_6AvUU8BrsJqDrHdknvxGbWa8-xfe4gtka2zpEjXq7yKp3V",
+    "https://play-lh.googleusercontent.com/kXj7tmD9yUatMvAmyTHueryUN_zkSfqXRx202PsqBkowI1gQbNMJ5fSj9lmC6TJxODas"
+  ],
+  "app_descript": "<h3>StudyBlue: Flashcards &amp; Homework Help</h3>\n<p><strong>Brief:</strong>\nStudyBlue is an educational platform designed to help students conquer their courses by utilizing digital flashcards, personalized study materials, and a robust community. Offering a variety of tools tailored to improve study habits and academic performance, StudyBlue is an essential companion for students of all levels seeking to excel in their academics.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>📚 Create and Share Flashcards: Build your own flashcard decks or explore those shared by others in the community. </li>\n<li>🎨 Personalize Study Materials: Enhance flashcards with images and audio for a richer learning experience.</li>\n<li>📋 Study and Progress Tracking: Keep a check on your learning curve with quizzes, progress trackers, and study reminders. </li>\n<li>🔄 Multi-Device Sync: Seamlessly access and sync study materials across various devices, including desktop and mobile.</li>\n<li>🤝 Community and Collaboration: Leverage flashcard recommendations and editing options to collaborate with peers.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👬 Community-Driven Learning: Connect with classmates and access over 500 million user-generated study materials.</li>\n<li>🆓 Free Access to Resources: Unlimited access to a plethora of study guides and flashcard decks at no cost.</li>\n<li>✅ Quality Content: Sourced and curated from a large pool of students and educators worldwide.</li>\n<li>🕒 Efficient Study Tool: Maximizes every bit of extra time — use it while commuting, waiting, or in between classes.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 Overwhelming Content Volume: The sheer number of study materials available can sometimes be daunting to navigate.</li>\n<li>📶 Internet Dependency: Requires a stable internet connection to fully leverage the platform's capabilities.</li>\n<li>💡 Varying Quality: Due to user-generated content, the quality of flashcards may vary.</li>\n<li>🗃️ Potential Information Overload: The vast amount of resources can be overwhelming for some students.</li>\n</ul>\n<p><strong>Price:</strong>\n💵 Free: StudyBlue offers all its primary features and access to its extensive library of materials for free.</p>\n<p><strong>Community:</strong>\nUnfortunately, the community dimension data is not available for this app, and thus no detailed information can be provided about their presence on various social media and discussion platforms. However, users can connect with peers directly within the app, fostering a sense of shared learning and support.</p>\n<hr/>\n<p><em>For more information on StudyBlue's offerings or to provide feedback, feel free to reach out to them directly at [email protected].</em></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-home-lifehealthinsurance/48965.html",
+      "icon": "assets/img/apk/icon/com.home.lifehealthinsurance.png",
+      "name": "Life & Health Insurance Exam",
+      "categoryLink": "/categories/education/9",
+      "category": "Education",
+      "rating": "3.5"
+    },
+    {
+      "link": "/details/pp-paramedic/48959.html",
+      "icon": "assets/img/apk/icon/pp.paramedic.png",
+      "name": "Paramedic Test Prep 2026",
+      "categoryLink": "/categories/education/9",
+      "category": "Education",
+      "rating": "3.9"
+    },
+    {
+      "link": "/details/org-truthforlife-app/48953.html",
+      "icon": "assets/img/apk/icon/org.truthforlife.app.png",
+      "name": "Truth For Life",
+      "categoryLink": "/categories/education/9",
+      "category": "Education",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-habapps-perstest/39344.html",
+      "icon": "assets/img/apk/icon/com.habapps.perstest.png",
+      "name": "The Personality Test",
+      "categoryLink": "/categories/education/9",
+      "category": "Education",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-schooltoday-alphaomega/39316.html",
+      "icon": "assets/img/apk/icon/com.schooltoday.alphaomega.png",
+      "name": "Alpha & Omega",
+      "categoryLink": "/categories/education/9",
+      "category": "Education",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-lucida-androidapp/34758.html",
+      "icon": "assets/img/apk/icon/com.lucida.androidapp.png",
+      "name": "Learn Languages - Lucida AI",
+      "categoryLink": "/categories/education/9",
+      "category": "Education",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/air-nn-mobile-app-main/34704.html",
+      "icon": "assets/img/apk/icon/air.nn.mobile.app.main.png",
+      "name": "NeuroNation - Brain Training",
+      "categoryLink": "/categories/education/9",
+      "category": "Education",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-wisernow-android/34684.html",
+      "icon": "assets/img/apk/icon/com.wisernow.android.png",
+      "name": "Wiser - 15 minutes Audio Books",
+      "categoryLink": "/categories/education/9",
+      "category": "Education",
+      "rating": "4.5"
+    }
+  ]
+}

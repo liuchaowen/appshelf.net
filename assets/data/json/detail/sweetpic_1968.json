@@ -1,0 +1,108 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.iconchanger.png",
+    "title": "SweetPic",
+    "ratings": "4.8",
+    "downloads": "610M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "SweetPic"
+    },
+    {
+      "name": "category",
+      "value": "Photography"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "ThinkWaitPlay"
+    },
+    {
+      "name": "Version",
+      "value": "1.0.2"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/mmyDmb0I8MwXYQYwQiEEFOsBrIP3YjUnnQUGPkltBfAi1KoRSyb0FB0S1oH8alrauZE",
+    "https://play-lh.googleusercontent.com/enpq5Hk120lmDsFtbR8PgODd8pdctDjLPjuuf9CvGkEqcJSC4k37LVfOxYOVe2OlPW1G",
+    "https://play-lh.googleusercontent.com/gPHtQ-vCeOB2-eXKV-Rw-nMHQ8Ukl_b9hQsF3lpV-1jlk390GoNppv9AMrrRmsd2ByUw",
+    "https://play-lh.googleusercontent.com/mmorwjmZfeIs6DgZEXxH0dOgTWNS8PSRFpQNJdN1k48rWRTvmw8ZKi3tBKTtB8GEgDw8"
+  ],
+  "app_descript": "<h3>SweetPic</h3>\n<h4>Brief:</h4>\n<p>SweetPic is a creative tool designed for individuals who love to personalize their device's aesthetic appeal. It allows users to redefine how the applications on their device look by replacing default icons with a vibrant collection of custom options. Tailor your phone to your style, indulging in the pleasure of unique customizations with SweetPic.</p>\n<h4>Core Features:</h4>\n<ul>\n<li>🖌️ <strong>Icon Customization</strong>: Freely change the icons for your applications to match your personal style and mood. 🎨</li>\n<li>✨ <strong>Rename Apps</strong>: Effortlessly come up with new names for your apps to keep your home screen interesting and user-friendly. 📛</li>\n<li>🗂️ <strong>Batch Customization</strong>: Apply a whole set of icons to various apps at once, streamlining the personalization process. 🚀</li>\n<li>🦄 <strong>Functional Organization</strong>: Divide and categorize your apps by functionality using distinctive icons, helping you to navigate your phone efficiently. 🗃️</li>\n</ul>\n<h4>Pros:</h4>\n<ul>\n<li>👍 <strong>Personal Touch</strong>: Enhances the aesthetic value of your device, reflecting your unique taste. 🌈</li>\n<li>👍 <strong>User-Friendly Interface</strong>: SweetPic is designed to be simple and intuitive, making customization a breeze. 🌐</li>\n<li>👍 <strong>Efficient Customization</strong>: Rename and re-icon multiple apps in a few taps for a swift transformation. ⏱️</li>\n<li>👍 <strong>Organizational Perks</strong>: Improves the organization of your apps in a visually pleasing way. 🔖</li>\n</ul>\n<h4>Cons:</h4>\n<ul>\n<li>👎 <strong>Learning Curve</strong>: New users may need some time to get accustomed to the features and options. 🧠</li>\n<li>👎 <strong>Default Icons</strong>: Some users might prefer the originality and consistency that default icons bring. 🏠</li>\n<li>👎 <strong>Compatibility</strong>: There could be compatibility issues with certain devices or icons. 🔗</li>\n<li>👎 <strong>Overwhelm</strong>: The abundance of customization options might be overwhelming for some. 🌀</li>\n</ul>\n<h4>Price:</h4>\n<ul>\n<li>💵 SweetPic is generally free to download, with some premium features accessible via in-app purchases. Details regarding the pricing of these features are not provided and may vary. 💳</li>\n</ul>\n<p>Craft a stylish and functional interface all your own with SweetPic: inspire your device with a fresh, personalized look today!</p>\n<hr/>",
+  "related_apps": [
+    {
+      "link": "/details/com-bhimaapps-valentineday/54159.html",
+      "icon": "assets/img/apk/icon/com.bhimaapps.valentineday.png",
+      "name": "Valentine Day Live Wallpaper",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "3"
+    },
+    {
+      "link": "/details/com-St-ValentinesDayLiveWallpaper/54154.html",
+      "icon": "assets/img/apk/icon/com.St.ValentinesDayLiveWallpaper.png",
+      "name": "Valentines Day Live Wallpaper",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-plaxa-parallax3d-wallpaper-overlay-touch-effect-aura/53773.html",
+      "icon": "assets/img/apk/icon/com.plaxa.parallax3d.wallpaper.overlay.touch.effect.aura.png",
+      "name": "Plaxa: Parallax Aura Wallpaper",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-happynewyear-hdwallpapers/49048.html",
+      "icon": "assets/img/apk/icon/com.happynewyear.hdwallpapers.png",
+      "name": "Happy New Year 2026 Wallpaper",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-photo-editor-photocalendar/49045.html",
+      "icon": "assets/img/apk/icon/com.photo.editor.photocalendar.png",
+      "name": "Calendar Maker: Photo Editor",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-watchfacestudio-animatedanalogfireworkswatchface/48946.html",
+      "icon": "assets/img/apk/icon/com.watchfacestudio.animatedanalogfireworkswatchface.png",
+      "name": "Fireworks Happy New Year's Eve",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/happy-neww-bighabits-year-images-wishes-gifs-day-stickers-wallpaper/48940.html",
+      "icon": "assets/img/apk/icon/happy.neww.bighabits.year.images.wishes.gifs.day.stickers.wallpaper.png",
+      "name": "Happy New Year 2026 Habits",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-starwatchfaces-hnyanimated/48934.html",
+      "icon": "assets/img/apk/icon/com.starwatchfaces.hnyanimated.png",
+      "name": "Happy New Year Animated",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4"
+    }
+  ]
+}

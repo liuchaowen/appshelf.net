@@ -1,0 +1,113 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/de.stocard.stocard.png",
+    "title": "Stocard",
+    "ratings": "4.3",
+    "downloads": "840M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Stocard"
+    },
+    {
+      "name": "category",
+      "value": "Shopping"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Stocard"
+    },
+    {
+      "name": "Version",
+      "value": "10.38.1"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/v7NSka9N2VZVPa5eXTvP_pj_nPFLplBGRKj2lPaxPfAjyXV1O9ntn3Aa-mHvE32OaAs",
+    "https://play-lh.googleusercontent.com/pvyvwgu3tT1ymVwil-eGl5t5AObAALHQaX1qDMEWNq_WgdrPXdjElrOtO9-z1hBCOg",
+    "https://play-lh.googleusercontent.com/BDanMASCL4bzmqTlHolxXev4XGdm632sN0W5sgn3ErJE5HI8F98tveM84nM3jgwQk8K2",
+    "https://play-lh.googleusercontent.com/vuuIuzHDpkteosVSyGZ9Faq99IGj-u1Mai7bSOHIp4m_ra2GQN-DkZhHYdc4z2A6u4M",
+    "https://play-lh.googleusercontent.com/LqJaHwJTyqT5XXsu8xnGYZWGk5zTPTdhC8RLC54GichS_09l9BpiOYGMOSlRdwyyMQ",
+    "https://play-lh.googleusercontent.com/FyXFJ6JXIsLVsFDqJHQKlaXRCBh97PiaO0P0Z7QbWFhDRkKXNNIaCt0OQWqTUSDD_xN7",
+    "https://play-lh.googleusercontent.com/DaOV4y6DGOGwfAAHz1ip9LNujowwCfk8FX5kLbhuCT755QAEYMiuoandLaAw2sijYg",
+    "https://play-lh.googleusercontent.com/fcy2LaHAbUnorVK-bvQCL64C6TCoqRMo-ZLI1lX9GUnsiwdmfTSfuSgY0PwlMdDGlEM",
+    "https://play-lh.googleusercontent.com/P5yG_fJV-qF87tsk0pOEkq0kM2CgcqjBbkxtUZZ64x6rbBB_Z4pyi7EduXFB-qw7Ywc"
+  ],
+  "app_descript": "<p><strong>Brief:</strong>\nStocard is your digital wallet revolutionizing the way you store and manage your loyalty cards, airline tickets, gift cards, and passes. Unclutter your purse or wallet by digitizing all your physical cards and tickets, making them accessible and easy to use with just a tap of your phone. </p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li><strong>Digital Loyalty Card Storage:</strong> Effortlessly add your various loyalty cards by simply scanning the barcode. 📲</li>\n<li><strong>Passbook/Apple Wallet Integration:</strong> Seamlessly store and use Passbook/Apple Wallet passes alongside your other cards. 🍏</li>\n<li><strong>Airline-Tickets Storage:</strong> Keep your airline tickets handy for stress-free travel. ✈️</li>\n<li><strong>Gift Card Management:</strong> Store all your gift cards in one place and never worry about leaving them at home. 🎁</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li><strong>Convenience:</strong> Access all your cards and passes in one spot without the bulk of physical cards. 👌</li>\n<li><strong>Easy Organization:</strong> Neatly categorized and always available at your fingertips. 🗂️</li>\n<li><strong>Space Saver:</strong> Reduces wallet/purse clutter and makes space for essentials. 🌟</li>\n<li><strong>Travel Friendly:</strong> Simplifies travel by safely storing boarding passes and tickets. 🌍</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li><strong>Dependence on Device:</strong> Relies on having your smartphone available and charged. 📱</li>\n<li><strong>Security Concerns:</strong> Carries risk if the smartphone is lost or hacked. 🔒</li>\n<li><strong>Limited Usage:</strong> Not all establishments may accept digital card scans. 🏬</li>\n<li><strong>Tech Savvy Required:</strong> May be challenging for users unfamiliar with digital wallets or apps like these. 🧠</li>\n</ul>\n<p><strong>Price:</strong>\nThe Stocard app is free to download, although it's not explicitly stated whether there may be any in-app purchases or premium features included.</p>\n<p><strong>Community:</strong>\nUnfortunately, there is no additional community data available for Stocard at this moment. </p>\n<p>Unlock the full potential of your wallet with Stocard and step into a world of convenience - your digital transformation begins with a simple tap. Download Stocard and declutter your life today!</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-seagm-store/54458.html",
+      "icon": "assets/img/apk/icon/com.seagm.store.png",
+      "name": "SEAGM - Games Topup, Gift Card",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-gowish-app/39285.html",
+      "icon": "assets/img/apk/icon/com.gowish.app.png",
+      "name": "GoWish - Your Digital Wishlist",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-aldisued-shopgo/16934.html",
+      "icon": "assets/img/apk/icon/com.aldisued.shopgo.png",
+      "name": "ALDI SHOP&GO",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.2"
+    },
+    {
+      "link": "/details/com-wakefern-shoprite/16933.html",
+      "icon": "assets/img/apk/icon/com.wakefern.shoprite.png",
+      "name": "ShopRite: Groceries & Savings",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-yaxo-vancamper/16894.html",
+      "icon": "assets/img/apk/icon/com.yaxo.vancamper.png",
+      "name": "Vancamper: Buy sell campervans",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/com-elfster-elfdroid/16861.html",
+      "icon": "assets/img/apk/icon/com.elfster.elfdroid.png",
+      "name": "Elfster: The Secret Santa App",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-biggu-shopsavvy/16860.html",
+      "icon": "assets/img/apk/icon/com.biggu.shopsavvy.png",
+      "name": "ShopSavvy - Barcode Scanner",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/moloapps-gifttracker/16845.html",
+      "icon": "assets/img/apk/icon/moloapps.gifttracker.png",
+      "name": "GiftTracker : Gift List Helper",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.1"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/macrostudios.guessmynickname.png",
+    "title": "Find Your Nickname",
+    "ratings": "3.5",
+    "downloads": "69M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Find Your Nickname"
+    },
+    {
+      "name": "category",
+      "value": "Trivia"
+    },
+    {
+      "name": "Price",
+      "value": "0"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "KDR Games"
+    },
+    {
+      "name": "Version",
+      "value": "5.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/K4X4hKu2w9jHSw9RgPK-JMK9Ueen7DqthRSpPlBBl-r_1foHgFhVzmoxNgFkOmrU2g",
+    "https://play-lh.googleusercontent.com/w9zPh5lXvDlYU8zkwUDBzP9kACavkDJ0hI2ve_wKSX0ysu0wZbu8avcnTz7D5diTqPOj",
+    "https://play-lh.googleusercontent.com/FWtGpeehg4wdUYuRdmRHlqqwkuw4MpoWgZhAig65B83jY7twtLfU9d7n6H9t_-sBLOg"
+  ],
+  "app_descript": "<h1>Find Your Nickname</h1>\n<p>Discover your unique nickname with <strong>Find Your Nickname</strong>! This engaging app offers a fun and entertaining approach to generating nicknames by answering simple, lighthearted questions about yourself. Whether you're looking for a playful name or just a way to pass the time with friends, this app is designed to bring joy and amusement to your day.</p>\n<h2>📌 Core Features</h2>\n<ul>\n<li><strong>Interactive Quizzes</strong>: Enjoy a total of 26 fun quizzes, suitable for both girls and boys, to determine your perfect nickname. 🎉</li>\n<li><strong>Personalized Nicknames</strong>: Answer 10 questions about yourself to receive a random nickname that reflects your personality. 🧩</li>\n<li><strong>Multiplayer Fun</strong>: Play with your friends and BFFs, generating creative nicknames together and enjoying a good laugh! 🎈</li>\n<li><strong>Entertainment Focused</strong>: Designed solely for entertainment, the app utilizes a numerical algorithm to ensure a fun and engaging experience. 🎭</li>\n<li><strong>User Feedback Welcome</strong>: Developers invite users to share their feedback to improve the app's features and experience. 📣</li>\n</ul>\n<h2>👍 Pros</h2>\n<ul>\n<li>Easy to use and navigate, making it accessible for all ages. 👍</li>\n<li>Offers a wide variety of quizzes for endless entertainment. 🌈</li>\n<li>Provides a lighthearted and enjoyable way to spend time with friends. 😂</li>\n<li>No personal information is required; the app is designed purely for fun. 🔒</li>\n<li>Regular updates based on user feedback ensure a continuously improving experience. 💡</li>\n</ul>\n<h2>👎 Cons</h2>\n<ul>\n<li>The primary focus is entertainment, so the nicknames may lack seriousness. 🎭</li>\n<li>Limited to a fixed number of quizzes, which might not be enough for frequent users. ⏳</li>\n<li>The randomness may not always yield suitable nicknames for everyone. 🤷‍♂️</li>\n<li>Some users may find the quiz results unsatisfactory or not to their liking. 😕</li>\n<li>Since it's for entertainment, some may not find it useful beyond casual fun. ⚠️</li>\n</ul>\n<h2>💵 Price</h2>\n<p><strong>Find Your Nickname</strong> is a free app with no in-app purchases, making it accessible for everyone looking to discover a new nickname without any cost. 🆓</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-tellmewow-senior-coordination/49076.html",
+      "icon": "assets/img/apk/icon/com.tellmewow.senior.coordination.png",
+      "name": "Train your brain. Coordination",
+      "categoryLink": "/en/categories/trivia/47",
+      "category": "Trivia",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-vns-footballquiz/39638.html",
+      "icon": "assets/img/apk/icon/com.vns.footballquiz.png",
+      "name": "Football Quiz",
+      "categoryLink": "/en/categories/trivia/47",
+      "category": "Trivia",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-ultrabot-quizball/39637.html",
+      "icon": "assets/img/apk/icon/com.ultrabot.quizball.png",
+      "name": "QuizBall - Football Quiz",
+      "categoryLink": "/en/categories/trivia/47",
+      "category": "Trivia",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-JFH-GuessTheFootballTeam/39636.html",
+      "icon": "assets/img/apk/icon/com.JFH.GuessTheFootballTeam.png",
+      "name": "Guess Football Teams Quiz 2026",
+      "categoryLink": "/en/categories/trivia/47",
+      "category": "Trivia",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-devjobsapps-triviaquiz/39635.html",
+      "icon": "assets/img/apk/icon/com.devjobsapps.triviaquiz.png",
+      "name": "Football Trivia & Soccer Quiz",
+      "categoryLink": "/en/categories/trivia/47",
+      "category": "Trivia",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-football-quiz-trivia/39634.html",
+      "icon": "assets/img/apk/icon/com.football.quiz.trivia.png",
+      "name": "Football Quiz! Ultimate Trivia",
+      "categoryLink": "/en/categories/trivia/47",
+      "category": "Trivia",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/com-eogame-app-ballquiz/39633.html",
+      "icon": "assets/img/apk/icon/com.eogame.app.ballquiz.png",
+      "name": "Football trivia! Soccer quiz",
+      "categoryLink": "/en/categories/trivia/47",
+      "category": "Trivia",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-appotheose-bqm_studio/39513.html",
+      "icon": "assets/img/apk/icon/com.appotheose.bqm_studio.png",
+      "name": "Quiz Football - Guess the name",
+      "categoryLink": "/en/categories/trivia/47",
+      "category": "Trivia",
+      "rating": "4.5"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.samsung.android.videolist.png",
+    "title": "Samsung Video Library",
+    "ratings": "4.2",
+    "downloads": "460M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Samsung Video Library"
+    },
+    {
+      "name": "category",
+      "value": "Video Players & Editors"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Samsung Electronics Co., Ltd."
+    },
+    {
+      "name": "Version",
+      "value": "1.4.10.5"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>Samsung Video Library</strong></p>\n<p><strong>Brief:</strong>\nSamsung Video Library is an intuitive video content management app designed specifically for select Samsung Galaxy devices. It serves as a powerful tool for organizing and viewing your video files conveniently, complete with a rich array of features to enhance user experience.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>📁 <strong>Videos / Folders Tab</strong>: Easy navigation through video library by folding and tab system.</li>\n<li>🔍 <strong>Search &amp; Sort</strong>: Efficiently find and order videos by title, time, and ascending/descending sorting options.</li>\n<li>🤏 <strong>Pinch to Zoom</strong>: Enlarge thumbnails with multi-touch support for a closer look at video details.</li>\n<li>🏷️ <strong>File Tagging</strong>: Easy identification of special video types such as 360, DRM-protected, Slow motion, and Hyperlapse videos.</li>\n<li>✏️ <strong>Video Management</strong>: Offers video editor, delete functions, and sharing capabilities through various channels like email, Bluetooth, and Wi-Fi Direct.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👌 <strong>User-friendly Interface</strong>: The app provides both list and grid views for personalized content organization.</li>\n<li>⏯️ <strong>Resume Play</strong>: Includes a resume position card highlighting the last played video for quick access.</li>\n<li>🔒 <strong>Privacy Options</strong>: Ability to make videos private if the device supports Secure Folder, Private Mode, or KNOX service.</li>\n<li>🔄 <strong>Video Content Management</strong>: Rename, move, and select multiple videos for deletion or privacy settings effortlessly.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>📱 <strong>Device Limitation</strong>: Only available for select Samsung Galaxy series devices, which may exclude potential users with incompatible hardware.</li>\n<li>💌 <strong>Basic Service Access</strong>: Certain features might require granting of mandatory storage access privileges.</li>\n<li>🔄 <strong>Hardware Dependency</strong>: Some features are dependent on the device's hardware capabilities, potentially limiting functionality.</li>\n<li>🗃️ <strong>Limited Editing Tools</strong>: Requires downloading an external Video Editor for advanced editing.</li>\n</ul>\n<p><strong>Price:</strong>\n💵 The Samsung Video Library is a free app, although it may endorse additional downloads for extended functionality such as video editing.</p>\n<p><strong>Community:</strong>\nUnfortunately, no community information is available for Samsung Video Library.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-video-newslideshow/53956.html",
+      "icon": "assets/img/apk/icon/com.video.newslideshow.png",
+      "name": "Music Video Maker Magic Effect",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-prominent-aicatch/49088.html",
+      "icon": "assets/img/apk/icon/com.prominent.aicatch.png",
+      "name": "AI Catch: AI Video Generator",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-asianmobile-smartplayer/34766.html",
+      "icon": "assets/img/apk/icon/com.asianmobile.smartplayer.png",
+      "name": "IPTV Player: Smarters Watch TV",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "3.1"
+    },
+    {
+      "link": "/details/halloween-video-maker/34753.html",
+      "icon": "assets/img/apk/icon/halloween.video.maker.png",
+      "name": "Halloween Video Editor 2025",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-cupertinotech-aidancevideo/16075.html",
+      "icon": "assets/img/apk/icon/com.cupertinotech.aidancevideo.png",
+      "name": "AI Dance Video - Photo Dance",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "2.4"
+    },
+    {
+      "link": "/details/com-instagram-basel/15556.html",
+      "icon": "assets/img/apk/icon/com.instagram.basel.png",
+      "name": "Edits, an Instagram app",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/downloader-video-download-free/10303.html",
+      "icon": "assets/img/apk/icon/downloader.video.download.free.png",
+      "name": "Video Downloader & Video Saver",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-renderforest-videomaker/10142.html",
+      "icon": "assets/img/apk/icon/com.renderforest.videomaker.png",
+      "name": "Renderforest Video & Animation",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.5"
+    }
+  ]
+}

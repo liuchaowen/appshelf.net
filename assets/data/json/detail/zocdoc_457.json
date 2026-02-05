@@ -1,0 +1,112 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.zocdoc.android.png",
+    "title": "Zocdoc",
+    "ratings": "4.8",
+    "downloads": "670M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Zocdoc"
+    },
+    {
+      "name": "category",
+      "value": "Medical"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Zocdoc, Inc."
+    },
+    {
+      "name": "Version",
+      "value": "3.42.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/m7CaB_vHJhl8T0J28c32mhtTVRbyN_Pry8gEbFD_xwVyYEuJ5fEyJeU3cU5PEqBbq4k",
+    "https://play-lh.googleusercontent.com/LXTT_URDOHQkFzOSuGv6dQinw5oi23Q0eku4KC0w0CgYiUIIRPBj28BEquOhieVWjy4",
+    "https://play-lh.googleusercontent.com/J5jcG9OLMzu2vhl2kCryIZh_hXaYq-5b8t402k50JHVBZHfYBVJwFMneNBkvKxtton4",
+    "https://play-lh.googleusercontent.com/01_3e1kFhfkrxiZtgF7cjBn37CQw_Tcp7f3qr5BLU8TxzJLVpWNa-CMXWWtoQuwnXUE",
+    "https://play-lh.googleusercontent.com/n5YsOScHNJN82YDOVX5WSXrYChmo8ubfQ1q3piMYWQ_6QResu4F_y5LmtzyX_vQzgJQ",
+    "https://play-lh.googleusercontent.com/ZuvKgie6ffHDtqv2xzCNvB0PFtG1uXGGp-pEkYHyaL_AOoMs2FUnxftgeYRQBbWHqjM",
+    "https://play-lh.googleusercontent.com/DX-ZDiaS94df2SPw3dQqMmISJKZra72WrhCP9alNKpsjkQUlQ8rhRY9hDZzQSpid",
+    "https://play-lh.googleusercontent.com/Lh5GSt4xa-Ulqae1Bc-7qaIUcdQ57hmV2HZDXmituvOTXKC6kKMUF2NWUXAbOF9dsQ"
+  ],
+  "app_descript": "<h3>Zocdoc: Find &amp; Book Doctors</h3>\n<p><strong>Brief:</strong>\nZocdoc is an innovative app designed to simplify the process of finding the right healthcare professionals and scheduling medical appointments. Its interface provides users the ability to compare doctors in their area, manage appointments conveniently online, and ensure their health insurance is accepted. Whether seeking a dentist or physician, Zocdoc streamlines the process with its user-friendly platform.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🏥 <strong>Health Insurance Checker:</strong> Easily verify if a doctor accepts your health insurance before booking an appointment.</li>\n<li>🔍 <strong>Find the Best Match:</strong> Compare local doctors to find the perfect match for your healthcare needs.</li>\n<li>📅 <strong>Easy Appointment Scheduling:</strong> Book appointments online with instant access to available times and manage them effortlessly.</li>\n<li>📲 <strong>Appointment Reminders:</strong> Stay on top of your health with handy reminders that prevent you from missing bookings.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👩‍⚕️ You have access to a vast network of medical professionals.</li>\n<li>🔄 Simplifies the process of finding and booking healthcare appointments.</li>\n<li>🕒 Saves time with a quick check for health insurance compatibility.</li>\n<li>🚨 Provides a reliable reminder system to ensure you attend your appointments.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 Appointments are subject to availability and may not always be immediate.</li>\n<li>📶 Requires an internet connection to manage bookings.</li>\n<li>📊 Limited by the number of healthcare providers participating in the Zocdoc network.</li>\n<li>🎛 Some users might find navigation and filter options cumbersome.</li>\n</ul>\n<p><strong>Price:</strong></p>\n<ul>\n<li>💵 Zocdoc is free to download, with no mention of additional in-app purchases.</li>\n</ul>\n<p><a href=\"https://play.google.com/store/apps/details?id=com.zocdoc.android\" rel=\"noopener noreferrer\" target=\"_blank\">Install Zocdoc on your device</a> and take control of your healthcare management today.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-stress-test/48991.html",
+      "icon": "assets/img/apk/icon/com.stress.test.png",
+      "name": "Stress Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-procrastination-test/39516.html",
+      "icon": "assets/img/apk/icon/com.procrastination.test.png",
+      "name": "Procrastination Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-bingeeating-test/39303.html",
+      "icon": "assets/img/apk/icon/com.bingeeating.test.png",
+      "name": "Binge Eating Disorder Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-ocd-test/34780.html",
+      "icon": "assets/img/apk/icon/com.ocd.test.png",
+      "name": "OCD Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-healthians-main-healthians/34760.html",
+      "icon": "assets/img/apk/icon/com.healthians.main.healthians.png",
+      "name": "Healthians -Full Body Checkup",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-lbrc-PeriodCalendar/34759.html",
+      "icon": "assets/img/apk/icon/com.lbrc.PeriodCalendar.png",
+      "name": "Period Tracker and Calendar",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/es-jshcd-edadosea/34693.html",
+      "icon": "assets/img/apk/icon/es.jshcd.edadosea.png",
+      "name": "Bone age",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-devdis/16977.html",
+      "icon": "assets/img/apk/icon/com.devdis.png",
+      "name": "Developmental Disabilities",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.5"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.youmail.android.vvm.png",
+    "title": "YouMail",
+    "ratings": "4.2",
+    "downloads": "330M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "YouMail"
+    },
+    {
+      "name": "category",
+      "value": "Communication"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "YouMail, Inc"
+    },
+    {
+      "name": "Version",
+      "value": "4.6.1"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/W1q6Ivz3n3pqGKeq3CJlwVfnsXr6xqVdD9z2u0JrhA5Z3REKFIeU4cwYdJdUVoxLEJw",
+    "https://play-lh.googleusercontent.com/PJqeYhX_73g1ze-97A1LFeysmQnfbVcwdyXotfvPx2K7Yc7M4WtfI-kTtefB2sUpg4U",
+    "https://play-lh.googleusercontent.com/rJgWdwz2T6OqXTK9s5J2oj8nTF1EDM861UJZbn_n21Jupmh1IsgUh6SIcqRA_Qeb1IIh",
+    "https://play-lh.googleusercontent.com/5WpdEQqqNVNtICX4oUQlJ-ZgXZl_CGbpcZxyBdlZ8GDc_lZYRwg1Py5cRbINvliV6eo",
+    "https://play-lh.googleusercontent.com/CkfSZRnT6fjX_yXujBhkrSoolV9ysf_ADH8cTci_KHLIYvWGxImcpKHpbjiXNB0BD6gF",
+    "https://play-lh.googleusercontent.com/PWYva3U7sJ5u7NBWS27cXFVMCJZKikKjFaIzz7DOiwPVLanC9bhNQQcZKkvnL9uzNw",
+    "https://play-lh.googleusercontent.com/CMZAaKco9V45nhXUfU-I5u-RmUNTnq-SNH2P2GviAfVzU5-QjHFypLsuoRESbK33yho",
+    "https://play-lh.googleusercontent.com/Q3PXFUkW5fLewzGwxXGcAFhk40_7vBvBpyp0BVALvjvUIxo3h8zEoZwb05Lj0Ck8ozU"
+  ],
+  "app_descript": "<h1>YouMail: Visual Voicemail &amp; Spam Blocker</h1>\n<h2>Brief:</h2>\n<p>YouMail revolutionizes your voicemail service by turning it into a personal assistant for handling your calls and voicemail. As one of the top visual voicemail apps in the US, YouMail prides itself on effectively blocking spam calls with its advanced robocall blocker. It's not just great at blocking unwanted calls; YouMail offers a suite of services for personalization and efficiency, transforming the way you manage your calls and voicemails.</p>\n<h2>Core Features:</h2>\n<ul>\n<li><strong>Spam Call Management</strong>: Automatically identifies and blocks robo calls, providing a 'Number Disconnected' message to remove you from spam lists 📵.</li>\n<li><strong>Quality Transcription</strong>: Enjoy high-quality voicemail to text and voicemail to email services, making it easy to keep track of important messages ✉️.</li>\n<li><strong>Personalized Greetings</strong>: Offer a unique voicemail experience with customized greetings for specific callers 🎶.</li>\n<li><strong>Multi-device Access</strong>: Check your voicemail online or by email when your phone isn't on hand 💻.</li>\n<li><strong>Business Line Features</strong>: Includes second phone number options, virtual receptionist services, and conference call capabilities for professionals 🏢.</li>\n</ul>\n<h2>Pros:</h2>\n<ul>\n<li>👍 Blocks robocalls quickly and efficiently to prevent future spam.</li>\n<li>👍 Provides a seamless voicemail management experience with text and email capabilities.</li>\n<li>👍 Offers personalized settings for individual caller experiences.</li>\n<li>👍 Supports savable voicemails and an organized system for leads and projects.</li>\n<li>👍 Useful for professionals with features like business phone line services and multiple numbers.</li>\n</ul>\n<h2>Cons:</h2>\n<ul>\n<li>👎 Some prepaid plans, such as Boost Mobile and MetroPCS may not support the app's functionalities fully.</li>\n<li>👎 May have ads supporting free visual voicemail and spam blocker features after 30+ days for personal use.</li>\n<li>👎 Deactivation process requires returning to carrier settings manually before uninstalling the app.</li>\n<li>👎 App permissions are requested as needed, which can be a concern for privacy-focused users.</li>\n<li>👎 Call blocker role requirement for Android Q+ may be inconvenient for some users.</li>\n</ul>\n<h2>Price:</h2>\n<p>💵 YouMail is free to download and use with ads. Users have the option to upgrade to a premium version for additional features. For a detailed list of premium features and pricing, you should visit the YouMail website or in-app purchase section.</p>\n<h2>Community:</h2>\n<p>Unfortunately, there is no available data on the community dimension for the YouMail app. </p>\n<p>Upgrade your voicemail experience and manage calls like a pro with YouMail. Keep spam at bay and personalize your call management today by downloading the app <a href=\"https://play.google.com/store/apps/details?id=com.youmail.android.vvm\" rel=\"noopener noreferrer\" target=\"_blank\">YouMail</a>.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-sst-parrot-photo-frame/53901.html",
+      "icon": "assets/img/apk/icon/com.sst.parrot.photo.frame.png",
+      "name": "Bird Photo Frame",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-new_year-stickers-birthday/39669.html",
+      "icon": "assets/img/apk/icon/com.new_year.stickers.birthday.png",
+      "name": "Happy New Year Stickers 2026",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/org-watchduty-app/14524.html",
+      "icon": "assets/img/apk/icon/org.watchduty.app.png",
+      "name": "Watch Duty (Wildfire)",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-snowcorp-stickerly-android/14453.html",
+      "icon": "assets/img/apk/icon/com.snowcorp.stickerly.android.png",
+      "name": "Sticker.ly - Sticker Maker",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-Happynewyearphotoframe2020/14421.html",
+      "icon": "assets/img/apk/icon/com.Happynewyearphotoframe2020.png",
+      "name": "New Year Video Maker 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-intira-new-year-photo-frame-new/14342.html",
+      "icon": "assets/img/apk/icon/com.intira.new.year.photo.frame.new.png",
+      "name": "New year photo frame 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-christmas-photo-frame-b-new-free/14203.html",
+      "icon": "assets/img/apk/icon/com.christmas.photo.frame.b.new.free.png",
+      "name": "Christmas photo frame 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/ma-apps-face_ml/14137.html",
+      "icon": "assets/img/apk/icon/ma.apps.face_ml.png",
+      "name": "Face reader scanner - analyser",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "3.3"
+    }
+  ]
+}

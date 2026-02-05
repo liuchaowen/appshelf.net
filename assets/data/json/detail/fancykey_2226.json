@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.pinssible.fancykey.png",
+    "title": "FancyKey",
+    "ratings": "4.4",
+    "downloads": "280M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "FancyKey"
+    },
+    {
+      "name": "category",
+      "value": "Photography"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "FancyKey Keyboard Labs"
+    },
+    {
+      "name": "Version",
+      "value": "4.7"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>FancyKey Keyboard – Customize your Keyboard</strong></p>\n<p><strong>Brief:</strong>\nFancyKey is an all-inclusive custom keyboard app that enhances your typing experience with a vast selection of emojis, emoticons, funky fonts, and personalized keyboard customization options. It’s designed to bring fun and uniqueness to your daily conversations, with the added advantage of an advanced auto-correct and auto-suggest engine to make typing swift and efficient.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🎨 <strong>Vast Emoji &amp; Emoticon Selection:</strong> Over 3200 emoji, emoticons, and emoji arts to express every emotion and idea 🌟.</li>\n<li>🖋️ <strong>Funky Fonts Galore:</strong> Choose from over 70 distinctive fonts to add flair to your messages ✍️.</li>\n<li>🤖 <strong>Intelligent Typing Assistant:</strong> An advanced auto-correct and auto-suggest engine to help you type with precision 🛠️.</li>\n<li>🎨 <strong>Customizable Themes &amp; Layouts:</strong> Select from 50+ themes and personalize your keyboard wallpaper and layout 🔧.</li>\n<li>🎵 <strong>Diverse Typing Sounds &amp; Effects:</strong> Enjoy over 50 typing sounds and multiple typing effects for a dynamic typing experience 🔊.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 <strong>Keyboard Customization:</strong> A fully customizable keyboard down to the wallpaper, layout, and typing effects 💡.</li>\n<li>👍 <strong>Cross-App Compatibility:</strong> Integrated emoji &amp; emoticon keyboard works across all popular apps 👏.</li>\n<li>👍 <strong>SWIPE Input Method:</strong> Fast and intuitive typing with SWIPE input method ⚡.</li>\n<li>👍 <strong>Privacy Conscious:</strong> The app does not collect private information while you’re typing, ensuring data privacy 🛡️.</li>\n<li>👍 <strong>Multilingual Support:</strong> Support for over 50 languages, catering to a global user base 🌐.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 <strong>Resource Intensity:</strong> May consume more system resources and affect device performance due to extensive features 📱.</li>\n<li>👎 <strong>Learning Curve:</strong> New users might require time to get used to the numerous customization options ⏳.</li>\n<li>👎 <strong>Overwhelming Options:</strong> With so many features, some users may find the app overly complex 🤯.</li>\n<li>👎 <strong>Compatibility Issues:</strong> Certain features might not work as smoothly with all device models or OS versions ⚙️.</li>\n</ul>\n<p><strong>Price:</strong></p>\n<ul>\n<li>💵 This app can be downloaded for free, but it might include in-app purchases for additional features or content 💳.</li>\n</ul>\n<p><em>FancyKey offers a fresh take on keyboard apps by providing personalized typing experiences packed with unique features. Enhance your device with a custom keyboard and let your conversations stand out!</em></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-bhimaapps-valentineday/54159.html",
+      "icon": "assets/img/apk/icon/com.bhimaapps.valentineday.png",
+      "name": "Valentine Day Live Wallpaper",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "3"
+    },
+    {
+      "link": "/details/com-St-ValentinesDayLiveWallpaper/54154.html",
+      "icon": "assets/img/apk/icon/com.St.ValentinesDayLiveWallpaper.png",
+      "name": "Valentines Day Live Wallpaper",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-plaxa-parallax3d-wallpaper-overlay-touch-effect-aura/53773.html",
+      "icon": "assets/img/apk/icon/com.plaxa.parallax3d.wallpaper.overlay.touch.effect.aura.png",
+      "name": "Plaxa: Parallax Aura Wallpaper",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-happynewyear-hdwallpapers/49048.html",
+      "icon": "assets/img/apk/icon/com.happynewyear.hdwallpapers.png",
+      "name": "Happy New Year 2026 Wallpaper",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-photo-editor-photocalendar/49045.html",
+      "icon": "assets/img/apk/icon/com.photo.editor.photocalendar.png",
+      "name": "Calendar Maker: Photo Editor",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-watchfacestudio-animatedanalogfireworkswatchface/48946.html",
+      "icon": "assets/img/apk/icon/com.watchfacestudio.animatedanalogfireworkswatchface.png",
+      "name": "Fireworks Happy New Year's Eve",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/happy-neww-bighabits-year-images-wishes-gifs-day-stickers-wallpaper/48940.html",
+      "icon": "assets/img/apk/icon/happy.neww.bighabits.year.images.wishes.gifs.day.stickers.wallpaper.png",
+      "name": "Happy New Year 2026 Habits",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-starwatchfaces-hnyanimated/48934.html",
+      "icon": "assets/img/apk/icon/com.starwatchfaces.hnyanimated.png",
+      "name": "Happy New Year Animated",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4"
+    }
+  ]
+}

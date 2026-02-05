@@ -1,0 +1,106 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/org.englandgolf.mygolf.png",
+    "title": "MyEG",
+    "ratings": "4",
+    "downloads": "650M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "MyEG"
+    },
+    {
+      "name": "category",
+      "value": "Sport"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "New Zealand Golf Network Ltd"
+    },
+    {
+      "name": "Version",
+      "value": "1.0.1"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/xSzpEN81YDkPx2KDFMjxcAvX5NzWEOkE-ZyQbdTY62SdFWuwPc15BW5ooHBop1RoF7Y",
+    "https://play-lh.googleusercontent.com/IszeItTdGU_vEWb3UoQgPdnHsHzKbzalodl8tyAwN4zxWNX5gT2N4xzqsunCD5BXInI"
+  ],
+  "app_descript": "<p><strong>Brief:</strong>\nMyEG is the official mobile application for England Golf members, offering a plethora of features that keep golf enthusiasts connected with their club and the larger golf community. This app is tailored to enhance the golfing experience by providing regular updates related to your handicap, enabling social interactions, and allowing personalization of user profiles.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>📲 <strong>Real-Time Notifications:</strong> Stay informed with instant notifications about handicap changes, friends’ activities, score comments, and announcements from England Golf and your club.</li>\n<li>🏌️ <strong>Handicap Tracker:</strong> Keep track of your latest handicap index and see how your performance improves over time.</li>\n<li>🔄 <strong>Profile Customization:</strong> Edit your personal details and express your personality by adding a profile picture.</li>\n<li>🗨️ <strong>Social Interaction:</strong> Engage with your friends and club members by commenting on scores and activities.</li>\n<li>🏆 <strong>Clubhouse Digital:</strong> Receive exclusive updates and news from England Golf and your home club right at your fingertips.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👥 <strong>Enhanced Community Engagement:</strong> Encourages social interactions among club members and the broader England Golf community.</li>\n<li>🕒 <strong>Convenient Handicap Access:</strong> Quick reference to your current handicap without the need for manual updates or paperwork.</li>\n<li>🤳 <strong>Personalized Experience:</strong> Ability to personalize your profile for a more individualized app experience.</li>\n<li>🔔 <strong>Stay Updated:</strong> Ensures you never miss important updates or opportunities to engage with the golf community.</li>\n<li>📱 <strong>User-Friendly Interface:</strong> Designed for ease of use, allowing golfers of all ages to navigate the app effortlessly.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 <strong>Niche Audience:</strong> Mainly catered to members of England Golf, thus may not be as useful for non-members.</li>\n<li>🌐 <strong>Limited Global Use:</strong> Being specific to England Golf, its functionalities might not be applicable worldwide.</li>\n<li>🔌 <strong>Dependency on Connectivity:</strong> App features require an internet connection to update and receive notifications.</li>\n<li>🛠️ <strong>Potential Personalization Limitations:</strong> Limited to the options provided within the app for editing profiles.</li>\n<li>📤 <strong>Notification Overload:</strong> Possibility of receiving many notifications, which might be overwhelming for some users.</li>\n</ul>\n<p><strong>Price:</strong>\n💵 The MyEG app is free to download and use, offering an accessible way for members of England Golf to stay connected and manage their golfing profile. The app may have in-app features for purchase, providing additional functionality or services.</p>\n<hr/>\n<p>Markdown format text for inclusion of hyperlinks for each social media platform is not provided as there is no community dimension to showcase for the MyEG app.</p>",
+  "related_apps": [
+    {
+      "link": "/details/Live-Cricket-TV-WorldCup-2023/4582.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.cricketworldcup.livescore.liveline.png",
+      "name": "Live Cricket TV WorldCup 2023",
+      "categoryLink": "/en/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/Rooter/4571.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.threesixteen.app.png",
+      "name": "Rooter",
+      "categoryLink": "/en/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/Supercars-App/4531.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.supercars.app.png",
+      "name": "Supercars App",
+      "categoryLink": "/en/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/yahoo-fantasy-sports/291.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.yahoo.mobile.client.android.fantasyfootball.png",
+      "name": "Yahoo Fantasy Sports",
+      "categoryLink": "/en/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/live-football-tv-stream-hd/289.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.livefootball.mrsports.tvhd.png",
+      "name": "Live Football Tv Stream HD",
+      "categoryLink": "/en/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/the-masters-golf-tournament/288.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.ibm.events.android.masters.png",
+      "name": "The Masters Golf Tournament",
+      "categoryLink": "/en/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/live-sports-tv-streaming/287.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.tehzeeb.livesports.tv.png",
+      "name": "live sports tv streaming",
+      "categoryLink": "/en/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/onx-hunt/286.html",
+      "icon": "https://img.buzzsight.co/apk/icon/onxmaps.hunt.png",
+      "name": "onX Hunt",
+      "categoryLink": "/en/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.9"
+    }
+  ]
+}

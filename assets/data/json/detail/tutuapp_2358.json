@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/tutuapp.png",
+    "title": "TutuApp",
+    "ratings": "4.6",
+    "downloads": "750M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "TutuApp"
+    },
+    {
+      "name": "category",
+      "value": "Tools"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "TUTUAPP Inc."
+    },
+    {
+      "name": "Version",
+      "value": "2.4.11"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h3>TutuApp: Unofficial App Marketplace</h3>\n<p><strong>Brief:</strong>\nTutuApp emerges as an unconventional app store where users can freely dive into a vast ocean of apps and games without shelling out a penny. It operates seamlessly on non-rooted Android devices and non-jailbroken iOS hardware, presenting a straightforward solution for accessing a myriad of software selections.</p>\n<p><strong>Core Features:</strong>\n📌 <strong>Cost-Free Downloads:</strong> Access an extensive library of apps and games at zero charge.\n📌 <strong>Diverse App Selection:</strong> From utility tools to social media applications, the choices are abundant.\n📌 <strong>No Device Modifications Required:</strong> Utilize the app store on standard systems without any rooting or jailbreaking.\n📌 <strong>VIP Option Available:</strong> For an ad-free experience and premium content, the VIP membership costs only $12.99 annually.\n📌 <strong>Fast Download Speeds:</strong> Equipped with an integrated high-speed downloader for swift installations.</p>\n<p><strong>Pros:</strong>\n👍 <strong>Broad Range of Applications:</strong> Explore a wide array of apps, including sought-after games and tools.\n👍 <strong>User-Friendly Interface:</strong> Effortlessly search and download what you need with minimal fuss.\n👍 <strong>No Apple ID Required:</strong> iOS users can download apps without the need for Apple ID authentication.\n👍 <strong>Economical VIP Upgrade:</strong> Affordable annual VIP membership to unlock exclusive features.\n👍 <strong>Safe for Devices:</strong> Operates effectively without compromising the device's original firmware.</p>\n<p><strong>Cons:</strong>\n👎 <strong>Safety and Legality Concerns:</strong> Being an unofficial third-party app store, it raises questions about safety and legality.\n👎 <strong>Permission Requests:</strong> Requires permissions that may involve personal data collection during app installations.\n👎 <strong>Lack of Official Support:</strong> No official backing which may pose risks with future updates and support.\n👎 <strong>Potential Stability Issues:</strong> Unofficial apps may not always have the same stability as those from official stores.\n👎 <strong>VIP Membership Cost:</strong> While it offers free content, some features are behind a paywall.</p>\n<p><strong>Price:</strong>\n💵 The core services of TutuApp are available for free. However, users have the option to purchase TUTUApp VIP for an annual fee of $12.99 to access premium content and an ad-free experience.</p>\n<p><strong>Community:</strong><br/>\n<em>(Note: Due to the nature of TutuApp, specific community resources such as official social media accounts or supported community channels may be limited or non-existent.)</em></p>\n<ul>\n<li><a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Official Site</a></li>\n<li><a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">YouTube Channel</a></li>\n<li><a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Popular YouTuber's Channel</a></li>\n<li><a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Most Followed Instagrammer</a></li>\n<li><a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a></li>\n<li><a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Discord</a></li>\n<li><a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Facebook</a></li>\n<li><a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">TikTok</a></li>\n<li><a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Reddit</a></li>\n<li><a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Fandom Wiki Site</a></li>\n</ul>\n<p>Given the concerns around the safety and legality of TutuApp, it is imperative that users weigh the pros and cons carefully and proceed with caution when using such third-party app stores.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-antique-snap-identifier-appraisal/54309.html",
+      "icon": "assets/img/apk/icon/com.antique.snap.identifier.appraisal.png",
+      "name": "Antique Identifier - Appraisal",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-age-calculator-life-countdown/54243.html",
+      "icon": "assets/img/apk/icon/com.age.calculator.life.countdown.png",
+      "name": "Age Calculator・Life Expectancy",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.4"
+    },
+    {
+      "link": "/details/com-xv-agecalc/54237.html",
+      "icon": "assets/img/apk/icon/com.xv.agecalc.png",
+      "name": "AgeCalc: Date Life Calculator",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-palm-ai-decode-destiny-soul-futurelines-handline/54206.html",
+      "icon": "assets/img/apk/icon/com.palm.ai.decode.destiny.soul.futurelines.handline.png",
+      "name": "Palm AI: Decode Destiny",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/rbx-robuxcalc-getrbx-freecounter/53839.html",
+      "icon": "assets/img/apk/icon/rbx.robuxcalc.getrbx.freecounter.png",
+      "name": "RBX Calc - Get Robuxcounter",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-internetoptimizer-speedtest-wifispeedtest-netspeed-wifipassword-wifispeed/49027.html",
+      "icon": "assets/img/apk/icon/com.internetoptimizer.speedtest.wifispeedtest.netspeed.wifipassword.wifispeed.png",
+      "name": "Internet Optimizer",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.9"
+    },
+    {
+      "link": "/details/com-blazingappstudio-speed_test_pro/49021.html",
+      "icon": "assets/img/apk/icon/com.blazingappstudio.speed_test_pro.png",
+      "name": "Speed Test - Wifi Optimizer",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-secret-camera-hidden-detector/39728.html",
+      "icon": "assets/img/apk/icon/com.secret.camera.hidden.detector.png",
+      "name": "Hidden Camera & IR Detector",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    }
+  ]
+}

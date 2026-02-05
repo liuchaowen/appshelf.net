@@ -1,0 +1,109 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/com.breakingnewsbrief.app.png",
+    "title": "Breaking News Brief",
+    "ratings": "4.8",
+    "downloads": "890M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Breaking News Brief"
+    },
+    {
+      "name": "category",
+      "value": "News & Magazines"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "My Apply Apps"
+    },
+    {
+      "name": "Version",
+      "value": "1.13.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/0k_0Kyu6yVE64i9kj-J68v6AjnybNCLEw8cro9FwVJFgm87nDEKG10CWEDLlPMbDzw",
+    "https://play-lh.googleusercontent.com/smVHedJ62zXI5oAefRYOvClMj04HhVRKSpzpYeQPZQ0rdCgA4VZQBZ4WAx0w8fl0h9E",
+    "https://play-lh.googleusercontent.com/68HkRYX9ri9gs_tiiQMAHJWVP6Cb9dYM3TsosBM0pf9J5KLcCxTwU2Fb6UhH9-tHZn0",
+    "https://play-lh.googleusercontent.com/BbN2XTZxA43UypRzXQhogHUb6c4gZC7H0mZP1H7vhVjxa4HEvBXC4GWkun-RN-RvdqAu",
+    "https://play-lh.googleusercontent.com/zeXw0Wfw620TPAOJWnUiqadVyx_hHIJvSmYcqKC5HaDt1zq-pRQGzZ1eV_o8YhKh-k9j"
+  ],
+  "app_descript": "<p><strong>Breaking News Brief</strong></p>\n<p><strong>Brief:</strong>\nBreaking News Brief is your comprehensive news companion, designed to deliver a broad spectrum of US news, including in-depth coverage and the latest headlines, directly to your device. Keep pace with national stories, weather updates, and local events that matter to you, all sourced from the most trusted news outlets across the country.</p>\n<p><strong>📌 Core Features:</strong></p>\n<ul>\n<li>Curated Articles: Handpicked, relevant articles from various trusted news sources 📰.</li>\n<li>Breaking Headlines: Prompt updates on breaking news to keep you informed on the go 🔔.</li>\n<li>In-Depth Coverage: Thorough analysis and detailed reports on major news events 📊.</li>\n<li>Local News &amp; Alerts: Access to exclusive local stories and real-time alerts about events in your area 🌍.</li>\n<li>Weather Forecasts: Stay prepared with the latest weather news and forecasts tailored for your locality ☔.</li>\n</ul>\n<p><strong>👍 Pros:</strong></p>\n<ul>\n<li>Comprehensive News Source: One-stop-shop for all types of news, from national to local 🌐.</li>\n<li>Trusted Information: Gathers information from reputable news outlets ensuring reliability ✅.</li>\n<li>Real-Time Notifications: Immediate alerts on breaking news keep you ahead of the curve 🚨.</li>\n<li>User-Friendly Interface: Easy navigation and article accessibility enhance the reading experience 📱.</li>\n<li>Customizable Alerts: Ability to tailor which alerts you receive, so you're only notified about what interests you 🔧.</li>\n</ul>\n<p><strong>👎 Cons:</strong></p>\n<ul>\n<li>Network Dependency: Requires a strong internet connection to keep the news feed updated 🌐.</li>\n<li>Ad Intrusion: The presence of ads may disrupt the reading experience 🚫.</li>\n<li>Limited Sources: Some users may find the range of news sources narrower than desired 🔍.</li>\n<li>Data Consumption: May use a significant amount of data when fetching news stories and updates 📶.</li>\n<li>Battery Usage: Frequent updates and alerts could impact battery life if not managed properly 🔋.</li>\n</ul>\n<p><strong>💵 Price:</strong>\nBreaking News Brief is free to download and use, providing a wealth of news at no initial cost. Be aware that there might be in-app purchases or subscriptions to unlock additional features or remove advertisements. Pricing details will be specified within the app.</p>\n<p>Enjoy being in the know with Breaking News Brief, where the latest stories and updates are always within reach!</p>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-app-foapp/15418.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.app.foapp.png",
+      "name": "The Obituary App",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-globalnews-android-novanews/5116.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.globalnews.android.novanews.png",
+      "name": "Global News - Breaking & Local",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/Hindi-News-by-Dainik-Bhaskar/4635.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.ak.ta.dainikbhaskar.activity.png",
+      "name": "Hindi News by Dainik Bhaskar",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.9"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/Way2News-News-updates-Election/4625.html",
+      "icon": "https://img.buzzsight.co/apk/icon/sun.way2sms.hyd.com.png",
+      "name": "Way2News News updates Election",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.6"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/Hindi-News/4507.html",
+      "icon": "https://img.buzzsight.co/apk/icon/in.AajTak.headlines.png",
+      "name": "Hindi News",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/TVA-Nouvelles/4479.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.nurun.lcn.png",
+      "name": "TVA Nouvelles",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/uol/3121.html",
+      "icon": "https://img.buzzsight.co/apk/icon/br.uol.noticias.png",
+      "name": "UOL",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.3"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/local-news/3120.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.opera.app.news.local.png",
+      "name": "Local News",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.5"
+    }
+  ]
+}

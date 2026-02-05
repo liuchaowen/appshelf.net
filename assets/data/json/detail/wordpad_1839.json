@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/wordpad.png",
+    "title": "WordPad",
+    "ratings": "4.5",
+    "downloads": "750M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "WordPad"
+    },
+    {
+      "name": "category",
+      "value": "Productivity"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Black Carbon"
+    },
+    {
+      "name": "Version",
+      "value": "1.0"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h3>Brief</h3>\n<p>WordPad is a versatile text-editing app designed for ease of use and efficiency. It serves as a handy tool for crafting, editing, and sharing documents, with a user-friendly minimalistic interface that streamlines your writing experience. </p>\n<h3>Core Features</h3>\n<ul>\n<li>📤 <strong>File Sharing:</strong> Effortlessly share documents directly from within the app.</li>\n<li>🔍 <strong>Spell Check:</strong> Enable optional spell checking to maintain accuracy in your documents.</li>\n<li>💾 <strong>Auto-Save:</strong> Never lose your work with the automatic saving feature.</li>\n<li>🎨 <strong>Custom Themes:</strong> Personalize your writing space with a variety of themes.</li>\n<li>📈 <strong>History Access:</strong> Quickly access a history of your recent files for efficient workflow. ⚙️</li>\n</ul>\n<h3>Pros</h3>\n<ul>\n<li>👍 <strong>Simplified Interface:</strong> Enjoy a clutter-free environment that focuses on your content.</li>\n<li>👍 <strong>Easiness of Use:</strong> Navigate and utilize the app's features without any hassle.</li>\n<li>👍 <strong>Reliable Performance:</strong> Provides stable performance even in its beta phase.</li>\n<li>👍 <strong>Flexible Encoding:</strong> Set encoding options to support multiple character types, enhancing compatibility.</li>\n</ul>\n<h3>Cons</h3>\n<ul>\n<li>👎 <strong>Beta Limitations:</strong> As a beta version, some features might be under development or refinement, impacting the overall experience.</li>\n<li>👎 <strong>Limited Advanced Features:</strong> Professional users may find the feature set lacking for advanced editing tasks.</li>\n<li>👎 <strong>Potential Bugs:</strong> The possibilitty of encountering bugs, usual for apps in beta phases.</li>\n<li>👎 <strong>Support Dependency:</strong> Requires proactive seeking of support through forums or emails, which might not be instantaneous.</li>\n</ul>\n<h3>Price</h3>\n<ul>\n<li>💵 <strong>Cost-Effective:</strong> WordPad is a free tool, although it is not specified if future versions might offer in-app purchases or premium features.</li>\n</ul>\n<h3>Community</h3>\n<ul>\n<li>🕸️ <strong>Support Forums:</strong> Engage with the WordPad community and seek assistance on the dedicated forums.</li>\n</ul>\n<p>Craft your documents with the efficiency and simplicity of WordPad, the text-editor that blends functionality with user-centered design.</p>\n<p><a href=\"https://play.google.com/store/apps/details?id=blackcarbon.wordpad\" rel=\"noopener noreferrer\" target=\"_blank\">Download WordPad Now</a></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-takeofflabs-fontmaker/54188.html",
+      "icon": "assets/img/apk/icon/com.takeofflabs.fontmaker.png",
+      "name": "Fontmaker - Font Keyboard App",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-game-console-emulator/39577.html",
+      "icon": "assets/img/apk/icon/com.game.console.emulator.png",
+      "name": "Gamu: Retro Game Hub",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/app-itwingtech-power_of_mind-predicator/39340.html",
+      "icon": "assets/img/apk/icon/app.itwingtech.power_of_mind.predicator.png",
+      "name": "Mind Test: Test My Brain",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-pdfreader-pdfeditor-scandocu-pro-app-amb/16953.html",
+      "icon": "assets/img/apk/icon/com.pdfreader.pdfeditor.scandocu.pro.app.amb.png",
+      "name": "PDFPro: Scanner & Editor",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "3.8"
+    },
+    {
+      "link": "/details/ai-perplexity-app-android/16744.html",
+      "icon": "assets/img/apk/icon/ai.perplexity.app.android.png",
+      "name": "Perplexity - Ask Anything",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-safeshellvpn/16639.html",
+      "icon": "assets/img/apk/icon/com.safeshellvpn.png",
+      "name": "SafeShell VPN: Fast & Secure",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-roblox-skin-cloth-freeskins/16603.html",
+      "icon": "assets/img/apk/icon/com.roblox.skin.cloth.freeskins.png",
+      "name": "Clothes Skin For Roblox",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-underthing-focus-friend/16526.html",
+      "icon": "assets/img/apk/icon/com.underthing.focus.friend.png",
+      "name": "Focus Friend by Hank Green",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.7"
+    }
+  ]
+}

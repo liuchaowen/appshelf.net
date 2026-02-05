@@ -1,0 +1,109 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.onyx.hd.all.video.downloader.png",
+    "title": "Video Downloader",
+    "ratings": "4.5",
+    "downloads": "110M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Video Downloader"
+    },
+    {
+      "name": "category",
+      "value": "Tools"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Onyx Techologies"
+    },
+    {
+      "name": "Version",
+      "value": "V1.0.6"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/0fyPw0_Ci0jOBF1xkyoxC5ZAA_HaXiofhHW7JtmQYQJKzdln1W97lRt4G8daTOf6gloP",
+    "https://play-lh.googleusercontent.com/u8vpWGD3VAzSoZOQYiwnvyqrkg1c--d35Vm5jtxLnLz25eCrzhOORN79EmkojSOgbN4",
+    "https://play-lh.googleusercontent.com/QDmMLBU1Ah3ChTVXgp5WbGduTP7bQpXK_WxoQFNWljK1tmKOtYDTd6xkzAT4tOwy-VI",
+    "https://play-lh.googleusercontent.com/oclkfoRTrew6RVUNR-_VMpAklmz14Uf9y_1xV2utzCne_OL66-jbCvEFbzXSqKqjVmk",
+    "https://play-lh.googleusercontent.com/GfqvLUlLSGR1Y_jug9T93hZ_Aj9Cn1dM2cLwyLmF4B0vq7l6pWYqLcBxWPn46_cHCtDa"
+  ],
+  "app_descript": "<h2>Brief</h2>\n<p>Video Downloader is designed to facilitate the easy downloading of videos for offline viewing. This app aims to provide users with a tool to save their favorite videos from various platforms onto their devices, allowing them to enjoy content without the need for an internet connection. The app offers a straightforward way to download videos for those who want to watch them on the go or keep them for future use.</p>\n<h2>Core Features 🛠️</h2>\n<ul>\n<li><strong>Multi-Platform Support</strong>: Access a range of video hosting websites to download your desired content. 🌐</li>\n<li><strong>User-Friendly Interface</strong>: Navigate through the app effortlessly, thanks to its simple and intuitive layout. 📱</li>\n<li><strong>Offline Video Access</strong>: Save videos directly to your device and enjoy them anytime, anywhere, without needing an internet connection. 📥</li>\n<li><strong>Video Resolution Choices</strong>: Choose from multiple resolution options to download the best quality that suits your device and preference. 🔍</li>\n</ul>\n<h2>Pros 👍</h2>\n<ul>\n<li><strong>Convenience</strong>: Easily download videos to watch at your leisure without worrying about connectivity issues. 🔄</li>\n<li><strong>Simplicity</strong>: The app's uncomplicated design makes it accessible even for non-tech savvy users. ✅</li>\n<li><strong>Versatility</strong>: The support it offers for various platforms makes it more versatile than some competitors. 📲</li>\n<li><strong>Storage Friendly</strong>: Keep videos on your device and manage them within the app's built-in library. 💾</li>\n</ul>\n<h2>Cons 👎</h2>\n<ul>\n<li><strong>Limited Platform Support</strong>: Not all video platforms are supported, which could limit its usefulness for certain users. 🚫</li>\n<li><strong>Quality Restrictions</strong>: Some videos may not be downloadable in high-definition, potentially diminishing the viewing experience. 📉</li>\n<li><strong>Intrusive Ads</strong>: The presence of ads could disrupt the user experience, prompting some users to look for ad-free alternatives. 📢</li>\n</ul>\n<h2>Price 💵</h2>\n<p>Video Downloader is available for free, though it may include ad-support to generate revenue. Users should be aware of this potential trade-off when using the app.</p>\n<p><a href=\"https://www.example.com\" rel=\"noopener noreferrer\" target=\"_blank\">Download Video Downloader</a></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-antique-snap-identifier-appraisal/54309.html",
+      "icon": "assets/img/apk/icon/com.antique.snap.identifier.appraisal.png",
+      "name": "Antique Identifier - Appraisal",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-age-calculator-life-countdown/54243.html",
+      "icon": "assets/img/apk/icon/com.age.calculator.life.countdown.png",
+      "name": "Age Calculator・Life Expectancy",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.4"
+    },
+    {
+      "link": "/details/com-xv-agecalc/54237.html",
+      "icon": "assets/img/apk/icon/com.xv.agecalc.png",
+      "name": "AgeCalc: Date Life Calculator",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-palm-ai-decode-destiny-soul-futurelines-handline/54206.html",
+      "icon": "assets/img/apk/icon/com.palm.ai.decode.destiny.soul.futurelines.handline.png",
+      "name": "Palm AI: Decode Destiny",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/rbx-robuxcalc-getrbx-freecounter/53839.html",
+      "icon": "assets/img/apk/icon/rbx.robuxcalc.getrbx.freecounter.png",
+      "name": "RBX Calc - Get Robuxcounter",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-internetoptimizer-speedtest-wifispeedtest-netspeed-wifipassword-wifispeed/49027.html",
+      "icon": "assets/img/apk/icon/com.internetoptimizer.speedtest.wifispeedtest.netspeed.wifipassword.wifispeed.png",
+      "name": "Internet Optimizer",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.9"
+    },
+    {
+      "link": "/details/com-blazingappstudio-speed_test_pro/49021.html",
+      "icon": "assets/img/apk/icon/com.blazingappstudio.speed_test_pro.png",
+      "name": "Speed Test - Wifi Optimizer",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-secret-camera-hidden-detector/39728.html",
+      "icon": "assets/img/apk/icon/com.secret.camera.hidden.detector.png",
+      "name": "Hidden Camera & IR Detector",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    }
+  ]
+}

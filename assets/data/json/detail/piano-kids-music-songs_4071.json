@@ -1,0 +1,136 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.orange.kidspiano.music.songs.png",
+    "title": "Piano Kids - Music & Songs",
+    "ratings": "4.3",
+    "downloads": "530M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Piano Kids - Music & Songs"
+    },
+    {
+      "name": "category",
+      "value": "Music"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Orange Studios Games"
+    },
+    {
+      "name": "Version",
+      "value": "2.63"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/wl2FdzR1MIQ5CfAtnTmYjG4ec8hLJaqLLVjY3OxWvF7dd_Oja96DYDjujD0GdE15XbI",
+    "https://play-lh.googleusercontent.com/Yb4JRuBNp75iiEDJNy-AcNK-aWCAxRhzXF1CR4O9jkx0H6cv2WyfNYFsZv02xyhdRuw_",
+    "https://play-lh.googleusercontent.com/-h_5ZoDRKET1yjHH1Pvdg_CEAqWjQbJdIUgwQtBUS9Yn7JJPMTLpQTZMesXvw00Nk-Hw",
+    "https://play-lh.googleusercontent.com/UlqNvCP1DLZrOUdS3_6F40c-KjACL0S8mQqDhHnT1pHgafWl09FSx9BfTlyGEkDqLQ",
+    "https://play-lh.googleusercontent.com/P4WQyrWqnS9kJJ8B15KEAxHXRG8FMCLuoxIGtEJRVoeCKM5B05MazzJkpOVQS4gkxfQ",
+    "https://play-lh.googleusercontent.com/WL2HXfIXv03GG795VUvgSIQLh3afcPafacz6WohL6oip-9naxVncwrHUAFtpceSzMBN1",
+    "https://play-lh.googleusercontent.com/c3xta1XcccSnYxICIBctYBqs8kvmlqmc_lnYuNfmS-kHmluX9dxTqV6D2kFVkOrc_Q",
+    "https://play-lh.googleusercontent.com/fuyiBtHiZ8XnIIm7-XOr4re6tWYJOO8Qi0Xq7xuJTCTn-kMSUU5SgWTjecaAx4d4TQ",
+    "https://play-lh.googleusercontent.com/58FpkshNv7qaHGwueT1zx0xpguT5skHvc69FM_cNDR-1HmEXoEYFlqoCS8G25Y6mJE0",
+    "https://play-lh.googleusercontent.com/nBB7jYY9LfLvtvtLtTnNMQfcn5SVosa0kavKvWFrhGPzsp2URJXrrqxes4Tx6Em1XA",
+    "https://play-lh.googleusercontent.com/EYzDf5SXKdVPjo7ioQpwzv-F3xGQ2y2i2Z_IaPlOV3kJV7Msqsd2Nqu-u5EF3E1CdA",
+    "https://play-lh.googleusercontent.com/lgw-iC3phbF8s7EQcrcGV6owwx2NZekwBy2NGwc1BGYvj9ln3PIeDbMtbCcp-pf9Dgha",
+    "https://play-lh.googleusercontent.com/VABpUoUPGlkgT6IicE76TJCIoIRYeHo7mTFuBI7YWPLeI3QWmZElZHnQc-au4vQR9SOw",
+    "https://play-lh.googleusercontent.com/wMiKhBK4MGVbn68cQpdzPT2z8htEH2gdckaAifRnRHN_TLJl5JHC3hd0IH0Rogi-I88",
+    "https://play-lh.googleusercontent.com/PYdyPLP1ZcDrM8OahYQS02RdI1ALgPnYJHuqwL_1ckwMFOmOzxtnQOosyIT2mXJqNu4",
+    "https://play-lh.googleusercontent.com/r51ZgVxXx4jjDwNDRbnMZEnpXYSy2zDnIPeHtOkgPHfCEvLBAOoRSpty6rMluTStYKM",
+    "https://play-lh.googleusercontent.com/mCEfNCElT0pniNOYgzrIcHwYGO_6K1sXPfqwa1pcta__ocgnkdDZvTGsGX63U8g6CCww",
+    "https://play-lh.googleusercontent.com/0lW5jujZYIcii3vBCx1TivWmkx460fwzO3T_0fe1ccl85gYW0JkhTitwqeGuOGSEPw",
+    "https://play-lh.googleusercontent.com/U3c2cS5dtjqFAHPsflekgplHoI0SoBOsaAF11_PXXbr-EQBAbTRp7yRe_fYhf1eCa60",
+    "https://play-lh.googleusercontent.com/ds1SuZGK2pKDBpAS_tv9OKecvRYhUUpGKBpQACsrQojRvbJ9SPhpfDZpT50Hqj3q--0",
+    "https://play-lh.googleusercontent.com/7EW_hecMFLHWJPqZAUcqxcpjcfNnWVbGbVsouVIOxf-mKf4pSpIRUna9FEulRErg8CKw",
+    "https://play-lh.googleusercontent.com/MzXB6ah6Ajs4LeOq4prIdGZSjwWh-gYYbbbO69tUOyeRMhh7OM2lewnarGlQaRUVjoQ",
+    "https://play-lh.googleusercontent.com/x-PxmuwnXchnnOjwpxaw6uLJ_zOwglVc3NynG2WDPVntU7jbll1jhTjESCECBcRSbA",
+    "https://play-lh.googleusercontent.com/yUZargEiZWBIK7wpUOwGyFeJGuN2Q4Xy3ne-Ht0df_ecqTWtCDl9BTKtQP8SBy2DDMP-",
+    "https://play-lh.googleusercontent.com/NRc7uqV_whCsfuFMfl6V_e6tBif5jn04PIU-bqJHqGembbrRiysHVqwTpXIbljgOOVA",
+    "https://play-lh.googleusercontent.com/2h6ORk77MBQwrW3ZSzL8A0B0YW7W_bs-po_dZW91DnIbPunjZavjq9OXPcUC1wOt7jw",
+    "https://play-lh.googleusercontent.com/7A8ivChEq65s4zh1DI0HCsKGkKQZnwwv3JFRpDAoOVoHYGZWjYhQQ_kHrvnmCuNdiQ1U",
+    "https://play-lh.googleusercontent.com/dK1TmfYjJaQz0YeyZRmhtJDlZLRhXSmE3iWwIWGzvFlGfhiOsTY5szeHM52WJhIy6Gk",
+    "https://play-lh.googleusercontent.com/ImWdIDC6mVhcKQ4NpI0m5mm1q4Bhfej5g1hLTVnC3-uTtDcapoM00cxAuj3Ln1X-pHQ",
+    "https://play-lh.googleusercontent.com/RbkSk3RWnuXofFdooY4vuqUl86SObh7qb3285dEvri464FMNz-aeujjyoHCEnYNHJ06q",
+    "https://play-lh.googleusercontent.com/-vVcGY_OERHExfIhzjvQFog1HwE4xNiLLt86prWoVfQ5-RUkPb9E31zEuxVTWEEql8E",
+    "https://play-lh.googleusercontent.com/fkfg3HbAyOGR2D2WFLlo2_2BMaJeAyBKO32iQw7C9bAQ5y77CVLLf7V7dzzkXOpN3A"
+  ],
+  "app_descript": "<p><strong>Piano Kids - Music &amp; Songs</strong></p>\n<p>Embark on a musical journey with your child through the vibrant and educational world of \"Piano Kids - Music &amp; Songs.\" Loaded with cheerful visuals, this app is designed not just to entertain but also to enhance your child's cognitive skills and stimulate their creativity. Let's dive into the symphony of learning and enjoyment that awaits within this application.</p>\n<p>📌 <strong>Core Features:</strong></p>\n<ul>\n<li>Interactive <strong>Instruments Mode</strong>: Engage with various instruments such as Piano, Guitar, Xylophone, and more, each producing authentic sounds 🎹.</li>\n<li>Educational <strong>Songs Mode</strong>: Learn to play delightful songs with an assistive \"Auto Play\" function and animated characters that guide note selection 🎶.</li>\n<li>Enriching <strong>Sounds Mode</strong>: Acquaint children with a variety of sounds, helping them grasp the pronunciation of numbers, colors, and letters in multiple languages 📢.</li>\n<li>Stimulating <strong>Games Mode</strong>: A bouquet of fun games that incorporate music and sound for learning basics like counting, the alphabet, and geometric shapes 🎮.</li>\n<li><strong>Quality Sounds &amp; Songs</strong>: Features 30 familiar tunes and genuine instrument sounds for a high-fidelity musical experience 🎷.</li>\n</ul>\n<p>👍 <strong>Pros:</strong></p>\n<ul>\n<li>Aids in the development of memory, concentration, and creativity 🌟.</li>\n<li>Encourages musical talent with family-friendly activities suitable for all ages 🎼.</li>\n<li>Multilingual learning options enhance language skills 💬.</li>\n<li>Completely free to use with an intuitive and user-friendly interface 👌.</li>\n<li>Equipped with an impressive \"Auto Play\" mode to simplify the learning process ✅.</li>\n</ul>\n<p>👎 <strong>Cons:</strong></p>\n<ul>\n<li>The free nature may include ads that can distract from the learning experience ❗.</li>\n<li>Limited to a set of 30 songs, which may reduce long-term engagement for some users 🔄.</li>\n<li>Requires a device with sound capabilities, which may not be as robust on all devices 🔈.</li>\n<li>Multilingual options, while useful, might be overwhelming for younger kids initially 🤔.</li>\n<li>The focus on musical education may not cater to children with different interest areas 🚸.</li>\n</ul>\n<p>💵 <strong>Price:</strong></p>\n<ul>\n<li>Piano Kids - Music &amp; Songs is <strong>completely free</strong> to download and play. This promises a budget-friendly educational tool for parents and educators 🆓.</li>\n</ul>\n<p><strong><em>Do you enjoy Piano Kids - Music &amp; Songs?</em></strong> Support the developers by rating and reviewing on your app store. Your feedback helps in refining and creating even more engaging free games for your little ones!</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-rolling-hop-dancing-cats-tiles-musicgames/39527.html",
+      "icon": "assets/img/apk/icon/com.rolling.hop.dancing.cats.tiles.musicgames.png",
+      "name": "Dancing Cats 2: Music Games",
+      "categoryLink": "/en/categories/music/41",
+      "category": "Music",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/magic-hop-beat-tile-music/16833.html",
+      "icon": "assets/img/apk/icon/magic.hop.beat.tile.music.png",
+      "name": "Music Rhythm Hop: Ball Game",
+      "categoryLink": "/en/categories/music/41",
+      "category": "Music",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/com-slngames-sprunki/16793.html",
+      "icon": "assets/img/apk/icon/com.slngames.sprunki.png",
+      "name": "Sprunki Cute vs Scary Beats",
+      "categoryLink": "/en/categories/music/41",
+      "category": "Music",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-scary-spranky-mix-beats-music-game/16792.html",
+      "icon": "assets/img/apk/icon/com.scary.spranky.mix.beats.music.game.png",
+      "name": "Music Beats: Cute or Scary",
+      "categoryLink": "/en/categories/music/41",
+      "category": "Music",
+      "rating": "3.8"
+    },
+    {
+      "link": "/details/com-ningningstudio-kpopmagictiles/16582.html",
+      "icon": "assets/img/apk/icon/com.ningningstudio.kpopmagictiles.png",
+      "name": "Kpop Piano Beats - Music Game",
+      "categoryLink": "/en/categories/music/41",
+      "category": "Music",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-fnfstudio-ff/16290.html",
+      "icon": "assets/img/apk/icon/com.fnfstudio.ff.png",
+      "name": "Music Rap Time Battle",
+      "categoryLink": "/en/categories/music/41",
+      "category": "Music",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/me-funkin-fnf/16205.html",
+      "icon": "assets/img/apk/icon/me.funkin.fnf.png",
+      "name": "Friday Night Funkin'",
+      "categoryLink": "/en/categories/music/41",
+      "category": "Music",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/com-prpr-musedash/15235.html",
+      "icon": "assets/img/apk/icon/com.prpr.musedash.png",
+      "name": "Muse Dash",
+      "categoryLink": "/en/categories/music/41",
+      "category": "Music",
+      "rating": "4.6"
+    }
+  ]
+}

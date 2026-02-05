@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/line-lite.png",
+    "title": "Line Lite",
+    "ratings": "4.4",
+    "downloads": "570M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Line Lite"
+    },
+    {
+      "name": "category",
+      "value": "Communication"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "LINE Corporation"
+    },
+    {
+      "name": "Version",
+      "value": "2.17.1"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h3>Line Lite</h3>\n<p><strong>Brief:</strong>\nLine Lite is a streamlined version of the popular communication app LINE, tailored for users seeking a lightweight messenger that conserves data and device resources. Combining essential features from its full-featured sibling, Line Lite ensures that staying connected with friends and family is easy and efficient, even on limited bandwidth or older mobile devices.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>📲 <strong>Easy Account Switching:</strong> Seamlessly transfer your conversation from LINE to Line Lite using your registered email account. </li>\n<li>👥 <strong>Simple Friend Addition:</strong> Find and add friends rapidly via ID search or instantly sync contacts from your device's contact list. </li>\n<li>📞 <strong>Complimentary Calls:</strong> Enjoy free voice and video calls to connect with loved ones without incurring extra costs.</li>\n<li>⚖️ <strong>Data-Friendly:</strong> Optimized to save on your data usage, ideal for those on limited data plans or in areas with restricted connectivity. </li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 <strong>User-Friendly Interface:</strong> Designed for ease of use, facilitating quick and effortless communication.</li>\n<li>👍 <strong>Resource Efficient:</strong> Occupies minimal space on your device and utilizes fewer resources, enhancing performance.</li>\n<li>👍 <strong>Data Usage Transparency:</strong> Promotes awareness of data consumption, recommending Wi-Fi use when possible.</li>\n<li>👍 <strong>Uninterrupted Connectivity:</strong> Maintains your social network presence, even with low data speeds. </li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 <strong>Limited Features:</strong> Stripped-down version lacks some of the advanced features found in the full LINE app. </li>\n<li>👎 <strong>Potential Data Charges:</strong> Data charges might apply, depending on your mobile plan and usage outside of Wi-Fi.</li>\n<li>👎 <strong>Compatibility Issues:</strong> Some users may find limited functionality with specific devices or configurations.</li>\n<li>👎 <strong>Network Dependence:</strong> Quality of voice and video calls contingent on network stability and speed. </li>\n</ul>\n<p><strong>Price:</strong></p>\n<ul>\n<li>💵 The app is available for <strong>Free.</strong> However, please be aware that data charges may apply when using mobile data outside of a Wi-Fi connection. </li>\n</ul>\n<p><strong>Community:</strong></p>\n<ul>\n<li>🕸️ Official site: <a href=\"https://line.me/D\" rel=\"noopener noreferrer\" target=\"_blank\">LINE Lite</a></li>\n</ul>\n<p>Please be advised to verify your data plan to avoid unexpected charges and for an optimal experience, consider using a Wi-Fi network when making voice and video calls. Enjoy seamless and efficient connectivity with Line Lite!</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-sst-parrot-photo-frame/53901.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.sst.parrot.photo.frame.png",
+      "name": "Bird Photo Frame",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-new_year-stickers-birthday/39669.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.new_year.stickers.birthday.png",
+      "name": "Happy New Year Stickers 2026",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/org-watchduty-app/14524.html",
+      "icon": "https://img.buzzsight.co/apk/icon/org.watchduty.app.png",
+      "name": "Watch Duty (Wildfire)",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-snowcorp-stickerly-android/14453.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.snowcorp.stickerly.android.png",
+      "name": "Sticker.ly - Sticker Maker",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-Happynewyearphotoframe2020/14421.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.Happynewyearphotoframe2020.png",
+      "name": "New Year Video Maker 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-intira-new-year-photo-frame-new/14342.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.intira.new.year.photo.frame.new.png",
+      "name": "New year photo frame 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-christmas-photo-frame-b-new-free/14203.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.christmas.photo.frame.b.new.free.png",
+      "name": "Christmas photo frame 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/ma-apps-face_ml/14137.html",
+      "icon": "https://img.buzzsight.co/apk/icon/ma.apps.face_ml.png",
+      "name": "Face reader scanner - analyser",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "3.3"
+    }
+  ]
+}

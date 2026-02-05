@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/pixel-launcher-from-pixel-4.png",
+    "title": "Pixel Launcher from Pixel 4",
+    "ratings": "4.5",
+    "downloads": "110M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Pixel Launcher from Pixel 4"
+    },
+    {
+      "name": "category",
+      "value": "Photography"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Google LLC"
+    },
+    {
+      "name": "Version",
+      "value": "0.1"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>Pixel Launcher from Pixel 4</strong></p>\n<p>Bring the sophisticated simplicity of the Pixel 4 to your device with the Pixel Launcher from Pixel 4. This launcher elevates your Android experience closer to what you'd find on a genuine Google Pixel device, offering a clean, user-friendly interface and essential functions.</p>\n<h3>Core Features:</h3>\n<ul>\n<li><strong>Google Feed Integration</strong> 📰: Enjoy immediate access to Google Feed and its wealth of information right from your home screen—no extra apps required.</li>\n<li><strong>Instant Google Search Access</strong> 🔍: Tap into Google Search instantly from your primary home screen, making information retrieval swift and convenient.</li>\n<li><strong>Alphabetical App Sorting</strong> 🅰️: Locate your favorite apps effortlessly by swiping up to the Favorites row, neatly organized from A to Z.</li>\n<li><strong>App Suggestions</strong> 💡: Stay efficient with smart app suggestions that prioritize your app search, bringing the most relevant applications to the forefront.</li>\n<li><strong>Quick App Management</strong> ✨: Engage with app shortcuts seamlessly—open apps or rearrange them on your home screen with simple long-press actions.</li>\n</ul>\n<h3>Pros:</h3>\n<ul>\n<li>👍 Simplified user experience mirroring Google's Pixel 4 aesthetic and functionality.</li>\n<li>👍 Enhanced organization with alphabetical sorting and intelligent app suggestions.</li>\n<li>👍 Direct, hassle-free integration with the Google ecosystem through Google Feed and Search.</li>\n<li>👍 Quick and intuitive app arrangement with customizable shortcuts.</li>\n<li>👍 Seamless adaptation for those accustomed to Pixel devices or seeking a Pixel-like experience on their phone.</li>\n</ul>\n<h3>Cons:</h3>\n<ul>\n<li>👎 Compatibility issues may disable the home gesture on some devices.</li>\n<li>👎 Requires pre-installed Google Play Store or GMS for use, potentially complicating the setup process for some users.</li>\n<li>👎 The launcher may not replicate the full Pixel experience on non-Pixel devices.</li>\n<li>👎 Potential for bugs and glitches that may require troubleshooting, such as the noted gesture issue.</li>\n<li>👎 Limited to the aesthetics and features of the Pixel 4, which may feel restrictive for users desiring more customization options.</li>\n</ul>\n<h3>Pricing:</h3>\n<p>💵 The Pixel Launcher from Pixel 4 is available for free download. Keep in mind that it may require the installation of additional Google Mobile Services (GMS) on devices without Google Play Store.</p>\n<p>Transform your mobile interface with the clean, minimal design of the Pixel devices using Pixel Launcher from Pixel 4. Please note that while the launcher is designed to bring convenience and efficiency, it's ideal for users who are already geared towards Google's ecosystem, and it could introduce some compatibility hiccups for others. Downloading the APK file is straightforward, providing you an updated version of this sleek launcher on your device.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-bhimaapps-valentineday/54159.html",
+      "icon": "assets/img/apk/icon/com.bhimaapps.valentineday.png",
+      "name": "Valentine Day Live Wallpaper",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "3"
+    },
+    {
+      "link": "/details/com-St-ValentinesDayLiveWallpaper/54154.html",
+      "icon": "assets/img/apk/icon/com.St.ValentinesDayLiveWallpaper.png",
+      "name": "Valentines Day Live Wallpaper",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-plaxa-parallax3d-wallpaper-overlay-touch-effect-aura/53773.html",
+      "icon": "assets/img/apk/icon/com.plaxa.parallax3d.wallpaper.overlay.touch.effect.aura.png",
+      "name": "Plaxa: Parallax Aura Wallpaper",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-happynewyear-hdwallpapers/49048.html",
+      "icon": "assets/img/apk/icon/com.happynewyear.hdwallpapers.png",
+      "name": "Happy New Year 2026 Wallpaper",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-photo-editor-photocalendar/49045.html",
+      "icon": "assets/img/apk/icon/com.photo.editor.photocalendar.png",
+      "name": "Calendar Maker: Photo Editor",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-watchfacestudio-animatedanalogfireworkswatchface/48946.html",
+      "icon": "assets/img/apk/icon/com.watchfacestudio.animatedanalogfireworkswatchface.png",
+      "name": "Fireworks Happy New Year's Eve",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/happy-neww-bighabits-year-images-wishes-gifs-day-stickers-wallpaper/48940.html",
+      "icon": "assets/img/apk/icon/happy.neww.bighabits.year.images.wishes.gifs.day.stickers.wallpaper.png",
+      "name": "Happy New Year 2026 Habits",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-starwatchfaces-hnyanimated/48934.html",
+      "icon": "assets/img/apk/icon/com.starwatchfaces.hnyanimated.png",
+      "name": "Happy New Year Animated",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4"
+    }
+  ]
+}

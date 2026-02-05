@@ -1,0 +1,111 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/com.ihealthlabs.test.png",
+    "title": "iHealth Test",
+    "ratings": "4.1",
+    "downloads": "460M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "iHealth Test"
+    },
+    {
+      "name": "category",
+      "value": "Medical"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "iHealth Labs, Inc."
+    },
+    {
+      "name": "Version",
+      "value": "1.1.3"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/6d9YXbuc3rRDx2enO1-5EnObEqp37MEUEG2TcWs_NZgw_oXCCmvm8yO9k64VLGU6fxw",
+    "https://play-lh.googleusercontent.com/F7WPWE6OGCRCkPrMquSOfc50epbdIL1R1UjmsmD4-avVoUIaNyESJ53dtieeNK_Z9Tg",
+    "https://play-lh.googleusercontent.com/VSUyqgImY9R_JS7jZAKFN5sIWM7XGfTcE4wKOSsYwYMFrYKBE5CMYlsD4Vg0Hpr-m_k",
+    "https://play-lh.googleusercontent.com/QiQHyvgmnRSVc0VU_mohT9Z-nkBq0-_kX0hfwKkjb60wmzq0hilPJjSoGOEYxOmRtZc",
+    "https://play-lh.googleusercontent.com/Oswj7u7YOU_gNyv5fGt7PiXTOfbhh_Bd-gMRAGW4Iy9AICA1sqa8tsP2gYfVFEyWXbA",
+    "https://play-lh.googleusercontent.com/v0LC1Emvg7TqmvV2lDiDlEv4tzbBCokRywEVqu-zzIsHqLWYnQJP7ltyzEVAAFCOEA",
+    "https://play-lh.googleusercontent.com/b9g9RHXrETz8gPNiKvqWaz_lckl3LLaD29XDaKYBd84edmT0M91Kw5stJHtxswNIWQ"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> iHealth Test</p>\n<h3>Brief:</h3>\n<p>The iHealth Test app is designed to provide users with an easy-to-use platform for managing and interpreting health tests. With a range of features from step-by-step tutorial videos to simple result sharing and group testing management, it offers a comprehensive tool for individuals and group administrators to maintain health records for various settings such as schools, workplaces, or private events.</p>\n<h3>Core Features:</h3>\n<ul>\n<li>🎥 <strong>Step-by-Step Tutorial Videos</strong>: Accessible instructional content to guide you through the testing process for accurate results.</li>\n<li>🔍 <strong>Clear Result Interpretation</strong>: Understand your test results easily with the app's straightforward explanation feature.</li>\n<li>✅ <strong>iHealth Pass Generation</strong>: Secure a digital proof of negative test results that can be shared for private event access.</li>\n<li>🧑‍🤝‍🧑 <strong>Group Testing Management</strong>: Efficiently oversee and track the health status of small groups, simplifying administrative tasks.</li>\n</ul>\n<h3>Pros:</h3>\n<ul>\n<li>👩‍⚕️ <strong>User-Friendly Guidance</strong>: The app reduces the possibility of user error with its clear, step-by-step test instructions.</li>\n<li>🌐 <strong>Health Status Validation</strong>: The iHealth Pass serves as verifiable digital evidence, fostering trust and safety.</li>\n<li>📊 <strong>Efficient Administration</strong>: Group leaders can conveniently manage multiple test results, saving time and effort.</li>\n<li>📲 <strong>Streamlined Sharing</strong>: Easily share health status with concerned parties when necessary.</li>\n</ul>\n<h3>Cons:</h3>\n<ul>\n<li>📶 <strong>Dependence on Internet Connectivity</strong>: Tests and results sharing may rely on having an active internet connection.</li>\n<li>🗂️ <strong>Privacy Considerations</strong>: Handling sensitive health data requires stringent privacy controls and may raise concerns.</li>\n<li>📍 <strong>Limited to iHealth Tests</strong>: Functionality is focused specifically on iHealth products.</li>\n<li>🔄 <strong>Update Reliance</strong>: A need to consistently update the app to ensure compatibility with new health protocols or features.</li>\n</ul>\n<h3>Price:</h3>\n<ul>\n<li>💵 The iHealth Test app could be available at no initial cost, with the possibility of in-app purchases for additional functionalities or services.</li>\n</ul>\n<p>Given the specific nature of the iHealth Test app as a health management tool, a community section centered on gaming platforms is not relevant, and thus not included in this description.</p>\n<p>All social media links or community-related information would depend on the app's offerings and are not provided in this context. If the app develops specific community channels, they would be included in future descriptions.</p>\n<hr/>\n<p>Please refer to the app’s official resources for the latest information and support.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-stress-test/48991.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.stress.test.png",
+      "name": "Stress Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-procrastination-test/39516.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.procrastination.test.png",
+      "name": "Procrastination Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-bingeeating-test/39303.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.bingeeating.test.png",
+      "name": "Binge Eating Disorder Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-ocd-test/34780.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.ocd.test.png",
+      "name": "OCD Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-healthians-main-healthians/34760.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.healthians.main.healthians.png",
+      "name": "Healthians -Full Body Checkup",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-lbrc-PeriodCalendar/34759.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.lbrc.PeriodCalendar.png",
+      "name": "Period Tracker and Calendar",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/es-jshcd-edadosea/34693.html",
+      "icon": "https://img.buzzsight.co/apk/icon/es.jshcd.edadosea.png",
+      "name": "Bone age",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-devdis/16977.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.devdis.png",
+      "name": "Developmental Disabilities",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.5"
+    }
+  ]
+}

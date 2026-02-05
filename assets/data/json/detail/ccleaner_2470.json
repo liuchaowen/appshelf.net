@@ -1,0 +1,112 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/ccleaner.png",
+    "title": "CCleaner",
+    "ratings": "4.2",
+    "downloads": "570M",
+    "age": "4+",
+    "download_link": "https://d.apkpure.com/b/APK/com.piriform.ccleaner?version=latest"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "CCleaner"
+    },
+    {
+      "name": "category",
+      "value": "Tools"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Piriform"
+    },
+    {
+      "name": "Version",
+      "value": "23.16.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/Bd3zKVcemmf20COe479rJyrM1wMupIn7DotWvM7NCHWXfqEP0noc-5BvDpxyve2n5g",
+    "https://play-lh.googleusercontent.com/aFcg4sw_JRk6G1J5FVS4qkHYMF4jccJhrN3vLDrHDji0VWQBywKXo8s0kvgos5ZfYw",
+    "https://play-lh.googleusercontent.com/t4AgkTGn5e4YkLcYNcEjT3Osq3XyQG8MscOkrNgdnETrSQuJqxsF6_RJ6N16PZUKEg",
+    "https://play-lh.googleusercontent.com/94XseHaW0d3Z1UyulHdHJ9QF_ppLBfDqw6uXauP-L8ctLRDfGkusztwFqyeq9k5luUg",
+    "https://play-lh.googleusercontent.com/lAOUBZxG_H23T08pcvi20M2WaRht2wPJe6Yfcyoph2ETR8BlND0gidb02CUv5PcB1J_M",
+    "https://play-lh.googleusercontent.com/Bcgw3tdtV0gxcs2bKhfYRz4UgF3kTYvW-dK9RgXojOBpNg3mODJ14Z-DE40T_cTblqA",
+    "https://play-lh.googleusercontent.com/lai4Bhu0VpYbp3JZHVLpwpbDMqcPvIj6nixCyWUeekTbdt5_ZFp0c2kLwxKwkLwbCvA"
+  ],
+  "app_descript": "<p><strong>CCleaner</strong></p>\n<h3>Brief:</h3>\n<p>CCleaner, developed by Piriform, is a widely acknowledged utility tool designed to optimize device performance by cleaning out unnecessary files, managing RAM space, monitoring system usage, and protecting against viruses. This application boasts a user-friendly interface to maintain optimal phone operation with just a few taps.</p>\n<h3>Core Features:</h3>\n<ul>\n<li>🧹 <strong>Intuitive Cleaning Process</strong>: Tap to analyze and swiftly clean RAM space, storage space, and more with a user-friendly interface 📱.</li>\n<li>🚀 <strong>Performance Enhancement</strong>: Eliminates junk files and caches, freeing up space and enhancing the speed of your device 🏎️.</li>\n<li>🛡️ <strong>Real-Time Monitoring</strong>: Continuously checks the device's CPU usage, RAM storage, and battery levels to maintain performance 🖥️.</li>\n<li>🎛️ <strong>User-Friendly Interface</strong>: Simplistic design with a bar chart for straightforward operation and analysis results 📊.</li>\n</ul>\n<h3>Pros:</h3>\n<ul>\n<li>👍 <strong>Ease of Use</strong>: CCleaner's design is geared towards straightforward operation, making system maintenance accessible to all users ✅.</li>\n<li>👍 <strong>Device Optimization</strong>: By removing unwanted files, the app aids in making your device run smoother and faster ⚙️.</li>\n<li>👍 <strong>System Monitoring</strong>: It offers surveillance features for your device's core aspects, ensuring it runs securely and efficiently 🔒.</li>\n<li>👍 <strong>Reputable Developer</strong>: Piriform, the developer, is recognized for creating reliable and effective tools for various platforms 🌟.</li>\n</ul>\n<h3>Cons:</h3>\n<ul>\n<li>👎 <strong>Potential Data Loss</strong>: Users must be cautious when selecting files to delete to avoid unintentionally removing important data 📉.</li>\n<li>👎 <strong>Ads and Upsells</strong>: The free version may include ads and prompts to upgrade to a premium version 📢.</li>\n<li>👎 <strong>Limited Impact on Modern Devices</strong>: High-end devices might not experience as significant a performance boost as older models 🔲.</li>\n<li>👎 <strong>Compatibility Issues</strong>: There may be some compatibility issues with certain devices or operating systems 🔄.</li>\n</ul>\n<h3>Price:</h3>\n<p>💵 CCleaner is free to download and use, but it offers in-app purchases for those seeking an ad-free experience and additional features. Pricing details vary based on the subscription plan chosen.</p>\n<p><a href=\"https://play.google.com/store/apps/details?id=com.piriform.ccleaner\" rel=\"noopener noreferrer\" target=\"_blank\">CCleaner on Google Play</a></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-internetoptimizer-speedtest-wifispeedtest-netspeed-wifipassword-wifispeed/49027.html",
+      "icon": "assets/img/apk/icon/com.internetoptimizer.speedtest.wifispeedtest.netspeed.wifipassword.wifispeed.png",
+      "name": "Internet Optimizer",
+      "categoryLink": "/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.9"
+    },
+    {
+      "link": "/details/com-blazingappstudio-speed_test_pro/49021.html",
+      "icon": "assets/img/apk/icon/com.blazingappstudio.speed_test_pro.png",
+      "name": "Speed Test - Wifi Optimizer",
+      "categoryLink": "/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-secret-camera-hidden-detector/39728.html",
+      "icon": "assets/img/apk/icon/com.secret.camera.hidden.detector.png",
+      "name": "Hidden Camera & IR Detector",
+      "categoryLink": "/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-findmymobile-lostphone-phonetracker/39682.html",
+      "icon": "assets/img/apk/icon/com.findmymobile.lostphone.phonetracker.png",
+      "name": "Anti Theft Alarm–Find my Phone",
+      "categoryLink": "/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/donttouchmyphone-antitheftalarm-iantitheft/39681.html",
+      "icon": "assets/img/apk/icon/donttouchmyphone.antitheftalarm.iantitheft.png",
+      "name": "Anti Theft Phone Alarm",
+      "categoryLink": "/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/download-videobrowser-pic-makerapp/39657.html",
+      "icon": "assets/img/apk/icon/download.videobrowser.pic.makerapp.png",
+      "name": "Fi Film - Movie Track",
+      "categoryLink": "/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.5"
+    },
+    {
+      "link": "/details/com-keeratipong-skineditorminecraft/39591.html",
+      "icon": "assets/img/apk/icon/com.keeratipong.skineditorminecraft.png",
+      "name": "Skin Editor for Minecraft",
+      "categoryLink": "/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-rbxconvert-freerobux-newcalculator/39576.html",
+      "icon": "assets/img/apk/icon/com.rbxconvert.freerobux.newcalculator.png",
+      "name": "RBX Calculator Robox Counter",
+      "categoryLink": "/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.3"
+    }
+  ]
+}

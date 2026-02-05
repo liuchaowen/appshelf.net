@@ -1,0 +1,66 @@
+{
+  "category_slug": "libraries-demo",
+  "category_num": "14",
+  "url": "/categories/libraries-demo/14",
+  "breadcrumb": [
+    {
+      "text": "Home",
+      "link": "/"
+    },
+    {
+      "text": "Apps",
+      "link": "/apps.html"
+    },
+    {
+      "text": "Libraries & Demo",
+      "link": ""
+    }
+  ],
+  "title": "Libraries & Demo apps",
+  "total_items": 7,
+  "total_pages": 1,
+  "items": [
+    {
+      "icon": "/assets/img/apk/icon/com.afwsamples.testdpc.png",
+      "name": "Test DPC",
+      "rating": 4.8,
+      "link": "/details/test-dpc/313.html"
+    },
+    {
+      "icon": "/assets/img/apk/icon/com.mxtech.ffmpeg.v7_neon.png",
+      "name": "MX Player Codec",
+      "rating": 4.6,
+      "link": "/details/mx-player-codec/311.html"
+    },
+    {
+      "icon": "/assets/img/apk/icon/inc.trilokia.pubgfxtool.free.png",
+      "name": "PUB Gfx Tool Free",
+      "rating": 4.5,
+      "link": "/details/pub-gfx-tool-free/312.html"
+    },
+    {
+      "icon": "/assets/img/apk/icon/melon.mods.png",
+      "name": "Mods Melon Playground Sandbox",
+      "rating": 4.4,
+      "link": "/details/mods-melon-playground-sandbox/315.html"
+    },
+    {
+      "icon": "/assets/img/apk/icon/cardboard.png",
+      "name": "Google Cardboard",
+      "rating": 4.3,
+      "link": "/details/google-cardboard/314.html"
+    },
+    {
+      "icon": "/assets/img/apk/icon/com.detection.faceshape.png",
+      "name": "Face emotion detection",
+      "rating": 3.6,
+      "link": "/details/com-detection-faceshape/16018.html"
+    },
+    {
+      "icon": "/assets/img/apk/icon/com.Roblox.Mod.Menu.Roblox_Games_Master.png",
+      "name": "Mod Menu For RBX",
+      "rating": 2.0,
+      "link": "/details/com-Roblox-Mod-Menu-Roblox_Games_Master/15226.html"
+    }
+  ]
+}

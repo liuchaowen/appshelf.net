@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/close5-buy-and-sell-locally.png",
+    "title": "Close5",
+    "ratings": "4.5",
+    "downloads": "860M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Close5"
+    },
+    {
+      "name": "category",
+      "value": "Shopping"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "eBay Classifieds Group"
+    },
+    {
+      "name": "Version",
+      "value": "1.1.1"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>App Name</strong>: Close5 - Buy and Sell Locally</p>\n<p><strong>Brief</strong>:\nClose5 is an intuitive local marketplace app tailored for individuals who want to find deals close to home. Whether you're looking to unearth hidden treasures within your community, sell unwanted items, or connect with buyers and sellers securely, Close5 provides a convenient platform to do so without having to exchange personal contact details. </p>\n<p><strong>Core Features</strong>:</p>\n<ul>\n<li>📍 Find local treasures by browsing listings in your immediate vicinity.</li>\n<li>🤝 Get acquainted with your buyer or seller with in-app profiles.</li>\n<li>📱 Communicate safely with local users without disclosing your private phone number.</li>\n<li>📸 Effortlessly snap pictures and upload your items for sale within moments.</li>\n<li>💰 Generate extra income by selling items you no longer need.</li>\n</ul>\n<p><strong>Pros</strong>:</p>\n<ul>\n<li>👤 Enhance community engagement by facilitating user-to-user interactions.</li>\n<li>🛡️ Increased security through in-app communication channels.</li>\n<li>🏡 Convenience of local discovery and transactions.</li>\n<li>🔄 Quick and easy listing process, making it simpler to sell items.</li>\n<li>🚫 No need to handle cash as transactions can be managed through the app.</li>\n</ul>\n<p><strong>Cons</strong>:</p>\n<ul>\n<li>👥 May have fewer users compared to larger marketplace platforms.</li>\n<li>📍 Limited to local deals, which can restrict the potential buyer pool.</li>\n<li>🕒 Listings may not get immediate attention depending on local user activity.</li>\n<li>📦 Shipping options may not be available, limiting to face-to-face exchanges.</li>\n<li>🔍 Limited search functionality could make finding specific items more challenging.</li>\n</ul>\n<p><strong>Price</strong>:</p>\n<ul>\n<li>💵 The Close5 app is free to download and use, with no upfront costs for listing items. However, always check for any potential in-app purchases or transaction fees.</li>\n</ul>\n<p>Unfortunately, no community-related information is available for this app, so that section will not be included in this summary.</p>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-seagm-store/54458.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.seagm.store.png",
+      "name": "SEAGM - Games Topup, Gift Card",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.7"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-gowish-app/39285.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.gowish.app.png",
+      "name": "GoWish - Your Digital Wishlist",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.7"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-aldisued-shopgo/16934.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.aldisued.shopgo.png",
+      "name": "ALDI SHOP&GO",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.2"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-wakefern-shoprite/16933.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.wakefern.shoprite.png",
+      "name": "ShopRite: Groceries & Savings",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.7"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-yaxo-vancamper/16894.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.yaxo.vancamper.png",
+      "name": "Vancamper: Buy sell campervans",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.8"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-elfster-elfdroid/16861.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.elfster.elfdroid.png",
+      "name": "Elfster: The Secret Santa App",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.7"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-biggu-shopsavvy/16860.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.biggu.shopsavvy.png",
+      "name": "ShopSavvy - Barcode Scanner",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/moloapps-gifttracker/16845.html",
+      "icon": "https://img.buzzsight.co/apk/icon/moloapps.gifttracker.png",
+      "name": "GiftTracker : Gift List Helper",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.1"
+    }
+  ]
+}

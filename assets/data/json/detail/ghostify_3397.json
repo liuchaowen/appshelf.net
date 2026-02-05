@@ -1,0 +1,107 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/com.getghostify.png",
+    "title": "Ghostify",
+    "ratings": "4.4",
+    "downloads": "230M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Ghostify"
+    },
+    {
+      "name": "category",
+      "value": "Social"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "the abc apps"
+    },
+    {
+      "name": "Version",
+      "value": "2.4"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/kAwTIFjbj2UKWMmeA-uhWMdKuOvsvqrBioTXtOIypmT_qInWUeVSGrJrFFlWJ6T7bqI6",
+    "https://play-lh.googleusercontent.com/HzA5AyjIDnIiAEoV6PT9j89eCY4S-QtV0Px0sjv5JaLly32qkz0ODRRMPNWFDm2LM4eg",
+    "https://play-lh.googleusercontent.com/1jv4ipIZKN-V6gMxhg4O6mvki3M88DalBsXILrwGIESC-gJyvAgB-TAw_LF5sZoGx8P_"
+  ],
+  "app_descript": "<h3>Ghostify</h3>\n<h4>Brief:</h4>\n<p>Ghostify is an application designed to enhance your Instagram experience with a focus on privacy and security. It lets you access Instagram without worrying about your login information being compromised, as it utilizes the official Instagram website for authentication, ensuring that your credentials remain private.</p>\n<h4>Core Features:</h4>\n<ul>\n<li><strong>Instagram API Integration</strong> 🔗: Ghostify leverages the Instagram API to offer users a seamless experience without compromising the official functionalities.</li>\n<li><strong>Enhanced Privacy</strong> 🔏: Your login information is never visible to the app; you'll sign in through Instagram's official platform.</li>\n<li><strong>User-Friendly Interface</strong> 🌐: The app boasts a straightforward and intuitive interface, making it easy for users to navigate.</li>\n<li><strong>Disclaimer Transparency</strong> 📜: Ghostify is transparent about its use of the Instagram API and maintains that it is not endorsed or certified by Instagram.</li>\n</ul>\n<h4>Pros:</h4>\n<ul>\n<li><strong>Increased Security</strong> 👍: Users can feel secure knowing their login details are not accessed by Ghostify.</li>\n<li><strong>Direct Instagram Access</strong> 👍: The app provides a direct gateway to Instagram's official site, reducing the risk of third-party intrusions.</li>\n<li><strong>No Endorsement Claims</strong> 👍: The app clearly states that it is not officially endorsed, setting realistic expectations for the users.</li>\n<li><strong>Privacy First Approach</strong> 👍: Prioritizes user privacy in every interaction within the app.</li>\n</ul>\n<h4>Cons:</h4>\n<ul>\n<li><strong>Limited Functionality</strong> 👎: Since it's not endorsed by Instagram, certain features available on the official app might not be present.</li>\n<li><strong>Dependence on Instagram API</strong> 👎: Any changes to Instagram's API could affect Ghostify's functionality.</li>\n<li><strong>No Official Endorsement</strong> 👎: Some users might prefer apps with official endorsement for peace of mind.</li>\n<li><strong>API Restrictions</strong> 👎: There could be limitations on what can be done through the API.</li>\n</ul>\n<h4>Price:</h4>\n<p>💵 Ghostify is likely a free app as there's no mention of pricing. However, users should check for any in-app purchases or subscription fees that may apply during usage.</p>\n<p><a href=\"https://play.google.com/store/apps/details?id=com.getghostify\" rel=\"noopener noreferrer\" target=\"_blank\">Download Ghostify</a></p>\n<p><em>(Please note that the app's community details such as social media pages have not been provided or may not exist.)</em></p>",
+  "related_apps": [
+    {
+      "link": "/details/jp-cocone-livly/54171.html",
+      "icon": "https://img.buzzsight.co/apk/icon/jp.cocone.livly.png",
+      "name": "Livly Island - Adopt Cute Pets",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-daily-festival-photos/39721.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.daily.festival.photos.png",
+      "name": "Daily Festival Photo",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/tv-medal-recorder/39573.html",
+      "icon": "https://img.buzzsight.co/apk/icon/tv.medal.recorder.png",
+      "name": "Medal - Gaming Clips",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-ptanktechnology-reincornation/39352.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.ptanktechnology.reincornation.png",
+      "name": "Reincarnation",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-tiktok-lite-go/15392.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.tiktok.lite.go.png",
+      "name": "TikTok Lite - Faster TikTok",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-petmeetly/15275.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.petmeetly.png",
+      "name": "Petmeetly - Pet's Match Finder",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-xingin-xhs/14603.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.xingin.xhs.png",
+      "name": "REDnote—小红书国际版",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-stdev-dissordap/10395.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.stdev.dissordap.png",
+      "name": "Vote Social - Photo Voting VS",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "3.8"
+    }
+  ]
+}

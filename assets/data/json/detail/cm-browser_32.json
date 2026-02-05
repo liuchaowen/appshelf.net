@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/cm-browser.png",
+    "title": "CM Browser",
+    "ratings": "4.7",
+    "downloads": "940M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "CM Browser"
+    },
+    {
+      "name": "category",
+      "value": "Communication"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Cheetah Mobile Communications"
+    },
+    {
+      "name": "Version",
+      "value": "5.20.66"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h2>CM Browser - A Swift and Secure Web Experience</h2>\n<p><strong>Brief:</strong>\nCM Browser is an efficient mobile browser designed for speed, safety, and user convenience. With enhanced browsing acceleration, it promises a swift internet experience. It places a strong emphasis on maintaining user privacy and security while browsing online, offering a variety of features aimed at improving overall browsing fidelity.</p>\n<h3>📌 Core Features:</h3>\n<ul>\n<li><strong>Fast Browsing:</strong> Enjoy accelerated browsing for a speedier internet experience. 🚀</li>\n<li><strong>Safe Browsing:</strong> Protects against malicious files and warns about potential security threats. 🔒</li>\n<li><strong>Incognito Mode:</strong> Browse without leaving any history, cookies, or cache behind. 🕵️‍♂️</li>\n<li><strong>Lightweight Design:</strong> Occupies less than 3MB, ensuring a nimble download and smooth updates. 🧘‍♂️</li>\n<li><strong>Personalized Experience:</strong> Delight in a stunning interface with customizable font sizes and bookmarks. 🎨</li>\n</ul>\n<h3>👍 Pros:</h3>\n<ul>\n<li><strong>Increased Speed:</strong> Noticeably faster page loads when browsing. ⏩</li>\n<li><strong>Enhanced Security:</strong> Includes fraud warnings and download scanning to prevent viruses. 🛡️</li>\n<li><strong>Privacy Guaranteed:</strong> Incognito mode for private sessions that don’t record user data. 🤫</li>\n<li><strong>Minimal Storage Space:</strong> Space-efficient, avoiding bogging down your device's storage. 📦</li>\n<li><strong>Aesthetic Appeal:</strong> A well-designed UI that enhances usability and visual appeal. 😍</li>\n</ul>\n<h3>👎 Cons:</h3>\n<ul>\n<li><strong>Pop-Up Blocking:</strong> While it's intended to block disturbing ads, the effectiveness can vary. 🚫</li>\n<li><strong>Limitation on Extensions:</strong> May not support as many extensions/plugins as other browsers. 🧩</li>\n<li><strong>Potential Compatibility Issues:</strong> Not all web pages may render perfectly. 🌐</li>\n<li><strong>Local Weather Feature:</strong> Some users might find it unnecessary and invasive to privacy. ⛅</li>\n<li><strong>No Sync Across Devices:</strong> Lack of synchronizing capability for bookmarks and history across devices. 📲</li>\n</ul>\n<h3>💵 Price:</h3>\n<p>CM Browser is a <strong>free app</strong> to download and use. However, it may contain in-app features or services that could incur additional costs.</p>\n<p>If you're looking for a browser tailored to swift, secure, and efficient web surfing with an eye-catching, user-friendly design and minimal storage requirements, CM Browser could be an excellent choice. Try it out and redefine your browsing experience!</p>\n<p><a href=\"https://play.google.com/store/apps/details?id=com.ksmobile.cb\" rel=\"noopener noreferrer\" target=\"_blank\">Download CM Browser now!</a></p>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-sst-parrot-photo-frame/53901.html",
+      "icon": "assets/img/apk/icon/com.sst.parrot.photo.frame.png",
+      "name": "Bird Photo Frame",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-new_year-stickers-birthday/39669.html",
+      "icon": "assets/img/apk/icon/com.new_year.stickers.birthday.png",
+      "name": "Happy New Year Stickers 2026",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.2"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/org-watchduty-app/14524.html",
+      "icon": "assets/img/apk/icon/org.watchduty.app.png",
+      "name": "Watch Duty (Wildfire)",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.7"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-snowcorp-stickerly-android/14453.html",
+      "icon": "assets/img/apk/icon/com.snowcorp.stickerly.android.png",
+      "name": "Sticker.ly - Sticker Maker",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.7"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-Happynewyearphotoframe2020/14421.html",
+      "icon": "assets/img/apk/icon/com.Happynewyearphotoframe2020.png",
+      "name": "New Year Video Maker 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-intira-new-year-photo-frame-new/14342.html",
+      "icon": "assets/img/apk/icon/com.intira.new.year.photo.frame.new.png",
+      "name": "New year photo frame 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-christmas-photo-frame-b-new-free/14203.html",
+      "icon": "assets/img/apk/icon/com.christmas.photo.frame.b.new.free.png",
+      "name": "Christmas photo frame 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/ma-apps-face_ml/14137.html",
+      "icon": "assets/img/apk/icon/ma.apps.face_ml.png",
+      "name": "Face reader scanner - analyser",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "3.3"
+    }
+  ]
+}

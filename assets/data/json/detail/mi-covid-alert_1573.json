@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/gov.michigan.MiCovidExposure.png",
+    "title": "MI COVID Alert",
+    "ratings": "4.9",
+    "downloads": "780M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "MI COVID Alert"
+    },
+    {
+      "name": "category",
+      "value": "Health & Fitness"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "State of Michigan"
+    },
+    {
+      "name": "Version",
+      "value": "1.0"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h1>MI COVID Alert</h1>\n<h2>Brief</h2>\n<p>MI COVID Alert is a contact tracing app developed to help mitigate the spread of COVID-19 in Michigan. Leveraging Bluetooth technology, the app facilitates anonymous key exchanges between users to alert them about possible exposures to the virus, all while ensuring user privacy and data security.</p>\n<h2>📌 Core Features</h2>\n<ul>\n<li><strong>Anonymous Key Exchange:</strong> Exchanges random Bluetooth keys with nearby users to detect possible COVID-19 exposures 📡.</li>\n<li><strong>Exposure Notifications:</strong> Alerts users if they've been close to someone who tested positive for COVID-19 🚨.</li>\n<li><strong>Privacy Protection:</strong> No personal data or location tracking involved, respecting user privacy 🛡️.</li>\n<li><strong>Validation PIN:</strong> Includes a system requiring a PIN from public health authorities to report positive results, preventing false notifications 📌.</li>\n<li><strong>Background Operation:</strong> Works in the background without draining the battery excessively 🔋.</li>\n</ul>\n<h2>👍 Pros</h2>\n<ul>\n<li><strong>Health Safety:</strong> Contributes to public health by alerting users about potential risks ⚕️.</li>\n<li><strong>Easy to Use:</strong> Simply download and enable Bluetooth to start using the service 📱.</li>\n<li><strong>Integration with Apple and Google:</strong> Built on the reliable Apple and Google BLE framework 🤝.</li>\n<li><strong>Energy Efficient:</strong> Designed to operate efficiently without significantly impacting battery life 🍃.</li>\n</ul>\n<h2>👎 Cons</h2>\n<ul>\n<li><strong>Bluetooth Dependency:</strong> Relies on Bluetooth, which might not always be enabled or could have connectivity issues ⚠️.</li>\n<li><strong>User Adoption:</strong> Effectiveness is dependent on widespread user adoption 🌐.</li>\n<li><strong>Technical Limitations:</strong> Distance estimation is not always accurate due to BLE signal variability 📶.</li>\n<li><strong>Limited to Michigan:</strong> Only available and functional for Michigan residents and visitors 🗺️.</li>\n</ul>\n<h2>💵 Price</h2>\n<p>MI COVID Alert is a <strong>free</strong> app, designed as a public health tool without any associated costs or in-app purchases 💸.</p>\n<p><em>Please note that the availability and functionality of the app may evolve as the pandemic situation changes or concludes. Always consult the latest guidelines from local health authorities for up-to-date information and best practices.</em></p>\n<p><a href=\"https://play.google.com/store/apps/details?id=gov.michigan.MiCovidExposure\" rel=\"noopener noreferrer\" target=\"_blank\">Download MI COVID Alert now and do your part in protecting your community against the spread of COVID-19</a>.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-appflows-BodyMuse/48997.html",
+      "icon": "assets/img/apk/icon/com.appflows.BodyMuse.png",
+      "name": "BodyMuse: Body Shape Analysis",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-codev-headache_app/39734.html",
+      "icon": "assets/img/apk/icon/com.codev.headache_app.png",
+      "name": "Headache Diary, Test & Treat",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/life-simple/39727.html",
+      "icon": "assets/img/apk/icon/life.simple.png",
+      "name": "Simple: AI Weight Loss Coach",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-clearblue-minerva/39464.html",
+      "icon": "assets/img/apk/icon/com.clearblue.minerva.png",
+      "name": "Menopause Stage - Clearblue me",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-jplanet-lungtestandbreathpractice/39424.html",
+      "icon": "assets/img/apk/icon/com.jplanet.lungtestandbreathpractice.png",
+      "name": "Lung Test and Breath Exercise",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "3"
+    },
+    {
+      "link": "/details/healthy-lungs-breathing-exercise-coach-pranayama-breath-workout-lung-exercises/39423.html",
+      "icon": "assets/img/apk/icon/healthy.lungs.breathing.exercise.coach.pranayama.breath.workout.lung.exercises.png",
+      "name": "Lungs Test: Breathing Exercise",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-smartoptometry-smartoptometry-full/34733.html",
+      "icon": "assets/img/apk/icon/com.smartoptometry.smartoptometry.full.png",
+      "name": "Smart Optometry - Eye Tests",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-b2creativedesigns-eyetest/34732.html",
+      "icon": "assets/img/apk/icon/com.b2creativedesigns.eyetest.png",
+      "name": "Eye test",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.1"
+    }
+  ]
+}

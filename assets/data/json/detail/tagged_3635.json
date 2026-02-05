@@ -1,0 +1,110 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/tagged.png",
+    "title": "Tagged",
+    "ratings": "4.8",
+    "downloads": "320M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Tagged"
+    },
+    {
+      "name": "category",
+      "value": "Social"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Ifwe Inc."
+    },
+    {
+      "name": "Version",
+      "value": "9.6.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/3vSYs9KU-PJy4Xqeh3jFWSBzBSwCIqiair5LG2twwmzBTuWkPLgn8-YD8jvBrRNOykg",
+    "https://play-lh.googleusercontent.com/gk9ygHQsVqayOOfPmwqDIGBRIEIe5fhomvdfPvcJ0NrQvXrDi13tM4ZdLoe_VKwdp30",
+    "https://play-lh.googleusercontent.com/ufU0uejKw0X8vswoiUkoPaK2zp_xGbsDL0-IAni-oRYkWSTnk7PTu64G2NfAGB_R8Q",
+    "https://play-lh.googleusercontent.com/FAHbKebvXMw373ERgCcqOCatEXpe8HoMlxu9DmppEaTu3zeu-YeNZK02evFqz__pLB0q",
+    "https://play-lh.googleusercontent.com/zomCFHIgJx7eFUNMdZKtXlD1V65UAKBeYy-ChHnJhvVlcx_w-jZDzbt7D7RoQ_hQrDY",
+    "https://play-lh.googleusercontent.com/foWAx2KrzzpVOOre9IgfQRDjAqJ0CEJSGXsU5awFLRnGxEiFguk06TFDuxHpr-7TL-KX"
+  ],
+  "app_descript": "<h3>Brief</h3>\n<p>Tagged is a dynamic social networking app that caters to users eager to connect, socialize, and play games with others nearby or around the globe. With an emphasis on dating preferences and interactive features, Tagged stands out as a platform fostering both new friendships and potential romantic connections.</p>\n<h3>Core Features</h3>\n<ul>\n<li>🎂 Diverse Registration Options: Users can personalize their experience right from the start by indicating their birth date, gender, and sexual preference (straight, bisexual, or gay). 📌</li>\n<li>🖼️ Account Customization: A suite of options allows users to update their profile with photos, relationship status, religious beliefs, and more for a tailored profile. 📌</li>\n<li>🤝 Meet Me Feature: Nearby contacts are suggested, providing opportunities for personal chats or swiping to meet someone new, enhancing the local social discovery experience. 📌</li>\n<li>🤖 Intelligent Matching Algorithm: The app's algorithm sifts through profiles to connect you with individuals who share your interests, making meaningful interactions more likely. 📌</li>\n<li>🎥 Live Streaming: Whether you want to start your own broadcast or tune into others', live streaming adds a real-time thrill to the platform. 📌</li>\n<li>🃏 \"Pets\" Game: Engage in a fun and interactive card game within the app, fostering a sense of community and amusement. 📌</li>\n</ul>\n<h3>Pros</h3>\n<ul>\n<li>👤 Easy Sign-In: Access the app conveniently using your Google or Facebook account. 👍</li>\n<li>💬 Interactive Gaming and Chatting: Not just for making connections, but also for enjoying online games and chatting with new friends. 👍</li>\n<li>✨ VIP Mode Benefits: An elite service tier offering enhanced features like the Luv feature, speedier meet-ups, undoing \"No\" votes, and displaying actual profile pictures. 👍</li>\n</ul>\n<h3>Cons</h3>\n<ul>\n<li>👪 Parental Guidance Advised: With open communication and networking features, it's recommended that children have adult supervision. 👎</li>\n<li>🎭 Potential for Misrepresentation: Users may encounter others misrepresenting themselves, which warrants a cautious approach. 👎</li>\n</ul>\n<h3>Price</h3>\n<p>💵 The basic features of Tagged are available for free, while a VIP Mode with extra privileges can be unlocked for those looking for premium options. The pricing details for the VIP subscription are available within the app.</p>\n<p>(Tagged is a non-game app, so the 'Community' section is excluded as per the constraint rules provided.)</p>\n<hr/>\n<p>Enjoy the diverse and playful atmosphere of Tagged, where connections are just a swipe away. Whether you're looking for friendship, love, or some fun online gaming, Tagged is the social app that brings it all together.</p>",
+  "related_apps": [
+    {
+      "link": "/details/jp-cocone-livly/54171.html",
+      "icon": "assets/img/apk/icon/jp.cocone.livly.png",
+      "name": "Livly Island - Adopt Cute Pets",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-daily-festival-photos/39721.html",
+      "icon": "assets/img/apk/icon/com.daily.festival.photos.png",
+      "name": "Daily Festival Photo",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/tv-medal-recorder/39573.html",
+      "icon": "assets/img/apk/icon/tv.medal.recorder.png",
+      "name": "Medal - Gaming Clips",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-ptanktechnology-reincornation/39352.html",
+      "icon": "assets/img/apk/icon/com.ptanktechnology.reincornation.png",
+      "name": "Reincarnation",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-tiktok-lite-go/15392.html",
+      "icon": "assets/img/apk/icon/com.tiktok.lite.go.png",
+      "name": "TikTok Lite - Faster TikTok",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-petmeetly/15275.html",
+      "icon": "assets/img/apk/icon/com.petmeetly.png",
+      "name": "Petmeetly - Pet's Match Finder",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-xingin-xhs/14603.html",
+      "icon": "assets/img/apk/icon/com.xingin.xhs.png",
+      "name": "REDnote—小红书国际版",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-stdev-dissordap/10395.html",
+      "icon": "assets/img/apk/icon/com.stdev.dissordap.png",
+      "name": "Vote Social - Photo Voting VS",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "3.8"
+    }
+  ]
+}

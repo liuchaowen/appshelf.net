@@ -1,0 +1,108 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.mywickr.wickr2.png",
+    "title": "Wickr Me",
+    "ratings": "4.2",
+    "downloads": "90M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Wickr Me"
+    },
+    {
+      "name": "category",
+      "value": "Social"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Wickr Inc"
+    },
+    {
+      "name": "Version",
+      "value": "5.104.2"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/XDEv3e_zSKMr9tMVngDdGjUnHnJOZgshx-CXMHpYIP9ssH4a9k1qnSN91uHRKuPt0Rg",
+    "https://play-lh.googleusercontent.com/fTS7YjSDQUK_AczP4Nw-lwcxpVpfrOuIGqhTnOWlAvoXR_X_W9woU104AbXrGwnD6TrS",
+    "https://play-lh.googleusercontent.com/WpJkxM4oKjII08uiNTHnJQxP6eJVEBpwGgWmEwbQp-VXErlkLEhLYj2pWZzth34l62c",
+    "https://play-lh.googleusercontent.com/XjOlbaKIkoMlMKuPouJ45Q582AnJRd4I1gE5MRzAu3BPQrvyU2hJp47h_g1wYyAWzVM"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> Wickr Me</p>\n<p><strong>App Package Name:</strong> com.mywickr.wickr2</p>\n<p><strong>Brief:</strong>\nWickr Me is a privacy-focused messaging app designed for individuals who prioritize security and confidentiality in their communications. With its stringent privacy measures and no requirement for personal identifiers such as phone numbers or email addresses for registration, Wickr Me has positioned itself as a leader in secure messaging, empowering users to manage their communications without compromising their privacy.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li><strong>User Anonymity:</strong> Register without a phone number or email, ensuring your personal contact details remain private 🛡️.</li>\n<li><strong>Private Groups:</strong> Communicate securely with private groups of up to 10 users for collaborative discussions and planning 🗣️.</li>\n<li><strong>Data Shredder:</strong> Safeguard deleted content by having Wickr overwrite all erased data on your device 🗑️.</li>\n<li><strong>Zero Metadata Storage:</strong> Wickr does not store any metadata, making your communications not just secure, but also leaving no trace 🚫.</li>\n<li><strong>Configurable Timers:</strong> Set expirations for your messaging content to enhance message ephemerality and control your digital footprint ⏳.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li><strong>Verified Security:</strong> The app's code, policies, and security practices have been audited by leading industry experts for assured protection 👨‍💻.</li>\n<li><strong>Open Source Transparency:</strong> Open-source code enabling audits by the community for maximum transparency and trust 🔍.</li>\n<li><strong>Cutting-edge Encryption:</strong> Device-to-device encryption ensures each communication is locked under new keys, fortifying against breaches 🔐.</li>\n<li><strong>Ephemeral Messaging:</strong> Messages that self-destruct after a set period protect the longevity and privacy of your communications 💣.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li><strong>Limited Group Size:</strong> Private group communication is capped at 10 users, which might not be sufficient for larger teams or groups 👨‍👩‍👧‍👦.</li>\n<li><strong>Learning Curve:</strong> New users may require time to familiarize themselves with the advanced privacy features and operations 📚.</li>\n<li><strong>Platform Restrictions:</strong> As a secure platform, certain conveniences may be sacrificed that are available in less secure apps 👈.</li>\n<li><strong>Device Dependency:</strong> Secure messaging is tied to devices due to encryption, which can be an issue if the device is lost or compromised 📱.</li>\n</ul>\n<p><strong>Price:</strong>\nWickr Me is free to use and ad-free, offering a secure messaging platform without a subscription or hidden costs.</p>\n<p><strong>Community:</strong>\n<em>Official Website:</em> <a href=\"https://wickr.com\" rel=\"noopener noreferrer\" target=\"_blank\">wickr.com</a>\n<em>GitHub Repository:</em> <a href=\"https://github.com/WickrInc/wickr-crypto-c\" rel=\"noopener noreferrer\" target=\"_blank\">Wickr Crypto C</a></p>\n<p><em>(The 'Community' section has been included since the app name \"Wickr Me\" does not expressly denote it as a game app.)</em></p>",
+  "related_apps": [
+    {
+      "link": "/details/jp-cocone-livly/54171.html",
+      "icon": "assets/img/apk/icon/jp.cocone.livly.png",
+      "name": "Livly Island - Adopt Cute Pets",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-daily-festival-photos/39721.html",
+      "icon": "assets/img/apk/icon/com.daily.festival.photos.png",
+      "name": "Daily Festival Photo",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/tv-medal-recorder/39573.html",
+      "icon": "assets/img/apk/icon/tv.medal.recorder.png",
+      "name": "Medal - Gaming Clips",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-ptanktechnology-reincornation/39352.html",
+      "icon": "assets/img/apk/icon/com.ptanktechnology.reincornation.png",
+      "name": "Reincarnation",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-tiktok-lite-go/15392.html",
+      "icon": "assets/img/apk/icon/com.tiktok.lite.go.png",
+      "name": "TikTok Lite - Faster TikTok",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-petmeetly/15275.html",
+      "icon": "assets/img/apk/icon/com.petmeetly.png",
+      "name": "Petmeetly - Pet's Match Finder",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-xingin-xhs/14603.html",
+      "icon": "assets/img/apk/icon/com.xingin.xhs.png",
+      "name": "REDnote—小红书国际版",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-stdev-dissordap/10395.html",
+      "icon": "assets/img/apk/icon/com.stdev.dissordap.png",
+      "name": "Vote Social - Photo Voting VS",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "3.8"
+    }
+  ]
+}

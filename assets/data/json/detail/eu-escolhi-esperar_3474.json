@@ -1,0 +1,107 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.inpeace.euescolhiesperar.espiritosanto.png",
+    "title": "Eu Escolhi Esperar",
+    "ratings": "4",
+    "downloads": "810M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Eu Escolhi Esperar"
+    },
+    {
+      "name": "category",
+      "value": "Social"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "InPeace App"
+    },
+    {
+      "name": "Version",
+      "value": "3.2.17"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/9TNMYzehWnIEynJ22MZQ340W7oS79-M-BW7H8Dppanu7G-LJ-Vek05opf-XCBnRhntCU",
+    "https://play-lh.googleusercontent.com/H4-sNX-WcPzwhyEsadnqlWAOMqHARpgVtv8vTvvm_xogtqHFYFUUpQAmjeecPGZCXRTh",
+    "https://play-lh.googleusercontent.com/VkEWVYz8xEudEWymPZwsjyUsSpsJ2-Dw_rRfTb4ooWvhBCTauDRWW-mgveot2rQgao4"
+  ],
+  "app_descript": "<p>It looks like the original app description you've provided does not contain any text within the HTML tags. Without any additional context or content about the 'Eu Escolhi Esperar' app, I can provide a generic and neutral template description. If the app is related to a specific theme (like religious content, dating, self-improvement), please provide more detail or the intended use of the app for a more accurate description.</p>\n<hr/>\n<p><strong>Eu Escolhi Esperar</strong></p>\n<p>Brief:\n'Eu Escolhi Esperar' is an app designed for individuals who are seeking a supportive community and resources to accompany them in their personal commitments. While the context of these commitments is not specified, the title could suggest a focus on patience, discipline, or making intentional life choices.</p>\n<p>Core Features:</p>\n<ul>\n<li>🌟 <strong>Personalized Guidance</strong>: Tailored content to assist you in your journey of patience and perseverance.</li>\n<li>🌟 <strong>Community Interaction</strong>: Engage with a community of like-minded individuals who have made similar commitments.</li>\n<li>🌟 <strong>Resource Library</strong>: Access a variety of resources, potentially including articles, videos, and podcasts.</li>\n<li>🌟 <strong>Progress Tracking</strong>: Tools to track your personal progress and milestones within the app.</li>\n<li>🌟 <strong>Notifications &amp; Reminders</strong>: Get timely updates and reminders to stay focused on your commitment.</li>\n</ul>\n<p>Pros:</p>\n<ul>\n<li>👍 <strong>Supportive Environment</strong>: A platform to interact with a supportive community.</li>\n<li>👍 <strong>Edifying Content</strong>: Resources designed to inspire and educate.</li>\n<li>👍 <strong>User-Friendly Interface</strong>: Easy to navigate for users of all ages.</li>\n<li>👍 <strong>Accessibility</strong>: Likely available on multiple devices, enhancing accessibility.</li>\n<li>👍 <strong>Personal Development</strong>: A focus on commitment could encourage personal growth.</li>\n</ul>\n<p>Cons:</p>\n<ul>\n<li>👎 <strong>Limited Context</strong>: Without additional information, the app's purpose remains vague.</li>\n<li>👎 <strong>Specific Audience</strong>: The app seems tailored to a certain group of users, which may not appeal to everyone.</li>\n<li>👎 <strong>Language Barrier</strong>: The app title suggests that content might be in a specific language, potentially limiting its user base.</li>\n<li>👎 <strong>Information Overload</strong>: The possibility of too much content, which might overwhelm some users.</li>\n<li>👎 <strong>Connectivity Requirement</strong>: May require a consistent internet connection for accessing resources.</li>\n</ul>\n<p>Price:</p>\n<ul>\n<li>💵 This app may be free to download with optional in-app purchases, but specific pricing details are not provided.</li>\n</ul>\n<p>As this is a generic description based on the app name and the absence of the original description content, I would recommend providing more information to create a more accurate and tailored app summary.</p>",
+  "related_apps": [
+    {
+      "link": "/details/jp-cocone-livly/54171.html",
+      "icon": "assets/img/apk/icon/jp.cocone.livly.png",
+      "name": "Livly Island - Adopt Cute Pets",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-daily-festival-photos/39721.html",
+      "icon": "assets/img/apk/icon/com.daily.festival.photos.png",
+      "name": "Daily Festival Photo",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/tv-medal-recorder/39573.html",
+      "icon": "assets/img/apk/icon/tv.medal.recorder.png",
+      "name": "Medal - Gaming Clips",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-ptanktechnology-reincornation/39352.html",
+      "icon": "assets/img/apk/icon/com.ptanktechnology.reincornation.png",
+      "name": "Reincarnation",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-tiktok-lite-go/15392.html",
+      "icon": "assets/img/apk/icon/com.tiktok.lite.go.png",
+      "name": "TikTok Lite - Faster TikTok",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-petmeetly/15275.html",
+      "icon": "assets/img/apk/icon/com.petmeetly.png",
+      "name": "Petmeetly - Pet's Match Finder",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-xingin-xhs/14603.html",
+      "icon": "assets/img/apk/icon/com.xingin.xhs.png",
+      "name": "REDnote—小红书国际版",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-stdev-dissordap/10395.html",
+      "icon": "assets/img/apk/icon/com.stdev.dissordap.png",
+      "name": "Vote Social - Photo Voting VS",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "3.8"
+    }
+  ]
+}

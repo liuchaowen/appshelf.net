@@ -1,0 +1,111 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.tencent.wework.png",
+    "title": "WeCom",
+    "ratings": "4.9",
+    "downloads": "340M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "WeCom"
+    },
+    {
+      "name": "category",
+      "value": "Business"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Tencent Technology (Shenzhen) Company Ltd."
+    },
+    {
+      "name": "Version",
+      "value": "3.0.28"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/myg-eoOmngUNEFOO0nMLe7oIHxwM1b46xQ4R-SKVNFdGX4QW-xjXY2tdZnz_s5b-8w",
+    "https://play-lh.googleusercontent.com/0bDk8n1cWXSZwLYTZka5ga15W2v1N1xtOyn_e0FJrVpTJK406KFFZELGIbeZV5QYdw",
+    "https://play-lh.googleusercontent.com/oWfW-yDASXagI0o0sZdjkdD1LSGRy4WSeeI7Fe4EzpazBVOF7SPE-fJt4XM4eXknyluI",
+    "https://play-lh.googleusercontent.com/oNHx_C5z-e2erRhOpbQ8hKJN53uA9pFqREDjxAueuZYicppyi_lIBAWk2Jctzulg5Aeu",
+    "https://play-lh.googleusercontent.com/peWMe8T7gUR82tePVr-3ZrW-cZ6par2uWNG_JMDzkk5pI9DAfZfoZXNsw-Xy3yuZZlY",
+    "https://play-lh.googleusercontent.com/5vbgoFuQlT19Sz8MIV1_iYpbUto185CHpJPJ-io7wO58RCRgMyuxQ_E0JrsWXUCozBM",
+    "https://play-lh.googleusercontent.com/rHFfhwL3W0WrSgGA2nPpQC86XKqtgJmGm7wTe5ru6UzXhO-uo8ivdgRVC9ICxekSKw"
+  ],
+  "app_descript": "<h3>WeCom</h3>\n<h4>Brief:</h4>\n<p>WeCom serves as the cornerstone of communication and collaboration for millions across the globe, from giant corporations to emerging entities. Renowned brands like Rainbow, P&amp;G, Cartier, and WalMart trust WeCom as their go-to platform for efficient and streamlined business interactions. It extends the familiar ease of WeChat into a professional environment, turning it into a comprehensive suite for corporate connectivity.</p>\n<h4>Core Features:</h4>\n<ul>\n<li>📌 <strong>Ease of Communication:</strong> Enjoy seamless IM across devices with real-time syncing to ensure messages are always up to date.</li>\n<li>📌 <strong>Corporate Directory Integration:</strong> Manage and import corporate contacts effortlessly, enabling quick access to co-worker information.</li>\n<li>📌 <strong>Comprehensive Customer Interaction:</strong> Connect with customers through WeChat, manage customer groups, and engage via Moments for a dynamic service experience.</li>\n<li>📌 <strong>Collaborative Tools:</strong> Utilize WeDoc and WeDrive for collaborative document editing and file sharing, supported by 100 GB of shared space.</li>\n<li>📌 <strong>Various Enterprise Applications:</strong> Access a plethora of office tools, third-party applications, and APIs for a diverse work environment.</li>\n</ul>\n<h4>Pros:</h4>\n<ul>\n<li>👍 <strong>Interoperability with WeChat:</strong> Seamlessly merge professional and personal communication with WeChat integration.</li>\n<li>👍 <strong>Efficient Project Management:</strong> Event scheduling and multi-person meetings facilitate productivity and effective team coordination.</li>\n<li>👍 <strong>Advanced Security Features:</strong> Strong management capabilities ensure safe handling of corporate directories and app permissions.</li>\n<li>👍 <strong>Generous Storage Solutions:</strong> The provision of 100 GB shared cloud storage via WeDrive supports extensive file management.</li>\n</ul>\n<h4>Cons:</h4>\n<ul>\n<li>👎 <strong>Learning Curve:</strong> New users may require time to familiarize themselves with the extensive features.</li>\n<li>👎 <strong>Complexity for Small Teams:</strong> The wealth of features can be daunting for smaller teams who may not require such an extensive toolkit.</li>\n<li>👎 <strong>Device Compatibility:</strong> Full functionality may be limited to certain devices or platforms.</li>\n<li>👎 <strong>Potential for Overwhelm:</strong> The large array of applications may lead to information overload for some users.</li>\n</ul>\n<h4>Pricing:</h4>\n<ul>\n<li>💵 WeCom is generally available without an upfront cost, however, specific features and extended storage options may include in-app purchases or subscription fees. Details on advanced features or enterprise packages require direct inquiry with WeCom.</li>\n</ul>\n<h4>Community:</h4>\n<p><em>No community links or social media platforms information has been provided or found.</em></p>\n<hr/>\n<p>WeCom, Offering Every Enterprise their own WeChat.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-kj2147575505-app/16858.html",
+      "icon": "assets/img/apk/icon/com.kj2147575505.app.png",
+      "name": "Alpha Omega Consulting",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-hypertide-petscan-v8m/15982.html",
+      "icon": "assets/img/apk/icon/com.hypertide.petscan.v8m.png",
+      "name": "PetScan",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "2"
+    },
+    {
+      "link": "/details/com-animalid-scanner/15981.html",
+      "icon": "assets/img/apk/icon/com.animalid.scanner.png",
+      "name": "Pet Scanner",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-webrange-sendoff-app/15417.html",
+      "icon": "assets/img/apk/icon/com.webrange.sendoff.app.png",
+      "name": "Sendoff Funeral App",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-dyve-countthings/10295.html",
+      "icon": "assets/img/apk/icon/com.dyve.countthings.png",
+      "name": "CountThings from Photos",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "3"
+    },
+    {
+      "link": "/details/com-countthis-count-things-counting-template-counter/5097.html",
+      "icon": "assets/img/apk/icon/com.countthis.count.things.counting.template.counter.png",
+      "name": "Count This・Counting Things App",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-aadi-personalitytraittest/4991.html",
+      "icon": "assets/img/apk/icon/com.aadi.personalitytraittest.png",
+      "name": "Personality Trait Test",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/GlowRoad/4569.html",
+      "icon": "assets/img/apk/icon/com.localqueen.png",
+      "name": "GlowRoad",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.6"
+    }
+  ]
+}

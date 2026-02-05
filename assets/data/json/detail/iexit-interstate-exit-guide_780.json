@@ -1,0 +1,112 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.metrocket.iexitapp.png",
+    "title": "iExit Interstate Exit Guide",
+    "ratings": "4.2",
+    "downloads": "150M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "iExit Interstate Exit Guide"
+    },
+    {
+      "name": "category",
+      "value": "Travel & Local"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "iExit Software"
+    },
+    {
+      "name": "Version",
+      "value": "5.02"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/CJRYB4mdt9YKR5KU2YpEGhVsGUsZT1SpyyvWNF7yIHJ2wu3hvcr0PZymCBvSWZujk9Tq",
+    "https://play-lh.googleusercontent.com/9bxxHWcPYnENAcBeKGXiVbhUxLxHAlShRn7JWug0jG9NSKoINAK7IFGvGts8NeP4hxK4",
+    "https://play-lh.googleusercontent.com/D5REK_rLxK9pdKa-z2WF3LyrtlYtEN55F91mzUz1eIa0osZY867ni-QIs4Jk4ktvOTk",
+    "https://play-lh.googleusercontent.com/drIbHjCbwZBgdheD1wBQYmLBNrgEaoGErq8nPMJ-JuxRi3BzbTskJJd3G0awjfFX0a0",
+    "https://play-lh.googleusercontent.com/GpPrgF5fXuJFihJ2QIak2X_synYC3l8ELLp1CvZLYMTsMwEg_lpxlPYTBAQTi3hKVg",
+    "https://play-lh.googleusercontent.com/znBj1GgFQZJ2ssmI2URCmxoTTVEpWRfzaEWaNwmoMYI54l9lXN-mzRdJSx58SwbjbNY",
+    "https://play-lh.googleusercontent.com/DV_HgDA21gbp6qFqjeDDE9VyR-7vFdgP4GLZPbCz_9LdAeLR7nVrlZXRKi_dZBWvnw",
+    "https://play-lh.googleusercontent.com/NCwKnTPqI0EgmPmq_-HwjcCglBz_VBNJEVrLXYp-UJFKxHqrGnO9GFSPDHk750bgliw"
+  ],
+  "app_descript": "<p><strong>iExit Interstate Exit Guide</strong></p>\n<p><strong>Brief:</strong>\nEmbark on your road trips with the confidence of a seasoned traveler with the iExit Interstate Exit Guide. As praised by top media outlets like The New York Times and CNN, iExit acts as your co-pilot, taking your journey beyond the mere directions offered by a GPS. It's an essential travel companion providing real-time updates on the amenities at upcoming highway exits. Whether you're hunting for gas, craving a snack, or in urgent need of a rest stop, iExit keeps you informed mile by mile.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🗺️ Real-Time Exit Information: Access detailed lists of services available at each interstate exit.</li>\n<li>⛽ Fuel Availability Alerts: Know when and where to fill up by checking gas availability ahead.</li>\n<li>🍴 Food Finder: Discover a variety of dining options, from fast food to local favorites, along the way.</li>\n<li>🛍️ Shopping Locator: Locate retail stores, including Wal-Mart, for any travel essentials you may need.</li>\n<li>🚻 Restroom &amp; Lodging Info: Find the nearest rest stops with restrooms and lodging options easily. 🏨</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👁️‍🗨️ Expert Endorsements: Recommended by leading media avenues, ensuring reliability.</li>\n<li>🔍 Comprehensive Search: Integrates a multitude of services, including dining, gas, lodging, and more.</li>\n<li>🚙 Travel-Friendly: Tailored specifically for highway travelers to enhance their road trip experience.</li>\n<li>📱 User-Friendly Interface: Designed for ease of use, providing information at a glance while on the go.</li>\n<li>🆕 Regular Updates: The information is updated in real-time to deliver the latest details on services. 🔄</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>📍 Dependence on GPS: Requires a stable GPS signal, which might be inconsistent in remote areas.</li>\n<li>📶 Data Usage: Relies on real-time data, which could affect mobile data consumption.</li>\n<li>🗺️ Limited to Interstates: Primarily designed for interstate travel, may not cover local or rural roads.</li>\n<li>💼 No Business Ratings: Doesn't provide user reviews or ratings for businesses listed.</li>\n<li>🌍 U.S. Focused: Mainly useful within the United States, which may not benefit international travelers. 🇺🇸</li>\n</ul>\n<p><strong>Price:</strong>\n💵 The app is free to download, but users should verify in-app purchase details for potential additional features or premium options.</p>\n<p>🔗 Be part of the road-tripping community that's always ready for the next adventure. Connect with other travelers and share your interstate stories!</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-bp-app-bpme-global-ros/16042.html",
+      "icon": "assets/img/apk/icon/com.bp.app.bpme.global.ros.png",
+      "name": "earnify",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/kulana-tools-vacationcountdown/10380.html",
+      "icon": "assets/img/apk/icon/kulana.tools.vacationcountdown.png",
+      "name": "Vacation Countdown App",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-disney-playdisneyparks-goo/4681.html",
+      "icon": "assets/img/apk/icon/com.disney.playdisneyparks.goo.png",
+      "name": "Play Disney Parks",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-hornblower-statuecruises/4679.html",
+      "icon": "assets/img/apk/icon/com.hornblower.statuecruises.png",
+      "name": "Statue Cruises",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-usnpw-grca/4678.html",
+      "icon": "assets/img/apk/icon/com.usnpw.grca.png",
+      "name": "Grand Canyon National Park",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/MakeMyTrip-Hotels-Flight-Bus/4591.html",
+      "icon": "assets/img/apk/icon/com.makemytrip.png",
+      "name": "MakeMyTrip Hotels, Flight, Bus",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/ConfirmTkt/4570.html",
+      "icon": "assets/img/apk/icon/com.confirmtkt.lite.png",
+      "name": "ConfirmTkt",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/Bus-Train-Ticket-Booking-App/4503.html",
+      "icon": "assets/img/apk/icon/in.redbus.android.png",
+      "name": "Bus, Train Ticket Booking App",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.9"
+    }
+  ]
+}

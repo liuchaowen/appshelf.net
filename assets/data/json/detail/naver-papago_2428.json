@@ -1,0 +1,112 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.naver.labs.translator.png",
+    "title": "Naver Papago",
+    "ratings": "4.6",
+    "downloads": "740M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Naver Papago"
+    },
+    {
+      "name": "category",
+      "value": "Tools"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "NAVER Corp."
+    },
+    {
+      "name": "Version",
+      "value": "1.9.29"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/2FkFm9eR7Vm2igM7IzJC7PmjtwxIr9PiRuX-KF829bRadeyCQBeF5vUafrt3sphilVM",
+    "https://play-lh.googleusercontent.com/yEeMRbzJPvrdlUBNtZFwfPDiHbdSrjgd4gfs05AUc2f9x7AGFtPHLzYOdBcWauwfBQA",
+    "https://play-lh.googleusercontent.com/_Ch9TB2fYM2nAyWZ0GDAS0OuBC0glru-u82yMRwAZuLw6rP_ggLt9mHPr5nqqFpaqG4",
+    "https://play-lh.googleusercontent.com/qCxQYXw73fyIhSMIkC4rWM_W-drHjhqTUw99EwAphh7lDneM4UMDvP2Dyr7vWq8Hhw",
+    "https://play-lh.googleusercontent.com/o_lMHJweNd1XcmV5lOitcj91Iu3aT5Thzcstvr2pwRtStvUjSLmWI2m-7aYHyR-LBDA",
+    "https://play-lh.googleusercontent.com/FNuGoX4z9Nt5vvFyD8zU10CElpFh19w-GLMarLMxk5usUKMXBnSeKEC5nxIjMx2Yors",
+    "https://play-lh.googleusercontent.com/72Ey_p7n0nuya5urH1Yx8S1oiP0CIINbBRzIBGVbeE6IzySCDL1jFo54vmW6EXhkLjQ",
+    "https://play-lh.googleusercontent.com/55rfqe4pQo3nLPYDIowLoB4un45FQCwbpdEM7eJpthCPBalKfpS83VEorzHTjypG3pQ"
+  ],
+  "app_descript": "<h3>Naver Papago - Language Translation at Your Fingertips</h3>\n<p>Naver Papago, stemming from the Esperanto word for \"parrot,\" mirrors the bird's renowned linguistic abilities, offering comprehensive language support to break down barriers in communication. This app serves as a reliable companion for language translation across 13 global languages.</p>\n<p>🌐 <strong>Core Features</strong>:\n1) <strong>Text Translation</strong>: Instant translation of phrases and words 📝\n2) <strong>Image Translation</strong>: Snap a photo, and the app translates any text in the image 📸\n3) <strong>Voice Translation</strong>: Experience real-time speech translation into text and audio 🗣\n4) <strong>Offline Translation</strong>: Have the power to translate without internet access 🌐\n5) <strong>Handwriting Translation</strong>: Write with your finger, and Papago finds the word and its translation ✍️</p>\n<p>👍 <strong>Pros</strong>:</p>\n<ul>\n<li>Multifaceted translation covering text, voice, images, and websites 🔍</li>\n<li>Offline capabilities ensuring translation even without connectivity 📶</li>\n<li>Convenient conversation translation feature for one-on-one interactions 💬</li>\n<li>Papago Mini for on-screen translation in any app when text is copied 📋</li>\n<li>Integrated dictionary for expansive word meanings and usage 📚</li>\n</ul>\n<p>👎 <strong>Cons</strong>:</p>\n<ul>\n<li>Limited to 13 languages, which may not cover all users' needs 🗣️</li>\n<li>App performance is dependent on the quality of microphone and camera for voice and image translations 🎙️📷</li>\n<li>Permission requirements may raise privacy concerns for some users 🔒</li>\n<li>Offline translation might not be as comprehensive as online translation 📱</li>\n<li>Requires Android 4.2 and up, not supporting older devices 🚀</li>\n</ul>\n<p>💵 <strong>Price</strong>:</p>\n<ul>\n<li>The Naver Papago app is free to download and use, though device permissions are required for full functionality. The app has no in-app purchases, providing an all-inclusive experience at no cost.</li>\n</ul>\n<p>🕸️ <strong>Community</strong>:</p>\n<ul>\n<li>Official Papago Website: <a href=\"https://papago.naver.com\" rel=\"noopener noreferrer\" target=\"_blank\">Naver Papago</a></li>\n<li>Facebook: <a href=\"https://www.facebook.com/NaverPapago\" rel=\"noopener noreferrer\" target=\"_blank\">Follow on Facebook</a></li>\n<li>Instagram: <a href=\"https://www.instagram.com/papago_naver/\" rel=\"noopener noreferrer\" target=\"_blank\">Follow on Instagram</a></li>\n</ul>\n<p>Whether you're embarking on a trip abroad, learning a new language, or engaging with international friends, Naver Papago equips you with the right set of translation tools to foster understanding and connection anytime, anywhere.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-antique-snap-identifier-appraisal/54309.html",
+      "icon": "assets/img/apk/icon/com.antique.snap.identifier.appraisal.png",
+      "name": "Antique Identifier - Appraisal",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-age-calculator-life-countdown/54243.html",
+      "icon": "assets/img/apk/icon/com.age.calculator.life.countdown.png",
+      "name": "Age Calculator・Life Expectancy",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.4"
+    },
+    {
+      "link": "/details/com-xv-agecalc/54237.html",
+      "icon": "assets/img/apk/icon/com.xv.agecalc.png",
+      "name": "AgeCalc: Date Life Calculator",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-palm-ai-decode-destiny-soul-futurelines-handline/54206.html",
+      "icon": "assets/img/apk/icon/com.palm.ai.decode.destiny.soul.futurelines.handline.png",
+      "name": "Palm AI: Decode Destiny",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/rbx-robuxcalc-getrbx-freecounter/53839.html",
+      "icon": "assets/img/apk/icon/rbx.robuxcalc.getrbx.freecounter.png",
+      "name": "RBX Calc - Get Robuxcounter",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-internetoptimizer-speedtest-wifispeedtest-netspeed-wifipassword-wifispeed/49027.html",
+      "icon": "assets/img/apk/icon/com.internetoptimizer.speedtest.wifispeedtest.netspeed.wifipassword.wifispeed.png",
+      "name": "Internet Optimizer",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.9"
+    },
+    {
+      "link": "/details/com-blazingappstudio-speed_test_pro/49021.html",
+      "icon": "assets/img/apk/icon/com.blazingappstudio.speed_test_pro.png",
+      "name": "Speed Test - Wifi Optimizer",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-secret-camera-hidden-detector/39728.html",
+      "icon": "assets/img/apk/icon/com.secret.camera.hidden.detector.png",
+      "name": "Hidden Camera & IR Detector",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    }
+  ]
+}

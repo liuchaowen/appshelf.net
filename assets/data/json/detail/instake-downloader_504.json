@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/instake.repost.instagramphotodownloader.instagramvideodownloader.png",
+    "title": "InsTake Downloader",
+    "ratings": "4.9",
+    "downloads": "270M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "InsTake Downloader"
+    },
+    {
+      "name": "category",
+      "value": "Video Players & Editors"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Video Downloader & Video Player & Photo Downloader"
+    },
+    {
+      "name": "Version",
+      "value": "1.03.67.0307"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>InsTake Downloader</strong></p>\n<hr/>\n<p><strong>Brief:</strong>\nInsTake Downloader is an intuitive tool designed for Instagram users who wish to save photos, videos, stories, and reels effortlessly. This app simplifies the download process through 'Share Link' or 'Copy Link' methods, ensuring that favorite Instagram content is easily accessible offline. </p>\n<hr/>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>📥 <strong>Easy Downloading Methods:</strong> Utilize 'Share Link' or 'Copy Link' to swiftly download Instagram content 📌.</li>\n<li>🎞️ <strong>Full Content Support:</strong> Works with Instagram reels, stories, highlights, and IGTV 📌.</li>\n<li>🚀 <strong>Superfast Downloads:</strong> Experience quick downloads of videos and photos in high definition 📌.</li>\n<li>🎬 <strong>Built-in Media Players:</strong> Enjoy offline videos with the integrated video player and view photos in the built-in album 📌.</li>\n<li>🔄 <strong>Efficient Content Management:</strong> Manage downloads, reposts, and share content directly within the app 📌.</li>\n</ul>\n<hr/>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 <strong>Versatility in Content Saving:</strong> Download a variety of Instagram media formats 👍.</li>\n<li>👍 <strong>User-Friendly Interface:</strong> Easy-to-navigate download page for managing media 👍.</li>\n<li>👍 <strong>Enhanced Speed:</strong> Multi-thread tech boosts download speeds significantly 👍.</li>\n<li>👍 <strong>Dark Mode Support:</strong> Includes a dark mode feature to reduce eye strain in low-light situations 👍.</li>\n<li>👍 <strong>Lightweight Application:</strong> Does not consume excessive device resources 👍.</li>\n</ul>\n<hr/>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 <strong>Dependency on Instagram Interface:</strong> Requires content to be accessed through official Instagram app first 👎.</li>\n<li>👎 <strong>Copyright Compliance Necessary:</strong> Users must ensure they have permission to download content 👎.</li>\n<li>👎 <strong>Potential Privacy Concerns:</strong> Downloading content could invade the privacy of Instagram users 👎.</li>\n<li>👎 <strong>Limited Editing Tools:</strong> Offers basic reposting features but lacks advanced editing options 👎.</li>\n<li>👎 <strong>Advertisement Presence:</strong> May include ads which could interrupt user experience 👎.</li>\n</ul>\n<hr/>\n<p><strong>Price:</strong></p>\n<p>💵 InsTake Downloader is freely available, but it's important to check if there are any in-app purchases or advertisements that may affect your experience.</p>\n<hr/>\n<p>For any assistance or to provide feedback, users can reach out via [email protected], and keep up-to-date with features by following the official Instagram fan page @download.ins.</p>\n<p>Please note: InsTake Downloader is not affiliated with Instagram. It is crucial to respect the copyrights of content owners before downloading and reposting media.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-video-newslideshow/53956.html",
+      "icon": "assets/img/apk/icon/com.video.newslideshow.png",
+      "name": "Music Video Maker Magic Effect",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-prominent-aicatch/49088.html",
+      "icon": "assets/img/apk/icon/com.prominent.aicatch.png",
+      "name": "AI Catch: AI Video Generator",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-asianmobile-smartplayer/34766.html",
+      "icon": "assets/img/apk/icon/com.asianmobile.smartplayer.png",
+      "name": "IPTV Player: Smarters Watch TV",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "3.1"
+    },
+    {
+      "link": "/details/halloween-video-maker/34753.html",
+      "icon": "assets/img/apk/icon/halloween.video.maker.png",
+      "name": "Halloween Video Editor 2025",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-cupertinotech-aidancevideo/16075.html",
+      "icon": "assets/img/apk/icon/com.cupertinotech.aidancevideo.png",
+      "name": "AI Dance Video - Photo Dance",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "2.4"
+    },
+    {
+      "link": "/details/com-instagram-basel/15556.html",
+      "icon": "assets/img/apk/icon/com.instagram.basel.png",
+      "name": "Edits, an Instagram app",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/downloader-video-download-free/10303.html",
+      "icon": "assets/img/apk/icon/downloader.video.download.free.png",
+      "name": "Video Downloader & Video Saver",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-renderforest-videomaker/10142.html",
+      "icon": "assets/img/apk/icon/com.renderforest.videomaker.png",
+      "name": "Renderforest Video & Animation",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.5"
+    }
+  ]
+}

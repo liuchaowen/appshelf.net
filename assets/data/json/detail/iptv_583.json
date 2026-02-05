@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/iptv.png",
+    "title": "IPTV",
+    "ratings": "4",
+    "downloads": "260M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "IPTV"
+    },
+    {
+      "name": "category",
+      "value": "Video Players & Editors"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Alexander Sofronov"
+    },
+    {
+      "name": "Version",
+      "value": "6.1.11"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h3>Brief:</h3>\n<p>IPTV is an innovative app designed to reshape the way you experience television, by offering a customizable and tech-savvy approach to viewing content. Through its subscription service, IPTV grants users access to a wide array of channels, enabling them to tailor their viewing preferences and embrace the flexibility of watching TV shows whenever they like. Enhanced with additional features like a video recorder and VOIP services, IPTV ensures a high-definition, quality viewing experience right on your mobile device.</p>\n<h3>Core Features:</h3>\n<ul>\n<li><strong>Customizable Channel Selections</strong> 📌 – Allows users to select their preferred channels according to their payment plan, ensuring a personalized viewing experience.</li>\n<li><strong>High-Quality HD Viewing</strong> 📌 – Supports high-definition viewing so you can enjoy crisp and clear videos on your television or mobile device.</li>\n<li><strong>Integrated Video Recorder</strong> 📌 – Equips users with the ability to record their favorite TV shows directly from their mobile devices and watch them at their convenience.</li>\n<li><strong>Additional VOIP Services</strong> 📌 – Offers users telephone services known as VOIP, adding a new layer of connectivity to your IPTV experience.</li>\n</ul>\n<h3>Pros:</h3>\n<ul>\n<li><strong>Expansive Content Access</strong> 👍 – A substantial variety of channels to choose from ensures you won't miss out on your favorite shows.</li>\n<li><strong>Personalized Packages</strong> 👍 – Option to customize channel packages based on individual preferences and payment options.</li>\n<li><strong>Convenient Recording</strong> 👍 – Never miss an episode again with the convenience of recording shows directly from your mobile device.</li>\n<li><strong>Enhanced Features</strong> 👍 – The app doesn't just limit itself to IPTV; it provides additional tech features, integrating well into a modern, tech-centered home.</li>\n</ul>\n<h3>Cons:</h3>\n<ul>\n<li><strong>Subscription Required</strong> 👎 – Full access to features and channel customization requires a paid subscription.</li>\n<li><strong>Dependent on Internet Quality</strong> 👎 – Streaming quality is heavily dependent on your internet connection, which might not always be reliable.</li>\n<li><strong>Device Compatibility</strong> 👎 – May not be compatible with all television or mobile device types, which could limit some users' experience.</li>\n<li><strong>Learning Curve</strong> 👎 – New users may have to navigate a learning curve to utilize all the features efficiently.</li>\n</ul>\n<h3>Price:</h3>\n<p>IPTV offers a subscription-based model, with prices varying depending on the package and features chosen. Users should expect the core app to be free with in-app purchases for premium content and additional features. 💵</p>\n<h3>Community:</h3>\n<p>While IPTV aims at providing a highly satisfying user experience, there is no specific community data available for this app package. </p>\n<p>Transform your TV watching experience with IPTV and gain the freedom to choose, record, and watch your favorite content with ease and in high definition.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-video-newslideshow/53956.html",
+      "icon": "assets/img/apk/icon/com.video.newslideshow.png",
+      "name": "Music Video Maker Magic Effect",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-prominent-aicatch/49088.html",
+      "icon": "assets/img/apk/icon/com.prominent.aicatch.png",
+      "name": "AI Catch: AI Video Generator",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-asianmobile-smartplayer/34766.html",
+      "icon": "assets/img/apk/icon/com.asianmobile.smartplayer.png",
+      "name": "IPTV Player: Smarters Watch TV",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "3.1"
+    },
+    {
+      "link": "/details/halloween-video-maker/34753.html",
+      "icon": "assets/img/apk/icon/halloween.video.maker.png",
+      "name": "Halloween Video Editor 2025",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-cupertinotech-aidancevideo/16075.html",
+      "icon": "assets/img/apk/icon/com.cupertinotech.aidancevideo.png",
+      "name": "AI Dance Video - Photo Dance",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "2.4"
+    },
+    {
+      "link": "/details/com-instagram-basel/15556.html",
+      "icon": "assets/img/apk/icon/com.instagram.basel.png",
+      "name": "Edits, an Instagram app",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/downloader-video-download-free/10303.html",
+      "icon": "assets/img/apk/icon/downloader.video.download.free.png",
+      "name": "Video Downloader & Video Saver",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-renderforest-videomaker/10142.html",
+      "icon": "assets/img/apk/icon/com.renderforest.videomaker.png",
+      "name": "Renderforest Video & Animation",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.5"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/org.iata.tpa.png",
+    "title": "IATA Travel Pass",
+    "ratings": "4.5",
+    "downloads": "20M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "IATA Travel Pass"
+    },
+    {
+      "name": "category",
+      "value": "Travel & Local"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "International Air Transport Association"
+    },
+    {
+      "name": "Version",
+      "value": "2.3.4"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>IATA Travel Pass</strong></p>\n<p><strong>Brief:</strong>\nThe IATA Travel Pass is a global, mobile solution designed to streamline the process of storing and presenting test and vaccine certificates required for international travel. With endorsements from governments like Australia and Panama, the app is setting a precedent for digital travel documentation. It embraces the 'Self-sovereign identity' principle, granting users total control over their personal information and a secure digital wallet to manage their travel credentials effectively.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🗺️ <strong>Global Acceptance:</strong> Facilitates the electronic presentation of travel health documents, gaining official endorsements by government bodies.</li>\n<li>🔐 <strong>Secure Digital Wallet:</strong> Allows travelers to safely store and manage their test and vaccine certificates, along with biometric passport information.</li>\n<li>📍 <strong>User Privacy Priority:</strong> Built on self-sovereign identity, ensuring that travelers maintain full control over who accesses their data.</li>\n<li>📲 <strong>Biometric Data Integration:</strong> Integrates biometric passports into the wallet, streamlining the identification process.</li>\n<li>🌐 <strong>Universal Utility:</strong> The app is designed for global use, aiding travelers regardless of their location. 🌟</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👤 <strong>Data Autonomy:</strong> Users have complete autonomy over their personal data, reinforcing security and trust.</li>\n<li>🛂 <strong>Ease of Border Crossing:</strong> Simplifies the process of verifying health documents, making international travel more efficient.</li>\n<li>📈 <strong>Growing Endorsements:</strong> Active collaboration with governments to expand public endorsements, potentially increasing the app’s utility.</li>\n<li>🙈 <strong>Privacy Assured:</strong> A clear privacy policy outlines the user data protection measures taken. 👍</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>🚀 <strong>Adoption Rate:</strong> Requires broader adoption by more countries to realize its full potential globally.</li>\n<li>🤝 <strong>Integration with Airlines:</strong> Dependence on airline and immigration partnerships for seamless operations.</li>\n<li>❓ <strong>Public Awareness:</strong> The need for enhanced communication to inform travelers of such digital tool availability.</li>\n<li>🔒 <strong>Security Concerns:</strong> Constant need to uphold cybersecurity amidst increasing threats to personal data. 👎</li>\n</ul>\n<p><strong>Price:</strong>\nThe IATA Travel Pass app is freely accessible worldwide. However, it's important to review the privacy policy for a comprehensive understanding of any data-related implications. 💵</p>\n<p><a href=\"https://www.iata.org/travelpass-privacy/\" rel=\"noopener noreferrer\" target=\"_blank\">Read the IATA Travel Pass Privacy Policy</a></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-bp-app-bpme-global-ros/16042.html",
+      "icon": "assets/img/apk/icon/com.bp.app.bpme.global.ros.png",
+      "name": "earnify",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/kulana-tools-vacationcountdown/10380.html",
+      "icon": "assets/img/apk/icon/kulana.tools.vacationcountdown.png",
+      "name": "Vacation Countdown App",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-disney-playdisneyparks-goo/4681.html",
+      "icon": "assets/img/apk/icon/com.disney.playdisneyparks.goo.png",
+      "name": "Play Disney Parks",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-hornblower-statuecruises/4679.html",
+      "icon": "assets/img/apk/icon/com.hornblower.statuecruises.png",
+      "name": "Statue Cruises",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-usnpw-grca/4678.html",
+      "icon": "assets/img/apk/icon/com.usnpw.grca.png",
+      "name": "Grand Canyon National Park",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/MakeMyTrip-Hotels-Flight-Bus/4591.html",
+      "icon": "assets/img/apk/icon/com.makemytrip.png",
+      "name": "MakeMyTrip Hotels, Flight, Bus",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/ConfirmTkt/4570.html",
+      "icon": "assets/img/apk/icon/com.confirmtkt.lite.png",
+      "name": "ConfirmTkt",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/Bus-Train-Ticket-Booking-App/4503.html",
+      "icon": "assets/img/apk/icon/in.redbus.android.png",
+      "name": "Bus, Train Ticket Booking App",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.9"
+    }
+  ]
+}

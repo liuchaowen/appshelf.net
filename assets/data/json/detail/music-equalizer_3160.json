@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/equalizersoundbooster.equalizermusicapp.png",
+    "title": "Music Equalizer",
+    "ratings": "4.6",
+    "downloads": "490M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Music Equalizer"
+    },
+    {
+      "name": "category",
+      "value": "Music & Audio"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Apps for Happy People"
+    },
+    {
+      "name": "Version",
+      "value": "1.0"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h1>Music Equalizer: Enhance Your Audio Experience</h1>\n<h3>📄 Brief</h3>\n<p>Immerse yourself in superior sound quality with Music Equalizer, an innovative Android app designed to enrich your auditory experience. With Bass Boost, Virtualizer, and Equalizer capabilities, this app allows you to fine-tune your music and videos to achieve an unprecedented level of audio fidelity. Whether you're looking to amplify your tunes, adjust specific frequency bands, or simply enjoy a more profound bass, Music Equalizer offers a suite of professional features that cater to the discerning ear.</p>\n<h3>🌟 Core Features</h3>\n<ul>\n<li>🔊 <strong>Bass Boost &amp; Virtualizer</strong>: Reinforce and enrich the bass and spatial effects to elevate your listening experience. 🎚️</li>\n<li>🎛️ <strong>5-Band Equalizer Controller</strong>: Customize every aspect of your audio with the powerful equalizer, featuring granular control over your sound. 🎶</li>\n<li>🎚️ <strong>Equalizer Presets</strong>: Select from a range of presets tailored for various music genres or create your own for a personalized touch. 📲</li>\n<li>📈 <strong>Volume Amplification</strong>: Intensify the volume of your device beyond the default limits for a more vibrant and dynamic output. 🔊</li>\n<li>🎼 <strong>Professional Audio Decoding</strong>: Experience high-quality music with the app's superior decoding technology that caters to audiophiles. 🎧</li>\n</ul>\n<h3>👍 Pros</h3>\n<ul>\n<li>✅ Enhances audio quality across all forms of media, offering a versatile improvement for music, videos, and more. 🎵</li>\n<li>✅ Intuitive home-screen widget provides quick and easy access to audio settings. 🔧</li>\n<li>✅ Offers a breadth of customization options that allow for precise sound sculpting based on personal preference. 🛠️</li>\n<li>✅ Provides seamless track transitions mimicking professional DJ effects, adding another level of enjoyment to your playlists. 🎉</li>\n<li>✅ The interface is user-friendly, making advanced audio adjustments accessible to enthusiasts without professional audio knowledge. 🌐</li>\n</ul>\n<h3>👎 Cons</h3>\n<ul>\n<li>💭 May be slightly complex for users who prefer more straightforward music players with minimal settings. 🚦</li>\n<li>💭 High-quality playback and advanced features could result in increased battery consumption. 🔋</li>\n<li>💭 The effectiveness of sound enhancements might vary depending on the device's hardware capabilities. 📱</li>\n<li>💭 Potential risk of hearing damage if volume amplification is misused or overused. ⚠️</li>\n<li>💭 Custom equalizer settings might take trial and error to perfect for those unfamiliar with audio frequencies. 🎚️</li>\n</ul>\n<h3>💵 Price</h3>\n<ul>\n<li>💲 The app is available for free, providing core functionalities to enhance your listening experience without additional charges. 🆓</li>\n<li>💲 In-app purchases may exist for additional features or customization options, details of which can be accessed within the app itself. 💳</li>\n</ul>\n<p>Transform the way you listen to music with Music Equalizer and unleash the full potential of your Android device's audio system. Download Music Equalizer today and step into a world of refined sound. 🎶</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-simmusic-oldjpop/49056.html",
+      "icon": "assets/img/apk/icon/com.simmusic.oldjpop.png",
+      "name": "昭和の名曲 - 70年代/80年代名曲, 昭和の歌謡曲",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-bigsoft-voicereverse-audiochanger/39378.html",
+      "icon": "assets/img/apk/icon/com.bigsoft.voicereverse.audiochanger.png",
+      "name": "Funny Voice Reverse",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "3.1"
+    },
+    {
+      "link": "/details/com-realdrum-drumset-drumapp-beatmaker-music-instruments-drumkit/16783.html",
+      "icon": "assets/img/apk/icon/com.realdrum.drumset.drumapp.beatmaker.music.instruments.drumkit.png",
+      "name": "Learn Drum - Pad & Beat Maker",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-musicplayer-mp3-audio-mymusic-player/15795.html",
+      "icon": "assets/img/apk/icon/com.musicplayer.mp3.audio.mymusic.player.png",
+      "name": "Music Player & MP3 - MMusic",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/com-ai-sound-donna/15626.html",
+      "icon": "assets/img/apk/icon/com.ai.sound.donna.png",
+      "name": "Donna AI Song & Music Maker",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-vanniktech-rssreader/15328.html",
+      "icon": "assets/img/apk/icon/com.vanniktech.rssreader.png",
+      "name": "RSS Reader Offline | Podcast",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-voicechanger-supereffect-soundeffect/14158.html",
+      "icon": "assets/img/apk/icon/com.voicechanger.supereffect.soundeffect.png",
+      "name": "Voice Changer: Audio Effect",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/org-cru-womans-herbible/14124.html",
+      "icon": "assets/img/apk/icon/org.cru.womans.herbible.png",
+      "name": "her.BIBLE Women's Audio Bible",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    }
+  ]
+}

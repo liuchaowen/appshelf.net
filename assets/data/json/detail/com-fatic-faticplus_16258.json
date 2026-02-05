@@ -1,0 +1,107 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.fatic.faticplus.png",
+    "title": "Videhut MAX",
+    "ratings": "4.6",
+    "downloads": "59M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Videhut MAX"
+    },
+    {
+      "name": "category",
+      "value": "Tools"
+    },
+    {
+      "name": "Price",
+      "value": "0"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Music Radio"
+    },
+    {
+      "name": "Version",
+      "value": "6.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/g1NpwD_mF7Tn_PYJO-J6mGh8IvXfK4kmznNZ5853tWKf3dM89I0cOzUgGCyvMZQ1PQ",
+    "https://play-lh.googleusercontent.com/cyzmqrWUJ5RjeNfrXQouUW9cUOWzQIv2BNoYFTdWPK3yEf6nk62JLrGU3Rbl6llLTw",
+    "https://play-lh.googleusercontent.com/wNYAcZU3wxi6bmlxM6YgTqpOGRomPY-ruMdAd3NPY8JhCJHcO58Tom-krJi35Rb2-RQ"
+  ],
+  "app_descript": "<h1>Videhut MAX - Your Ultimate Travel Photo Companion</h1>\n<p>Videhut MAX is your ultimate photo companion for your travels! With an intuitive and user-friendly interface designed to enhance your user experience, this app enables you to effortlessly capture and browse your photos. Whether you're wandering through the city or immersing yourself in natural landscapes, Videhut MAX will assist you in capturing and sharing those stunning moments. </p>\n<h2>📌 Core Features</h2>\n<ul>\n<li><strong>Intuitive Interface:</strong> Enjoy a user-friendly design that makes photo capturing a breeze. </li>\n<li><strong>Effortless Browsing:</strong> Easily organize and browse through your travel memories with sophisticated sorting options. </li>\n<li><strong>Photo Sharing:</strong> Quickly share your beautiful captures with friends and family through social media. </li>\n<li><strong>Capture Quality:</strong> High-quality photo capturing ensures your memories are preserved in detail. </li>\n<li><strong>Travel Highlights:</strong> Create albums to showcase your travel highlights in a visually appealing way. </li>\n</ul>\n<h2>👍 Pros</h2>\n<ul>\n<li>Simple and intuitive interface makes it accessible for all users. </li>\n<li>Provides excellent options for sharing photos and memories. </li>\n<li>High-resolution captures that ensure quality photos. </li>\n<li>Organized browsing feature helps in managing a large photo collection. </li>\n</ul>\n<h2>👎 Cons</h2>\n<ul>\n<li>Limited advanced editing tools for serious photographers. </li>\n<li>Requires an internet connection for some features. </li>\n<li>May have occasional bugs reported by users. </li>\n<li>Some users find the app to be slow on older devices. </li>\n</ul>\n<h2>💵 Price</h2>\n<p>Videhut MAX is free to download, but it may offer in-app purchases for additional features. </p>",
+  "related_apps": [
+    {
+      "link": "/details/com-antique-snap-identifier-appraisal/54309.html",
+      "icon": "assets/img/apk/icon/com.antique.snap.identifier.appraisal.png",
+      "name": "Antique Identifier - Appraisal",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-age-calculator-life-countdown/54243.html",
+      "icon": "assets/img/apk/icon/com.age.calculator.life.countdown.png",
+      "name": "Age Calculator・Life Expectancy",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.4"
+    },
+    {
+      "link": "/details/com-xv-agecalc/54237.html",
+      "icon": "assets/img/apk/icon/com.xv.agecalc.png",
+      "name": "AgeCalc: Date Life Calculator",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-palm-ai-decode-destiny-soul-futurelines-handline/54206.html",
+      "icon": "assets/img/apk/icon/com.palm.ai.decode.destiny.soul.futurelines.handline.png",
+      "name": "Palm AI: Decode Destiny",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/rbx-robuxcalc-getrbx-freecounter/53839.html",
+      "icon": "assets/img/apk/icon/rbx.robuxcalc.getrbx.freecounter.png",
+      "name": "RBX Calc - Get Robuxcounter",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-internetoptimizer-speedtest-wifispeedtest-netspeed-wifipassword-wifispeed/49027.html",
+      "icon": "assets/img/apk/icon/com.internetoptimizer.speedtest.wifispeedtest.netspeed.wifipassword.wifispeed.png",
+      "name": "Internet Optimizer",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.9"
+    },
+    {
+      "link": "/details/com-blazingappstudio-speed_test_pro/49021.html",
+      "icon": "assets/img/apk/icon/com.blazingappstudio.speed_test_pro.png",
+      "name": "Speed Test - Wifi Optimizer",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-secret-camera-hidden-detector/39728.html",
+      "icon": "assets/img/apk/icon/com.secret.camera.hidden.detector.png",
+      "name": "Hidden Camera & IR Detector",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    }
+  ]
+}

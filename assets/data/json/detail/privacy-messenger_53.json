@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.melonsapp.privacymessenger.png",
+    "title": "Privacy Messenger",
+    "ratings": "4.7",
+    "downloads": "40M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Privacy Messenger"
+    },
+    {
+      "name": "category",
+      "value": "Communication"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Melons Messenger Inc."
+    },
+    {
+      "name": "Version",
+      "value": "5.8.4"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h1>Privacy Messenger</h1>\n<p>Privacy Messenger is an app dedicated to keeping your messages and call logs private and secure. From encrypted messaging to fun emoji communication, this app brings together privacy, versatile features, and user customization to create a comprehensive communication tool.</p>\n<h3>Core Features 📌</h3>\n<ul>\n<li><strong>Secure Messaging</strong>: All messages within the app are encrypted and screenshot-proof, ensuring that only you and the intended recipient can view them.</li>\n<li><strong>Private Box</strong>: A special feature that encrypts messages, allows customization of notifications, and hides the private box icon to prevent snooping.</li>\n<li><strong>Dual-Sim Support</strong>: Manage messages and calls from two different sim cards, ideal for devices running Android 5.1 and above.</li>\n<li><strong>SMS Blocker</strong>: Block unwanted spam messages easily to keep your inbox clean.</li>\n<li><strong>Backup &amp; Restore</strong>: Safeguard your messages by backing them up. Restore them at your convenience to ensure you never lose important communication.</li>\n</ul>\n<h3>Pros 👍</h3>\n<ul>\n<li><strong>Enhanced Privacy</strong>: Focus on security guards against unauthorized access and ensures privacy, including a clear call log for private contacts.</li>\n<li><strong>Free Online Messages</strong>: Enjoy chatting without SMS/MMS fees. Create groups for real-time communication and rest assured that the server doesn't store any data.</li>\n<li><strong>Custom Call Flash</strong>: Personalize your call screen with videos or photos for incoming calls.</li>\n<li><strong>Schedule Messages</strong>: Never miss an important message with the ability to schedule SMS and correct them before sending.</li>\n</ul>\n<h3>Cons 👎</h3>\n<ul>\n<li><strong>Complexity for some users</strong>: The array of features might be overwhelming and complex for users seeking a simple messaging app.</li>\n<li><strong>Potential Incompatibility</strong>: As with any app, there may be specific compatibility issues with certain devices or OS updates.</li>\n<li><strong>Backup Storage</strong>: Depending on the user’s storage options, keeping a backup of messages could consume significant space.</li>\n<li><strong>Learning Curve</strong>: New users might need time to familiarize themselves with the Private Box and dual-sim functionalities.</li>\n</ul>\n<h3>Price 💵</h3>\n<p>Privacy Messenger is free to download and use. However, there may be additional costs associated with phone and data usage depending on the user's service plan.</p>\n<p>Crafted for those who prioritize security in their communications, Privacy Messenger delivers an array of features wrapped in a secure and user-friendly package. Download it to bring encryption and fun to your conversations while maintaining absolute privacy.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-sst-parrot-photo-frame/53901.html",
+      "icon": "assets/img/apk/icon/com.sst.parrot.photo.frame.png",
+      "name": "Bird Photo Frame",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-new_year-stickers-birthday/39669.html",
+      "icon": "assets/img/apk/icon/com.new_year.stickers.birthday.png",
+      "name": "Happy New Year Stickers 2026",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/org-watchduty-app/14524.html",
+      "icon": "assets/img/apk/icon/org.watchduty.app.png",
+      "name": "Watch Duty (Wildfire)",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-snowcorp-stickerly-android/14453.html",
+      "icon": "assets/img/apk/icon/com.snowcorp.stickerly.android.png",
+      "name": "Sticker.ly - Sticker Maker",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-Happynewyearphotoframe2020/14421.html",
+      "icon": "assets/img/apk/icon/com.Happynewyearphotoframe2020.png",
+      "name": "New Year Video Maker 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-intira-new-year-photo-frame-new/14342.html",
+      "icon": "assets/img/apk/icon/com.intira.new.year.photo.frame.new.png",
+      "name": "New year photo frame 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-christmas-photo-frame-b-new-free/14203.html",
+      "icon": "assets/img/apk/icon/com.christmas.photo.frame.b.new.free.png",
+      "name": "Christmas photo frame 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/ma-apps-face_ml/14137.html",
+      "icon": "assets/img/apk/icon/ma.apps.face_ml.png",
+      "name": "Face reader scanner - analyser",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "3.3"
+    }
+  ]
+}

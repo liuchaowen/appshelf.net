@@ -1,0 +1,111 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.shopee.my.png",
+    "title": "Shopee MY",
+    "ratings": "4.3",
+    "downloads": "190M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Shopee MY"
+    },
+    {
+      "name": "category",
+      "value": "Shopping"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Shopee"
+    },
+    {
+      "name": "Version",
+      "value": "2.49.20"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/M5KhdFSctjLCbYIz4_IuDjbgTYiTT81f5vkxjTK5IJU_qFaGxSlW_I9IPv9bZ-GtQXmr",
+    "https://play-lh.googleusercontent.com/kvUbbylaeFJfjJC0H2ZRi7PrvblSL_QgTXTEZfp9STXUI38UnQcq8c6oO_S09YngOLo",
+    "https://play-lh.googleusercontent.com/mRlItS4BfPtVLdHYZownRupKlUSE6mm61RieAIGoRBGAXkdOG3fXJn6TtTbv0HqbfA",
+    "https://play-lh.googleusercontent.com/-wNIU-1FgG7lFZnJL-2-2zA-xIBeOL0OF64x99ZApdL8zZgPVvHnfI-LyXbS4MwOmw",
+    "https://play-lh.googleusercontent.com/mtTYwKE4YPmgTlwHX2apeADTkxOrdklLkUjKqOPcSHZyrT7vgtMFYXsUFzOHu3WsjQeg",
+    "https://play-lh.googleusercontent.com/wxKAV-3T0T9WWf1FIOGe1WNX7kPXFy2OB8dvkd08DedcHUxDsvhTFR8BIkrETfmvDg",
+    "https://play-lh.googleusercontent.com/pmLKTJNq8apgo34eSYVDICivgk2YW76bQnyMDA7Cv7gOy0uctBBkDjs6ODU85kIArw"
+  ],
+  "app_descript": "<h3>Shopee MY: Your One-Stop Online Shopping Destination</h3>\n<p><strong>Brief:</strong>\nDive into an exceptional online shopping experience with Shopee MY - your gateway to a vast array of products spanning health &amp; beauty, electronics, fashion, home &amp; living, baby &amp; toys, and more. Embrace the convenience of shopping anytime, anywhere, with unbeatable deals and a secure purchasing environment at your fingertips.</p>\n<p>🌟 <strong>Core Features:</strong></p>\n<ul>\n<li>📱 Comprehensive Category Selection: Explore a wide range of categories for all shopping needs.</li>\n<li>🏬 Shopee Mall Accessibility: Gain access to genuine brand deals.</li>\n<li>🎉 Daily Shocking Sales: Discover new discounts and offers every day.</li>\n<li>🚚 Free Shipping Bonanza: Enjoy free shipping on a multitude of items.</li>\n<li>🕵️‍♂️ Daily Discover: Find personalized product suggestions tailored just for you.</li>\n</ul>\n<p>👍 <strong>Pros:</strong></p>\n<ul>\n<li>💳 Multiple Payment Options: Experience seamless checkout with various secure payment methods.</li>\n<li>🛡️ Shopee Guarantee: Shop with confidence knowing your transactions are protected.</li>\n<li>🔍 Detailed Seller Insights: Check ratings and reviews to make informed decisions.</li>\n<li>📍 Efficient Order Tracking: Keep an eye on your purchases with real-time updates.</li>\n<li>💰 Shopee Coins Rewards: Earn coins through purchases, check-ins, and games to save more.</li>\n</ul>\n<p>👎 <strong>Cons:</strong></p>\n<ul>\n<li>🌐 May Have Limited International Shipping Options: Predominantly caters to Malaysia's West and East regions.</li>\n<li>🛍️ Product Overload: The sheer variety might be overwhelming for some users.</li>\n<li>🕒 Sale Item Availability: Shocking Sale items can sell out quickly due to high demand.</li>\n<li>❓ Variability in Seller Reliability: Despite reviews and ratings, experiences may vary per seller.</li>\n<li>🧾 Return Policy Clarity: The process for returns or disputes could be complex for some users.</li>\n</ul>\n<p>💵 <strong>Price:</strong>\nShopee MY is a free-to-download app, empowering you to browse and purchase products at no additional cost. Though the app itself has no price tag, it offers in-app opportunities to play games and participate in activities to earn Shopee Coins, which may lead to further discounts on purchases.</p>\n<p><em>Shopee MY offers a comprehensive and secure online shopping platform, ensuring a seamless user experience from browsing to delivery. Discover a world of convenience and savings within this inclusive shopping community.</em></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-seagm-store/54458.html",
+      "icon": "assets/img/apk/icon/com.seagm.store.png",
+      "name": "SEAGM - Games Topup, Gift Card",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-gowish-app/39285.html",
+      "icon": "assets/img/apk/icon/com.gowish.app.png",
+      "name": "GoWish - Your Digital Wishlist",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-aldisued-shopgo/16934.html",
+      "icon": "assets/img/apk/icon/com.aldisued.shopgo.png",
+      "name": "ALDI SHOP&GO",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.2"
+    },
+    {
+      "link": "/details/com-wakefern-shoprite/16933.html",
+      "icon": "assets/img/apk/icon/com.wakefern.shoprite.png",
+      "name": "ShopRite: Groceries & Savings",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-yaxo-vancamper/16894.html",
+      "icon": "assets/img/apk/icon/com.yaxo.vancamper.png",
+      "name": "Vancamper: Buy sell campervans",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/com-elfster-elfdroid/16861.html",
+      "icon": "assets/img/apk/icon/com.elfster.elfdroid.png",
+      "name": "Elfster: The Secret Santa App",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-biggu-shopsavvy/16860.html",
+      "icon": "assets/img/apk/icon/com.biggu.shopsavvy.png",
+      "name": "ShopSavvy - Barcode Scanner",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/moloapps-gifttracker/16845.html",
+      "icon": "assets/img/apk/icon/moloapps.gifttracker.png",
+      "name": "GiftTracker : Gift List Helper",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.1"
+    }
+  ]
+}

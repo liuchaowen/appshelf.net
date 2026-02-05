@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/artisto.png",
+    "title": "Artisto",
+    "ratings": "4.2",
+    "downloads": "340M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Artisto"
+    },
+    {
+      "name": "category",
+      "value": "Entertainment"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "My.com B.V."
+    },
+    {
+      "name": "Version",
+      "value": "1.11.3"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h3>Artisto - Unleash Your Inner Artist 🎨</h3>\n<p><strong>Brief:</strong>\nArtisto is an exceptional mobile application that transforms your videos into stunning artworks with the touch of a button. Inspired by iconic artists such as Van Gogh, Picasso, and Dali, Artisto empowers its users to create Hollywood-style videography, right from the comfort of their smartphones.</p>\n<p><strong>Core Features:</strong>\n🎬 <strong>Video Transformation</strong>: Convert ordinary videos into spectacular works of art with ease. 🖌️\n🌍 <strong>Universal Capture</strong>: Shoot videos of anything and anyone, anywhere - every frame becomes a potential masterpiece. 📸\n🎨 <strong>Iconic Artist Filters</strong>: Apply filters inspired by legendary artists to infuse classic styles into modern video content. 👩‍🎨\n👁️ <strong>Preview &amp; Share</strong>: Be astonished by your creations and share them effortlessly with friends across social networks. 🌐</p>\n<p><strong>Pros:</strong>\n👍 <strong>Creative Freedom</strong>: With a variety of filters, Artisto offers a vast canvas for creativity. 🌈\n👍 <strong>Ease of Use</strong>: User-friendly interface makes transforming videos simple for everyone. 💡\n👍 <strong>Social Integration</strong>: Direct sharing options to popular social platforms enhance user engagement. 🔗\n👍 <strong>ArtistoBattle Challenge</strong>: Participate in daily contests to showcase your creativity and win a chance to be featured. 🏆</p>\n<p><strong>Cons:</strong>\n👎 <strong>Selective Styles</strong>: May not cater to all aesthetic preferences as the filters are styled after specific artists. 🎭\n👎 <strong>Limited Editing Tools</strong>: While filters are abundant, advanced editing features might be limited. ✂️\n👎 <strong>Prominent Branding</strong>: Your works of art might prominently feature the app's watermark or branding. 🏷️\n👎 <strong>Internet Dependency</strong>: An active internet connection may be required for certain features and social functionalities. 📡</p>\n<p><strong>Price:</strong>\n💵 Artisto is generally free to download, with in-app purchases possibly available for additional premium features. Exact prices for paid content may vary, so please check the app for the latest details.</p>\n<p><strong>Community:</strong>\nFor those with a competitive spirit or seeking inspiration, Artisto hosts the #ArtistoBattle on various social media platforms. Immerse yourself within a community of fellow artists and enthusiasts as you compete for the honor of having your photo featured as a filter cover within the app.</p>\n<ul>\n<li>Official Site: Not available</li>\n<li>YouTube: <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Artisto YouTube Channel</a></li>\n<li>Instagram: <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Artisto on Instagram</a></li>\n<li>Twitter: <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Artisto Twitter</a></li>\n<li>Discord: <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Join Artisto Community</a></li>\n<li>Facebook: <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Artisto Facebook Page</a></li>\n<li>TikTok: <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Artisto on TikTok</a></li>\n<li>Reddit: <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Discuss Artisto on Reddit</a></li>\n<li>Fandom Wiki Site: Not available</li>\n</ul>\n<p>Please note that if no links are provided for the community and social platforms, it may indicate that there's no official presence on that platform or it could not be retrieved from the resources available.</p>\n<p>Embark on a visual journey with Artisto and let the artist in you shine through every video you create and share!</p>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-moonphaseapps-astro/54410.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.moonphaseapps.astro.png",
+      "name": "AstroBella Astrology & Healing",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.6"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-girlmaker-create-avatar-creator/54356.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.girlmaker.create.avatar.creator.png",
+      "name": "PFP Girl: Avatar Maker",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-photocrop-challengefilter/54321.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.photocrop.challengefilter.png",
+      "name": "Photo Crop Challenge Filter",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-photo-cropfilter-challenge/54315.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.photo.cropfilter.challenge.png",
+      "name": "Photo Crop Challenge Video",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/vyten-colormatrix/54297.html",
+      "icon": "https://img.buzzsight.co/apk/icon/vyten.colormatrix.png",
+      "name": "The Personality Color Matrix",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-truelove-tester-love/54289.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.truelove.tester.love.png",
+      "name": "True Love Tester",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-lifeexpectancycalculator/54231.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.lifeexpectancycalculator.png",
+      "name": "Life Expectancy Calculator",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-insect-filters-funny-prank-bug-filter-face-camera/54212.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.insect.filters.funny.prank.bug.filter.face.camera.png",
+      "name": "Bugzz: Insect Prank Filters",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4"
+    }
+  ]
+}
