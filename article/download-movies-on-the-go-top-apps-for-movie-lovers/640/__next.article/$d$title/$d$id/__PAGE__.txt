@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[506782,["/_next/static/chunks/1dd7c721fb053739.js","/_next/static/chunks/15c0b0f887b8c025.js"],"default"]
+2:I[506782,["/_next/static/chunks/29b45bcafbf46450.js","/_next/static/chunks/00726e08f213267a.js"],"default"]
 3:I[897367,["/_next/static/chunks/d96012bcfc98706a.js","/_next/static/chunks/d80b3790a119a285.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"buildId":"V8z4RYgXIGbyhDIdz6vMW","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"download-movies-on-the-go-top-apps-for-movie-lovers","id":"640"}],[["$","script","script-0",{"src":"/_next/static/chunks/1dd7c721fb053739.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/15c0b0f887b8c025.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"SnZ2iFn2OEQZUeC_LvTYt","rsc":["$","$1","c",{"children":[["$","$L2",null,{"title":"download-movies-on-the-go-top-apps-for-movie-lovers","id":"640"}],[["$","script","script-0",{"src":"/_next/static/chunks/29b45bcafbf46450.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/00726e08f213267a.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
 5:null
