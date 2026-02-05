@@ -1,0 +1,106 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.cocomelon.video43.png",
+    "title": "Cocomelon",
+    "ratings": "4.5",
+    "downloads": "510M",
+    "age": "4+",
+    "download_link": "https://d.apkpure.com/b/APK/com.cocomelon.video43?version=latest"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Cocomelon"
+    },
+    {
+      "name": "category",
+      "value": "Parenting"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "TDT2020"
+    },
+    {
+      "name": "Version",
+      "value": "5.2.1"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h3>Cocomelon</h3>\n<h4>Brief</h4>\n<p>Cocomelon is a children's entertainment app that offers a delightful combination of high-quality nursery rhymes and educational songs designed specifically for kids. This app provides an engaging and safe viewing experience across smartphones and tablets, making it easy for children to explore a world of fun, learning, and music.</p>\n<h4>Core Features</h4>\n<ul>\n<li>📹 <strong>High-Quality Content</strong>: Enjoy fast loading videos with excellent quality that captivate children's attention. 🎥</li>\n<li>🎵 <strong>Extensive Library</strong>: Explore a wide variety of funny and educational nursery rhymes tailored to kids. 🎶</li>\n<li>🛡️ <strong>Privacy Protection</strong>: The app ensures the online privacy of its little users is well-protected. 🔒</li>\n<li>🎞️ <strong>Playlist Management</strong>: Effortlessly manage video content, creating custom playlists of your child's favorite songs. 🧸</li>\n<li>📱 <strong>Multi-Device Support</strong>: Accessible on both smartphones and tablets, offering flexibility and convenience. 🌟</li>\n</ul>\n<h4>Pros</h4>\n<ul>\n<li>👪 <strong>Kid-Friendly Interface</strong>: An interface that’s easy for kids to navigate. 👶</li>\n<li>🚸 <strong>Parental Control</strong>: Subscription and settings are guarded by a parental control feature for added safety. 🔑</li>\n<li>🔄 <strong>Regular Updates</strong>: New kids’ songs are periodically added, keeping the content fresh and exciting. 🎉</li>\n<li>✨ <strong>Organized Content</strong>: The ability to organize and customize song playlists enhances user experience. 🎼</li>\n</ul>\n<h4>Cons</h4>\n<ul>\n<li>📶 <strong>Requires Internet</strong>: An active connection is needed to stream the content, which could be limiting in certain situations. 🛑</li>\n<li>🌐 <strong>Limited Offline Access</strong>: Without options for offline viewing, playtime is restricted when no internet is available. 🔃</li>\n<li>🔊 <strong>Volume of Content</strong>: The extensive amount of content could be overwhelming for some children. 📚</li>\n<li>📍 <strong>Navigation</strong>: Depending on the age, some children might require parental assistance to navigate the app. 🧭</li>\n</ul>\n<h4>Pricing</h4>\n<p>💵 The Cocomelon app is free to download. However, certain features may be limited and available only via in-app purchases or subscriptions. The precise cost of these features has not been specified, but they are protected by a parental control wall to prevent unintended purchases.</p>\n<h4>Community</h4>\n<p>As Cocomelon is tailored for a very young audience, there might not be official community platforms that are typically associated with game apps.</p>\n<p>(Cocomelon's specific community platforms, such as YouTube channels or social media, were not provided or could not be determined from the available data, hence this section is not populated.)</p>\n<hr/>\n<p>Enjoy a world full of music and education for your little one with Cocomelon—where safety and fun go hand in hand! Download the app now for a melodious and secure exploration your child will love. 🎤🌈</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-babyTranslator-bankr0t/15163.html",
+      "icon": "assets/img/apk/icon/com.babyTranslator.bankr0t.png",
+      "name": "Baby Translator & Cry Analyzer",
+      "categoryLink": "/categories/parenting/19",
+      "category": "Parenting",
+      "rating": "3.2"
+    },
+    {
+      "link": "/details/app-kids360-parent/14609.html",
+      "icon": "assets/img/apk/icon/app.kids360.parent.png",
+      "name": "Kids360: Parental Control App",
+      "categoryLink": "/categories/parenting/19",
+      "category": "Parenting",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/org-pbskids-danieltigerforparents/10252.html",
+      "icon": "assets/img/apk/icon/org.pbskids.danieltigerforparents.png",
+      "name": "Daniel Tiger for Parents",
+      "categoryLink": "/categories/parenting/19",
+      "category": "Parenting",
+      "rating": "3.9"
+    },
+    {
+      "link": "/details/com-girls-games-kids-costumes-photo-editor/5074.html",
+      "icon": "assets/img/apk/icon/com.girls.games.kids.costumes.photo.editor.png",
+      "name": "Costume for Kids: Photo Editor",
+      "categoryLink": "/categories/parenting/19",
+      "category": "Parenting",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/-kaspersky-safekids/305.html",
+      "icon": "assets/img/apk/icon/com.kaspersky.safekids.png",
+      "name": "Kaspersky SafeKids",
+      "categoryLink": "/categories/parenting/19",
+      "category": "Parenting",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/miko-3-parent/304.html",
+      "icon": "assets/img/apk/icon/com.miko3.app.png",
+      "name": "Miko 3 Parent",
+      "categoryLink": "/categories/parenting/19",
+      "category": "Parenting",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/cocomelon/303.html",
+      "icon": "assets/img/apk/icon/com.cocomelon.video43.png",
+      "name": "Cocomelon",
+      "categoryLink": "/categories/parenting/19",
+      "category": "Parenting",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/familyalbum/302.html",
+      "icon": "assets/img/apk/icon/us.mitene.png",
+      "name": "FamilyAlbum",
+      "categoryLink": "/categories/parenting/19",
+      "category": "Parenting",
+      "rating": "4.3"
+    }
+  ]
+}

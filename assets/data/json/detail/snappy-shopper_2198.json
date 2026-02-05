@@ -1,0 +1,108 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.mtcmobile.snappyshopper.png",
+    "title": "Snappy Shopper",
+    "ratings": "4.6",
+    "downloads": "730M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Snappy Shopper"
+    },
+    {
+      "name": "category",
+      "value": "Food & Drink"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Snappy Shopper"
+    },
+    {
+      "name": "Version",
+      "value": "2.16.3"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/XRYcBJy6xq8ayMXD_Ymp71DBrX7WWC3o5JTYKTENvjR0PyyQA7tWb1qJ9sPLFvVrHg",
+    "https://play-lh.googleusercontent.com/0po3woFuB_07RKI1BN1gkv6lZEI77Zhh-Pp1CEMO9hY1eD3n6ZtPaUzPleXc66q22pTQ",
+    "https://play-lh.googleusercontent.com/ybk37oErskJCNhQ0USXe_c-xHUyly_2D2NU7rb_JCDDQ-jnbdCIe451lZZ7nIHJhKIEI",
+    "https://play-lh.googleusercontent.com/rnegFu6P4NUNwPWmAjlG8KHXgVHzwNz3nTeW1rA3n5H8LoyVxuAkKz66sos6MlTp1Q"
+  ],
+  "app_descript": "<h3>Snappy Shopper</h3>\n<p><strong>Brief</strong>:\nSnappy Shopper revolutionizes the way you shop for groceries in the UK, providing same-day home delivery from preferred local convenience stores such as Nisa, SPAR, Premier, One Stop, Costcutter, EVF, and co-op food. This app catapults you into a world of unrivaled shopping convenience, allowing for a seamless and efficient online grocery shopping experience.</p>\n<p><strong>Core Features</strong>:</p>\n<ul>\n<li>🛒 <strong>Wide Assortment of Retailers</strong>: Access to a diverse collection of local convenience stores including Nisa, SPAR, and others. 🏪</li>\n<li>🚚 <strong>Speedy Delivery Services</strong>: Experience the fastest grocery delivery service in the UK, with the possibility of receiving your items in as little as 30 minutes. 🕒</li>\n<li>🍞 <strong>Extensive Product Range</strong>: A broad selection of products available, from daily staples like milk and bread to sweets and household essentials. 🥖</li>\n<li>👤 <strong>Age Verification System</strong>: Ensures compliance with legal requirements through Challenge 25 for age-restricted goods. 🔞</li>\n<li>🚗 <strong>Driver Interface</strong>: Special login portal for Snappy Shopper drivers to manage deliveries and maintain high service standards. 🛣️</li>\n</ul>\n<p><strong>Pros</strong>:</p>\n<ul>\n<li>👍 Quick and convenient access to multiple stores from one app.</li>\n<li>👍 Streamlined same-day delivery to your doorstep.</li>\n<li>👍 Wide variety of products covering all grocery needs.</li>\n<li>👍 User-friendly interfaces for both shoppers and drivers.</li>\n<li>👍 Compliant with age restriction policies to promote responsible shopping.</li>\n</ul>\n<p><strong>Cons</strong>:</p>\n<ul>\n<li>👎 Limited to servicing certain UK locations.</li>\n<li>👎 Subject to local store and licensing hours restrictions.</li>\n<li>👎 Requirement of being 17 or over to use the service.</li>\n<li>👎 Potentially varying inventory across different retailers.</li>\n<li>👎 Dependence on availability of drivers for swift delivery.</li>\n</ul>\n<p><strong>Price</strong>:\n💵 The Snappy Shopper app is seemingly offered free of charge, however additional costs may be associated with deliveries. Specific pricing details would typically be available within the app based on individual orders.</p>\n<p><a href=\"https://play.google.com/store/apps/details?id=com.mtcmobile.snappyshopper\" rel=\"noopener noreferrer\" target=\"_blank\">Download Snappy Shopper on your device</a> and elevate your grocery shopping experience today!</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-buzzfeed-tasty/16927.html",
+      "icon": "assets/img/apk/icon/com.buzzfeed.tasty.png",
+      "name": "Tasty",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-hacklatino-chingon-android/15837.html",
+      "icon": "assets/img/apk/icon/com.hacklatino.chingon.android.png",
+      "name": "Hack Latino",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-postmates-android/4464.html",
+      "icon": "assets/img/apk/icon/com.postmates.android.png",
+      "name": "Postmates - Food Delivery",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-seamlessweb-android-view/4463.html",
+      "icon": "assets/img/apk/icon/com.seamlessweb.android.view.png",
+      "name": "Seamless: Local Food Delivery",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-trycaviar-customer/4462.html",
+      "icon": "assets/img/apk/icon/com.trycaviar.customer.png",
+      "name": "Caviar - Order Food Delivery",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-chownow-discover/4461.html",
+      "icon": "assets/img/apk/icon/com.chownow.discover.png",
+      "name": "ChowNow: Local Food Ordering",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-toasttab-consumer/4460.html",
+      "icon": "assets/img/apk/icon/com.toasttab.consumer.png",
+      "name": "Toast Takeout & Delivery",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/menulog-au/3667.html",
+      "icon": "assets/img/apk/icon/com.menulog.m.png",
+      "name": "Menulog AU",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.2"
+    }
+  ]
+}

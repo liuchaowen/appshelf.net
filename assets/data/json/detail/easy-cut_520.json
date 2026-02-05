@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.videocut.studio.png",
+    "title": "Easy Cut",
+    "ratings": "4.1",
+    "downloads": "860M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Easy Cut"
+    },
+    {
+      "name": "category",
+      "value": "Video Players & Editors"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Maxwell Devin"
+    },
+    {
+      "name": "Version",
+      "value": "1.1"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h3>Easy Cut - Video Editor &amp; Maker</h3>\n<p><strong>Brief:</strong>\nUnlock a world of creative video editing with Easy Cut! Whether you're a budding vlogger or seeking to add professional flair to your clips, Easy Cut provides a suite of powerful tools to meet your needs. Dive into music-synced video production, extract crisp audio, and dabble with a plethora of effects and transitions that bring your content to life.</p>\n<p><strong>📌 Core Features:</strong></p>\n<ol>\n<li>Sync to Music: Edit videos to match the rhythm of your favorite tracks for dynamic presentations 🎶.</li>\n<li>Advanced Effects: Choose from a variety of Glitch and other FX to enhance your video's visual appeal 🌟.</li>\n<li>Professional Editing: Take advantage of multi-layer editing and precise frame-by-frame trimming for expert-level results 🎬.</li>\n<li>Comprehensive Color Correction: Adjust a plethora of settings to get the perfect look for your video 🌈.</li>\n<li>Robust Sharing Options: Seamlessly share your creations on popular social platforms like Douyin and YouTube with just a click 🔗.</li>\n</ol>\n<p><strong>👍 Pros:</strong></p>\n<ol>\n<li>Intuitive Interface: Enjoy a user-friendly workspace suited for both novices and professionals 🤹.</li>\n<li>Versatile Video Adjustments: From speed changes to aspect ratios, customize every aspect of your project 🔄.</li>\n<li>HD Quality Support: Export your videos in 720p or 1080p resolution for high-definition clarity 📺.</li>\n<li>Creative Freedom: With features like unlimited undo/redo and animated subtitles, there's no limit to your creativity 🆓.</li>\n<li>Convenient Auto-Save: Never lose your progress with automatic saving of projects you can edit anytime, anywhere 💾.</li>\n</ol>\n<p><strong>👎 Cons:</strong></p>\n<ol>\n<li>Learning Curve: Some features may take time to master for beginners 🤔.</li>\n<li>Limited Free Features: Some advanced features might be behind a paywall, limiting free usage 🔒.</li>\n<li>Platform Dependency: High-quality export options could be constrained by the device's capabilities 💻.</li>\n<li>Resource Intensity: Might be demanding on lower-end devices, leading to lags or crashes 🚧.</li>\n<li>Social Sharing: Direct sharing may be limited to select social platforms, potentially excluding some users' preferences 📤.</li>\n</ol>\n<p><strong>💵 Price:</strong>\nThe Easy Cut app is available for free, with in-app purchases providing access to additional premium features and functionalities. The pricing for these in-app options may vary.</p>\n<p>Craft stunning videos with ease using Easy Cut, and step into the realm of high-caliber video production today!</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-video-newslideshow/53956.html",
+      "icon": "assets/img/apk/icon/com.video.newslideshow.png",
+      "name": "Music Video Maker Magic Effect",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-prominent-aicatch/49088.html",
+      "icon": "assets/img/apk/icon/com.prominent.aicatch.png",
+      "name": "AI Catch: AI Video Generator",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-asianmobile-smartplayer/34766.html",
+      "icon": "assets/img/apk/icon/com.asianmobile.smartplayer.png",
+      "name": "IPTV Player: Smarters Watch TV",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "3.1"
+    },
+    {
+      "link": "/details/halloween-video-maker/34753.html",
+      "icon": "assets/img/apk/icon/halloween.video.maker.png",
+      "name": "Halloween Video Editor 2025",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-cupertinotech-aidancevideo/16075.html",
+      "icon": "assets/img/apk/icon/com.cupertinotech.aidancevideo.png",
+      "name": "AI Dance Video - Photo Dance",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "2.4"
+    },
+    {
+      "link": "/details/com-instagram-basel/15556.html",
+      "icon": "assets/img/apk/icon/com.instagram.basel.png",
+      "name": "Edits, an Instagram app",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/downloader-video-download-free/10303.html",
+      "icon": "assets/img/apk/icon/downloader.video.download.free.png",
+      "name": "Video Downloader & Video Saver",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-renderforest-videomaker/10142.html",
+      "icon": "assets/img/apk/icon/com.renderforest.videomaker.png",
+      "name": "Renderforest Video & Animation",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.5"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/kiwi.png",
+    "title": "Kiwi",
+    "ratings": "4.1",
+    "downloads": "540M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Kiwi"
+    },
+    {
+      "name": "category",
+      "value": "Social"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Chatous"
+    },
+    {
+      "name": "Version",
+      "value": "2.6.4"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h2>Kiwi: Unleash Your Curiosity and Connect Globally</h2>\n<p>Embark on an adventure into the world of inquisitiveness with Kiwi, an exhilarating platform that allows you to dive deep into the ocean of collective wisdom. It’s a space where curiosity meets knowledge, and every interaction enriches your understanding of the world around you.</p>\n<h3>Core Features 🌟</h3>\n<ul>\n<li><strong>Question &amp; Answer Dynamics</strong>: Engage with a global community by asking any question or providing insightful answers. 🗨️</li>\n<li><strong>Tailored Content Feed</strong>: Follow fascinating individuals and curate a feed that resonates with your interests. 🔍</li>\n<li><strong>Global Community Connect</strong>: Bridge connections worldwide, tapping into a pool of like-minded curious minds. 🌐</li>\n<li><strong>Local Insights</strong>: Discover the nuances of different cities through local inquiries about places like restaurants and clubs. 🏙️</li>\n<li><strong>Personal Storytelling</strong>: Share your unique narrative and interact with a diverse audience. ✍️</li>\n<li><strong>Anticipate the Unexpected</strong>: Experience the thrill of random queries that spur spontaneous discussions. 🎲</li>\n<li><strong>Social Influence Growth</strong>: Expand your influence by sharing your profile and insights, attracting a following. 👥</li>\n</ul>\n<h3>Pros 👍</h3>\n<ul>\n<li><strong>Vast Knowledge Base</strong>: Access a wide range of perspectives from various walks of life. 📚</li>\n<li><strong>Personalized Experience</strong>: Enjoy a tailored feed that grows smarter with your interactions. 📈</li>\n<li><strong>Networking Potential</strong>: Make valuable connections with professionals and enthusiasts alike. 🤝</li>\n<li><strong>Cultural Exploration</strong>: Immerse yourself in different cultures through local interaction. 🌍</li>\n<li><strong>User-Friendly Interface</strong>: Navigate through the app with ease, making your quest for knowledge a breeze. 📱</li>\n</ul>\n<h3>Cons 👎</h3>\n<ul>\n<li><strong>Information Overload</strong>: The sheer volume of content can be overwhelming for some users. 🔄</li>\n<li><strong>Privacy Considerations</strong>: Sharing personal stories and insights may not appeal to privacy-conscious users. 🔒</li>\n<li><strong>Quality Control</strong>: The quality of questions and answers may vary, requiring discernment from users. ⚖️</li>\n<li><strong>Dependency on Community</strong>: The value derived from the app heavily depends on active community engagement. 💡</li>\n<li><strong>Risk of Misinformation</strong>: As with any open platform, there is potential for spreading misinformation. 🚫</li>\n</ul>\n<h3>Price 💵</h3>\n<p>Kiwi is free to roam and free to use. Embrace the endless conversations without any barriers. There may be in-app purchases for additional features or to boost your profile's visibility among the community.</p>\n<h3>Community 🕸️</h3>\n<ul>\n<li><strong>Official Site</strong>: <a href=\"https://kiwi.qa\" rel=\"noopener noreferrer\" target=\"_blank\">Ask on Kiwi</a></li>\n<li><strong>YouTube Channel</strong>: A hub for Kiwi-related tutorials, stories, and user experiences.</li>\n<li><strong>Popular YouTuber's Channel</strong>: Find tips and tricks from seasoned Kiwi enthusiasts.</li>\n<li><strong>Instagram Influencer</strong>: Connect with top Kiwi users and get inspired by their journey.</li>\n<li><strong>Twitter</strong>: Get the latest updates and join the conversations in real-time.</li>\n<li><strong>Discord</strong>: Join Kiwi's Discord community for live chats and question-exchange sessions.</li>\n<li><strong>Facebook</strong>: Follow Kiwi on Facebook for community events and news.</li>\n<li><strong>TikTok</strong>: Catch the trending Kiwi challenges and stories in action.</li>\n<li><strong>Reddit</strong>: Dive into subreddits dedicated to Kiwi users, featuring Q&amp;As, advice, and shared experiences.</li>\n<li><strong>Fandom Wiki</strong>: A comprehensive guide to navigating Kiwi, full of user-generated content and FAQs.</li>\n</ul>\n<p>Kiwi is more than just an app; it's a journey into the heart of curiosity. With Kiwi, you're not just answering questions; you're unlocking a world where every person's story and knowledge contribute to a tapestry of human experiences. Get ready to ask, answer, and discover with Kiwi!</p>",
+  "related_apps": [
+    {
+      "link": "/details/jp-cocone-livly/54171.html",
+      "icon": "https://img.buzzsight.co/apk/icon/jp.cocone.livly.png",
+      "name": "Livly Island - Adopt Cute Pets",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-daily-festival-photos/39721.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.daily.festival.photos.png",
+      "name": "Daily Festival Photo",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/tv-medal-recorder/39573.html",
+      "icon": "https://img.buzzsight.co/apk/icon/tv.medal.recorder.png",
+      "name": "Medal - Gaming Clips",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-ptanktechnology-reincornation/39352.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.ptanktechnology.reincornation.png",
+      "name": "Reincarnation",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-tiktok-lite-go/15392.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.tiktok.lite.go.png",
+      "name": "TikTok Lite - Faster TikTok",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-petmeetly/15275.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.petmeetly.png",
+      "name": "Petmeetly - Pet's Match Finder",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-xingin-xhs/14603.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.xingin.xhs.png",
+      "name": "REDnote—小红书国际版",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-stdev-dissordap/10395.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.stdev.dissordap.png",
+      "name": "Vote Social - Photo Voting VS",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "3.8"
+    }
+  ]
+}

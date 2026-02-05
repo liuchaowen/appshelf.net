@@ -1,0 +1,111 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.faridahmad.hiddendevicesdetector.png",
+    "title": "Hidden devices detector",
+    "ratings": "4.9",
+    "downloads": "730M",
+    "age": "4+",
+    "download_link": "https://d.apkpure.com/b/APK/com.faridahmad.hiddendevicesdetector?version=latest"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Hidden devices detector"
+    },
+    {
+      "name": "category",
+      "value": "Tools"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Farid Ahmad Ahmadyar"
+    },
+    {
+      "name": "Version",
+      "value": "1.1.9"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/xlDVRojM3stjJmStjLp43BWk8lx6c9ReKz_ZAjLi1Yo387mNr0nltKqeWP4P7dJ2hmQ",
+    "https://play-lh.googleusercontent.com/Y1rPiKz02kdTzCvMhfcXXt2uM9KKQMwWW0Vft2MF0ryZ4NLmHMLL_OIjUddRIICtve8",
+    "https://play-lh.googleusercontent.com/jqRDdO913MdUxcCyjfi72Wd7Lv7mzZN_GNXkmm24joA75hfTh6yYZ3ONcJ5_cWjtTw",
+    "https://play-lh.googleusercontent.com/L0AaMor4SsGmY3skgXRraWTBKLqZGlJQmx7WWbtLQYwmlW1zExYCD7xz8FnnZvIXQ90",
+    "https://play-lh.googleusercontent.com/50XtDAX5G-zS9-YpRbmV1PPn9DMESE1yuWMTTGvM9vPhqfZu5s6Hmvacm1igS1fZMbM",
+    "https://play-lh.googleusercontent.com/1lZgXtEDwbTHPuakozWL8Zpdmzd-MB2EMNh1vA-q2m6TbV_ccCaDR2j9pTsUWQ1ut4g"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> Hidden Devices Detector</p>\n<p><strong>Brief:</strong>\nThe Hidden Devices Detector app is a resourceful tool designed to protect your privacy by locating various forms of hidden electronic devices. Whether you're checking for eavesdropping tools such as microphones or hidden cameras, the app leverages your phone's magnetic sensor and an infrared detector feature for a comprehensive sweep of your surroundings.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🧲 <strong>Magnetic Sensor Utilization:</strong> Detects electromagnetic radiation, indicative of hidden devices, using your phone's magnetic sensor.</li>\n<li>✅ <strong>Precise Detection:</strong> Provides accurate results in identifying suspicious devices in your vicinity.</li>\n<li>🔍 <strong>Infrared Light Detection:</strong> Offers an infrared detector to spot hidden electronics, even if your phone lacks a magnetic sensor.</li>\n<li>🕵️‍♂️ <strong>Spy Device Finder:</strong> Targets a wide range of spy devices, including microphones and hidden cameras, ensuring your privacy is intact.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👌 <strong>User-Friendly Interface:</strong> Easy-to-navigate app design for efficient functionality.</li>\n<li>💼 <strong>Versatile Detection Methods:</strong> Employs both magnetic and infrared technology to cover a variety of devices.</li>\n<li>🚫 <strong>Enhanced Privacy:</strong> Empowers users to detect and thus prevent unwanted surveillance.</li>\n<li>🎯 <strong>Accuracy and Efficiency:</strong> Delivers exact and swift detection results.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>📡 <strong>Dependence on Phone Hardware:</strong> The app's performance is contingent upon the presence of a magnetic sensor in the user's phone.</li>\n<li>📶 <strong>Environmental Interference:</strong> May be susceptible to electromagnetic interference from benign sources.</li>\n<li>💾 <strong>Storage &amp; Battery Usage:</strong> Running detection methods might consume substantial phone resources.</li>\n<li>🆕 <strong>Magnetic Sensor Requirement:</strong> Non-functional radiation detection for phones without a requisite magnetic sensor.</li>\n</ul>\n<p><strong>Price:</strong></p>\n<ul>\n<li>💵 The app is free to download, with no mention of in-app purchases in the provided description.</li>\n</ul>\n<p>Since the app is tailored towards privacy protection and device security, the community aspect such as social media is not as emphasized. Users seeking assistance or with queries might be directed to support within the app or on the platform from which they downloaded it, such as the Google Play Store. </p>\n<p><em>Note that the actual community resources such as official site, social media links, or discussion forums are not explicitly mentioned in the app description provided, and therefore can't be included unless specifically available.</em></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-internetoptimizer-speedtest-wifispeedtest-netspeed-wifipassword-wifispeed/49027.html",
+      "icon": "assets/img/apk/icon/com.internetoptimizer.speedtest.wifispeedtest.netspeed.wifipassword.wifispeed.png",
+      "name": "Internet Optimizer",
+      "categoryLink": "/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.9"
+    },
+    {
+      "link": "/details/com-blazingappstudio-speed_test_pro/49021.html",
+      "icon": "assets/img/apk/icon/com.blazingappstudio.speed_test_pro.png",
+      "name": "Speed Test - Wifi Optimizer",
+      "categoryLink": "/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-secret-camera-hidden-detector/39728.html",
+      "icon": "assets/img/apk/icon/com.secret.camera.hidden.detector.png",
+      "name": "Hidden Camera & IR Detector",
+      "categoryLink": "/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-findmymobile-lostphone-phonetracker/39682.html",
+      "icon": "assets/img/apk/icon/com.findmymobile.lostphone.phonetracker.png",
+      "name": "Anti Theft Alarm–Find my Phone",
+      "categoryLink": "/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/donttouchmyphone-antitheftalarm-iantitheft/39681.html",
+      "icon": "assets/img/apk/icon/donttouchmyphone.antitheftalarm.iantitheft.png",
+      "name": "Anti Theft Phone Alarm",
+      "categoryLink": "/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/download-videobrowser-pic-makerapp/39657.html",
+      "icon": "assets/img/apk/icon/download.videobrowser.pic.makerapp.png",
+      "name": "Fi Film - Movie Track",
+      "categoryLink": "/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.5"
+    },
+    {
+      "link": "/details/com-keeratipong-skineditorminecraft/39591.html",
+      "icon": "assets/img/apk/icon/com.keeratipong.skineditorminecraft.png",
+      "name": "Skin Editor for Minecraft",
+      "categoryLink": "/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-rbxconvert-freerobux-newcalculator/39576.html",
+      "icon": "assets/img/apk/icon/com.rbxconvert.freerobux.newcalculator.png",
+      "name": "RBX Calculator Robox Counter",
+      "categoryLink": "/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.3"
+    }
+  ]
+}

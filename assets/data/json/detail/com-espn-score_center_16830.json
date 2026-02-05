@@ -1,0 +1,133 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.espn.score_center.png",
+    "title": "ESPN",
+    "ratings": "4.3",
+    "downloads": "10096M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "ESPN"
+    },
+    {
+      "name": "category",
+      "value": "Sports"
+    },
+    {
+      "name": "Price",
+      "value": "0"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Disney"
+    },
+    {
+      "name": "Version",
+      "value": "5.1"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/vnzrDLbBjQiU5LQdxxCljInn2KnjouplMnExERg0lrzN9-nYLMHtSJRVYkjiqWa2ChXFF4vLEHBLJdReLUK3_g",
+    "https://play-lh.googleusercontent.com/5PJPeM9Dz5bhdDZAreCnc35rGEnfQMTQACoMeyzqb2AT0mc8ZO9mSijZNdGZ8ltioOOqIiAxUw6HQyUKAN7h7Gk",
+    "https://play-lh.googleusercontent.com/3libypP_ianW9VWx3xOeK55PJBKN-PQpjlCUME0GGLMI_zPGCk6BnI6dRn_OndDQqNrGc52ed6oTKF-C3LWFbrg",
+    "https://play-lh.googleusercontent.com/TbMBpA_oq5eC5X3yhJSTcPL8VutcU91dax3THeqoCDN0Gxx3fJJ1f8G01nlv6BlXpJuM0_T-vwky7UQ6RipZ7Q",
+    "https://play-lh.googleusercontent.com/ywYzyHTjctFfMsV9j3FJkWMJUaB3VMUNtREBCVMjw-Rf79PyefgD-nulD-_t0b1ql0m4ON92ekUmZDQlag0U",
+    "https://play-lh.googleusercontent.com/yBWe79XJ8sSBBYI1bjvyjd5WyL25kYbLy0ai3tSmUdDWNRXr91RzzMfaqBRRl54c-e_juLg6VK8hPhkvE4upjw",
+    "https://play-lh.googleusercontent.com/5v2knxNlLZ2a293RA10PkNeQ2EPdps0q2tZu6vag0BvFc2nGhp2wuowLx9khtdrAEB9nTOvdnYT8TgB6bwBvdg",
+    "https://play-lh.googleusercontent.com/laKlMELf3tmpUYilrbJgq8r0gSKdbVQD9qedHqU8GWihL6cN5OPB_iHj5qc4lYhNl71xdy7t4zDTVgw1U_vV",
+    "https://play-lh.googleusercontent.com/MukxPGRByZYimD6JUFYpkg9r4r3W94P7Fqvnk8-0cA3NXZ_PgapRMAzTbrvJOE96rSaKSpqbSuwd2AiUSsHrKg",
+    "https://play-lh.googleusercontent.com/sFVClmzR5jJcEM7T82O7X3Z5hJdiP3fsWkSh2yV9MrZ-pYgu_vw5GEP3wDfwsMPFcN4c5IihZzLQhBbckdV9tw",
+    "https://play-lh.googleusercontent.com/HAhJzbkghLkl4Xgq0LQ1wF7PbuH3QMhbPGSHb6PANzz2ucNZ2vtY5JfiujkB9pcqDl5RR32zmOgHNa1y15Sx5Q",
+    "https://play-lh.googleusercontent.com/Ui8snHPGGPuyewd7N-v-2xn2YEbCHIvfu67WLMQBXx0Nnp_nPpUJ28PxqtomQDBJbSN5vrXWe4RqYKkY_hxTGA",
+    "https://play-lh.googleusercontent.com/N20yLCSbJIRKutvQ0ktoaer1eNGneVlnYWm5ovn0YrGUp5EpURxaEAM3u-QzHxbUjs38Ym_KxxBxzdlgVg3rG50",
+    "https://play-lh.googleusercontent.com/r3-gUNXvm1ylMhFIxLnJsPki0JbmDVecdWkzzq9QCbGmzdaOUihzRTaC1HJhXgCIMHfoKfO2TzEUw0W7gEv7Y-Y",
+    "https://play-lh.googleusercontent.com/LRpF7VBjnMrYe1COF7taXaKkiZ_gpG55P73lZEokHa4B13UBn1KR0eU6ZG93CAZPv6pm8sfpaRcN1v8f1gG8",
+    "https://play-lh.googleusercontent.com/wO3TbGWqFuVa-HIXTSmH47PDiTSF_tmq6dEGTnX5drVB0lk0LQ4G_sEoOOGr0QYbvyW5yPz7YmZdcTO0t9lH2w",
+    "https://play-lh.googleusercontent.com/MukxPGRByZYimD6JUFYpkg9r4r3W94P7Fqvnk8-0cA3NXZ_PgapRMAzTbrvJOE96rSaKSpqbSuwd2AiUSsHrKg",
+    "https://play-lh.googleusercontent.com/sFVClmzR5jJcEM7T82O7X3Z5hJdiP3fsWkSh2yV9MrZ-pYgu_vw5GEP3wDfwsMPFcN4c5IihZzLQhBbckdV9tw",
+    "https://play-lh.googleusercontent.com/HAhJzbkghLkl4Xgq0LQ1wF7PbuH3QMhbPGSHb6PANzz2ucNZ2vtY5JfiujkB9pcqDl5RR32zmOgHNa1y15Sx5Q",
+    "https://play-lh.googleusercontent.com/Ui8snHPGGPuyewd7N-v-2xn2YEbCHIvfu67WLMQBXx0Nnp_nPpUJ28PxqtomQDBJbSN5vrXWe4RqYKkY_hxTGA",
+    "https://play-lh.googleusercontent.com/N20yLCSbJIRKutvQ0ktoaer1eNGneVlnYWm5ovn0YrGUp5EpURxaEAM3u-QzHxbUjs38Ym_KxxBxzdlgVg3rG50",
+    "https://play-lh.googleusercontent.com/r3-gUNXvm1ylMhFIxLnJsPki0JbmDVecdWkzzq9QCbGmzdaOUihzRTaC1HJhXgCIMHfoKfO2TzEUw0W7gEv7Y-Y",
+    "https://play-lh.googleusercontent.com/LRpF7VBjnMrYe1COF7taXaKkiZ_gpG55P73lZEokHa4B13UBn1KR0eU6ZG93CAZPv6pm8sfpaRcN1v8f1gG8",
+    "https://play-lh.googleusercontent.com/wO3TbGWqFuVa-HIXTSmH47PDiTSF_tmq6dEGTnX5drVB0lk0LQ4G_sEoOOGr0QYbvyW5yPz7YmZdcTO0t9lH2w",
+    "https://play-lh.googleusercontent.com/5aRox7zVHfuneJeDHe1DTWx8N2RzwaRK0fgCdhvkN_vyCAaPPwuoVsLYtVk_tFbM88o-hSOMuUfz64RjMRzrFA",
+    "https://play-lh.googleusercontent.com/-SFqi2k0aGKwXTQ6lBhDIM9eqX0S2D5JHQTYPxPBxInPBiQ3FsJFX_yduAW00tfo6bi1_jO6rXdfXSOH7wH-",
+    "https://play-lh.googleusercontent.com/Y88qTdizK7sFnR8_ZkR36TMyUiqJ-cvSb5ggcTEowlHmrhWzrnXam2Z7yRm2ubRNC0Fg4k768A-dPDYcntSw8g",
+    "https://play-lh.googleusercontent.com/5VMuW3yLYzmXh6PM8h0rdQFfribV6QrRm0mFfjtVim0irNbK5uFdLcdsCdkEenzsF7ODg3BmY5809VIZ8yESSw",
+    "https://play-lh.googleusercontent.com/gZ7d32INkdSkiJPpW9w73m_CH6qq8ysscOzg-MewcfCZw7q3Q-zflsivbqrA8Xsllfa_RW4AnbBQOcaRgUnhew"
+  ],
+  "app_descript": "<h1>ESPN App Description</h1>\n<p><strong>Brief</strong><br/>\nExperience the ultimate sports hub with the ESPN app! All your favorite ESPN channels and content are now available in one convenient application. Stay updated with live events, breaking news, and expert analysis tailored just for you.</p>\n<p><strong>Core Features</strong> </p>\n<ul>\n<li>📺 <strong>Comprehensive Streaming</strong>: Access ESPN, ESPN2, ESPNU, SECN, ACCN, ESPNEWS, ESPN+, ESPN Deportes, and ESPN on ABC all at once.  </li>\n<li>🔍 <strong>Personalized Exploration</strong>: Discover tailored content and trending highlights suited to your interests swiftly.  </li>\n<li>📻 <strong>SC For You</strong>: Enjoy a personalized SportsCenter experience delivered to you daily, featuring highlights based on your preferences.  </li>\n<li>📱 <strong>Streamcenter</strong>: Watch live games on your TV while engaging in real-time updates via your mobile device.  </li>\n<li>⚡ <strong>Fast Updates</strong>: Get real-time scores, breaking news, and updates for your favorite teams and leagues instantly.  </li>\n</ul>\n<p><strong>Pros</strong> </p>\n<ul>\n<li>👍 <strong>Comprehensive Offerings</strong>: Access to a wide range of sports events and shows all in one app.  </li>\n<li>🎙️ <strong>Live Radio &amp; Podcasts</strong>: Listen to ESPN Radio and your preferred podcasts directly through the app.  </li>\n<li>🔄 <strong>User-Friendly Interface</strong>: Easy navigation with personalized features that enhance your viewing experience.  </li>\n<li>📲 <strong>Device Compatibility</strong>: Seamlessly watch games on multiple devices for convenience.  </li>\n<li>🌍 <strong>Content Variety</strong>: Diverse sports coverage from NFL to tennis, ensuring something for every fan.  </li>\n</ul>\n<p><strong>Cons</strong> </p>\n<ul>\n<li>👎 <strong>Regional Restrictions</strong>: Availability of some content may vary based on your location.  </li>\n<li>🔒 <strong>Ads</strong>: The app includes advertising, which may be targeted based on user interests.  </li>\n<li>❌ <strong>In-app Purchases</strong>: Some features and content may require a subscription or additional purchase.  </li>\n<li>⏳ <strong>Blackouts</strong>: Certain live events may have blackout restrictions depending on your area.  </li>\n<li>📉 <strong>Limitations for Non-commercial Use</strong>: Content is for personal use only, limiting sharing capabilities.  </li>\n</ul>\n<p><strong>Price</strong><br/>\n💵 The ESPN app is free to download, with in-app purchases available for ESPN Select (includes ESPN+) and ESPN Unlimited (includes all ESPN networks and services). Subscription fees may apply for these services.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-firsttouchgames-dls7/39530.html",
+      "icon": "assets/img/apk/icon/com.firsttouchgames.dls7.png",
+      "name": "Dream League Soccer 2025",
+      "categoryLink": "/categories/sports/45",
+      "category": "Sports",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-ea-gp-tacticalfootball/39509.html",
+      "icon": "assets/img/apk/icon/com.ea.gp.tacticalfootball.png",
+      "name": "EA SPORTS FC™ Tactical",
+      "categoryLink": "/categories/sports/45",
+      "category": "Sports",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-Dino-GalaxySoccer/39364.html",
+      "icon": "assets/img/apk/icon/com.Dino.GalaxySoccer.png",
+      "name": "Galaxy Soccer :Rematch 3v3",
+      "categoryLink": "/categories/sports/45",
+      "category": "Sports",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-espn-score_center/16830.html",
+      "icon": "assets/img/apk/icon/com.espn.score_center.png",
+      "name": "ESPN",
+      "categoryLink": "/categories/sports/45",
+      "category": "Sports",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-gymclassvr/16685.html",
+      "icon": "assets/img/apk/icon/com.gymclassvr.png",
+      "name": "Gym Class VR: Companion App",
+      "categoryLink": "/categories/sports/45",
+      "category": "Sports",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/com-vividgames-realboxing2/16683.html",
+      "icon": "assets/img/apk/icon/com.vividgames.realboxing2.png",
+      "name": "Real Boxing 2",
+      "categoryLink": "/categories/sports/45",
+      "category": "Sports",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-ea-gp-maddennfl21mobile/16482.html",
+      "icon": "assets/img/apk/icon/com.ea.gp.maddennfl21mobile.png",
+      "name": "Madden NFL 26 Mobile Football",
+      "categoryLink": "/categories/sports/45",
+      "category": "Sports",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-doubletapsoftware-soccer-realtime-sports/16412.html",
+      "icon": "assets/img/apk/icon/com.doubletapsoftware.soccer.realtime.sports.png",
+      "name": "Soccer Battle -  PvP Football",
+      "categoryLink": "/categories/sports/45",
+      "category": "Sports",
+      "rating": "4.3"
+    }
+  ]
+}

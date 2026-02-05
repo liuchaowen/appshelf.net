@@ -1,0 +1,128 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/com.foxsports.android.png",
+    "title": "FoxSports",
+    "ratings": "3.9",
+    "downloads": "880M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "FoxSports"
+    },
+    {
+      "name": "category",
+      "value": "Sports"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "FOX Sports Interactive"
+    },
+    {
+      "name": "Version",
+      "value": "5.86.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/gIxInk7apypfPsEO6wSYjORozrY0DIKUOP8jbR4O3o2vfPxWdLGq3Pwyv2_f1JyMJGQ",
+    "https://play-lh.googleusercontent.com/B7HH6yIx9da7Gw_2B9rtYJIDU7soJoleL50uYsY0caAbSMKMPdY6Gdr8NmRWTfukWA",
+    "https://play-lh.googleusercontent.com/ZUdsm43_CBgreobD7wAmmFDZxYqfW0C8WP3WKR8jl9HmOxUEgwpUxzjzkj6o5Gt0qQ",
+    "https://play-lh.googleusercontent.com/j3-R--zKKbOKgr9A9gpUkUS6Pcu2MMF00XigwnvanPIU3faf1kq5aXTlr4edAMxwHFJm",
+    "https://play-lh.googleusercontent.com/aQeAu0UPjAQP9170w0qNPbBNSwvN_75efXhOpY1J3KAAVw3eV2ACrR4KqCsoyxjQ3A",
+    "https://play-lh.googleusercontent.com/K7cH0rDHzpFhR11CbZ6WAfEKAWWtvEo5yU6J61r7Iq4BJZMP9LotBeCsln5kHqUrMCU",
+    "https://play-lh.googleusercontent.com/Y7MrcSMXdPwQKvvLvYjSwxtL7YGTfXQtm_W0lEB_fIp_q_RKdT6nsKQmtl2iMHMT-HY",
+    "https://play-lh.googleusercontent.com/-YpVbVaER5ealuL3ZISK40XtQB10ibaRvu_ipcE_wSi1goB1dtFo-5ivVoNdeF8fUkA",
+    "https://play-lh.googleusercontent.com/LsBSlnq0BCyyrDODLsfDMgkJv92QXe4o59O8GkjtazVrK-8YSB_s6iFLMJLJh04kyjs",
+    "https://play-lh.googleusercontent.com/JKOUfDCJwNKDgrIz5Nk6DWLRpr2kmy7scB0fIdPviG5vPKyao06Vz4D8WIO9-xwtjSxh",
+    "https://play-lh.googleusercontent.com/ZGGGYSiYFtQDJxE4CkJvJaaq70mcgHXmlVqpPJv19hGg-KBxht-egOgWtMIqomIQRKw",
+    "https://play-lh.googleusercontent.com/Sy3fu4vkgHRWUsmwx1ENYNIyz4iGZUoc_YNGB7CpMGCW4ieQeELxID1FMxSSiAeGlvA",
+    "https://play-lh.googleusercontent.com/9gtxeVDmcbljS6AQhg31ARW8IHrBeoWyg8wCXoMisfpr8_IFWveY_7YmH3Gdxgk3Co8",
+    "https://play-lh.googleusercontent.com/WoqCcAz__eYQDESafDVbgt61995kk5joJo0hdes_30JlzaTBUVlsJ9CrucFbWfYP4zxa",
+    "https://play-lh.googleusercontent.com/5mkz8l9d7pVhxRyv_d2Q30lT-h6TvmsxX9X8IJorZWkHPkxmV27hIWcAQjQdJ4V8d4A",
+    "https://play-lh.googleusercontent.com/H8GFAFVD7CJrMeUwwpQpNMGkBrQA7V85pDN5b3-MQNt5bP-L-pJHft0cCTXtisE0_w",
+    "https://play-lh.googleusercontent.com/7STBdZhi-YEvEToeaBcOgKvdq55UX_UONj7LSdnW0DN8FOkf3ZlNWF25YMb3p3W3xp8",
+    "https://play-lh.googleusercontent.com/r2VywQBr9Jb2iL_GxKwZw4xohwjYvI81aSkyKddwcLDejK_Tly_kU4npouKTb9kXVu0",
+    "https://play-lh.googleusercontent.com/h7MizwtNZWb9sGlrXBXiWOSK7N2JV6P_JgRJTdOxcHlgh8GlrJOjF3r0ToFz5Ag6y7ef",
+    "https://play-lh.googleusercontent.com/KtoQoJ2Bg06rEgsnbXu-AM5spRwVRlAOmov9HGdhofBRP1vuVctlqCNeCGW4YQTiCso",
+    "https://play-lh.googleusercontent.com/MxsNgvC2re5RLccBarz3wuoQSQfrLw-l0vtpGwQuNBLHcIpM0JnR0sgSmFRzXp86Dw",
+    "https://play-lh.googleusercontent.com/JwYSuV8HboL0qr7d0LOpNG7cKyJH0C3YfNKkb8-p09kVvGE1sxESHsjJfafowcEbvQ",
+    "https://play-lh.googleusercontent.com/lywyhuZWvGO1QC1D8ZHEvd8Ekt7i2W7FzU_5lnLyv0OwTVE0r7V2CxVwyRQbDhaIRuM",
+    "https://play-lh.googleusercontent.com/WY4f8h4E3xpnvnhg8O6p9NgFx4zlqVX6XC1axx7-fUkFgU1xwiLTSimn8rv4DZK-ZfY"
+  ],
+  "app_descript": "\n<h1>FoxSports</h1>\n<h3>Brief:</h3>\n<p>FoxSports is the go-to mobile platform for sports enthusiasts who crave real-time access to live sports broadcasts and the latest news on their favorite teams and leagues. From the intensity of the NFL to the excitement of MLB, this application captures the spirit and heart-pounding action of a wide array of sports.</p>\n<h3>Core Features:</h3>\n<ul>\n<li><strong>Personalized Feed</strong>: Customize your experience with the 'FOR YOU' feature, tailoring the app to your preferences for teams, leagues, and players 🎯.</li>\n<li><strong>News &amp; Highlights</strong>: Stay updated with a dedicated feed of stories, scores, sports events, and comprehensive highlights 📰.</li>\n<li><strong>User-Friendly Scores</strong>: Access enhanced score pages with an intuitive design that makes following games effortless 📈.</li>\n<li><strong>Sport Selection</strong>: A user-friendly interface that allows quick navigation to various sports with a simple scroll ⚽🏀⚾.</li>\n</ul>\n<h3>Pros:</h3>\n<ul>\n<li><strong>Tailored Content</strong>: Enjoy a personalized content flow, aligning with your sports interests 👍.</li>\n<li><strong>Comprehensive Coverage</strong>: Offers live coverage and updates across multiple sports disciplines 🌐.</li>\n<li><strong>High-Definition Streaming</strong>: Experience the World Series in stunning 4K HDR when you're subscribed to compatible pay TV services 📺.</li>\n<li><strong>Intuitive Design</strong>: The app is easy to navigate, ensuring a smooth user journey from scores to live action 🕹️.</li>\n</ul>\n<h3>Cons:</h3>\n<ul>\n<li><strong>Subscription Dependency</strong>: High-definition features like 4K streams may be contingent on having an existing pay TV provider subscription 👎.</li>\n<li><strong>Platform Restrictions</strong>: Availability of certain sports broadcasts might be restricted based on regional and licensing agreements 🗺️.</li>\n<li><strong>Data Usage</strong>: Streaming sports, especially in high-definition quality, could lead to significant mobile data consumption without a Wi-Fi connection 📶.</li>\n<li><strong>Possible Lag</strong>: Live streams might be subject to lag or delay, which can be a detractor for some users 🚫.</li>\n</ul>\n<h3>Price:</h3>\n<p>FoxSports is available as a free download, with the provision of in-app purchases and features that might require an active subscription to a pay TV provider 💵.</p>\n<p>Crafted to deliver an unrivaled sports viewing experience, FoxSports is the ultimate app for fans seeking to immerse themselves fully in the sporting world.</p>\n<p><a href=\"https://play.google.com/store/apps/details?id=com.foxsports.android\" rel=\"noopener noreferrer\" target=\"_blank\">Download FoxSports now</a> and transform the way you follow sports!</p>\n",
+  "related_apps": [
+    {
+      "link": "/details/com-freegame-allgames/54069.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.freegame.allgames.png",
+      "name": "Game Collection : Mini Games",
+      "categoryLink": "/en/categories/sports/45",
+      "category": "Sports",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-ea-gp-tacticalfootball/39509.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.ea.gp.tacticalfootball.png",
+      "name": "EA SPORTS FC™ Tactical",
+      "categoryLink": "/en/categories/sports/45",
+      "category": "Sports",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-Dino-GalaxySoccer/39364.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.Dino.GalaxySoccer.png",
+      "name": "Galaxy Soccer :Rematch 3v3",
+      "categoryLink": "/en/categories/sports/45",
+      "category": "Sports",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-espn-score_center/16830.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.espn.score_center.png",
+      "name": "ESPN",
+      "categoryLink": "/en/categories/sports/45",
+      "category": "Sports",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-gymclassvr/16685.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.gymclassvr.png",
+      "name": "Gym Class VR: Companion App",
+      "categoryLink": "/en/categories/sports/45",
+      "category": "Sports",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/com-vividgames-realboxing2/16683.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.vividgames.realboxing2.png",
+      "name": "Real Boxing 2",
+      "categoryLink": "/en/categories/sports/45",
+      "category": "Sports",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-ea-gp-maddennfl21mobile/16482.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.ea.gp.maddennfl21mobile.png",
+      "name": "Madden NFL 26 Mobile Football",
+      "categoryLink": "/en/categories/sports/45",
+      "category": "Sports",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-doubletapsoftware-soccer-realtime-sports/16412.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.doubletapsoftware.soccer.realtime.sports.png",
+      "name": "Soccer Battle -  PvP Football",
+      "categoryLink": "/en/categories/sports/45",
+      "category": "Sports",
+      "rating": "4.3"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.aldisued.shopgo.png",
+    "title": "ALDI SHOP&GO",
+    "ratings": "3.2",
+    "downloads": "34M",
+    "age": "4+",
+    "download_link": "https://d.apkpure.com/b/APK/com.aldisued.shopgo?version=latest"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "ALDI SHOP&GO"
+    },
+    {
+      "name": "category",
+      "value": "Shopping"
+    },
+    {
+      "name": "Price",
+      "value": "0"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Aldi Stores Limited"
+    },
+    {
+      "name": "Version",
+      "value": "5.1"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/VdEC5EAgAedYii0wrydvcyPuD5tIbW7AFZ5qKUgIhlgkf19Z6NYd862V4eEdVjxfnQE",
+    "https://play-lh.googleusercontent.com/C_JGNXnhxA7ifX1l5Z5jx0L68HnK7V6O_LMoeFYTw1ZSKQrO0-oxWBWyha9PRxn9Fn0",
+    "https://play-lh.googleusercontent.com/HBE0Gok9QxZXjNocyKg2YNeiQSbMNS1afqv-YLvR-o_l96zfPOu-MClzlPa2FCSzmTs",
+    "https://play-lh.googleusercontent.com/FknyypG20z1RCvuPe6lmIiDF_5RJl2LuVrpaxIoNFWFxGKaKqCya75mXCFuZ6pnSkYoR",
+    "https://play-lh.googleusercontent.com/luc4ME8vS6lZqzM3Xks_SIZ6euDaEZzkXbIawbVLVgvvywJT7lzA8-dQH-w5rc7RwqA",
+    "https://play-lh.googleusercontent.com/gH1lPY5ckEbNgabTP7ZRT33Yz2aTJpCV-jP9vKQTpnEPuaZWCiSisfqFBWldHspfnA"
+  ],
+  "app_descript": "<h1>ALDI SHOP&amp;GO App Description</h1>\n<p><strong>Brief:</strong><br/>\nALDI SHOP&amp;GO revolutionizes your shopping experience with a checkout-free store model in London Greenwich. Using cutting-edge technology, this app allows you to shop for your favorite groceries, toiletries, and alcohol seamlessly, eliminating the hassle of queues while enjoying ALDI's beloved prices.</p>\n<h2>📌 Core Features:</h2>\n<ul>\n<li><strong>Easy Account Registration:</strong> Easily create your account to start shopping without hassle. 📝</li>\n<li><strong>QR Code Access:</strong> Use your personalized QR code for swift entry into the store. 📲</li>\n<li><strong>Receipt Management:</strong> Instantly view and manage your shopping receipts through the app. 🧾</li>\n<li><strong>Payment Detail Updates:</strong> Conveniently update your payment information anytime. 💳</li>\n<li><strong>Product Availability:</strong> Access a wide range of products including groceries and personal items all at ALDI prices. 🛒</li>\n</ul>\n<h2>👍 Pros:</h2>\n<ul>\n<li><strong>No Queues:</strong> Experience shopping without waiting in lines. ⏳</li>\n<li><strong>User-Friendly Interface:</strong> Intuitive design enhances the shopping experience. 🌟</li>\n<li><strong>Cost-Effective:</strong> Enjoy competitive prices on a wide selection of products. 💰</li>\n<li><strong>Real-time Updates:</strong> Get immediate notifications about your purchase and payment details. 📈</li>\n<li><strong>Convenience:</strong> Shop at your pace with a swift entry and exit process. 🚀</li>\n</ul>\n<h2>👎 Cons:</h2>\n<ul>\n<li><strong>Limited Locations:</strong> Currently only available in London Greenwich. 📍</li>\n<li><strong>Tech Dependent:</strong> Requires a smartphone and internet access to function optimally. 📱</li>\n<li><strong>Limited Payment Options:</strong> May not support all forms of payment methods. 💔</li>\n<li><strong>New User Learning Curve:</strong> Some users may need time to adapt to the checkout-free technology. ⌛</li>\n<li><strong>Potential Technical Issues:</strong> Users might experience app glitches or connectivity problems. ⚠️</li>\n</ul>\n<h2>💵 Price:</h2>\n<p>The ALDI SHOP&amp;GO app is free to download and use. However, in-app purchases may apply for certain features or promotions.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-gowish-app/39285.html",
+      "icon": "assets/img/apk/icon/com.gowish.app.png",
+      "name": "GoWish - Your Digital Wishlist",
+      "categoryLink": "/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-aldisued-shopgo/16934.html",
+      "icon": "assets/img/apk/icon/com.aldisued.shopgo.png",
+      "name": "ALDI SHOP&GO",
+      "categoryLink": "/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.2"
+    },
+    {
+      "link": "/details/com-wakefern-shoprite/16933.html",
+      "icon": "assets/img/apk/icon/com.wakefern.shoprite.png",
+      "name": "ShopRite: Groceries & Savings",
+      "categoryLink": "/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-yaxo-vancamper/16894.html",
+      "icon": "assets/img/apk/icon/com.yaxo.vancamper.png",
+      "name": "Vancamper: Buy sell campervans",
+      "categoryLink": "/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/com-elfster-elfdroid/16861.html",
+      "icon": "assets/img/apk/icon/com.elfster.elfdroid.png",
+      "name": "Elfster: The Secret Santa App",
+      "categoryLink": "/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-biggu-shopsavvy/16860.html",
+      "icon": "assets/img/apk/icon/com.biggu.shopsavvy.png",
+      "name": "ShopSavvy - Barcode Scanner",
+      "categoryLink": "/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/moloapps-gifttracker/16845.html",
+      "icon": "assets/img/apk/icon/moloapps.gifttracker.png",
+      "name": "GiftTracker : Gift List Helper",
+      "categoryLink": "/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-Giftster-Giftster/16842.html",
+      "icon": "assets/img/apk/icon/com.Giftster.Giftster.png",
+      "name": "Giftster - Wish List Registry",
+      "categoryLink": "/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.7"
+    }
+  ]
+}

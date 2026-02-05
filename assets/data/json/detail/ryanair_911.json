@@ -1,0 +1,108 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.ryanair.cheapflights.png",
+    "title": "Ryanair",
+    "ratings": "4.1",
+    "downloads": "770M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Ryanair"
+    },
+    {
+      "name": "category",
+      "value": "Travel & Local"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Ryanair"
+    },
+    {
+      "name": "Version",
+      "value": "3.149.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/oISry-jBtDfGtwto7uGfQ-KgdPKbtf61tfL1oOVTGQYJlEpl63pUvrrqAsYen9zvznQ",
+    "https://play-lh.googleusercontent.com/QU6HsZNKt_vZOtKCOV1XDznuhj8xCSZ0anGc4td01hphnM9pOhoRF_eQxvuihvlxR1E",
+    "https://play-lh.googleusercontent.com/ifBJ1O3q6HI9aBl7E3VhOe2McQ6zrtMu0n_D9WIz_8jRzAD7te6rQcBzaUVAjz-3k1A",
+    "https://play-lh.googleusercontent.com/ZS5vKN-3DUtlROyqCZAgWGvLoTQFcn6q-jMi_4KbIKkmCvx7FvflFzgzno9eqmFQd2CH"
+  ],
+  "app_descript": "<h2>Ryanair - Cheap Flights App</h2>\n<h3>Brief:</h3>\n<p>Ryanair's official mobile application offers you the convenience of browsing and booking Ryanair flights on-the-go. Ensuring flyers have easy access to cheap fares, this user-friendly app helps to manage travel plans, all from the palm of your hand.</p>\n<h3>Core Features:</h3>\n<ul>\n<li>🛩️ <strong>Flight Booking</strong>: Effortlessly search for flights and book your next getaway at the best prices.</li>\n<li>📅 <strong>Manage Trips</strong>: Easily view upcoming trips, make changes to your bookings, and check in online.</li>\n<li>🚗 <strong>Car Hire</strong>: Not just flights – arrange your ground transport too with competitive car hire options.</li>\n<li>✈️ <strong>Flight Info in Real-Time</strong>: Stay updated with live flight status and schedules.</li>\n<li>🎫 <strong>Boarding Pass Access</strong>: Securely store and access your boarding passes right within the app. 📱</li>\n</ul>\n<h3>Pros:</h3>\n<ul>\n<li>👍 <strong>Convenience</strong>: Book and manage your flights anytime, anywhere.</li>\n<li>👍 <strong>User-Friendly Interface</strong>: The app boasts an intuitive design, making navigation a breeze.</li>\n<li>👍 <strong>Cost-Efficient</strong>: Access to the lowest fares and exclusive app-only deals.</li>\n<li>👍 <strong>All-in-One Travel Assistant</strong>: Integrates additional travel services such as car hire and hotel bookings.</li>\n<li>👍 <strong>In-App Boarding Pass</strong>: Skip the printing queue with digital boarding pass storage.</li>\n</ul>\n<h3>Cons:</h3>\n<ul>\n<li>👎 <strong>Limited Functionality Offline</strong>: Most features require an internet connection.</li>\n<li>👎 <strong>Account Requirement</strong>: Must have a Ryanair account to use the app.</li>\n<li>👎 <strong>Variable Performance</strong>: Some users may experience occasional app slowdowns or bugs.</li>\n<li>👎 <strong>Ads and Upsells</strong>: Presence of advertisements and prompts for additional purchases within the app.</li>\n<li>👎 <strong>Data Privacy Concerns</strong>: As with many apps, privacy-sensitive users should be aware of data usage and permissions.</li>\n</ul>\n<h3>Price:</h3>\n<p>💵 The Ryanair app is free to download with no initial purchase cost. However, the app may offer in-app purchases and services that come with additional fees.</p>\n<p><em>Please note that while the app itself is free, booking flights and other services will incur charges as per Ryanair's pricing policies. Always check the final price and terms before confirming any transaction.</em></p>\n<p>Unfortunately, since the Ryanair app is not a game, the Community section is not included in this description. However, travelers can always rely on the app for the latest deals and hassle-free trip planning. Enjoy your travels with Ryanair's easy-to-use app! ✈️</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-bp-app-bpme-global-ros/16042.html",
+      "icon": "assets/img/apk/icon/com.bp.app.bpme.global.ros.png",
+      "name": "earnify",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/kulana-tools-vacationcountdown/10380.html",
+      "icon": "assets/img/apk/icon/kulana.tools.vacationcountdown.png",
+      "name": "Vacation Countdown App",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-disney-playdisneyparks-goo/4681.html",
+      "icon": "assets/img/apk/icon/com.disney.playdisneyparks.goo.png",
+      "name": "Play Disney Parks",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-hornblower-statuecruises/4679.html",
+      "icon": "assets/img/apk/icon/com.hornblower.statuecruises.png",
+      "name": "Statue Cruises",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-usnpw-grca/4678.html",
+      "icon": "assets/img/apk/icon/com.usnpw.grca.png",
+      "name": "Grand Canyon National Park",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/MakeMyTrip-Hotels-Flight-Bus/4591.html",
+      "icon": "assets/img/apk/icon/com.makemytrip.png",
+      "name": "MakeMyTrip Hotels, Flight, Bus",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/ConfirmTkt/4570.html",
+      "icon": "assets/img/apk/icon/com.confirmtkt.lite.png",
+      "name": "ConfirmTkt",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/Bus-Train-Ticket-Booking-App/4503.html",
+      "icon": "assets/img/apk/icon/in.redbus.android.png",
+      "name": "Bus, Train Ticket Booking App",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.9"
+    }
+  ]
+}

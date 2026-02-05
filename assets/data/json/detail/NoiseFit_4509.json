@@ -1,0 +1,111 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/com.noisefit.png",
+    "title": "NoiseFit",
+    "ratings": "4.4",
+    "downloads": "440M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "NoiseFit"
+    },
+    {
+      "name": "category",
+      "value": "Health & Fitness"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Noise"
+    },
+    {
+      "name": "Version",
+      "value": "4.2.5"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/8xz9lLh0bo8eMz4AHjdkT-7A3ce9A2ZM_DbBSarpHFAkuwrKs2_A-poimSUDKLb7gbY",
+    "https://play-lh.googleusercontent.com/6brOBww-GByYm5c2klX2CqLqlSIka6IgX0Wk7sdKCQKopsasbw1HPov6qCqOM_47ZFU",
+    "https://play-lh.googleusercontent.com/aUU2hbaVbRU15MGZ1EBUvWtfD_nraEZjsw7URl7OEZHa4GIiiREUrL6jRpoBepJYHg",
+    "https://play-lh.googleusercontent.com/ouuh9WeSnCC9D3r_phiXNfX_ATMFAZVefOZxPF3SqN1td-7KBv1wzXp1EgoR97GIY_0j",
+    "https://play-lh.googleusercontent.com/R5uDRxyfYHk88r53LKiQN0jMjMiR3AClVGpBjNb2Z_WnBVaSKH27YCMhhhkK9_JOgNMN",
+    "https://play-lh.googleusercontent.com/ACSJCv8Z_8_jOY4RF1wlYRISmw9HXgGanSNI9TvomLF2xSwiAyrTKO1bKN_IJXYeng",
+    "https://play-lh.googleusercontent.com/LpX35hn30_I9q_TSCAl-lmTTCCm70ApBkYOfwWdb1fiL_Ubkxh-MP9HXCUAHLc5bWheP"
+  ],
+  "app_descript": "<h1>NoiseFit</h1>\n<p>Stay fit and keep track of your wellness journey with NoiseFit, the companion app designed to work seamlessly with Noise wearable devices. Whether you are a fitness enthusiast or simply embarking on a health-conscious lifestyle, NoiseFit offers you central access to monitor your physical activities and overall well-being.</p>\n<h2>Core Features</h2>\n<ul>\n<li>📊 <strong>Compatibility Management</strong>: NoiseFit ensures smooth synchronization with the Noise ecosystem of wearables, providing a hassle-free connectivity experience. 🌐</li>\n<li>👟 <strong>Activity Tracking</strong>: Keep an eye on your daily physical activities, from steps taken to calories burned, and stay motivated throughout your fitness goals. 🏃</li>\n<li>🏋️ <strong>Workout Insights</strong>: Dive into post-workout summaries to understand the impact of your exercise routines and make informed decisions to improve your performance. 💪</li>\n<li>📉 <strong>Health Metrics Analysis</strong>: Monitor essential health metrics such as heart rate, sleep patterns, and more to maintain a healthful lifestyle. 💖</li>\n<li>🔄 <strong>Real-Time Data Sync</strong>: Experience prompt updates of your data as NoiseFit works to keep your health information synchronized and current. 🔄</li>\n</ul>\n<h2>Pros</h2>\n<ul>\n<li>👌 <strong>User-Friendly Interface</strong>: With its intuitive UI, NoiseFit offers a simple and efficient way to navigate through your health data. 📱</li>\n<li>🌟 <strong>Essential Fitness Tracking</strong>: Core functionalities to track fitness essentials ensuring you have the basic metrics to stay on top of your fitness game. ✨</li>\n<li>🔋 <strong>Optimized Battery Use</strong>: Designed to work efficiently with Noise devices, ensuring extended battery life and longer usage between charges. 🔋</li>\n<li>✅ <strong>Highly Accessible</strong>: The app is perfect for beginners or those entrenched in the Noise ecosystem, promoting a focus on essential health metrics. ✔️</li>\n</ul>\n<h2>Cons</h2>\n<ul>\n<li>🔗 <strong>Limited Device Compatibility</strong>: As NoiseFit favors Noise devices, users with wearables from other brands may find integration options restrictive. 👎</li>\n<li>📚 <strong>Basic Feature Set</strong>: Might lack the advanced features savvy users desire for in-depth analysis and personal training. 🗒️</li>\n<li>⌛ <strong>Occasional Sync Issues</strong>: Intermittent data synchronization can be a stumbling block for keeping health records up-to-the-minute. 🔄</li>\n<li>🔄 <strong>Niche Focus</strong>: The app's exclusive focus on the Noise ecosystem might limit its appeal to a broader audience. 🚀</li>\n</ul>\n<h2>Pricing</h2>\n<ul>\n<li>💵 <strong>Free to Download</strong>: NoiseFit is available at no cost. It may include optional in-app purchases, so users should check for any additional fees within the app. 🆓</li>\n</ul>\n<p>NoiseFit aims to deliver a simple yet powerful way to stay on top of your health and activity data, especially for those vested in the Noise brand of products. Download today to step up your wellness game!</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-appflows-BodyMuse/48997.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.appflows.BodyMuse.png",
+      "name": "BodyMuse: Body Shape Analysis",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-codev-headache_app/39734.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.codev.headache_app.png",
+      "name": "Headache Diary, Test & Treat",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/life-simple/39727.html",
+      "icon": "https://img.buzzsight.co/apk/icon/life.simple.png",
+      "name": "Simple: AI Weight Loss Coach",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-clearblue-minerva/39464.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.clearblue.minerva.png",
+      "name": "Menopause Stage - Clearblue me",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-jplanet-lungtestandbreathpractice/39424.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.jplanet.lungtestandbreathpractice.png",
+      "name": "Lung Test and Breath Exercise",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "3"
+    },
+    {
+      "link": "/details/healthy-lungs-breathing-exercise-coach-pranayama-breath-workout-lung-exercises/39423.html",
+      "icon": "https://img.buzzsight.co/apk/icon/healthy.lungs.breathing.exercise.coach.pranayama.breath.workout.lung.exercises.png",
+      "name": "Lungs Test: Breathing Exercise",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-smartoptometry-smartoptometry-full/34733.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.smartoptometry.smartoptometry.full.png",
+      "name": "Smart Optometry - Eye Tests",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-b2creativedesigns-eyetest/34732.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.b2creativedesigns.eyetest.png",
+      "name": "Eye test",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.1"
+    }
+  ]
+}

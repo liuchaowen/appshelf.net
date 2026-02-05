@@ -1,0 +1,110 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.totalsport.tek.player.png",
+    "title": "Totalsportek Player",
+    "ratings": "4",
+    "downloads": "250M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Totalsportek Player"
+    },
+    {
+      "name": "category",
+      "value": "Video Players & Editors"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "FÖLSCH FRANK MANFRED"
+    },
+    {
+      "name": "Version",
+      "value": "14.99.1"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/H6gYCoX1lsEOtuXegp1Mjvkyi__tN97n2_Sbny6KL5LMYCA_7EkXJ4Er3R9dViN-e5Q",
+    "https://play-lh.googleusercontent.com/gyuMxAYLrlVgPhAdx8OqlZ8CIhZU0_lUbo-cYmqCd2YfnJWwj3oB8R5xipX4uFyoGZE",
+    "https://play-lh.googleusercontent.com/EzFSu9V770JAunRVTRYNxr9wGLTEUr_YZdCWaQFl8-tCRD1jdOQdL2MAPA0WY4MvCZM",
+    "https://play-lh.googleusercontent.com/z1XGEAH2zqZeepzYHLvXeKep_DDgittC-Zbpz9PjOIpOPyrcwB6JIwtP7vqqBzgr2rg",
+    "https://play-lh.googleusercontent.com/Y-bqwWj9isrE7tb6dVNNX4iv_bpnUqd5E4_mJOOimVHRpRG7GkjTpZ25DLcg64GRaP4",
+    "https://play-lh.googleusercontent.com/UaH6w2yYafaXqJTo0WxQipd8MbdMkD8BPf_MWWg2_uoLztmVbO44f_53KdcKOYbnBVta"
+  ],
+  "app_descript": "<h1>Totalsportek Player</h1>\n<h2>Brief</h2>\n<p>Totalsportek Player provides a dedicated platform for sports enthusiasts to catch live sports streams without the worry of copyright infringement. With a focus on delivering high-quality video playback, this app caters to those looking to stay connected to their favorite sporting events on the go.</p>\n<h2>Core Features</h2>\n<ul>\n<li><strong>F1-Focused Streaming</strong>: Delve into the world of Formula 1 with specialized streams geared towards racing fans. 🏎️</li>\n<li><strong>Licensing Compliant</strong>: Rest assured that all streams adhere to proper licensing, avoiding any copyright issues. ⚖️</li>\n<li><strong>User Support</strong>: The Totalsportek team is responsive to inquiries, ensuring a smoother user experience. 📩</li>\n<li><strong>High-Quality Video</strong>: Enjoy sports with the clarity and definition that every fan deserves. 📺</li>\n<li><strong>Multi-Sport Offering</strong>: Although F1-centric, the app provides access to various other sports streams. 🤾‍♂️</li>\n</ul>\n<h2>Pros</h2>\n<ul>\n<li><strong>Dedicated to Sports Fans</strong>: Tailored particularly for fans looking to stream sports. 👍</li>\n<li><strong>Legally Sound</strong>: The commitment to avoiding copyrighted content means fewer legal concerns for users. 🙌</li>\n<li><strong>Customer Service-Oriented</strong>: Prompt responses to user questions foster trust and reliability. 🤝</li>\n<li><strong>Quality Streaming</strong>: Prioritizes a premium viewing experience. 🌟</li>\n<li><strong>Sport Diversity</strong>: Offers a variety of sports, catering to a wide range of interests. 🏅</li>\n</ul>\n<h2>Cons</h2>\n<ul>\n<li><strong>Limited to Streaming</strong>: Does not offer additional features such as scores, news, or community discussions. 📊</li>\n<li><strong>F1-Stream Centric</strong>: May not appeal to those with no interest in F1 racing. 🏁</li>\n<li><strong>Network Dependency</strong>: A strong internet connection is required for uninterrupted streaming. 🌐</li>\n<li><strong>Potential Geo-Restrictions</strong>: Content availability might vary based on the user's location. 🗺️</li>\n<li><strong>Ads &amp; In-App Purchases</strong>: There might be adverts or premium features accessible via in-app purchases. 💳</li>\n</ul>\n<h2>Pricing</h2>\n<p>Totalsportek Player is free to download, yet it may include in-app advertisements or premium features that come with an additional cost.</p>\n<p><a href=\"https://play.google.com/store/apps/details?id=com.totalsport.tek.player\" rel=\"noopener noreferrer\" target=\"_blank\">Download Totalsportek Player</a></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-video-newslideshow/53956.html",
+      "icon": "assets/img/apk/icon/com.video.newslideshow.png",
+      "name": "Music Video Maker Magic Effect",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-prominent-aicatch/49088.html",
+      "icon": "assets/img/apk/icon/com.prominent.aicatch.png",
+      "name": "AI Catch: AI Video Generator",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-asianmobile-smartplayer/34766.html",
+      "icon": "assets/img/apk/icon/com.asianmobile.smartplayer.png",
+      "name": "IPTV Player: Smarters Watch TV",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "3.1"
+    },
+    {
+      "link": "/details/halloween-video-maker/34753.html",
+      "icon": "assets/img/apk/icon/halloween.video.maker.png",
+      "name": "Halloween Video Editor 2025",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-cupertinotech-aidancevideo/16075.html",
+      "icon": "assets/img/apk/icon/com.cupertinotech.aidancevideo.png",
+      "name": "AI Dance Video - Photo Dance",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "2.4"
+    },
+    {
+      "link": "/details/com-instagram-basel/15556.html",
+      "icon": "assets/img/apk/icon/com.instagram.basel.png",
+      "name": "Edits, an Instagram app",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/downloader-video-download-free/10303.html",
+      "icon": "assets/img/apk/icon/downloader.video.download.free.png",
+      "name": "Video Downloader & Video Saver",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-renderforest-videomaker/10142.html",
+      "icon": "assets/img/apk/icon/com.renderforest.videomaker.png",
+      "name": "Renderforest Video & Animation",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.5"
+    }
+  ]
+}

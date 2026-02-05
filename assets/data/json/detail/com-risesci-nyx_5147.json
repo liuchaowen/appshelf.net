@@ -1,0 +1,112 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.risesci.nyx.png",
+    "title": "RISE: Sleep Tracker",
+    "ratings": "4.4",
+    "downloads": "48M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "RISE: Sleep Tracker"
+    },
+    {
+      "name": "category",
+      "value": "Health & Fitness"
+    },
+    {
+      "name": "Price",
+      "value": "0"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Rise Science"
+    },
+    {
+      "name": "Version",
+      "value": "8.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/zoaTM_3BZv5BOHb2aimezcMJHOTHeHOcVxY4L7dFcxn_PlAQk9mgenUx0wtapl_NaQ",
+    "https://play-lh.googleusercontent.com/Xb5yGv8sVrV5WEzKJRvWOdQw0e8emINacQge_Bq5PZf-Zbp2XpIJAVCllb7RfMfvuHI",
+    "https://play-lh.googleusercontent.com/da4KfTrTef302xlAhNxLk879algnLwhBuPw6CLqFxdWBVYE7tSBlMnHltUQDRHC0MKKF",
+    "https://play-lh.googleusercontent.com/8lp-xJmzcihch8pMZH7WA4P5ZujpcfLU7eD7HM6KjbRiGdfMAdnUTDQRjBdaq4KMGQ",
+    "https://play-lh.googleusercontent.com/xh4ErJ8G5I2xFtLMWfaPd6bPvA4EXKtc--W5ob7T7HO1eahKFkCeJzlECngZinIxNyM",
+    "https://play-lh.googleusercontent.com/KzZQ9ummmEpoz5gc9NKiz_W_PO7UElkAvEnnJqctg9vUgFyQaSjH8zh9V6jCixqUZ1w",
+    "https://play-lh.googleusercontent.com/ODscUSz2wv-E4C-MwOyrMGjwyJnS2c-8_YIgAHVorYjFkuhBEEIFrX62NCsFvYGDpSu7",
+    "https://play-lh.googleusercontent.com/jbUOxg-yLmFcR_Wim5RGjbofMp8axhYfTf9SaIuYKb19Ybi7I3g33YNBuw-ddgrlPQ"
+  ],
+  "app_descript": "<pre><code class=\"language-markdown\"># RISE: Sleep Tracker\n\nJoin over **5 million users** on a journey to better sleep and energy management! RISE is a unique sleep tracker that goes beyond just monitoring your rest. Backed by **100 years of sleep science**, this app measures your sleep debt and energy levels, making it an essential tool for enhancing your sleep quality and daily performance. Recommended by the Sleep Foundation and trusted by teams across professional sports and Fortune 500 companies, RISE is designed to help you become a better sleeper and morning person.\n\n## Core Features \n- **Comprehensive Sleep Debt Tracking** 🛌: Understand your sleep debt and its impact on your energy and well-being.\n- **Personalized Recommendations** 🧠: Get tailored guidance based on your sleep data and circadian rhythms to optimize your sleeping habits.\n- **Smart Alarm Clocks** ⏰: Wake up feeling refreshed with alarms that align with your sleep cycles.\n- **Integration with Health Devices** 📱: Automatically track sleep via Apple Health, Fitbit, Oura, and other devices for seamless monitoring.\n- **Sleep Knowledge Library** 📚: Access a wealth of information on sleep to improve your understanding and habits.\n\n## Pros \n- **Scientifically-Backed Insights** 🔬: RISE uses research-driven methods to help you improve your sleep quality.\n- **Huge User Base** 👥: Over 5 million users share experiences and tips for better sleep.\n- **User-Friendly Interface** 🌟: The app is designed for easy navigation, making sleep tracking simple and efficient.\n- **Free Trial Available** 🎉: Explore premium features for free with a 7-day trial before committing to a subscription.\n- **Holistic Approach** 🌈: Beyond just sleep tracking, RISE incorporates meditation guides and sleeping sounds for relaxation.\n\n## Cons \n- **Subscription-Based Model** 💳: Continuous access to premium features requires a paid subscription.\n- **Initial Setup Required** ⚙️: Users may need time to input their sleep patterns and preferences effectively.\n- **Dependence on Technology** 🖥️: Effective usage of the app requires compatible devices and connectivity.\n- **Data Privacy Concerns** 🔒: Some users may be wary about sharing health data with an app.\n- **Limited Features in Free Version** 🚫: The free trial has restrictions, requiring a subscription for full functionalities.\n\n## Price \nRISE offers **auto-renewing subscriptions** for unlimited access to all premium features. A *7-day free trial* allows you to explore the premium offerings at no cost. Payment is charged to the credit card linked to your account, and the subscription will renew automatically unless canceled 24 hours before the end date.\n</code></pre>",
+  "related_apps": [
+    {
+      "link": "/details/com-appflows-BodyMuse/48997.html",
+      "icon": "assets/img/apk/icon/com.appflows.BodyMuse.png",
+      "name": "BodyMuse: Body Shape Analysis",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-codev-headache_app/39734.html",
+      "icon": "assets/img/apk/icon/com.codev.headache_app.png",
+      "name": "Headache Diary, Test & Treat",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/life-simple/39727.html",
+      "icon": "assets/img/apk/icon/life.simple.png",
+      "name": "Simple: AI Weight Loss Coach",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-clearblue-minerva/39464.html",
+      "icon": "assets/img/apk/icon/com.clearblue.minerva.png",
+      "name": "Menopause Stage - Clearblue me",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-jplanet-lungtestandbreathpractice/39424.html",
+      "icon": "assets/img/apk/icon/com.jplanet.lungtestandbreathpractice.png",
+      "name": "Lung Test and Breath Exercise",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "3"
+    },
+    {
+      "link": "/details/healthy-lungs-breathing-exercise-coach-pranayama-breath-workout-lung-exercises/39423.html",
+      "icon": "assets/img/apk/icon/healthy.lungs.breathing.exercise.coach.pranayama.breath.workout.lung.exercises.png",
+      "name": "Lungs Test: Breathing Exercise",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-smartoptometry-smartoptometry-full/34733.html",
+      "icon": "assets/img/apk/icon/com.smartoptometry.smartoptometry.full.png",
+      "name": "Smart Optometry - Eye Tests",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-b2creativedesigns-eyetest/34732.html",
+      "icon": "assets/img/apk/icon/com.b2creativedesigns.eyetest.png",
+      "name": "Eye test",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.1"
+    }
+  ]
+}

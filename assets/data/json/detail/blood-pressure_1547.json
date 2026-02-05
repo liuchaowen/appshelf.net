@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/com.bloodpressure.heartmonitor.mytracker.png",
+    "title": "Blood Pressure",
+    "ratings": "4.8",
+    "downloads": "540M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Blood Pressure"
+    },
+    {
+      "name": "category",
+      "value": "Health & Fitness"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Roji Osi"
+    },
+    {
+      "name": "Version",
+      "value": "1.0.2"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>Blood Pressure: Heart Health</strong></p>\n<h3>Brief:</h3>\n<p>Blood Pressure: Heart Health is a state-of-the-art mobile application designed to simplify the way individuals track and analyze their cardiovascular health. It serves as a digital alternative to traditional paper records, providing users with insightful analyses of their blood pressure readings, heart rate, and respiratory rate. Alongside monitoring, the app also educates users on preventing heart-related diseases, monitors cardiovascular disease risks, and brings forth ways to enhance overall well-being.</p>\n<h3>Core Features: 🌟</h3>\n<ul>\n<li><strong>Health Monitoring:</strong> Records systolic and diastolic blood pressure and pulse pressure (PP). 🩺</li>\n<li><strong>Heart and Respiratory Rates:</strong> Evaluates heart rate variability (HRV/PRV) and breathing rate. 💓</li>\n<li><strong>Disease Prevention Guidance:</strong> Suggests preventive measures for blood pressure and heart conditions. 💡</li>\n<li><strong>Health Report Generation:</strong> Offers downloadable PDF health reports for personal tracking or sharing with physicians. 📄</li>\n<li><strong>Risk Assessment:</strong> Analyzes the risk of cardiovascular diseases, helping to understand and improve health metrics. ⚠️</li>\n</ul>\n<h3>Pros: 👍</h3>\n<ul>\n<li><strong>Comprehensive Analysis:</strong> Delivers detailed statistics on blood pressure and heart health for better personal insight. 📊</li>\n<li><strong>Educational Tips:</strong> Provides knowledge to users for self-monitoring and maintaining a healthy lifestyle. 📚</li>\n<li><strong>User-Friendly Interface:</strong> Designed for ease of use, making health tracking simple and accessible. 👌</li>\n<li><strong>Reminders:</strong> Helps users who easily forget to maintain regular health checkups. 🔔</li>\n</ul>\n<h3>Cons: 👎</h3>\n<ul>\n<li><strong>Self-Monitoring:</strong> Might require initial calibration or guidance to ensure accurate readings. 🔍</li>\n<li><strong>Device Dependence:</strong> Usefulness is directly tied to the user’s access to device-compatible health peripherals. 📱</li>\n<li><strong>Data Interpretation:</strong> Assumes a level of user literacy in health metrics for optimal use. 📈</li>\n<li><strong>Connectivity:</strong> Requires a stable connection for syncing data and generating reports. 🌐</li>\n</ul>\n<h3>Pricing: 💵</h3>\n<p>Blood Pressure: Heart Health is free to download, with potential in-app purchases for additional features or to access advanced reports. The specifics regarding in-app purchase options are not provided and may vary.</p>\n<p><strong>To embark on a journey towards a healthier heart and a more informed lifestyle, <a href=\"https://play.google.com/store/apps/details?id=com.bloodpressure.heartmonitor.mytracker\" rel=\"noopener noreferrer\" target=\"_blank\">download Blood Pressure: Heart Health</a> now and let the app be your dedicated health monitor.</strong></p>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-appflows-BodyMuse/48997.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.appflows.BodyMuse.png",
+      "name": "BodyMuse: Body Shape Analysis",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.3"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-codev-headache_app/39734.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.codev.headache_app.png",
+      "name": "Headache Diary, Test & Treat",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/life-simple/39727.html",
+      "icon": "https://img.buzzsight.co/apk/icon/life.simple.png",
+      "name": "Simple: AI Weight Loss Coach",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-clearblue-minerva/39464.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.clearblue.minerva.png",
+      "name": "Menopause Stage - Clearblue me",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.6"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-jplanet-lungtestandbreathpractice/39424.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.jplanet.lungtestandbreathpractice.png",
+      "name": "Lung Test and Breath Exercise",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "3"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/healthy-lungs-breathing-exercise-coach-pranayama-breath-workout-lung-exercises/39423.html",
+      "icon": "https://img.buzzsight.co/apk/icon/healthy.lungs.breathing.exercise.coach.pranayama.breath.workout.lung.exercises.png",
+      "name": "Lungs Test: Breathing Exercise",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-smartoptometry-smartoptometry-full/34733.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.smartoptometry.smartoptometry.full.png",
+      "name": "Smart Optometry - Eye Tests",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-b2creativedesigns-eyetest/34732.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.b2creativedesigns.eyetest.png",
+      "name": "Eye test",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.1"
+    }
+  ]
+}

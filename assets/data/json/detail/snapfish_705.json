@@ -1,0 +1,128 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.snapfish.mobile.png",
+    "title": "Snapfish",
+    "ratings": "4.3",
+    "downloads": "960M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Snapfish"
+    },
+    {
+      "name": "category",
+      "value": "Photography"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Snapfish"
+    },
+    {
+      "name": "Version",
+      "value": "12.4.1"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/xK7thoEegMQ6YhBkjdmhfFQW8ZxaOlUn2xAE6wZh-0iy6IjVybGdpgwpOxcc6WD2v-yH",
+    "https://play-lh.googleusercontent.com/H-niuSwg3fbCL7iwV6WCnE7RDClSw0ozwfc7oReFWiNYSJrgRX-3T0hnZGm8Rs-MzA",
+    "https://play-lh.googleusercontent.com/VEcveB8lb2iwBgV0fSQ335oz5LlDerJo6Uwg-wWwsTNE-pcAXXnUeEPjOrILfVl5NE1d",
+    "https://play-lh.googleusercontent.com/XzSUCTWRy8cLDQiaoOLLWIhfXPACmh4O6stiL6rY2B3WISxEtXO7kKwDhbu0c_hsVGg",
+    "https://play-lh.googleusercontent.com/rQtdXXHgamvgK899CmsUCBu-09ncAszFICy96DKWHDEMNWOA2IAjlNQaLQmIFE5x614",
+    "https://play-lh.googleusercontent.com/hZVo06mFvVtv1D9pnyk3CJdN2ZhQBbH-1G2kDe7eQuVya8h67iYda-78DinTKAaFZA",
+    "https://play-lh.googleusercontent.com/SoUy5XHAok9wMBxmb0No1lcSduYiBZkGzvpWPBcwKPoCrkKY-x7rIWABHa-LCSwzeQ1B",
+    "https://play-lh.googleusercontent.com/Nk3_cy1clsm9TQF2oSAh6mM6xGn6ifdyuguKYApvosHZF8D8OzVK4HYWPmfqLUN1NA",
+    "https://play-lh.googleusercontent.com/2tAl1M52_i45Q0PFHx2uW1Hy2-zFMqSYRgGM91nYXKES-ffSJcqiZsevLV5_aGaL2g",
+    "https://play-lh.googleusercontent.com/v-w6kIjIupbQVyl1wHeYnUcnjT0KkgXumtSlLtDW4l7pYWQVA1xwLm55SrK2abXeAh4",
+    "https://play-lh.googleusercontent.com/U7c1P2R88H24WKhhMMFFRNHhz9rulBpwjCQxbPWRO-6vi5hhqRooyaygPtwZrJQn4aI",
+    "https://play-lh.googleusercontent.com/82ekNcXHIiV-3Ysa2n6N17DdzHH3fukGGy6NsiH-FRKvXcbT_wVXsL1JDZPgbeTO0or7",
+    "https://play-lh.googleusercontent.com/HvAMfBIQN9b2PA6Yg5dc3Z74_owjQMxRpvAjKU5OHHHiQptPUdSEYCajKz_sG1A99o0",
+    "https://play-lh.googleusercontent.com/fkFaCBmrhymV4ybaSZrFWd-Wn8D8Ym2S_eGZEktzKgskMeU2dZa4dCBNFVWCnugHAis",
+    "https://play-lh.googleusercontent.com/hb48V6adORJwnGhvYn54Y_5aD8-mRitQ6iofMXo0ItCsZ5nsdsxk9QDsXhtyAhdbXl8",
+    "https://play-lh.googleusercontent.com/FDpoYx5BOr9neS0cP7XBlQIpYGLVe42oiCLdgO14vqJZTLYQoOawFhoS1Uc2XVy7wqmh",
+    "https://play-lh.googleusercontent.com/5wyLkpeCmoKim8RbSWagF1W5PaHihSE2C8zU6h45pyJHpphBmZOoxtpFV8Y1bCUjc4U",
+    "https://play-lh.googleusercontent.com/W0WEQf2OhDuwdBUVbc95ebu-u-IHuRu2LxYmqEF0Z5qtR-QWzEenaULwf3Pj0j_eCRI",
+    "https://play-lh.googleusercontent.com/nuM1KNiZHXQVMbUKlD76Ulke-_OGxj3r8r_kiHpDoEJgRfz_b6wqkj9wESBKoHbwhNuf",
+    "https://play-lh.googleusercontent.com/idN6uOzoh5FdKZlAFCDaWZeb283cdzAfg29Xr9F-LsaTjSFGg776oGD69WkWoTukmA",
+    "https://play-lh.googleusercontent.com/0_hLfYPBEVDoLmylJNE-8GP-IXSzD_vwXkvENqwvKWZapyI9zj03kkys-24uRdRM-Q",
+    "https://play-lh.googleusercontent.com/gbv9_Dclbf3HAefeMR9LqKOVSSIyDlJEC1EFVYAeQ-CLch0qG5YDXxRe85U-KlHNuFA",
+    "https://play-lh.googleusercontent.com/XnkxBwpqTgL0M0lpYmjMTAa-chQvnpmbbfSEgP1Rd7ubdxKPtB8ByKtZDbigspdwwA",
+    "https://play-lh.googleusercontent.com/vOz9YuLfoADgL4x-J414YvMTHn9T2puL4xQ51yDAatS-z8XdMJmnKCrs20_wETlIas0"
+  ],
+  "app_descript": "<h1>Snapfish: A Digital Photo Printing Treasure Trove</h1>\n<h2>Brief</h2>\n<p>Embark on a delightful journey with <strong>Snapfish</strong>, the digital haven purposed for transforming your precious moments into tangible memories. This app endows you with an array of options for photo printing and custom gift creation, all from the convenience of your mobile device. With unique app-centered deals and a plentitude of products ready to be personalized, Snapfish is a must-have for anyone looking to bring their digital captures into the physical realm.</p>\n<h2>Core Features</h2>\n<ul>\n<li>📸 <strong>100 Free Prints Monthly</strong>: Start each month with an allotment of complimentary 4x6 prints, paying only for shipping within the US 🇺🇸.</li>\n<li>🛍️ <strong>Exclusive App Deals</strong>: Unlock special discounts on a variety of products that can only be accessed through the app 🏷️.</li>\n<li>🛠️ <strong>Custom Layouts</strong>: Dive into creativity with customizable collage layouts for photobooks and canvas prints, or design from scratch 🎨.</li>\n<li>🖼️ <strong>Assorted Print Sizes</strong>: From wallet-sized snapshots to sizable 20x30 prints, and even square options perfect for Instagram-lovers 📐.</li>\n<li>🕒 <strong>Fast Turnaround</strong>: Opt for your cherished images to be mailed or pick them up at CVS, Walgreens, and Walmart stores within just an hour ⏰.</li>\n</ul>\n<h2>Pros</h2>\n<ul>\n<li>👍 <strong>Simple Photo Finding</strong>: Easily sort through your images with album or timeline views 🗂️.</li>\n<li>👍 <strong>In-Minute Creations</strong>: Whip up photo books, glass prints, and more in mere minutes ⏳.</li>\n<li>👍 <strong>Versatile Payment Options</strong>: Effortlessly pay through PayPal, bank, or credit card 💳.</li>\n<li>👍 <strong>Fresh Product Lineup</strong>: Always find something new with regularly introduced personalized items like embossed foil cards, insulated tumblers, and more 🆕.</li>\n</ul>\n<h2>Cons</h2>\n<ul>\n<li>👎 <strong>Free Prints Shipping Cost</strong>: While prints are free, you do still incur shipping charges 🚚.</li>\n<li>👎 <strong>App-Exclusive Promotions</strong>: Some deals are only available in-app, excluding web users 🌐.</li>\n<li>👎 <strong>Monthly Print Allocation Reset</strong>: Unused free prints do not roll over to the next month 🔄.</li>\n<li>👎 <strong>Product Availability</strong>: Certain new or specialty products may be subject to availability 🛒.</li>\n</ul>\n<h2>Price</h2>\n<ul>\n<li>💵 <strong>Free to Use App</strong>: Snapfish comes at no cost to download, with in-app transactions based on purchases you make 🆓.</li>\n<li>💵 <strong>In-App Purchases</strong>: Costs are associated with personalized physical products, with occasional free offers on prints (plus shipping) 💰.</li>\n</ul>\n<p>Transform your digital photo collections into authentic keepsakes with <strong>Snapfish</strong>, and cherish your memories in more ways than one. Download the app to begin crafting your personalized gifts today!</p>\n<p><a href=\"https://play.google.com/store/apps/details?id=com.snapfish.mobile\" rel=\"noopener noreferrer\" target=\"_blank\">Download Snapfish</a></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-appwallet-coupletraditionaldress/54509.html",
+      "icon": "assets/img/apk/icon/com.appwallet.coupletraditionaldress.png",
+      "name": "Traditional Suit : Change Face",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-appwallet-ValentinesDayFrames/54392.html",
+      "icon": "assets/img/apk/icon/com.appwallet.ValentinesDayFrames.png",
+      "name": "Valentine's Day Photo Frame",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-valentineweek-photo_frames/54386.html",
+      "icon": "assets/img/apk/icon/com.valentineweek.photo_frames.png",
+      "name": "Valentine Day Photo Frame 2026",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/valentine-photo-frame-editor/54380.html",
+      "icon": "assets/img/apk/icon/valentine.photo.frame.editor.png",
+      "name": "Valentine's Day Photo Frame",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-aaptechno-photomaker-republicday/54338.html",
+      "icon": "assets/img/apk/icon/com.aaptechno.photomaker.republicday.png",
+      "name": "Republic day Photo Frame",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/utility-independancephotoframe/54332.html",
+      "icon": "assets/img/apk/icon/utility.independancephotoframe.png",
+      "name": "Republic Day Photo Frames",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-appbench-republicdayphotoframes/54326.html",
+      "icon": "assets/img/apk/icon/com.appbench.republicdayphotoframes.png",
+      "name": "Republic Day Photo Frames",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-themasterapps-happybirthdaywishesimages/54176.html",
+      "icon": "assets/img/apk/icon/com.themasterapps.happybirthdaywishesimages.png",
+      "name": "Happy Birthday & Good Morning",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.8"
+    }
+  ]
+}

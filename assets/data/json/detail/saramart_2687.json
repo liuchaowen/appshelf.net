@@ -1,0 +1,110 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.saramart.android.png",
+    "title": "SaraMart",
+    "ratings": "3.6",
+    "downloads": "50M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "SaraMart"
+    },
+    {
+      "name": "category",
+      "value": "Shopping"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "SARA MART LIMITED"
+    },
+    {
+      "name": "Version",
+      "value": "2.0.2"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/dP3ohFaDrqDGUFXuaM8J6gjbfWwue49Y3Ypbo_osQZUL9MsNp7VvdWIxRG6gIzeOYV0",
+    "https://play-lh.googleusercontent.com/Y7qSptO3RnlA1cwjK7w_eGFXih-dVbB80VtKHIarLrkt5SjBsn1EGFTjO_h0SHF4RSHV",
+    "https://play-lh.googleusercontent.com/IfUNNlpA13wwLXldcuJ73yINQlOgA5pNKYEevOIXU8byqUVLXA5U1E9BhW9mOdac0Q",
+    "https://play-lh.googleusercontent.com/Y1k2cD2Tqq3UpFwId3g9aGUduRz31XoXE6rVnzI-Gz1A9jCp3vi4BBmIeRfzhf-sUyA",
+    "https://play-lh.googleusercontent.com/Y5aBBQCyTD-sgivq_W1WInhvjYeFK3PZ5bP6k3ASTRqv6fblnjcoD1AemhFCjPmkuQ",
+    "https://play-lh.googleusercontent.com/kh6X2iRigZ1zyNO5PR2865vMNvZeE6nRzoOMjE2Em7NpVX5uaEgwipdGMEWYj8mQ06oK"
+  ],
+  "app_descript": "<h3>Brief</h3>\n<p>Shop to your heart's content with SaraMart, where variety and affordability go hand in hand. SaraMart provides a gigantic collection of over 5 million high-quality products directly from verified sellers. From fashion to electronics and beyond, SaraMart ensures your shopping experience is smooth, with features like free shipping and comprehensive customer support. The platform is consistent about enhancing product quality with each app update, maintaining prices to keep your wallet at ease. Discover a world of super deals and reliable items without leaving your home!</p>\n<h3>Core Features</h3>\n<ul>\n<li>🛍️ Extensive Selection: Dive into a vast array of over 5 million products ranging from clothing, shoes, and cosmetics to electronics and home goods.</li>\n<li>🚚 Free Shipping: Enjoy the benefits of free shipping on a multitude of items, making your shopping experience even more rewarding.</li>\n<li>💰 Competitive Pricing: Experience super low prices across all categories, ensuring you get the best deals possible.</li>\n<li>🛡️ Quality Assurance: Each product on SaraMart has undergone a strict quality inspection, providing you with peace of mind on every purchase.</li>\n<li>🧠 Smart Recommendations: The app learns your shopping preferences and automatically highlights the best products in your favorite categories. </li>\n</ul>\n<h3>Pros</h3>\n<ul>\n<li>👗 Diverse Categories: Whether you're in search of the latest trends or everyday essentials, SaraMart's extensive product range has got you covered.</li>\n<li>💸 Hassle-Free Refunds: Money refunds for purchases assure that your satisfaction is prioritized and your interests protected.</li>\n<li>👩‍💼 Customer Care: Accessible customer support in English is ready to assist you with any queries or concerns you may have.</li>\n<li>📝 Verified Reviews: Benefit from honest reviews and ratings provided by real customers to make informed shopping decisions.</li>\n</ul>\n<h3>Cons</h3>\n<ul>\n<li>👎 Overwhelming Choices: The sheer volume of products might be overwhelming for some users, making it tricky to choose.</li>\n<li>👎 Varying Quality: While the quality is generally high, the variation in seller standards could result in mixed experiences.</li>\n<li>👎 Geographic Limitations: Free shipping and availability of all goods might be restricted geographically.</li>\n<li>👎 Variable Delivery Times: Depending on the item and location, delivery times can vary, potentially leading to long waits.</li>\n</ul>\n<h3>Price</h3>\n<ul>\n<li>💵 Completely Free App: SaraMart is free to download, with a wide range of products at competitive prices. Note there may be in-app purchases or additional costs associated with certain products or services.</li>\n</ul>\n<p>Transform your shopping experience with SaraMart where convenience and selection meet exceptional value. Download the app today and join the millions of satisfied shoppers navigating the bustling aisles of SaraMart's virtual marketplace!</p>\n<p><a href=\"https://play.google.com/store/apps/details?id=com.saramart.android\" rel=\"noopener noreferrer\" target=\"_blank\">Download SaraMart</a></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-seagm-store/54458.html",
+      "icon": "assets/img/apk/icon/com.seagm.store.png",
+      "name": "SEAGM - Games Topup, Gift Card",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-gowish-app/39285.html",
+      "icon": "assets/img/apk/icon/com.gowish.app.png",
+      "name": "GoWish - Your Digital Wishlist",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-aldisued-shopgo/16934.html",
+      "icon": "assets/img/apk/icon/com.aldisued.shopgo.png",
+      "name": "ALDI SHOP&GO",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.2"
+    },
+    {
+      "link": "/details/com-wakefern-shoprite/16933.html",
+      "icon": "assets/img/apk/icon/com.wakefern.shoprite.png",
+      "name": "ShopRite: Groceries & Savings",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-yaxo-vancamper/16894.html",
+      "icon": "assets/img/apk/icon/com.yaxo.vancamper.png",
+      "name": "Vancamper: Buy sell campervans",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/com-elfster-elfdroid/16861.html",
+      "icon": "assets/img/apk/icon/com.elfster.elfdroid.png",
+      "name": "Elfster: The Secret Santa App",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-biggu-shopsavvy/16860.html",
+      "icon": "assets/img/apk/icon/com.biggu.shopsavvy.png",
+      "name": "ShopSavvy - Barcode Scanner",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/moloapps-gifttracker/16845.html",
+      "icon": "assets/img/apk/icon/moloapps.gifttracker.png",
+      "name": "GiftTracker : Gift List Helper",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.1"
+    }
+  ]
+}

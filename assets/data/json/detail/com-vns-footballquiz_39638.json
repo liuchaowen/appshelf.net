@@ -1,0 +1,126 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.vns.footballquiz.png",
+    "title": "Football Quiz",
+    "ratings": "4.5",
+    "downloads": "0M",
+    "age": "4+",
+    "download_link": "https://d.apkpure.com/b/APK/com.vns.footballquiz?version=latest"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Football Quiz"
+    },
+    {
+      "name": "category",
+      "value": "Trivia"
+    },
+    {
+      "name": "Price",
+      "value": "0"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "VnS Game Studio"
+    },
+    {
+      "name": "Version",
+      "value": "6.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/tfiy9jKHVrax5xU9SbN8FG0u1cXOT-5XGc8KecqDH3AkHpRKe5p8MBBjjIdxQOOG05w8uHjLentLXwSOMFz_oQ",
+    "https://play-lh.googleusercontent.com/1MPnMejD6VPtPS6sOtTbRPZPfg0XXfuJ7URGLxEDBOwugX6YaK9p3qb5GKQWm3xHgC8YDcDMvwJhyNz0RSbmDHs",
+    "https://play-lh.googleusercontent.com/3DnyAbsJtuysOjv9FdTSrz8BM16bwPZDsAkeEgxDH7tI77iMFuSrHrQAm0p4pk01Oxz4r7nBivqVM2Xub6BzOg",
+    "https://play-lh.googleusercontent.com/HQh0cgriCt4yacIRZBq-lSaJ2YDy-Y1ArXB_t6uFXoqmvG3LqbOJREMxOYYK1W13pCZdG-4azI3CVaNV13CO",
+    "https://play-lh.googleusercontent.com/D-nY49oZU7nwSKRnUgCIDQoI6trHSWpDm8agL8r_SICxETcXLLRv_q2w1K5XcmEF9lFEoxUgWFLhZm4kf8yPH3A",
+    "https://play-lh.googleusercontent.com/vzYQb_MAVsPfsi-Pm4vUdSOdikPS7ynBlDKozYSo2AdGtG5rOZZt1rzdVeEIP7HcsvIpAuL6vez7k2AhYUCn",
+    "https://play-lh.googleusercontent.com/9RKh3qFndChpQSkfo1L6Fl13adHa_-xQrxlO-jmL-9qupiGz-kgy5uu0mPzum9zEM_wSmqoydb1J4jfOO_r9Tg",
+    "https://play-lh.googleusercontent.com/tfiy9jKHVrax5xU9SbN8FG0u1cXOT-5XGc8KecqDH3AkHpRKe5p8MBBjjIdxQOOG05w8uHjLentLXwSOMFz_oQ",
+    "https://play-lh.googleusercontent.com/1MPnMejD6VPtPS6sOtTbRPZPfg0XXfuJ7URGLxEDBOwugX6YaK9p3qb5GKQWm3xHgC8YDcDMvwJhyNz0RSbmDHs",
+    "https://play-lh.googleusercontent.com/3DnyAbsJtuysOjv9FdTSrz8BM16bwPZDsAkeEgxDH7tI77iMFuSrHrQAm0p4pk01Oxz4r7nBivqVM2Xub6BzOg",
+    "https://play-lh.googleusercontent.com/HQh0cgriCt4yacIRZBq-lSaJ2YDy-Y1ArXB_t6uFXoqmvG3LqbOJREMxOYYK1W13pCZdG-4azI3CVaNV13CO",
+    "https://play-lh.googleusercontent.com/D-nY49oZU7nwSKRnUgCIDQoI6trHSWpDm8agL8r_SICxETcXLLRv_q2w1K5XcmEF9lFEoxUgWFLhZm4kf8yPH3A",
+    "https://play-lh.googleusercontent.com/vzYQb_MAVsPfsi-Pm4vUdSOdikPS7ynBlDKozYSo2AdGtG5rOZZt1rzdVeEIP7HcsvIpAuL6vez7k2AhYUCn",
+    "https://play-lh.googleusercontent.com/9RKh3qFndChpQSkfo1L6Fl13adHa_-xQrxlO-jmL-9qupiGz-kgy5uu0mPzum9zEM_wSmqoydb1J4jfOO_r9Tg",
+    "https://play-lh.googleusercontent.com/tfiy9jKHVrax5xU9SbN8FG0u1cXOT-5XGc8KecqDH3AkHpRKe5p8MBBjjIdxQOOG05w8uHjLentLXwSOMFz_oQ",
+    "https://play-lh.googleusercontent.com/1MPnMejD6VPtPS6sOtTbRPZPfg0XXfuJ7URGLxEDBOwugX6YaK9p3qb5GKQWm3xHgC8YDcDMvwJhyNz0RSbmDHs",
+    "https://play-lh.googleusercontent.com/3DnyAbsJtuysOjv9FdTSrz8BM16bwPZDsAkeEgxDH7tI77iMFuSrHrQAm0p4pk01Oxz4r7nBivqVM2Xub6BzOg",
+    "https://play-lh.googleusercontent.com/HQh0cgriCt4yacIRZBq-lSaJ2YDy-Y1ArXB_t6uFXoqmvG3LqbOJREMxOYYK1W13pCZdG-4azI3CVaNV13CO",
+    "https://play-lh.googleusercontent.com/D-nY49oZU7nwSKRnUgCIDQoI6trHSWpDm8agL8r_SICxETcXLLRv_q2w1K5XcmEF9lFEoxUgWFLhZm4kf8yPH3A",
+    "https://play-lh.googleusercontent.com/vzYQb_MAVsPfsi-Pm4vUdSOdikPS7ynBlDKozYSo2AdGtG5rOZZt1rzdVeEIP7HcsvIpAuL6vez7k2AhYUCn",
+    "https://play-lh.googleusercontent.com/9RKh3qFndChpQSkfo1L6Fl13adHa_-xQrxlO-jmL-9qupiGz-kgy5uu0mPzum9zEM_wSmqoydb1J4jfOO_r9Tg"
+  ],
+  "app_descript": "<h1>Football Quiz App Description</h1>\n<p>Football Quiz is the ultimate trivia game designed explicitly for true football enthusiasts. Whether you're a die-hard fan or a casual observer, this game takes you through a comprehensive journey of the beautiful game, covering everything from club logos to legendary players. </p>\n<h3>📌 Core Features:</h3>\n<ul>\n<li><strong>Diverse Categories</strong>: Explore various areas of football knowledge such as logos, colors, national team emblems, player photos, stadiums, and trophies. ⚽</li>\n<li><strong>VIP Goals Mode</strong>: Challenge yourself by watching iconic goals and guessing the scorers, pushing your football knowledge limits. 🏅</li>\n<li><strong>Championship Mode</strong>: Test your skills in random trivia, featuring a mix of general football questions and exciting lifelines when you're stuck. 🏆</li>\n<li><strong>Scoreboard &amp; Rewards</strong>: Compete on leaderboards and earn daily rewards, unique medals for completing categories, and coins for gameplay. 🎁</li>\n<li><strong>Engaging Gameplay</strong>: Every session is a fresh challenge with randomized questions to keep you entertained and learning. 🎮</li>\n</ul>\n<h3>👍 Pros:</h3>\n<ul>\n<li><strong>Comprehensive Coverage</strong>: It encompasses all major aspects of football, making it suitable for fans of all levels. 🌍</li>\n<li><strong>Challenging and Fun</strong>: The varied categories and gameplay modes offer a challenging, yet enjoyable experience. 🎉</li>\n<li><strong>Interactive Learning</strong>: Players can learn more about football as they play, enriching their knowledge of the sport. 📚</li>\n<li><strong>Social Competition</strong>: The leaderboard promotes friendly competition among friends and other players. 🥇</li>\n<li><strong>Daily Rewards System</strong>: Encourages consistent play with daily rewards and incentives. 💰</li>\n</ul>\n<h3>👎 Cons:</h3>\n<ul>\n<li><strong>Limited Free Content</strong>: The best features may require in-app purchases or a VIP subscription. 🔒</li>\n<li><strong>Ad Interruptions</strong>: Free users may experience ads during gameplay, which can disrupt the flow. 📢</li>\n<li><strong>Steep Learning Curve</strong>: Beginners may find some categories challenging and may need extra time to get acquainted. 🕒</li>\n<li><strong>Dependence on Internet</strong>: The application requires a stable internet connection for optimal performance. 🌐</li>\n<li><strong>Limited Depth</strong>: While extensive, some users might want deeper insights or trivia on niche topics. 🧐</li>\n</ul>\n<h3>💵 Price:</h3>\n<p>The app is free to download with optional in-app purchases for premium features, including the VIP mode for advanced gameplay.</p>\n<h3>🕸️ Community:</h3>\n<ul>\n<li><a href=\"http://www.footballquiz.com\" rel=\"noopener noreferrer\" target=\"_blank\">Official Site</a></li>\n<li><a href=\"https://www.youtube.com/c/footballquiz\" rel=\"noopener noreferrer\" target=\"_blank\">YouTube Channel</a></li>\n<li><a href=\"https://www.youtube.com/c/footballgaming\" rel=\"noopener noreferrer\" target=\"_blank\">Popular YouTuber’s Channel</a></li>\n<li><a href=\"https://www.instagram.com/footballquiz\" rel=\"noopener noreferrer\" target=\"_blank\">Instagram</a></li>\n<li><a href=\"https://twitter.com/footballquiz\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a></li>\n<li><a href=\"https://discord.gg/footballquiz\" rel=\"noopener noreferrer\" target=\"_blank\">Discord</a></li>\n<li><a href=\"https://www.facebook.com/footballquiz\" rel=\"noopener noreferrer\" target=\"_blank\">Facebook</a></li>\n<li><a href=\"https://www.tiktok.com/@footballquiz\" rel=\"noopener noreferrer\" target=\"_blank\">TikTok</a></li>\n<li><a href=\"https://www.reddit.com/r/footballquiz/\" rel=\"noopener noreferrer\" target=\"_blank\">Reddit</a></li>\n<li><a href=\"https://footballquiz.fandom.com\" rel=\"noopener noreferrer\" target=\"_blank\">Fandom Wiki</a> </li>\n</ul>\n<p>Are you ready to shine with your football knowledge? Don’t wait any longer! Download Football Quiz now and dive into the excitement, challenges, and endless fun this football trivia game brings.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-tellmewow-senior-coordination/49076.html",
+      "icon": "assets/img/apk/icon/com.tellmewow.senior.coordination.png",
+      "name": "Train your brain. Coordination",
+      "categoryLink": "/categories/trivia/47",
+      "category": "Trivia",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-vns-footballquiz/39638.html",
+      "icon": "assets/img/apk/icon/com.vns.footballquiz.png",
+      "name": "Football Quiz",
+      "categoryLink": "/categories/trivia/47",
+      "category": "Trivia",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-ultrabot-quizball/39637.html",
+      "icon": "assets/img/apk/icon/com.ultrabot.quizball.png",
+      "name": "QuizBall - Football Quiz",
+      "categoryLink": "/categories/trivia/47",
+      "category": "Trivia",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-JFH-GuessTheFootballTeam/39636.html",
+      "icon": "assets/img/apk/icon/com.JFH.GuessTheFootballTeam.png",
+      "name": "Guess Football Teams Quiz 2026",
+      "categoryLink": "/categories/trivia/47",
+      "category": "Trivia",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-devjobsapps-triviaquiz/39635.html",
+      "icon": "assets/img/apk/icon/com.devjobsapps.triviaquiz.png",
+      "name": "Football Trivia & Soccer Quiz",
+      "categoryLink": "/categories/trivia/47",
+      "category": "Trivia",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-football-quiz-trivia/39634.html",
+      "icon": "assets/img/apk/icon/com.football.quiz.trivia.png",
+      "name": "Football Quiz! Ultimate Trivia",
+      "categoryLink": "/categories/trivia/47",
+      "category": "Trivia",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/com-eogame-app-ballquiz/39633.html",
+      "icon": "assets/img/apk/icon/com.eogame.app.ballquiz.png",
+      "name": "Football trivia! Soccer quiz",
+      "categoryLink": "/categories/trivia/47",
+      "category": "Trivia",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-nflfanquiz-nflfanquiz/39632.html",
+      "icon": "assets/img/apk/icon/com.nflfanquiz.nflfanquiz.png",
+      "name": "Fan Quiz for NFL",
+      "categoryLink": "/categories/trivia/47",
+      "category": "Trivia",
+      "rating": "4.4"
+    }
+  ]
+}

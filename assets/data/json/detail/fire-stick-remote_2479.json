@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/co.vulcanlabs.firestick.png",
+    "title": "Fire Stick Remote",
+    "ratings": "4.5",
+    "downloads": "360M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Fire Stick Remote"
+    },
+    {
+      "name": "category",
+      "value": "Tools"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Vulcan Labs"
+    },
+    {
+      "name": "Version",
+      "value": "varies-by-device"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> Fire Stick Remote</p>\n<p><strong>Brief Overview:</strong>\nThe Fire Stick Remote app transforms your mobile device into a versatile control hub aimed at enhancing your Amazon Fire TV experience. By incorporating functions that go beyond the capabilities of a traditional remote, this app offers a fluid and intuitive interface designed to streamline your media interactions. Whether you're inputting text, mirroring content, or casting your favorite memories onto the big screen, the Fire Stick Remote app keeps convenience at your fingertips.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>📺 <strong>Fully-Functional Interface:</strong> Utilize a comprehensive remote control layout, providing a familiar and easy-to-navigate experience. 🎮</li>\n<li>⌨️ <strong>Integrated Keyboard:</strong> Simplify text entry during searches and app interactions with an accessible keyboard feature. 📱</li>\n<li>🪞 <strong>Screen Mirroring:</strong> Seamlessly display your mobile device’s screen on your Amazon Fire TV for shared viewing and presentations. 🖥️</li>\n<li>🎞️ <strong>High-Definition Casting:</strong> Share photos and videos in stunning quality directly from your device’s gallery onto your Amazon Fire TV. 📤</li>\n<li>🌐 <strong>Direct App Access:</strong> Quickly access your beloved media applications like Prime Video, Netflix, Hulu, and more through the dedicated \"Apps\" tab. 🚀</li>\n<li>🗣️ <strong>Voice-to-Text Search:</strong> Effortlessly find your desired content with voice-to-text commands, adding efficiency to your search process. 🔍</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 <strong>Enhanced Navigation:</strong> The app provides a user-friendly interface that simplifies the way you interact with your Fire TV.</li>\n<li>👍 <strong>Simplified Text Entry:</strong> The keyboard feature eliminates the hassle of selecting one letter at a time with the TV remote.</li>\n<li>👍 <strong>Effortless Content Sharing:</strong> Easily mirror or cast content from your mobile device to your TV, enhancing your viewing experience.</li>\n<li>👍 <strong>Rapid Media Accessibility:</strong> Instantly connect to a wide range of popular streaming services with just a few taps.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 <strong>Compatibility Limitations:</strong> May be limited to compatibility with certain Amazon Fire TV models or specific mobile devices.</li>\n<li>👎 <strong>Network Dependencies:</strong> Screen mirroring and casting rely heavily on the stability and speed of your Wi-Fi connection.</li>\n<li>👎 <strong>Occasional Lag:</strong> Users may experience a delay between their mobile and TV displays during mirroring or casting.</li>\n<li>👎 <strong>Battery Usage:</strong> Extensive use of the app may drain the mobile device's battery more rapidly than desired.</li>\n</ul>\n<p><strong>Pricing:</strong></p>\n<ul>\n<li>💵 The app is typically free to download, with no upfront cost. Check for any in-app purchases or additional features that may require payment. 🆓</li>\n</ul>\n<p>Please note that app availability and functionality are subject to change based on updates or service provider restrictions. Always refer to the latest version and official resources for the most accurate information.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-antique-snap-identifier-appraisal/54309.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.antique.snap.identifier.appraisal.png",
+      "name": "Antique Identifier - Appraisal",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-age-calculator-life-countdown/54243.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.age.calculator.life.countdown.png",
+      "name": "Age Calculator・Life Expectancy",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.4"
+    },
+    {
+      "link": "/details/com-xv-agecalc/54237.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.xv.agecalc.png",
+      "name": "AgeCalc: Date Life Calculator",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-palm-ai-decode-destiny-soul-futurelines-handline/54206.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.palm.ai.decode.destiny.soul.futurelines.handline.png",
+      "name": "Palm AI: Decode Destiny",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/rbx-robuxcalc-getrbx-freecounter/53839.html",
+      "icon": "https://img.buzzsight.co/apk/icon/rbx.robuxcalc.getrbx.freecounter.png",
+      "name": "RBX Calc - Get Robuxcounter",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-internetoptimizer-speedtest-wifispeedtest-netspeed-wifipassword-wifispeed/49027.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.internetoptimizer.speedtest.wifispeedtest.netspeed.wifipassword.wifispeed.png",
+      "name": "Internet Optimizer",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.9"
+    },
+    {
+      "link": "/details/com-blazingappstudio-speed_test_pro/49021.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.blazingappstudio.speed_test_pro.png",
+      "name": "Speed Test - Wifi Optimizer",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-secret-camera-hidden-detector/39728.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.secret.camera.hidden.detector.png",
+      "name": "Hidden Camera & IR Detector",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    }
+  ]
+}

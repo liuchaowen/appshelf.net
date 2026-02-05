@@ -1,0 +1,111 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.asianmobile.smartplayer.png",
+    "title": "IPTV Player: Smarters Watch TV",
+    "ratings": "3.1",
+    "downloads": "312M",
+    "age": "4+",
+    "download_link": "https://d.apkpure.com/b/APK/com.asianmobile.smartplayer?version=latest"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "IPTV Player: Smarters Watch TV"
+    },
+    {
+      "name": "category",
+      "value": "Video Players & Editors"
+    },
+    {
+      "name": "Price",
+      "value": "0"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "TextSoft.Studio"
+    },
+    {
+      "name": "Version",
+      "value": "6.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/QDBrkAP0Qbb_OMRUelZbSN2cTTex5n7i9-Zti8hyaqHwtmITk_HPvl8gueqzJb9CwlxZ",
+    "https://play-lh.googleusercontent.com/NOOx0qKuXR9K_3h5P7i-NuBkWYtHPoXgv97UzPX27UtT853TCt48H7VgVpEe2Kv5VA",
+    "https://play-lh.googleusercontent.com/Io-eInR8LYR4EzXQYPbwocFX8Wz3ZTzV6E2hx9VGF4CwiZi9fArvR75Z_y2HfW1CuXc",
+    "https://play-lh.googleusercontent.com/VZyG8_Z43a96j1IQq3f1IRVWKj9PjmB5py4s7Gr-ybB9TBiA8P0HGKV9on0quHryA7w",
+    "https://play-lh.googleusercontent.com/zkC8rk9qa6tYHTphgT49E7K6X88XVJXHzTi06uWaFhT37_bIZM8obYboxK7rvtQcvA",
+    "https://play-lh.googleusercontent.com/NsM8_4drdSizG0Iofh0Dp6Jl2LOwWqwJ2NG0jPLOB2Mjhgztw5f8mSPdqCGJSkimG3M4"
+  ],
+  "app_descript": "<h1>IPTV Player: Smarters Watch TV</h1>\n<p><strong>IPTV Player: Smarters Watch TV</strong> is an unlimited online media player that offers a seamless entertainment experience—streaming live TV channels, watching sports, following football matches, and diving into an extensive collection of captivating movie series, all from the convenience of your device.</p>\n<h3>📌 Core Features:</h3>\n<ul>\n<li>Effortlessly import and manage playlists using Playlist URLs 🌐</li>\n<li>Easily accessible M3U/M3U8 playlist integration 📋</li>\n<li>Convenient streaming of favorite shows to your TV 📺</li>\n<li>Organize channels, shows, and movies for quick access 👌</li>\n<li>High-definition streaming of live TV channels from your IPTV service 📡</li>\n<li>Multi-device streaming capabilities with a single IPTV account 📱💻</li>\n</ul>\n<h3>👍 Pros:</h3>\n<ul>\n<li>Wide compatibility with phones, tablets, and Android TV devices 📱</li>\n<li>Supports both M3U and M3U8 playlist formats 🔄</li>\n<li>Personalized user experience with a review history of played channels 📚</li>\n<li>Easy navigation for quick channel searching and saving favorites 🌟</li>\n</ul>\n<h3>👎 Cons:</h3>\n<ul>\n<li>Requires you to source your own IPTV playlists 📥</li>\n<li>Limited built-in channel options as it functions solely as a player 🚫</li>\n<li>May encounter performance issues based on the quality of the playlists used ⚠️</li>\n<li>No offline viewing options available 📉</li>\n</ul>\n<h3>💵 Price:</h3>\n<p>This app is <strong>free to download</strong>, but it may include in-app purchases depending on the features used.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-prominent-aicatch/49088.html",
+      "icon": "assets/img/apk/icon/com.prominent.aicatch.png",
+      "name": "AI Catch: AI Video Generator",
+      "categoryLink": "/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-asianmobile-smartplayer/34766.html",
+      "icon": "assets/img/apk/icon/com.asianmobile.smartplayer.png",
+      "name": "IPTV Player: Smarters Watch TV",
+      "categoryLink": "/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "3.1"
+    },
+    {
+      "link": "/details/halloween-video-maker/34753.html",
+      "icon": "assets/img/apk/icon/halloween.video.maker.png",
+      "name": "Halloween Video Editor 2025",
+      "categoryLink": "/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-cupertinotech-aidancevideo/16075.html",
+      "icon": "assets/img/apk/icon/com.cupertinotech.aidancevideo.png",
+      "name": "AI Dance Video - Photo Dance",
+      "categoryLink": "/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "2.4"
+    },
+    {
+      "link": "/details/com-instagram-basel/15556.html",
+      "icon": "assets/img/apk/icon/com.instagram.basel.png",
+      "name": "Edits, an Instagram app",
+      "categoryLink": "/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/downloader-video-download-free/10303.html",
+      "icon": "assets/img/apk/icon/downloader.video.download.free.png",
+      "name": "Video Downloader & Video Saver",
+      "categoryLink": "/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-renderforest-videomaker/10142.html",
+      "icon": "assets/img/apk/icon/com.renderforest.videomaker.png",
+      "name": "Renderforest Video & Animation",
+      "categoryLink": "/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/video-downloader-videodownloader/10138.html",
+      "icon": "assets/img/apk/icon/video.downloader.videodownloader.png",
+      "name": "Video Downloader",
+      "categoryLink": "/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.8"
+    }
+  ]
+}

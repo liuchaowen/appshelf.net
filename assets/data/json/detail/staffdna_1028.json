@@ -1,0 +1,114 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.staffdna.prod.png",
+    "title": "StaffDNA",
+    "ratings": "4",
+    "downloads": "160M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "StaffDNA"
+    },
+    {
+      "name": "category",
+      "value": "Business"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "StaffDNA"
+    },
+    {
+      "name": "Version",
+      "value": "4.2"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/O-ZH8aSXGoLpUlX0Hn4_tYdTBAkjgljyb4O39zPB6SWU-g79d1FOVrv7OoiMpxpypWU",
+    "https://play-lh.googleusercontent.com/kmVzjsXSR19HrHu-7sIZHGNgZnKYY9UgvifDmKcpgDY95rnbdRLX-0nkLp-dQsThQNc",
+    "https://play-lh.googleusercontent.com/VpxGJWkuo87Drui9FGE-L5qYuhWTtlXakXp6s_KBmr-kBwOyV9xbLDnR3zEvVMXn5Q",
+    "https://play-lh.googleusercontent.com/l17vkL_DjKg-slaLz3lQ6EtBPmzYTqopVmW6ENBnfFRG0NSbUuQY1EVWjGxBQ5sYbsvo",
+    "https://play-lh.googleusercontent.com/uUMQtEvDHIrYMLwyTyY2_Q2MJST2-wPeGsiLqaplDttmwLPqcYbxlfIuMSlYURl6Tg",
+    "https://play-lh.googleusercontent.com/6Exs47V61vk2baMsUwmgyVLD3x7Zn5DwCKDPbGj-dfIxOmFBJdukVyb7S0UI5CjFJig",
+    "https://play-lh.googleusercontent.com/MfsPg4uTTvTB7m3fAk-94xRevxLUKhYBl4GqN3osV4i2TqzIJYqiFB5Frs1aCInTqlw",
+    "https://play-lh.googleusercontent.com/SMLehUdCmeWvnZiPZQTa--lCTOs1Q2J8Kwbg-ntTP22qC92as3C3mfNfvRBKtu96Sg",
+    "https://play-lh.googleusercontent.com/FuHxAbYeCxssgTHUd7TTqgqg4DEt2G9PvMFs5veRz0Zv9IhhGN0cwLtvJgLU0JVBJUs",
+    "https://play-lh.googleusercontent.com/f6G7X8oUX4rUAk8VTxh6AB89hKn6_ZLIBGox-PmX74zWAbwAyWctU_L1yBA8EvOzdLE"
+  ],
+  "app_descript": "<h3>Brief</h3>\n<p>StaffDNA is a transformative mobile application designed to empower healthcare professionals by giving them full control of their career management. This evolutionary app makes it convenient to manage one's career on-the-go, optimize income potential, and handle job-related tasks with ease and efficiency—all for free and directly from a mobile device.</p>\n<h3>Core Features 📌</h3>\n<ul>\n<li><strong>Personalized Marketplace</strong>: Access a personalized job marketplace to find the best opportunities that match your skills and preferences.</li>\n<li><strong>1-Click Job Applications</strong>: Create your detailed profile and apply to multiple jobs swiftly with a single click.</li>\n<li><strong>Custom Pay Package Creation</strong>: Take charge of your earnings by constructing your own pay packages to reflect your true worth.</li>\n<li><strong>Easy Compliance Tracking</strong>: Keep tabs on your compliance status and manage necessary documents within the app.</li>\n<li><strong>Timesheet Management</strong>: Submit timesheets seamlessly and request job extensions through the intuitive mobile interface.</li>\n</ul>\n<h3>Pros 👍</h3>\n<ul>\n<li><strong>User Control</strong>: Manage your professional journey anywhere, anytime, right from your mobile device.</li>\n<li><strong>Cost-Free Experience</strong>: Enjoy all the functionalities of the app without any charges.</li>\n<li><strong>Efficiency Booster</strong>: Save time with simplified job applications and administrative tasks.</li>\n<li><strong>Income Optimization</strong>: Maximize your earning potential by customizing your pay packages.</li>\n<li><strong>Centralized Management</strong>: Consolidate your job search and administrative tasks into a single platform.</li>\n</ul>\n<h3>Cons 👎</h3>\n<ul>\n<li><strong>Industry-Specific</strong>: Primarily tailored for healthcare professionals, which may not be suitable for other job seekers.</li>\n<li><strong>Mobile Dependency</strong>: Full functionality demands access to a mobile device, potentially limiting access for desktop-centric users.</li>\n<li><strong>Navigation Learning Curve</strong>: New users may require time to get acquainted with the app's features and navigation.</li>\n<li><strong>Connectivity Requirement</strong>: Effective use of the app necessitates a stable internet connection.</li>\n<li><strong>Marketplace Variability</strong>: Job availability may fluctuate based on geographic location and market demand.</li>\n</ul>\n<h3>Price 💵</h3>\n<p>StaffDNA is free to use for all its users. There may be in-app features that could be introduced in the future which could entail additional costs, but as of now, the app maintains a free-of-charge model.</p>\n<hr/>\n<p><em>Please note that the 'Community' section is not included as StaffDNA is a non-game app.</em></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-kj2147575505-app/16858.html",
+      "icon": "assets/img/apk/icon/com.kj2147575505.app.png",
+      "name": "Alpha Omega Consulting",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-hypertide-petscan-v8m/15982.html",
+      "icon": "assets/img/apk/icon/com.hypertide.petscan.v8m.png",
+      "name": "PetScan",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "2"
+    },
+    {
+      "link": "/details/com-animalid-scanner/15981.html",
+      "icon": "assets/img/apk/icon/com.animalid.scanner.png",
+      "name": "Pet Scanner",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-webrange-sendoff-app/15417.html",
+      "icon": "assets/img/apk/icon/com.webrange.sendoff.app.png",
+      "name": "Sendoff Funeral App",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-dyve-countthings/10295.html",
+      "icon": "assets/img/apk/icon/com.dyve.countthings.png",
+      "name": "CountThings from Photos",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "3"
+    },
+    {
+      "link": "/details/com-countthis-count-things-counting-template-counter/5097.html",
+      "icon": "assets/img/apk/icon/com.countthis.count.things.counting.template.counter.png",
+      "name": "Count This・Counting Things App",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-aadi-personalitytraittest/4991.html",
+      "icon": "assets/img/apk/icon/com.aadi.personalitytraittest.png",
+      "name": "Personality Trait Test",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/GlowRoad/4569.html",
+      "icon": "assets/img/apk/icon/com.localqueen.png",
+      "name": "GlowRoad",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.6"
+    }
+  ]
+}

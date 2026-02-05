@@ -1,0 +1,113 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/appyweather.appyweather.png",
+    "title": "Appy Weather",
+    "ratings": "4.8",
+    "downloads": "440M",
+    "age": "4+",
+    "download_link": "https://d.apkpure.com/b/APK/appyweather.appyweather?version=latest"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Appy Weather"
+    },
+    {
+      "name": "category",
+      "value": "Weather"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Third Culture Apps"
+    },
+    {
+      "name": "Version",
+      "value": "2023.04.03"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/4m4CpwvP-qG1AA_ZHHY0tsHhQdIOANt7qaFjgbdkab4iAj9d0FyX0-gsmBhub-t_5W4",
+    "https://play-lh.googleusercontent.com/vayZQNHfrW4un7NqUYh9F4P_xi-eDoBBj-VLyCPrDIh5Tsz8hZsbmK4ERQd8UHYsPQ",
+    "https://play-lh.googleusercontent.com/KG9J6kYvRXBiT177ZNaTLpkKDykXpFRKin9nCdiYLixUppi8LTYMmx0cH-7qBOa7ICzW",
+    "https://play-lh.googleusercontent.com/3HHUQTDDfbDY88lRcHJ_xGhMUkb9thC77rfA1P2Rc5kMGR6IbWyNrnvBsckhEr3Odow",
+    "https://play-lh.googleusercontent.com/f7QlOU4MpmU6P8ZfrR3zfU0-ou0XIcjsWvU-LZEA4CCcrQqDD0Hujnc8wCll_x488G1w",
+    "https://play-lh.googleusercontent.com/gKSFifhL0KIVJZhGItmxggNeW7N_sGY0U0GbpBIl5ew63PQ_bwuWibx0Eb9SWqEgiT0",
+    "https://play-lh.googleusercontent.com/e-lL11GdWhSpnCKAhct_kjMZD79ivFYSBi7mATQzpT16vTSrssw9gszvHBL7lPEEY28",
+    "https://play-lh.googleusercontent.com/c32vJqUKLcWzxNhJapUhAUMCzOmWzQzeabEQootFGeldmHmJcYc8Fq4p2WXE5Z7ocWE"
+  ],
+  "app_descript": "<p><strong>Appy Weather</strong></p>\n<p><strong>Brief:</strong>\nAppy Weather stands out with its minimalist design and expert endorsements. Developed by award-winning Third Culture Apps, it clinches the title of Google Play's Best of 2019 in “Everyday Essentials.” The app's strength lies in its hyperlocal accurate forecasts, leveraging top sources like AerisWeather, Dark Sky, OpenWeather, and Foreca to deliver a weather app experience that is not only efficient but also user-friendly and aesthetically pleasing.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🌤️ Hyperlocal Forecasting: Utilizes multiple data sources for pinpoint weather accuracy.</li>\n<li>🎨 Award-Winning Design: A minimalist and attractive interface that earned a Google Design award.</li>\n<li>🔄 Various Subscription Tiers: Access to widgets, notifications, maps &amp; premium weather services.</li>\n<li>🔒 Privacy-First Policy: No user data collection or processing, ensuring user privacy is respected.</li>\n<li>📲 Localized Data Storage: Location is stored on-device for enhanced forecast relevance.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 Acclaimed by Industry Experts: Praised by Fast Company, Gizmodo, Google Play, techradar, and TechJunkie.</li>\n<li>👍 User-Centric Interface: Easy-to-navigate and visually appealing.</li>\n<li>👍 Data Integrity: The app takes a strong stance on user privacy, reinforcing trust.</li>\n<li>👍 Enhanced Weather Experience: In-depth weather data for users who opt for subscription services.</li>\n<li>👍 Reliable Notifications &amp; Widgets: Timely updates and rich features for real-time weather updates.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 Subscription for Full Functionality: Premium features are locked behind a paywall.</li>\n<li>👎 Limited to Certain Weather Sources: Reliant on specific services which might not be preferred or available for all users.</li>\n<li>👎 Potentially Invasive Permissions: Requires location access which some users might be hesitant to grant.</li>\n<li>👎 No Mention of Offline Capabilities: Unclear whether it can function without an internet connection.</li>\n<li>👎 Subscription Model Complexity: Multiple tiers could confuse users looking for a simple solution.</li>\n</ul>\n<p><strong>Price:</strong>\n💵 Appy Weather is free to download with tiered subscription options: Plus, Pro, and Lightning Pro, each providing greater functionality such as widgets, notifications, and access to premium weather services. Detailed pricing has not been provided but typically follows a monthly or yearly subscription model.</p>\n<p>(No 'Community' section provided as Appy Weather is a non-game app.)</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-eet-weather-launcher/15703.html",
+      "icon": "assets/img/apk/icon/com.eet.weather.launcher.png",
+      "name": "Weather Now Launcher - Radar",
+      "categoryLink": "/categories/weather/26",
+      "category": "Weather",
+      "rating": "3.6"
+    },
+    {
+      "link": "/details/com-daily-forecast-weather-radar/4930.html",
+      "icon": "assets/img/apk/icon/com.daily.forecast.weather.radar.png",
+      "name": "Daily Forecast: Weather&Radar",
+      "categoryLink": "/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-mahersafadi-sunny/4921.html",
+      "icon": "assets/img/apk/icon/com.mahersafadi.sunny.png",
+      "name": "Sunny: Weather forecast",
+      "categoryLink": "/categories/weather/26",
+      "category": "Weather",
+      "rating": "4"
+    },
+    {
+      "link": "/details/WeatherPal/4628.html",
+      "icon": "assets/img/apk/icon/com.precise.opliging.kitan.png",
+      "name": "WeatherPal",
+      "categoryLink": "/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/live-weather/2063.html",
+      "icon": "assets/img/apk/icon/com.appsinnova.weatherforecast.liveweather.png",
+      "name": "Live Weather",
+      "categoryLink": "/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/radarnow/2062.html",
+      "icon": "assets/img/apk/icon/com.usnaviguide.radar_now.png",
+      "name": "RadarNow!",
+      "categoryLink": "/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/local-weather/2061.html",
+      "icon": "assets/img/apk/icon/com.weather.forecast.channel.local.png",
+      "name": "Local Weather",
+      "categoryLink": "/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/iqair-airvisual/2060.html",
+      "icon": "assets/img/apk/icon/com.airvisual.png",
+      "name": "IQAir AirVisual",
+      "categoryLink": "/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.6"
+    }
+  ]
+}

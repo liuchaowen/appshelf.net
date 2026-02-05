@@ -1,0 +1,110 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.fmproject.lovella.png",
+    "title": "Lovella - Novels & Audiobooks",
+    "ratings": "4.6",
+    "downloads": "24M",
+    "age": "4+",
+    "download_link": "https://d.apkpure.com/b/APK/com.fmproject.lovella?version=latest"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Lovella - Novels & Audiobooks"
+    },
+    {
+      "name": "category",
+      "value": "Books & Reference"
+    },
+    {
+      "name": "Price",
+      "value": "0"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "FMPROJECT LIMITED"
+    },
+    {
+      "name": "Version",
+      "value": "8.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/1tcYdFtwbCWV_ylkLzcDvLrYpMIQsV1p7MLRAb1Y9zpAfAUBHM9AouuJLUQ6oKY7Bg",
+    "https://play-lh.googleusercontent.com/Wz-DRwDpy3ptHb4WSgCI7gYg3mC4uTRRQyndm0zBtEC9S9IX5WCGBDO3SkiFB_Mbu5ls",
+    "https://play-lh.googleusercontent.com/jMoy-Pio1hEhUBlRLMMFNul5MJhtEg20XCaOWqXxc2iEtvtb4oXpjwZ2EwaBf8nLhQ",
+    "https://play-lh.googleusercontent.com/VZ223bBTsd7LbS2gE-QHSJ-M0V_g4GZbnDHtvuQAqSdOwVKbIWiaAS6vd_AnReGb3_Y",
+    "https://play-lh.googleusercontent.com/a6TKTDV3tSm4wvfO0Jbt1Ckd0zeeDeJbXvEwQTPwKDSeCJkwWPGKdn1jtYnlrQ9ijg"
+  ],
+  "app_descript": "<h1>Lovella - Novels &amp; Audiobooks</h1>\n<p>Step into the enchanting world of Lovella, where every story is a new adventure waiting to unfold. This app is your ultimate destination for romantic novels and audiobooks, offering a captivating blend of love, mystery, and adventure to ignite your imagination and steal your heart.</p>\n<h2>📌 Core Features:</h2>\n<ul>\n<li><strong>Endless Library:</strong> Explore a vast catalogue of audiobooks across diverse genres, from passionate romance and thrilling fantasy to intriguing mysteries. 📚</li>\n<li><strong>Flexible Reading and Listening:</strong> Enjoy romance your way by switching effortlessly between immersive reading and engaging audiobooks. 🎧</li>\n<li><strong>Curated Recommendations:</strong> Lovella learns your tastes and offers personalized audiobook suggestions, making discovery easy. 🌟</li>\n<li><strong>Daily Updates:</strong> Stay hooked with fresh content added regularly, ensuring new audiobook chapters and trending titles are always available. 📅</li>\n<li><strong>Exclusive Content:</strong> Access unique titles from top and emerging authors, providing a rich and varied listening experience. 🎤</li>\n</ul>\n<h2>👍 Pros:</h2>\n<ul>\n<li>A wide array of genres to suit every reader’s taste. 🌈</li>\n<li>User-friendly interface that enhances the reading and listening experience. 🖱️</li>\n<li>Personalized recommendations ensure you never run out of great titles to enjoy. 💡</li>\n<li>Regular updates keep the content fresh and exciting. 🔄</li>\n<li>Flexibility in enjoying content, whether reading or listening to audiobooks. 🏞️</li>\n</ul>\n<h2>👎 Cons:</h2>\n<ul>\n<li>Some users may find the library lacking in niche genres. 🚫</li>\n<li>Occasional bugs or performance issues reported by users. 🐞</li>\n<li>In-app purchases may be necessary for accessing certain premium content. 💳</li>\n<li>Limited social features for connecting with other readers. 📉</li>\n<li>Initial app setup may require some time for personalized recommendations to work effectively. ⏳</li>\n</ul>\n<h2>💵 Price:</h2>\n<p>Lovella is free to download with optional in-app purchases to unlock premium content.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-spidevder-manipulation_dark_psychology/34778.html",
+      "icon": "assets/img/apk/icon/com.spidevder.manipulation_dark_psychology.png",
+      "name": "Manipulation dark psychology",
+      "categoryLink": "/categories/books.reference/4",
+      "category": "Books & Reference",
+      "rating": "3.4"
+    },
+    {
+      "link": "/details/com-ardasen-witchcraftspells_wicca/16964.html",
+      "icon": "assets/img/apk/icon/com.ardasen.witchcraftspells_wicca.png",
+      "name": "Witchcraft & Wicca Spells",
+      "categoryLink": "/categories/books.reference/4",
+      "category": "Books & Reference",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-redstone-guide-minecraft/16759.html",
+      "icon": "assets/img/apk/icon/com.redstone.guide.minecraft.png",
+      "name": "Redstone Guide with Tutorials",
+      "categoryLink": "/categories/books.reference/4",
+      "category": "Books & Reference",
+      "rating": "3.4"
+    },
+    {
+      "link": "/details/com-fmproject-lovella/16371.html",
+      "icon": "assets/img/apk/icon/com.fmproject.lovella.png",
+      "name": "Lovella - Novels & Audiobooks",
+      "categoryLink": "/categories/books.reference/4",
+      "category": "Books & Reference",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-jr-cdxs-ereader/16222.html",
+      "icon": "assets/img/apk/icon/com.jr.cdxs.ereader.png",
+      "name": "ReadNow - My CEO Daddy -Novels",
+      "categoryLink": "/categories/books.reference/4",
+      "category": "Books & Reference",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-embria-freefm/16221.html",
+      "icon": "assets/img/apk/icon/com.embria.freefm.png",
+      "name": "WhisperFM - Romance Novels",
+      "categoryLink": "/categories/books.reference/4",
+      "category": "Books & Reference",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-fmproject-moonlit-novels/16186.html",
+      "icon": "assets/img/apk/icon/com.fmproject.moonlit.novels.png",
+      "name": "MoonLit - Werewolf Novels",
+      "categoryLink": "/categories/books.reference/4",
+      "category": "Books & Reference",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-purplerobo-bookoftheanswers/14232.html",
+      "icon": "assets/img/apk/icon/com.purplerobo.bookoftheanswers.png",
+      "name": "The Book of Answers",
+      "categoryLink": "/categories/books.reference/4",
+      "category": "Books & Reference",
+      "rating": "3.7"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.shanejones.neverspoons.png",
+    "title": "Neverspoons",
+    "ratings": "4",
+    "downloads": "40M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Neverspoons"
+    },
+    {
+      "name": "category",
+      "value": "Travel & Local"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Shane Jones"
+    },
+    {
+      "name": "Version",
+      "value": "1.0.4"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/rGqXNdP1t0W03CAxsHvLy207Bjl48ClhBJJMjKwgTCv55S7q-FFz-46b5FWR4PpLe-I",
+    "https://play-lh.googleusercontent.com/N8RE5KugQ3EFTXYZfjrHt8NhQINqxsCgj3I_V1Wd8HBtvrIjIW0sGL6ftlxoaruBcxQ",
+    "https://play-lh.googleusercontent.com/ZY2sg0XWmD_uL_d7eI5mBVruzwK7MAhMDeiU5FQgf1V9RWBwYi-5m9tJTt1i5qjJlHU",
+    "https://play-lh.googleusercontent.com/-kLr_e4TbrfDdqpJb6jI_4t2Gwp6Tv-rtLkOcPtXh9Qq1EyLsSsZnoNoeF7oGnrx4w",
+    "https://play-lh.googleusercontent.com/EW878QzHkH6uCBfk-7Jyrjs5fgIFwuiVEx7zv_Auc3UjUarB7kQGXy9AyUgmnHKScvo",
+    "https://play-lh.googleusercontent.com/upm13H8AX_lrkPAA-wYk1Ziqh6Rr5olHN7lk-lQIt-6A2Y0u4uKFBkBbpq88nETMMg",
+    "https://play-lh.googleusercontent.com/KqfsyqjY2xFsrs1PwRolQzicCHEcfSmRzAqiXbTJ-Q8K_j2dbtuKoTM9zW8nV8wQtNki",
+    "https://play-lh.googleusercontent.com/-GCYo3ZBOszSOAJ8Wz5HJ4iM0ACcJCCPGlIQGPk5dbuhJAlrylfUUejlyuu-oeZUJ1Yw"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> Neverspoons</p>\n<p><strong>Brief:</strong>\nNeverspoons, a cleverly named app, encourages users to venture beyond the usual chain options and dive into the local culinary scene. It is designed to help users discover and support local bars and eateries, tapping into a community that values the unique and small-scale establishments that contribute to the area's character.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🗺️ <strong>Local Discovery:</strong> User-friendly interface to explore local pubs and restaurants nearby.</li>\n<li>🍽️ <strong>Culinary Adventure:</strong> Tailored suggestions to suit individual preferences and dining patterns.</li>\n<li>📊 <strong>Ratings &amp; Reviews:</strong> Access genuine customer feedback to make informed choices.</li>\n<li>📍 <strong>Navigation Integration:</strong> Seamless integration with mapping services for easy location tracking.</li>\n<li>💡 <strong>Regular Updates:</strong> Frequent database refreshes to include the latest and trending local spots.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 <strong>Community Support:</strong> Directs business to small, local establishments that rely on local patronage.</li>\n<li>👍 <strong>Personalized Experience:</strong> Offers alternatives to chain restaurants for a more personal touch.</li>\n<li>👍 <strong>Convenience:</strong> Simple and intuitive navigation makes finding new places easier.</li>\n<li>👍 <strong>Social Impact:</strong> Encourages local economic growth and sustains the hospitality industry.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 <strong>Limited Selection:</strong> May not have as extensive a list as more established apps, depending on the region.</li>\n<li>👎 <strong>Potential Bias:</strong> Smaller sample size of reviews may not fully represent the quality of an establishment.</li>\n<li>👎 <strong>Availability Concerns:</strong> The app may not cover all areas, focusing predominantly on certain locations.</li>\n<li>👎 <strong>Update Dependency:</strong> Requires constant updates to keep the database current and helpful.</li>\n</ul>\n<p><strong>Price:</strong>\n💵 While the app's download may be free, it could contain in-app purchases or advertisements to support its development and maintenance.</p>\n<p><strong>Community:</strong>\nSince the Neverspoons app is not game-related, the community section is not included.</p>\n<hr/>\n<p>Please note that the above description is a comprehensive compilation based on the name and the brief original description you've provided. For precision and updates, it would be necessary to check the app's current offerings and latest user reviews.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-bp-app-bpme-global-ros/16042.html",
+      "icon": "assets/img/apk/icon/com.bp.app.bpme.global.ros.png",
+      "name": "earnify",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/kulana-tools-vacationcountdown/10380.html",
+      "icon": "assets/img/apk/icon/kulana.tools.vacationcountdown.png",
+      "name": "Vacation Countdown App",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-disney-playdisneyparks-goo/4681.html",
+      "icon": "assets/img/apk/icon/com.disney.playdisneyparks.goo.png",
+      "name": "Play Disney Parks",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-hornblower-statuecruises/4679.html",
+      "icon": "assets/img/apk/icon/com.hornblower.statuecruises.png",
+      "name": "Statue Cruises",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-usnpw-grca/4678.html",
+      "icon": "assets/img/apk/icon/com.usnpw.grca.png",
+      "name": "Grand Canyon National Park",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/MakeMyTrip-Hotels-Flight-Bus/4591.html",
+      "icon": "assets/img/apk/icon/com.makemytrip.png",
+      "name": "MakeMyTrip Hotels, Flight, Bus",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/ConfirmTkt/4570.html",
+      "icon": "assets/img/apk/icon/com.confirmtkt.lite.png",
+      "name": "ConfirmTkt",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/Bus-Train-Ticket-Booking-App/4503.html",
+      "icon": "assets/img/apk/icon/in.redbus.android.png",
+      "name": "Bus, Train Ticket Booking App",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.9"
+    }
+  ]
+}

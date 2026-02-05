@@ -1,0 +1,106 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/go-keyboard.png",
+    "title": "GO Keyboard",
+    "ratings": "4.1",
+    "downloads": "570M",
+    "age": "4+",
+    "download_link": "https://d.apkpure.com/b/APK/com.jb.emoji.gokeyboard?version=latest"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "GO Keyboard"
+    },
+    {
+      "name": "category",
+      "value": "Tools"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Best Free Video Editor & Video Maker Dev"
+    },
+    {
+      "name": "Version",
+      "value": "2.76"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>GO Keyboard</strong></p>\n<p><strong>Brief:</strong>\nGO Keyboard is recognized for its superior performance amongst keyboard apps. It revolutionizes typing, ensuring faster, more accurate results. With an array of smiley emojis, stickers, and emoticons, GO Keyboard spices up conversations. Moreover, with a treasure trove of over ten thousand keyboard themes, it sets itself apart as a widely cherished app.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🌈 A plethora of free smiley faces, emojis, stickers, and emoticons to enrich your messaging experience.</li>\n<li>🎨 Access to over 10,000 vibrant themes to customize your keyboard.</li>\n<li>🧠 Smart word correction functionality that transforms your typing efficiency.</li>\n<li>🔠 More than 100 unique fonts to elevate your chatting and typing enjoyment.</li>\n<li>⌨️ Diverse layouts optimized for pad tablets and phones.</li>\n<li>🎤 Incorporates voice input for hands-free typing.</li>\n<li>🌐 Supports multilingual typing, catering to a global user base.</li>\n<li>🔒 Prioritizes privacy and security to safeguard user information.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 Enhances typing speed and accuracy.</li>\n<li>👍 A vast selection of customization options through themes and fonts.</li>\n<li>👍 Offers a wide range of emojis and stickers for expressive communication.</li>\n<li>👍 Smart correction substantially reduces typing errors.</li>\n<li>👍 Multi-device and multilingual support facilitates versatile usage.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 Some users may find the abundance of features overwhelming.</li>\n<li>👎 The variety of themes and emojis might consume considerable device storage.</li>\n<li>👎 Advanced customization options could require in-app purchases.</li>\n<li>👎 Privacy concerns might arise with voice input and correction features.</li>\n<li>👎 Potential for occasional lag on less powerful devices.</li>\n</ul>\n<p><strong>Price:</strong></p>\n<ul>\n<li>💵 GO Keyboard is free to download, with in-app purchases available for additional content and features.</li>\n</ul>\n<p>With its intuitive features and robust customization options, GO Keyboard stands out in the world of keyboard applications. Whether you're looking to swiftly type up messages with accuracy or add a pop of personality to your conversations, GO Keyboard has got you covered on all fronts.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-internetoptimizer-speedtest-wifispeedtest-netspeed-wifipassword-wifispeed/49027.html",
+      "icon": "assets/img/apk/icon/com.internetoptimizer.speedtest.wifispeedtest.netspeed.wifipassword.wifispeed.png",
+      "name": "Internet Optimizer",
+      "categoryLink": "/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.9"
+    },
+    {
+      "link": "/details/com-blazingappstudio-speed_test_pro/49021.html",
+      "icon": "assets/img/apk/icon/com.blazingappstudio.speed_test_pro.png",
+      "name": "Speed Test - Wifi Optimizer",
+      "categoryLink": "/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-secret-camera-hidden-detector/39728.html",
+      "icon": "assets/img/apk/icon/com.secret.camera.hidden.detector.png",
+      "name": "Hidden Camera & IR Detector",
+      "categoryLink": "/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-findmymobile-lostphone-phonetracker/39682.html",
+      "icon": "assets/img/apk/icon/com.findmymobile.lostphone.phonetracker.png",
+      "name": "Anti Theft Alarm–Find my Phone",
+      "categoryLink": "/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/donttouchmyphone-antitheftalarm-iantitheft/39681.html",
+      "icon": "assets/img/apk/icon/donttouchmyphone.antitheftalarm.iantitheft.png",
+      "name": "Anti Theft Phone Alarm",
+      "categoryLink": "/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/download-videobrowser-pic-makerapp/39657.html",
+      "icon": "assets/img/apk/icon/download.videobrowser.pic.makerapp.png",
+      "name": "Fi Film - Movie Track",
+      "categoryLink": "/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.5"
+    },
+    {
+      "link": "/details/com-keeratipong-skineditorminecraft/39591.html",
+      "icon": "assets/img/apk/icon/com.keeratipong.skineditorminecraft.png",
+      "name": "Skin Editor for Minecraft",
+      "categoryLink": "/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-rbxconvert-freerobux-newcalculator/39576.html",
+      "icon": "assets/img/apk/icon/com.rbxconvert.freerobux.newcalculator.png",
+      "name": "RBX Calculator Robox Counter",
+      "categoryLink": "/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.3"
+    }
+  ]
+}

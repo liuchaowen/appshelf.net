@@ -1,0 +1,108 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.crafto.android.png",
+    "title": "Crafto",
+    "ratings": "4.7",
+    "downloads": "920M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Crafto"
+    },
+    {
+      "name": "category",
+      "value": "Art & Design"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Kutumb App"
+    },
+    {
+      "name": "Version",
+      "value": "5.6.2"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/BEtF5YIPXOAKfgDBUTIM9DAX2fHGXb57BcaISEUJOsrIa5LAEfhf2BL9y45AnbH9Ug",
+    "https://play-lh.googleusercontent.com/-PEEa3SW3dbi8DiK0vLKemYJ_c-wmjjF0tsvm00gywSyjl0XmNojVZ8tZUn8DR7mqyFB",
+    "https://play-lh.googleusercontent.com/a4lBfKZtfI1bo5nRTAQaXA3zTgXLB-v6yDLFKAmhsxS41BKk1fGdVAKiIno3FhTpFjA1",
+    "https://play-lh.googleusercontent.com/bktij205aGKhzLNtpaRdTNcmTIvt_LzNlpu8be9SmYQXEHekQitHqmHygEnoa2SEog"
+  ],
+  "app_descript": "<h3>Crafto App Description</h3>\n<p><strong>Brief:</strong>\nCrafto is an app designed to enhance the creative workflows of its users. It offers a suite of features aimed at improving productivity, although it comes with certain limitations. Below is a detailed description to help you understand what Crafto has to offer.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>Comprehensive toolset tailored for creative tasks 🎨</li>\n<li>Interface designed for enhanced user-experience ✔️</li>\n<li>Customizable settings to suit individual user needs 🛠️</li>\n<li>Integration with various platforms for streamlined workflow (with certain limitations) 🔗</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>Designed to boost creative productivity 👍</li>\n<li>Intuitive features once the learning curve is overcome 🧠</li>\n<li>Highly customizable to fit the needs of a variety of creative projects 🎚️</li>\n<li>Potential for workflow optimization through its diverse functionalities ✨</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>Limited Platform Integration: Some tools and platforms may not integrate seamlessly with Crafto, posing a challenge for users who depend on those ecosystems or wish to maintain synchronization with other software 👎</li>\n<li>Learning Curve: Newcomers to Crafto might contend with its robust features, which can take time to master and could temporarily impact workflow efficiency 📚</li>\n<li>Feature Overload: The abundance of features in Crafto might be overwhelming for some users, potentially detracting from the core functionalities that are critical for certain creative pursuits 📉</li>\n</ul>\n<p><strong>Price:</strong>\n💵 For information regarding pricing, including any potential free tier or in-app purchase options, please refer to the official Crafto app landing page or in-app purchase section within the application.</p>\n<p>Crafto is an application that acknowledges the balance between functionality and usability, striving to be as efficient as possible while also recognizing that user acclimation may take time. While some may find the extensive features to be a boon, others may seek a more streamlined experience. Understanding these facets of Crafto will help users determine if it is the right fit for their creative needs.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-hitpaw-ai-art/54504.html",
+      "icon": "assets/img/apk/icon/com.hitpaw.ai.art.png",
+      "name": "AI Art Generator - HitPaw",
+      "categoryLink": "/en/categories/art.design/1",
+      "category": "Art & Design",
+      "rating": "3.2"
+    },
+    {
+      "link": "/details/cartoon-anime-maker-ai-avatar-image-generator-app/54493.html",
+      "icon": "assets/img/apk/icon/cartoon.anime.maker.ai.avatar.image.generator.app.png",
+      "name": "Cartoon Photo Editor ・Toon AI",
+      "categoryLink": "/en/categories/art.design/1",
+      "category": "Art & Design",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-photoediter-aiart-artgenerator/54200.html",
+      "icon": "assets/img/apk/icon/com.photoediter.aiart.artgenerator.png",
+      "name": "Mirei Ai Photo Generator",
+      "categoryLink": "/en/categories/art.design/1",
+      "category": "Art & Design",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/app-artworkout-learn-how-to-draw/54116.html",
+      "icon": "assets/img/apk/icon/app.artworkout.learn.how.to.draw.png",
+      "name": "Learn how to draw - ArtWorkout",
+      "categoryLink": "/en/categories/art.design/1",
+      "category": "Art & Design",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/pvm-festival-photo-editor/39722.html",
+      "icon": "assets/img/apk/icon/pvm.festival.photo.editor.png",
+      "name": "Festival Photo Frame, Editor",
+      "categoryLink": "/en/categories/art.design/1",
+      "category": "Art & Design",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-spinner-finger-draw-art/39677.html",
+      "icon": "assets/img/apk/icon/com.spinner.finger.draw.art.png",
+      "name": "Glow Finger Spinner Art App",
+      "categoryLink": "/en/categories/art.design/1",
+      "category": "Art & Design",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/wassticker-happynewyear2024/39670.html",
+      "icon": "assets/img/apk/icon/wassticker.happynewyear2024.png",
+      "name": "Happy new year stickers 2026",
+      "categoryLink": "/en/categories/art.design/1",
+      "category": "Art & Design",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/jp-note15-christmastree/39428.html",
+      "icon": "assets/img/apk/icon/jp.note15.christmastree.png",
+      "name": "Your Christmas Tree Decoration",
+      "categoryLink": "/en/categories/art.design/1",
+      "category": "Art & Design",
+      "rating": "4.2"
+    }
+  ]
+}

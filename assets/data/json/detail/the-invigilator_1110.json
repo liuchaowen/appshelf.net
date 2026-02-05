@@ -1,0 +1,107 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.matthewriemer.invigilator.png",
+    "title": "The Invigilator",
+    "ratings": "4.9",
+    "downloads": "850M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "The Invigilator"
+    },
+    {
+      "name": "category",
+      "value": "Education"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Back Alley Technology"
+    },
+    {
+      "name": "Version",
+      "value": "1.3.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/jmX6CDFYF6wUI5mIUlNDZNsNnLIV1oN3CPI_fPQVIa3wsoavQmQ2Fb2AJGl9KvFuuEA",
+    "https://play-lh.googleusercontent.com/QHDWmq37-nlKJf7ZA-TvUFlphcT6S_YjolYLky5mo5ilFnb9lON5B-VOrv5nzSAQPw",
+    "https://play-lh.googleusercontent.com/FuXIJWBf93JGuV7KK_pFlxSvly_jd0QmgXAwTnJ8SrJIAZwWfLQoxxxqCtc0mA0tpdY"
+  ],
+  "app_descript": "<h3>Brief Overview:</h3>\n<p>The Invigilator is a robust solution designed to uphold the academic integrity of online assessments. Confronted with the common malpractices in online examinations, such as impersonation and unauthorized help, this app provides a suite of security tools tailored to the needs of educational institutions. It presents an amalgam of features to ensure that exams are conducted fairly, all within a reasonable price point, ensuring widespread accessibility.</p>\n<h3>📌 Core Features:</h3>\n<ul>\n<li><strong>Photo Authentication</strong>: Ensures that the test-taker is the intended participant 📸.</li>\n<li><strong>Speech Recording</strong>: Records audio during the exam to prevent external assistance 🎙️.</li>\n<li><strong>Verification Code</strong>: Adds an extra layer of security before and during the exam 🔑.</li>\n<li><strong>Cross-Platform Compatibility</strong>: Available for use on any mobile device 📱.</li>\n<li><strong>Offline Functionality</strong>: Accessible without a constant internet connection 🌐.</li>\n</ul>\n<h3>👍 Pros:</h3>\n<ul>\n<li><strong>Affordability</strong>: Offers cost-effective solutions for educational institutions 💲.</li>\n<li><strong>Data Efficiency</strong>: The app is optimized to use minimal data, perfect for areas with connectivity issues 📊.</li>\n<li><strong>Power Consumption</strong>: Designed to be battery friendly, minimizing power drain 🔋.</li>\n<li><strong>Monitoring Ease</strong>: Allows for straightforward supervision of the examination process 👁️‍🗨️.</li>\n<li><strong>User-Friendly</strong>: Streamlined for ease of use without compromising on its features 🤝.</li>\n</ul>\n<h3>👎 Cons:</h3>\n<ul>\n<li><strong>Hardware Dependency</strong>: Effective monitoring may require students to have certain hardware capabilities 🖥️.</li>\n<li><strong>Privacy Concerns</strong>: Use of photo and speech recognition might raise privacy issues among users 🛡️.</li>\n<li><strong>Internet Dependency for Initial Download</strong>: Initial app download still requires an internet connection 🌐.</li>\n<li><strong>Potential Technical Issues</strong>: As with any app, users may encounter periodic technical glitches ⚙️.</li>\n<li><strong>Adaptation Curve</strong>: Instructors may need time to adapt to the suite of tools provided 🔄.</li>\n</ul>\n<h3>💵 Price:</h3>\n<p>The Invigilator boasts its services at an affordable cost, although the exact pricing details are not specified. For inquiries related to sales and marketing, educators and institutions can reach out via email to <a href=\"/cdn-cgi/l/email-protection\" rel=\"noopener noreferrer\" target=\"_blank\">sales contact</a>.</p>\n<p>🕸️ Community Info:\nFor this non-game app, the community information is not included.</p>\n<p>Craft your detailed description based on the provided template, ensuring it reflects the app's purpose, highlights its features, and openly discusses its pros and cons for a fair assessment. Always keep the users informed on pricing and contact information for further assistance.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-nibble-lesson/54302.html",
+      "icon": "assets/img/apk/icon/com.nibble.lesson.png",
+      "name": "Nibble: Your Bite of Knowledge",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-matlubapps-myiq/54109.html",
+      "icon": "assets/img/apk/icon/com.matlubapps.myiq.png",
+      "name": "IQ & Personality Tests: IQlab",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-home-lifehealthinsurance/48965.html",
+      "icon": "assets/img/apk/icon/com.home.lifehealthinsurance.png",
+      "name": "Life & Health Insurance Exam",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "3.5"
+    },
+    {
+      "link": "/details/pp-paramedic/48959.html",
+      "icon": "assets/img/apk/icon/pp.paramedic.png",
+      "name": "Paramedic Test Prep 2026",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "3.9"
+    },
+    {
+      "link": "/details/org-truthforlife-app/48953.html",
+      "icon": "assets/img/apk/icon/org.truthforlife.app.png",
+      "name": "Truth For Life",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-habapps-perstest/39344.html",
+      "icon": "assets/img/apk/icon/com.habapps.perstest.png",
+      "name": "The Personality Test",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-schooltoday-alphaomega/39316.html",
+      "icon": "assets/img/apk/icon/com.schooltoday.alphaomega.png",
+      "name": "Alpha & Omega",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-lucida-androidapp/34758.html",
+      "icon": "assets/img/apk/icon/com.lucida.androidapp.png",
+      "name": "Learn Languages - Lucida AI",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "4.6"
+    }
+  ]
+}

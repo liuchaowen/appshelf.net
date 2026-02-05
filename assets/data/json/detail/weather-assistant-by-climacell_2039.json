@@ -1,0 +1,111 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/co.climacell.climacell.png",
+    "title": "Weather Assistant by ClimaCell",
+    "ratings": "4.6",
+    "downloads": "940M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Weather Assistant by ClimaCell"
+    },
+    {
+      "name": "category",
+      "value": "Weather"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "ClimaCell, Inc."
+    },
+    {
+      "name": "Version",
+      "value": "1.12.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/thLlggduCGIJLI96ZcTgok-757cOgQG99UqCN08uSqfT2AymWRtKvpkUeUirwnXq5AU",
+    "https://play-lh.googleusercontent.com/FjOi3iVTnnaCXmGVALI-_gp3Zt-MtP92yI178MTPNhPfCXbByXgTcpoQ9YqPP0bNAA",
+    "https://play-lh.googleusercontent.com/iLXaCw8MFnyxWA6KoOI0vFtTfJCxNPFQRAb98Utb1-FBaPSfzuYT15tx4xrVp2NhtDc",
+    "https://play-lh.googleusercontent.com/_IU2ecZyi1NKb9nqxG6ZyahM4jv6tuyytUkmkB35ehOY_aplTeZa7kHeGXEEqm0faXs",
+    "https://play-lh.googleusercontent.com/eS5tghCiJxeXMNZQa5YigzCxYTcnj5FCXRILa-ZAtSxfxW5OI7sPl1aSCYMI53TUCOw",
+    "https://play-lh.googleusercontent.com/u3HOPN3P8VhBI1yX2REAzmlBI7RscvY78NRrqupqji_mUys8AxtvrSAjKu7MoKTBUI49",
+    "https://play-lh.googleusercontent.com/1gyFvOz2QGTrDw-dCrWLwAwqTcTRXyXHLIjL8wzMyYA3QAp_tSqtlwQM5yKXS8_Vhg"
+  ],
+  "app_descript": "<h3>Weather Assistant by ClimaCell</h3>\n<p><strong>Brief:</strong>\nExperience the future of weather forecasting with the ClimaCell Weather Assistant app. Praised by Mashable for keeping you prepared in bad weather, and recognized by Fortune Magazine for its precision in forecasts down to a city block, this app delivers weather predictions with unprecedented accuracy. Made possible through a fusion of data from connected devices, traditional sources, and cutting-edge modeling, it's designed to provide hyper-accurate, specific forecasts that are deeply relevant to your daily life.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>📌 Hyper-local Forecasts: Get by-the-minute forecasts for your precise location, even as specific as your street, for up to three hours ahead.</li>\n<li>📌 High-Resolution Insights: Benefit from weather analyses at an astounding 500 meters resolution.</li>\n<li>📌 Live Updates: Enjoy a continuously updated forecast every minute to stay informed.</li>\n<li>📌 Severe Weather Alerts: Receive alerts and safety tips from the National Weather Service to stay safe and prepared.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 Advanced Precision: Street-level forecast accuracy ensures you receive the most relevant weather data.</li>\n<li>👍 Real-time Refresh: The forecasts are refreshed every minute, providing you with the latest information.</li>\n<li>👍 User Safety Focus: Severe weather alerts coupled with safety tips help protect you against unpredictable weather conditions.</li>\n<li>👍 Easy to Use Interface: A user-friendly design makes accessing and understanding weather data straightforward.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 Limited Short-Term Forecast: Forecasts are limited to three hours ahead which may not be sufficient for long-term planning.</li>\n<li>👎 Potential for Data Overload: The high level of detail might overwhelm users who prefer simpler weather information.</li>\n<li>👎 Internet Dependency: Accurate, minute-by-minute updates require a stable internet connection.</li>\n<li>👎 Battery Usage: Frequent updates can have a higher impact on battery life.</li>\n</ul>\n<p><strong>Pricing:</strong></p>\n<ul>\n<li>💵 The app is free to download, which provides basic weather forecasting features. Additional in-depth features may require in-app purchases. The costs for these are available within the app.</li>\n</ul>\n<p>Remember to check the <a href=\"https://www.climacell.co/consumer-app-privacy-policy\" rel=\"noopener noreferrer\" target=\"_blank\">Privacy Policy</a> and <a href=\"https://www.climacell.co/consumer-app-agreement\" rel=\"noopener noreferrer\" target=\"_blank\">EULA</a> to understand how your data is managed and your rights when using Weather Assistant by ClimaCell. For any inquiries or feedback related to the service, please reach out to [email protected].</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-eet-weather-launcher/15703.html",
+      "icon": "assets/img/apk/icon/com.eet.weather.launcher.png",
+      "name": "Weather Now Launcher - Radar",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "3.6"
+    },
+    {
+      "link": "/details/com-daily-forecast-weather-radar/4930.html",
+      "icon": "assets/img/apk/icon/com.daily.forecast.weather.radar.png",
+      "name": "Daily Forecast: Weather&Radar",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-mahersafadi-sunny/4921.html",
+      "icon": "assets/img/apk/icon/com.mahersafadi.sunny.png",
+      "name": "Sunny: Weather forecast",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4"
+    },
+    {
+      "link": "/details/WeatherPal/4628.html",
+      "icon": "assets/img/apk/icon/com.precise.opliging.kitan.png",
+      "name": "WeatherPal",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/live-weather/2063.html",
+      "icon": "assets/img/apk/icon/com.appsinnova.weatherforecast.liveweather.png",
+      "name": "Live Weather",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/radarnow/2062.html",
+      "icon": "assets/img/apk/icon/com.usnaviguide.radar_now.png",
+      "name": "RadarNow!",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/local-weather/2061.html",
+      "icon": "assets/img/apk/icon/com.weather.forecast.channel.local.png",
+      "name": "Local Weather",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/iqair-airvisual/2060.html",
+      "icon": "assets/img/apk/icon/com.airvisual.png",
+      "name": "IQAir AirVisual",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.6"
+    }
+  ]
+}

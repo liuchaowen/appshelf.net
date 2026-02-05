@@ -1,0 +1,109 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.ocd.test.png",
+    "title": "OCD Test",
+    "ratings": "4.2",
+    "downloads": "3M",
+    "age": "4+",
+    "download_link": "https://d.apkpure.com/b/APK/com.ocd.test?version=latest"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "OCD Test"
+    },
+    {
+      "name": "category",
+      "value": "Medical"
+    },
+    {
+      "name": "Price",
+      "value": "0"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Inquiry Health LLC"
+    },
+    {
+      "name": "Version",
+      "value": "6.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/BQPNpcHmG-zGJbl5NBke04dKjUlkchU9l8X5w648ujvi0S1u3syZZ1ds_7Mpo5vRMME0",
+    "https://play-lh.googleusercontent.com/x1_y02BBel9uZ5OCvaHGZVs124CcO3QHWvDoZYaGbWMMjsKdqUNjwzhfeMNdeBvBhVU",
+    "https://play-lh.googleusercontent.com/Cnrh-XiepJhimSK3SdxIznnc9Lj1PUYdTuLf_wOzzW1TZhjhNNK40Vy9_OgvX884RA",
+    "https://play-lh.googleusercontent.com/noAbifbi3tySgdExpYNMkdt9QxGTZIYdC6CYYlua0xH-D38EAJCevt3fVndqbz_TQdb2"
+  ],
+  "app_descript": "<h1>OCD Test</h1>\n<p>The OCD Test app is a valuable tool designed for individuals who suspect they may be experiencing symptoms of Obsessive-Compulsive Disorder (OCD). This app employs a scientifically-supported approach by utilizing the Obsessive-Compulsive Inventory - Revised (OCI-R), a well-established screening tool used by healthcare professionals. With a user-friendly interface and essential features, the app assists in assessing and monitoring OCD symptoms effectively.</p>\n<h2>📌 Core Features:</h2>\n<ul>\n<li><strong>Scientific Evaluation</strong>: Complete an 18-question test based on the OCI-R for symptom evaluation. 📝</li>\n<li><strong>Progress Tracking</strong>: Access a history of your test scores to observe changes in your symptoms over time. 📊</li>\n<li><strong>Informative Resources</strong>: Learn about OCD and discover additional tools and resources to aid your recovery journey. 📚</li>\n<li><strong>Custom Reminders</strong>: Set notifications to remind you to retake the questionnaire at your convenience. ⏰</li>\n</ul>\n<h2>👍 Pros:</h2>\n<ul>\n<li><strong>User-Friendly Interface</strong>: The app is designed for ease of use, making it accessible for everyone. 👍</li>\n<li><strong>Evidence-Based</strong>: The OCI-R is a scientifically validated tool, ensuring reliable results. 🔍</li>\n<li><strong>Ongoing Support</strong>: Helps you track your symptoms and stay informed about OCD. 📈</li>\n<li><strong>Convenience</strong>: The reminder feature aids consistent monitoring of symptoms without trouble. 🌟</li>\n</ul>\n<h2>👎 Cons:</h2>\n<ul>\n<li><strong>Not Diagnostic</strong>: The app does not provide a formal diagnosis; consultation with a healthcare professional is recommended for that. ⚠️</li>\n<li><strong>Limited Interaction</strong>: The app primarily focuses on self-assessment and does not offer therapy or counseling. 🛑</li>\n<li><strong>Potential Anxiety</strong>: Users may feel overwhelmed after receiving results if they are experiencing severe symptoms. 😟</li>\n<li><strong>Internet Connection</strong>: Some features may require an internet connection to access additional resources. 🌐</li>\n</ul>\n<h2>💵 Price:</h2>\n<p>The OCD Test app is free to download, but it may offer in-app purchases for additional features or resources.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-stress-test/48991.html",
+      "icon": "assets/img/apk/icon/com.stress.test.png",
+      "name": "Stress Test",
+      "categoryLink": "/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-procrastination-test/39516.html",
+      "icon": "assets/img/apk/icon/com.procrastination.test.png",
+      "name": "Procrastination Test",
+      "categoryLink": "/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-bingeeating-test/39303.html",
+      "icon": "assets/img/apk/icon/com.bingeeating.test.png",
+      "name": "Binge Eating Disorder Test",
+      "categoryLink": "/categories/medical/16",
+      "category": "Medical",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-ocd-test/34780.html",
+      "icon": "assets/img/apk/icon/com.ocd.test.png",
+      "name": "OCD Test",
+      "categoryLink": "/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-healthians-main-healthians/34760.html",
+      "icon": "assets/img/apk/icon/com.healthians.main.healthians.png",
+      "name": "Healthians -Full Body Checkup",
+      "categoryLink": "/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-lbrc-PeriodCalendar/34759.html",
+      "icon": "assets/img/apk/icon/com.lbrc.PeriodCalendar.png",
+      "name": "Period Tracker and Calendar",
+      "categoryLink": "/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/es-jshcd-edadosea/34693.html",
+      "icon": "assets/img/apk/icon/es.jshcd.edadosea.png",
+      "name": "Bone age",
+      "categoryLink": "/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-devdis/16977.html",
+      "icon": "assets/img/apk/icon/com.devdis.png",
+      "name": "Developmental Disabilities",
+      "categoryLink": "/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.5"
+    }
+  ]
+}

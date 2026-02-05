@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/appvn.png",
+    "title": "appvn",
+    "ratings": "4.2",
+    "downloads": "830M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "appvn"
+    },
+    {
+      "name": "category",
+      "value": "Entertainment"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Appvn"
+    },
+    {
+      "name": "Version",
+      "value": "8.1.2"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h3>App Name: Appvn</h3>\n<p><strong>Brief:</strong>\nAppvn is a unique third-party app marketplace that distinguishes itself by offering timely updates for apps and games directly within its platform. This service allows users to access a plethora of paid applications and games free of charge and is designed to cater to both Android and iOS users. With its user-friendly interface and efficient search functionality, Appvn provides an experience that is both seamless and convenient.</p>\n<p><strong>📌 Core Features:</strong></p>\n<ul>\n<li><strong>Cross-Platform Support:</strong> Works with both Android and iOS devices. 🖥️</li>\n<li><strong>Regular Updates:</strong> Offers in-app updates for apps and games, including early releases. 🔄</li>\n<li><strong>Free Premium Content:</strong> Access to paid apps and games without cost. 💰</li>\n<li><strong>Advanced Search Tool:</strong> A powerful search feature to find apps quickly. 🔍</li>\n<li><strong>User-Friendly Design:</strong> An intuitive interface that simplifies navigation. 🌐</li>\n</ul>\n<p><strong>👍 Pros:</strong></p>\n<ul>\n<li><strong>Cost Savings:</strong> Access premium content without needing to pay. 💸</li>\n<li><strong>Discoverability:</strong> Get early access to the latest apps and games. 🎮</li>\n<li><strong>Download Management:</strong> Ability to pause and resume downloads as needed. ⏯️</li>\n<li><strong>Multilingual Support:</strong> Primarily in Vietnamese with an option for English. 🗣️</li>\n<li><strong>Ease of Use:</strong> Simple and straightforward app design. ✅</li>\n</ul>\n<p><strong>👎 Cons:</strong></p>\n<ul>\n<li><strong>Language Barrier:</strong> Default language is Vietnamese, which might require adjustment for some users. 🈳</li>\n<li><strong>Download Glitches:</strong> Instances of downloading the wrong app when selecting the \"download\" button have been reported. 🐛</li>\n</ul>\n<p><strong>💵 Pricing:</strong>\nAppvn is a free app marketplace, offering a vast selection of apps and games at no cost. However, be aware of possible in-app advertisements or sponsored content as potential revenue streams for the platform. 🆓</p>\n<p><strong>Community:</strong></p>\n<ul>\n<li>Official Site: <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Appvn Official</a></li>\n<li>YouTube: <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Appvn YouTube</a></li>\n<li>Facebook: <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Appvn Facebook</a></li>\n</ul>\n<p>Discover a world of enhanced app discoverability with Appvn, where the latest and usually paid content can be yours for free. Embrace the efficient search and update system that keeps your digital life in sync with the cutting-edge.</p>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-moonphaseapps-astro/54410.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.moonphaseapps.astro.png",
+      "name": "AstroBella Astrology & Healing",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.6"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-girlmaker-create-avatar-creator/54356.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.girlmaker.create.avatar.creator.png",
+      "name": "PFP Girl: Avatar Maker",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-photocrop-challengefilter/54321.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.photocrop.challengefilter.png",
+      "name": "Photo Crop Challenge Filter",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-photo-cropfilter-challenge/54315.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.photo.cropfilter.challenge.png",
+      "name": "Photo Crop Challenge Video",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/vyten-colormatrix/54297.html",
+      "icon": "https://img.buzzsight.co/apk/icon/vyten.colormatrix.png",
+      "name": "The Personality Color Matrix",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-truelove-tester-love/54289.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.truelove.tester.love.png",
+      "name": "True Love Tester",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-lifeexpectancycalculator/54231.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.lifeexpectancycalculator.png",
+      "name": "Life Expectancy Calculator",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-insect-filters-funny-prank-bug-filter-face-camera/54212.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.insect.filters.funny.prank.bug.filter.face.camera.png",
+      "name": "Bugzz: Insect Prank Filters",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4"
+    }
+  ]
+}

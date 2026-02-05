@@ -1,0 +1,109 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/org.torproject.torbrowser_alpha.png",
+    "title": "Tor Browser Alpha",
+    "ratings": "4.5",
+    "downloads": "560M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Tor Browser Alpha"
+    },
+    {
+      "name": "category",
+      "value": "Communication"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "The Tor Project"
+    },
+    {
+      "name": "Version",
+      "value": "102.2.1-Beta__12.0a4_"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/fQjb7IAAHjmjslKtWc8IQG-ZSxi1V1ooPmaXi84V-zAY7LVp-olE2HH88AxslKfitq8",
+    "https://play-lh.googleusercontent.com/ackzl1i_Aj_tW9F56MRe-WUTXJbt4hu9dzUV7gMS23_kNbOMJOkchvISuP-CauQVHDU",
+    "https://play-lh.googleusercontent.com/o3G-REbTCRDzlUUo8R2Q2Pxw0pfr7e-EsRyIR0nD6957bryZOAYf-V-YKLBo7yxRTcg",
+    "https://play-lh.googleusercontent.com/jhx2b1GmASGWqkR3UJtbz6dBJEWQ8em35AzpNS41DMjaI3qd5hVFhTiWZK_raM4rc1U",
+    "https://play-lh.googleusercontent.com/_0KR3MYs8vWNUQWtqrArH2dvISEe-pkoV0cgOOsWqSNplypWXDVq28SwCGC54DKWqsXT"
+  ],
+  "app_descript": "<p><strong>Tor Browser Alpha</strong></p>\n<p><strong>Brief:</strong>\nTor Browser Alpha is an avant-garde mobile browser designed for those who prioritize privacy and freedom on the internet. It's built with robust security features to isolate and protect your online activity from prying eyes and unwanted tracking.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li><strong>Block Trackers 🛑</strong>: Ensures that each website you visit does not track you by isolating them and clearing cookies automatically after your session.</li>\n<li><strong>Defend Against Surveillance 👁️‍🗨️</strong>: Keeps your web activity private, preventing onlookers from discerning the websites you visit—displaying only your use of Tor.</li>\n<li><strong>Multi-Layered Encryption 🔐</strong>: Equips a three-tiered encryption system as your data traverses through the volunteer-run Tor network, providing fortified security.</li>\n<li><strong>Search Freely 🔍</strong>: Grants access to websites that may be restricted by local ISPs, thus broadening your browsing horizon without censorship.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li><strong>Enhanced Privacy 🤐</strong>: Offers superior privacy features to secure personal data and browsing habits from trackers and advertisers.</li>\n<li><strong>Advanced Security 🔒</strong>: Utilizes the renowned Tor network's encryption to shield your internet activities from surveillance and interception.</li>\n<li><strong>Unrestricted Access 🌍</strong>: Enables browsing of geo-blocked or locally restricted sites, supporting freedom of information access.</li>\n<li><strong>User-Friendly Interface 👌</strong>: Despite its advanced backend, the user interface remains clean and accessible for routine use.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li><strong>Alpha Version ⚙️</strong>: Being an alpha release means the app may contain more bugs and be less stable than finalized versions.</li>\n<li><strong>Slower Speed 🐢</strong>: Due to its encryption processes and relay systems, browsing speeds can be slower compared to standard browsers.</li>\n<li><strong>Learning Curve 📚</strong>: Newer users may face a learning curve understanding and utilizing advanced privacy features.</li>\n<li><strong>Variable Network Reliability 📶</strong>: Reliance on volunteer-run servers can sometimes lead to inconsistent network speeds and reliability.</li>\n</ul>\n<p><strong>Price:</strong>\n💵 The Tor Browser Alpha is a free-to-use application, promoting an accessible tool for privacy-focused internet browsing.</p>\n<p><strong>Community:</strong>\nThere is no specific community information provided for Tor Browser Alpha. Since this is not a game app, a detailed community section is not included.</p>\n<p>The answer to a commonly asked query: Tor Browser Alpha is entirely legal; it is a powerful tool designed to respect and protect user identity and activities online.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-sst-parrot-photo-frame/53901.html",
+      "icon": "assets/img/apk/icon/com.sst.parrot.photo.frame.png",
+      "name": "Bird Photo Frame",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-new_year-stickers-birthday/39669.html",
+      "icon": "assets/img/apk/icon/com.new_year.stickers.birthday.png",
+      "name": "Happy New Year Stickers 2026",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/org-watchduty-app/14524.html",
+      "icon": "assets/img/apk/icon/org.watchduty.app.png",
+      "name": "Watch Duty (Wildfire)",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-snowcorp-stickerly-android/14453.html",
+      "icon": "assets/img/apk/icon/com.snowcorp.stickerly.android.png",
+      "name": "Sticker.ly - Sticker Maker",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-Happynewyearphotoframe2020/14421.html",
+      "icon": "assets/img/apk/icon/com.Happynewyearphotoframe2020.png",
+      "name": "New Year Video Maker 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-intira-new-year-photo-frame-new/14342.html",
+      "icon": "assets/img/apk/icon/com.intira.new.year.photo.frame.new.png",
+      "name": "New year photo frame 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-christmas-photo-frame-b-new-free/14203.html",
+      "icon": "assets/img/apk/icon/com.christmas.photo.frame.b.new.free.png",
+      "name": "Christmas photo frame 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/ma-apps-face_ml/14137.html",
+      "icon": "assets/img/apk/icon/ma.apps.face_ml.png",
+      "name": "Face reader scanner - analyser",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "3.3"
+    }
+  ]
+}

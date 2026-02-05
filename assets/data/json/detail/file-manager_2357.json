@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/file-manager.png",
+    "title": "File Manager",
+    "ratings": "4.9",
+    "downloads": "940M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "File Manager"
+    },
+    {
+      "name": "category",
+      "value": "Tools"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Cheetah Mobile"
+    },
+    {
+      "name": "Version",
+      "value": "2.7.4"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h3>File Manager App Description</h3>\n<h4>Brief:</h4>\n<p>File Manager is an efficient and user-friendly tool designed to boost your productivity when handling files. Whether you're working with local storage or various remote file systems, this app streamlines the process, ensuring that you can view, play, and manage files with ease. Its compatibility with numerous cloud services and file protocols makes it an essential asset for anyone juggling multiple storage platforms.</p>\n<h4>Core Features:</h4>\n<ul>\n<li>🌐 <strong>Broad Protocol Support:</strong> Seamlessly access and manage your files across FTP, FTPS, SFTP, and WebDAV formats. 🖥️</li>\n<li>📡 <strong>Cloud Compatibility:</strong> Integrate and work with popular cloud services like Box, Dropbox, Google Drive, and others to centralize your file management. ☁️</li>\n<li>🚀 <strong>Direct File Interaction:</strong> Open and play files from various protocols directly without the need to download them first, enabling quick and efficient work. 🎬</li>\n<li>🖼️ <strong>Image Previews:</strong> Get miniature previews of your photographs, making it easier to locate and manage your visual content. 📷</li>\n<li>📱 <strong>APK Management:</strong> Conveniently move APK files from installed applications to manage your device's software with more control. 🗂️</li>\n</ul>\n<h4>Pros:</h4>\n<ul>\n<li>👍 <strong>User-Friendly Interface:</strong> Enjoy a simple and intuitive UI that facilitates effortless navigation and file management. 🌟</li>\n<li>👍 <strong>Multiple Account Support:</strong> Set up accounts for different services within the app, streamlining your file activities across platforms. 🔄</li>\n<li>👍 <strong>Enhanced Productivity:</strong> With the ability to handle files without downloading, you save on both time and storage. ⏳</li>\n<li>👍 <strong>Versatile Usage:</strong> Offers comprehensive tools that cater to both amateur and professional users alike. 🛠️</li>\n</ul>\n<h4>Cons:</h4>\n<ul>\n<li>👎 <strong>Learning Curve:</strong> New users may need some time to fully understand how to utilize all the app's features to their advantage. 📚</li>\n<li>👎 <strong>Performance Varies:</strong> Depending on the device and network, the app's performance might fluctuate, which can affect file transfer speeds. 📶</li>\n<li>👎 <strong>Third-party Service Dependencies:</strong> To harness the full potential of the app, users are reliant on third-party cloud and file transfer services. 🔗</li>\n<li>👎 <strong>Interface Aesthetics:</strong> Some users might find the visual design lacking in modern aesthetic appeal compared to competitors. 🎨</li>\n</ul>\n<h4>Price:</h4>\n<p>💵 File Manager is free to download and use, however details regarding in-app purchases are not provided and should be verified within the app or its storefront listing.</p>\n<h4>Community:</h4>\n<p>The community section does not apply as File Manager is a non-game app. </p>\n<hr/>\n<p>Enjoy an enhanced file management experience with File Manager's significant features available for download now.</p>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-antique-snap-identifier-appraisal/54309.html",
+      "icon": "assets/img/apk/icon/com.antique.snap.identifier.appraisal.png",
+      "name": "Antique Identifier - Appraisal",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-age-calculator-life-countdown/54243.html",
+      "icon": "assets/img/apk/icon/com.age.calculator.life.countdown.png",
+      "name": "Age Calculator・Life Expectancy",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-xv-agecalc/54237.html",
+      "icon": "assets/img/apk/icon/com.xv.agecalc.png",
+      "name": "AgeCalc: Date Life Calculator",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-palm-ai-decode-destiny-soul-futurelines-handline/54206.html",
+      "icon": "assets/img/apk/icon/com.palm.ai.decode.destiny.soul.futurelines.handline.png",
+      "name": "Palm AI: Decode Destiny",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/rbx-robuxcalc-getrbx-freecounter/53839.html",
+      "icon": "assets/img/apk/icon/rbx.robuxcalc.getrbx.freecounter.png",
+      "name": "RBX Calc - Get Robuxcounter",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-internetoptimizer-speedtest-wifispeedtest-netspeed-wifipassword-wifispeed/49027.html",
+      "icon": "assets/img/apk/icon/com.internetoptimizer.speedtest.wifispeedtest.netspeed.wifipassword.wifispeed.png",
+      "name": "Internet Optimizer",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.9"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-blazingappstudio-speed_test_pro/49021.html",
+      "icon": "assets/img/apk/icon/com.blazingappstudio.speed_test_pro.png",
+      "name": "Speed Test - Wifi Optimizer",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-secret-camera-hidden-detector/39728.html",
+      "icon": "assets/img/apk/icon/com.secret.camera.hidden.detector.png",
+      "name": "Hidden Camera & IR Detector",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    }
+  ]
+}

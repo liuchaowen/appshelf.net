@@ -1,0 +1,128 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/sniper-fury.png",
+    "title": "Sniper Fury",
+    "ratings": "4.3",
+    "downloads": "360M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Sniper Fury"
+    },
+    {
+      "name": "category",
+      "value": "Action"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Gameloft SE"
+    },
+    {
+      "name": "Version",
+      "value": "1.1.0g"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/nqKFCXQbE-B5RlHMBwlXVBROq43P_02-AaJ3UFecGM5fnoMeGBlS4uXUoQCbWJKA96c",
+    "https://play-lh.googleusercontent.com/RfbDRXRD_rEhKy7T5yYFNBfpTzbRVTZKQDVhdB-Z62Bx_E4AoWIYYkRcSmY2vBlENpg",
+    "https://play-lh.googleusercontent.com/m6mPeS3n5r30ZNu6o3RpvSyJMBWcCHQJHqtKH5bgz-jiBeldSAyx5FHogAvFNAsjfzY",
+    "https://play-lh.googleusercontent.com/DgwveS8ByCUWoNIV6ZIwNRQDJ41T5z7EK413s_e_81mqsnx2COou2noKwpuhVucD7yE",
+    "https://play-lh.googleusercontent.com/5UXwuojjTQpwcp0giL5RucqPQ1gRMqJu0HIV2FY0VuNQvsC_-nrOuwF4QgB69Nr2zQ",
+    "https://play-lh.googleusercontent.com/QPgB9cChgLv4Pr4ZI0F5YBq-JRaRwIlWg9SsIGJ3iHbW3dPUFgqF7fLLsUyBBSeHJ7Sa",
+    "https://play-lh.googleusercontent.com/d8sI2ovgcfTIwbVNU0JdsW4057KhQzocpszKwgdGg8wui0j5bae0llmp30rBKLuxBQ",
+    "https://play-lh.googleusercontent.com/YTAXtm_kPPkVX4A4A1SkfPZvEv4KZouM3MFHa-j_BEl4xoLAzmoFn_SgWB-I82Ulm54",
+    "https://play-lh.googleusercontent.com/C2ZObRdqG3HDRt1NRL2wALzlBYbR_BKLr8ZhV11wVTz6Koh_Mv0j8e4aFi7HpGKv3uQG",
+    "https://play-lh.googleusercontent.com/Eyls8muUj_yobJVC2dLdJSBARchee9rhTZTn5O01chhd3EpcgkpRRfQ6O2fYDj_BoNU",
+    "https://play-lh.googleusercontent.com/gHTzqloIm3shId75gDgrafvw9VoXql9ku-3tn1l1uGVLUzzxG4mu_9IzUsv8pQCJ0O8",
+    "https://play-lh.googleusercontent.com/nW6ojnLSiATYvU5L0LQAAN3KwqqoN1tJgcuA_7CHHCErTBzkqvUx-SVeImXsLQ73oTg",
+    "https://play-lh.googleusercontent.com/CF-H_S6tUK6trG0Opk1QK21EHRWASOwoTWRKq4cpRhM_ukM-k2MNc5A1ctYlGVpsig",
+    "https://play-lh.googleusercontent.com/Qa-ue-ectYwus3lxTLUJJNugiYGa_G5kntDpTMEQ4q6Ep5t5uUudHRiOHD79AmNotBs",
+    "https://play-lh.googleusercontent.com/pDA_IJLS9IpkBP_haDmZh1CLFP9C2xlna7buwe0wgqDNnFozIJs1RIZlE12j_geOF5s",
+    "https://play-lh.googleusercontent.com/LCznU_jp4E1XYkWVlyoYk3JabdL5voWJv1MNK6jybxFro-PPkZTZgcK1dq7OwZa7jA",
+    "https://play-lh.googleusercontent.com/2IEOG18ToLGGYlPXKvQx-qQ0B5zb5c0owUuaLJl4d27HdYkQ8LVHKxRBQpPBmjlcn4I",
+    "https://play-lh.googleusercontent.com/MZ4WAnifYz4hnUenR4QfEXMbBtqLbNV_Y4Ow-kYKMCSQbYnirXwoBTMbrASpuNEe5A",
+    "https://play-lh.googleusercontent.com/9UvjXoFUtgBqHm7AIDxlWLdRIiyflxrr8ivaqG2fIEEdynvwg4q1B5AExdcJP67RJUs",
+    "https://play-lh.googleusercontent.com/O_wVmtSbc9Lh2qh_MJt-iOUHKa0vcVgazcfkCbcqBOCdJSYn0aLeBT2GKt9yYHwQJKSA",
+    "https://play-lh.googleusercontent.com/sTjz32VjMEukUUPZ41S9pg-4NIx42scHK2YDpcGlUdkjlBi0-Sof00nWhJ90Sv_rqQ",
+    "https://play-lh.googleusercontent.com/S173YUkjqg7GXZVkwoWJqLGSAOroT6JFiDY2ZoiU9lF9nnI7D3IdoMqX-ilhaoh5og",
+    "https://play-lh.googleusercontent.com/49jKFHIoHBo4yKAbWEthu0BKWIEAX4wfW7gcSqtqZ4wofJbrI969W7uX5dhos_wZh8OG",
+    "https://play-lh.googleusercontent.com/0CwAl90-xMsq6kkRmwElsEHx29Mh5wjIYrQNS-ePmbr_Br9W7ZCHPKAH8P9xSRWPt8Q"
+  ],
+  "app_descript": "<h2>Sniper Fury</h2>\n<h3>Brief</h3>\n<p>Embark on a sharpshooting adventure with \"Sniper Fury\", a game that promises to deliver engaging sniper experiences with stunning visual effects and a vast array of missions. As a top-tier sniper, dive into the heat of battle with sophisticated armament and face a multitude of challenges that test your precision and strategic skills.</p>\n<h3>Core Features</h3>\n<ul>\n<li>🎯 <strong>Immersive 3D Graphics</strong>: Engage with breathtaking urban and exotic landscapes, feeling the intensity of the battlefield with Next-gen “bullet time\" effects and cinematic environments. ⭐</li>\n<li>🔫 <strong>Extensive Arsenal of Weapons</strong>: Access an impressive collection of assault rifles, sniper rifles, and top-secret weaponry, all customizable to enhance their destructive power. 🛠️</li>\n<li>🤼 <strong>Competitive Multiplayer</strong>: Dive into intense PvP multiplayer battles, where triumph means seizing your enemies' resources, but remember that defense is just as critical as offense. 🛡️</li>\n<li>🏅 <strong>Diverse Challenges &amp; Events</strong>: Each enemy brings unique challenges, keeping you on the edge with varied equipment and power levels, plus regular events offering generous resources and rewards. 🎁</li>\n</ul>\n<h3>Pros</h3>\n<ul>\n<li>👁️ <strong>Realistic Visual Effects</strong>: Experience genuinely awe-inspiring bullet time effects and environmental details that pull you right into the action. 👍</li>\n<li>🎢 <strong>Over 130 Missions</strong>: Never run out of targets or objectives with a continuous flow of missions, each offering a new dimension of gameplay. 🎯</li>\n<li>🔧 <strong>Customization Options</strong>: Tailor your weapons with unique power-ups and abilities, crafting your strategic edge on the battlefield. 🛠️</li>\n<li>🌎 <strong>Global PvP Leaderboards</strong>: Stand a chance to climb the ranks and showcase your sniping prowess against players from around the world. 🏆</li>\n</ul>\n<h3>Cons</h3>\n<ul>\n<li>🔄 <strong>Potential for Repetition</strong>: Some players may find the continuous sniper action to become repetitive over time. 🔁</li>\n<li>🚸 <strong>Learning Curve</strong>: Newcomers to sniper games might face initial challenges with navigation and mastering controls. 🎮</li>\n<li>⏲️ <strong>Time Investment</strong>: The game's depth and scale might require a significant time commitment to progress substantially. ⌛</li>\n<li>💽 <strong>Storage Requirements</strong>: High-quality graphics and extensive content can be demanding on device storage. 📦</li>\n</ul>\n<h3>Price</h3>\n<ul>\n<li>💵 Sniper Fury is free to download and play, but it offers in-app purchases for players looking to enhance their gaming experience. The pricing details are available within the app. 💰</li>\n</ul>\n<h3>Community</h3>\n<ul>\n<li>🕸️ <strong>Official Site</strong>: <a href=\"https://www.gameloft.com/en/game/sniper-fury\" rel=\"noopener noreferrer\" target=\"_blank\">Sniper Fury Official Website</a> </li>\n<li>📺 <strong>YouTube Channel</strong>: <a href=\"https://www.youtube.com/user/gameloft\" rel=\"noopener noreferrer\" target=\"_blank\">Official Gameloft YouTube Channel</a></li>\n<li>📱 <strong>Discord</strong>: <a href=\"https://discord.com/invite/sniperfury\" rel=\"noopener noreferrer\" target=\"_blank\">Sniper Fury Discord Community</a></li>\n<li>📘 <strong>Facebook</strong>: <a href=\"https://www.facebook.com/SniperFuryGame\" rel=\"noopener noreferrer\" target=\"_blank\">Sniper Fury Official Facebook Page</a></li>\n<li>🐦 <strong>Twitter</strong>: <a href=\"https://twitter.com/sniperfury\" rel=\"noopener noreferrer\" target=\"_blank\">Sniper Fury Official Twitter</a></li>\n<li>🎞️ <strong>Instagram</strong>: <a href=\"https://www.instagram.com/sniperfury/\" rel=\"noopener noreferrer\" target=\"_blank\">Official Sniper Fury Instagram</a></li>\n<li>📚 <strong>Reddit</strong>: <a href=\"https://www.reddit.com/r/sniperfury/\" rel=\"noopener noreferrer\" target=\"_blank\">Sniper Fury Subreddit</a></li>\n<li>🎥 <strong>Popular YouTuber's Channel</strong>: Channels featuring Sniper Fury can be found during YouTube searches as there's no single dedicated popular channel noted.</li>\n<li>📖 <strong>Fandom Wiki</strong>: A dedicated Sniper Fury wiki page may be located through an internet search for community-driven game guides and tips.</li>\n</ul>\n<p>Try your hand at \"Sniper Fury\" and join a community of dedicated snipers aiming for the top. Whether you're in for the visual effects or the competitive play, this game offers thrilling action at every turn. Download now and take your place among the world's deadliest marksmen!</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-clickteam-ultimatecustomnight/54248.html",
+      "icon": "assets/img/apk/icon/com.clickteam.ultimatecustomnight.png",
+      "name": "Ultimate Custom Night",
+      "categoryLink": "/en/categories/action/33",
+      "category": "Action",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-beyondgames-superherohandrun/54057.html",
+      "icon": "assets/img/apk/icon/com.beyondgames.superherohandrun.png",
+      "name": "Superhero Hand Run",
+      "categoryLink": "/en/categories/action/33",
+      "category": "Action",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-monster-park-horror-survival/53723.html",
+      "icon": "assets/img/apk/icon/com.monster.park.horror.survival.png",
+      "name": "Monster Park Horror Games",
+      "categoryLink": "/en/categories/action/33",
+      "category": "Action",
+      "rating": "3.2"
+    },
+    {
+      "link": "/details/jp-co-dwango-HcgDW007SandwichRun/48985.html",
+      "icon": "assets/img/apk/icon/jp.co.dwango.HcgDW007SandwichRun.png",
+      "name": "Sandwich Runner",
+      "categoryLink": "/en/categories/action/33",
+      "category": "Action",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-eg-mimicry-horror-online/39685.html",
+      "icon": "assets/img/apk/icon/com.eg.mimicry.horror.online.png",
+      "name": "Mimicry: Online Horror Action",
+      "categoryLink": "/en/categories/action/33",
+      "category": "Action",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-spiderherofighter-spiderman/39571.html",
+      "icon": "assets/img/apk/icon/com.spiderherofighter.spiderman.png",
+      "name": "Spider Man 3",
+      "categoryLink": "/en/categories/action/33",
+      "category": "Action",
+      "rating": "3.4"
+    },
+    {
+      "link": "/details/com-rockstargames-gtasa/39510.html",
+      "icon": "assets/img/apk/icon/com.rockstargames.gtasa.png",
+      "name": "Grand Theft Auto: San Andreas",
+      "categoryLink": "/en/categories/action/33",
+      "category": "Action",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-sega-sonicrumble/39382.html",
+      "icon": "assets/img/apk/icon/com.sega.sonicrumble.png",
+      "name": "Sonic Rumble",
+      "categoryLink": "/en/categories/action/33",
+      "category": "Action",
+      "rating": "4.5"
+    }
+  ]
+}

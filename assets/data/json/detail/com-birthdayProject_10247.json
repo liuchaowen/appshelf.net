@@ -1,0 +1,109 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.birthdayProject.png",
+    "title": "Its My Birthday!",
+    "ratings": "3.7",
+    "downloads": "0M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Its My Birthday!"
+    },
+    {
+      "name": "category",
+      "value": "Productivity"
+    },
+    {
+      "name": "Price",
+      "value": "0"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Phannafestllc"
+    },
+    {
+      "name": "Version",
+      "value": "6.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/-R2uSmf4QVqUeyzt2ztTCSlFkoFwOlLyUqIG-apr3fpqUiLMKVBsPCpuh_WGQr5CLA",
+    "https://play-lh.googleusercontent.com/pWMN0PWoOfkntuoiqFJaIIPTlM-WsdOrUz0g0cwyjP0llmDPjiLG3G5Y8trDCoAsqOk",
+    "https://play-lh.googleusercontent.com/BWaI3jGQdNZu7AmDp1zytaUtguQkAw5bF3Ac2O4-FAYlc9NnLHBpVt0EISPumquCQ2FJ",
+    "https://play-lh.googleusercontent.com/lQHwEtiekQS2vR0sTDSX6Ik4_h7L9tNLJyv6KoCnAmMVaBDykTewoXBD_qrms3LbWtI",
+    "https://play-lh.googleusercontent.com/Qj15AZ4WB4X3V6zTpWd2miXmycpQC0izLIVj05LPEypsgVd56_XcjDXRHre3kqD05A"
+  ],
+  "app_descript": "<h1>Its My Birthday!</h1>\n<h2>Brief</h2>\n<p>Celebrate your special day in style with <strong>It's My Birthday!</strong> - the ultimate app designed to help you discover free gifts near you while ensuring you never miss another birthday of your loved ones. With a user-friendly interface, this app simplifies birthday management and gift-giving, allowing you to focus on the fun!</p>\n<h2>📌 Core Features</h2>\n<ul>\n<li><strong>Find Free Gifts Nearby:</strong> Discover local businesses offering complimentary gifts on your birthday. 🎁</li>\n<li><strong>Contact Management:</strong> Save notes about your contacts’ interests to help with gift-giving. 📝</li>\n<li><strong>Age Tracking:</strong> Instantly see how old your friends and family are turning this year. 🎂</li>\n<li><strong>Default Reminders:</strong> Set up reminders that apply to all contacts so you never forget a birthday. ⏰</li>\n<li><strong>Seamless Syncing:</strong> Sync birthday notes and gift information across all your devices effortlessly. 🔄</li>\n</ul>\n<h2>👍 Pros</h2>\n<ul>\n<li><strong>Convenient Birthday Tracking:</strong> Never forget a loved one's birthday again. 🎈</li>\n<li><strong>Gift Discovery:</strong> Find unique free gifts in your local area on your special day. 🎊</li>\n<li><strong>User-Friendly Interface:</strong> Simple design makes it easy to navigate and use. 🖥️</li>\n<li><strong>Comprehensive Contacts View:</strong> Easily view all relevant information about your contacts. 👀</li>\n<li><strong>Automatic Imports:</strong> Automatically import birthdays from your device’s Contacts app. 📲</li>\n</ul>\n<h2>👎 Cons</h2>\n<ul>\n<li><strong>Limited Availability:</strong> Free gifts may only be available from local businesses, potentially limiting options. 🚫</li>\n<li><strong>Notifications:</strong> Users may find reminder notifications overwhelming if not managed properly. 🔔</li>\n<li><strong>Dependence on Location:</strong> The effectiveness of gift finding is highly location-dependent. 🌍</li>\n<li><strong>In-App Purchases:</strong> While the app is free, certain features or gifts may incur additional costs. 💸</li>\n</ul>\n<h2>💵 Price</h2>\n<p>It's My Birthday! is free to download, with optional in-app purchases available for premium features.</p>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-takeofflabs-fontmaker/54188.html",
+      "icon": "assets/img/apk/icon/com.takeofflabs.fontmaker.png",
+      "name": "Fontmaker - Font Keyboard App",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.2"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-game-console-emulator/39577.html",
+      "icon": "assets/img/apk/icon/com.game.console.emulator.png",
+      "name": "Gamu: Retro Game Hub",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.3"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/app-itwingtech-power_of_mind-predicator/39340.html",
+      "icon": "assets/img/apk/icon/app.itwingtech.power_of_mind.predicator.png",
+      "name": "Mind Test: Test My Brain",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-pdfreader-pdfeditor-scandocu-pro-app-amb/16953.html",
+      "icon": "assets/img/apk/icon/com.pdfreader.pdfeditor.scandocu.pro.app.amb.png",
+      "name": "PDFPro: Scanner & Editor",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "3.8"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/ai-perplexity-app-android/16744.html",
+      "icon": "assets/img/apk/icon/ai.perplexity.app.android.png",
+      "name": "Perplexity - Ask Anything",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-safeshellvpn/16639.html",
+      "icon": "assets/img/apk/icon/com.safeshellvpn.png",
+      "name": "SafeShell VPN: Fast & Secure",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-roblox-skin-cloth-freeskins/16603.html",
+      "icon": "assets/img/apk/icon/com.roblox.skin.cloth.freeskins.png",
+      "name": "Clothes Skin For Roblox",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-underthing-focus-friend/16526.html",
+      "icon": "assets/img/apk/icon/com.underthing.focus.friend.png",
+      "name": "Focus Friend by Hank Green",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.7"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/nytvr.png",
+    "title": "NYT VR",
+    "ratings": "4.7",
+    "downloads": "510M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "NYT VR"
+    },
+    {
+      "name": "category",
+      "value": "News & Magazines"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "The New York Times Company"
+    },
+    {
+      "name": "Version",
+      "value": "1.1"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>NYT VR</strong></p>\n<p><strong>Brief:</strong>\nNYT VR, developed by The New York Times, offers an unparalleled experience of immersive journalism. This VR app allows users to stand shoulder-to-shoulder with individuals in distant lands and different circumstances, providing a powerful connection to stories from around the world. Here's a deeper dive into the app's offering.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🌐 <strong>Immersive Storytelling:</strong> Immerse yourself in compelling narratives by standing alongside individuals in their unique environments.</li>\n<li>🏃 <strong>Interactive Exploration:</strong> Engage actively with the surroundings in each story, fostering a profound understanding of various perspectives.</li>\n<li>🎤 <strong>Provoking Discussions:</strong> Use the app as a starting point for in-depth discussions, enabling a critical examination of global issues.</li>\n<li>🌍 <strong>Global Empathy:</strong> Gain insights into the lives of people far removed from your own experience, developing empathy and awareness. 🧡</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👁️ <strong>Deep Emotional Connection:</strong> The VR experience facilitates an emotional connection with the subjects, providing a visceral understanding of their lives.</li>\n<li>🤝 <strong>Promotes Empathy:</strong> Encourages users to step into the shoes of others, promoting empathy and comprehension of diverse life situations.</li>\n<li>💬 <strong>Educational Tool:</strong> Serves as a powerful educational resource to provoke discussion and reflection on global events and cultures.</li>\n<li>😌 <strong>User-Friendly Navigation:</strong> Designed for ease of use, ideally with a swivel chair to enhance the 360-degree VR experience without physical constraints. 🪑</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>📍 <strong>Limited Movement:</strong> Recommended to use while seated to avoid accidents, which may restrict full physical engagement with the VR environment.</li>\n<li>🕶️ <strong>VR Accessibility:</strong> Good VR experience requires compatible hardware, which may not be readily available to all users.</li>\n<li>🌐 <strong>Internet Dependency:</strong> High-quality streaming of VR content may require a stable and fast internet connection.</li>\n<li>🏡 <strong>Space Constraints:</strong> Requires a safe space free from obstacles to enjoy the full range of motion, which might not be feasible for everyone. 🔳</li>\n</ul>\n<p><strong>Price:</strong></p>\n<ul>\n<li>💵 The NYT VR app is available for free. The app may include optional content or features that could be subject to in-app purchases. Pricing details for such content have not been specified.</li>\n</ul>\n<p>Feel free to embark on a transformative journey with NYT VR and explore the world like never before.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-app-foapp/15418.html",
+      "icon": "assets/img/apk/icon/com.app.foapp.png",
+      "name": "The Obituary App",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-globalnews-android-novanews/5116.html",
+      "icon": "assets/img/apk/icon/com.globalnews.android.novanews.png",
+      "name": "Global News - Breaking & Local",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/Hindi-News-by-Dainik-Bhaskar/4635.html",
+      "icon": "assets/img/apk/icon/com.ak.ta.dainikbhaskar.activity.png",
+      "name": "Hindi News by Dainik Bhaskar",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/Way2News-News-updates-Election/4625.html",
+      "icon": "assets/img/apk/icon/sun.way2sms.hyd.com.png",
+      "name": "Way2News News updates Election",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/Hindi-News/4507.html",
+      "icon": "assets/img/apk/icon/in.AajTak.headlines.png",
+      "name": "Hindi News",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/TVA-Nouvelles/4479.html",
+      "icon": "assets/img/apk/icon/com.nurun.lcn.png",
+      "name": "TVA Nouvelles",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/uol/3121.html",
+      "icon": "assets/img/apk/icon/br.uol.noticias.png",
+      "name": "UOL",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/local-news/3120.html",
+      "icon": "assets/img/apk/icon/com.opera.app.news.local.png",
+      "name": "Local News",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.5"
+    }
+  ]
+}

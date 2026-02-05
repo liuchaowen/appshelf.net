@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.wholikesyou.gas.png",
+    "title": "GAS",
+    "ratings": "4.9",
+    "downloads": "960M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "GAS"
+    },
+    {
+      "name": "category",
+      "value": "Books & Reference"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Melon Mods"
+    },
+    {
+      "name": "Version",
+      "value": "1.0.1"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> GAS<br/>\n<strong>App Package Name:</strong> com.wholikesyou.gas</p>\n<h3>Brief</h3>\n<p>GAS is an engrossing trivia app designed for everyone who relishes testing their general knowledge and deepening their bond with partners or friends. With an emphasis on couple-friendly content, GAS promises to be more than your average quiz app. It features a multitude of questions that are exclusive to the app, with the aim to educate, entertain, and alleviate stress.</p>\n<h3>Core Features 📌</h3>\n<ul>\n<li><strong>Mr and Mrs Style Quiz</strong>: Designed with couples in mind, offering a selection of questions perfect for date nights or newlywed game sessions.</li>\n<li><strong>Brain Training General Knowledge</strong>: Diverse and unique questions that challenge and enhance your knowledge.</li>\n<li><strong>Unlimited Trivia</strong>: A seemingly endless trove of exclusive questions that promises fresh entertainment with every game.</li>\n<li><strong>Language Accessibility</strong>: Support for the most-spoken languages, with an open invitation for user feedback to expand language options.</li>\n<li><strong>Rewards System</strong>: Ability to earn coins for correct answers that can be traded for hints on trickier questions.</li>\n</ul>\n<h3>Pros 👍</h3>\n<ul>\n<li><strong>Specifically Tailored for Couples</strong>: Strengthening bonds through entertaining and educational content.</li>\n<li><strong>Solo Play Convenience</strong>: Play anytime without the need to wait for other participants.</li>\n<li><strong>Stress Relief</strong>: Designed to provide a relaxing escape from daily life.</li>\n<li><strong>Achievement and League System</strong>: Collect various achievements and compete in a league of smart, like-minded players.</li>\n<li><strong>Language Inclusivity</strong>: Can be enjoyed in multiple languages with opportunities for community-driven translation suggestions.</li>\n</ul>\n<h3>Cons 👎</h3>\n<ul>\n<li><strong>In-App Purchases</strong>: Might require spending real money for additional hints for challenging questions.</li>\n<li><strong>Internet Connection Dependency</strong>: Requires a stable internet connection to access the full range of trivia questions.</li>\n<li><strong>Potentially Limited Content for Singles</strong>: While versatile, the app's focus on couples might not appeal to single players.</li>\n<li><strong>Localized Content</strong>: The content might not be equally relevant or enjoyable for all international players.</li>\n<li><strong>Device Compatibility</strong>: May not run as smoothly on older devices due to potential compatibility issues.</li>\n</ul>\n<h3>Price 💵</h3>\n<p>GAS is a free-to-install app, with the option of in-app purchases utilized for acquiring additional hints for tough questions.</p>\n<p>Unfortunately, based on the knowledge up to my last update, there are no community-related details available as the app seems to be non-game focused and the input doesn't stipulate the inclusion of a community section.</p>\n<p>With its easy accessibility and engaging content, GAS stands out as a promising app for both enhancing general knowledge and providing quality entertainment for couples and friends alike. Whether you're looking to intensify your trivia prowess or just seeking a relaxed and brainy pastime, GAS appears ready to fuel your quizzical desires.</p>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-spidevder-manipulation_dark_psychology/34778.html",
+      "icon": "assets/img/apk/icon/com.spidevder.manipulation_dark_psychology.png",
+      "name": "Manipulation dark psychology",
+      "categoryLink": "/en/categories/books.reference/4",
+      "category": "Books & Reference",
+      "rating": "3.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-ardasen-witchcraftspells_wicca/16964.html",
+      "icon": "assets/img/apk/icon/com.ardasen.witchcraftspells_wicca.png",
+      "name": "Witchcraft & Wicca Spells",
+      "categoryLink": "/en/categories/books.reference/4",
+      "category": "Books & Reference",
+      "rating": "4.7"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-redstone-guide-minecraft/16759.html",
+      "icon": "assets/img/apk/icon/com.redstone.guide.minecraft.png",
+      "name": "Redstone Guide with Tutorials",
+      "categoryLink": "/en/categories/books.reference/4",
+      "category": "Books & Reference",
+      "rating": "3.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-fmproject-lovella/16371.html",
+      "icon": "assets/img/apk/icon/com.fmproject.lovella.png",
+      "name": "Lovella - Novels & Audiobooks",
+      "categoryLink": "/en/categories/books.reference/4",
+      "category": "Books & Reference",
+      "rating": "4.7"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-jr-cdxs-ereader/16222.html",
+      "icon": "assets/img/apk/icon/com.jr.cdxs.ereader.png",
+      "name": "ReadNow - My CEO Daddy -Novels",
+      "categoryLink": "/en/categories/books.reference/4",
+      "category": "Books & Reference",
+      "rating": "4.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-embria-freefm/16221.html",
+      "icon": "assets/img/apk/icon/com.embria.freefm.png",
+      "name": "WhisperFM - Romance Novels",
+      "categoryLink": "/en/categories/books.reference/4",
+      "category": "Books & Reference",
+      "rating": "4.6"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-fmproject-moonlit-novels/16186.html",
+      "icon": "assets/img/apk/icon/com.fmproject.moonlit.novels.png",
+      "name": "MoonLit - Werewolf Novels",
+      "categoryLink": "/en/categories/books.reference/4",
+      "category": "Books & Reference",
+      "rating": "4.7"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-purplerobo-bookoftheanswers/14232.html",
+      "icon": "assets/img/apk/icon/com.purplerobo.bookoftheanswers.png",
+      "name": "The Book of Answers",
+      "categoryLink": "/en/categories/books.reference/4",
+      "category": "Books & Reference",
+      "rating": "3.7"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.microsoft.office.onenote.png",
+    "title": "Microsoft OneNote: Save Ideas and Organize Notes",
+    "ratings": "4.2",
+    "downloads": "100M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Microsoft OneNote: Save Ideas and Organize Notes"
+    },
+    {
+      "name": "category",
+      "value": "Productivity"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Microsoft Corporation"
+    },
+    {
+      "name": "Version",
+      "value": "16.0.14827.20142"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/iCLkxjtMBLNH-qp_ICIeUeUFszvwkuTLUWWW2yRk4gsvGrEjsZrjerDHHMaUdmytDRA8",
+    "https://play-lh.googleusercontent.com/3-MAlAwnKc3sA7WsMGO9BsyPrmZYjLEwQmlqZ34tJug0WoRW2JaDmscIKvuJySp_ow",
+    "https://play-lh.googleusercontent.com/Hi53O6gLMiDb18QRXLhMm7fxnuTIsUktZAuDhEb8Jo1oTxbxbJsvz33m4PBhfGxjhe0",
+    "https://play-lh.googleusercontent.com/oZIBXRK7WQ9r72GXW-eKg-qlcWzHffSBIzm72Ewf2M5HceBkwMLpCwlOUkktfd8U1dM",
+    "https://play-lh.googleusercontent.com/YhZS8K0SoxJYq_2V6UGt-ShMRvwv6lbWKwLdiYKdaZytIMx5mel0viaIL3xWExjLj9Y",
+    "https://play-lh.googleusercontent.com/VUXdvp1owveuHVRuE4y5IoStggapGDDWsxvODhrPYIlHkLdH-8xXmpCAKxKvUytdXw",
+    "https://play-lh.googleusercontent.com/sEtuYewXUm7GCqdd33nb5LjmhXYktcJ2UI7G905bdmR5P2AcusOgJk5KBrqixaiFb1A"
+  ],
+  "app_descript": "<p><strong>Microsoft OneNote: Save Ideas and Organize Notes</strong></p>\n<p><strong>Brief:</strong>\nMicrosoft OneNote is a versatile digital notebook app that allows for the seamless creation, organization, and collaboration of notes across multiple devices. Whether planning an event, capturing a burst of inspiration, or keeping track of important tasks, OneNote provides a flexible platform to jot down notes, sketch ideas, and consolidate your information in one accessible place.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>📝 Note-Taking Flexibility: Write, draw, and clip from the web directly in your digital notebook.</li>\n<li>🌐 Cross-Device Syncing: Access your notes on any device, any time, with everything kept in sync.</li>\n<li>📑 Document Scanning: Easily scan documents and business cards into your notes.</li>\n<li>🖊️ Custom Organization: Organize your notes with sections, pages, and various labels for optimal structuring.</li>\n<li>🤝 Real-Time Collaboration: Share your notes and work together with others on the same content simultaneously.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 Digital Binder: Transforms the traditional 3-ring binder experience into a digital format.</li>\n<li>👍 Integration with Office Apps: Works seamlessly with Excel, Word, and other Microsoft Office applications.</li>\n<li>👍 Search Capability: Quickly find the information you need within your notes using a powerful search function.</li>\n<li>👍 Notepad Badge: Offers on-screen note-taking convenience to capture ideas at any moment.</li>\n<li>👍 Sticky Notes: Useful for creating quick memos that are easy to access.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 Requires Microsoft Account: Use of OneNote necessitates a free Microsoft account.</li>\n<li>👎 Compatibility: Opens notebooks created in Microsoft OneNote 2010 format or later, which might limit access to older files.</li>\n<li>👎 Privacy &amp; Data Concerns: Data may be processed and stored in various locations, as per Microsoft or third-party publishers.</li>\n<li>👎 Internet Dependence: Syncing notes across devices requires an internet connection, which can be a limitation for offline access.</li>\n<li>👎 Platform Specifics: Designed for Android OS 5.0 or later, which may exclude users on older devices.</li>\n</ul>\n<p><strong>Pricing:</strong></p>\n<ul>\n<li>💵 Free to Use: OneNote is free to download and use, with a Microsoft account.</li>\n<li>💵 In-App Purchases: Features linked to the broader Office suite may require a subscription or additional purchase.</li>\n</ul>\n<p><a href=\"http://aka.ms/OnenoteAndroidFAQ\" rel=\"noopener noreferrer\" target=\"_blank\">Microsoft OneNote Frequently Asked Questions</a></p>\n<p><a href=\"https://support.office.com/legal?llcc=en-us&amp;aid=OneNoteForAndroidLicenseTerms.htm\" rel=\"noopener noreferrer\" target=\"_blank\">OneNote for Android License Terms</a></p>\n<p><a href=\"https://privacy.microsoft.com/en-us/privacystatement\" rel=\"noopener noreferrer\" target=\"_blank\">Microsoft Privacy Statement</a></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-takeofflabs-fontmaker/54188.html",
+      "icon": "assets/img/apk/icon/com.takeofflabs.fontmaker.png",
+      "name": "Fontmaker - Font Keyboard App",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-game-console-emulator/39577.html",
+      "icon": "assets/img/apk/icon/com.game.console.emulator.png",
+      "name": "Gamu: Retro Game Hub",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/app-itwingtech-power_of_mind-predicator/39340.html",
+      "icon": "assets/img/apk/icon/app.itwingtech.power_of_mind.predicator.png",
+      "name": "Mind Test: Test My Brain",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-pdfreader-pdfeditor-scandocu-pro-app-amb/16953.html",
+      "icon": "assets/img/apk/icon/com.pdfreader.pdfeditor.scandocu.pro.app.amb.png",
+      "name": "PDFPro: Scanner & Editor",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "3.8"
+    },
+    {
+      "link": "/details/ai-perplexity-app-android/16744.html",
+      "icon": "assets/img/apk/icon/ai.perplexity.app.android.png",
+      "name": "Perplexity - Ask Anything",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-safeshellvpn/16639.html",
+      "icon": "assets/img/apk/icon/com.safeshellvpn.png",
+      "name": "SafeShell VPN: Fast & Secure",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-roblox-skin-cloth-freeskins/16603.html",
+      "icon": "assets/img/apk/icon/com.roblox.skin.cloth.freeskins.png",
+      "name": "Clothes Skin For Roblox",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-underthing-focus-friend/16526.html",
+      "icon": "assets/img/apk/icon/com.underthing.focus.friend.png",
+      "name": "Focus Friend by Hank Green",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.7"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/epic.mychart.android.png",
+    "title": "MyChart",
+    "ratings": "4.6",
+    "downloads": "790M",
+    "age": "4+",
+    "download_link": "https://d.apkpure.com/b/APK/epic.mychart.android?version=latest"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "MyChart"
+    },
+    {
+      "name": "category",
+      "value": "Medical"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Epic Systems Corporation"
+    },
+    {
+      "name": "Version",
+      "value": "10.6.2"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/lH042OzDfMZNvc4m6UgiZZaE0s9SZXNssWivHIzbeAa4gHRtzuFf2ybXgWbEo21efw",
+    "https://play-lh.googleusercontent.com/6NMuht0y6IajQ59YmznOBelWwL-pLLY6cxeBCAn0wI5f32hXfLgaAXeGKNkDiz81Vg0",
+    "https://play-lh.googleusercontent.com/fTCYkDfsUqMnOR5CtOAPFS-C9P6z-GWI65iQv9cB6LSBaHYSY2eGJBJIEipbQnyCKqM",
+    "https://play-lh.googleusercontent.com/U-St8pP15X4vtmIT9NP3eqyku3pbaPYuJ_jREKB3-4-gttAb27ma5T0ug6ggBWptfA",
+    "https://play-lh.googleusercontent.com/eTKKEnZKBpwdS5TQv33IgIMG_EKAm0FrrM_U6ZtBusbKndzH83ZmSy0HR_SLEphLQgg",
+    "https://play-lh.googleusercontent.com/3nA-49uTAqJwZBzOpnfur8XI3A6dL1tG-TypfjKEgBOsOQgH5uGfuAemIZds4iBjcA",
+    "https://play-lh.googleusercontent.com/Cc22ro402Zoc5hOf2TBRAZVb5PACF9lXCuq_lNRipmlR6CHzeRbY3YEql50TK-0Fpk4",
+    "https://play-lh.googleusercontent.com/o7VnlQGVeYCTqceTDM-I9AwyznC9XbIpccBikFfv1j11b5MfXvxXaRANepmxMUP0pJk",
+    "https://play-lh.googleusercontent.com/8MORyjV1PYhiR_KNW_Q_paM34cEyaO9t3goD-Bt-Giq5CVmJ2Eii7IR8GpYAW3-h",
+    "https://play-lh.googleusercontent.com/i1TYn5O3AWVQQu_56G45AA_dZQRs3UCuiypiX6dKsw5L7yffOQ3Jv8cxVVi159hktZw"
+  ],
+  "app_descript": "<h1>MyChart: Your Gateway to Personalized Health Management</h1>\n<h3>Brief</h3>\n<p>MyChart offers a seamless pathway to manage your healthcare at your fingertips. As the chill of winter approaches and flu season emerges, MyChart emerges as your ally in health management by allowing you to schedule your flu shot directly through the app. Stay connected to your healthcare provider, quickly access vital health information, and manage payments with the latest innovations like Google Pay and Apple Pay integration.</p>\n<h3>Core Features 🎯</h3>\n<ul>\n<li><strong>Vaccination Scheduling</strong>: Book your flu shots with ease as winter approaches. 📆</li>\n<li><strong>One-Stop Health Info</strong>: All your personal health information organized in one place. 📋</li>\n<li><strong>Care Team Connectivity</strong>: Communicate effortlessly with your healthcare providers. 📞</li>\n<li><strong>Prompt Medical Access</strong>: Obtain the care you need promptly and without hassle. ⚕️</li>\n<li><strong>Family Health Management</strong>: Take charge of your loved ones' health from your account. 👨‍👩‍👧</li>\n</ul>\n<h3>Pros 👍</h3>\n<ul>\n<li><strong>Convenient Health Tracking</strong>: Keep track of appointments, vaccinations, and medical records in one app. 🗓️</li>\n<li><strong>Communication Made Simple</strong>: Easy messaging and updates from your care team. ✉️</li>\n<li><strong>Secure Payments</strong>: Utilize Google Pay and Apple Pay for secure medical transactions. 💳</li>\n<li><strong>User-Friendly Interface</strong>: Streamlined design that makes navigation and usage straightforward. 🖥️</li>\n<li><strong>Accessibility</strong>: Features like non-login access to COVID-19 information prioritize user convenience. 🌐</li>\n</ul>\n<h3>Cons 👎</h3>\n<ul>\n<li><strong>Variable Functionality</strong>: Features depend on your healthcare organization’s adoption of the latest Epic software. ⚙️</li>\n<li><strong>Compatibility Issues</strong>: Not all users may be able to access the new payment options immediately. 📲</li>\n<li><strong>Age Restriction</strong>: Must be at least 18 years old to create a MyChart account. 🔞</li>\n<li><strong>Local Service Variations</strong>: The available services may differ based on your local healthcare organization. 🏥</li>\n<li><strong>Account Setup Required</strong>: A MyChart account set-up process is necessary to use all features. 📝</li>\n</ul>\n<h3>Price 💵</h3>\n<p>MyChart is a free app, though some services offered through the app may come with associated fees from your healthcare organization.</p>\n<p>Enjoy a streamlined health management experience with MyChart. Stay up-to-date with your health, interact with your care team, and ensure your family's well-being is taken care of, all within the palm of your hand.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-stress-test/48991.html",
+      "icon": "assets/img/apk/icon/com.stress.test.png",
+      "name": "Stress Test",
+      "categoryLink": "/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-procrastination-test/39516.html",
+      "icon": "assets/img/apk/icon/com.procrastination.test.png",
+      "name": "Procrastination Test",
+      "categoryLink": "/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-bingeeating-test/39303.html",
+      "icon": "assets/img/apk/icon/com.bingeeating.test.png",
+      "name": "Binge Eating Disorder Test",
+      "categoryLink": "/categories/medical/16",
+      "category": "Medical",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-ocd-test/34780.html",
+      "icon": "assets/img/apk/icon/com.ocd.test.png",
+      "name": "OCD Test",
+      "categoryLink": "/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-healthians-main-healthians/34760.html",
+      "icon": "assets/img/apk/icon/com.healthians.main.healthians.png",
+      "name": "Healthians -Full Body Checkup",
+      "categoryLink": "/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-lbrc-PeriodCalendar/34759.html",
+      "icon": "assets/img/apk/icon/com.lbrc.PeriodCalendar.png",
+      "name": "Period Tracker and Calendar",
+      "categoryLink": "/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/es-jshcd-edadosea/34693.html",
+      "icon": "assets/img/apk/icon/es.jshcd.edadosea.png",
+      "name": "Bone age",
+      "categoryLink": "/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-devdis/16977.html",
+      "icon": "assets/img/apk/icon/com.devdis.png",
+      "name": "Developmental Disabilities",
+      "categoryLink": "/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.5"
+    }
+  ]
+}

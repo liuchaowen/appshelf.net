@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/com.jet2.app.png",
+    "title": "Jet2.com",
+    "ratings": "4.3",
+    "downloads": "740M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Jet2.com"
+    },
+    {
+      "name": "category",
+      "value": "Travel & Local"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Jet2.com Limited"
+    },
+    {
+      "name": "Version",
+      "value": "6.2.0"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h3>Jet2.com</h3>\n<p>Jet2.com is your comprehensive travel companion, perfect for those who've already taken the step of booking their trip and are ready to manage it with finesse and ease. This app places control directly in your hands, ensuring that from the moment of booking until you reach your destination, you have all the tools necessary for a seamless travel experience.</p>\n<h4>Core Features:</h4>\n<ul>\n<li>🛫 <strong>Flight Booking</strong>: Scout for the best deals with our sophisticated search engine and lock in low fares 📌.</li>\n<li>🔄 <strong>Recent Searches</strong>: Conveniently access a record of your past searches for effortless new searches 📌.</li>\n<li>✈️ <strong>Online Check-In &amp; Boarding</strong>: Complete the check-in process for all passengers and download mobile boarding passes to your device 📌.</li>\n<li>🛄 <strong>Travel Essentials</strong>: Personalize your trip with the addition of 22kg bags, sports equipment, reserved seats, and in-flight meals 📌.</li>\n<li>⏱️ <strong>Live Flight Information</strong>: Stay updated with real-time flight tracking, a perfect tool for your own flights or for fetching friends and family from the airport 📌.</li>\n</ul>\n<h4>Pros:</h4>\n<ul>\n<li>👍 <strong>Travel Document Management</strong>: Easily upload and view essential documents required for travel 👍.</li>\n<li>👍 <strong>Real-Time Notifications</strong>: Stay in the loop with push notifications for the latest deals and updates 👍.</li>\n<li>👍 <strong>Car Hire</strong>: Integrate car hire into your itinerary, with a quick search of top providers to find the best rate 👍.</li>\n<li>👍 <strong>Tablet Compatibility</strong>: Enjoy a more immersive experience with app functionality extended to tablet screens 👍.</li>\n</ul>\n<h4>Cons:</h4>\n<ul>\n<li>👎 <strong>Device Storage</strong>: Storing boarding passes and documents on-device can take up significant space 👎.</li>\n<li>👎 <strong>Notification Overload</strong>: Some users might find frequent push notifications intrusive 👎.</li>\n<li>👎 <strong>Internet Dependence</strong>: Real-time features require a persistent, stable internet connection 👎.</li>\n<li>👎 <strong>Potential for Clutter</strong>: With an extensive range of offerings, the interface may feel cluttered to some users 👎.</li>\n</ul>\n<h4>Price:</h4>\n<ul>\n<li>💵 The Jet2.com app is available to download for free, though certain services within the app may require additional payment 💵.</li>\n</ul>\n<p><em>Please note the original app summary has been enhanced for clarity and engagement, ensuring you have a clear understanding of what Jet2.com has to offer for your journey.</em></p>\n<p>Download the <strong>Jet2.com</strong> app now and elevate your travel planning to new heights.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-bp-app-bpme-global-ros/16042.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.bp.app.bpme.global.ros.png",
+      "name": "earnify",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/kulana-tools-vacationcountdown/10380.html",
+      "icon": "https://img.buzzsight.co/apk/icon/kulana.tools.vacationcountdown.png",
+      "name": "Vacation Countdown App",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-disney-playdisneyparks-goo/4681.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.disney.playdisneyparks.goo.png",
+      "name": "Play Disney Parks",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-hornblower-statuecruises/4679.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.hornblower.statuecruises.png",
+      "name": "Statue Cruises",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-usnpw-grca/4678.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.usnpw.grca.png",
+      "name": "Grand Canyon National Park",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/MakeMyTrip-Hotels-Flight-Bus/4591.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.makemytrip.png",
+      "name": "MakeMyTrip Hotels, Flight, Bus",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/ConfirmTkt/4570.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.confirmtkt.lite.png",
+      "name": "ConfirmTkt",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/Bus-Train-Ticket-Booking-App/4503.html",
+      "icon": "https://img.buzzsight.co/apk/icon/in.redbus.android.png",
+      "name": "Bus, Train Ticket Booking App",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.9"
+    }
+  ]
+}

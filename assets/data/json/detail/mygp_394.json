@@ -1,0 +1,111 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/net.iplato.mygp.png",
+    "title": "myGP®",
+    "ratings": "4.5",
+    "downloads": "160M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "myGP®"
+    },
+    {
+      "name": "category",
+      "value": "Medical"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "iPlato Healthcare Ltd"
+    },
+    {
+      "name": "Version",
+      "value": "8.0.1"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/ldANZzHV7D8Yj_iS7k1sO2BXeU0soYw8hcdszuALPRjUxTj9vpEalYQpnNo79gdqrw",
+    "https://play-lh.googleusercontent.com/hk__yvLvryBBj2KRituPRMCBy641N91TWpISIysT-FGvpLY5TIDr1bGSxi94zzNplmY",
+    "https://play-lh.googleusercontent.com/8B4DEhe-nn7KGc-lswlzBLlzKCO-kqpEnfskGVjUM5OVlzY9-izETE9u__vXgWPr1g",
+    "https://play-lh.googleusercontent.com/qpTPUY1HzC_OD3UXjRE1JdJ7V7E0IMpB3tndKgdPIoQiZcg6A7VrySoBsXSLWCl6KZk",
+    "https://play-lh.googleusercontent.com/zpHfVCaMxa2fFnkXgpigGI2DjVwtGbCCZgOZ4k2KxOzuqaZxvY5uup2vrDSCf_EC5Q",
+    "https://play-lh.googleusercontent.com/gBPwiAVFpgWNDQB-W7xAPETqBGKazLqa8jO3jzddndl9yBNUCA0bkPcHQ373llBg9NI",
+    "https://play-lh.googleusercontent.com/6M6y8_4hOo8qPHhHvj2oLj2MmLEU5IVaic0eGGhW7oYv-Pzlksmw5AJ91oOxTiD40Q"
+  ],
+  "app_descript": "<h3>Brief</h3>\n<p>myGP® is an innovative healthcare mobile application designed to offer a plethora of exclusive health-related benefits and services. Efficient and user-friendly, myGP makes managing your health care as simple as tapping on your smartphone screen.</p>\n<h3>Core Features</h3>\n<ul>\n<li>🛒 <strong>Healthcare Marketplace</strong>: Get access to exclusive benefits from various health providers, such as physiotherapy and talking therapy sessions.</li>\n<li>🗓️ <strong>Appointments Management</strong>: Book, cancel, and keep track of your GP appointments with the ease of in-app notifications and calendar integration.</li>\n<li>💊 <strong>Repeat Prescriptions</strong>: Conveniently order your medication online with options to collect from your pharmacy or even home delivery.</li>\n<li>📚 <strong>Medical Records Access</strong>: Securely view and share your medical history, including vaccine records, right from your phone.</li>\n<li>🔔 <strong>Medication Reminders</strong>: Set reminders to ensure you take your medication on time and track your adherence through insightful trends.</li>\n</ul>\n<h3>Pros</h3>\n<ul>\n<li>👍 <strong>Easy Registration</strong>: Sign up swiftly using just your mobile number and date of birth or via NHS login for added features.</li>\n<li>👍 <strong>Family Health Network</strong>: Handle appointments and health records for yourself and your dependants from a single account.</li>\n<li>👍 <strong>Health Tracking</strong>: Log and manage your weight and blood pressure data daily within the app.</li>\n<li>👍 <strong>NHS Integration</strong>: Access valuable NHS services like organ donation and e-referral seamlessly.</li>\n<li>👍 <strong>Data Privacy</strong>: myGP® prioritizes your data privacy with secure hosting in a protected environment.</li>\n</ul>\n<h3>Cons</h3>\n<ul>\n<li>👎 <strong>Age Restriction</strong>: You must be 16 or older to register, limiting access for younger users.</li>\n<li>👎 <strong>UK Only</strong>: Exclusively available for individuals with a registered GP surgery in England and a valid UK mobile number.</li>\n<li>👎 <strong>Same Surgery Requirement</strong>: Family members need to be registered at the same GP with the same mobile number to be added to your health network.</li>\n<li>👎 <strong>Limited to NHS Patients</strong>: The app's functions are tailored to the needs of NHS patients, which may not suit those outside the NHS system.</li>\n<li>👎 <strong>Accessibility</strong>: Features may vary depending on individual GP surgery partnerships and integrations.</li>\n</ul>\n<h3>Pricing</h3>\n<p>💵 The myGP® app is free to download and use, ensuring that managing your healthcare needs doesn't come with additional costs. Some third-party services accessible through the healthcare marketplace might have their own fees.</p>\n<h3>Community</h3>\n<p>If additional information regarding the community is present, it would be included here, such as official site, YouTube channels, and social media platforms. However, as myGP® is a non-game app focused on healthcare management, community data may differ or not be available.</p>\n<p>In conclusion, myGP® serves as a comprehensive companion for those looking to take charge of their healthcare routines directly from their mobile device. With user-centric privacy and a spectrum of services, it streamlines health management for patients within the NHS framework.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-stress-test/48991.html",
+      "icon": "assets/img/apk/icon/com.stress.test.png",
+      "name": "Stress Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-procrastination-test/39516.html",
+      "icon": "assets/img/apk/icon/com.procrastination.test.png",
+      "name": "Procrastination Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-bingeeating-test/39303.html",
+      "icon": "assets/img/apk/icon/com.bingeeating.test.png",
+      "name": "Binge Eating Disorder Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-ocd-test/34780.html",
+      "icon": "assets/img/apk/icon/com.ocd.test.png",
+      "name": "OCD Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-healthians-main-healthians/34760.html",
+      "icon": "assets/img/apk/icon/com.healthians.main.healthians.png",
+      "name": "Healthians -Full Body Checkup",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-lbrc-PeriodCalendar/34759.html",
+      "icon": "assets/img/apk/icon/com.lbrc.PeriodCalendar.png",
+      "name": "Period Tracker and Calendar",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/es-jshcd-edadosea/34693.html",
+      "icon": "assets/img/apk/icon/es.jshcd.edadosea.png",
+      "name": "Bone age",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-devdis/16977.html",
+      "icon": "assets/img/apk/icon/com.devdis.png",
+      "name": "Developmental Disabilities",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.5"
+    }
+  ]
+}

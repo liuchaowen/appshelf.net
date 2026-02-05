@@ -1,0 +1,111 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/com.resmed.myair.png",
+    "title": "myAir™ by ResMed",
+    "ratings": "4",
+    "downloads": "950M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "myAir™ by ResMed"
+    },
+    {
+      "name": "category",
+      "value": "Medical"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "ResMed"
+    },
+    {
+      "name": "Version",
+      "value": "2.11.1.427.8"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/wM2xHwez1M0-0FOMrk2JUPZlVvsS1zrJXPHj9h94wP4-Uabf8udCu6VjaQaEqv-llAjh",
+    "https://play-lh.googleusercontent.com/jDWXDezruQSnxhVPQVgiF6GyKubIsp5QZwv5djIz_Y7G6APlsodIDfZpzE8ZmJp9LPNr",
+    "https://play-lh.googleusercontent.com/YW84BTkYcZ4yGVRG5QYEaFXAPcLm1ZGKhkbCu5NiB1ioLcn9n45fe8TwhBXweYrIB00",
+    "https://play-lh.googleusercontent.com/RbxkEpfG-KZv2tpPxRQTImVJNY46rH1r9Au_GgFK42qetAonLMyX1mkkGHPbOajAHvtB",
+    "https://play-lh.googleusercontent.com/IDAdP2-7SWmCfeiXud7UqRHjZpTXvlKIGbzriCxIjGxFHzQE_Q7J2fB-Jla2u-VvUw",
+    "https://play-lh.googleusercontent.com/WUEB2HckESw83XgZjMobagI58iJ1hUIhE87mxzoK8D3M-pcZ2lkuERir127BHPo_yA",
+    "https://play-lh.googleusercontent.com/o1GO4QUIEAThDZXLr5dUL0IfCp-FQfFTZxLbu6rM4qXmVspB8n71Oac2GwzeF-RaIg"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> myAir™ by ResMed<br/>\n<strong>Package Name:</strong> com.resmed.myair  </p>\n<h3>Brief:</h3>\n<p>myAir™ by ResMed is a personalized sleep therapy app designed to support users of the AirSense and AirCurve CPAP machines. It provides tailored coaching, monitoring, and educational resources to enhance the experience and effectiveness of sleep therapy.</p>\n<h3>Core Features: 🌟</h3>\n<ol>\n<li><strong>Personalized Coaching:</strong> Receive custom tips, coaching, and videos to improve therapy comfort and success. 🛌</li>\n<li><strong>Library of Resources:</strong> Access an extensive library of videos and guides to set up machines and masks, along with answers to common questions. 📚</li>\n<li><strong>Sleep Therapy Tracking:</strong> Track daily sleep data and monitor therapy progress with detailed metrics and summary reports. 📊</li>\n<li><strong>Proactive Support:</strong> Enjoy email and push notifications for encouragement, regular check-ins, and expert advice on sleep therapy. ✉️</li>\n<li><strong>Healthcare Team Connection:</strong> With consent, automatically share therapy insights with your healthcare team for better coordinated care.* 👩‍⚕️</li>\n</ol>\n<h3>Pros: 👍</h3>\n<ol>\n<li><strong>Enhanced Sleep Quality:</strong> Aims to improve the overall quality of sleep for users undergoing CPAP therapy. 😴</li>\n<li><strong>Ease of Use:</strong> User-friendly interface simplifies tracking and understanding sleep therapy data. 🙌</li>\n<li><strong>Educational Content:</strong> The comprehensive resource library educates users on proper setup and troubleshooting. 🎓</li>\n<li><strong>Encourages Compliance:</strong> Notifications and check-ins promote regular use and adherence to therapy. 🔔</li>\n<li><strong>Tailored Experience:</strong> Personalized coaching adapts the support to individual user needs and concerns. 🔧</li>\n</ol>\n<h3>Cons: 👎</h3>\n<ol>\n<li><strong>Machine Compatibility:</strong> Only compatible with ResMed AirSense and AirCurve machines with wireless connectivity. 🔄</li>\n<li><strong>Limited Availability:</strong> Not available for users without the specified ResMed machines or without wireless feature. 📍</li>\n<li><strong>Geographic Restrictions:</strong> May not be accessible in all countries or regions. 🌍</li>\n<li><strong>Device-Specific Application:</strong> Users of AirMini™ machines must download a separate app. 📲</li>\n<li><strong>Feature Limitations:</strong> Some advanced features are exclusive to the AirSense 11 machine. ⏬</li>\n</ol>\n<h3>Pricing: 💵</h3>\n<p>myAir™ by ResMed is a free app, though it's designed to work in tandem with specific ResMed CPAP devices that are purchased separately.</p>\n<hr/>\n<p><em>*Features marked with an asterisk may not be available in earlier models or without specific machine functionalities.</em></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-stress-test/48991.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.stress.test.png",
+      "name": "Stress Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-procrastination-test/39516.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.procrastination.test.png",
+      "name": "Procrastination Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-bingeeating-test/39303.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.bingeeating.test.png",
+      "name": "Binge Eating Disorder Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-ocd-test/34780.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.ocd.test.png",
+      "name": "OCD Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-healthians-main-healthians/34760.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.healthians.main.healthians.png",
+      "name": "Healthians -Full Body Checkup",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-lbrc-PeriodCalendar/34759.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.lbrc.PeriodCalendar.png",
+      "name": "Period Tracker and Calendar",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/es-jshcd-edadosea/34693.html",
+      "icon": "https://img.buzzsight.co/apk/icon/es.jshcd.edadosea.png",
+      "name": "Bone age",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-devdis/16977.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.devdis.png",
+      "name": "Developmental Disabilities",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.5"
+    }
+  ]
+}

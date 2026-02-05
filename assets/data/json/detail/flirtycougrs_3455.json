@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.flirty.cougars.png",
+    "title": "FlirtyCougrs",
+    "ratings": "4.7",
+    "downloads": "770M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "FlirtyCougrs"
+    },
+    {
+      "name": "category",
+      "value": "Social"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Dating Development Group"
+    },
+    {
+      "name": "Version",
+      "value": "1.0"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> FlirtyCougrs</p>\n<hr/>\n<h3>Brief:</h3>\n<p>FlirtyCougrs - Find Real Women is an innovative dating platform designed specifically for men interested in meeting and dating older women. This app stands out by helping users identify the type of older woman that best aligns with their preferences, streamlining the path to a meaningful connection.</p>\n<h3>Core Features: 🌟</h3>\n<ul>\n<li><strong>Personalized Matches:</strong> Play a unique card-flipping game to discover your ideal type of older woman. 🃏</li>\n<li><strong>Type Descriptions:</strong> Receive detailed descriptions including hobbies, interests, and an ideal partner profile for each match. 📝</li>\n<li><strong>Dating Tips:</strong> Access an array of articles, tips, and tricks on online dating and relationships upon registration. 💕</li>\n<li><strong>Interactive Interface:</strong> Enjoy a playful user experience while navigating through your journey to find the right match. 🎮</li>\n<li><strong>Informative Articles:</strong> Get insight into various aspects of dating with regularly updated articles after signing up. 📚</li>\n</ul>\n<h3>Pros: 👍</h3>\n<ul>\n<li><strong>Focused Dating Approach:</strong> Tailored for those interested in older women, providing a niche platform. 👩‍❤️‍👨</li>\n<li><strong>Understanding Your Match:</strong> Helps to avoid common mistakes in online dating by educating on what makes a good match. 📘</li>\n<li><strong>Engagement Tools:</strong> Incorporates a game-like feature that adds fun to the process of finding a match. 🎉</li>\n<li><strong>Pre-Match Insights:</strong> Offers descriptions to understand the match before initiating contact. 🕵️‍♂️</li>\n<li><strong>Resourceful Guides:</strong> Provides valuable content on dating and relationships for those registered. 🗺️</li>\n</ul>\n<h3>Cons: 👎</h3>\n<ul>\n<li><strong>Limited Free Access:</strong> Users receive only three descriptions before being prompted to register. 🔒</li>\n<li><strong>Niche Audience:</strong> Not suitable for those not interested in dating older women. 🧭</li>\n<li><strong>Possibility of Disappointment:</strong> The process may still involve rejections and mismatches. 💔</li>\n<li><strong>Profile Depth:</strong> Match descriptions are finite, which might not fully represent the complexity of a person. 🚧</li>\n<li><strong>Registration Requirement:</strong> Full access to informative content is gated behind registration. 📜</li>\n</ul>\n<h3>Price: 💵</h3>\n<p>FlirtyCougrs is available as a free download, with limited features accessible pre-registration. In-app purchases and subscription options will be available for those who wish to access the full suite of features and content.</p>\n<hr/>\n<p>FlirtyCougrs provides a specialized dating environment with unique engagement tools designed to improve your online dating experience. Perfect for those with a specific interest in older women, this app is a guide on the pathway to happiness in the dating world. Get started today and let FlirtyCougrs help you match with the woman of your dreams!</p>",
+  "related_apps": [
+    {
+      "link": "/details/jp-cocone-livly/54171.html",
+      "icon": "assets/img/apk/icon/jp.cocone.livly.png",
+      "name": "Livly Island - Adopt Cute Pets",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-daily-festival-photos/39721.html",
+      "icon": "assets/img/apk/icon/com.daily.festival.photos.png",
+      "name": "Daily Festival Photo",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/tv-medal-recorder/39573.html",
+      "icon": "assets/img/apk/icon/tv.medal.recorder.png",
+      "name": "Medal - Gaming Clips",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-ptanktechnology-reincornation/39352.html",
+      "icon": "assets/img/apk/icon/com.ptanktechnology.reincornation.png",
+      "name": "Reincarnation",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-tiktok-lite-go/15392.html",
+      "icon": "assets/img/apk/icon/com.tiktok.lite.go.png",
+      "name": "TikTok Lite - Faster TikTok",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-petmeetly/15275.html",
+      "icon": "assets/img/apk/icon/com.petmeetly.png",
+      "name": "Petmeetly - Pet's Match Finder",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-xingin-xhs/14603.html",
+      "icon": "assets/img/apk/icon/com.xingin.xhs.png",
+      "name": "REDnote—小红书国际版",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-stdev-dissordap/10395.html",
+      "icon": "assets/img/apk/icon/com.stdev.dissordap.png",
+      "name": "Vote Social - Photo Voting VS",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "3.8"
+    }
+  ]
+}

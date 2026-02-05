@@ -1,0 +1,125 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/de.komoot.android.png",
+    "title": "Komoot",
+    "ratings": "4.9",
+    "downloads": "950M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Komoot"
+    },
+    {
+      "name": "category",
+      "value": "Health & Fitness"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "komoot GmbH"
+    },
+    {
+      "name": "Version",
+      "value": "2023.34.3"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/8CJJ_mm8JJZstwUInHhktG7a6hgzkwK0XoEXJ3aMUOX86VMkHVsYt2jl2Ym20JPuvlY",
+    "https://play-lh.googleusercontent.com/JL_j-LqIW_ffNPS3YWX8N6HY2ngrfhhyoFTQcM5iMRlro4Dw6q6FlVP1W_3npnCa9UA",
+    "https://play-lh.googleusercontent.com/uRSJfGcjpQUwp1S_8cbqqLOhxhw1xepvmcqZ7FYdqLK3vrd9ZZclfZtuYqgur2oKjrI",
+    "https://play-lh.googleusercontent.com/0zZABDD6pSCZl1uTX1sj8k-y9AuoWsY1s_MYW0-jfjEWDAaGj2ohvaMWXQzbqPqOfR0",
+    "https://play-lh.googleusercontent.com/mC1nIeIHGFmz7nyZlRhqqwhSYkmWluDRuC9LImnI04m1haX6lcVDvbSV8TIjdVnKlg",
+    "https://play-lh.googleusercontent.com/QNNmW6fI9xnOuapeurKBYoaDXTu9FtXVqByeViEan9QRMuf-R9ExOEIPTpsXDkR59es",
+    "https://play-lh.googleusercontent.com/xA0EQHBBk88M1lG_QJQhAc7Wov2y4znebZElx92re1tMQ7xzotsLdscKQUBdzLIb5Zo",
+    "https://play-lh.googleusercontent.com/UNfczQbSuSZ2JajfyluYKHvv7eBm4V-xeAWtbFjn-iL-xZhfZoPsOYCXa0sNTLUUYTA",
+    "https://play-lh.googleusercontent.com/5RG5O7ee9nCPdpTa7Rb9RGTaxIHktcsTVP0UqjPTMYoHe6GrLTNDyY8JnAKEvukRaOY",
+    "https://play-lh.googleusercontent.com/KgbfJ6TP77qnoNsIL9Yuj7fh0NuBz0aIh0j5X5dxc7geaJg-obsW-wi5u99sd5CcnJw",
+    "https://play-lh.googleusercontent.com/tSmKpc0kal0-FNCA9pGRPsx5yrkRHt1OQP-yNq1AlwNHmDJtKBuG9qGKf3-IRHgGOCs",
+    "https://play-lh.googleusercontent.com/nE8J0bIqW4bNLEKzAMPYpS2foaov-XbovCedmUHhCnpJJblwb-44ykEgs9blASG4ltU",
+    "https://play-lh.googleusercontent.com/PVEcvOmZpauhU9G6aJZ_x_Vr7O6QkGsHQSlOfaTYqOWncpaCuaF7jIr6QGUTPx41KAKs",
+    "https://play-lh.googleusercontent.com/CnydwhaNx-4kcIyLSUqtlkfmDoWkpWQdueo5dcIK6aS25UYIwXtsx0MIT1OMEDjaKA",
+    "https://play-lh.googleusercontent.com/2P64uQ8KHSV3y0sY7YdNCgRFqDF23WR5bCRzxEWJnqYF6Or5o3TtP70UxuIEI1d_D1Q",
+    "https://play-lh.googleusercontent.com/PiVNJ7p2YGzn5fosOmdpEmlWj3kmmZlMRbkGXi-12xyFxrgbqSttNbYzGD7kXVFOf3g",
+    "https://play-lh.googleusercontent.com/P8GhPndrW8Lx9jVBniCgFUoOUbM26qIe3o-TEcbxaOnotaHy8XDYK8hdvKUfoKN-7w",
+    "https://play-lh.googleusercontent.com/1U8QWTQKRFoeJVDyJ5Nlpid3aUi3FAHdR7hEE9GNh-zd1RlqkCfLoB5CYvSgtnQLTGll",
+    "https://play-lh.googleusercontent.com/d9ieAx6_QLwQSccO0QPGxBB4iG0qZQjfC-St-7PCvOqoYobi6a3P2TTRZQ8z4svKrlq-",
+    "https://play-lh.googleusercontent.com/ME2QQ5nIp8XLsL19Ilcnmc5JoqMX0ez_UQsid0Dso5i6KV500IeW7ueteFkI6w8T0g",
+    "https://play-lh.googleusercontent.com/CLS4utP-AiYR-MTfQkfWyXNTAvrY9nAQQtvdJoyF7-TGvd6FVgMqldSJzPuEOzVz7A"
+  ],
+  "app_descript": "<p><strong>Komoot</strong></p>\n<p><strong>Brief:</strong>\nKomoot is your all-in-one navigation and route planning app designed for outdoor enthusiasts. Tailored to the needs of hikers, mountain bikers, and road cyclists, it's a powerful tool that helps you meticulously plan your adventure by offering details like surface, difficulty, elevation, and more. With offline maps, voice navigation, and a vibrant community, explore confidently knowing that Komoot has the blueprint to your next outdoor journey.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🗺️ <strong>Map-Based Route Planning:</strong> Customize routes for your activity, taking into account surface, elevation, and difficulty to ensure an ideal experience. 🌄</li>\n<li>🗣️ <strong>Turn-by-Turn Voice Navigation:</strong> Stay focused on your surroundings without missing a turn with the help of precise voice directions. 📢</li>\n<li>🌐 <strong>Offline Maps:</strong> Download maps and access your routes without an Internet connection, ensuring you never lose your way. 📥</li>\n<li>👀 <strong>Community Highlights:</strong> Explore the Komoot Community’s favorite places marked on maps and contribute your own recommendations. 🔴</li>\n<li>📖 <strong>Personal Adventure Log:</strong> Track your activities with GPS, add photos and tips, and save or share your experiences with a global community. 🌟</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👣 Tailored to various outdoor activities, enhancing each adventure with specialized information. 💪</li>\n<li>🌲 Offline functionality allows for undisrupted navigation in remote areas. 🌳</li>\n<li>🌟 Social feature to share experiences and follow other adventurers, fostering a strong community connection. 🤝</li>\n<li>🔄 Seamless sync across multiple devices, from phones to wearables, making it convenient and user-friendly. 🔁</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 Only the first region is free, after which you may need to make purchases for more areas. 💲</li>\n<li>📌 Potentially steep learning curve for new users unfamiliar with navigation apps. 🛤️</li>\n<li>❗ Some community features require active participation to unlock full benefits. 🏆</li>\n<li>🛠️ May need additional support for perfect integration with external devices. 🎛️</li>\n</ul>\n<p><strong>Price:</strong>\n💵 The app is free to download with in-app purchases for unlocking additional regions and features.</p>\n<p><strong>Community:</strong>\nIf you're deeply involved in the Komoot app as a gamer and outdoor activity aficionado, immerse yourself further by joining its vibrant community across several platforms:</p>\n<ul>\n<li><strong>Official Site:</strong> <a href=\"https://www.komoot.com\" rel=\"noopener noreferrer\" target=\"_blank\">Komoot</a></li>\n<li><strong>YouTube Channel:</strong> Find numerous tutorial and adventure videos on <a href=\"https://www.youtube.com/user/Komootapp\" rel=\"noopener noreferrer\" target=\"_blank\">Komoot's Official YouTube Channel</a>.</li>\n<li><strong>Instagram:</strong> Follow <a href=\"https://www.instagram.com/komoot/\" rel=\"noopener noreferrer\" target=\"_blank\">Komoot on Instagram</a> to see breathtaking pictures of trails and user experiences.</li>\n<li><strong>Facebook:</strong> Join the <a href=\"https://www.facebook.com/komoot/\" rel=\"noopener noreferrer\" target=\"_blank\">Facebook community</a> for updates and to connect with like-minded explorers.</li>\n<li><strong>Twitter:</strong> Keep up-to-date with the latest Komoot news by following their <a href=\"https://twitter.com/komoot\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter account</a>.</li>\n<li><strong>Reddit:</strong> Discuss routes and share experiences with other users on <a href=\"https://www.reddit.com/r/Komoot/\" rel=\"noopener noreferrer\" target=\"_blank\">Reddit</a>.</li>\n</ul>\n<p>Whether you're exploring the intricacies of route planning or looking for the next great adventure trail, Komoot and its community have you covered. Join in and become part of a world of explorers today!</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-appflows-BodyMuse/48997.html",
+      "icon": "assets/img/apk/icon/com.appflows.BodyMuse.png",
+      "name": "BodyMuse: Body Shape Analysis",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-codev-headache_app/39734.html",
+      "icon": "assets/img/apk/icon/com.codev.headache_app.png",
+      "name": "Headache Diary, Test & Treat",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/life-simple/39727.html",
+      "icon": "assets/img/apk/icon/life.simple.png",
+      "name": "Simple: AI Weight Loss Coach",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-clearblue-minerva/39464.html",
+      "icon": "assets/img/apk/icon/com.clearblue.minerva.png",
+      "name": "Menopause Stage - Clearblue me",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-jplanet-lungtestandbreathpractice/39424.html",
+      "icon": "assets/img/apk/icon/com.jplanet.lungtestandbreathpractice.png",
+      "name": "Lung Test and Breath Exercise",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "3"
+    },
+    {
+      "link": "/details/healthy-lungs-breathing-exercise-coach-pranayama-breath-workout-lung-exercises/39423.html",
+      "icon": "assets/img/apk/icon/healthy.lungs.breathing.exercise.coach.pranayama.breath.workout.lung.exercises.png",
+      "name": "Lungs Test: Breathing Exercise",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-smartoptometry-smartoptometry-full/34733.html",
+      "icon": "assets/img/apk/icon/com.smartoptometry.smartoptometry.full.png",
+      "name": "Smart Optometry - Eye Tests",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-b2creativedesigns-eyetest/34732.html",
+      "icon": "assets/img/apk/icon/com.b2creativedesigns.eyetest.png",
+      "name": "Eye test",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.1"
+    }
+  ]
+}

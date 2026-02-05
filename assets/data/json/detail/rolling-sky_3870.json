@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/rolling-sky.png",
+    "title": "Rolling Sky",
+    "ratings": "4.1",
+    "downloads": "450M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Rolling Sky"
+    },
+    {
+      "name": "category",
+      "value": "Board"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Cheetah Games"
+    },
+    {
+      "name": "Version",
+      "value": "1.1.9.1"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>Rolling Sky</strong></p>\n<p><strong>Brief:</strong>\nRolling Sky is an exhilarating and pacey ball-control game that tests the limits of your speed and reaction time. With a blend of rhythm and precision, dive into various whimsical worlds each presenting distinct challenges that aim to keep you on the edge of your seat. Exuding dynamism through its splendid 3D effects, the game pushes you to harness your best maneuvering skills to conquer every round.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🎮 One-tap control with simple operation for fluid gameplay experience. ⚙️</li>\n<li>🌄 Spellbinding 3D visual effects that enhance the immersive gaming feel. 🎨</li>\n<li>🎢 A delightful medley of scenes, including Massif, Cosmos, Forest, Snowfield, Inferno, and many others to explore. 🌍</li>\n<li>🌟 Five unique worlds featuring their individual challenges, stunning graphics, and pulsating soundtracks. 🎶</li>\n<li>⚡ A real test of speed and reaction, demanding the ultimate in player reflexes. 🔥</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👌 Intuitive one-tap control makes it easy to learn but difficult to master. 🤹</li>\n<li>👀 Eye-catching 3D visuals and animations that create an engrossing gaming experience. ✨</li>\n<li>🚀 Diverse environments and levels keep the excitement fresh and engaging. 🏞️</li>\n<li>🎵 Exceptional music that syncs with gameplay to intensify the action. 🎼</li>\n<li>💪 Offers a genuine challenge, perfect for gamers seeking a hardcore test of their skills. 💢</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 Can be extremely challenging, potentially leading to frustration for casual players. 😤</li>\n<li>💭 Limited time to react may overwhelm users who prefer a more relaxed gaming pace. ⏱️</li>\n<li>🔋 High-speed gameplay could lead to quick battery depletion on mobile devices. 🪫</li>\n<li>🔄 May demand repetitive play to master certain levels, which can be seen as repetitive. ♻️</li>\n<li>✊ The simplicity of control might not cater to those looking for more complex mechanics. 🚧</li>\n</ul>\n<p><strong>Price:</strong></p>\n<ul>\n<li>💵 Rolling Sky is free to play, with in-app purchases available for users who wish to enhance their gaming experience or progress through levels more swiftly.</li>\n</ul>\n<p><strong>Community:</strong></p>\n<ul>\n<li>🕸️ Official site: <a href=\"https://www.cheetahgames.cn/\" rel=\"noopener noreferrer\" target=\"_blank\">Rolling Sky Official</a></li>\n<li>📺 YouTube channel: <a href=\"https://www.youtube.com/channel/UCUCe_JZgFjRLZQ1VlazIhDw\" rel=\"noopener noreferrer\" target=\"_blank\">Cheetah Games</a></li>\n<li>🎥 Related popular YouTuber's channel: <a href=\"https://www.youtube.com/user/FGTeeV\" rel=\"noopener noreferrer\" target=\"_blank\">FGTeeV</a></li>\n<li>📸 Instagram: <a href=\"https://www.instagram.com/rollingskygame/\" rel=\"noopener noreferrer\" target=\"_blank\">Rolling Sky</a></li>\n<li>🐦 Twitter: <a href=\"https://twitter.com/rollingskyfans\" rel=\"noopener noreferrer\" target=\"_blank\">Rolling Sky</a></li>\n<li>🟣 Discord: <a href=\"https://discord.com/invite/rollingsky\" rel=\"noopener noreferrer\" target=\"_blank\">Rolling Sky Community</a></li>\n<li>👍 Facebook: <a href=\"https://www.facebook.com/rollingskyfans\" rel=\"noopener noreferrer\" target=\"_blank\">Rolling Sky</a></li>\n<li>🎵 TikTok: <a href=\"https://www.tiktok.com/@rollingskygame\" rel=\"noopener noreferrer\" target=\"_blank\">Rolling Sky</a></li>\n<li>📝 Reddit: r/RollingSky</li>\n<li>📚 Fandom Wiki: <a href=\"https://rolling-sky.fandom.com/wiki/Rolling_Sky_Wikia\" rel=\"noopener noreferrer\" target=\"_blank\">Rolling Sky Wiki</a></li>\n</ul>",
+  "related_apps": [
+    {
+      "link": "/details/spider-classic-solitaire-card-pgmaker/54051.html",
+      "icon": "assets/img/apk/icon/spider.classic.solitaire.card.pgmaker.png",
+      "name": "Spider Solitaire",
+      "categoryLink": "/en/categories/board/36",
+      "category": "Board",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-gameberry-sorry-card-board-game/34661.html",
+      "icon": "assets/img/apk/icon/com.gameberry.sorry.card.board.game.png",
+      "name": "Sorry! World - Board game",
+      "categoryLink": "/en/categories/board/36",
+      "category": "Board",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-art-pixel-pet-games-paint-color-by-numbers/10373.html",
+      "icon": "assets/img/apk/icon/com.art.pixel.pet.games.paint.color.by.numbers.png",
+      "name": "Halloween Coloring Game Book",
+      "categoryLink": "/en/categories/board/36",
+      "category": "Board",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/com-vitastudio-mahjong/10197.html",
+      "icon": "assets/img/apk/icon/com.vitastudio.mahjong.png",
+      "name": "Vita Mahjong",
+      "categoryLink": "/en/categories/board/36",
+      "category": "Board",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/com-gamovation-mahjongclub/10196.html",
+      "icon": "assets/img/apk/icon/com.gamovation.mahjongclub.png",
+      "name": "Mahjong Club - Solitaire Game",
+      "categoryLink": "/en/categories/board/36",
+      "category": "Board",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/com-iceors-colorbook-release/5126.html",
+      "icon": "assets/img/apk/icon/com.iceors.colorbook.release.png",
+      "name": "Coloring Book: Color by Number",
+      "categoryLink": "/en/categories/board/36",
+      "category": "Board",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-scopely-monopolygo/4399.html",
+      "icon": "assets/img/apk/icon/com.scopely.monopolygo.png",
+      "name": "MONOPOLY GO!",
+      "categoryLink": "/en/categories/board/36",
+      "category": "Board",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/tile-master/3880.html",
+      "icon": "assets/img/apk/icon/com.tilemaster.puzzle.block.match.png",
+      "name": "Tile Master",
+      "categoryLink": "/en/categories/board/36",
+      "category": "Board",
+      "rating": "4.9"
+    }
+  ]
+}

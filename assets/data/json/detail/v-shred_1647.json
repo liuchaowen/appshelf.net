@@ -1,0 +1,110 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.vshred.png",
+    "title": "V Shred",
+    "ratings": "3.1",
+    "downloads": "670M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "V Shred"
+    },
+    {
+      "name": "category",
+      "value": "Health & Fitness"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "V Shred LLC"
+    },
+    {
+      "name": "Version",
+      "value": "2.0.10"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/YDOIvMfVaCJmO0gPGykRPcOdbq7HheBpPQkqH1iwEESzqaNq6VyYDWcNPgpVj66WzA",
+    "https://play-lh.googleusercontent.com/ZJSkutvV14u5LmnEXZ7O-B9fKIy-Pi3RjIT9uv7Qh-PPYO_qSIuKbtobXNrnPYsDNTay",
+    "https://play-lh.googleusercontent.com/WIEfg4jkDFNBmrv_cTBZjMrq9F3xzKc-nPpizEz1DD1GQVKGwf3yuIkiT55_HiFumrA",
+    "https://play-lh.googleusercontent.com/nVXzBglREymcj-z6g0RPHdpIO497CDBHr7V-9-3lytM83VhP4Qyahlcwh6khkek3wF0",
+    "https://play-lh.googleusercontent.com/Ny9x7n4DRoFDEG-N64TzOpIECNuyK-vM3cpl4nWweugrkmnOaR4cBaK7O6uObhpnmJ5N",
+    "https://play-lh.googleusercontent.com/LweeWcCHihqebCHyVsfGwjbYt3Huczzb8ok4IQU8DtxiFtEnS_V30gadC0f9xlzZ4Hg"
+  ],
+  "app_descript": "<h3>Brief:</h3>\n<p>V Shred is an innovative fitness app designed to provide personalized workout and nutrition plans to help users achieve their health and fitness goals. Whether you are looking to lose weight, build muscle, or simply maintain a healthy lifestyle, V Shred tailors your journey to your individual needs.</p>\n<h3>Core Features:</h3>\n<ul>\n<li>🏋️‍♂️ <strong>Personalized Fitness Programs:</strong> Custom workout plans that cater to your fitness goals and preferences.</li>\n<li>🍎 <strong>Custom Nutrition Plans:</strong> Diet plans crafted to match your lifestyle and fitness targets.</li>\n<li>📊 <strong>Progress Tracking:</strong> Keep track of your fitness journey with detailed analytics and progress reports.</li>\n<li>🎥 <strong>Instructional Videos:</strong> Access to a library of high-quality videos that demonstrate proper exercise techniques.</li>\n<li>🔔 <strong>Reminders &amp; Notifications:</strong> Stay on track with regular reminders and motivational notifications. </li>\n</ul>\n<h3>Pros:</h3>\n<ul>\n<li>👍 <strong>Tailored to Individual Needs:</strong> The app provides highly personalized plans that are unique to each user.</li>\n<li>👍 <strong>Holistic Approach:</strong> Incorporates both fitness and nutrition for overall wellness.</li>\n<li>👍 <strong>Expert Guidance:</strong> Gain insights and tips from fitness professionals.</li>\n<li>👍 <strong>Convenient:</strong> Workout at home or at the gym with versatile programs.</li>\n<li>👍 <strong>Engaging Content:</strong> High-definition instructional content keeps you informed and engaged.</li>\n</ul>\n<h3>Cons:</h3>\n<ul>\n<li>👎 <strong>Subscription Cost:</strong> While the app might offer in-app purchases, a subscription may be necessary for full access.</li>\n<li>👎 <strong>Internet Dependency:</strong> Requires a stable internet connection for streaming videos and updating progress.</li>\n<li>👎 <strong>Device Compatibility:</strong> Might not perform optimally on all devices.</li>\n<li>👎 <strong>Overwhelming Choices:</strong> The variety of options may be overwhelming for beginners.</li>\n<li>👎 <strong>Data Privacy:</strong> As with most apps, there may be concerns about how personal data is handled.</li>\n</ul>\n<h3>Price:</h3>\n<p>💵 V Shred offers a free download, with in-app purchases and subscription options available for users who wish to access the full range of services and features. The pricing details are typically outlined within the app itself and may vary based on the services selected.</p>\n<h3>Community:</h3>\n<p>🕸️ The V Shred community is a dedicated space for fitness enthusiasts and individuals looking to transform their lifestyle. Resources such as the app's <a href=\"https://vshred.com/\" rel=\"noopener noreferrer\" target=\"_blank\">official site</a>, and associated social media accounts on <a href=\"https://www.instagram.com/vshred/\" rel=\"noopener noreferrer\" target=\"_blank\">Instagram</a>, <a href=\"https://twitter.com/VShred\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a>, <a href=\"https://www.facebook.com/thevinsanityshred\" rel=\"noopener noreferrer\" target=\"_blank\">Facebook</a>, <a href=\"https://www.tiktok.com/@vshred\" rel=\"noopener noreferrer\" target=\"_blank\">TikTok</a>, and <a href=\"https://www.reddit.com/r/VShred/\" rel=\"noopener noreferrer\" target=\"_blank\">Reddit</a> provide platforms for users to engage, share experiences, and seek support.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-appflows-BodyMuse/48997.html",
+      "icon": "assets/img/apk/icon/com.appflows.BodyMuse.png",
+      "name": "BodyMuse: Body Shape Analysis",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-codev-headache_app/39734.html",
+      "icon": "assets/img/apk/icon/com.codev.headache_app.png",
+      "name": "Headache Diary, Test & Treat",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/life-simple/39727.html",
+      "icon": "assets/img/apk/icon/life.simple.png",
+      "name": "Simple: AI Weight Loss Coach",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-clearblue-minerva/39464.html",
+      "icon": "assets/img/apk/icon/com.clearblue.minerva.png",
+      "name": "Menopause Stage - Clearblue me",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-jplanet-lungtestandbreathpractice/39424.html",
+      "icon": "assets/img/apk/icon/com.jplanet.lungtestandbreathpractice.png",
+      "name": "Lung Test and Breath Exercise",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "3"
+    },
+    {
+      "link": "/details/healthy-lungs-breathing-exercise-coach-pranayama-breath-workout-lung-exercises/39423.html",
+      "icon": "assets/img/apk/icon/healthy.lungs.breathing.exercise.coach.pranayama.breath.workout.lung.exercises.png",
+      "name": "Lungs Test: Breathing Exercise",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-smartoptometry-smartoptometry-full/34733.html",
+      "icon": "assets/img/apk/icon/com.smartoptometry.smartoptometry.full.png",
+      "name": "Smart Optometry - Eye Tests",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-b2creativedesigns-eyetest/34732.html",
+      "icon": "assets/img/apk/icon/com.b2creativedesigns.eyetest.png",
+      "name": "Eye test",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.1"
+    }
+  ]
+}

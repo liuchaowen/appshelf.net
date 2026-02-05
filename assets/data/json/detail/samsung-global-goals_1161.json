@@ -1,0 +1,132 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.samsung.sree.png",
+    "title": "Samsung Global Goals",
+    "ratings": "4.8",
+    "downloads": "390M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Samsung Global Goals"
+    },
+    {
+      "name": "category",
+      "value": "Education"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Samsung Electronics Co., Ltd."
+    },
+    {
+      "name": "Version",
+      "value": "2.1.00.5"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/rPOSHWqZiq7xqhdV1zsGuCf_FHEspyPexx2_DA4Rp7I1VNeJRxuxki7Buq1NZF60ejYe",
+    "https://play-lh.googleusercontent.com/dTXaiPWBkfC80rKBBSa-MoUjC4Hsa_oIO6uPhxPTlTdVCguUOmsuKxsWd6Y7AdS08E4",
+    "https://play-lh.googleusercontent.com/w-pdgSAc3QIt4eTSHyEWk2O2IAQ2sXhlyHd4Kq93lr3BbTYnWSFhMN-4vUSdu5EnaIDe",
+    "https://play-lh.googleusercontent.com/84Wq_IydnKE3iIvQZt6quZ_zhLPWrBHfuXADToKJOZITxssh6f5zzVVMLk0TyuwsPQ",
+    "https://play-lh.googleusercontent.com/-NX2C6jLGR15-CPRukpbd4KIc1Bcxco2YpW6IysUUy4I8n4tzl4IFT8LeUNEJ88WNNE",
+    "https://play-lh.googleusercontent.com/WGxo8rKCinos1Bke9kbq9CNWZx2eGe2nytmyAtwVSZfLw8AX-cPKZKwq5rGOo7s6XQo",
+    "https://play-lh.googleusercontent.com/sps0D6nYKPsTvIRDEovWrabLUOp2TLtLVBwhKWyTXn-N6f_9DcPTlCRZobV5n0n-FGad",
+    "https://play-lh.googleusercontent.com/NPnHA-JDUheoqomyN3IlA_tqSJqILjhBl8JLgfu1UmBpLCrexDhbM3pAbxcpHKxfz_I",
+    "https://play-lh.googleusercontent.com/BB_aDSunsrHjDglwGklJrUafZA0MK10HQkg8B7irG7FD4sxlMPAqrHWr1pbzUYJ24Pk",
+    "https://play-lh.googleusercontent.com/tbNpUYI3oiCMUizrpePVsZQXDmUeV4mgLNm4u7_L8MLgupBErPJGzls1qq4Evzg8UxY",
+    "https://play-lh.googleusercontent.com/DDq1ztKdZDtnDKEvRM37ABWNqH7c-NXNVik2U8U3hT_c-kXL7jKmIm9P-4pXebTZmHoJ",
+    "https://play-lh.googleusercontent.com/6uyPT0t-BadRFX_6A19saLu4rv1VM5X62GaYzboHm0nhM1yzq1_iXGRpX1tm3EW81QI",
+    "https://play-lh.googleusercontent.com/hbTi1I30hd0xNPtgtChWgEpr2w1dkDtaoxtKiKa1UobPuNjaxvgRvk22ZxLV60Yweg",
+    "https://play-lh.googleusercontent.com/4NWEPL7alPeoVN-_0qPd04j1929T2y__80UDUc3qlwCxNQIZMAu0jZXSMkb30FmM-hir",
+    "https://play-lh.googleusercontent.com/I1ENLNJE0VPTElaUNexznBBsUxHUA-yBzb_7CN0Hpv9fxceDQ1fv0h8p4pm5s0Jc_w",
+    "https://play-lh.googleusercontent.com/1UOklZYuSI0EkTVqp9Uu7oZqc4QYv9KWb3940uwK9PwUUGuo8c_A0-tUuGvJ_dVayzEn",
+    "https://play-lh.googleusercontent.com/2YZSBLIgJcr-INZICttME4K2qSjupeKXGB9dJvrZUH64jy6L6rK8x_H_FbYVqzCPOAne",
+    "https://play-lh.googleusercontent.com/HxSS8DnsFUZYUOIUuP7J8Ao3lQssVaPANW9k608gos-cPNQMvCxVCyKu8GOxhxzDQBnO",
+    "https://play-lh.googleusercontent.com/i0zQ7wrwavDhUHWhnouXVeEnKHIwxBa0myQXLQAb4lF2djSAuZpQ8CK-2NWMzjhCtTQ",
+    "https://play-lh.googleusercontent.com/QE4w4IGqo-FlNwg_nJvfhPcOHbxX24Me6Dqzu4wGrITPHCiABiC9b-_YD-0abCdRtDo",
+    "https://play-lh.googleusercontent.com/GRxxod7GDGI5b0b8XyUVoYe5lg_7yof4anPrRUrvEi9LUa5v8z70RCJSWpoHGaG7qMQ",
+    "https://play-lh.googleusercontent.com/S3_HvknAOFexNFeXwlJ7kIGlSiDNAvIEAecLH75TeAg04aU8x2a7eJ26JxOIEDwRXA",
+    "https://play-lh.googleusercontent.com/iqAKRsI1KHi-yJfNNFA0-7ZSv5INbYvFiXV1JW8bryARmJS9t9j7zPCV7uCFS8WMruM",
+    "https://play-lh.googleusercontent.com/_PjBhKMGvCIg19lObzF-enqt49AISR0xGz2EyBB4SCA6jL4p5Ji_FZKrox2nXLm4kwo",
+    "https://play-lh.googleusercontent.com/LxTnZngo60p-zuQuXuD0mSBaozMte99TdakrDthV_dmYNtvRgcRiWZ7yc9XU8Xfw49w",
+    "https://play-lh.googleusercontent.com/bBZLbhEB9T7MvvSbtKw-vfrZCZXv94-7HKb-VuAq6AK4t9BHB_2mRtOcsUhUMy6_PBk",
+    "https://play-lh.googleusercontent.com/M1xSNSAG4Dw9TdjbJTE195eo4-z6JSqVW16FRHGJVsWaOb3ODeTIFDGXV4a_nj6PqAk",
+    "https://play-lh.googleusercontent.com/OICEjQcQS92wyv3pjuco8abxcx-E37sEHQ7jwcKwkAwYQBLcC_Gs1VqgKB8t34aVdcg"
+  ],
+  "app_descript": "<h3>Samsung Global Goals</h3>\n<p><strong>Brief:</strong>\nThe Samsung Global Goals app is a profound mobile application designed to support the United Nations' 17 Sustainable Development Goals (SDGs). With a blend of education and action, it allows users to learn about these critical aims, contribute financially by engaging with mobile advertisements, and flaunt their advocacy with bespoke lock screen wallpapers. This innovative tool transforms everyday phone use into a catalyst for positive global change.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🎨 <strong>Inspirational Wallpaper Lock Screen:</strong> Discover thought-provoking content related to the Global Goals every time you unlock your phone. 🌍</li>\n<li>📚 <strong>Goal Insights:</strong> Access detailed information with key facts and figures for each of the 17 goals, understanding the global objectives better. 📈</li>\n<li>💰 <strong>Donation Choices:</strong> Flexibility to select which global goals to support with the funds you've helped raise through the app. ❤️</li>\n<li>🌐 <strong>Multi-language Support:</strong> The app offers a comprehensive experience in 19 languages, making it accessible worldwide. 🈴</li>\n<li>📈 <strong>Earn and Donate:</strong> Use your phone normally and earn money from ads, which Samsung donates on your behalf to the UN Development Program. 💵</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👏 <strong>Contribute to Global Causes:</strong> Transform ad engagement into charitable donations effortlessly. 🤝</li>\n<li>🧠 <strong>Informative Content:</strong> Educate yourself on critical global issues with a wealth of information at your fingertips. 📘</li>\n<li>🌏 <strong>Show Solidarity:</strong> Express support visually with goal-themed wallpapers, promoting awareness. ✊</li>\n<li>🎗️ <strong>Partnered with UNDP:</strong> Assurance that efforts contribute to vetted initiatives through Samsung's partnership with the UNDP. 🤲</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 <strong>Ad Reliance:</strong> Donation mechanism is dependent on ad exposure, which might not appeal to all users. 📢</li>\n<li>🤖 <strong>Exclusive to Samsung:</strong> Currently, the app is available exclusively for Samsung device owners. 📱</li>\n<li>🔄 <strong>Limited Control Over Donations:</strong> Users can choose goals but cannot determine the exact allocation of funds. 🔣</li>\n<li>🔋 <strong>Potential Battery Usage:</strong> Interactive lock screens and ads might lead to increased battery consumption. 🔌</li>\n</ul>\n<p><strong>Price:</strong>\n💵 The Samsung Global Goals app is free to download and use, with no upfront cost. Donations are generated via ad revenue earned within the app.</p>\n<p><strong>Community:</strong>\nHere are some avenues to connect further with the initiative and community around Samsung Global Goals:</p>\n<ul>\n<li>🌍 <a href=\"https://www.samsung.com/us/aboutsamsung/sustainability/strategy/\" rel=\"noopener noreferrer\" target=\"_blank\">Official Samsung Sustainability Strategy</a></li>\n<li>🎯 <a href=\"https://globalgoals.org\" rel=\"noopener noreferrer\" target=\"_blank\">Global Goals Official Website</a></li>\n<li>🏢 <a href=\"http://www.undp.org\" rel=\"noopener noreferrer\" target=\"_blank\">United Nations Development Program</a></li>\n<li>✨ <a href=\"https://project-everyone.org\" rel=\"noopener noreferrer\" target=\"_blank\">Project Everyone</a></li>\n</ul>",
+  "related_apps": [
+    {
+      "link": "/details/com-nibble-lesson/54302.html",
+      "icon": "assets/img/apk/icon/com.nibble.lesson.png",
+      "name": "Nibble: Your Bite of Knowledge",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-matlubapps-myiq/54109.html",
+      "icon": "assets/img/apk/icon/com.matlubapps.myiq.png",
+      "name": "IQ & Personality Tests: IQlab",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-home-lifehealthinsurance/48965.html",
+      "icon": "assets/img/apk/icon/com.home.lifehealthinsurance.png",
+      "name": "Life & Health Insurance Exam",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "3.5"
+    },
+    {
+      "link": "/details/pp-paramedic/48959.html",
+      "icon": "assets/img/apk/icon/pp.paramedic.png",
+      "name": "Paramedic Test Prep 2026",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "3.9"
+    },
+    {
+      "link": "/details/org-truthforlife-app/48953.html",
+      "icon": "assets/img/apk/icon/org.truthforlife.app.png",
+      "name": "Truth For Life",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-habapps-perstest/39344.html",
+      "icon": "assets/img/apk/icon/com.habapps.perstest.png",
+      "name": "The Personality Test",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-schooltoday-alphaomega/39316.html",
+      "icon": "assets/img/apk/icon/com.schooltoday.alphaomega.png",
+      "name": "Alpha & Omega",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-lucida-androidapp/34758.html",
+      "icon": "assets/img/apk/icon/com.lucida.androidapp.png",
+      "name": "Learn Languages - Lucida AI",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "4.6"
+    }
+  ]
+}

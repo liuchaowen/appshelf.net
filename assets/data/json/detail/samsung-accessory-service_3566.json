@@ -1,0 +1,108 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.samsung.accessory.png",
+    "title": "Samsung Accessory Service",
+    "ratings": "4.8",
+    "downloads": "860M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Samsung Accessory Service"
+    },
+    {
+      "name": "category",
+      "value": "Communication"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Samsung Electronics Co., Ltd."
+    },
+    {
+      "name": "Version",
+      "value": "3.1.93.91106"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/zsfVsyDpg8AVuHAIRGB8VyRC51SwvxRKfjnyYzubgSQN5ZCp66-HArjXBRo2gvyiVg",
+    "https://play-lh.googleusercontent.com/nROqoKdsQ--gkq7ePkdkmT5pdpNRr8J5Tz_l73W03BIzjz3MZGTYD8JGylwlT0MnBRXj",
+    "https://play-lh.googleusercontent.com/wlGvGP0h-_mbtLHUJ-onN65u101A4hkgFrIUMXZImh4KCH29ZIMUlrMMQFtGjSb43Jma",
+    "https://play-lh.googleusercontent.com/W3MK_8f55iMwmiuPIp7m5rRxhkktdqQMKRDbsqcgb_HF6Cqc5T9PKg4_upJQvuYs-tk"
+  ],
+  "app_descript": "<p><strong>Samsung Accessory Service</strong></p>\n<p><strong>Brief:</strong>\nSamsung Accessory Service is an app designed to enhance your experience with a range of Samsung accessories, including the GALAXY Gear series, Galaxy Watch series, Gear Fit 2, and Samsung NX-1. This app enables seamless connection between your Samsung mobile devices and accessories, facilitating data transfer and file management with ease.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🔄 <strong>Device Pairing</strong>: Connects seamlessly with Samsung wearable devices and cameras like GALAXY Gear and Samsung NX-1. 📌</li>\n<li>📤 <strong>Data Management</strong>: Allows for efficient sending, receiving, and manipulation of data between devices. 📌</li>\n<li>🗂️ <strong>File Transfer</strong>: Provides a straightforward method to transfer media and other files to the connected accessory. 📌</li>\n<li>🔒 <strong>Permission Handling</strong>: Includes necessary security measures that ensure permissions are granted explicitly for storage access. 📌</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👥 <strong>Compatibility</strong>: Designed to work with a variety of Samsung accessories, ensuring wide usability. 👍</li>\n<li>🌐 <strong>Ease of Use</strong>: Intuitive interface makes it simple to connect and manage devices. 👍</li>\n<li>🚀 <strong>Efficiency</strong>: Enhances the performance and utility of connected Samsung devices. 👍 </li>\n<li>📱 <strong>Integrated Experience</strong>: Offers a unified and integrated approach to managing all Samsung wearable gear and cameras. 👍</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>🚫 <strong>Limited Compatibility</strong>: Only compatible with select Samsung devices and may not function with others. 👎</li>\n<li>💿 <strong>Software Restrictions</strong>: Requires Android 6.0 or higher, potentially limiting users with older OS versions. 👎</li>\n<li>🔒 <strong>Permission Requirements</strong>: Required storage permissions may be a concern for privacy-focused users. 👎</li>\n<li>🔧 <strong>External Storage Issues</strong>: May encounter problems if installed on external storage. 👎 </li>\n</ul>\n<p><strong>Price:</strong>\n💵 This app is free to download and use. There may be additional costs associated with the accessories that the app services.</p>\n<p><strong>Overall, Samsung Accessory Service is a must-have app for users of Samsung wearable devices and cameras who seek a unified and hassle-free connection and file management experience.</strong></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-sst-parrot-photo-frame/53901.html",
+      "icon": "assets/img/apk/icon/com.sst.parrot.photo.frame.png",
+      "name": "Bird Photo Frame",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-new_year-stickers-birthday/39669.html",
+      "icon": "assets/img/apk/icon/com.new_year.stickers.birthday.png",
+      "name": "Happy New Year Stickers 2026",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/org-watchduty-app/14524.html",
+      "icon": "assets/img/apk/icon/org.watchduty.app.png",
+      "name": "Watch Duty (Wildfire)",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-snowcorp-stickerly-android/14453.html",
+      "icon": "assets/img/apk/icon/com.snowcorp.stickerly.android.png",
+      "name": "Sticker.ly - Sticker Maker",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-Happynewyearphotoframe2020/14421.html",
+      "icon": "assets/img/apk/icon/com.Happynewyearphotoframe2020.png",
+      "name": "New Year Video Maker 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-intira-new-year-photo-frame-new/14342.html",
+      "icon": "assets/img/apk/icon/com.intira.new.year.photo.frame.new.png",
+      "name": "New year photo frame 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-christmas-photo-frame-b-new-free/14203.html",
+      "icon": "assets/img/apk/icon/com.christmas.photo.frame.b.new.free.png",
+      "name": "Christmas photo frame 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/ma-apps-face_ml/14137.html",
+      "icon": "assets/img/apk/icon/ma.apps.face_ml.png",
+      "name": "Face reader scanner - analyser",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "3.3"
+    }
+  ]
+}

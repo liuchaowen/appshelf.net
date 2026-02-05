@@ -1,0 +1,112 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/yelp.png",
+    "title": "Yelp",
+    "ratings": "4.6",
+    "downloads": "840M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Yelp"
+    },
+    {
+      "name": "category",
+      "value": "Travel & Local"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Yelp, Inc"
+    },
+    {
+      "name": "Version",
+      "value": "19.14.0-21048903"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/-xQpeLT9KhvQI2AX7t8bPzae9gy1VF_2abs6zYACm0zgl1WJ02WkPxH3QnMqtjXzxGw",
+    "https://play-lh.googleusercontent.com/Stiv7S2ro-s2ttH7S_IrSnrX9QHWzXxMJx0-wfci5FvI3pVGPq051DkvYqd2bBbqvDo",
+    "https://play-lh.googleusercontent.com/ATNrHSnT84170r-WjE0QWmcTOHIkJsyaQUU0mD8YfAmp8TT5ZH4qD7fTIKMmboQGCA",
+    "https://play-lh.googleusercontent.com/JOMSxvp-9SWzyXPCi0q1p7Angb_jT7k1I2xaj3FXINyU8kSqf5K5LDnpGuxe5T1-Kg",
+    "https://play-lh.googleusercontent.com/pX5UtXp9b2LHfyyzxI9LnnCh-QVufnygmCVqCuLEXidt0yCl1_lxmoTgqavnBZURFW4",
+    "https://play-lh.googleusercontent.com/MSSly99WcRdWPETSsFPkMSZrmdecxeIHDgUSAEMSsLO7Dpt1G2zOteMTUupmOe3VGAA",
+    "https://play-lh.googleusercontent.com/J_3Pr3J5ztCY9wHbxgK8eR0cqk5sGSmcG9JQY059sjogNNWnltGJ2Qw2Ezx1nWDopPaZ",
+    "https://play-lh.googleusercontent.com/_zJFYGS_WrH2MARp_B-X0hBrp3jlRyLUOjuAXJBhw7el7fv2q0VM-zYLFxynuyIobzFi"
+  ],
+  "app_descript": "<p><strong>Yelp</strong></p>\n<p><strong>Brief:</strong>\nYelp serves as your mobile navigator to the world of local businesses, encapsulating the firsthand experiences of a global community. From the aroma wafting through the doors of hidden culinary gems to the hum of energy in diverse service-oriented locales, Yelp translates physical footprints into digital insights, providing real-person reviews that power informed decisions.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>📝 <strong>Review Ecosystem:</strong> Pen and peruse reviews on-the-go, capturing your impressions or exploring others' experiences. 📌</li>\n<li>📍 <strong>Directions Assistant:</strong> Easily obtain directions, guiding you to your desired destinations with clarity and precision. 📌</li>\n<li>🔍 <strong>Discovery Portal:</strong> Discover nearby attractions, services, and activities, unveiling exciting opportunities around every corner. 📌</li>\n<li>🍝 <strong>Culinary Companion:</strong> Access menus and indulge your taste buds with Yelp's expansive catalog of dining options. 📌</li>\n<li>📸 <strong>Photographic Showcase:</strong> Add to and view a vibrant gallery of photos from various locales, painting a picture of the environment. 📌</li>\n<li>✅ <strong>Check-in Feature:</strong> Mark your presence and enjoy exclusive benefits at various spots with Yelp's check-in service. 📌</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 <strong>User-Centric Insights:</strong> Provides a wealth of user-generated content for authentic reviews and ratings. 👍</li>\n<li>👍 <strong>Vast Database:</strong> Boasting an extensive range of businesses across categories to explore. 👍</li>\n<li>👍 <strong>Location-Based Services:</strong> Offers geolocation functionality to discover what’s around you effortlessly. 👍</li>\n<li>👍 <strong>Community Trust:</strong> Built on a foundation of credibility with a market value reflecting years of reliable service. 👍</li>\n<li>👍 <strong>Utility Rich:</strong> A tool perfect not only for finding places but also for social engagement and sharing experiences. 👍</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 <strong>Subjective Opinions:</strong> Reviews may be influenced by personal biases, potentially impacting objectivity. 👎</li>\n<li>👎 <strong>Business Impacts:</strong> Negative reviews can significantly affect local establishments. 👎</li>\n<li>👎 <strong>Overwhelming Choice:</strong> Sheer volume of content can make decision-making challenging. 👎</li>\n<li>👎 <strong>Ad Dominance:</strong> The prominence of ads might detract from the user experience. 👎</li>\n<li>👎 <strong>Data Concerns:</strong> Privacy and data management are paramount with check-ins and location services. 👎</li>\n</ul>\n<p><strong>Price:</strong>\n💵 Yelp is a free app, providing a compendium of local insights at no cost to the user. While the platform itself is free, it may feature ads and sponsored content.</p>\n<p><a href=\"https://play.google.com/store/apps/details?id=com.yelp.android\" rel=\"noopener noreferrer\" target=\"_blank\">Download Yelp</a> to embark on a journey of discovery, guided by the reflections and voices of a vast community, all through the screen in your hand.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-bp-app-bpme-global-ros/16042.html",
+      "icon": "assets/img/apk/icon/com.bp.app.bpme.global.ros.png",
+      "name": "earnify",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/kulana-tools-vacationcountdown/10380.html",
+      "icon": "assets/img/apk/icon/kulana.tools.vacationcountdown.png",
+      "name": "Vacation Countdown App",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-disney-playdisneyparks-goo/4681.html",
+      "icon": "assets/img/apk/icon/com.disney.playdisneyparks.goo.png",
+      "name": "Play Disney Parks",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-hornblower-statuecruises/4679.html",
+      "icon": "assets/img/apk/icon/com.hornblower.statuecruises.png",
+      "name": "Statue Cruises",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-usnpw-grca/4678.html",
+      "icon": "assets/img/apk/icon/com.usnpw.grca.png",
+      "name": "Grand Canyon National Park",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/MakeMyTrip-Hotels-Flight-Bus/4591.html",
+      "icon": "assets/img/apk/icon/com.makemytrip.png",
+      "name": "MakeMyTrip Hotels, Flight, Bus",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/ConfirmTkt/4570.html",
+      "icon": "assets/img/apk/icon/com.confirmtkt.lite.png",
+      "name": "ConfirmTkt",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/Bus-Train-Ticket-Booking-App/4503.html",
+      "icon": "assets/img/apk/icon/in.redbus.android.png",
+      "name": "Bus, Train Ticket Booking App",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.9"
+    }
+  ]
+}

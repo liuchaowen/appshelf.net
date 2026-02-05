@@ -1,0 +1,128 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/my-disney-experience.png",
+    "title": "My Disney Experience",
+    "ratings": "4.5",
+    "downloads": "140M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "My Disney Experience"
+    },
+    {
+      "name": "category",
+      "value": "Travel & Local"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Disney"
+    },
+    {
+      "name": "Version",
+      "value": "4.11.5"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/zh8n3zyCeZm1o82IsYXPBop_0tdPWmwB7HoZtT3GS9z3JM0-MbtmHXpqfks6y96RG0k",
+    "https://play-lh.googleusercontent.com/cEguDnYNbytdoQrJo3NOp_P7OWuDnKh3DQDTdpXA3_a0sxW9zwosNkXQ0b_haI5tEa0",
+    "https://play-lh.googleusercontent.com/VXe2_Abc98P_GPC_U-EnsBHjucZxtjsrDwAtPn7dNRKEIiToqUtTMrRiCw0N5fGftmQ",
+    "https://play-lh.googleusercontent.com/K2J52DcS735kcjoFSeh0yluka7QdcVUojs-Ukh-SVoAteKZS4K_A4cPSL-L14LzelRs",
+    "https://play-lh.googleusercontent.com/dbwfTYrUpQ8A8qnVyItPDmVEDcVEbRu0MgPOqrnWzuOqdNW0uxYKNOmjwAZErSx6dbk",
+    "https://play-lh.googleusercontent.com/hRzWa9zH1T_70Erh0ommdy-8w75ThwExeRm4QETx76gWVzif68BJgMlosZQXKyYFYQ",
+    "https://play-lh.googleusercontent.com/ZLDo35XuFTYfRDAMQ8C0ZvIO8tfVhodf7dJtdDGOfCaVFNrd1KlW-rb_QIBQ5dilFnSB",
+    "https://play-lh.googleusercontent.com/9YFhQqOE0CuRUmNzQhC0wbp-NbhXVvfUMIoFcY_EfEdJ-jkUcXDN4mChaA7Pt4TZKmM",
+    "https://play-lh.googleusercontent.com/DE6CoQsIdqGbctzojmqiCYcD800wqasqVgI07AQ_7-rqQEnSHwv3EvPsLCC322-sAgA",
+    "https://play-lh.googleusercontent.com/Zk0ncsVQHAv0r_lfWME7krUro3GNdv-5eW7Q1_hBs6dlA7OBhjzsGpnuMC1Ip4ACPw",
+    "https://play-lh.googleusercontent.com/P0PttPyzGs2WnRqte6K1e-7qHNmNHohycNEbHxXOh9m2eRphc82UKPMx6BA6ntMGxQg",
+    "https://play-lh.googleusercontent.com/uO9vGklBJWTf2dEOEKxzKz1z3q_lD5s9ZzokMm-m9bVzTB-z0M2Cajf0bYgvl-RslHc",
+    "https://play-lh.googleusercontent.com/s7mSugN2PjbCCpJrDFKftGVII352ED_3G6haaExdoUPC9bCBPMqaqhb9hxeawWGnxU4",
+    "https://play-lh.googleusercontent.com/JaLIx8k1VoAO4wBOq_5p6kup3fsVuNNg0t1j6q4OliifDNZz9r6NcXRvF9NAFa36KQ",
+    "https://play-lh.googleusercontent.com/LbVjtfvL8ur_Pz9riNbLTFAB_Txh-iT8LJKxwLuAXF-2RGTZ2zr4WxnTczx-OghPCtA",
+    "https://play-lh.googleusercontent.com/LyUskPEu6fBiCFinjk2GtV8hfmCjH5amC-1aYX6jbidahplHbaXXWYSg3oh2QVab4jE",
+    "https://play-lh.googleusercontent.com/a9SBusmLObNhtJdsL6FSBZE-lOBsoXCO1hjG8R-rtkw1Zd5RVrzyaIUUEfHCpW_n8po",
+    "https://play-lh.googleusercontent.com/tBFRi4eBZo90hylMot_8QRBE5cAn9nH34qvyXHodr-WC76yMWdr2ftxOofYCnlvXwg",
+    "https://play-lh.googleusercontent.com/aW0EzuKxYKjVAcfYKd3Uasb9ARwLaPF9Nw-Nok0hbPuY8b0fyGtw9v3CSbsTB1BUtVU",
+    "https://play-lh.googleusercontent.com/QHqG0kBfnFV8-1pR4UyF6xKFPQf6qy6mItpozSCp3T9XGP32Br4NHxhqQ1Yh2PZ6S10",
+    "https://play-lh.googleusercontent.com/VRfk77zq9Nc-CaWn7gLb_QBm3IdbtM2eS9m0bqU1GZoCB3KZgPOQuZ0cuoEOtHcQz_Wm",
+    "https://play-lh.googleusercontent.com/c1SKLwhBx3lH2_7FtrYW3Wpp793De3x-TKuVrXrt520kRj6BbVGrDUg8OY4FYY_y-cA",
+    "https://play-lh.googleusercontent.com/Y3X_YnqnU0KmtH30q82LW0dZy3bZlsd2oqPhWXhh1q3MCyn7lJpui3j_87Mt3kCUezY",
+    "https://play-lh.googleusercontent.com/C81otFJ5ia9BjasWO6vRaBSapNvK651q_dU8FVkAkmpClHE9itpZtdE19J1HH_lvmao"
+  ],
+  "app_descript": "<p><strong>My Disney Experience</strong></p>\n<p><strong>Brief:</strong>\nMy Disney Experience invites you to weave magic into every aspect of your Walt Disney World Resort adventure. From dynamic navigation within the park to efficient vacation planning, this essential app ensures a sprinkle of Disney enchantment is always at your fingertips.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🗺️ <strong>Interactive GPS Map:</strong> Explore Walt Disney World Resort using a detailed, user-friendly map that offers step-by-step directions. 📍</li>\n<li>⏰ <strong>Attraction Waiting Times &amp; Schedules:</strong> Stay updated with live wait times for attractions and schedules for parades and fireworks. ⏳</li>\n<li>🍽️ <strong>Dining Reservations &amp; Menus:</strong> Browse restaurant menus and secure dining reservations with ease. 🍴</li>\n<li>🎟️ <strong>Ticket &amp; FastPass+ Management:</strong> Purchase theme park tickets and manage your FastPass+ selections to minimize waiting at your favorite rides. 🔄</li>\n<li>📸 <strong>PhotoPass &amp; Memory Maker:</strong> View and manage your Disney photos on your device, with options to edit, download, and share memories through an in-app purchase service. 🖼️</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👑 <strong>Optimized Park Navigation:</strong> Get turn-by-turn directions that guide you through the magical kingdom, making your Disney experience smooth and enjoyable. ✨</li>\n<li>📅 <strong>My Plans Organizer:</strong> All your activities, reservations, tickets, and more become organized in one place for seamless travel planning. 📝</li>\n<li>🛒 <strong>Shopping Integration:</strong> Shop for authentic Disney Parks merchandise through quick links to Shop Disney Parks, all within the app. 🛍️</li>\n<li>✋ <strong>Fingerprint Login (iOS):</strong> Enables swift, secure access to your account using fingerprint recognition (exclusive to iOS devices). 🔒</li>\n<li>🔄 <strong>Experience Modification:</strong> Flexibility to adjust your party’s FastPass+ selections, allowing you to tailor your Disney experience on the go. 🎢</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 <strong>Device Limitation:</strong> Certain features like fingerprint login are only available on iOS devices, which may disappoint Android users. 🤖</li>\n<li>💳 <strong>In-App Purchases:</strong> Some services, like the Memory Maker, require additional purchases, potentially adding to the cost of your visit. 💸</li>\n<li>🔄 <strong>Learning Curve:</strong> First-time users may need some time to navigate and utilize all the app's features effectively. 🤔</li>\n<li>💬 <strong>Sharing Limitations:</strong> While you can share plans with your group, coordinating with larger parties could be more streamlined. 👥</li>\n<li>🌐 <strong>Connectivity Dependent:</strong> The app's performance is heavily reliant on mobile connectivity, which can be inconsistent within the parks. 📶</li>\n</ul>\n<p><strong>Price:</strong>\n💵 The My Disney Experience app is free to download, with optional in-app purchases for services like Memory Maker. Always check the app for the latest pricing and offers.</p>\n<p><strong>Community:</strong> <em>(Note: The community aspect may not be relevant for a non-game app like My Disney Experience, but here are related links for informational purposes.)</em></p>\n<ul>\n<li>🌐 <strong>Official Site</strong>: <a href=\"http://www.mydisneyexperience.com\" rel=\"noopener noreferrer\" target=\"_blank\">My Disney Experience</a></li>\n<li>🎥 <strong>Related YouTube Channels</strong>: Content on Walt Disney World Resort can also be found on their <a href=\"https://www.youtube.com/waltdisneyworld\" rel=\"noopener noreferrer\" target=\"_blank\">Official YouTube Channel</a>.</li>\n<li>🔗 <strong>Social Media Presence</strong>: Connect with fellow Disney enthusiasts on platforms like <a href=\"https://www.instagram.com/waltdisneyworld/\" rel=\"noopener noreferrer\" target=\"_blank\">Instagram</a>, <a href=\"https://twitter.com/WaltDisneyWorld\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a>, <a href=\"https://www.facebook.com/WaltDisneyWorld\" rel=\"noopener noreferrer\" target=\"_blank\">Facebook</a>, and <a href=\"https://www.tiktok.com/@disneyparks\" rel=\"noopener noreferrer\" target=\"_blank\">TikTok</a>.</li>\n</ul>",
+  "related_apps": [
+    {
+      "link": "/details/com-bp-app-bpme-global-ros/16042.html",
+      "icon": "assets/img/apk/icon/com.bp.app.bpme.global.ros.png",
+      "name": "earnify",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/kulana-tools-vacationcountdown/10380.html",
+      "icon": "assets/img/apk/icon/kulana.tools.vacationcountdown.png",
+      "name": "Vacation Countdown App",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-disney-playdisneyparks-goo/4681.html",
+      "icon": "assets/img/apk/icon/com.disney.playdisneyparks.goo.png",
+      "name": "Play Disney Parks",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-hornblower-statuecruises/4679.html",
+      "icon": "assets/img/apk/icon/com.hornblower.statuecruises.png",
+      "name": "Statue Cruises",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-usnpw-grca/4678.html",
+      "icon": "assets/img/apk/icon/com.usnpw.grca.png",
+      "name": "Grand Canyon National Park",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/MakeMyTrip-Hotels-Flight-Bus/4591.html",
+      "icon": "assets/img/apk/icon/com.makemytrip.png",
+      "name": "MakeMyTrip Hotels, Flight, Bus",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/ConfirmTkt/4570.html",
+      "icon": "assets/img/apk/icon/com.confirmtkt.lite.png",
+      "name": "ConfirmTkt",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/Bus-Train-Ticket-Booking-App/4503.html",
+      "icon": "assets/img/apk/icon/in.redbus.android.png",
+      "name": "Bus, Train Ticket Booking App",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.9"
+    }
+  ]
+}

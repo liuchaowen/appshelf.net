@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.videostar.editor.star.png",
+    "title": "Video Star",
+    "ratings": "4.4",
+    "downloads": "760M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Video Star"
+    },
+    {
+      "name": "category",
+      "value": "Photography"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Procreate LLC Tech."
+    },
+    {
+      "name": "Version",
+      "value": "1.0.7"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h1>Video Star</h1>\n<p>Are you ready to unleash your inner filmmaker and make videos that captivate your audience? Video Star is here to make your video editing journey as vibrant and exciting as the visuals you wish to create.</p>\n<h3>Brief</h3>\n<p>Video Star is a dynamic video editing app that caters to creative individuals looking to elevate their video content. The app offers a plethora of editing tools and effects that ensure every video stands out. Dive into a world where your imagination meets the ease of editing!</p>\n<h3>Core Features 🌟</h3>\n<ul>\n<li><strong>Intuitive Editing Suite</strong>: Jump into editing with user-friendly controls and a smooth interface designed for quick learning and professional results. 🎬</li>\n<li><strong>Diverse Video Effects</strong>: Spice up your videos with an extensive range of effects and filters to suit every mood or theme. 💫</li>\n<li><strong>Custom Animations</strong>: Bring life to your creations with customizable animations that will make your content pop. 🏃‍♀️💨</li>\n<li><strong>Real-time Editing</strong>: Experience the magic of seeing your edits take shape instantly as you apply changes in real-time. ✨</li>\n<li><strong>Sharing Capability</strong>: Easily share your polished videos directly to social media platforms to captivate your friends and followers. 🚀</li>\n</ul>\n<h3>Pros 👍</h3>\n<ul>\n<li><strong>User-Centric Design</strong>: The app prioritizes the user experience with an interface that’s accommodating for both novice and experienced editors. 👥</li>\n<li><strong>No Professional Skills Needed</strong>: You don’t need to be a pro to create pro-level content, thanks to Video Star's intuitive features. 🌈</li>\n<li><strong>Regular Updates</strong>: The app is regularly updated with new features and effects to keep your creativity flowing. 🔄</li>\n<li><strong>Community Engagement</strong>: Engage with a community of video creators and gain inspiration for your next project. 🤝</li>\n</ul>\n<h3>Cons 👎</h3>\n<ul>\n<li><strong>Learning Curve</strong>: While user-friendly, some features may require a learning period for complete mastery. 🧠</li>\n<li><strong>Performance Requirements</strong>: The app may require a device with good performance specs to function smoothly. 📱</li>\n<li><strong>Storage Space</strong>: High-quality video editing could demand significant space on your device. 💾</li>\n<li><strong>Potential In-app Purchases</strong>: Some premium features may come at an additional cost. 💳</li>\n</ul>\n<h3>Price 💵</h3>\n<ul>\n<li><strong>Free with In-App Purchases</strong>: Video Star offers a robust free version, while additional premium features can be unlocked through in-app purchases. The pricing for these features may vary.</li>\n</ul>\n<p>With Video Star, transform your video content into a stunning visual feast that reflects your unique vision. Whether for fun or professional purposes, this app is a companion for storytellers who wish to share their narratives through the compelling medium of video. 🎥✨</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-appwallet-coupletraditionaldress/54509.html",
+      "icon": "assets/img/apk/icon/com.appwallet.coupletraditionaldress.png",
+      "name": "Traditional Suit : Change Face",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-appwallet-ValentinesDayFrames/54392.html",
+      "icon": "assets/img/apk/icon/com.appwallet.ValentinesDayFrames.png",
+      "name": "Valentine's Day Photo Frame",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-valentineweek-photo_frames/54386.html",
+      "icon": "assets/img/apk/icon/com.valentineweek.photo_frames.png",
+      "name": "Valentine Day Photo Frame 2026",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/valentine-photo-frame-editor/54380.html",
+      "icon": "assets/img/apk/icon/valentine.photo.frame.editor.png",
+      "name": "Valentine's Day Photo Frame",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-aaptechno-photomaker-republicday/54338.html",
+      "icon": "assets/img/apk/icon/com.aaptechno.photomaker.republicday.png",
+      "name": "Republic day Photo Frame",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/utility-independancephotoframe/54332.html",
+      "icon": "assets/img/apk/icon/utility.independancephotoframe.png",
+      "name": "Republic Day Photo Frames",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-appbench-republicdayphotoframes/54326.html",
+      "icon": "assets/img/apk/icon/com.appbench.republicdayphotoframes.png",
+      "name": "Republic Day Photo Frames",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-themasterapps-happybirthdaywishesimages/54176.html",
+      "icon": "assets/img/apk/icon/com.themasterapps.happybirthdaywishesimages.png",
+      "name": "Happy Birthday & Good Morning",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.8"
+    }
+  ]
+}

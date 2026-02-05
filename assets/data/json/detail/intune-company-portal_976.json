@@ -1,0 +1,112 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/com.microsoft.windowsintune.companyportal.png",
+    "title": "Intune Company Portal",
+    "ratings": "2.6",
+    "downloads": "220M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Intune Company Portal"
+    },
+    {
+      "name": "category",
+      "value": "Business"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Microsoft Corporation"
+    },
+    {
+      "name": "Version",
+      "value": "5.0.5556.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/AvE-oSL07kKqe6wYGyp0qhWWIEzvlr2v-lwZQr9t85iZuj9WwZsAJeQaIomlXI8pBJk",
+    "https://play-lh.googleusercontent.com/FhhOV-lwMmP2bE0N2lYGZjVR_l9VdZ6tn2dP9QgllVNF12RRqH5090qrE-cm-OsWSis",
+    "https://play-lh.googleusercontent.com/Px_fO4OMV9kjuO4kqgpBsS9uYK7dgmWMJBIOUSScPX5wuV-8OTGsfCwMP62aV92NoIs",
+    "https://play-lh.googleusercontent.com/UYE0T_dUvrV3Z7yfuPE4m8wmXSeAQXFvMNC6xUymLq6v-cgnN_-3DXrMnnq1kDEA5NE",
+    "https://play-lh.googleusercontent.com/FA7otux4XVltwnbbeL_1akGq5BJj4gPny6piZhhteZnpOQDJIkdXyO8xGMIB89olzg",
+    "https://play-lh.googleusercontent.com/aVECgOjz-giu_8wC3X_cPAASNJReoMg1LFLed5A01zZFTS6KLl5iJef3eHD_zSbjV7Q",
+    "https://play-lh.googleusercontent.com/gUC6WZWM5D1ymg9TOhGsadVX3YrdLMvnpvXtFLw7PnOsJQHgsTFntI3NyfzLhXfhPg",
+    "https://play-lh.googleusercontent.com/S_OslcbVEzKnzX7MQQ2ItqjeGQs0gQOmGJbWRpQuNR_5Y9266nxV68FO4RoPf9CSXQ"
+  ],
+  "app_descript": "<p><strong>Intune Company Portal</strong></p>\n<p><strong>Brief:</strong>\nIntune Company Portal is a robust enterprise mobility management app from Microsoft. It essentially acts as a gateway for users to access company resources on their mobile devices safely and efficiently. This app streamlines the process of enrolling devices to comply with corporate policies, securing corporate data, and managing your work profile effectively.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>📱 <strong>Device Enrollment:</strong> Initiate and manage enrollment of your personal or corporate-owned devices to access necessary company resources with ease. 🔏</li>\n<li>🛍️ <strong>Company Apps Access:</strong> Browse a catalog of approved company apps and install them on your enrolled devices promptly. 📲</li>\n<li>📊 <strong>Device Management:</strong> Keep track of all your enrolled devices, view their status, and manage them according to company policies. 🖥️</li>\n<li>🆘 <strong>IT Support Portal:</strong> Access IT department contact information directly for support-related queries and assistance. ☎️</li>\n<li>🔑 <strong>Password Management:</strong> Conveniently change your work account password through the app, ensuring security and privacy. 🔄</li>\n<li>🚫 <strong>Secure Wipe Options:</strong> Unenroll or command a remote wipe of devices to ensure data security, especially when a device is lost or stolen. 💥</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 <strong>Streamlined Access:</strong> Provides a one-stop interface for accessing various corporate resources, simplifying the employee experience. 🌐</li>\n<li>👍 <strong>Remote Management:</strong> Enables the IT department to manage and update device policies remotely, which can be critical for maintaining security. 🔧</li>\n<li>👍 <strong>Comprehensive App Catalog:</strong> Smoothly discover and install company-approved applications without the need for accessing the public app store. 💼</li>\n<li>👍 <strong>Up-to-date Information:</strong> Always know the status of your enrolled devices and have quick access to changing account passwords or contacting IT support. 🔄</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 <strong>Device Compatibility:</strong> Some functionality might not be available in certain countries or on all devices, which can limit the app's utility. 🌍</li>\n<li>👎 <strong>Corporate Control:</strong> Device enrollment often means the company has a degree of control over the device, which might raise privacy concerns for some users. 🔒</li>\n<li>👎 <strong>Setup Process:</strong> The enrollment process can be complex and might require assistance from the IT department, potentially leading to delays. ⚙️</li>\n<li>👎 <strong>Uninstall Steps:</strong> Unenrolling and uninstalling the app requires following a specific set of instructions, which might be cumbersome for some users. 📝</li>\n</ul>\n<p><strong>Price:</strong>\n💵 The Intune Company Portal app is free to download, but its use is contingent on the organization's subscription to Microsoft Intune.</p>\n<p><a href=\"https://docs.microsoft.com/Intune/EndUser/using-your-android-device-with-intune\" rel=\"noopener noreferrer\" target=\"_blank\">Microsoft Intune Documentation</a> provides detailed insights into using your Android device with Intune and contains steps to unenroll your device if necessary.</p>\n<p><strong>How to Uninstall Intune Company Portal:</strong>\nTo uninstall the Company Portal app, the device must be unenrolled from Intune first. You can find the unenrollment steps at the Microsoft Intune documentation <a href=\"https://docs.microsoft.com/intune/enduser/unenroll-your-device-from-intune-android\" rel=\"noopener noreferrer\" target=\"_blank\">here</a>, and then uninstall the app as you would any other application.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-kj2147575505-app/16858.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.kj2147575505.app.png",
+      "name": "Alpha Omega Consulting",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-hypertide-petscan-v8m/15982.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.hypertide.petscan.v8m.png",
+      "name": "PetScan",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "2"
+    },
+    {
+      "link": "/details/com-animalid-scanner/15981.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.animalid.scanner.png",
+      "name": "Pet Scanner",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-webrange-sendoff-app/15417.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.webrange.sendoff.app.png",
+      "name": "Sendoff Funeral App",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-dyve-countthings/10295.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.dyve.countthings.png",
+      "name": "CountThings from Photos",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "3"
+    },
+    {
+      "link": "/details/com-countthis-count-things-counting-template-counter/5097.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.countthis.count.things.counting.template.counter.png",
+      "name": "Count This・Counting Things App",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-aadi-personalitytraittest/4991.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.aadi.personalitytraittest.png",
+      "name": "Personality Trait Test",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/GlowRoad/4569.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.localqueen.png",
+      "name": "GlowRoad",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.6"
+    }
+  ]
+}

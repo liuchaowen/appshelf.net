@@ -1,0 +1,112 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.here.app.maps.png",
+    "title": "HERE WeGo",
+    "ratings": "3.2",
+    "downloads": "520M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "HERE WeGo"
+    },
+    {
+      "name": "category",
+      "value": "Maps & Navigation"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "HERE Apps LLC"
+    },
+    {
+      "name": "Version",
+      "value": "4.9.200"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/AR2lSaYTgW0ooU_G_8y_k4KFc87i0tPHjZ21VRZ-ZACcOao7OuXNBvCCRg-plIH2eQME",
+    "https://play-lh.googleusercontent.com/jJne8y_hbtZ9lxmZb1JtmQ04N0-Q4dHotFoIbXVayPrnz2PgBn0Mhw4GMJCLVTixKYI",
+    "https://play-lh.googleusercontent.com/qnaK_-nAUe3aE6bsFXupcuadLiJI_OYQSNYMtLkrUnglJ-3QSKnUHUb7p7LN9j5gjg",
+    "https://play-lh.googleusercontent.com/pzx_GxvVFC7yp3BgCZNqg94dE1c2VRz4rh9FM7vknZA1ImKM98E9qTL548e6RhbFt9Q",
+    "https://play-lh.googleusercontent.com/TjXw7j4WLJTPOv-4dF05VKwGebYlytYjXdgFjEKQF3NBOxGQhbAeXFbGy4SwJEJ8XQ",
+    "https://play-lh.googleusercontent.com/h94SW-YIt7GqRXxZaFiGW7oGoRBVtAnoIc6uVdNnB3vEjxFNASVMMdo9r5K97KMF",
+    "https://play-lh.googleusercontent.com/depElEElJrDoNzCOwKGoKYhm0v14f19dYACPAyuDjGihzeNu-aDc1YH0cPnnSNSXXKz4",
+    "https://play-lh.googleusercontent.com/Fv4C-0Do2Yk0T0N7e4BeAlfjRJHWbe5CZaTXmd32RfPEE5g0GjnViMn8mtZlQHi777P1"
+  ],
+  "app_descript": "<p><strong>App Description for HERE WeGo</strong></p>\n<p><strong>Brief:</strong>\nHERE WeGo is a comprehensive mobile mapping and navigation app designed to help users find their way to their favorite destinations swiftly and efficiently. Ideal for routine commutes or adventurous explorations, this app facilitates organizing trips, discovering new routes, and navigating without an internet connection.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>📍 Personal Collections: Create collections of frequently visited places for quick access and streamlined organization. 🗺️</li>\n<li>🛣️ Custom Routes: Easily add multiple waypoints to tailor your journey and receive precise directions. 📍</li>\n<li>🗺️ Offline Maps: Download maps of regions, countries, or continents to ensure reliable navigation without using mobile data. 📵</li>\n<li>🚲 Multi-Modal Transport: Look forward to more options like bike and car-sharing for diverse travel needs. 🚴</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 Convenience: One-click directions to saved places enhance the user experience. 📍</li>\n<li>👍 Personalization: Customize journeys with extra stops and preferred routes. 🛤️</li>\n<li>👍 Data Efficient: Offline functionality saves on mobile data and ensures continuous guidance. 📲</li>\n<li>👍 Future-Ready: Planned expansions for including more travel services promise an all-inclusive navigational tool. 🚀</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 Requires Prior Download: Downloading maps for offline use might demand significant storage space. 💾</li>\n<li>👎 Learning Curve: New users might need time to familiarize themselves with all the features. 🤔</li>\n<li>👎 Dependence on Updates: The app's efficiency may be contingent on regular updates for the latest features and map accuracy. 🔄</li>\n<li>👎 Limited Transit Details: In some regions, information on public transportation may not be as detailed. 🚌</li>\n</ul>\n<p><strong>Price:</strong>\n💵 The HERE WeGo app is available for free, but keep an eye out for any future services that may include additional costs.</p>\n<p><a href=\"https://www.herewego.app/\" rel=\"noopener noreferrer\" target=\"_blank\">Download HERE WeGo</a></p>\n<p><em>Note: Information about the community aspects such as the official site or social media presence for HERE WeGo is not provided in this summary.</em></p>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-hundred-qibla-finder/14082.html",
+      "icon": "assets/img/apk/icon/com.hundred.qibla.finder.png",
+      "name": "Qibla Finder Compass 100%",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/kbk-maparea-measure-geo/5067.html",
+      "icon": "assets/img/apk/icon/kbk.maparea.measure.geo.png",
+      "name": "Gps Area Calculator",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "3.9"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/Offline-Maps-GPS-Speedometer/4633.html",
+      "icon": "assets/img/apk/icon/com.radarapp.trip.speedometer.png",
+      "name": "Offline Maps, GPS, Speedometer",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.2"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/Satellite-View-Offline/4620.html",
+      "icon": "assets/img/apk/icon/com.breezeammarathon.viskoproton.grampooffline.png",
+      "name": "Satellite View Offline",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/Rapido/4563.html",
+      "icon": "assets/img/apk/icon/com.rapido.passenger.png",
+      "name": "Rapido",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/CarInfo/4500.html",
+      "icon": "assets/img/apk/icon/com.cuvora.carinfo.png",
+      "name": "CarInfo",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.1"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-trailbehind-android-gaiagps-pro/4473.html",
+      "icon": "assets/img/apk/icon/com.trailbehind.android.gaiagps.pro.png",
+      "name": "Gaia GPS: Offroad Hiking Maps",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.2"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-gpsnavigation-maps-gpsroutefinder-routemap/4472.html",
+      "icon": "assets/img/apk/icon/com.gpsnavigation.maps.gpsroutefinder.routemap.png",
+      "name": "GPS Navigation: Road Map Route",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    }
+  ]
+}

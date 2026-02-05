@@ -1,0 +1,109 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.twitter.android.lite.png",
+    "title": "Twitter Lite",
+    "ratings": "4.6",
+    "downloads": "850M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Twitter Lite"
+    },
+    {
+      "name": "category",
+      "value": "News & Magazines"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Twitter, Inc."
+    },
+    {
+      "name": "Version",
+      "value": "3.1.1"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/9DuKvdTeliYlrpx5vHfkir9M7Pz2J2noS_LH93Fk4IGKt67er6urRX1mWYR0TvCB8Gk",
+    "https://play-lh.googleusercontent.com/HWZ8VNXy8nX98Gr6h8Cl0XwHHTr_m3_0VIXK8hVdKzNRhq-bJR-AWNtU9DEZaI3EIEQ",
+    "https://play-lh.googleusercontent.com/LRtR_4vibizaDrVq0QnZOyEmngM_DDlAzpw-zZ9wynFKXL2oEfOasIYYuggt99E3PGNQ",
+    "https://play-lh.googleusercontent.com/ES1BKA8zaCbdTY0rmbkrmkiqrYRwUrdy3cezTv_i5yYUI7JSrzniz2OChZJedzp06GQ",
+    "https://play-lh.googleusercontent.com/ZyFE8X-Y4j2uEFkHR_VKhUrVgcpDd7-NhcJ7jRcOzl9cfG6IGKNbJQigk6NE0jZsf70t"
+  ],
+  "app_descript": "<h1>Twitter Lite</h1>\n<h3>Brief:</h3>\n<p>Experience the power of social networking with Twitter Lite, the streamlined version of the popular Twitter app. Designed to be lightweight and efficient, Twitter Lite is the perfect choice for those who want to stay connected on the go, provided you have an Android device version 5.0 and above. Keeping up with entertainment, sports, and world events has never been easier.</p>\n<h3>Core Features:</h3>\n<ul>\n<li>📰 <strong>Home Timeline</strong>: Dive into discussions about current events, entertainment, and sports with ease. 📌</li>\n<li>🔍 <strong>Explore</strong>: Discover breaking news, trending topics, and hashtags from around the globe. 📌</li>\n<li>✉️ <strong>Direct Messages</strong>: Engage in private conversations or group chats about the latest happenings. 📌</li>\n<li>🔔 <strong>Notifications</strong>: Stay updated with what's happening on your Tweets and mentions. 📌</li>\n<li>🔒 <strong>Privacy Controls</strong>: Opt for a private account to control who sees your Tweets. 📌</li>\n</ul>\n<h3>Pros:</h3>\n<ul>\n<li>👍 Lightweight app design ideal for conserving data and storage space.</li>\n<li>👍 Access real-time news updates, live broadcasts, and trending music easily.</li>\n<li>👍 Retain full Twitter functionality with Tweet, Retweet, like, and bookmark capabilities.</li>\n<li>👍 Seamless private messaging and group conversations for personal interactions.</li>\n<li>👍 User-friendly interface to maintain your social network with minimal hassle.</li>\n</ul>\n<h3>Cons:</h3>\n<ul>\n<li>👎 Some features may be limited compared to the full version of Twitter.</li>\n<li>👎 May not support older devices with Android versions below 5.0.</li>\n<li>👎 Video quality may be reduced to save on data and storage.</li>\n<li>👎 Push notifications might be less reliable on some devices.</li>\n<li>👎 The experience may vary significantly depending on the network speed and connectivity.</li>\n</ul>\n<h3>Price:</h3>\n<p>💵 Twitter Lite is a free app, offering the core functionalities of Twitter without any additional cost.</p>\n<p><a href=\"mobile.twitter.com\" rel=\"noopener noreferrer\" target=\"_blank\">Access Twitter Lite</a></p>\n<p>For further assistance and insights, explore the <a href=\"https://help.twitter.com/en/using-twitter/twitter-lite\" rel=\"noopener noreferrer\" target=\"_blank\">Help Center</a>. Twitter Lite's compatibility starts from Android versions 5.0 and above, ensuring a broad range of smartphones can harness the power of this app.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-app-foapp/15418.html",
+      "icon": "assets/img/apk/icon/com.app.foapp.png",
+      "name": "The Obituary App",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-globalnews-android-novanews/5116.html",
+      "icon": "assets/img/apk/icon/com.globalnews.android.novanews.png",
+      "name": "Global News - Breaking & Local",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/Hindi-News-by-Dainik-Bhaskar/4635.html",
+      "icon": "assets/img/apk/icon/com.ak.ta.dainikbhaskar.activity.png",
+      "name": "Hindi News by Dainik Bhaskar",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/Way2News-News-updates-Election/4625.html",
+      "icon": "assets/img/apk/icon/sun.way2sms.hyd.com.png",
+      "name": "Way2News News updates Election",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/Hindi-News/4507.html",
+      "icon": "assets/img/apk/icon/in.AajTak.headlines.png",
+      "name": "Hindi News",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/TVA-Nouvelles/4479.html",
+      "icon": "assets/img/apk/icon/com.nurun.lcn.png",
+      "name": "TVA Nouvelles",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/uol/3121.html",
+      "icon": "assets/img/apk/icon/br.uol.noticias.png",
+      "name": "UOL",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/local-news/3120.html",
+      "icon": "assets/img/apk/icon/com.opera.app.news.local.png",
+      "name": "Local News",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.5"
+    }
+  ]
+}

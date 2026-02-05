@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/com.hipchat.png",
+    "title": "HipChat",
+    "ratings": "4.1",
+    "downloads": "510M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "HipChat"
+    },
+    {
+      "name": "category",
+      "value": "Business"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Atlassian"
+    },
+    {
+      "name": "Version",
+      "value": "3.31.000"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>Brief:</strong>\nHipChat by Atlassian is the ultimate real-time collaboration tool designed to boost productivity amongst coworkers, teammates, and friends. Providing a secure and private platform for messaging and file sharing, HipChat streamlines communication, making it faster than email and more personal than faxing. Teams can effortlessly collaborate on projects and campaigns, enriching their work experience and fostering a robust tech culture.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li><strong>Real-Time Messaging</strong>: Stay connected with instant communication across the team 📲.</li>\n<li><strong>File Sharing</strong>: Exchange files and images with ease, ensuring no details are missed 📁.</li>\n<li><strong>Unlimited Rooms</strong>: Create as many chat spaces as you need for different conversations and teams 🏠.</li>\n<li><strong>Chat History</strong>: Access your full conversation history to retrieve information anytime 🔍.</li>\n<li><strong>Integration Galore</strong>: Seamlessly connects with Atlassian products and over 80 other tools, including Twitter and Google Drive 🔗.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li><strong>Enhanced Productivity</strong>: A suite of features aimed at making teams more productive 👥.</li>\n<li><strong>Accessible Anywhere</strong>: Stay in the loop with mobile push notifications and email alerts 🌎.</li>\n<li><strong>Secure Conversations</strong>: The app provides a safe and secure environment for all communications 🔒.</li>\n<li><strong>User-Friendly</strong>: An easy sign-up process and applications for multiple platforms 🌟.</li>\n<li><strong>Highly Rated</strong>: Praised by businesses for its contribution to company culture and communication 🏅.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li><strong>Need for Signup</strong>: A new account is necessary to access the platform 📝.</li>\n<li><strong>App Integration Required</strong>: To maximize utility, integrating other services is recommended ⚙️.</li>\n<li><strong>Platform Dependency</strong>: Reliant on Atlassian ecosystem for full feature access 🌐.</li>\n<li><strong>Notifications</strong>: Can be overwhelming if not managed properly 🚨.</li>\n<li><strong>Internet Reliance</strong>: Requires a constant internet connection for real-time collaboration ☁️.</li>\n</ul>\n<p><strong>Price:</strong>\nSigning up for HipChat is free, offering a great way to test its capabilities without any initial financial commitment 💵.</p>\n<p>Please note, HipChat has now been replaced by Atlassian's Stride and Slack, which encompasses many of the features that HipChat offered. Users interested in these functionalities are encouraged to check out the newer platforms for team communication and collaboration.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-kj2147575505-app/16858.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.kj2147575505.app.png",
+      "name": "Alpha Omega Consulting",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-hypertide-petscan-v8m/15982.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.hypertide.petscan.v8m.png",
+      "name": "PetScan",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "2"
+    },
+    {
+      "link": "/details/com-animalid-scanner/15981.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.animalid.scanner.png",
+      "name": "Pet Scanner",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-webrange-sendoff-app/15417.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.webrange.sendoff.app.png",
+      "name": "Sendoff Funeral App",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-dyve-countthings/10295.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.dyve.countthings.png",
+      "name": "CountThings from Photos",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "3"
+    },
+    {
+      "link": "/details/com-countthis-count-things-counting-template-counter/5097.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.countthis.count.things.counting.template.counter.png",
+      "name": "Count This・Counting Things App",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-aadi-personalitytraittest/4991.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.aadi.personalitytraittest.png",
+      "name": "Personality Trait Test",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/GlowRoad/4569.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.localqueen.png",
+      "name": "GlowRoad",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.6"
+    }
+  ]
+}

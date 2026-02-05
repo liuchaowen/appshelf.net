@@ -1,0 +1,128 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/com.neverland.alreader.png",
+    "title": "AlReader",
+    "ratings": "4.3",
+    "downloads": "30M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "AlReader"
+    },
+    {
+      "name": "category",
+      "value": "Books & Reference"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Alan.Neverland"
+    },
+    {
+      "name": "Version",
+      "value": "1.932102241"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/se60AaN9ouY0ayxIjLvZ_RWQGqRXEaBdrRxHhfovh87tzzJ3pQHvCgSSc7o11Uj-hA",
+    "https://play-lh.googleusercontent.com/h5xyEMGKm99nMYxR2kilfb1QRU4HeZG9KasHoqgs1cRNyMog71F4T6f3nigbKIGXDzbu",
+    "https://play-lh.googleusercontent.com/ZJU4o19x0-YfSVyJhttlqPVmwFgV4lc0mk78wFQhmievVN2zRqwtBIdY_N7sefudtg",
+    "https://play-lh.googleusercontent.com/vkD3zl5HHeHK1f4XOD5PbZd-d-SE5cPtbt9IqnrXeLA8Q9QF3C8XnV0_l7jQpL3AL28",
+    "https://play-lh.googleusercontent.com/GBm5XIFmoXROY-tELop17jsz8u2OtEElp2xfZtiXJJ7T0uWLapMeglUkcCAR07QUGJ4s",
+    "https://play-lh.googleusercontent.com/4pp7HTyvf1zL1e3fT2ZSBgbpdbdXOLo4NWI1vdAR-GRdwSqWfQYrUemiLbQmTUtqNLk9",
+    "https://play-lh.googleusercontent.com/mOyJvyb_5Mq8sTYQBYnAevaXwkpmtvRE4Yh4ORJvg5pkJfnR7duUf-a9KIGsnFcyOtQ",
+    "https://play-lh.googleusercontent.com/hWLXGdO12n_qhcMwdu3oK33NMYH82bqIL_1VXV1Wr7djms42mV8cicxygYA67RRgQJc",
+    "https://play-lh.googleusercontent.com/GSHXf2wyrNJVG83g6ESpV_dUo9sRas2qIY8gbaAGKAf0SEiYfQND1dkLpyW0Yp_-2w",
+    "https://play-lh.googleusercontent.com/kCWx7yoK3sh5ROnucF3ONgEOL-WeYnB8SQwCzjzeH_VLh6wo0wc2AsdijO9K3S-OZpg",
+    "https://play-lh.googleusercontent.com/hHmoT2_DW_xSzXbhjS_c1qDJiSyaaJmoQzxmNwtlLfYMEIoxKY6n-o_sQ1hJXkq_w5wO",
+    "https://play-lh.googleusercontent.com/2UofORMS-xRD24Toq4sNGW_Q3AfffOHzg_wodb6_Fbz0kr5i2P4CAPtEtVRwLWetLdo",
+    "https://play-lh.googleusercontent.com/1m1_rcM-T-WsNxF9DgzFpY5wJmbUQSfdNxorB_9eGj0Tf0JhP5wqJSWkhtlBNpRzBTCX",
+    "https://play-lh.googleusercontent.com/ZllU-IpxIj7NFsCV_bdMtwmsJCZ_rkbdNAX_ZrQBPfcsQNm6FE298jLclWOQsYcxOA",
+    "https://play-lh.googleusercontent.com/SOK0dnOi-9rbXyyDedBR54X99Geingt_SJeZOw3mSaz-z3JZDJyBsSAqzYLONP5rCUEp",
+    "https://play-lh.googleusercontent.com/NTPO-QsOnqDC0EOSLV2a7NYRUV_27nB5P3Is_KjXEbG6qwVPd-mbgcy-4LxI624U-tM",
+    "https://play-lh.googleusercontent.com/tRo6XEQnUNFq9Ywaz7LM4iGqImDdyqNRXxBC5WAbtvk17yAWodVFGJaZVFFQ8tmPzok",
+    "https://play-lh.googleusercontent.com/2vWhG4juJ77K7pp04uP_ii6JzZnyld0Kl9x1I5MrZbYhfIBOmRLXP0Kam7d9uzhrGyw",
+    "https://play-lh.googleusercontent.com/TQjd6ki7bOYop2dYyou2WY0FZS4BXseiddfAiHagBm2oEFgqOV_VLoiJxRWdIbDKqp3h",
+    "https://play-lh.googleusercontent.com/K0TECHXOjsFPxpqxA_9YzX2Amo2Sok5ZJfdQcy29vKr6Z3nfY9D233jkMmOV33b28A",
+    "https://play-lh.googleusercontent.com/Q01lVRnhYOo7iJy1Nm3vR2zowM0lVWULOh9AydegyCMZztQ4LdeaRPOll0dEyInTufM",
+    "https://play-lh.googleusercontent.com/PwVIk_4dm1QixCBo7_-PB8v0Az85_v_uM2CE98nYPK1WJx74nTpOOS_g2wBAgyQ-cpM",
+    "https://play-lh.googleusercontent.com/MMOsFV0DNjks8AH3d6BPfdtxYgUwNlSc-qb3db1PxmDMmAlccroc0OJIqGXT7Xnda4w",
+    "https://play-lh.googleusercontent.com/gxaGtldhshK0eb8NnQRU_IQj9MFV14rtU7EiG5FB23mWM_e1AD-9k22yzLTkYEpoI88"
+  ],
+  "app_descript": "<h2>AlReader - The Customizable Reading Companion</h2>\n<p><strong>Brief:</strong>\nAlReader is an exceptionally versatile e-book reader app catering to avid readers seeking a customizable and convenient reading experience on their Android devices. With its support for multiple languages, a sizable array of file types, and a host of personalized settings, AlReader stands out as a tailored digital library that meets the needs of every bibliophile.</p>\n<h3>📌 Core Features:</h3>\n<ul>\n<li><strong>Multilingual Interface &amp; TTS:</strong> Offers a user-friendly interface in various languages including Russian, English, German, and more; also supports Text-To-Speech functionality for hands-free reading 🌍.</li>\n<li><strong>Extensive Library Management:</strong> Manage your local library with filters like authors, series, and genres, and connect with network libraries via OPDS protocol 📚.</li>\n<li><strong>Robust Customization Options:</strong> Four profiles for font, color, brightness, allowing adjustments to text indent, display styles, and even correct hyphenation for 20 languages 🎨.</li>\n<li><strong>Interactive Text Features:</strong> Versatile text handling like search, autoscroll, 3D paging animation, and text alignment choices to enhance reading pleasure 📖.</li>\n<li><strong>E-Ink Support &amp; Screen Optimization:</strong> Optimizes appearance for E-Ink screens, includes \"fast\" refresh support for certain devices, and allows screen rotation fixation for a comfortable viewing experience 📱.</li>\n</ul>\n<h3>👍 Pros:</h3>\n<ul>\n<li><strong>Extensive File Type Editing:</strong> Allows direct fb2 and TXT file editing, even within archives. Capability to select code pages for filenames in ZIP aids in seamless file management ✏️.</li>\n<li><strong>Advanced Navigation Tools:</strong> Navigation through the text is made easy with percents, pages, and chapter skipping, including a table of contents for supported files 🔍.</li>\n<li><strong>Rich Formatting Controls:</strong> Offers detailed adjustments for display styles including font, color, text style, size, shadow, spacing, and other style elements 🎚️.</li>\n<li><strong>Customizable Actions &amp; Skins:</strong> Users can assign specific actions for taps and gestures, as well as picking skins with support for one- or two-page mode selection to suit their viewing preferences 🎨.</li>\n</ul>\n<h3>👎 Cons:</h3>\n<ul>\n<li><strong>Complex Interface for Beginners:</strong> New users might find the multitude of customization options overwhelming at first glance 🤯.</li>\n<li><strong>Limited Cloud Syncing:</strong> Synchronize reading positions across devices may require manual setup or be limited to certain network circumstances ☁️.</li>\n<li><strong>Potential Overhead for Older Devices:</strong> Extensive features and customization may lead to slower performance on older or less powerful devices 📉.</li>\n<li><strong>Privacy Concerns with Statistics Collection:</strong> The app collects anonymous statistics for creating a top-100 authors and books, which some users may not prefer due to privacy concerns 🕵️‍♂️.</li>\n</ul>\n<h3>💵 Price:</h3>\n<p>AlReader is a free application that users can download and start using right away. However, additional features or services within the app may require in-app purchases, and users should check for any possible charges within the app's settings or store page 💰.</p>\n<h3>🕸️ Community:</h3>\n<p>For those seeking further engagement or support with AlReader, users are encouraged to explore the following channels:</p>\n<ul>\n<li><strong>Official Site:</strong> <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">AlReader</a></li>\n<li><strong>YouTube Channel:</strong> <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">AlReader Tutorials</a></li>\n<li><strong>Instagram:</strong> <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">E-Reader Community</a></li>\n<li><strong>Twitter:</strong> <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">AlReader Updates</a></li>\n<li><strong>Facebook:</strong> <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">AlReader Group</a></li>\n<li><strong>Reddit:</strong> <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">AlReader Subreddit</a></li>\n<li><strong>Fandom Wiki:</strong> <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">AlReader Wiki</a></li>\n</ul>\n<p><strong>(Note: Replace '#' with actual URLs or, if no data is available for the community dimension, this section will remain empty.)</strong></p>\n<p>In summary, AlReader is crafted to enhance every reader's digital book experience. As a free, comprehensive, and customizable reading tool, it is well-suited for those who love diving into books while enjoying tailored reading settings that fit their preferences.</p>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-spidevder-manipulation_dark_psychology/34778.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.spidevder.manipulation_dark_psychology.png",
+      "name": "Manipulation dark psychology",
+      "categoryLink": "/en/categories/books.reference/4",
+      "category": "Books & Reference",
+      "rating": "3.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-ardasen-witchcraftspells_wicca/16964.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.ardasen.witchcraftspells_wicca.png",
+      "name": "Witchcraft & Wicca Spells",
+      "categoryLink": "/en/categories/books.reference/4",
+      "category": "Books & Reference",
+      "rating": "4.7"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-redstone-guide-minecraft/16759.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.redstone.guide.minecraft.png",
+      "name": "Redstone Guide with Tutorials",
+      "categoryLink": "/en/categories/books.reference/4",
+      "category": "Books & Reference",
+      "rating": "3.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-fmproject-lovella/16371.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.fmproject.lovella.png",
+      "name": "Lovella - Novels & Audiobooks",
+      "categoryLink": "/en/categories/books.reference/4",
+      "category": "Books & Reference",
+      "rating": "4.7"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-jr-cdxs-ereader/16222.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.jr.cdxs.ereader.png",
+      "name": "ReadNow - My CEO Daddy -Novels",
+      "categoryLink": "/en/categories/books.reference/4",
+      "category": "Books & Reference",
+      "rating": "4.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-embria-freefm/16221.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.embria.freefm.png",
+      "name": "WhisperFM - Romance Novels",
+      "categoryLink": "/en/categories/books.reference/4",
+      "category": "Books & Reference",
+      "rating": "4.6"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-fmproject-moonlit-novels/16186.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.fmproject.moonlit.novels.png",
+      "name": "MoonLit - Werewolf Novels",
+      "categoryLink": "/en/categories/books.reference/4",
+      "category": "Books & Reference",
+      "rating": "4.7"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-purplerobo-bookoftheanswers/14232.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.purplerobo.bookoftheanswers.png",
+      "name": "The Book of Answers",
+      "categoryLink": "/en/categories/books.reference/4",
+      "category": "Books & Reference",
+      "rating": "3.7"
+    }
+  ]
+}

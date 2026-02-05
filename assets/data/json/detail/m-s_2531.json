@@ -1,0 +1,126 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.marksandspencer.app.png",
+    "title": "M&S",
+    "ratings": "4.2",
+    "downloads": "420M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "M&S"
+    },
+    {
+      "name": "category",
+      "value": "Shopping"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Marks and Spencer plc"
+    },
+    {
+      "name": "Version",
+      "value": "7.0.0.5"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/dmKYqB9WuifHegnBt6vvbA5Su00fBLYJrXI_DcpCTXRbE0AFgEMRgLcom2qshT-wH0Y",
+    "https://play-lh.googleusercontent.com/YxUQp6R7Tewhd33MmKMP2MtD8-qhjBFpobZr0JkUctEdCxZmN_tXxsbUoAg0dOrhYcY",
+    "https://play-lh.googleusercontent.com/P93ofoYIrOlsJdnzj8IPIPNL5WQyytSZeCZg2c92HTNWxrwvHYtKLPgI8oTfnWF-6hs",
+    "https://play-lh.googleusercontent.com/q5OcWy3fBa_kjav3rtvRMjaiyXjFj5Y4T7PtV1WOVpUYNbWZrx6c2Qd2NVEFPlEP3g",
+    "https://play-lh.googleusercontent.com/-yNZKQlXsCd-Z6nTpe70ESFqtAdYTzLJhVFeFj0L7-Nj1jUnn6CtzId36FSW5VUGuHOT",
+    "https://play-lh.googleusercontent.com/r0tWdKQQ8F-LqOr627xPcHV0oFOfCl5sZXKTcg8ndVaqYT_STWZFp2xKIHryCiydqms",
+    "https://play-lh.googleusercontent.com/vBwsZEQOU9iFwKytsoaiAs61icKvfWG8Mr8wf_jH6HnEbh9ATqAyqn8z48lAf7zqvFJn",
+    "https://play-lh.googleusercontent.com/qMBTXPugyD2zDHSJeZh--p1dEN3V0ZRC3gioErnUZvAiwTUf92kTaJWHkvZuscFhjQ",
+    "https://play-lh.googleusercontent.com/Pkpdnzo43OyITYYs4IeJErL5ZQwxaaaF61VKhL0Fv25e5vgmHrav_GqFSjki7QP7sg",
+    "https://play-lh.googleusercontent.com/u6A8vkFWaRwEXaaUS1ckD_aiPFtOmSAZbYkWGuxKVeHZHTxzZyYDCJwFyfyzDzjALkEh",
+    "https://play-lh.googleusercontent.com/OxwjsxGhNpAht2p5v4B8s4ctP_fEk0wXEQY-GGn2FQYRVwUvcDPdxjWBF38iuSzTG985",
+    "https://play-lh.googleusercontent.com/qEZyjVvs4de86Rh4mHSBE1YeRVQ1AOZ2w3dWciZWwU7U7eU3aNMocfkqAxS_h-3vKw",
+    "https://play-lh.googleusercontent.com/2KILZUwdbMNSqKd2qJnKLShgFdW_fIe0_NsIeA_TJzBlFVToV3BPDiHdef092nSTQl4",
+    "https://play-lh.googleusercontent.com/3909OnUJaqOZoAd0ObMJTs9E98wOH1NbgjFJgKjSasgOh0TT93kBHSDWf3Vy3ZK12z4d",
+    "https://play-lh.googleusercontent.com/mhvxdcLk9FU-0FyU7VOLZ6lNVP87L4ZKsjGbM9c4rtAb-Fzk2H5GTlfIkN6ewTyDJEk",
+    "https://play-lh.googleusercontent.com/6lxJSU6WD7GCm8a3JEtDahqd7C-c5gGcEk1jgcDXzUlBJXyBXZisc4Hkcb9ceJbgNwo",
+    "https://play-lh.googleusercontent.com/sZ7fOOI-oBURRYyYqesKE_DJuXCPb2HVWeNbZCEW1U6_ER7YSwnScOmYtJ9HrifHJbqp",
+    "https://play-lh.googleusercontent.com/TYFHN6mCW551SUbmWd9TG7bXFBE-EkfOob5voo5Wn81lzHLprV4TvYKZiVqdjKCChQ-B",
+    "https://play-lh.googleusercontent.com/nX_Ou5Og4D6Ymu4Mg1PwW_VVenTct789O7oawBkpa4oNhEVaaroKshn7j27nSpPEMj4",
+    "https://play-lh.googleusercontent.com/XyrTjfWv5zb_CmGHGSb5qTbK_00bDxnmgTj3jSBvTuBASGGGs6gGN9IKeyfpoqS92dE",
+    "https://play-lh.googleusercontent.com/8XcrtvqEcRb3TIWA9GpTmf7EiiCowVNfMGVF1v_GGWOD1dTighaJ4A8URthjrJyzNYj7",
+    "https://play-lh.googleusercontent.com/X_Dru-HtRnbfswAtN9Yr0YZXVrcH7blXkwLVzDQSC2megdRF-_tDm_XsKZxyU3mjOsg"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> M&amp;S</p>\n<p><strong>Package Name:</strong> com.marksandspencer.app</p>\n<p><strong>Brief:</strong>\nThe M&amp;S app is a refined digital storefront for the distinguished UK retailer, Marks &amp; Spencer. Following its acquisition of Thread's intellectual property, M&amp;S has enriched its app with cutting-edge AI technology aimed at personalizing customer experiences. This transition reflects M&amp;S's commitment to an omnichannel service, giving users seamless access to shopping, exclusive deals through Sparks, and digital convenience through its Scan &amp; Shop feature.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🛒 <strong>Online Shopping:</strong> Easily browse and purchase M&amp;S products with the tap of a finger. 📲</li>\n<li>📍 <strong>Store Finder:</strong> Find the nearest M&amp;S store with speed and accuracy. 🏢</li>\n<li>⚡ <strong>Scan &amp; Shop:</strong> Utilize your device to scan items and pay for them in-store without the queue. 💳</li>\n<li>📖 <strong>Style &amp; Living Tips:</strong> Stay updated with the latest trends in fashion, food, and more. 👗🍽️</li>\n<li>🔍 <strong>Product Scanner:</strong> Find and order the right products in your size for home or store delivery. 📦</li>\n<li>💡 <strong>Sparks Membership:</strong> Join Sparks for exclusive offers and valuable rewards. 🎁</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👩‍💻 <strong>Personalization:</strong> Leverage AI-powered suggestions tailored to your preferences. 🤖</li>\n<li>🎉 <strong>Exclusive Offers:</strong> Access special festive offers and the chance to win prizes through the Sparks program. 🎄</li>\n<li>💳 <strong>Seamless Payments:</strong> Supports various payment methods, including Apple Pay and Google Pay. 🍏📱</li>\n<li>🔄 <strong>Omnichannel Experience:</strong> Integrates in-store and online shopping for a cohesive retail experience. 🔗</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>🗺️ <strong>Geographically Limited:</strong> The store finder and shopping features may primarily benefit UK-based users. 🇬🇧</li>\n<li>🌐 <strong>Online Availability:</strong> Certain features might require an internet connection to function optimally. 📶</li>\n<li>📱 <strong>Device Compatibility:</strong> The app experience could vary based on the device and OS version. 🆚</li>\n<li>🔄 <strong>Learning Curve:</strong> New users may need time to familiarize themselves with the array of features. 🧠</li>\n</ul>\n<p><strong>Price:</strong>\n💵 The M&amp;S app is free to download and use, with no initial costs attached. Some in-app functionalities may lead to purchases or special offers only available to Sparks members.</p>\n<p><a href=\"https://play.google.com/store/apps/details?id=com.marksandspencer.app\" rel=\"noopener noreferrer\" target=\"_blank\">Download M&amp;S App for Free</a></p>\n<p>(Note: The 'Community' section is not included as this is a non-game app.)</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-seagm-store/54458.html",
+      "icon": "assets/img/apk/icon/com.seagm.store.png",
+      "name": "SEAGM - Games Topup, Gift Card",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-gowish-app/39285.html",
+      "icon": "assets/img/apk/icon/com.gowish.app.png",
+      "name": "GoWish - Your Digital Wishlist",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-aldisued-shopgo/16934.html",
+      "icon": "assets/img/apk/icon/com.aldisued.shopgo.png",
+      "name": "ALDI SHOP&GO",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.2"
+    },
+    {
+      "link": "/details/com-wakefern-shoprite/16933.html",
+      "icon": "assets/img/apk/icon/com.wakefern.shoprite.png",
+      "name": "ShopRite: Groceries & Savings",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-yaxo-vancamper/16894.html",
+      "icon": "assets/img/apk/icon/com.yaxo.vancamper.png",
+      "name": "Vancamper: Buy sell campervans",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/com-elfster-elfdroid/16861.html",
+      "icon": "assets/img/apk/icon/com.elfster.elfdroid.png",
+      "name": "Elfster: The Secret Santa App",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-biggu-shopsavvy/16860.html",
+      "icon": "assets/img/apk/icon/com.biggu.shopsavvy.png",
+      "name": "ShopSavvy - Barcode Scanner",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/moloapps-gifttracker/16845.html",
+      "icon": "assets/img/apk/icon/moloapps.gifttracker.png",
+      "name": "GiftTracker : Gift List Helper",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.1"
+    }
+  ]
+}

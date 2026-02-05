@@ -1,0 +1,108 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.feartools.anxietytest.png",
+    "title": "Anxiety Test",
+    "ratings": "4.3",
+    "downloads": "17M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Anxiety Test"
+    },
+    {
+      "name": "category",
+      "value": "Medical"
+    },
+    {
+      "name": "Price",
+      "value": "0"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Inquiry Health LLC"
+    },
+    {
+      "name": "Version",
+      "value": "6.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/-AS3HcnyWzyM6Fl0QEaxxjGJfWrLEZvuRD6KqDeh57SO-Fk-mydKLHhJcoXjTF2lmkA",
+    "https://play-lh.googleusercontent.com/FeZ7V5aKVIRdcUnst90FbV3hU_Ee-2LKXEUJu9nsrPv4x91m6CWKqCAf_VxWzMKHheMN",
+    "https://play-lh.googleusercontent.com/Cb6csWoND1LaPwLyjc7JP2BbTYeSb63i9QjOc5GZ25rbHS1FxUKyGFYxY67yIofXmg",
+    "https://play-lh.googleusercontent.com/Eko2eOm4pF5sIpyRJ2wSUE0ReTdrruRNNPaxO4FSEinJdFqzJNsGM31rwHu8x4o6h_k"
+  ],
+  "app_descript": "<h2>Anxiety Test</h2>\n<p>The Anxiety Test app is a user-friendly tool designed to help individuals assess the severity of their anxiety through a simple and effective self-test. By utilizing the Generalized Anxiety Questionnaire (GAD-7), this app enables users to gain insights into their mental health by answering just seven straightforward questions. While it is structured to diagnose generalized anxiety, it can also indicate other anxiety disorders such as specific phobia, panic disorder, and social phobia. It's imperative to remember that this tool is not a substitute for professional medical advice, and seeking guidance from a healthcare provider is recommended if you have concerns about your mental wellbeing. </p>\n<h3>📌 Core Features:</h3>\n<ul>\n<li><strong>Quick Assessment</strong>: Evaluate anxiety severity in just seven questions. 📝</li>\n<li><strong>GAD-7 Methodology</strong>: Based on the empirically validated Generalized Anxiety Questionnaire. 📊</li>\n<li><strong>Broad Applicability</strong>: Sensitive to various anxiety disorders including panic disorder and social phobia. 🌍</li>\n<li><strong>User Privacy</strong>: No personal data is collected, ensuring user confidentiality. 🔒</li>\n<li><strong>Informative Disclaimer</strong>: Provides guidance urging users to consult a professional for a proper diagnosis. ⚠️</li>\n</ul>\n<h3>👍 Pros:</h3>\n<ul>\n<li><strong>Simple and Efficient</strong>: Easy-to-navigate interface makes it accessible for all users. 👍</li>\n<li><strong>Free of Charge</strong>: Download and use the app without any financial commitments. 💰</li>\n<li><strong>Educational Resource</strong>: Increases awareness of anxiety and its symptoms. 📚</li>\n<li><strong>No Data Collection</strong>: Emphasizes user privacy and security. 🛡️</li>\n<li><strong>Promotes Wellbeing</strong>: Encourages seeking appropriate treatment for mental health concerns. 🌱</li>\n</ul>\n<h3>👎 Cons:</h3>\n<ul>\n<li><strong>Not a Definitive Diagnosis</strong>: The app is a self-assessment tool and not a substitute for medical advice. ❌</li>\n<li><strong>Limited Questions</strong>: Some users may feel that seven questions are insufficient for a comprehensive evaluation. 🤔</li>\n<li><strong>Lack of Resources</strong>: Doesn't offer direct access to mental health resources or support systems. 📞</li>\n<li><strong>No Offline Access</strong>: Requires an internet connection to function effectively. 🌐</li>\n<li><strong>Basic Functionality</strong>: Limited to assessment without additional tools or features. ⚙️</li>\n</ul>\n<h3>💵 Price:</h3>\n<ul>\n<li>The app is completely <strong>free to use</strong>, with no hidden charges or in-app purchases.</li>\n</ul>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-stress-test/48991.html",
+      "icon": "assets/img/apk/icon/com.stress.test.png",
+      "name": "Stress Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.1"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-procrastination-test/39516.html",
+      "icon": "assets/img/apk/icon/com.procrastination.test.png",
+      "name": "Procrastination Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-bingeeating-test/39303.html",
+      "icon": "assets/img/apk/icon/com.bingeeating.test.png",
+      "name": "Binge Eating Disorder Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-ocd-test/34780.html",
+      "icon": "assets/img/apk/icon/com.ocd.test.png",
+      "name": "OCD Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.2"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-healthians-main-healthians/34760.html",
+      "icon": "assets/img/apk/icon/com.healthians.main.healthians.png",
+      "name": "Healthians -Full Body Checkup",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.6"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-lbrc-PeriodCalendar/34759.html",
+      "icon": "assets/img/apk/icon/com.lbrc.PeriodCalendar.png",
+      "name": "Period Tracker and Calendar",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.9"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/es-jshcd-edadosea/34693.html",
+      "icon": "assets/img/apk/icon/es.jshcd.edadosea.png",
+      "name": "Bone age",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-devdis/16977.html",
+      "icon": "assets/img/apk/icon/com.devdis.png",
+      "name": "Developmental Disabilities",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.5"
+    }
+  ]
+}

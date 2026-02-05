@@ -1,0 +1,198 @@
+{
+    "top": [
+        {
+            "link": "/details/tiktok/3601.html",
+            "icon": "assets/img/apk/icon/com.zhiliaoapp.musically.png",
+            "name": "TikTok",
+            "categoryLink": "/categories/social/22",
+            "category": "Social",
+            "rating": "4.5"
+        },
+        {
+            "link": "/details/whatsapp-messenger/123.html",
+            "icon": "assets/img/apk/icon/com.whatsapp.png",
+            "name": "WhatsApp Messenger",
+            "categoryLink": "/categories/communication/7",
+            "category": "Communication",
+            "rating": "4.4"
+        },
+        {
+            "link": "/details/com-zzkko/4395.html",
+            "icon": "assets/img/apk/icon/com.zzkko.png",
+            "name": "SHEIN-Shopping Online",
+            "categoryLink": "/categories/Shopping/32",
+            "category": "Shopping",
+            "rating": "4.5"
+        },
+        {
+            "link": "/details/instagram/3609.html",
+            "icon": "assets/img/apk/icon/com.instagram.android.png",
+            "name": "Instagram",
+            "categoryLink": "/categories/social/22",
+            "category": "Social",
+            "rating": "4.7"
+        },
+        {
+            "link": "/details/telegram/3557.html",
+            "icon": "assets/img/apk/icon/org.telegram.messenger.png",
+            "name": "Telegram",
+            "categoryLink": "/categories/communication/7",
+            "category": "Communication",
+            "rating": "4.4"
+        },
+        {
+            "link": "/details/snapchat/3600.html",
+            "icon": "assets/img/apk/icon/com.snapchat.android.png",
+            "name": "Snapchat",
+            "categoryLink": "/categories/social/22",
+            "category": "Social",
+            "rating": "4.5"
+        },
+        {
+            "link": "/details/amazon-shopping/2823.html",
+            "icon": "assets/img/apk/icon/amazon-shopping.png",
+            "name": "Amazon Shopping",
+            "categoryLink": "/categories/Shopping/32",
+            "category": "Shopping",
+            "rating": "4.2"
+        },
+        {
+            "link": "/details/com-walmart-android/4398.html",
+            "icon": "assets/img/apk/icon/com.walmart.android.png",
+            "name": "Walmart: Shopping & Savings",
+            "categoryLink": "/categories/Shopping/32",
+            "category": "Shopping",
+            "rating": "4.7"
+        },
+        {
+            "link": "/details/com-facebook-orca/4458.html",
+            "icon": "assets/img/apk/icon/com.facebook.orca.png",
+            "name": "Messenger",
+            "categoryLink": "/categories/communication/7",
+            "category": "Communication",
+            "rating": "4.1"
+        },
+        {
+            "link": "/details/facebook/3602.html",
+            "icon": "assets/img/apk/icon/com.facebook.katana.png",
+            "name": "Facebook",
+            "categoryLink": "/categories/social/22",
+            "category": "Social",
+            "rating": "4.6"
+        },
+        {
+            "link": "/details/com-scopely-monopolygo/4399.html",
+            "icon": "assets/img/apk/icon/com.scopely.monopolygo.png",
+            "name": "MONOPOLY GO!",
+            "categoryLink": "/categories/board/36",
+            "category": "Board",
+            "rating": "4.6"
+        },
+        {
+            "link": "/details/com-hookah-sandboxinspace/4393.html",
+            "icon": "assets/img/apk/icon/com.hookah.sandboxinspace.png",
+            "name": "Sandbox In Space",
+            "categoryLink": "/categories/simulation/44",
+            "category": "Simulation",
+            "rating": "4.4"
+        }
+    ],
+    "new": [
+        {
+            "link": "/details/tiktok/3601.html",
+            "icon": "assets/img/apk/icon/com.zhiliaoapp.musically.png",
+            "name": "TikTok",
+            "categoryLink": "/categories/social/22",
+            "category": "Social",
+            "rating": "4.5"
+        },
+        {
+            "link": "/details/whatsapp-messenger/123.html",
+            "icon": "assets/img/apk/icon/com.whatsapp.png",
+            "name": "WhatsApp Messenger",
+            "categoryLink": "/categories/communication/7",
+            "category": "Communication",
+            "rating": "4.4"
+        },
+        {
+            "link": "/details/com-zzkko/4395.html",
+            "icon": "assets/img/apk/icon/com.zzkko.png",
+            "name": "SHEIN-Shopping Online",
+            "categoryLink": "/categories/Shopping/32",
+            "category": "Shopping",
+            "rating": "4.5"
+        },
+        {
+            "link": "/details/instagram/3609.html",
+            "icon": "assets/img/apk/icon/com.instagram.android.png",
+            "name": "Instagram",
+            "categoryLink": "/categories/social/22",
+            "category": "Social",
+            "rating": "4.7"
+        },
+        {
+            "link": "/details/telegram/3557.html",
+            "icon": "assets/img/apk/icon/org.telegram.messenger.png",
+            "name": "Telegram",
+            "categoryLink": "/categories/communication/7",
+            "category": "Communication",
+            "rating": "4.4"
+        },
+        {
+            "link": "/details/snapchat/3600.html",
+            "icon": "assets/img/apk/icon/com.snapchat.android.png",
+            "name": "Snapchat",
+            "categoryLink": "/categories/social/22",
+            "category": "Social",
+            "rating": "4.5"
+        },
+        {
+            "link": "/details/amazon-shopping/2823.html",
+            "icon": "assets/img/apk/icon/amazon-shopping.png",
+            "name": "Amazon Shopping",
+            "categoryLink": "/categories/Shopping/32",
+            "category": "Shopping",
+            "rating": "4.2"
+        },
+        {
+            "link": "/details/com-walmart-android/4398.html",
+            "icon": "assets/img/apk/icon/com.walmart.android.png",
+            "name": "Walmart: Shopping & Savings",
+            "categoryLink": "/categories/Shopping/32",
+            "category": "Shopping",
+            "rating": "4.7"
+        },
+        {
+            "link": "/details/com-facebook-orca/4458.html",
+            "icon": "assets/img/apk/icon/com.facebook.orca.png",
+            "name": "Messenger",
+            "categoryLink": "/categories/communication/7",
+            "category": "Communication",
+            "rating": "4.1"
+        },
+        {
+            "link": "/details/facebook/3602.html",
+            "icon": "assets/img/apk/icon/com.facebook.katana.png",
+            "name": "Facebook",
+            "categoryLink": "/categories/social/22",
+            "category": "Social",
+            "rating": "4.6"
+        },
+        {
+            "link": "/details/com-scopely-monopolygo/4399.html",
+            "icon": "assets/img/apk/icon/com.scopely.monopolygo.png",
+            "name": "MONOPOLY GO!",
+            "categoryLink": "/categories/board/36",
+            "category": "Board",
+            "rating": "4.6"
+        },
+        {
+            "link": "/details/com-hookah-sandboxinspace/4393.html",
+            "icon": "assets/img/apk/icon/com.hookah.sandboxinspace.png",
+            "name": "Sandbox In Space",
+            "categoryLink": "/categories/simulation/44",
+            "category": "Simulation",
+            "rating": "4.4"
+        }
+    ]
+}

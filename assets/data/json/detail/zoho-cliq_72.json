@@ -1,0 +1,110 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.zoho.chat.png",
+    "title": "Zoho Cliq",
+    "ratings": "4.6",
+    "downloads": "270M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Zoho Cliq"
+    },
+    {
+      "name": "category",
+      "value": "Communication"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Zoho Corporation"
+    },
+    {
+      "name": "Version",
+      "value": "4.26"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/-yYlH_qq7wr44ldsh7tVTgL7ymTJkhfFnlFPoRjhC3QABcC6k3mbHpHc1pE9fLTsxg",
+    "https://play-lh.googleusercontent.com/PYsi11gnI-_3Wv3bansc0I8EGK6JSGVBPiQ-MkNExIOFMjMGkGAggPWJ9k49qxLlZzD6",
+    "https://play-lh.googleusercontent.com/6xCkdjbu4-Nxq8hBCq4tuFk_70GYXg8940ON4e0y8w5vPsgmR0zTl1MuBCZik1t4OWQP",
+    "https://play-lh.googleusercontent.com/fZBocgghYUtiu46WVFI79yJfj7-mt0eawJOirihby2j2FK4bkp3fMawO_JwPrbo_cA",
+    "https://play-lh.googleusercontent.com/WlwId925v9ZgNnW0ZJaQrpRpiiLrMnDi2XIOzrxE9CHWkfYyoq0QW7RtMkmixTxaHQ",
+    "https://play-lh.googleusercontent.com/wOK13HDkI-fY-DeSgtd_xgOVMKb9OgeUqULJMmVEXEuSB_AxuWFfELjxsnonBJn4C4o"
+  ],
+  "app_descript": "<h3>Zoho Cliq</h3>\n<p><strong>Brief:</strong>\nZoho Cliq streamlines communication within your team and with external partners like clients and vendors through a versatile platform that offers chat, audio, and video options. Beyond simple messaging, Zoho Cliq integrates with various third-party applications, maximizing productivity and organization in your business communication.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>💬 <strong>Multi-Mode Communication:</strong> Engage in text, audio, or video conversations, individually or in channels for effective team collaboration. 📌</li>\n<li>🔄 <strong>External Communication:</strong> Easily connect with clients and vendors outside your organization to facilitate seamless external partnerships. 📌</li>\n<li>⏰ <strong>Personalized Reminders:</strong> Set custom in-chat reminders for messages to stay on track with your deadlines. 📌</li>\n<li>🌟 <strong>Conversation Organization:</strong> Prioritize important messages by starring them, helping you to find critical information quickly. 📌</li>\n<li>🤖 <strong>Business Integration Bots:</strong> Stay connected to essential services like Google Drive, Mailchimp, Zoho CRM, and more with adaptable bots. 📌</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👥 <strong>Versatile Collaboration:</strong> Zoho Cliq is designed to accommodate conversations within teams as well as with outside parties, offering flexibility in communication methods. 👍</li>\n<li>🚀 <strong>Enhanced Productivity:</strong> Features like task automation and slash commands provide shortcuts to perform tasks quickly and efficiently. 👍</li>\n<li>🔄 <strong>Extensive Integration:</strong> The ability to connect with numerous third-party applications allows for a unified workspace and streamlined workflows. 👍</li>\n<li>📅 <strong>Event Management:</strong> Zia, the AI-driven event manager, aids in planning and managing events, from setting up discussions to sharing meeting minutes. 👍</li>\n<li>📈 <strong>Structured Conversations:</strong> The ability to organize conversations with star notes ensures important messages are never lost in the chatter. 👍</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>🤷 <strong>Learning Curve:</strong> New users might need some time to familiarize themselves with the full range of features and integrations. 👎</li>\n<li>🔔 <strong>Notification Overload:</strong> With extensive functionality may come an overload of notifications, which can become distracting if not managed well. 👎</li>\n<li>🌐 <strong>Dependency on Internet:</strong> Being a cloud-based platform, a reliable internet connection is crucial for uninterrupted communication. 👎</li>\n<li>📲 <strong>Potential for Complexity:</strong> The multifaceted nature of the app might be overwhelming for teams that prefer simpler communication tools. 👎</li>\n<li>🚧 <strong>Occasional Bugs:</strong> Like any software, users may occasionally run into bugs that can hinder the user experience. 👎</li>\n</ul>\n<p><strong>Price:</strong>\n💵 Zoho Cliq offers a free version, and for advanced features, it provides various paid subscription plans. Pricing details can be found within the app or on the official Zoho website.</p>\n<p><strong>Community:</strong>\nSince this is a non-game app, a community section is not specifically provided.</p>\n<p>Feel free to streamline your business communication today by giving Zoho Cliq a try!</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-sst-parrot-photo-frame/53901.html",
+      "icon": "assets/img/apk/icon/com.sst.parrot.photo.frame.png",
+      "name": "Bird Photo Frame",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-new_year-stickers-birthday/39669.html",
+      "icon": "assets/img/apk/icon/com.new_year.stickers.birthday.png",
+      "name": "Happy New Year Stickers 2026",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/org-watchduty-app/14524.html",
+      "icon": "assets/img/apk/icon/org.watchduty.app.png",
+      "name": "Watch Duty (Wildfire)",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-snowcorp-stickerly-android/14453.html",
+      "icon": "assets/img/apk/icon/com.snowcorp.stickerly.android.png",
+      "name": "Sticker.ly - Sticker Maker",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-Happynewyearphotoframe2020/14421.html",
+      "icon": "assets/img/apk/icon/com.Happynewyearphotoframe2020.png",
+      "name": "New Year Video Maker 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-intira-new-year-photo-frame-new/14342.html",
+      "icon": "assets/img/apk/icon/com.intira.new.year.photo.frame.new.png",
+      "name": "New year photo frame 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-christmas-photo-frame-b-new-free/14203.html",
+      "icon": "assets/img/apk/icon/com.christmas.photo.frame.b.new.free.png",
+      "name": "Christmas photo frame 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/ma-apps-face_ml/14137.html",
+      "icon": "assets/img/apk/icon/ma.apps.face_ml.png",
+      "name": "Face reader scanner - analyser",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "3.3"
+    }
+  ]
+}

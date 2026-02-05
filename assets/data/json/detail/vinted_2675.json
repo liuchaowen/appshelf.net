@@ -1,0 +1,110 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/fr.vinted.png",
+    "title": "Vinted",
+    "ratings": "4",
+    "downloads": "860M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Vinted"
+    },
+    {
+      "name": "category",
+      "value": "Shopping"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Vinted"
+    },
+    {
+      "name": "Version",
+      "value": "23.38.1"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/2AKblPA0g4YbYpEH0C_3PsXzAXpJeLDgDQ_4lKttwtCyfCJYoRiCoizMtBWiQAWklPg",
+    "https://play-lh.googleusercontent.com/zhSmO1CfnWpKzDYnns6QXZuG0w3vp-hqMsJ_Tc9xVejS2I8o48ZufkItrxWD9fKRenc",
+    "https://play-lh.googleusercontent.com/JJXuj_eWyL2v_-AQ1v5DxDhVZnSQ8pKpj_0CL6dYs1-PAVvqDFjirDVjm-3vHkNu83c",
+    "https://play-lh.googleusercontent.com/Knsqo1pAe-mgWIErNUPqvKPXheFknHtHmBYMJma-MTkYwbZWxttaNnSsFZfF6e1jDRc",
+    "https://play-lh.googleusercontent.com/qarksEqY6TFSbflDrFL86uc03iFv20ML93T3YFycpcmNOppZCTAcmtie0GrWoq_LGYU",
+    "https://play-lh.googleusercontent.com/5oLph2_l2ILQhPfVKWZ9KJTBFBAmXGvF7Jy3A4IsH9j257rpnmtmjmYdGbyLt18J8KLo"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> Vinted</p>\n<h3>Brief:</h3>\n<p>Discover a personalized shopping and selling experience with Vinted, an app that brings the thrift store right to your phone. Connect with a community of fashion enthusiasts while you buy and sell clothing from top brands. Whether you're decluttering your wardrobe or hunting for unique finds, Vinted offers a secure and user-friendly platform for all things fashion.</p>\n<h3>Core Features:</h3>\n<ul>\n<li><strong>Price Control:</strong> Sell your high-quality items at a price you set; manage discounts to attract buyers. 🏷️</li>\n<li><strong>Dynamic Catalog:</strong> Access a rich variety of brands and unique items no longer available in stores, including chic Zara dresses and cozy UGG boots. 👚</li>\n<li><strong>Advanced Filtering:</strong> Quickly find exactly what you're looking for with filters for brands, sizes, and prices. 🔍</li>\n<li><strong>Video Listings:</strong> Get an in-depth look at items with video showcases and 360 views. 📹</li>\n<li><strong>Secure Transactions:</strong> Enjoy the peace of mind with secure in-app payments, keeping personal information confidential. 🔒</li>\n</ul>\n<h3>Pros:</h3>\n<ul>\n<li><strong>Top Brand Access:</strong> Snap up items from fashionable brands like Nike, Free People, and TOMS. 👟</li>\n<li><strong>Shopping Convenience:</strong> Effortlessly shop for new and secondhand items directly through the app. 🛍️ </li>\n<li><strong>Community Engagement:</strong> Join discussions, share style tips, and connect with fellow fashion lovers on the Vinted forum. 💬</li>\n<li><strong>User Safety:</strong> Vinted prioritizes user safety with secure payment options that protect personal information. 🛡️</li>\n<li><strong>Personalized Experience:</strong> Tailor your Vinted journey with personalized searches and interactions. ✨</li>\n</ul>\n<h3>Cons:</h3>\n<ul>\n<li><strong>Market Variability:</strong> Item availability and desirability can be inconsistent depending on trends. 👗</li>\n<li><strong>Competition for Buyers:</strong> Sellers may face competition, affecting the speed of sale. 🏃‍♂️</li>\n<li><strong>Dependent on Community:</strong> The experience can vary based on the level of community activity and interaction. 👥</li>\n<li><strong>Quality Assurance:</strong> As with all secondhand platforms, the condition of items may vary. 🧐</li>\n<li><strong>Regional Limitations:</strong> Availability of items may be restricted to certain regions or countries. 🌍</li>\n</ul>\n<h3>Price:</h3>\n<p>Vinted is free to download and offers a platform for users to list their items with no upfront fees. Transactions may incur fees, and the specifics depend on the agreement between buyers and sellers. 💵</p>\n<p>Embark on a sustainable fashion adventure with Vinted, the app that's more than just a marketplace—it's a movement. Download Vinted today and be a part of a community that's redefining fashion, one piece at a time. 🌟</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-seagm-store/54458.html",
+      "icon": "assets/img/apk/icon/com.seagm.store.png",
+      "name": "SEAGM - Games Topup, Gift Card",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-gowish-app/39285.html",
+      "icon": "assets/img/apk/icon/com.gowish.app.png",
+      "name": "GoWish - Your Digital Wishlist",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-aldisued-shopgo/16934.html",
+      "icon": "assets/img/apk/icon/com.aldisued.shopgo.png",
+      "name": "ALDI SHOP&GO",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.2"
+    },
+    {
+      "link": "/details/com-wakefern-shoprite/16933.html",
+      "icon": "assets/img/apk/icon/com.wakefern.shoprite.png",
+      "name": "ShopRite: Groceries & Savings",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-yaxo-vancamper/16894.html",
+      "icon": "assets/img/apk/icon/com.yaxo.vancamper.png",
+      "name": "Vancamper: Buy sell campervans",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/com-elfster-elfdroid/16861.html",
+      "icon": "assets/img/apk/icon/com.elfster.elfdroid.png",
+      "name": "Elfster: The Secret Santa App",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-biggu-shopsavvy/16860.html",
+      "icon": "assets/img/apk/icon/com.biggu.shopsavvy.png",
+      "name": "ShopSavvy - Barcode Scanner",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/moloapps-gifttracker/16845.html",
+      "icon": "assets/img/apk/icon/moloapps.gifttracker.png",
+      "name": "GiftTracker : Gift List Helper",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.1"
+    }
+  ]
+}

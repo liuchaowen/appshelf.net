@@ -1,0 +1,110 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.bambuna.podcastaddict.png",
+    "title": "Podcast Addict",
+    "ratings": "4.6",
+    "downloads": "60M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Podcast Addict"
+    },
+    {
+      "name": "category",
+      "value": "News & Magazines"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Xavier Guillemane - Podcast & Radio Addict"
+    },
+    {
+      "name": "Version",
+      "value": "2023.3.1"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/wL0N-cUO8IxYlXavTL1hvX6ektCEjEzNsZy9gw5fFZ2_y0plU0cYnJI6ndJQ8Q-d8ZxD",
+    "https://play-lh.googleusercontent.com/jzqvj2rA_sggHhlx8JoECTscLuA_XfV142jkFR75l69CP1fCDXJ-tvdHt2nYBOGZcCw",
+    "https://play-lh.googleusercontent.com/qyjH7b85aN0jsJwnHSp-9b448oDPth6wcqdATEAmyeAFEYB9B8U1ZSN_VDZFGH5_gAs",
+    "https://play-lh.googleusercontent.com/uS_nEkJ81U6178K56voxY5ZVlbesYEfUNRg4OXpTlOtG8OVnIhpHyVViiaaCv3lw8Vk",
+    "https://play-lh.googleusercontent.com/kOWBc4EQmjpiZNFtdhCbZGDilD19lV_bxPXJwuO0ITzuzW6BuLSz1tbmdUpaC6z8xTg",
+    "https://play-lh.googleusercontent.com/1inuP4wvClptjI5R0bomy8V6dy_J5pS8phSORqSfbHuBE-Nqd7wqH6E-xXF6cO77_f3R"
+  ],
+  "app_descript": "<p><strong>Podcast Addict</strong></p>\n<p><strong>Brief:</strong>\nPodcast Addict is the ultimate companion for any podcast enthusiast, offering a vast universe of over 5 million podcasts and 100 million-plus episodes. This versatile app features powerful search capabilities, seamless playback, and audio effects, guiding you through an expansive audible journey from news and education to entertainment podcasts.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li><strong>Search and Discovery:</strong> Explore podcasts by name, keywords, or category with custom recommendations 📌</li>\n<li><strong>Advanced Playback:</strong> Enjoy audio effects, variable speed, shuffle, loop mode and sleep timer for audio and video 📌</li>\n<li><strong>Automation:</strong> Schedule downloads, updates, and automatic deletions for a personalized podcast experience 📌</li>\n<li><strong>Multi-device Support:</strong> Integrated with Chromecast, SONOS, Android Auto, and more for flexible listening 📌</li>\n<li><strong>Backup and Restoration:</strong> Secure your subscriptions with automatic cloud backup and OPML file import/export 📌</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li><strong>Extensive Library:</strong> Access a wide array of networks and languages, ensuring content for all users 👍</li>\n<li><strong>Personalization:</strong> Tailor settings for each podcast and create multiple playlists 👍</li>\n<li><strong>Community Integration:</strong> Engage with podcast reviews and advanced sharing features 👍</li>\n<li><strong>Versatility:</strong> Manage live radio streams, bookmarks, notes, and SD card storage 👍</li>\n<li><strong>Accessibility:</strong> Offers a user-friendly interface, full screen reading mode, and accessibility features 👍</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li><strong>Ads Display:</strong> Free version includes an ad banner at the bottom of the screen 👎</li>\n<li><strong>In-App Purchases:</strong> Removing ads requires a paid upgrade 👎</li>\n<li><strong>Complexity:</strong> Feature richness might overwhelm new users 👎</li>\n<li><strong>No Cross-Device Syncing:</strong> Currently lacks the ability to sync playback across devices 👎</li>\n<li><strong>Occasional Glitches:</strong> Some users may experience rare bugs and issues 👎</li>\n</ul>\n<p><strong>Price:</strong></p>\n<ul>\n<li>The app is free to download and use. Removing ads and supporting the development of Podcast Addict is possible through an In-App purchase 💵</li>\n</ul>\n<p><strong>Community:</strong></p>\n<ul>\n<li><strong>Official website:</strong> <a href=\"https://podcastaddict.com/getting_started\" rel=\"noopener noreferrer\" target=\"_blank\">Podcast Addict</a></li>\n<li><strong>FAQs:</strong> <a href=\"https://podcastaddict.com/faq\" rel=\"noopener noreferrer\" target=\"_blank\">Podcast Addict FAQs</a></li>\n<li><strong>Support:</strong> <a href=\"http://bit.ly/podcastAddict\" rel=\"noopener noreferrer\" target=\"_blank\">Bug &amp; Suggestions Report</a></li>\n<li><strong>Changelog:</strong> <a href=\"https://podcastaddict.com/changelog\" rel=\"noopener noreferrer\" target=\"_blank\">View Changelog</a></li>\n<li><strong>Contact:</strong> Via app settings/Feedback</li>\n</ul>\n<p>Please enjoy your auditory exploration with Podcast Addict, and don't forget to support the app if you find it invaluable to your daily listening routine!</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-app-foapp/15418.html",
+      "icon": "assets/img/apk/icon/com.app.foapp.png",
+      "name": "The Obituary App",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-globalnews-android-novanews/5116.html",
+      "icon": "assets/img/apk/icon/com.globalnews.android.novanews.png",
+      "name": "Global News - Breaking & Local",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/Hindi-News-by-Dainik-Bhaskar/4635.html",
+      "icon": "assets/img/apk/icon/com.ak.ta.dainikbhaskar.activity.png",
+      "name": "Hindi News by Dainik Bhaskar",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/Way2News-News-updates-Election/4625.html",
+      "icon": "assets/img/apk/icon/sun.way2sms.hyd.com.png",
+      "name": "Way2News News updates Election",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/Hindi-News/4507.html",
+      "icon": "assets/img/apk/icon/in.AajTak.headlines.png",
+      "name": "Hindi News",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/TVA-Nouvelles/4479.html",
+      "icon": "assets/img/apk/icon/com.nurun.lcn.png",
+      "name": "TVA Nouvelles",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/uol/3121.html",
+      "icon": "assets/img/apk/icon/br.uol.noticias.png",
+      "name": "UOL",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/local-news/3120.html",
+      "icon": "assets/img/apk/icon/com.opera.app.news.local.png",
+      "name": "Local News",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.5"
+    }
+  ]
+}

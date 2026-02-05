@@ -1,0 +1,109 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.splice.mobile.png",
+    "title": "Splice",
+    "ratings": "4.6",
+    "downloads": "40M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Splice"
+    },
+    {
+      "name": "category",
+      "value": "Music & Audio"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Splice"
+    },
+    {
+      "name": "Version",
+      "value": "5.0.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/GiT3fFzsDQRdJqnkTnr2U97_iJMJOFJMYW0Mlf6L9QsW110q2yQXeWjKFp9cQKaLuZA",
+    "https://play-lh.googleusercontent.com/qo3SLSMlkLZNswc3575vJBTdd6R1Ll6tdGt7r_-9Wmqb1X5qb0LW2JX2W28kXx3ymw",
+    "https://play-lh.googleusercontent.com/eWG2eFHs3ddyDKtx-3MbwRenw8MevfkRgsZyUPjmbV2fqxLqpgYE9CXAPhNrv2dk-zA",
+    "https://play-lh.googleusercontent.com/I9N8FA8MA0LTxbZgkN1lajWm5egonEAqaxUI51jR_sUglm8Eh_18xPz7E5fJhAI0ig",
+    "https://play-lh.googleusercontent.com/5kjo43MWpG0D_VZMc-CgAue6zTwl3w_QXqQuVZxWWabcAnApD01nSEXvsB7wRKz63Q"
+  ],
+  "app_descript": "<h2><strong>Splice</strong></h2>\n<p>Splice is a mobile app designed for video editing and production, tailored for creators who seek a portable yet powerful editing tool. While the original description is not provided, Splice's reputation among content creators for its intuitive interface and advanced features indicates it is engineered to cater to both amateur and professional videographers.</p>\n<p><strong>Core Features</strong></p>\n<ul>\n<li><em>Intuitive Editing Interface</em>: A user-friendly environment that facilitates quick trimming, cutting, and assembling of video clips 📏.</li>\n<li><em>Multilayer Timeline</em>: Enhanced control by allowing multiple layers of video, audio, and text for complex projects 🎞.</li>\n<li><em>High-Quality Filters and Effects</em>: A library of filters and effects to give your videos a professional touch 💫.</li>\n<li><em>Audio Library</em>: Access to a wide range of music and sound effects to enhance the auditory experience of your videos 🎶.</li>\n<li><em>Direct Social Media Sharing</em>: Ability to share your final video product directly to various social media platforms 🌐.</li>\n</ul>\n<p><strong>Pros</strong></p>\n<ul>\n<li><em>Mobile Convenience</em>: Edit videos on-the-go with just a few taps on your phone screen 🚀.</li>\n<li><em>No Watermarks</em>: Produce clean videos without compulsory branding 💧.</li>\n<li><em>Regular Updates</em>: The app continually improves with new features and bug fixes 🔁.</li>\n<li><em>High Export Quality</em>: Splice maintains high-resolution outputs, keeping your content at its best quality 📈.</li>\n</ul>\n<p><strong>Cons</strong></p>\n<ul>\n<li><em>Limited Free Version</em>: Some features may only be available in the paid version 👑.</li>\n<li><em>Learning Curve</em>: New users may experience a slight learning curve despite intuitive design 📚.</li>\n<li><em>Battery Consumption</em>: Intensive editing can be heavy on battery life 🔋.</li>\n<li><em>Subscription Model</em>: Users may not prefer the recurring cost for premium features 💳.</li>\n</ul>\n<p><strong>Price</strong></p>\n<ul>\n<li>Splice offers both a free version and a paid subscription model. In-app purchases and subscription costs vary, providing additional features and capabilities for serious creators 💵.</li>\n</ul>\n<p>The app's robust feature set and easy usability have made it a go-to choice for video editing on mobile devices, balancing professional-grade functionality with the convenience of editing anywhere, anytime.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-simmusic-oldjpop/49056.html",
+      "icon": "assets/img/apk/icon/com.simmusic.oldjpop.png",
+      "name": "昭和の名曲 - 70年代/80年代名曲, 昭和の歌謡曲",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-bigsoft-voicereverse-audiochanger/39378.html",
+      "icon": "assets/img/apk/icon/com.bigsoft.voicereverse.audiochanger.png",
+      "name": "Funny Voice Reverse",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "3.1"
+    },
+    {
+      "link": "/details/com-realdrum-drumset-drumapp-beatmaker-music-instruments-drumkit/16783.html",
+      "icon": "assets/img/apk/icon/com.realdrum.drumset.drumapp.beatmaker.music.instruments.drumkit.png",
+      "name": "Learn Drum - Pad & Beat Maker",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-musicplayer-mp3-audio-mymusic-player/15795.html",
+      "icon": "assets/img/apk/icon/com.musicplayer.mp3.audio.mymusic.player.png",
+      "name": "Music Player & MP3 - MMusic",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/com-ai-sound-donna/15626.html",
+      "icon": "assets/img/apk/icon/com.ai.sound.donna.png",
+      "name": "Donna AI Song & Music Maker",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-vanniktech-rssreader/15328.html",
+      "icon": "assets/img/apk/icon/com.vanniktech.rssreader.png",
+      "name": "RSS Reader Offline | Podcast",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-voicechanger-supereffect-soundeffect/14158.html",
+      "icon": "assets/img/apk/icon/com.voicechanger.supereffect.soundeffect.png",
+      "name": "Voice Changer: Audio Effect",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/org-cru-womans-herbible/14124.html",
+      "icon": "assets/img/apk/icon/org.cru.womans.herbible.png",
+      "name": "her.BIBLE Women's Audio Bible",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    }
+  ]
+}

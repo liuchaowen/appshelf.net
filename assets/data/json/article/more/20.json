@@ -1,0 +1,47 @@
+{
+  "code": 200,
+  "msg": "success",
+  "data": [
+    {
+      "id": 59,
+      "type": 1,
+      "link": "/article/cash-app-ultimate-review-2023--a-simple-and-versatile-mobile-payment-app/59.html",
+      "title": "Cash App Ultimate Review 2023: A Simple and Versatile Mobile Payment App",
+      "cover": "assets/img/Uploads/articles/20231229/6f715d2d7ebd9a9479e154de58566249.jpeg",
+      "updated_at": "2025-05-29",
+      "seo_keyword": "",
+      "keyword": [],
+      "icon": null,
+      "writer_name": "Aimee",
+      "info": "{'qid':59,'lang':'en','website':'apkzonic','device':'pc','position':10,'domain':'hot','type':20}"
+    },
+    {
+      "id": 57,
+      "type": 1,
+      "link": "/article/the-10-best-mobile-banking-apps-of-2023/57.html",
+      "title": "The 10 Best Mobile Banking Apps of 2023",
+      "cover": "assets/img/Uploads/articles/20231215/4ec86cb6385b57e77d2bb0eb9aaf8202.png",
+      "updated_at": "2025-05-29",
+      "seo_keyword": "",
+      "keyword": [],
+      "icon": null,
+      "writer_name": "Aimee",
+      "info": "{'qid':57,'lang':'en','website':'apkzonic','device':'pc','position':10,'domain':'hot','type':20}"
+    },
+    {
+      "id": 55,
+      "type": 1,
+      "link": "/article/5-best-money-transfer-and-payment-apps-ever/55.html",
+      "title": "5 Best Money Transfer and Payment Apps Ever",
+      "cover": "assets/img/Uploads/jq/articles/20231210/2f361731955bedcd148b3a27536be995.jpeg",
+      "updated_at": "2025-05-29",
+      "seo_keyword": "",
+      "keyword": [],
+      "icon": null,
+      "writer_name": "Aimee",
+      "info": "{'qid':55,'lang':'en','website':'apkzonic','device':'pc','position':10,'domain':'hot','type':20}"
+    }
+  ],
+  "count": 3,
+  "total": 3
+}

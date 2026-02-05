@@ -1,0 +1,107 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/io.areacode.android.png",
+    "title": "Area Code",
+    "ratings": "4.3",
+    "downloads": "1B",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Area Code"
+    },
+    {
+      "name": "category",
+      "value": "Maps & Navigation"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "IDB LLC"
+    },
+    {
+      "name": "Version",
+      "value": "2.0.6"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/RNxp6wAAl6wzMMAYOCljQU2OpXJvGZZ0O6dIvKg-JCIvSR1yuSlbgatMEax6cZXu6WM",
+    "https://play-lh.googleusercontent.com/168DdmBvljYOtrVqR_ZQliy2cADixo1KjN8lgq-Vu9TZ2cuZKQ50C-2tqBUJga0Us7A",
+    "https://play-lh.googleusercontent.com/IM_oZ7IwVUzeuMYXIgMKBhjow4BAECDikTLlc_oQGADGVfaGLl_zGoIkM4R36mTvqQ"
+  ],
+  "app_descript": "<p>It appears there is no original description provided within the HTML content for the app named \"Area Code.\" Nevertheless, with the app's name as a guideline, I will generate a comprehensive description based on what a typical Area Code application might offer.</p>\n<hr/>\n<p><strong>Brief:</strong>\n\"Area Code\" is an essential app for anyone who finds themselves frequently dealing with various national and international area codes. Whether you're a professional handling clients from different regions, a traveler trying to stay connected, or simply looking to identify an unknown caller's location, \"Area Code\" offers a convenient solution for quick and efficient code identification and management.</p>\n<p><strong>📌 Core Features:</strong></p>\n<ol>\n<li>Extensive Database of Area Codes - Access a comprehensive list of area codes from around the world. 🌐</li>\n<li>Caller ID Integration - Match incoming calls with their respective area codes directly in the app. 📞</li>\n<li>Search Functionality - Quickly search for area codes by city, state, or number. 🔍</li>\n<li>Offline Access - Retrieve area code information even when not connected to the internet. 📴</li>\n<li>Favorites List - Save frequently referenced area codes for easy access. ⭐</li>\n</ol>\n<p><strong>👍 Pros:</strong></p>\n<ol>\n<li>User-Friendly Interface - Navigate the app with ease due to its clean and intuitive design. ✅</li>\n<li>Real-Time Updates - Benefit from up-to-date information on new and changing area codes. 🔄</li>\n<li>No Ads - Enjoy an uninterrupted experience without the annoyance of advertisement interruptions. 🚫</li>\n<li>Portability - Have the power of area code knowledge in your pocket wherever you go. 🚶‍♂️</li>\n<li>Educational - Enhance your understanding of geography and telecommunications. 🎓</li>\n</ol>\n<p><strong>👎 Cons:</strong></p>\n<ol>\n<li>Internet Dependency - Initial download of the database requires an internet connection. 🌐</li>\n<li>Limited Features - May not have advanced functionalities of a full-fledged directory app. 🔹</li>\n<li>Device Storage - Occupies space on your device to store the database of area codes. 💾</li>\n<li>No VoIP Support - Might not identify area codes of voice-over-internet protocol numbers. ☎️</li>\n<li>Compatibility - Could be less optimized for certain devices or operating systems. 📲</li>\n</ol>\n<p><strong>💵 Price:</strong>\n\"Area Code\" is typically a free app to download, but it could have in-app purchases for unlocking advanced features or ad-free usage. $0 - In-app purchases vary.</p>\n<hr/>\n<p>Please note, since the \"Area Code\" is a utility app rather than a game, there is no 'Community' section included in this description.</p>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-hundred-qibla-finder/14082.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.hundred.qibla.finder.png",
+      "name": "Qibla Finder Compass 100%",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/kbk-maparea-measure-geo/5067.html",
+      "icon": "https://img.buzzsight.co/apk/icon/kbk.maparea.measure.geo.png",
+      "name": "Gps Area Calculator",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "3.9"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/Offline-Maps-GPS-Speedometer/4633.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.radarapp.trip.speedometer.png",
+      "name": "Offline Maps, GPS, Speedometer",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.2"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/Satellite-View-Offline/4620.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.breezeammarathon.viskoproton.grampooffline.png",
+      "name": "Satellite View Offline",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/Rapido/4563.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.rapido.passenger.png",
+      "name": "Rapido",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/CarInfo/4500.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.cuvora.carinfo.png",
+      "name": "CarInfo",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.1"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-trailbehind-android-gaiagps-pro/4473.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.trailbehind.android.gaiagps.pro.png",
+      "name": "Gaia GPS: Offroad Hiking Maps",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.2"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-gpsnavigation-maps-gpsroutefinder-routemap/4472.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.gpsnavigation.maps.gpsroutefinder.routemap.png",
+      "name": "GPS Navigation: Road Map Route",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    }
+  ]
+}

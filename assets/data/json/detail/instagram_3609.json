@@ -1,0 +1,111 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.instagram.android.png",
+    "title": "Instagram",
+    "ratings": "3.9",
+    "downloads": "330M",
+    "age": "4+",
+    "download_link": "https://d.apkpure.com/b/APK/com.instagram.android?version=latest"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Instagram"
+    },
+    {
+      "name": "category",
+      "value": "Social"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Instagram"
+    },
+    {
+      "name": "Version",
+      "value": "321.0.0.0.41"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/fRvdBTcc5b7pMwXkSEa5-Jm47ZfTt2lc8buw_wbFgF5lkj3GuLyu2B3b4zf7mKXhW3E",
+    "https://play-lh.googleusercontent.com/W7J_rhJYWt65XQHaZ7N_6Nptu0wC6n4k9WX59qg46KRpe9b5I1LarJqZ7L-Uu9okgA",
+    "https://play-lh.googleusercontent.com/sn_2xT5NCjg-Km4XiZMAOM6xb4LxDqC_9sd5TENCjbU9D4aXVNrendOmIzHFyQo_kahz",
+    "https://play-lh.googleusercontent.com/-yPONtQXcCl1ibP7YvXkOLv5O6waJl8AD89La3TvoXnxZR1vbn7oJ1ltuR17RZ7pono",
+    "https://play-lh.googleusercontent.com/0T3c12jEeO0RZ_D8PCb-Q9pmgLJJs9CFWimCAZixw5qaihNRHdgXUK878gPxSgvglQ",
+    "https://play-lh.googleusercontent.com/QL9_QFz2viNOULxYwsfUXrUEMImfm86YU9VtiXWI8vEBmiw5zK04l1u46arke3g-Lw"
+  ],
+  "app_descript": "",
+  "related_apps": [
+    {
+      "link": "/details/com-daily-festival-photos/39721.html",
+      "icon": "assets/img/apk/icon/com.daily.festival.photos.png",
+      "name": "Daily Festival Photo",
+      "categoryLink": "/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/tv-medal-recorder/39573.html",
+      "icon": "assets/img/apk/icon/tv.medal.recorder.png",
+      "name": "Medal - Gaming Clips",
+      "categoryLink": "/categories/social/22",
+      "category": "Social",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-ptanktechnology-reincornation/39352.html",
+      "icon": "assets/img/apk/icon/com.ptanktechnology.reincornation.png",
+      "name": "Reincarnation",
+      "categoryLink": "/categories/social/22",
+      "category": "Social",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-tiktok-lite-go/15392.html",
+      "icon": "assets/img/apk/icon/com.tiktok.lite.go.png",
+      "name": "TikTok Lite - Faster TikTok",
+      "categoryLink": "/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-petmeetly/15275.html",
+      "icon": "assets/img/apk/icon/com.petmeetly.png",
+      "name": "Petmeetly - Pet's Match Finder",
+      "categoryLink": "/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-xingin-xhs/14603.html",
+      "icon": "assets/img/apk/icon/com.xingin.xhs.png",
+      "name": "REDnote—小红书国际版",
+      "categoryLink": "/categories/social/22",
+      "category": "Social",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-stdev-dissordap/10395.html",
+      "icon": "assets/img/apk/icon/com.stdev.dissordap.png",
+      "name": "Vote Social - Photo Voting VS",
+      "categoryLink": "/categories/social/22",
+      "category": "Social",
+      "rating": "3.8"
+    },
+    {
+      "link": "/details/com-aigc-ushow-ichat/10176.html",
+      "icon": "assets/img/apk/icon/com.aigc.ushow.ichat.png",
+      "name": "Linky AI: Chat, Play, Connect",
+      "categoryLink": "/categories/social/22",
+      "category": "Social",
+      "rating": "4"
+    }
+  ]
+}

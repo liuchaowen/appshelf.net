@@ -1,0 +1,107 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.waas.watch.newapp.png",
+    "title": "MyMoochies",
+    "ratings": "4.7",
+    "downloads": "250M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "MyMoochies"
+    },
+    {
+      "name": "category",
+      "value": "Communication"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Moochies For Kids"
+    },
+    {
+      "name": "Version",
+      "value": "1.2.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/nfT-rEUwk4ijDJ1rpCPMjhoq4H-NetRrQXx-dd_hHtEVsWwOacLo6vKu9Av3u0hG6IZk",
+    "https://play-lh.googleusercontent.com/wthuu43vqyeejbGds3vq-LZqxfcIn4fgr2mtSRY3tR6gQbNaOhOJyI54QMPFuPpd5g",
+    "https://play-lh.googleusercontent.com/Ms6B5YaqMEZHQlF-dJs5MufRKh0o7tKF4ZPlVWKW2Co1Tkh3AQ291NTEmtDCF1e1QVVI"
+  ],
+  "app_descript": "<h3>MyMoochies App</h3>\n<h4>Brief:</h4>\n<p>MyMoochies is a multifaceted app designed to facilitate connectivity and safety for children with Moochies phone watches. Whether you're a parent or family member, MyMoochies offers a comprehensive solution to stay in touch with your little ones and ensure their safety through various smart features.</p>\n<h4>Core Features:</h4>\n<ul>\n<li>📞 <strong>Communication Ease</strong> - Effortlessly make and receive calls and video chats with your child using the MyMoochies app through pre-set contacts on your Smartphone. 📱</li>\n<li>📍 <strong>Real-Time Location Tracking</strong> - Keep tabs on your child's whereabouts with the app's precise location services, including both automatic updates and on-demand checks. 🕒</li>\n<li>🛡️ <strong>SafeZones Alerts</strong> - Receive instant notifications when your child enters or leaves the set virtual boundary at different locations and times. 🔔</li>\n<li>💬 <strong>Interactive Voice Chat</strong> - Stay connected using voice messages, emoticons, and one-way texts, fostering an engaging communicative bond. 🗨️</li>\n<li>👨‍👩‍👧‍👦 <strong>Family Inclusion</strong> - Enable trusted family members and friends to access the child's location and be approved contacts for your child's Moochies watch. 👥</li>\n<li>🆘 <strong>SOS Feature</strong> - Activate an emergency protocol by pressing the SOS button on the watch, alerting all linked contacts with the child’s current location. 🚨</li>\n</ul>\n<h4>Pros:</h4>\n<ul>\n<li>✅ <strong>Enhanced Child Safety</strong> - With real-time location updates and SafeZone notifications, the app prioritizes child safety in a high-tech manner.</li>\n<li>✅ <strong>Easy Communication</strong> - Provides a straightforward way for family members to communicate with children wearing a Moochies watch.</li>\n<li>✅ <strong>Custom SafeZones</strong> - Offers flexible SafeZone settings that can be tailored to specific times and locations.</li>\n<li>✅ <strong>Family-Friendly Interface</strong> - The app allows multiple family members to stay involved in the child's safety and communication.</li>\n<li>✅ <strong>Emergency Readiness</strong> - The SOS feature brings peace of mind by instantly informing family members in case of an emergency.</li>\n</ul>\n<h4>Cons:</h4>\n<ul>\n<li>👎 <strong>Device Specific</strong> - The app is designed exclusively for use with Moochies phone watches.</li>\n<li>👎 <strong>Limited Texting</strong> - Only supports one-way texting, which may restrict direct communication from child to parent.</li>\n<li>👎 <strong>Battery Drain</strong> - Frequent location updates can be a significant drain on the watch's battery life.</li>\n<li>👎 <strong>Privacy Concerns</strong> - Continuous location tracking might raise privacy issues for some users.</li>\n<li>👎 <strong>Network Dependence</strong> - Effective communication and location tracking are contingent on cellular network coverage.</li>\n</ul>\n<h4>Price:</h4>\n<p>💵 The MyMoochies app is free to download, but its full functionality is tied to the ownership of a Moochies watch. It might include additional costs for cellular services or other features within the app environment.</p>\n<h4>Community:</h4>\n<p>Since the MyMoochies app is not a game, there is no community section included as per the constraints.</p>\n<hr/>\n<p>Feel peace of mind with MyMoochies, a holistic approach to child safety and familial connectivity, right at your fingertips.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-sst-parrot-photo-frame/53901.html",
+      "icon": "assets/img/apk/icon/com.sst.parrot.photo.frame.png",
+      "name": "Bird Photo Frame",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-new_year-stickers-birthday/39669.html",
+      "icon": "assets/img/apk/icon/com.new_year.stickers.birthday.png",
+      "name": "Happy New Year Stickers 2026",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/org-watchduty-app/14524.html",
+      "icon": "assets/img/apk/icon/org.watchduty.app.png",
+      "name": "Watch Duty (Wildfire)",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-snowcorp-stickerly-android/14453.html",
+      "icon": "assets/img/apk/icon/com.snowcorp.stickerly.android.png",
+      "name": "Sticker.ly - Sticker Maker",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-Happynewyearphotoframe2020/14421.html",
+      "icon": "assets/img/apk/icon/com.Happynewyearphotoframe2020.png",
+      "name": "New Year Video Maker 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-intira-new-year-photo-frame-new/14342.html",
+      "icon": "assets/img/apk/icon/com.intira.new.year.photo.frame.new.png",
+      "name": "New year photo frame 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-christmas-photo-frame-b-new-free/14203.html",
+      "icon": "assets/img/apk/icon/com.christmas.photo.frame.b.new.free.png",
+      "name": "Christmas photo frame 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/ma-apps-face_ml/14137.html",
+      "icon": "assets/img/apk/icon/ma.apps.face_ml.png",
+      "name": "Face reader scanner - analyser",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "3.3"
+    }
+  ]
+}

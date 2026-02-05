@@ -1,0 +1,110 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.docscan.appdevtechnolabs.camscan.docmentscanner.png",
+    "title": "Scanner Pro",
+    "ratings": "4.2",
+    "downloads": "920M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Scanner Pro"
+    },
+    {
+      "name": "category",
+      "value": "Business"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "AppDev Technolabs"
+    },
+    {
+      "name": "Version",
+      "value": "4.2"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/bwnpGmcYjegkFzI6IBgA0-29eMQU3F3y9SoaxzXluRXPTjn8Hrqt1FimDMa-Kke4sUI",
+    "https://play-lh.googleusercontent.com/eXZHBPRWSPEUvmLrTjgzF9238yjBISHG4GW-OLPLG7PbW1SUbf-cfUbYAK18MpvSGw",
+    "https://play-lh.googleusercontent.com/t4QerOfLLKrobL6jPoYyfgnqxPNhdrqJnATTmz0UKBjyqjqHXYRMpat1gSvI68XGWQZP",
+    "https://play-lh.googleusercontent.com/HG7l3BmeHBo_0i6XZXcxt03AhUlKCVlDktcyMk0NJTOlk2xgrUF09HdDBFjKtlBWNAk",
+    "https://play-lh.googleusercontent.com/aF7K-M4NOiT0_Qu3kbbhCDYuBweVYE2aQtjxCpObGYo-EygveZbmdaaRsK0ccv0kQ4Y",
+    "https://play-lh.googleusercontent.com/tRWygcC98rx1KtKMq8Yzd5zIwUry3sz_0BYBJJ3KH-qMY8wFxPSKE3OIiqaiOffWRIY"
+  ],
+  "app_descript": "<h3>Scanner Pro: Your Mobile Document Scanning Solution</h3>\n<p>Scanner Pro transforms your device into a powerful, versatile document scanner that fits right into your pocket. With this app, managing paperwork on the go becomes easy and efficient.</p>\n<p>📌 <strong>Core Features:</strong></p>\n<ol>\n<li>Capture images using camera or select from gallery for scanning 📷</li>\n<li>Export options in both PDF and Image formats ✉️</li>\n<li>Quick mail feature for rapid sharing of documents 🚀</li>\n<li>Cloud support for saving documents to Dropbox, Google Drive, and more ☁️</li>\n<li>Editing capabilities including image rotation, cropping, and applying filters ✂️</li>\n</ol>\n<p>👍 <strong>Pros:</strong></p>\n<ol>\n<li>User-friendly interface streamlines the document scanning process 🌟</li>\n<li>Versatile page settings ensure the best fit for your document requirements 📄</li>\n<li>A broad choice of PDF sizes caters to various standards and needs 📏</li>\n<li>Direct email integration for easy document sharing 📤</li>\n<li>Large collection of image filters to enhance scan quality 🖼️</li>\n</ol>\n<p>👎 <strong>Cons:</strong></p>\n<ol>\n<li>Potential compatibility issues with some cloud services 🔄</li>\n<li>Limited functionality without an internet connection for cloud uploads 📶</li>\n<li>May require in-app purchases for advanced features 💸</li>\n<li>Image quality may vary depending on device camera 🔍</li>\n<li>FTP setup can be complex for non-technical users ⚙️</li>\n</ol>\n<p>💵 <strong>Price:</strong>\nThe app is free to download, with potential in-app purchases for additional features.</p>\n<p>If Scanner Pro is your choice for digitizing documents with ease and agility, get ready to download it and experience streamlined scanning at your fingertips!</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-kj2147575505-app/16858.html",
+      "icon": "assets/img/apk/icon/com.kj2147575505.app.png",
+      "name": "Alpha Omega Consulting",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-hypertide-petscan-v8m/15982.html",
+      "icon": "assets/img/apk/icon/com.hypertide.petscan.v8m.png",
+      "name": "PetScan",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "2"
+    },
+    {
+      "link": "/details/com-animalid-scanner/15981.html",
+      "icon": "assets/img/apk/icon/com.animalid.scanner.png",
+      "name": "Pet Scanner",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-webrange-sendoff-app/15417.html",
+      "icon": "assets/img/apk/icon/com.webrange.sendoff.app.png",
+      "name": "Sendoff Funeral App",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-dyve-countthings/10295.html",
+      "icon": "assets/img/apk/icon/com.dyve.countthings.png",
+      "name": "CountThings from Photos",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "3"
+    },
+    {
+      "link": "/details/com-countthis-count-things-counting-template-counter/5097.html",
+      "icon": "assets/img/apk/icon/com.countthis.count.things.counting.template.counter.png",
+      "name": "Count This・Counting Things App",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-aadi-personalitytraittest/4991.html",
+      "icon": "assets/img/apk/icon/com.aadi.personalitytraittest.png",
+      "name": "Personality Trait Test",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/GlowRoad/4569.html",
+      "icon": "assets/img/apk/icon/com.localqueen.png",
+      "name": "GlowRoad",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.6"
+    }
+  ]
+}

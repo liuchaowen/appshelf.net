@@ -1,0 +1,110 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/au.com.wilsonone.png",
+    "title": "Wilson Parking",
+    "ratings": "4",
+    "downloads": "840M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Wilson Parking"
+    },
+    {
+      "name": "category",
+      "value": "Travel & Local"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Wilson Group"
+    },
+    {
+      "name": "Version",
+      "value": "2.2.10"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/SwYCO-3AYrrQeWkElHXgAiDPJ4s10SjLG8hmYIr6c5Xijc7UalAEL9KUs0oOHLCBjSc",
+    "https://play-lh.googleusercontent.com/ox6l4Q5mD-gPMjbGQ-txn7-9xF-zipFUJvqi1bUxlf6aJ58tjSgqcSCpJbL1myw_10c",
+    "https://play-lh.googleusercontent.com/vHk936D7FWlMj3Pjxt1ToJ7GkJy5SAkSuYD8TiqFWB7CSushekM1bUZP8IhVno8Deg",
+    "https://play-lh.googleusercontent.com/qLn4hqpw0M0kLwq6B1gxKcwM3XIWqNhaSLCVSMaqAXebEIZU_vDJRKwX7o6nAV1ZSQu5",
+    "https://play-lh.googleusercontent.com/6EebvMzC8jcL9OthyScD9MeC--I8JIKij7oWQrzbGa2EijKnrTuSEIFupeR4cOoSNdY",
+    "https://play-lh.googleusercontent.com/NGBUR_Hy1_DswSynJnLD4_fW10XLGGdTAn2dcVit8X9De81MfZ8SqEW3HiS33Et9XQ"
+  ],
+  "app_descript": "<h3>Brief:</h3>\n<p>Wilson Parking is a comprehensive mobile application designed to streamline the parking experience for users. Aimed at providing a hassle-free way to find and book parking spots, Wilson Parking offers a range of features to help users register, locate, and manage their parking needs efficiently with just a few taps.</p>\n<h3>Core Features:</h3>\n<ul>\n<li>🗺️ <strong>Easy Registration &amp; Sign In</strong>: Register effortlessly using your email or social networks for quick access to parking features. Utilize a single sign-in across the Wilson Parking ecosystem including the App, Book a Bay, and Wilson One services 📱.</li>\n<li>📍 <strong>Parking Locator &amp; Map</strong>: Search for parking and view detailed information, including prices, using the app’s integrated map to select the most convenient parking spot for your needs 🚗.</li>\n<li>💳 <strong>Quick Payment Options</strong>: Store your credit card details or use your Wilson One card to expedite booking processes and make your parking experience smoother 🛒.</li>\n<li>🌟 <strong>Favourite Parking Memories</strong>: The app remembers your frequently used parking spots, making future bookings as quick as possible with just 3 taps ⭐.</li>\n<li>🚀 <strong>Navigation to Parking Spot</strong>: Receive directions within the app, guiding you to your parking spot using the fastest route available 🧭.</li>\n<li>📑 <strong>Booking Management</strong>: Conveniently view and handle all your account details and future bookings in one place, ensuring you are always organized 📅.</li>\n</ul>\n<h3>Pros:</h3>\n<ul>\n<li>👌 <strong>Unified Account System</strong>: Manage all parking relations with one account, streamlining the booking process 👍.</li>\n<li>🕒 <strong>Time-Saving Features</strong>: With stored payment options and remembered favourites, the app saves you valuable time 🏎️.</li>\n<li>🔍 <strong>Detailed Parking Information</strong>: Get comprehensive details about parking locations and costs at your fingertips 🔎.</li>\n<li>🔧 <strong>Enhanced Usability</strong>: The user interface is intuitive and tailored for quick, hassle-free bookings and navigation 📲.</li>\n</ul>\n<h3>Cons:</h3>\n<ul>\n<li>👎 <strong>Dependence on Internet Connectivity</strong>: Real-time features require a stable internet connection, which might be limiting in certain areas 📡.</li>\n<li>🚧 <strong>Potential Payment Data Risk</strong>: Storing credit card details may introduce concerns about data security and privacy 🔒.</li>\n<li>🏙️ <strong>Limited by Geography</strong>: The usefulness of the app could be confined to areas where Wilson Parking operates 🌐.</li>\n<li>📈 <strong>Learning Curve for New Users</strong>: First-time users might need time to get accustomed to the app’s breadth of features 📚.</li>\n</ul>\n<h3>💵 Price:</h3>\n<ul>\n<li>The Wilson Parking application is free to download. However, there could be associated costs with parking services and potential in-app purchases for additional features or conveniences 💰.</li>\n</ul>\n<h3>Community:</h3>\n<ul>\n<li>🕸️ For more information and support, users can visit the official <a href=\"https://www.wilsonparking.com.au\" rel=\"noopener noreferrer\" target=\"_blank\">Wilson Parking website</a>.</li>\n</ul>\n<p><em>(Note: The community section such as official site and social media channels is not included since Wilson Parking is a non-game app.)</em></p>\n<p>Wilson Parking provides a seamless way to navigate the often-frustrating world of urban parking. With its user-friendly design and robust features, it aims to enhance the parking experience for users everywhere.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-bp-app-bpme-global-ros/16042.html",
+      "icon": "assets/img/apk/icon/com.bp.app.bpme.global.ros.png",
+      "name": "earnify",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/kulana-tools-vacationcountdown/10380.html",
+      "icon": "assets/img/apk/icon/kulana.tools.vacationcountdown.png",
+      "name": "Vacation Countdown App",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-disney-playdisneyparks-goo/4681.html",
+      "icon": "assets/img/apk/icon/com.disney.playdisneyparks.goo.png",
+      "name": "Play Disney Parks",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-hornblower-statuecruises/4679.html",
+      "icon": "assets/img/apk/icon/com.hornblower.statuecruises.png",
+      "name": "Statue Cruises",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-usnpw-grca/4678.html",
+      "icon": "assets/img/apk/icon/com.usnpw.grca.png",
+      "name": "Grand Canyon National Park",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/MakeMyTrip-Hotels-Flight-Bus/4591.html",
+      "icon": "assets/img/apk/icon/com.makemytrip.png",
+      "name": "MakeMyTrip Hotels, Flight, Bus",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/ConfirmTkt/4570.html",
+      "icon": "assets/img/apk/icon/com.confirmtkt.lite.png",
+      "name": "ConfirmTkt",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/Bus-Train-Ticket-Booking-App/4503.html",
+      "icon": "assets/img/apk/icon/in.redbus.android.png",
+      "name": "Bus, Train Ticket Booking App",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.9"
+    }
+  ]
+}

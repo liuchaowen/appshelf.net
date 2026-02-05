@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/es-file-explorer.png",
+    "title": "ES File Explorer",
+    "ratings": "4.2",
+    "downloads": "210M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "ES File Explorer"
+    },
+    {
+      "name": "category",
+      "value": "Productivity"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "ES Global"
+    },
+    {
+      "name": "Version",
+      "value": "4.2.6.2.1"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h3>Brief</h3>\n<p>ES File Explorer is a comprehensive and versatile file manager that not only allows you to manage the files on your device but also provides integration with various cloud storage platforms and multimedia functions. This all-in-one application aims to streamline your file management, multimedia experiences, and optimize your storage across multiple platforms.</p>\n<h3>Core Features</h3>\n<ul>\n<li><strong>File Management</strong> 🗂️: Effortlessly zip, unzip, install, and uninstall applications with a few taps.</li>\n<li><strong>Multimedia Access</strong> 🎵: Seamlessly play music, watch videos, view images, and read documents directly within the app.</li>\n<li><strong>Cloud Integration</strong> ☁️: Connect with popular cloud services such as Dropbox, Google Drive, OneDrive, and others for easy file access and management.</li>\n<li><strong>SD Card Analysis</strong> 📊: Get a detailed review of your storage, find duplicate files, and clear cache to improve device performance.</li>\n<li><strong>Network Connection</strong> 🌐: Access your files over LAN, Cloud, FTP, and Android TV with ease.</li>\n</ul>\n<h3>Pros</h3>\n<ul>\n<li>👍 Diverse Cloud Service Support: Integrates with a wide range of cloud storage options for flexible file management.</li>\n<li>👍 Multimedia Player: In-app media playing capabilities eliminate the need for separate apps for basic multimedia functions.</li>\n<li>👍 User-Friendly Interface: Clean and intuitive design makes navigation and file management simple.</li>\n<li>👍 Handy Tools: Offers a variety of tools to analyze and optimize phone usability.</li>\n<li>👍 Robust Sharing Options: Share files and folders through social platforms like Facebook, WhatsApp, and Google+.</li>\n</ul>\n<h3>Cons</h3>\n<ul>\n<li>👎 Advertisement Presence: May include ads which can be intrusive for some users.</li>\n<li>👎 Learning Curve: New users might take some time to get used to the full range of features available.</li>\n<li>👎 Potential for Bloat: With extensive features, the app may take up significant memory space.</li>\n<li>👎 Limited Free Features: Some advanced features may require payment to unlock.</li>\n<li>👎 No Dedicated Community Platform: As a utility app, it lacks a dedicated community for user interaction and support.</li>\n</ul>\n<h3>Price</h3>\n<p>💵 ES File Explorer is free to download, with some advanced features accessible via in-app purchases. The app may come with ads and offer additional functionality for a price.</p>\n<p>Since ES File Explorer is a utility tool and not a game, the 'Community' section is not applicable here. However, it's always beneficial to check out user reviews and online forums for tips and tricks on getting the most out of this powerful file management tool.</p>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-takeofflabs-fontmaker/54188.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.takeofflabs.fontmaker.png",
+      "name": "Fontmaker - Font Keyboard App",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.2"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-game-console-emulator/39577.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.game.console.emulator.png",
+      "name": "Gamu: Retro Game Hub",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.3"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/app-itwingtech-power_of_mind-predicator/39340.html",
+      "icon": "https://img.buzzsight.co/apk/icon/app.itwingtech.power_of_mind.predicator.png",
+      "name": "Mind Test: Test My Brain",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-pdfreader-pdfeditor-scandocu-pro-app-amb/16953.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.pdfreader.pdfeditor.scandocu.pro.app.amb.png",
+      "name": "PDFPro: Scanner & Editor",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "3.8"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/ai-perplexity-app-android/16744.html",
+      "icon": "https://img.buzzsight.co/apk/icon/ai.perplexity.app.android.png",
+      "name": "Perplexity - Ask Anything",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-safeshellvpn/16639.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.safeshellvpn.png",
+      "name": "SafeShell VPN: Fast & Secure",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-roblox-skin-cloth-freeskins/16603.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.roblox.skin.cloth.freeskins.png",
+      "name": "Clothes Skin For Roblox",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-underthing-focus-friend/16526.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.underthing.focus.friend.png",
+      "name": "Focus Friend by Hank Green",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.7"
+    }
+  ]
+}

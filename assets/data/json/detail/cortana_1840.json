@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/cortana.png",
+    "title": "Cortana",
+    "ratings": "4.5",
+    "downloads": "780M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Cortana"
+    },
+    {
+      "name": "category",
+      "value": "Productivity"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Microsoft Corporation"
+    },
+    {
+      "name": "Version",
+      "value": "2.9.6.1976"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> Cortana<br/>\n<strong>App Package Name:</strong> com.microsoft.cortana</p>\n<h3>Brief</h3>\n<p>Cortana is your smart personal assistant by Microsoft that offers a seamless integration of productivity and organization into your daily life. With the ability to understand natural language and provide proactive assistance, Cortana helps keep you on track with your commitments and schedules. Whether you're at home or on-the-go, Cortana is designed to offer personalized assistance across your devices.</p>\n<h3>Core Features</h3>\n<ul>\n<li><strong>Smart Query Responses:</strong> Ask any question and receive swift answers to help with definitions, flight info, and more 🧠.</li>\n<li><strong>Location &amp; Contact Reminders:</strong> Never forget an errand with reminders triggered by locations or based on your contacts 📍.</li>\n<li><strong>Email-Integrated Prompts:</strong> Exclusive to Office 365 and Outlook.com users, Cortana suggests reminders from your email content to aid task completion ⏲️.</li>\n<li><strong>Voice Command Personalization:</strong> Cortana goes beyond the basics, learning your preferences and responding to voice commands for weather, traffic, and more 🗣️.</li>\n</ul>\n<h3>Pros</h3>\n<ul>\n<li><strong>Hands-Free Operation:</strong> With the \"Hey Cortana\" feature, enjoy the convenience of a hands-free digital assistant experience 👏.</li>\n<li><strong>Multi-Platform Synchronization:</strong> Cortana syncs reminders and tasks across your devices, ensuring you have the information you need wherever you are 🔄.</li>\n<li><strong>Personalized Assistance:</strong> Grows more proficient and personalized over time as it learns from your interactions 👤.</li>\n<li><strong>Time-Saving Email Reminders:</strong> Automated reminder suggestions from emails can save time and help you keep your commitments 📧.</li>\n</ul>\n<h3>Cons</h3>\n<ul>\n<li><strong>Limited Availability:</strong> Certain features may not be available in all countries or regions, impacting its global utility 🌍.</li>\n<li><strong>Device Restrictions:</strong> Some Cortana features are restricted to specific platforms and might not offer a complete experience on all devices 🔒.</li>\n<li><strong>Voice Recognition Dependence:</strong> Although convenient, reliance on voice recognition may result in errors or misunderstandings 🗣.</li>\n<li><strong>Data Privacy Considerations:</strong> As with any AI assistant, there are inherent data privacy concerns with the collection and use of personal information 🔐.</li>\n</ul>\n<h3>Pricing</h3>\n<p>Cortana is generally provided free of charge, though its usage is subject to having compatible devices and services. Certain features may be tied to paid subscriptions such as Office 365 💵.</p>\n<p><a href=\"https://www.microsoft.com/cortana\" rel=\"noopener noreferrer\" target=\"_blank\">Official Site</a></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-takeofflabs-fontmaker/54188.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.takeofflabs.fontmaker.png",
+      "name": "Fontmaker - Font Keyboard App",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-game-console-emulator/39577.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.game.console.emulator.png",
+      "name": "Gamu: Retro Game Hub",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/app-itwingtech-power_of_mind-predicator/39340.html",
+      "icon": "https://img.buzzsight.co/apk/icon/app.itwingtech.power_of_mind.predicator.png",
+      "name": "Mind Test: Test My Brain",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-pdfreader-pdfeditor-scandocu-pro-app-amb/16953.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.pdfreader.pdfeditor.scandocu.pro.app.amb.png",
+      "name": "PDFPro: Scanner & Editor",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "3.8"
+    },
+    {
+      "link": "/details/ai-perplexity-app-android/16744.html",
+      "icon": "https://img.buzzsight.co/apk/icon/ai.perplexity.app.android.png",
+      "name": "Perplexity - Ask Anything",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-safeshellvpn/16639.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.safeshellvpn.png",
+      "name": "SafeShell VPN: Fast & Secure",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-roblox-skin-cloth-freeskins/16603.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.roblox.skin.cloth.freeskins.png",
+      "name": "Clothes Skin For Roblox",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-underthing-focus-friend/16526.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.underthing.focus.friend.png",
+      "name": "Focus Friend by Hank Green",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.7"
+    }
+  ]
+}

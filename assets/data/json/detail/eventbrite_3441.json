@@ -1,0 +1,110 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.eventbrite.attendee.png",
+    "title": "Eventbrite",
+    "ratings": "4.4",
+    "downloads": "170M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Eventbrite"
+    },
+    {
+      "name": "category",
+      "value": "Entertainment"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Eventbrite"
+    },
+    {
+      "name": "Version",
+      "value": "6.15.3"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/lG78tRkusF3gVEz4ai3LSEyycKaGe_CryIlWwO8TZbDOrf4wnp5YlhqV3tw96aaWazU",
+    "https://play-lh.googleusercontent.com/eXBCyT7b2C9gDGTEEWu4iaku4-wUx8BlUFPebXXLVfZ1AV9IT0W1VWqVWzVRaAxoGVg",
+    "https://play-lh.googleusercontent.com/H1dHJX-1uUqlQk8sfoCDHgoqrpJB304V0vLa7G6F9fHJZhvTn89k8na51Ic7L3dzt4Mi",
+    "https://play-lh.googleusercontent.com/SnGhhQXMxtCtHo1oItdHx1RWqss5URPRyTzLu_-wBnxagO9R0TnTtPa1NubVZe9m2w",
+    "https://play-lh.googleusercontent.com/XO3Ae8Ue6HXV1k-5_vBU-J5tq8UmDRj1jVEqqj4dy6RppbUq2xdcQcB4lzMnTLRqjA",
+    "https://play-lh.googleusercontent.com/7Y6dgFKXpyphTWf2ap_R3qsPdO1t1GWhQCZcqbax51iG4JN29KJasJszL4LFc2xd6Q"
+  ],
+  "app_descript": "<p><strong>Eventbrite</strong></p>\n<p><strong>Brief:</strong>\nJoin the world of personalized event discovery with Eventbrite, your one-stop companion for finding and attending the hottest events around. Whether you're looking to explore today, this weekend, or anytime, Eventbrite fine-tunes to your interests and delivers a curated list of happenings tailored just for you. Immerse in events, share the excitement with friends, and make every outing seamless with mobile-friendly ticketing – all within the palm of your hand.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🔍 Discover local events and venues that resonate with your interests.</li>\n<li>📅 Keep track of current and upcoming events, effortlessly adding them to your calendar.</li>\n<li>🎯 Get customized event recommendations based on your passions.</li>\n<li>🤝 Share event details effortlessly with friends, making group outings simpler.</li>\n<li>💳 Enjoy quick, secure ticket purchase and checkout with stored payment details.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👥 Personalized event feed ensures you'll never miss out on events you love.</li>\n<li>📱 Easy event check-in within the app replaces the need for paper tickets.</li>\n<li>🌍 Multi-language support expands accessibility to non-English speaking users.</li>\n<li>🎫 Simple event management, from ticket purchase to the day of the event.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 Depending on your location, you might encounter a smaller variety of events.</li>\n<li>🗺️ Some users might prefer a more detailed map integration for event locations.</li>\n<li>🔄 Updates and personalized recommendations can sometimes lag behind actual event listings.</li>\n<li>🔕 Users may experience notification overload with too many event alerts.</li>\n</ul>\n<p><strong>Price:</strong>\n💵 Eventbrite's app is free to download and use. It may include in-app purchases for event tickets which can vary in price.</p>\n<p>Eventbrite's role as your comprehensive event guide invites you to dive into the diversity of your local scene and beyond, all with a few taps on your screen. Hit 'download' and start experiencing a world tailored to your taste, with Eventbrite paving the way.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-moonphaseapps-astro/54410.html",
+      "icon": "assets/img/apk/icon/com.moonphaseapps.astro.png",
+      "name": "AstroBella Astrology & Healing",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-girlmaker-create-avatar-creator/54356.html",
+      "icon": "assets/img/apk/icon/com.girlmaker.create.avatar.creator.png",
+      "name": "PFP Girl: Avatar Maker",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-photocrop-challengefilter/54321.html",
+      "icon": "assets/img/apk/icon/com.photocrop.challengefilter.png",
+      "name": "Photo Crop Challenge Filter",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-photo-cropfilter-challenge/54315.html",
+      "icon": "assets/img/apk/icon/com.photo.cropfilter.challenge.png",
+      "name": "Photo Crop Challenge Video",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/vyten-colormatrix/54297.html",
+      "icon": "assets/img/apk/icon/vyten.colormatrix.png",
+      "name": "The Personality Color Matrix",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-truelove-tester-love/54289.html",
+      "icon": "assets/img/apk/icon/com.truelove.tester.love.png",
+      "name": "True Love Tester",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-lifeexpectancycalculator/54231.html",
+      "icon": "assets/img/apk/icon/com.lifeexpectancycalculator.png",
+      "name": "Life Expectancy Calculator",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-insect-filters-funny-prank-bug-filter-face-camera/54212.html",
+      "icon": "assets/img/apk/icon/com.insect.filters.funny.prank.bug.filter.face.camera.png",
+      "name": "Bugzz: Insect Prank Filters",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4"
+    }
+  ]
+}

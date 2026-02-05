@@ -1,0 +1,109 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/org.thunderdog.challegram.png",
+    "title": "Telegram X",
+    "ratings": "4.2",
+    "downloads": "670M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Telegram X"
+    },
+    {
+      "name": "category",
+      "value": "Social"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Telegram LLC"
+    },
+    {
+      "name": "Version",
+      "value": "0.22.2.1240-armeabi-v7a"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/DwhrNDKpIogAhGRRyB5xbPd6NqgTOb3qMr4gS2Wpx6JJ4Vn2k3GfGypJ5uPxXYCLASS-",
+    "https://play-lh.googleusercontent.com/yS6SLrKc-zNtmM3V2WtYeA6cPyJ8cOMEC_8wJTnRcQdL_x6UdxEkVsLGV6d_URmTOvff",
+    "https://play-lh.googleusercontent.com/RCRt7C0T50dmpQ4ZxtTe2m0Vb6RfBuw_m8BoT98Y3-kGakb6O3etEYkPgcHIZfo8jCDp",
+    "https://play-lh.googleusercontent.com/Tx17vZ1wTM__Hri-pSTqQ-DvgKjWSTdicUuus--Vm_h0eLFPi7ggZa9sS_lz4WN-Cg",
+    "https://play-lh.googleusercontent.com/4KbtvI9yYGyyvvrsyjyEkQFMgxalarqSM1lrbcECn0YdxTe5arGu0jdZz1esh-4AIhMx"
+  ],
+  "app_descript": "<p><strong>Brief:</strong>\nTelegram X, an advanced rendition of the popular messaging app Telegram, offers users a sophisticated alternative to the traditional Telegram client. It's built on the robust TDLib framework to ensure boosted performance, smoother animations, and access to experimental features that are yet to be adopted in the mainstream version.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🏎️ <strong>Enhanced Speed:</strong> Experience faster message delivery and network performance.</li>\n<li>🌟 <strong>Fluid Animations:</strong> Enjoy slick and smooth transitions within the app.</li>\n<li>🚀 <strong>Advanced TDLib Foundation:</strong> Built on a powerful library for increased reliability.</li>\n<li>🧪 <strong>Experimental Features:</strong> Get early access to cutting-edge functionalities.</li>\n<li>💬 <strong>Rich Messaging:</strong> Use advanced chat options, bots, and multimedia sharing capabilities. 📷</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 <strong>User Interface:</strong> Clean and intuitive design makes for a pleasant user experience.</li>\n<li>👍 <strong>Stability:</strong> Improved stability over the standard Telegram client.</li>\n<li>👍 <strong>Regular Updates:</strong> Frequent updates with new features and performance enhancements.</li>\n<li>👍 <strong>Privacy Focused:</strong> Emphasizes strong encryption and security of your communications.</li>\n<li>👍 <strong>Customizability:</strong> Offers ample options to personalize the application. 🎨</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 <strong>Unfamiliarity:</strong> Some users may need time to adapt to the new features and layout.</li>\n<li>👎 <strong>Experimental Features Risk:</strong> As with any beta features, there might be bugs or stability issues.</li>\n<li>👎 <strong>Support and Documentation:</strong> Possible limited resources compared to the mainstream Telegram client.</li>\n<li>👎 <strong>Battery Usage:</strong> Potentially higher battery consumption due to increased performance features.</li>\n<li>👎 <strong>User Base:</strong> Slightly fewer users on Telegram X could mean some contacts aren't using the same app. 🔍</li>\n</ul>\n<p><strong>Price:</strong>\n💵 Completely free to use with no in-app purchases, making it accessible for everyone.</p>\n<p>Given the details provided, Telegram X appears to be an application tailored for those who are looking for a faster, more dynamic, and cutting-edge messaging experience while still placing a strong emphasis on security.</p>",
+  "related_apps": [
+    {
+      "link": "/details/jp-cocone-livly/54171.html",
+      "icon": "assets/img/apk/icon/jp.cocone.livly.png",
+      "name": "Livly Island - Adopt Cute Pets",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-daily-festival-photos/39721.html",
+      "icon": "assets/img/apk/icon/com.daily.festival.photos.png",
+      "name": "Daily Festival Photo",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/tv-medal-recorder/39573.html",
+      "icon": "assets/img/apk/icon/tv.medal.recorder.png",
+      "name": "Medal - Gaming Clips",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-ptanktechnology-reincornation/39352.html",
+      "icon": "assets/img/apk/icon/com.ptanktechnology.reincornation.png",
+      "name": "Reincarnation",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-tiktok-lite-go/15392.html",
+      "icon": "assets/img/apk/icon/com.tiktok.lite.go.png",
+      "name": "TikTok Lite - Faster TikTok",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-petmeetly/15275.html",
+      "icon": "assets/img/apk/icon/com.petmeetly.png",
+      "name": "Petmeetly - Pet's Match Finder",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-xingin-xhs/14603.html",
+      "icon": "assets/img/apk/icon/com.xingin.xhs.png",
+      "name": "REDnote—小红书国际版",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-stdev-dissordap/10395.html",
+      "icon": "assets/img/apk/icon/com.stdev.dissordap.png",
+      "name": "Vote Social - Photo Voting VS",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "3.8"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/au.net.abc.triplej.png",
+    "title": "triple j",
+    "ratings": "4.3",
+    "downloads": "30M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "triple j"
+    },
+    {
+      "name": "category",
+      "value": "Music & Audio"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Australian Broadcasting Corporation"
+    },
+    {
+      "name": "Version",
+      "value": "2.12.2"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/Cf7NplmGfYJazz4x5Gum_GSuh3u5qQNLG7ds6i7vOGjmKwa0zm2cEbSgSUo4rFBq7dk",
+    "https://play-lh.googleusercontent.com/FUSHW4W9ryH_c5ASt7_STuv2gPCE3St_Df9EP3MJA3RtOLd6SycB-NxyyGfCk_hhV8qW",
+    "https://play-lh.googleusercontent.com/SyvRln0rH7kCrToxVSRgftOmOx9jBRfMRjy6AOFVOLAz8izCcs33tr-Gr_D78Cs55967",
+    "https://play-lh.googleusercontent.com/-ExXN2LRSZUpJJx5F40M8w8P45Zygjq6XR4rBAlXurQNmEMWtZWNyBNBW8F96a77Cv4",
+    "https://play-lh.googleusercontent.com/zZVqD-01nMK5x8XAkqPr6SqdG3SxXB5SA_jSlBkF9KJ00e8VjThiHeesk1jPkyt1jRE",
+    "https://play-lh.googleusercontent.com/W-92lYpPjJjmwSL0ll2Qs34is22CjQeFxqWQzkguvUuLaJYYrV676rAzr7okZcP9wbk",
+    "https://play-lh.googleusercontent.com/0ef4w3z-r-8ueyAHZdPAGPpLO5LHDnW3rkt_EZwNRu5A-Rb2C4KI9-XQaYQNxXV2ijc",
+    "https://play-lh.googleusercontent.com/75aSNSkCZFiTPhS0LmY_-kIvavFURWwrHyMSWdmqMn0X28SLCTpGwHzeQWAJKeDjum4",
+    "https://play-lh.googleusercontent.com/4AGGzKhtRDkDnR7-EJ73pvu116Evq244n2DhCTaPV07oozrd8zw_AF29YQx9Z4s95Y0"
+  ],
+  "app_descript": "<h3>📱 triple j</h3>\n<p>Embark on a seamless musical adventure with the triple j app, your ultimate mobile gateway to the beats, rhythms, and melodies that resonate across Australia. Whether you’re on the go or lounging at home, this app puts the full spectrum of triple j’s offerings at your fingertips, inviting you to dive into a world where music thrives and the airwaves are alive with fresh sounds and energetic vibes.</p>\n<h4>📌 Core Features:</h4>\n<ul>\n<li><strong>Stream Music &amp; Radio</strong>: Instantly stream triple j radio live, anytime, anywhere! 📻</li>\n<li><strong>Chromecast Support</strong>: Cast your favourite tunes to any Chromecast-enabled device for an enhanced listening experience. 🎛️</li>\n<li><strong>Recent Tracks</strong>: Curiosity about that catchy song? Access a comprehensive list of recently played songs. 🎶</li>\n<li><strong>Playlist Integration</strong>: Instantly add loved tracks to your Spotify or YouTube Music playlists with a simple tap. 🎼</li>\n<li><strong>Find FM Frequencies</strong>: Effortlessly locate your nearest FM station to tune in the traditional way. 📡</li>\n<li><strong>Timezone Updates</strong>: Adjust the app to your time zone for a live listening experience, no matter where you are in Australia. ⏰</li>\n<li><strong>Direct Interaction</strong>: Contact triple j with ease through in-app SMS or phone calls. 📞</li>\n</ul>\n<h4>👍 Pros:</h4>\n<ul>\n<li>Enjoy unlimited access to a diverse music library and live radio. 🎵</li>\n<li>Stay up-to-date with the latest tracks and easily add them to your digital library. 🆕</li>\n<li>Effortless audio streaming to external devices like speakers or TVs. 🔊</li>\n<li>Simple user interface allowing for easy navigation and interaction with the station. 🗺️</li>\n<li>Keep connected to triple j no matter where you are in Australia. 🌏</li>\n</ul>\n<h4>👎 Cons:</h4>\n<ul>\n<li>Data consumption charges can be significant; users should monitor their usage carefully. 💳</li>\n<li>Limited functionality outside of Australia, which may disappoint international fans. 🌍</li>\n<li>Dependence on third-party services like Spotify or YouTube Music for playlist features. 🔄</li>\n<li>No mention of offline capabilities for listening without data or Wi-Fi. 📶</li>\n</ul>\n<h4>💵 Price:</h4>\n<ul>\n<li>The triple j app is free to download and use, but keep in mind that data charges from your mobile provider may apply. 🆓</li>\n</ul>\n<p><strong>Harness the full power of triple j and let the rhythm move you wherever you are. Download now and experience music we all love – right from your phone!</strong></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-simmusic-oldjpop/49056.html",
+      "icon": "assets/img/apk/icon/com.simmusic.oldjpop.png",
+      "name": "昭和の名曲 - 70年代/80年代名曲, 昭和の歌謡曲",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-bigsoft-voicereverse-audiochanger/39378.html",
+      "icon": "assets/img/apk/icon/com.bigsoft.voicereverse.audiochanger.png",
+      "name": "Funny Voice Reverse",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "3.1"
+    },
+    {
+      "link": "/details/com-realdrum-drumset-drumapp-beatmaker-music-instruments-drumkit/16783.html",
+      "icon": "assets/img/apk/icon/com.realdrum.drumset.drumapp.beatmaker.music.instruments.drumkit.png",
+      "name": "Learn Drum - Pad & Beat Maker",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-musicplayer-mp3-audio-mymusic-player/15795.html",
+      "icon": "assets/img/apk/icon/com.musicplayer.mp3.audio.mymusic.player.png",
+      "name": "Music Player & MP3 - MMusic",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/com-ai-sound-donna/15626.html",
+      "icon": "assets/img/apk/icon/com.ai.sound.donna.png",
+      "name": "Donna AI Song & Music Maker",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-vanniktech-rssreader/15328.html",
+      "icon": "assets/img/apk/icon/com.vanniktech.rssreader.png",
+      "name": "RSS Reader Offline | Podcast",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-voicechanger-supereffect-soundeffect/14158.html",
+      "icon": "assets/img/apk/icon/com.voicechanger.supereffect.soundeffect.png",
+      "name": "Voice Changer: Audio Effect",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/org-cru-womans-herbible/14124.html",
+      "icon": "assets/img/apk/icon/org.cru.womans.herbible.png",
+      "name": "her.BIBLE Women's Audio Bible",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    }
+  ]
+}

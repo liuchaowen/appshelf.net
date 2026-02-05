@@ -1,0 +1,101 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.afwsamples.testdpc.png",
+    "title": "Test DPC",
+    "ratings": "4.2",
+    "downloads": "420M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Test DPC"
+    },
+    {
+      "name": "category",
+      "value": "Libraries & Demo"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Sample developer"
+    },
+    {
+      "name": "Version",
+      "value": "6.2.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/DYqa_dmlnIZcD6vpoO_Eg7o4HPO3x5-yTk1UcAi49Hp0f1AF59YsF1P_JIvz79KBndg",
+    "https://play-lh.googleusercontent.com/yjyKfSZ1aRZz-jedUwc-CmbCawl0p-q-zLkDwYqalGJRMCbcv4y0fSoggPEQapBOmg",
+    "https://play-lh.googleusercontent.com/904VezurR5FtPOQghARUSSZoteC2S-ZNwtjFOo8QBKt9ZEXPkdwG0cmmqF2phW-aSA",
+    "https://play-lh.googleusercontent.com/PSQebc9rhDsZF1ICoozD_9nUEn3V8KNTdP3siT73rO6MI1ztHE7I1ONuIGAWEYyUtfI",
+    "https://play-lh.googleusercontent.com/2MelW239E-0qc2uTqggCFqEEr12ChWmTLyqosv7Px37lTKydMoR41pkECrvDiyW24Q"
+  ],
+  "app_descript": "<p><strong>Brief:</strong>\nTest DPC (Device Policy Controller) is a specialized app designed for developers to test and understand how their applications would operate within Android Enterprise environments. It serves as both a testing utility and reference example for creating custom DPCs, facilitating the setup of work profiles, enforcement of app restrictions, management of security policies, and the enablement of work apps.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>📊 Work Profile Management: Facilitates the creation and management of work profiles on Android devices.</li>\n<li>🔒 Security Policy Enforcement: Allows the testing and management of various security policies to ensure enterprise compliance.</li>\n<li>🛠️ Application Restrictions: Provides tools to set and manage application restrictions within a managed context.</li>\n<li>📱 Device Owner Context Simulation: Simulates how apps behave under a device owner or within a managed profile.</li>\n<li>📖 Implementation Reference: Serves as a comprehensive reference for developers looking to implement their own device policy controller.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👩‍💻 Developer-friendly: Tailor-made for developers seeking to understand enterprise app behavior.</li>\n<li>🏢 Enterprise Integration: Ideal for testing apps in enterprise environments similar to real-world usage.</li>\n<li>🔄 Real-time Testing: Enriches development process with immediate feedback on managed context functioning.</li>\n<li>🛡️ Enhanced Security: Aids in developing apps that adhere to robust enterprise security standards.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👥 Limited Audience: Mainly useful for app developers, not the general consumer audience.</li>\n<li>🤔 Complexity: New and less experienced developers may find it challenging to fully utilize its features.</li>\n<li>⚙️ Specific Use-Case: The app is tailored only for testing enterprise app behavior, not for other types of development testing.</li>\n<li>📚 Learning Curve: Understanding all functionalities and their implications in enterprise scenarios requires a learning investment.</li>\n</ul>\n<p><strong>Price:</strong>\n💵 This app is free to use, aiding developers without additional cost for testing their applications in an enterprise context.</p>\n<p>The app 'Test DPC' fulfills a niche requirement for app developers working with Android Enterprise, giving them the tools required to ensure their apps perform optimally in a secured, managed environment. It's a robust utility for professionals developing enterprise-oriented apps and looking to comply with stringent corporate policies.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-detection-faceshape/16018.html",
+      "icon": "assets/img/apk/icon/com.detection.faceshape.png",
+      "name": "Face emotion detection",
+      "categoryLink": "/en/categories/libraries.demo/14",
+      "category": "Libraries & Demo",
+      "rating": "3.6"
+    },
+    {
+      "link": "/details/com-Roblox-Mod-Menu-Roblox_Games_Master/15226.html",
+      "icon": "assets/img/apk/icon/com.Roblox.Mod.Menu.Roblox_Games_Master.png",
+      "name": "Mod Menu For RBX",
+      "categoryLink": "/en/categories/libraries.demo/14",
+      "category": "Libraries & Demo",
+      "rating": "2"
+    },
+    {
+      "link": "/details/mods-melon-playground-sandbox/315.html",
+      "icon": "assets/img/apk/icon/melon.mods.png",
+      "name": "Mods Melon Playground Sandbox",
+      "categoryLink": "/en/categories/libraries.demo/14",
+      "category": "Libraries & Demo",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/google-cardboard/314.html",
+      "icon": "assets/img/apk/icon/cardboard.png",
+      "name": "Google Cardboard",
+      "categoryLink": "/en/categories/libraries.demo/14",
+      "category": "Libraries & Demo",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/test-dpc/313.html",
+      "icon": "assets/img/apk/icon/com.afwsamples.testdpc.png",
+      "name": "Test DPC",
+      "categoryLink": "/en/categories/libraries.demo/14",
+      "category": "Libraries & Demo",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/pub-gfx-tool-free/312.html",
+      "icon": "assets/img/apk/icon/inc.trilokia.pubgfxtool.free.png",
+      "name": "PUB Gfx Tool Free",
+      "categoryLink": "/en/categories/libraries.demo/14",
+      "category": "Libraries & Demo",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/mx-player-codec/311.html",
+      "icon": "assets/img/apk/icon/com.mxtech.ffmpeg.v7_neon.png",
+      "name": "MX Player Codec",
+      "categoryLink": "/en/categories/libraries.demo/14",
+      "category": "Libraries & Demo",
+      "rating": "4.6"
+    }
+  ]
+}

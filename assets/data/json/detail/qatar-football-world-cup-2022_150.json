@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.shakilhossen.copaamerica.png",
+    "title": "Qatar Football World Cup 2022",
+    "ratings": "4.9",
+    "downloads": "400M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Qatar Football World Cup 2022"
+    },
+    {
+      "name": "category",
+      "value": "Sport"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Digital Application Lab"
+    },
+    {
+      "name": "Version",
+      "value": "4.1.4"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> Qatar Football World Cup 2022</p>\n<hr/>\n<h3>Brief:</h3>\n<p>Stay updated with the Qatar Football World Cup 2022 app – your ultimate guide for the much-anticipated world football championship. This app provides schedules, live TV streaming options, and qualifier information for football enthusiasts around the globe. Get ready for a comprehensive World Cup experience, right from the palm of your hand.</p>\n<h3>Core Features:</h3>\n<ul>\n<li>📅 <strong>Up-to-the-Minute Schedule</strong>: Track the full tournament schedule, including the final draw and detailed match timings ⏰.</li>\n<li>📺 <strong>Live TV Access</strong>: Watch the World Cup live, with easy navigation to live TV streaming for all the matches 🖥️.</li>\n<li>🏅 <strong>Qualifier Insights</strong>: Receive in-depth information on the road to the World Cup, encompassing all qualifiers 🌍.</li>\n<li>🏟️ <strong>Stadium Details</strong>: Explore insights into the various venues, including kick-off times and location specifics 📍.</li>\n<li>📡 <strong>Real-Time Updates</strong>: Stay informed with the latest updates throughout the tournament's progression ⚽.</li>\n</ul>\n<h3>Pros:</h3>\n<ul>\n<li>👦 <strong>User-Friendly Interface</strong>: Navigate the app effortlessly with its intuitive and accessible layout 👌.</li>\n<li>🌐 <strong>Comprehensive Coverage</strong>: All-inclusive details on schedules, stadiums, and qualifiers within a single app 📑.</li>\n<li>🔔 <strong>Notifications</strong>: Opt in for alerts and stay on top of every twist and turn of the World Cup 🚨.</li>\n<li>🌍 <strong>Global Reach</strong>: Ideal for fans worldwide, offering live streaming links that cater to an international audience 📶.</li>\n<li>🆓 <strong>Free to Use</strong>: Immerse yourself in the World Cup frenzy without spending a penny💸.</li>\n</ul>\n<h3>Cons:</h3>\n<ul>\n<li>👎 <strong>Unofficial Source</strong>: As an unofficial app, reliance on the provided information should be measured against official announcements 🤔.</li>\n<li>📶 <strong>Internet Dependency</strong>: Requires a consistent internet connection to access live streaming and real-time updates 🌐.</li>\n<li>🗒️ <strong>Ad-Supported</strong>: May include ads that could disrupt the user experience periodically 📢.</li>\n<li>🔄 <strong>Update Dependent</strong>: Accuracy of content is dependent on timely updates from the app’s developers 🔃.</li>\n<li>⚖️ <strong>Balance of Content</strong>: May include historical controversies about the event's organization, potentially overshadowing the focus on the current tournament 🔍.</li>\n</ul>\n<h3>Pricing:</h3>\n<p>💵 The Qatar Football World Cup 2022 app is available for free. Note that streaming live TV may incur additional charges based on your local service provider.</p>\n<hr/>\n<p>Crafted to cater to football fans worldwide, this unofficial app aims to bring you closer to the action on the ground in Qatar with live updates, comprehensive schedules, and more. Enjoy the game and let the spirit of football unite us all during the Qatar Football World Cup 2022!</p>\n<p><a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Download now</a> and kick off your World Cup experience!</p>",
+  "related_apps": [
+    {
+      "link": "/details/Live-Cricket-TV-WorldCup-2023/4582.html",
+      "icon": "assets/img/apk/icon/com.cricketworldcup.livescore.liveline.png",
+      "name": "Live Cricket TV WorldCup 2023",
+      "categoryLink": "/en/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/Rooter/4571.html",
+      "icon": "assets/img/apk/icon/com.threesixteen.app.png",
+      "name": "Rooter",
+      "categoryLink": "/en/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/Supercars-App/4531.html",
+      "icon": "assets/img/apk/icon/com.supercars.app.png",
+      "name": "Supercars App",
+      "categoryLink": "/en/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/yahoo-fantasy-sports/291.html",
+      "icon": "assets/img/apk/icon/com.yahoo.mobile.client.android.fantasyfootball.png",
+      "name": "Yahoo Fantasy Sports",
+      "categoryLink": "/en/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/live-football-tv-stream-hd/289.html",
+      "icon": "assets/img/apk/icon/com.livefootball.mrsports.tvhd.png",
+      "name": "Live Football Tv Stream HD",
+      "categoryLink": "/en/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/the-masters-golf-tournament/288.html",
+      "icon": "assets/img/apk/icon/com.ibm.events.android.masters.png",
+      "name": "The Masters Golf Tournament",
+      "categoryLink": "/en/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/live-sports-tv-streaming/287.html",
+      "icon": "assets/img/apk/icon/com.tehzeeb.livesports.tv.png",
+      "name": "live sports tv streaming",
+      "categoryLink": "/en/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/onx-hunt/286.html",
+      "icon": "assets/img/apk/icon/onxmaps.hunt.png",
+      "name": "onX Hunt",
+      "categoryLink": "/en/categories/sport/23",
+      "category": "Sport",
+      "rating": "4.9"
+    }
+  ]
+}

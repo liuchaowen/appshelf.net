@@ -1,0 +1,110 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.familydollar.png",
+    "title": "Family Dollar",
+    "ratings": "3.7",
+    "downloads": "280M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Family Dollar"
+    },
+    {
+      "name": "category",
+      "value": "Shopping"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Family Dollar Stores"
+    },
+    {
+      "name": "Version",
+      "value": "3.5.1"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/26j0qcmozDEFvJ50DBq8WF5MBCH0D0Gy_feMFZrqTatOo5MOiwKsarClRFQwDgiXqg",
+    "https://play-lh.googleusercontent.com/hX56tS_oafkKZEzKbMz7KlnPnkq8LcAIQBKga35jmFwH7I7exB5KqvNYT1yC6bbtwQUg",
+    "https://play-lh.googleusercontent.com/kq1S_Y-myDZ43XOaUFUHtabB7wYBUPn8ltT_4Bc8wRmUv7jZYlE0DTrvozbyOnOHUAg",
+    "https://play-lh.googleusercontent.com/pktV1ivSvizsXTs9z-jEZu9SHmGYCpBx_ZqX5Ikzkd2fUkkGirKSgXomok0-NFZ6c5E",
+    "https://play-lh.googleusercontent.com/X73BaB0EneqcNxP8s1i4tFWPHy6TUZm-iDnrEVLyYM_tnevZcGgAUqteFkrUzQd6Og",
+    "https://play-lh.googleusercontent.com/P1iRlo11ByvmcEv6sx4P1S50RC5zKbWkBa9F1skjt1SgiE-wEE_LxFk_aNYZZUThHLM"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> Family Dollar</p>\n<p><strong>App Package Name:</strong> com.familydollar</p>\n<h3>📝 Brief:</h3>\n<p>The Family Dollar app is a savvy shopper's delight, providing instant access to fantastic deals through Smart Coupons, a chance to win more discounts with every shop through the app's exclusive SmartSpins game, and convenient tools to enhance shopping experiences. With a focus on simplicity and savings, this app turns every visit to Family Dollar stores into an opportunity to save more.</p>\n<h3>🌟 Core Features:</h3>\n<ul>\n<li><strong>Instant Smart Coupons</strong> - Access a range of coupons directly on your phone to save on your purchases. 🎟️</li>\n<li><strong>SmartSpins Game</strong> - Participate in a fun game after every shop for a chance to win more Smart Coupons — guaranteed with every spin! 🎰</li>\n<li><strong>Weekly Ad Exploration</strong> - Browse the current weekly ads to plan your shopping trips and make the most of the latest deals. 📰</li>\n<li><strong>Scan &amp; Save</strong> - Use the app to scan product barcodes and discover special offers instantly. 🛒</li>\n<li><strong>Store Locator</strong> - Find the nearest Family Dollar store effortlessly, ensuring you never miss out on in-store promotions. 📍</li>\n</ul>\n<h3>👍 Pros:</h3>\n<ul>\n<li><strong>Smart Coupon Accumulation</strong> - Earn Smart Coupons easily every time you shop for immediate discounts on future purchases. 💸</li>\n<li><strong>User-Friendly Interface</strong> - Navigate the app with ease, making the process of finding deals and store locations straightforward. 📲</li>\n<li><strong>Engaging Rewards Game</strong> - Enjoy the excitement of a guaranteed win with every SmartSpins game you play. 🎉</li>\n<li><strong>Seamless Checkout</strong> - Redeeming coupons is as simple as scanning the app barcode or entering your phone number at checkout. 🔖</li>\n<li><strong>Updated Weekly Ads</strong> - Stay ahead of the savings curve by having the latest deals just a tap away. 🗞️</li>\n</ul>\n<h3>👎 Cons:</h3>\n<ul>\n<li><strong>App Exclusivity</strong> - Coupons and games are only available through the app, which might not cater to those without smartphones or who prefer paper coupons. 📴</li>\n<li><strong>Location Dependent</strong> - Offers and weekly ads may vary by location, so some deals might not be available universally. 🌍</li>\n<li><strong>Data Requirement</strong> - A constant internet connection is needed to access the latest deals and play SmartSpins. 📡</li>\n<li><strong>Limited Support</strong> - Users experiencing technical difficulties must visit the website for assistance rather than receiving in-app support. 🆘</li>\n<li><strong>Account Requirement</strong> - Must have an account and provide a phone number to access all features and savings. 🔑</li>\n</ul>\n<h3>💵 Price:</h3>\n<p>The Family Dollar app is <strong>free to download</strong> and use, with no initial purchase cost. However, users must shop at Family Dollar to earn and use Smart Coupons, which may influence overall spending. 🆓</p>\n<p>By combining convenience with rewards, the Family Dollar app provides a well-rounded shopping tool that fosters savings and brings gamification to the everyday errand of purchasing household essentials.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-seagm-store/54458.html",
+      "icon": "assets/img/apk/icon/com.seagm.store.png",
+      "name": "SEAGM - Games Topup, Gift Card",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-gowish-app/39285.html",
+      "icon": "assets/img/apk/icon/com.gowish.app.png",
+      "name": "GoWish - Your Digital Wishlist",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-aldisued-shopgo/16934.html",
+      "icon": "assets/img/apk/icon/com.aldisued.shopgo.png",
+      "name": "ALDI SHOP&GO",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.2"
+    },
+    {
+      "link": "/details/com-wakefern-shoprite/16933.html",
+      "icon": "assets/img/apk/icon/com.wakefern.shoprite.png",
+      "name": "ShopRite: Groceries & Savings",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-yaxo-vancamper/16894.html",
+      "icon": "assets/img/apk/icon/com.yaxo.vancamper.png",
+      "name": "Vancamper: Buy sell campervans",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/com-elfster-elfdroid/16861.html",
+      "icon": "assets/img/apk/icon/com.elfster.elfdroid.png",
+      "name": "Elfster: The Secret Santa App",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-biggu-shopsavvy/16860.html",
+      "icon": "assets/img/apk/icon/com.biggu.shopsavvy.png",
+      "name": "ShopSavvy - Barcode Scanner",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/moloapps-gifttracker/16845.html",
+      "icon": "assets/img/apk/icon/moloapps.gifttracker.png",
+      "name": "GiftTracker : Gift List Helper",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.1"
+    }
+  ]
+}

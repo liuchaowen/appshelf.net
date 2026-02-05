@@ -1,0 +1,111 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.medibang.android.paint.tablet.png",
+    "title": "MediBang Paint",
+    "ratings": "3.8",
+    "downloads": "800M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "MediBang Paint"
+    },
+    {
+      "name": "category",
+      "value": "Art & Design"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "MediBang Inc."
+    },
+    {
+      "name": "Version",
+      "value": "17.6"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/rHl6IUx8NgeLUByTowP82H89_s0c47ZtVJ_S-s4mtYLSbey4JqXLLF3PP6UFGSbxgAg",
+    "https://play-lh.googleusercontent.com/2LjCP4k8TgP0Pc9SrvNtjg_NgtQ8ajS1gC1UNxXD-gXy1irIgeeeIW_YEqRqzS2IU4I",
+    "https://play-lh.googleusercontent.com/iKOcNp3v4uARenPf5r6SDtrKXsgS0tC7hnzT7TBm1SZxi_7hnEzZat2XB1R3b8GROIw",
+    "https://play-lh.googleusercontent.com/OR3GMPqMH-Mim5MD1-A_GbdUqJKsYkB6qBCenBMNOxBAQJjjEtUxG8_MEhvB6zZCpxpu",
+    "https://play-lh.googleusercontent.com/xXUXkiPB5SUfmyX8soPVcO7d-1pD8xg7Ji_0MrBRBm9IiBFAeQQe9nLrTkC87nrZwTI",
+    "https://play-lh.googleusercontent.com/FmbM-FRAqlS0ntyl5MKIeg1zFdWcatsJ7ggByIU00ifT2SOMQfK7y82tDxNkMffwYA",
+    "https://play-lh.googleusercontent.com/Y839KujMxHSjnRIgZlYwsauNp8ZsJfuFeLuQNLeBTqVR614TlwaOLOPdhnQLRyxvBD0"
+  ],
+  "app_descript": "<h3>MediBang Paint</h3>\n<p><strong>Brief:</strong>\nMediBang Paint is a versatile digital painting and comic creation tool which offers a plethora of features akin to a desktop painting program. Designed with smartphone users in mind, it integrates a user-friendly interface allowing for seamless painting and drawing on the go. With a strong focus on intuitive design and feature-rich controls, MediBang Paint constitutes a powerful ally for both novice and seasoned artists.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🖌️ <strong>Extensive Brush Library</strong>: Access an impressive array of over 100 free brushes including Airbrush, Pencil, Watercolor, and many more specialized options. </li>\n<li>🎨 <strong>Advanced Coloring System</strong>: Understand and manipulate color through HSV mode for precise adjustments.</li>\n<li>📚 <strong>Rich Resources Pool</strong>: Enjoy free access to 850 tones, textures, backgrounds, and word balloons to enrich art and comic creation.</li>\n<li>🌟 <strong>Comic Creation Tools</strong>: Generate comic panels effortlessly and give comics a professional flair with specialized fonts and editing tools.</li>\n<li>👩‍🎨 <strong>Smart User Interface</strong>: A simplified, customizable UI that promotes easy navigation and creative fluidity.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 <strong>Tailored for Smartphones</strong>: Specifically built for mobile use, the app ensures optimal utility across smartphone devices.</li>\n<li>👍 <strong>High Customizability</strong>: Users can create shortcuts for increased production efficiency and tailor the interface to their needs.</li>\n<li>👍 <strong>Collaborative Features</strong>: Share and collaborate on projects with other creatives seamlessly.</li>\n<li>👍 <strong>Direct Community Uploads</strong>: One-click sharing to the MediBang art community and social network accounts for easy publication and exposure.</li>\n<li>👍 <strong>Helpful Guidance</strong>: Built-in help feature for users who might encounter any difficulties.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 <strong>Complex for Beginners</strong>: The plethora of features may be overwhelming for new users to navigate initially.</li>\n<li>👎 <strong>Smartphone Limitations</strong>: Despite optimizations, creating on a smaller screen might be challenging compared to a tablet or desktop.</li>\n<li>👎 <strong>Data Usage</strong>: Using online features for collaboration or resource downloading might consume significant data.</li>\n<li>👎 <strong>Limited Panel Editing</strong>: Once a panel is created, editing options might be limiting.</li>\n<li>👎 <strong>Storage Space</strong>: High-quality resources and projects may require substantial storage space on the device.</li>\n</ul>\n<p><strong>Price:</strong></p>\n<ul>\n<li>💵 The MediBang Paint app is free to download with potential in-app purchases for additional features and resources.</li>\n</ul>\n<p><strong>Community:</strong>\nAs MediBang Paint is not classified specifically as a game, a community section has not been included according to the constraints provided. However, the app does offer one-click options to share work within the app's art community and on the user's social network accounts.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-hitpaw-ai-art/54504.html",
+      "icon": "assets/img/apk/icon/com.hitpaw.ai.art.png",
+      "name": "AI Art Generator - HitPaw",
+      "categoryLink": "/en/categories/art.design/1",
+      "category": "Art & Design",
+      "rating": "3.2"
+    },
+    {
+      "link": "/details/cartoon-anime-maker-ai-avatar-image-generator-app/54493.html",
+      "icon": "assets/img/apk/icon/cartoon.anime.maker.ai.avatar.image.generator.app.png",
+      "name": "Cartoon Photo Editor ・Toon AI",
+      "categoryLink": "/en/categories/art.design/1",
+      "category": "Art & Design",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-photoediter-aiart-artgenerator/54200.html",
+      "icon": "assets/img/apk/icon/com.photoediter.aiart.artgenerator.png",
+      "name": "Mirei Ai Photo Generator",
+      "categoryLink": "/en/categories/art.design/1",
+      "category": "Art & Design",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/app-artworkout-learn-how-to-draw/54116.html",
+      "icon": "assets/img/apk/icon/app.artworkout.learn.how.to.draw.png",
+      "name": "Learn how to draw - ArtWorkout",
+      "categoryLink": "/en/categories/art.design/1",
+      "category": "Art & Design",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/pvm-festival-photo-editor/39722.html",
+      "icon": "assets/img/apk/icon/pvm.festival.photo.editor.png",
+      "name": "Festival Photo Frame, Editor",
+      "categoryLink": "/en/categories/art.design/1",
+      "category": "Art & Design",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-spinner-finger-draw-art/39677.html",
+      "icon": "assets/img/apk/icon/com.spinner.finger.draw.art.png",
+      "name": "Glow Finger Spinner Art App",
+      "categoryLink": "/en/categories/art.design/1",
+      "category": "Art & Design",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/wassticker-happynewyear2024/39670.html",
+      "icon": "assets/img/apk/icon/wassticker.happynewyear2024.png",
+      "name": "Happy new year stickers 2026",
+      "categoryLink": "/en/categories/art.design/1",
+      "category": "Art & Design",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/jp-note15-christmastree/39428.html",
+      "icon": "assets/img/apk/icon/jp.note15.christmastree.png",
+      "name": "Your Christmas Tree Decoration",
+      "categoryLink": "/en/categories/art.design/1",
+      "category": "Art & Design",
+      "rating": "4.2"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/ca.gc.ec.weather_app_android.ops.png",
+    "title": "WeatherCAN",
+    "ratings": "4.2",
+    "downloads": "320M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "WeatherCAN"
+    },
+    {
+      "name": "category",
+      "value": "Weather"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Environment and Climate Change Canada"
+    },
+    {
+      "name": "Version",
+      "value": "1.14.1build144"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/TU7tAaLs7o38YNXfvzSlYkWFmEONePxUKA7ydzAxreIBsGyJ9clSP7DafNGAnRiawOE",
+    "https://play-lh.googleusercontent.com/Owt3M_JY4RNNUpRmHIXuVIUzDKV-smKcb07G3ffTglH-12S5zzBovLrm5rqaN5QWLj0",
+    "https://play-lh.googleusercontent.com/TU7YEAr0sTw7VP5qDItl-9_T9VovEl3kUMiXNZ3YD1x7rjAEf-sBx94UfLdsK2It",
+    "https://play-lh.googleusercontent.com/iIxZ-ftQaBHd5CLwHRrOmnODcoNy5uFdJy77H6LOOV6U-0z42L9WyaKek5-g7Sg5xQE",
+    "https://play-lh.googleusercontent.com/2_VC5v9ghuHk0cJg24Gx2TPr14df1Rw1QWzD3JZfDtE0h4r4aUAFkxEf1QV4JwyGtvq2",
+    "https://play-lh.googleusercontent.com/TImjtzIyM5hRC5iOZEvxi3etNEMAuC-OSt5CAAnJhuWJ-4qlyyrC35Lc0PRb0h4HSuA",
+    "https://play-lh.googleusercontent.com/B1izgXzb7xmOmGLhDIWDslgwMOGofnC3rHHIQ0Pxo0q80TsuYX4VdILLRze4EWKDrQ",
+    "https://play-lh.googleusercontent.com/m6iwzVVaVNk_d4nidi4WLrwmaOxRTAlsP5YA3h-KitVompxHf9qsrexPg8cP35CHrhU"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> WeatherCAN<br/>\n<strong>App Package Name:</strong> ca.gc.ec.weather</p>\n<hr/>\n<p><strong>Brief:</strong><br/>\nWeatherCAN is Environment and Climate Change Canada's official weather source, offering comprehensive meteorological information for over 10,000 locations across Canada. Stay updated with real-time conditions, detailed forecasts, and urgent weather alerts delivered directly to your device. With WeatherCAN, you can track weather developments pertinent to your current and saved locations in a user-friendly and bilingual interface.</p>\n<p><strong>Core Features:</strong> 📌</p>\n<ul>\n<li>Real-time current conditions and detailed 24-hour and 7-day forecasts for a vast array of locations throughout Canada. 🌤️</li>\n<li>Immediate push notifications for weather alerts issued by Environment and Climate Change Canada, ensuring safety and preparedness. 🚨</li>\n<li>Dynamic weather tracking that follows your movements and provides updates for both your current and designated saved locations. 🌎</li>\n<li>A zoomable map with high-resolution radar animations for greater detail and understanding of weather patterns. 🌦️</li>\n<li>Handy today and short-range forecast widgets for quick access to weather information at a glance. 📱</li>\n<li>The app is fully accessible in both English and French, with the option to switch languages from within the app. 🔄</li>\n<li>Personalized messages from meteorologists and customized Air Quality Health Index (AQHI) notifications tailored to individual sensitivities. 💬</li>\n</ul>\n<p><strong>Pros:</strong> 👍</p>\n<ul>\n<li>Extensive coverage with updates for over 10,000 locations within Canada. 🇨🇦</li>\n<li>User-friendly design with widgets and a bilingual interface enhancing the overall user experience. 👥</li>\n<li>Personalized alerts and messages cater to users' specific needs and sensitivities to environmental conditions. 💖</li>\n<li>Regular updates directly from Canada's official weather source for trusted accuracy and reliability. 🔍</li>\n<li>Advanced radar and mapping features provide in-depth weather visualization. 🗺️</li>\n</ul>\n<p><strong>Cons:</strong> 👎</p>\n<ul>\n<li>Limited to Canadian locations, which may not be suitable for international users seeking global weather information. 🗺️</li>\n<li>Push notifications can become frequent, potentially overwhelming during active weather periods. 🔔</li>\n<li>Higher device resource usage due to advanced features like high-resolution radar could affect battery life on mobile devices. 🔋</li>\n<li>Dependence on data connection for real-time updates could hinder functionality in areas with poor network coverage. 📶</li>\n<li>Language options are restricted to English and French, which may not cater to all users. 🈯️</li>\n</ul>\n<p><strong>Price:</strong> 💵</p>\n<ul>\n<li>The WeatherCAN app is free to download and use, enhancing its accessibility to all users. Free apps may include optional in-app purchases or ad content.</li>\n<li>Users consent to the future installation of updates by downloading the app, with the option to uninstall at any time.</li>\n</ul>\n<p><a href=\"https://play.google.com/store/apps/details?id=ca.gc.ec.weather\" rel=\"noopener noreferrer\" target=\"_blank\">Install WeatherCAN Now</a></p>\n<p><strong>Community:</strong> 🕸️\n<em>No community data available.</em></p>\n<hr/>\n<p>WeatherCAN reflects Environment and Climate Change Canada's commitment to providing Canadians with timely and accurate weather information, helping you stay ahead of severe weather conditions and effectively plan for the days ahead.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-eet-weather-launcher/15703.html",
+      "icon": "assets/img/apk/icon/com.eet.weather.launcher.png",
+      "name": "Weather Now Launcher - Radar",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "3.6"
+    },
+    {
+      "link": "/details/com-daily-forecast-weather-radar/4930.html",
+      "icon": "assets/img/apk/icon/com.daily.forecast.weather.radar.png",
+      "name": "Daily Forecast: Weather&Radar",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-mahersafadi-sunny/4921.html",
+      "icon": "assets/img/apk/icon/com.mahersafadi.sunny.png",
+      "name": "Sunny: Weather forecast",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4"
+    },
+    {
+      "link": "/details/WeatherPal/4628.html",
+      "icon": "assets/img/apk/icon/com.precise.opliging.kitan.png",
+      "name": "WeatherPal",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/live-weather/2063.html",
+      "icon": "assets/img/apk/icon/com.appsinnova.weatherforecast.liveweather.png",
+      "name": "Live Weather",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/radarnow/2062.html",
+      "icon": "assets/img/apk/icon/com.usnaviguide.radar_now.png",
+      "name": "RadarNow!",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/local-weather/2061.html",
+      "icon": "assets/img/apk/icon/com.weather.forecast.channel.local.png",
+      "name": "Local Weather",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/iqair-airvisual/2060.html",
+      "icon": "assets/img/apk/icon/com.airvisual.png",
+      "name": "IQAir AirVisual",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.6"
+    }
+  ]
+}

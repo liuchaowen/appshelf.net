@@ -1,0 +1,110 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.thehutgroup.ecommerce.lookfantastic.png",
+    "title": "Lookfantastic",
+    "ratings": "4.2",
+    "downloads": "470M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Lookfantastic"
+    },
+    {
+      "name": "category",
+      "value": "Shopping"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "THG (The Hut Group)"
+    },
+    {
+      "name": "Version",
+      "value": "1.9.2"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/ziiMdDnM7UBntrg2Gbq00DL_pkaM4jpA4C02cm_HHQI-dt6p3lfXiY9vg_PgRS6D6Ss",
+    "https://play-lh.googleusercontent.com/wuVert-WNsdotcT3Wmo5TngAk9lhOQeXz-34TBChY78qgsrppCbC19dyf0cPGHevvA",
+    "https://play-lh.googleusercontent.com/v2dhErgIvf4yBZ1fMKDoAL1a82PlTpOMxoxJu8QmH0dp5jItTEKn75bPfT_lIX8hatsC",
+    "https://play-lh.googleusercontent.com/aZlpZDAksknvII5iM7H8p8oI1NvCBdc_0Xi9SyvE5pLCRqQgn1JThzcl68Q211t11w",
+    "https://play-lh.googleusercontent.com/ih5d2TswLMCKYV-sIA8h-_lNPzFZD2kCTKqdQFN82XPQtHXsLo0PkW3eg-Sp3OYBS01D",
+    "https://play-lh.googleusercontent.com/yndSSG0LwmAUmwktSin-RKk3JUukopYayZh8qGKOEuC74UjsY8Zb9Xy6P_zbnpZLP-0"
+  ],
+  "app_descript": "<h3><strong>Lookfantastic</strong></h3>\n<h4>Brief:</h4>\n<p>Lookfantastic is an app designed for beauty enthusiasts and those who revel in the world of cosmetics and skincare. It offers a gateway to a wide array of beauty products from renowned brands, optimizing the shopping experience for users who fancy keeping up with the latest trends in beauty and wellness. With a seamless interface, it aims to make shopping for your favorite beauty products as enjoyable and straightforward as possible.</p>\n<h4>Core Features:</h4>\n<ul>\n<li>🛍️ <strong>Extensive Product Selection</strong>: Explore an expansive range of beauty products across categories.</li>\n<li>🔄 <strong>Easy Returns and Refunds</strong>: Hassle-free return policy tightens the trust between users and the app.</li>\n<li>🔔 <strong>Notifications for Offers and Discounts</strong>: Stay updated with the latest deals and exclusive offers.</li>\n<li>💄 <strong>Beauty Tips and Guides</strong>: Access expert beauty tips, tutorials, and product guides.</li>\n<li>⭐ <strong>Customer Reviews and Ratings</strong>: Make informed choices with the help of a robust review system.</li>\n</ul>\n<h4>Pros:</h4>\n<ul>\n<li>👍 Wide range of beauty and skincare products, catering to diverse needs and preferences.</li>\n<li>👍 User-friendly interface allows for easy navigation and search.</li>\n<li>👍 Regular promotions and exclusive deals for app users.</li>\n<li>👍 In-depth product details and reviews assist in making informed purchasing decisions.</li>\n</ul>\n<h4>Cons:</h4>\n<ul>\n<li>👎 May experience occasional app glitches or slowdowns.</li>\n<li>👎 Shipping restrictions could affect availability in certain regions.</li>\n<li>👎 Limited in-app customer support options.</li>\n<li>👎 Some users might find the product pricing higher compared to other retailers.</li>\n</ul>\n<h4>Price:</h4>\n<ul>\n<li>💵 The app is free to download, with the option of in-app purchases for the products available in their catalogue. Pricing varies based on the product and brand.</li>\n</ul>\n<p><em>Please note that since Lookfantastic is a shopping and beauty app, a community section is not included as per the given constraints.</em></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-seagm-store/54458.html",
+      "icon": "assets/img/apk/icon/com.seagm.store.png",
+      "name": "SEAGM - Games Topup, Gift Card",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-gowish-app/39285.html",
+      "icon": "assets/img/apk/icon/com.gowish.app.png",
+      "name": "GoWish - Your Digital Wishlist",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-aldisued-shopgo/16934.html",
+      "icon": "assets/img/apk/icon/com.aldisued.shopgo.png",
+      "name": "ALDI SHOP&GO",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.2"
+    },
+    {
+      "link": "/details/com-wakefern-shoprite/16933.html",
+      "icon": "assets/img/apk/icon/com.wakefern.shoprite.png",
+      "name": "ShopRite: Groceries & Savings",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-yaxo-vancamper/16894.html",
+      "icon": "assets/img/apk/icon/com.yaxo.vancamper.png",
+      "name": "Vancamper: Buy sell campervans",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/com-elfster-elfdroid/16861.html",
+      "icon": "assets/img/apk/icon/com.elfster.elfdroid.png",
+      "name": "Elfster: The Secret Santa App",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-biggu-shopsavvy/16860.html",
+      "icon": "assets/img/apk/icon/com.biggu.shopsavvy.png",
+      "name": "ShopSavvy - Barcode Scanner",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/moloapps-gifttracker/16845.html",
+      "icon": "assets/img/apk/icon/moloapps.gifttracker.png",
+      "name": "GiftTracker : Gift List Helper",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.1"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.google.android.apps.youtube.creator.png",
+    "title": "YouTube Studio",
+    "ratings": "4.3",
+    "downloads": "20M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "YouTube Studio"
+    },
+    {
+      "name": "category",
+      "value": "Video Players & Editors"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Google LLC"
+    },
+    {
+      "name": "Version",
+      "value": "23.37.103"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/kDc0ryXhkOIdry6pEf8QOHBV_RaeJeyFHHUCfbkRkPPA4LMIdiFdk8agvmf5K2YjBou5",
+    "https://play-lh.googleusercontent.com/1SGDOg-YGDna2E1cprxfV2OEWso9F67PoCFZs1kHPlfutZSHV9pz7_pblnyGxFAI6nA",
+    "https://play-lh.googleusercontent.com/zpOM1AltpSLmDi9naza9g_hukx17kUfOcjfLmT_MHmO3duL5s_NUbXzA9bO2oNwqjx_a",
+    "https://play-lh.googleusercontent.com/mYwcz--JZ7GNbfUOVUUcp4HFKfSGl1GfM8tVeQDSuzscnaOeLunAC31jJuyUG8RAipQ",
+    "https://play-lh.googleusercontent.com/1dZM3ex0uRA2pvyzjQaExgdU3dEYV-PdfBbcmxpZ8qCVrCAJo9fIGYN8GhXHHxY6Dw",
+    "https://play-lh.googleusercontent.com/CywbQzRSqHvD-5KYxEj1s46gip4rMAQFLahSJw4Nl7q8LGiErFS5bXXt2e5_8KnhEL4",
+    "https://play-lh.googleusercontent.com/2p7FEXDsjVWqwDRmdy2MFf9IbKK4agS2JL2Vf3ujqYk9A8aQxf_rnuOoj68uOeYtXDQ",
+    "https://play-lh.googleusercontent.com/EPNHovCeZ4dtg3OpOPPsbswmfyQcdhMBNVh3OlaSyusIL7HyllJwG9zykv_ZxUewlg"
+  ],
+  "app_descript": "<h3>YouTube Studio</h3>\n<h4>Brief:</h4>\n<p>YouTube Studio is the official tool for creators on YouTube, providing a comprehensive platform to manage their channels with ease. Tailored to fit the needs of YouTubers, it allows for efficient management of content and channel analytics right from their mobile device.</p>\n<h4>Core Features:</h4>\n<ul>\n<li>🛎 Notifications: Stay informed with alerts on significant activities and updates on your channel.</li>\n<li>📹 Video Management: Easily adjust video specifics such as thumbnails, monetization preferences, and publishing schedules.</li>\n<li>📊 Analytics: Monitor your channel's performance with detailed statistics.</li>\n<li>📝 Playlist Curation: Organize your content with simple playlist management tools.</li>\n<li>🛠 Account Integration: Sign in seamlessly with account permissions designed for your convenience. 🖼</li>\n</ul>\n<h4>Pros:</h4>\n<ul>\n<li>⏱ Real-Time Updates: Receive immediate notifications to stay on top of your channel's activity.</li>\n<li>🎨 Customization: Update creative elements of your videos to maintain a strong and cohesive brand identity.</li>\n<li>📈 Analytics Access: Gain insights into your audience, view counts, and more to strategize content effectively.</li>\n<li>📱 Mobile Convenience: Manage your channel on the go with an accessible mobile application.</li>\n<li>✅ Simplified Workflow: Streamline your tasks with an interface designed specifically for creators. 👩‍💻</li>\n</ul>\n<h4>Cons:</h4>\n<ul>\n<li>📶 Internet Dependency: Requires a stable internet connection for full functionality.</li>\n<li>💽 Storage Use: Uses storage space on your device for media files and thumbnails.</li>\n<li>🗃 Limited Features: Some desktop features might not be available on the mobile app.</li>\n<li>🔄 Syncing Issues: Occasionally, there may be delays or issues with information syncing across devices.</li>\n<li>🛂 Permissions Required: The app needs certain permissions, which might raise privacy concerns for some users. 🔒</li>\n</ul>\n<h4>Price:</h4>\n<p>💵 YouTube Studio is a free application developed by Google. It may include optional in-app features that creators can choose to pay for to enhance their channel management experience.</p>\n<p><a href=\"https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.creator\" rel=\"noopener noreferrer\" target=\"_blank\">Download YouTube Studio</a></p>\n<p><em>(Links to the community resources are not included as YouTube Studio is a non-game app.)</em></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-video-newslideshow/53956.html",
+      "icon": "assets/img/apk/icon/com.video.newslideshow.png",
+      "name": "Music Video Maker Magic Effect",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-prominent-aicatch/49088.html",
+      "icon": "assets/img/apk/icon/com.prominent.aicatch.png",
+      "name": "AI Catch: AI Video Generator",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-asianmobile-smartplayer/34766.html",
+      "icon": "assets/img/apk/icon/com.asianmobile.smartplayer.png",
+      "name": "IPTV Player: Smarters Watch TV",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "3.1"
+    },
+    {
+      "link": "/details/halloween-video-maker/34753.html",
+      "icon": "assets/img/apk/icon/halloween.video.maker.png",
+      "name": "Halloween Video Editor 2025",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-cupertinotech-aidancevideo/16075.html",
+      "icon": "assets/img/apk/icon/com.cupertinotech.aidancevideo.png",
+      "name": "AI Dance Video - Photo Dance",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "2.4"
+    },
+    {
+      "link": "/details/com-instagram-basel/15556.html",
+      "icon": "assets/img/apk/icon/com.instagram.basel.png",
+      "name": "Edits, an Instagram app",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/downloader-video-download-free/10303.html",
+      "icon": "assets/img/apk/icon/downloader.video.download.free.png",
+      "name": "Video Downloader & Video Saver",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-renderforest-videomaker/10142.html",
+      "icon": "assets/img/apk/icon/com.renderforest.videomaker.png",
+      "name": "Renderforest Video & Animation",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.5"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.starbucks.mobilecard.png",
+    "title": "Starbucks",
+    "ratings": "4.8",
+    "downloads": "950M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Starbucks"
+    },
+    {
+      "name": "category",
+      "value": "Food & Drink"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Starbucks Coffee Company"
+    },
+    {
+      "name": "Version",
+      "value": "5.9"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/6Yo7K_KnK05-SJtr2MCuM52WiHgmHpUMCITlALA88hRl60Pf9e1mr4xdMoL-CL_Awg",
+    "https://play-lh.googleusercontent.com/coX-ZXm2DrkgwvRdlB0465nF26Cg7X2Eio_QhCf6lsK8z4Dqww2kYCecovpKPrmBaQ",
+    "https://play-lh.googleusercontent.com/5mFRTjJNS3H6OImPm7ZQFJ3kWLba-2D5cVKIxJVSg0e2TZjthG3H8OTsz0Ee9LXZEg",
+    "https://play-lh.googleusercontent.com/h0SKIxXnwfCaaPyOvTPGq0Q3Tq6NNCg6VnHO_gslp0TrgAQEmS4mZjpKNlzHODLjDQ",
+    "https://play-lh.googleusercontent.com/4ePznoXm8CrXCNEDTLUWBUZBdCyAMZpvfxEkKEjOgNzqgJX9CAxVZGDofcdRwsJ_GoA",
+    "https://play-lh.googleusercontent.com/joaoWdWo6r5_kMmNRCyXHGt3QhTrpgfqyP73jI-4gg1wrFS99UwS-EovAP25Q6kSe20",
+    "https://play-lh.googleusercontent.com/amANroIT79ZOKSpm889IpzViXGWIjZs7Od8eq9a_kV08j57XNONtJoHtckIRC11cUx4"
+  ],
+  "app_descript": "<h3>Brief</h3>\n<p>Step into the world of caffeinated convenience with the Starbucks app, a perfect blend of technology and your favorite coffee ritual. This app is tailored for the coffee lovers on the move, serving up an effortless, personalized Starbucks experience right from your phone.</p>\n<h3>Core Features</h3>\n<ul>\n<li>📌 <strong>Pay in Store</strong>: Bypass the queue by using the scan-and-go feature for quick in-store purchases. 📱</li>\n<li>📌 <strong>Order Ahead</strong>: Customize your drink, place an order, and pick it up at a nearby Starbucks when it suits you best. ☕</li>\n<li>📌 <strong>Find a Store</strong>: Locate your nearest Starbucks, get directions, opening hours, and details on store facilities. 📍</li>\n<li>📌 <strong>Music Recognition</strong>: Discover and recognize the music playing at any Starbucks location. 🎵</li>\n<li>📌 <strong>Manage Cards</strong>: Effortlessly manage your Starbucks Card balance, add funds, review purchase history, and transfer balances. 💳</li>\n</ul>\n<h3>Pros</h3>\n<ul>\n<li>👍 <strong>Convenience</strong>: Streamlines your coffee purchasing process with mobile orders and payments. 🚀</li>\n<li>👍 <strong>Customization</strong>: Personalize your order to your taste right from the app. 🍮</li>\n<li>👍 <strong>Rewards Program</strong>: Earn stars on purchases and redeem them for free drinks or food items. 🌟</li>\n<li>👍 <strong>Gift Sending</strong>: Send the joy of coffee with a digital Starbucks Card to friends or family. 🎁</li>\n<li>👍 <strong>Location Services</strong>: Easily find the closest Starbucks and learn about the amenities they offer. 🤳</li>\n</ul>\n<h3>Cons</h3>\n<ul>\n<li>👎 <strong>Limited to Starbucks</strong>: The app is exclusive to Starbucks, so those looking for a multi-brand coffee app may need to look elsewhere. ☕❌</li>\n<li>👎 <strong>Device Compatibility</strong>: Initial NFC payment technology was not available for all iPhone models until recent versions. 📲✖️</li>\n<li>👎 <strong>Potential Balancing Issues</strong>: Users must stay vigilant to manage their card balances and reload funds. 💰🔍</li>\n</ul>\n<h3>Price</h3>\n<ul>\n<li>💵 The Starbucks app is free to download, but it encourages in-app reloads of the Starbucks Card which may vary in amount based on user preference. Free downloads do not necessarily mean free drinks; you still pay for your purchases through the app. 💸</li>\n</ul>\n<p>Embark on a journey through coffee paradise with the Starbucks app—where convenience meets custom brews, at the tap of a button.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-buzzfeed-tasty/16927.html",
+      "icon": "assets/img/apk/icon/com.buzzfeed.tasty.png",
+      "name": "Tasty",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-hacklatino-chingon-android/15837.html",
+      "icon": "assets/img/apk/icon/com.hacklatino.chingon.android.png",
+      "name": "Hack Latino",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-postmates-android/4464.html",
+      "icon": "assets/img/apk/icon/com.postmates.android.png",
+      "name": "Postmates - Food Delivery",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-seamlessweb-android-view/4463.html",
+      "icon": "assets/img/apk/icon/com.seamlessweb.android.view.png",
+      "name": "Seamless: Local Food Delivery",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-trycaviar-customer/4462.html",
+      "icon": "assets/img/apk/icon/com.trycaviar.customer.png",
+      "name": "Caviar - Order Food Delivery",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-chownow-discover/4461.html",
+      "icon": "assets/img/apk/icon/com.chownow.discover.png",
+      "name": "ChowNow: Local Food Ordering",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-toasttab-consumer/4460.html",
+      "icon": "assets/img/apk/icon/com.toasttab.consumer.png",
+      "name": "Toast Takeout & Delivery",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/menulog-au/3667.html",
+      "icon": "assets/img/apk/icon/com.menulog.m.png",
+      "name": "Menulog AU",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.2"
+    }
+  ]
+}

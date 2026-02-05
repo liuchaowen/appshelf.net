@@ -1,0 +1,60 @@
+{
+  "code": 200,
+  "msg": "success",
+  "data": [
+    {
+      "id": 48321,
+      "type": 1,
+      "link": "/article/7-hidden-features-of-happy-holi-photo-frame-2024-to-elevate-your-holi-photos/48321.html",
+      "title": "7 Hidden Features of Happy Holi Photo Frame 2024 to Elevate Your Holi Photos",
+      "cover": "assets/img/Uploads/articles/20251212/b6c3b2aeecb587a60d38842230a0702b.png",
+      "updated_at": "2025-12-12",
+      "seo_keyword": "",
+      "keyword": [],
+      "icon": null,
+      "writer_name": "Aimee",
+      "info": "{'qid':48321,'lang':'en','website':'apkzonic','device':'pc','position':10,'domain':'hot','type':20}"
+    },
+    {
+      "id": 43349,
+      "type": 1,
+      "link": "/article/transform-your-holiday-pics-with-christmas-photo-frame-2025/43349.html",
+      "title": "🎄 Transform Your Holiday Pics with Christmas Photo Frame 2025!",
+      "cover": "assets/img/Uploads/articles/20251111/6c375960d58511389acc39af09b65aff.png",
+      "updated_at": "2025-11-19",
+      "seo_keyword": "",
+      "keyword": [],
+      "icon": null,
+      "writer_name": "Aimee",
+      "info": "{'qid':43349,'lang':'en','website':'apkzonic','device':'pc','position':10,'domain':'hot','type':20}"
+    },
+    {
+      "id": 42959,
+      "type": 1,
+      "link": "/article/ho-ho-ho-ready-to-prank-santa/42959.html",
+      "title": "🎅 Ho Ho Ho! Ready to Prank Santa?",
+      "cover": "assets/img/Uploads/articles/20251111/1e7f44c6d52ec4743c6a1a806b43baf0.png",
+      "updated_at": "2025-11-19",
+      "seo_keyword": "",
+      "keyword": [],
+      "icon": null,
+      "writer_name": "Aimee",
+      "info": "{'qid':42959,'lang':'en','website':'apkzonic','device':'pc','position':10,'domain':'hot','type':20}"
+    },
+    {
+      "id": 42840,
+      "type": 1,
+      "link": "/article/unwrap-the-magic-of-norad-tracks-santa/42840.html",
+      "title": "🎅 Unwrap the Magic of NORAD Tracks Santa!",
+      "cover": "assets/img/Uploads/articles/20251111/2f38dbe4ff505dfcb45c1f3a28148119.png",
+      "updated_at": "2025-11-19",
+      "seo_keyword": "",
+      "keyword": [],
+      "icon": null,
+      "writer_name": "Aimee",
+      "info": "{'qid':42840,'lang':'en','website':'apkzonic','device':'pc','position':10,'domain':'hot','type':20}"
+    }
+  ],
+  "count": 4,
+  "total": 4
+}

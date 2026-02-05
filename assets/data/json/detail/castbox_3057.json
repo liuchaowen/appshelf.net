@@ -1,0 +1,115 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/fm.castbox.audiobook.radio.podcast.png",
+    "title": "Castbox",
+    "ratings": "4.7",
+    "downloads": "600M",
+    "age": "4+",
+    "download_link": "https://d.apkpure.com/b/APK/fm.castbox.audiobook.radio.podcast?version=latest"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Castbox"
+    },
+    {
+      "name": "category",
+      "value": "News & Magazines"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Castbox.FM - Radio & Podcast & AudioBooks"
+    },
+    {
+      "name": "Version",
+      "value": "9.0.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/LFyDrtsAD3jPQ9_pPMnjKZCqqNh9FJQFJSLnGMm2WSdKYkbhoClo-RFdm88Y7ZfCrDw",
+    "https://play-lh.googleusercontent.com/huFqTalVfu7yjxS1AHe1zAwJhP5qfOdv3EHDYApApCQOC1X_HgDf7Z87O7PEpf7qbS4",
+    "https://play-lh.googleusercontent.com/9rv8xcQiDCFsYpq3nZEI9yPayppGXPBTXyGhlUQeg0M1m9_bsCGRvMtQxZASrKJWuY24",
+    "https://play-lh.googleusercontent.com/r6wz29eGYD8Rq2KudL3IZxOUm0beWHIYF0sUN-PNUC7S1bIWgUu1nx4KqeiplidwkDM",
+    "https://play-lh.googleusercontent.com/RB1s1Ludufl_eA1E74oRTzUIhN2JLL0pgpVDZ31YN-p8TlBMzhUN_QYslRGPYSFSpOc3",
+    "https://play-lh.googleusercontent.com/TzrTKUCQVd86_VyzKpwQE7aQQZQ8BdbNXq0PujxfnShffOLxlMvHI6VkT4bFcV0FSw",
+    "https://play-lh.googleusercontent.com/FXXZublQhaoKfSnrOX26vhuasn4S31t-SPTw8OWyeiKwUXPFhUop_ZahZYbTjbOV9tA",
+    "https://play-lh.googleusercontent.com/mUuIop0781ro6WUXLG177OzBV71Ia5WyCpO2_2diwvrbOutBckr5-yKoaN-HEqyR2N8",
+    "https://play-lh.googleusercontent.com/WzWbq8bO3lcmKvC0eXnUPwElLWNY81bHlqGAZuKBlxnXBkcvQAsHzG5jBh5aTFBXjiQ",
+    "https://play-lh.googleusercontent.com/vtLZ4xBgxdL2yIFFwe_akfsE5zwYH7GLOxTE2kAGPsRh_rpY4a12Xz9NwbQG-hPkYCE"
+  ],
+  "app_descript": "<h3>Castbox: Your Ultimate Podcast Player</h3>\n<p><strong>Brief:</strong>\nCrowned with numerous accolades by Google Play, including \"Best App,\" \"Most Entertaining App,\" and \"Best Music + Audio App,\" Castbox stands out as a paragon of podcast players. Designed with both ease of use and a vast content library, Castbox offers a seamless interface that caters to podcast enthusiasts. Dive into an ocean of over 95 million audio content pieces, ranging from podcasts and audiobooks to FM radio, accessible for free in multiple countries and perfect for various listening scenarios.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🎧 Vast Library: Access a colossal selection of over 95 million podcasts, audiobooks, and more. </li>\n<li>🌐 Global Reach: Enjoy content in 27 different countries on your android devices.</li>\n<li>🔄 Integration: Import your podcasts with ease from services like Google Podcasts, Overcast, Spotify, and more.</li>\n<li>📲 User-Friendly: Offering an ultra-clean layout and easy-to-navigate interface.</li>\n<li>✔️ Award-Winning: Recognized by Google Play and TabbyAwards for its outstanding performance. </li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👑 Multiple Awards: Confidence in an app celebrated for its excellence and entertaining nature.</li>\n<li>🚀 Wide-ranging Topics: Tailored content from news and politics to music, sports, and technology.</li>\n<li>🌙 Night-Time Companion: Special meditations and stories to ensure a restful sleep.</li>\n<li>🔄 Cross-Platform Importing: Hassle-free migration from other podcast platforms.</li>\n<li>🚗 Drive Compatible: Compatible with Waze for listening during commutes.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 Region-Specific Content: Certain content may be unavailable in some regions.</li>\n<li>🌐 Internet Dependency: Requires a stable internet connection for streaming and downloading.</li>\n<li>🔄 OPML Import Learning Curve: Some users might find it challenging to import their podcast lists using OPML initially.</li>\n<li>🗂️ Overwhelming Choice: The vast library might be overwhelming for new users to navigate.</li>\n<li>⏳ Load Times: Depending on the connection, some users may experience slow load times for content.</li>\n</ul>\n<p><strong>Price:</strong></p>\n<ul>\n<li>💵 Cost-Efficient: Castbox is free to download and use, with the inclusion of in-app purchases for additional features.</li>\n</ul>\n<p>Download Castbox today and embark on an auditory adventure with ease and variety at your fingertips.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-app-foapp/15418.html",
+      "icon": "assets/img/apk/icon/com.app.foapp.png",
+      "name": "The Obituary App",
+      "categoryLink": "/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-globalnews-android-novanews/5116.html",
+      "icon": "assets/img/apk/icon/com.globalnews.android.novanews.png",
+      "name": "Global News - Breaking & Local",
+      "categoryLink": "/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/Hindi-News-by-Dainik-Bhaskar/4635.html",
+      "icon": "assets/img/apk/icon/com.ak.ta.dainikbhaskar.activity.png",
+      "name": "Hindi News by Dainik Bhaskar",
+      "categoryLink": "/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/Way2News-News-updates-Election/4625.html",
+      "icon": "assets/img/apk/icon/sun.way2sms.hyd.com.png",
+      "name": "Way2News News updates Election",
+      "categoryLink": "/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/Hindi-News/4507.html",
+      "icon": "assets/img/apk/icon/in.AajTak.headlines.png",
+      "name": "Hindi News",
+      "categoryLink": "/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/TVA-Nouvelles/4479.html",
+      "icon": "assets/img/apk/icon/com.nurun.lcn.png",
+      "name": "TVA Nouvelles",
+      "categoryLink": "/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/uol/3121.html",
+      "icon": "assets/img/apk/icon/br.uol.noticias.png",
+      "name": "UOL",
+      "categoryLink": "/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/local-news/3120.html",
+      "icon": "assets/img/apk/icon/com.opera.app.news.local.png",
+      "name": "Local News",
+      "categoryLink": "/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.5"
+    }
+  ]
+}

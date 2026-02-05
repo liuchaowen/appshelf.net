@@ -1,0 +1,108 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.dailymotion.dailymotion.png",
+    "title": "Dailymotion",
+    "ratings": "4.3",
+    "downloads": "240M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Dailymotion"
+    },
+    {
+      "name": "category",
+      "value": "Entertainment"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Dailymotion"
+    },
+    {
+      "name": "Version",
+      "value": "1.0.9"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/qGcnvJ1dl1YcVa0WKpX0DRuBX9dicctkcU-u6r5fqSDwM-jw0t8y2PbjefZVtZAzJfo",
+    "https://play-lh.googleusercontent.com/ErCkOQ7rmTHojjH1dPaXErakSASA2mtxPS-oboHWgvKCPqZE32PTKMrzhKSb89F8Bxc",
+    "https://play-lh.googleusercontent.com/RLdMjGWUQKXiLsYZbNbHKo8CaxQzaqUQOooehpxsTXL-hBCoxDwcHa0QiyP7cOCUcyk",
+    "https://play-lh.googleusercontent.com/jww-5bdj1FYMONKt3j4uqPb3RRZLBY1BY7vwCWEcYfHdFNN4wEIbrRDoZTwnUK-q2A"
+  ],
+  "app_descript": "<h1>Dailymotion</h1>\n<p>Discover a world where storytelling meets video content, welcome to Dailymotion. An endless array of channels featuring creators, premium partners, and independent artists, it's the go-to destination for viewing and sharing immersive videos. Whether you're a fan of music, sports, or the latest news, Dailymotion caters to all your entertainment needs with ease.</p>\n<h3>Core Features 🌟</h3>\n<ul>\n<li><strong>Vast Video Library</strong>: Access a diverse collection of videos from various genres and creators. 🎥</li>\n<li><strong>Personalized Recommendations</strong>: Dive into a customized feed based on your viewing preferences and habits. 📊</li>\n<li><strong>High-Quality Streaming</strong>: Enjoy content in HD and even 4K for supported videos. 📺</li>\n<li><strong>Offline Viewing</strong>: Download your favorite videos to watch whenever you are offline. 📥</li>\n<li><strong>Interactive Engagement</strong>: Comment, share, and engage with the content and its community. 💬</li>\n</ul>\n<h3>Pros 👍</h3>\n<ul>\n<li><strong>Range of Content</strong>: From indie to mainstream, there's something for everyone. 🌐</li>\n<li><strong>User-Friendly Interface</strong>: Navigate through the app with an intuitive design. 🕹️</li>\n<li><strong>Regular Updates</strong>: The platform constantly evolves with new features and improvements. ⏫</li>\n<li><strong>Multi-Platform Support</strong>: Access your account and videos across multiple devices. 🔗</li>\n<li><strong>Free to Use</strong>: Enjoy a vast majority of the content on Dailymotion for free. 💸</li>\n</ul>\n<h3>Cons 👎</h3>\n<ul>\n<li><strong>Ad Interruptions</strong>: Free use comes with ad-supported content which can be intrusive. 🚫</li>\n<li><strong>Varied Video Quality</strong>: Depends on the uploader's original video resolution. 📉</li>\n<li><strong>Regional Restrictions</strong>: Some content may be geographically restricted. 🌍</li>\n<li><strong>Data Usage</strong>: Streaming in high quality could lead to significant data consumption. 📶</li>\n<li><strong>Account Requirement</strong>: A Dailymotion account is necessary for full feature access. 🔒</li>\n</ul>\n<h3>Price 💵</h3>\n<ul>\n<li><strong>Free Access</strong>: Explore and watch videos at no cost. 🆓</li>\n<li><strong>Premium Subscription Available</strong>: For an ad-free experience and additional benefits, Dailymotion offers a subscription service. 💰</li>\n</ul>\n<p>Since there's no input indicating that Dailymotion is a game app, a community section won't be included in the summary above.</p>\n<p>Enjoy the vibrant and ever-expanding world of video on Dailymotion, where every pixel tells a story.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-moonphaseapps-astro/54410.html",
+      "icon": "assets/img/apk/icon/com.moonphaseapps.astro.png",
+      "name": "AstroBella Astrology & Healing",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-girlmaker-create-avatar-creator/54356.html",
+      "icon": "assets/img/apk/icon/com.girlmaker.create.avatar.creator.png",
+      "name": "PFP Girl: Avatar Maker",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-photocrop-challengefilter/54321.html",
+      "icon": "assets/img/apk/icon/com.photocrop.challengefilter.png",
+      "name": "Photo Crop Challenge Filter",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-photo-cropfilter-challenge/54315.html",
+      "icon": "assets/img/apk/icon/com.photo.cropfilter.challenge.png",
+      "name": "Photo Crop Challenge Video",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/vyten-colormatrix/54297.html",
+      "icon": "assets/img/apk/icon/vyten.colormatrix.png",
+      "name": "The Personality Color Matrix",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-truelove-tester-love/54289.html",
+      "icon": "assets/img/apk/icon/com.truelove.tester.love.png",
+      "name": "True Love Tester",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-lifeexpectancycalculator/54231.html",
+      "icon": "assets/img/apk/icon/com.lifeexpectancycalculator.png",
+      "name": "Life Expectancy Calculator",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-insect-filters-funny-prank-bug-filter-face-camera/54212.html",
+      "icon": "assets/img/apk/icon/com.insect.filters.funny.prank.bug.filter.face.camera.png",
+      "name": "Bugzz: Insect Prank Filters",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4"
+    }
+  ]
+}

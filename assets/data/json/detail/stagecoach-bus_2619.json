@@ -1,0 +1,111 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.stagecoach.stagecoachbus.png",
+    "title": "Stagecoach Bus",
+    "ratings": "4.1",
+    "downloads": "820M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Stagecoach Bus"
+    },
+    {
+      "name": "category",
+      "value": "Maps & Navigation"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Stagecoach Group plc"
+    },
+    {
+      "name": "Version",
+      "value": "4.18.0.461"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/kunl6l3FZLIudYG3ZGxTf_qgj2uPjhQhewSKNjxlIwQmPeBMqSUy4BanzHoPMI3l9HE",
+    "https://play-lh.googleusercontent.com/2R1V0LmnPGsky03U867uDUOBRACdVdx6w7XjITOOYxFRE93O2D1cS_u_rORNWkq9kKnF",
+    "https://play-lh.googleusercontent.com/oXxPuPtb2ANj4RNWtls6Ne0dI-fuEL5208LoUdOJDDnSCSttvovlt85g9_-ydLrz8ARt",
+    "https://play-lh.googleusercontent.com/x861MQBMOR4OQ_XHr-aLFxR0llb90Jkx-0IMNJn6UWYmvV1S9isG1iV1z9D203uSU5sm",
+    "https://play-lh.googleusercontent.com/7J0bgxdK1cvTfEDNKNGnGKbvg6CbPIKqzj_sX584cNvzk_0kDpA7ESCGUEMnbcamdQ",
+    "https://play-lh.googleusercontent.com/va_mvs1exdvJwPrhSoHTdYT4Fofa8XL-iV20wHWmvNe_PEg9EiF_nFez_2SSpkd6n9Q",
+    "https://play-lh.googleusercontent.com/AO01utT3WchitI4bJsqegoUGTGRAAo4ccSN7FKeWMkXPPd0NLxd03Ll2I2FfpwKmNY4"
+  ],
+  "app_descript": "<h3>Stagecoach Bus App</h3>\n<h4>Brief:</h4>\n<p>The Stagecoach Bus app is a comprehensive mobile solution designed to make public transport more accessible and appealing. With a special fare cap introduced to promote the use of public transportation over cars, the app facilitates journey planning with a range of features that enhance the experience of using Stagecoach's bus services. The app is user-oriented, made even better with the help of customer feedback.</p>\n<h4>Core Features:</h4>\n<ul>\n<li>🗺️ <strong>Interactive Map</strong>: Simplifies navigation with a map displaying services and stops. Just tap for journey information.</li>\n<li>⏱️ <strong>Latest Bus Information</strong>: Find out when your bus will arrive and follow its progress in real time.</li>\n<li>🛑 <strong>Find the Right Stop</strong>: Locate nearby bus services and stops, no matter where you are.</li>\n<li>💾 <strong>Favourites</strong>: Save your go-to journeys, services, and stops for quicker planning.</li>\n<li>🎫 <strong>Mobile Tickets</strong>: Purchase tickets on your phone securely and show them to the driver upon boarding. </li>\n</ul>\n<h4>Pros:</h4>\n<ul>\n<li>👌 <strong>Cost-effective Travel</strong>: Enjoy discounts and fare caps that make bus travel more affordable.</li>\n<li>🔄 <strong>Easy Navigation</strong>: Intuitive menus and features for a user-friendly experience.</li>\n<li>📲 <strong>Instant Ticket Access</strong>: Get and manage your tickets directly from your mobile device.</li>\n<li>📍 <strong>Location-based Services</strong>: Easily see routes and stops nearby to better plan your transit.</li>\n</ul>\n<h4>Cons:</h4>\n<ul>\n<li>👀 <strong>Limited to Stagecoach Services</strong>: Only useful for areas served by Stagecoach buses.</li>\n<li>🤝 <strong>Dependent on Customer Feedback</strong>: Continuous improvements hinge on user recommendations.</li>\n<li>📍 <strong>Geographic Restrictions</strong>: May not be suitable for international travelers or those outside serviced regions.</li>\n<li>📶 <strong>Requires Internet</strong>: For real-time features and ticket purchases, an internet connection is a must.</li>\n</ul>\n<h4>Price:</h4>\n<ul>\n<li>💵 The Stagecoach Bus app is free to download and offers in-app purchases for tickets which vary in price depending on the journey.</li>\n</ul>\n<h4>Community:</h4>\n<p>As the Stagecoach Bus app is not a game, there is no community section included.</p>\n<p>The Stagecoach Bus app is a prime tool for regional public transport users, aiming to ease the process from planning to travel, making every journey smoother and more budget-friendly. Whether you're a daily commuter or an occasional traveler within the serviced areas, the enhancements and updates continuously enrich user experience.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-hundred-qibla-finder/14082.html",
+      "icon": "assets/img/apk/icon/com.hundred.qibla.finder.png",
+      "name": "Qibla Finder Compass 100%",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/kbk-maparea-measure-geo/5067.html",
+      "icon": "assets/img/apk/icon/kbk.maparea.measure.geo.png",
+      "name": "Gps Area Calculator",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "3.9"
+    },
+    {
+      "link": "/details/Offline-Maps-GPS-Speedometer/4633.html",
+      "icon": "assets/img/apk/icon/com.radarapp.trip.speedometer.png",
+      "name": "Offline Maps, GPS, Speedometer",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/Satellite-View-Offline/4620.html",
+      "icon": "assets/img/apk/icon/com.breezeammarathon.viskoproton.grampooffline.png",
+      "name": "Satellite View Offline",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/Rapido/4563.html",
+      "icon": "assets/img/apk/icon/com.rapido.passenger.png",
+      "name": "Rapido",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/CarInfo/4500.html",
+      "icon": "assets/img/apk/icon/com.cuvora.carinfo.png",
+      "name": "CarInfo",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-trailbehind-android-gaiagps-pro/4473.html",
+      "icon": "assets/img/apk/icon/com.trailbehind.android.gaiagps.pro.png",
+      "name": "Gaia GPS: Offroad Hiking Maps",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-gpsnavigation-maps-gpsroutefinder-routemap/4472.html",
+      "icon": "assets/img/apk/icon/com.gpsnavigation.maps.gpsroutefinder.routemap.png",
+      "name": "GPS Navigation: Road Map Route",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/music-messenger.png",
+    "title": "Music Messenger",
+    "ratings": "4.2",
+    "downloads": "270M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Music Messenger"
+    },
+    {
+      "name": "category",
+      "value": "Music & Audio"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Music Messenger , Ltd"
+    },
+    {
+      "name": "Version",
+      "value": "3.2.7"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/7GriDXy3yxXRCOlQI9aYw2mtoaWaAzIREvxBWuYMN8N3AQ-v8fY5gtxLxSVlF9N3lQ",
+    "https://play-lh.googleusercontent.com/Uo_V6HL0Q5mPaLJPqw3FAci6nvaglcuCvufEzgToiiqnTqdhW1ihBNyK6II_9bVsGb22",
+    "https://play-lh.googleusercontent.com/8Fj41loVfdykFToj9-vYnt6ZjwusQrR6lxy2nc8Jlb5-K6p5mbiNp1AXrgK3tV4fBv1E",
+    "https://play-lh.googleusercontent.com/pfT21SvBm-JnJFV-9bbpPucHFzT2bwXQFkfW1wk6sFLu66xLeAaNXaqEyL20echMhyQ",
+    "https://play-lh.googleusercontent.com/PtBpLTBCahqxwVK-cRJSooz_qNbZhxTaCv_4RTvKJH0iz_1QOb7rFK4KeYs-U75TYPoo"
+  ],
+  "app_descript": "<p><strong>Music Messenger</strong></p>\n<p><strong>Brief:</strong>\nMusic Messenger offers an invigorating blend of music streaming and social interactivity, exclusively designed for Android users. By leveraging YouTube's extensive catalog, the app transforms music discovery and sharing into a personalized and instantaneous experience. It's an excellent platform for those who view music as a means of communication and connection.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🎨 <strong>User-Friendly Interface:</strong> Navigate through the app with absolute ease due to its clean and intuitive design. 📱</li>\n<li>🎶 <strong>Personalized Playlists:</strong> Curate your playlists to perfectly capture your musical tastes and listening preferences. 🎵</li>\n<li>🎞️ <strong>Instant Playback with YouTube:</strong> Enjoy immediate song playing accompanied by YouTube videos in a non-intrusive minimalistic player. ⏯️</li>\n<li>💌 <strong>Music Sharing Functionality:</strong> Effortlessly send and share music with your friends and family, fostering a shared listening experience. 📤</li>\n<li>🔍 <strong>Seamless Music Discovery:</strong> Explore music or conduct detailed searches for any song on YouTube directly within the app. 🔎</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 <strong>Instant Messaging with Music:</strong> Innovatively integrates music sharing within conversation, enhancing communication. 💬</li>\n<li>👍 <strong>Direct Playability:</strong> Recipients can play the songs received right from the app, ensuring a smooth user experience. 🎧</li>\n<li>👍 <strong>Personalization Options:</strong> Attach a cover photo or text to the music messages you send, adding a personal touch to your shared tunes. ✏️</li>\n<li>👍 <strong>YouTube Integration:</strong> Offers a vast selection of music by utilizing YouTube’s comprehensive library. 🌐</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 <strong>Platform Limitation:</strong> The app is currently only available for use on Android devices. 📵</li>\n<li>👎 <strong>Internet Dependency:</strong> Requires a stable internet connection for streaming and sharing music, which may be a limitation for some users. 🔄</li>\n<li>👎 <strong>Ad-Supported:</strong> The presence of ads can interrupt the user experience unless a premium version is offered. 🚫</li>\n<li>👎 <strong>Music Licensing:</strong> Some YouTube content may be subject to regional restrictions or copyright issues, affecting availability. ⚠️</li>\n</ul>\n<p><strong>Price:</strong>\n💵 Music Messenger is a free app which may include ads or offer optional in-app purchases for additional features.</p>\n<p>Based on the original description, Music Messenger is the go-to app for Android users looking to integrate their love for music with the convenience of instant messaging. Though with some limitations, its unique features promise a delightful experience for music enthusiasts who treasure shared listening moments.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-simmusic-oldjpop/49056.html",
+      "icon": "assets/img/apk/icon/com.simmusic.oldjpop.png",
+      "name": "昭和の名曲 - 70年代/80年代名曲, 昭和の歌謡曲",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-bigsoft-voicereverse-audiochanger/39378.html",
+      "icon": "assets/img/apk/icon/com.bigsoft.voicereverse.audiochanger.png",
+      "name": "Funny Voice Reverse",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "3.1"
+    },
+    {
+      "link": "/details/com-realdrum-drumset-drumapp-beatmaker-music-instruments-drumkit/16783.html",
+      "icon": "assets/img/apk/icon/com.realdrum.drumset.drumapp.beatmaker.music.instruments.drumkit.png",
+      "name": "Learn Drum - Pad & Beat Maker",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-musicplayer-mp3-audio-mymusic-player/15795.html",
+      "icon": "assets/img/apk/icon/com.musicplayer.mp3.audio.mymusic.player.png",
+      "name": "Music Player & MP3 - MMusic",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/com-ai-sound-donna/15626.html",
+      "icon": "assets/img/apk/icon/com.ai.sound.donna.png",
+      "name": "Donna AI Song & Music Maker",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-vanniktech-rssreader/15328.html",
+      "icon": "assets/img/apk/icon/com.vanniktech.rssreader.png",
+      "name": "RSS Reader Offline | Podcast",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-voicechanger-supereffect-soundeffect/14158.html",
+      "icon": "assets/img/apk/icon/com.voicechanger.supereffect.soundeffect.png",
+      "name": "Voice Changer: Audio Effect",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/org-cru-womans-herbible/14124.html",
+      "icon": "assets/img/apk/icon/org.cru.womans.herbible.png",
+      "name": "her.BIBLE Women's Audio Bible",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    }
+  ]
+}

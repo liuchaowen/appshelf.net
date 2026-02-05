@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.pobotalab.filemagic.png",
+    "title": "File Magic",
+    "ratings": "4.6",
+    "downloads": "910M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "File Magic"
+    },
+    {
+      "name": "category",
+      "value": "Productivity"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "PT Harapan Karunia Makmur ( HKM )"
+    },
+    {
+      "name": "Version",
+      "value": "1.5.11"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> File Magic</p>\n<p><strong>Brief:</strong>\nFile Magic is a comprehensive mobile utility application designed to revitalize your phone's performance by decluttering storage, enhancing security, and managing apps effectively. Packed with a variety of features, it serves as an all-in-one cleaning and optimization tool for keeping your device clean, secure, and organized.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🧹 <strong>Junk Cleaner:</strong> Effortlessly locate and purge all sort of junk files to reclaim your phone's storage space. 🗑️</li>\n<li>🔍 <strong>Useless Files Cleaner:</strong> Advanced scanning engine detects remnants like watched videos, duplicate files, and redundant documents for cleanup. 📁</li>\n<li>🛡️ <strong>Virus Cleaner:</strong> Robust antivirus capabilities to scrutinize and eliminate viruses, spyware, and malware to safeguard your phone. 🦠</li>\n<li>📲 <strong>Manage Apps:</strong> Streamline your device by uninstalling non-essential applications, deleting old apk files, and clearing app cache. 💼</li>\n<li>💬 <strong>WhatsApp &amp; Facebook Cleaner:</strong> Specialized cleaning for social media apps to remove unneeded images, audio, video, and documents. 🚮</li>\n<li>🗂️ <strong>File Explorer:</strong> Efficiently categorize and manage files, examine details, and discard what's unnecessary. 📊</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👌 Simplifies phone maintenance with user-friendly interface and tools.</li>\n<li>🚀 Boosts device performance by removing junk and optimizing storage.</li>\n<li>🖥️ Customizable file management and exploratory features for better organization.</li>\n<li>🚦 Enhances device security with real-time protection against viruses and threats.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 Some users may find frequent cleanups interruptive.</li>\n<li>🔄 Potential for accidental deletion of important files if not careful.</li>\n<li>⚙️ Advanced features might demand a learning curve for new users.</li>\n<li>🔓 Might require access permissions that could raise privacy concerns.</li>\n</ul>\n<p><strong>Price:</strong></p>\n<ul>\n<li>💵 File Magic is available for free download, with the presence of in-app purchases and premium features which may vary in pricing.</li>\n</ul>\n<p><strong>Community:</strong></p>\n<ul>\n<li>🕸️ For additional insights and support, users can explore:\n<ul>\n<li>Official Site: <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">File Magic</a></li>\n<li>YouTube Channel: <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">File Magic Tutorials</a></li>\n<li>Popular YouTubers: <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Tech Master Explains File Magic</a></li>\n<li>Most Followed Instagrammer: <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Daily File Magic Tips</a></li>\n<li>Twitter: <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">@FileMagicApp</a></li>\n<li>Discord Community: <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">File Magic Users</a></li>\n<li>Facebook Group: <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">File Magic Enthusiasts</a></li>\n<li>TikTok: <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">FileMagicTricks</a></li>\n<li>Reddit: <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">r/FileMagic</a></li>\n<li>Fandom Wiki Site: <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">File Magic Wiki</a></li>\n</ul></li>\n</ul>\n<p><em>File Magic strikes an excellent balance between giving you control over your device's cleanliness and security while remaining simple to use, making it a must-have app for those looking to kick device clutter to the curb.</em></p>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-takeofflabs-fontmaker/54188.html",
+      "icon": "assets/img/apk/icon/com.takeofflabs.fontmaker.png",
+      "name": "Fontmaker - Font Keyboard App",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.2"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-game-console-emulator/39577.html",
+      "icon": "assets/img/apk/icon/com.game.console.emulator.png",
+      "name": "Gamu: Retro Game Hub",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.3"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/app-itwingtech-power_of_mind-predicator/39340.html",
+      "icon": "assets/img/apk/icon/app.itwingtech.power_of_mind.predicator.png",
+      "name": "Mind Test: Test My Brain",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-pdfreader-pdfeditor-scandocu-pro-app-amb/16953.html",
+      "icon": "assets/img/apk/icon/com.pdfreader.pdfeditor.scandocu.pro.app.amb.png",
+      "name": "PDFPro: Scanner & Editor",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "3.8"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/ai-perplexity-app-android/16744.html",
+      "icon": "assets/img/apk/icon/ai.perplexity.app.android.png",
+      "name": "Perplexity - Ask Anything",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-safeshellvpn/16639.html",
+      "icon": "assets/img/apk/icon/com.safeshellvpn.png",
+      "name": "SafeShell VPN: Fast & Secure",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-roblox-skin-cloth-freeskins/16603.html",
+      "icon": "assets/img/apk/icon/com.roblox.skin.cloth.freeskins.png",
+      "name": "Clothes Skin For Roblox",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-underthing-focus-friend/16526.html",
+      "icon": "assets/img/apk/icon/com.underthing.focus.friend.png",
+      "name": "Focus Friend by Hank Green",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.7"
+    }
+  ]
+}

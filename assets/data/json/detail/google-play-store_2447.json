@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/google-play-store.png",
+    "title": "Google Play Store",
+    "ratings": "4.3",
+    "downloads": "390M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Google Play Store"
+    },
+    {
+      "name": "category",
+      "value": "Tools"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Google LLC"
+    },
+    {
+      "name": "Version",
+      "value": "26.9.22-21_[0]_[PR]_394273994"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h3>Brief</h3>\n<p>The Google Play Store, formerly known as Android Market, is Google's premier digital distribution platform, providing a comprehensive service for users to download and purchase apps, games, and digital media such as music, books, movies, and TV programs. Designed for Android operating system certified devices, it offers a substantial digital library and is a go-to destination for digital content consumption and management.</p>\n<h3>Core Features 📌</h3>\n<ul>\n<li>Vast Digital Library: Access over one million apps and games, including a sprawling collection of music, videos, and books.</li>\n<li>Cloud-Based Service: All content is safely stored online, ensuring that you never lose access to your purchased items.</li>\n<li>Cross-Device Accessibility: Seamlessly use your Google Play account across the web, smartphones, and tablets.</li>\n<li>Material Theme Redesign: Enjoy a refreshed and modern interface with the latest design update.</li>\n</ul>\n<h3>Pros 👍</h3>\n<ul>\n<li>Official App Certification: Ensures a level of quality and security for apps downloaded from the store.</li>\n<li>Regular Updates: Keeps the service and content up-to-date with the newest features and releases.</li>\n<li>Comprehensive Content Offering: One-stop-shop for a wide range of digital media alongside applications.</li>\n<li>Developer Support: Under new European rules, developers receive fair treatment and clearer communication regarding app removals.</li>\n</ul>\n<h3>Cons 👎</h3>\n<ul>\n<li>App Removals: Occasional sudden app removals from the store can cause inconvenience to both users and developers, despite improvements.</li>\n<li>Requires Google Mobile Services (GMS): Users without pre-installed Google Play Store need to download GMS for full functionality.</li>\n<li>Market Dominance Concerns: Google’s strong position in the market sometimes leads to scrutiny and calls for more competitive fairness.</li>\n</ul>\n<h3>Price 💵</h3>\n<p>The Google Play Store itself is a free platform. It features a mix of free and paid content, with in-app purchases varying in price across different applications.</p>\n<p><a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Download the Google Play Store APK</a></p>\n<h3>How to install Google Play Store</h3>\n<p>If your device does not come with Google Play Store pre-installed, you should download Google Mobile Services (GMS) to avail of all Google Play Store services. We provide the GMS APK download link for your convenience.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-antique-snap-identifier-appraisal/54309.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.antique.snap.identifier.appraisal.png",
+      "name": "Antique Identifier - Appraisal",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-age-calculator-life-countdown/54243.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.age.calculator.life.countdown.png",
+      "name": "Age Calculator・Life Expectancy",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.4"
+    },
+    {
+      "link": "/details/com-xv-agecalc/54237.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.xv.agecalc.png",
+      "name": "AgeCalc: Date Life Calculator",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-palm-ai-decode-destiny-soul-futurelines-handline/54206.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.palm.ai.decode.destiny.soul.futurelines.handline.png",
+      "name": "Palm AI: Decode Destiny",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/rbx-robuxcalc-getrbx-freecounter/53839.html",
+      "icon": "https://img.buzzsight.co/apk/icon/rbx.robuxcalc.getrbx.freecounter.png",
+      "name": "RBX Calc - Get Robuxcounter",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-internetoptimizer-speedtest-wifispeedtest-netspeed-wifipassword-wifispeed/49027.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.internetoptimizer.speedtest.wifispeedtest.netspeed.wifipassword.wifispeed.png",
+      "name": "Internet Optimizer",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.9"
+    },
+    {
+      "link": "/details/com-blazingappstudio-speed_test_pro/49021.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.blazingappstudio.speed_test_pro.png",
+      "name": "Speed Test - Wifi Optimizer",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-secret-camera-hidden-detector/39728.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.secret.camera.hidden.detector.png",
+      "name": "Hidden Camera & IR Detector",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    }
+  ]
+}

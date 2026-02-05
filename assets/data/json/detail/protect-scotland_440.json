@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/gov.scot.covidtracker.png",
+    "title": "Protect Scotland",
+    "ratings": "4.5",
+    "downloads": "30M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Protect Scotland"
+    },
+    {
+      "name": "category",
+      "value": "Medical"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "NHS Education for Scotland"
+    },
+    {
+      "name": "Version",
+      "value": "1.0.0.30"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h3><strong>Protect Scotland</strong></h3>\n<p><strong>Brief:</strong>\nProtect Scotland is a health and safety app designed to curtail the spread of COVID-19 by utilizing Bluetooth technology. It offers a unique approach to contact tracing, seamlessly connecting and protecting Scottish citizens while preserving their anonymity.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>📡 <strong>Bluetooth Contact Alerts:</strong> Receive notifications if you have been in close proximity to individuals who later test positive for COVID-19. 📌</li>\n<li>📱 <strong>Result Upload Function:</strong> Positive test holders can anonymously alert their close contacts using a unique code to activate this app feature. 📌</li>\n<li>🗃 <strong>Anonymous Database Checks:</strong> Regularly verify if you've encountered someone who tested positive through a secure, nameless database. 📌</li>\n<li>🚨 <strong>Isolation Recommendations:</strong> Get advised to self-isolate for a period if the app identifies you as a close contact of a confirmed case. 📌</li>\n<li>🌐 <strong>Test and Protect Integration:</strong> Works in tandem with Scotland’s Test and Protect system to enhance manual contact tracing procedures. 📌</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👤 <strong>Privacy-Centric:</strong> No personal information is shared between users, ensuring total privacy and confidentiality. 👍</li>\n<li>📊 <strong>Data-Backed Effectiveness:</strong> Research by Oxford University suggests that contact tracing apps can significantly reduce infection and death rates. 👍</li>\n<li>🛡 <strong>Community Health Support:</strong> Aids in the nationwide effort to manage and reduce the spread of infectious diseases. 👍</li>\n<li>🤝 <strong>Voluntary Participation:</strong> Users opt-in voluntarily, embodying a community-driven approach to health management. 👍</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>📡 <strong>Bluetooth Dependency:</strong> Efficacy reliant on widespread Bluetooth usage, which can be limited by various factors, such as device compatibility. 👎</li>\n<li>🗺 <strong>Location-Specific:</strong> Exclusively designed for use within Scotland, limiting its functionality for international travelers. 👎</li>\n<li>📶 <strong>Tech Savviness Required:</strong> Users need a fundamental understanding of app functionality for effective use. 👎</li>\n<li>⚠️ <strong>User Compliance Necessary:</strong> Accurate contact tracing contingent on positive cases consenting to upload their results. 👎</li>\n</ul>\n<p><strong>Price:</strong>\n💵 The Protect Scotland app is free to download. There are no in-app purchases, making it accessible for all residents in Scotland.</p>\n<p><em>This app doesn’t fit into the game category; hence the community section isn't applicable.</em></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-stress-test/48991.html",
+      "icon": "assets/img/apk/icon/com.stress.test.png",
+      "name": "Stress Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-procrastination-test/39516.html",
+      "icon": "assets/img/apk/icon/com.procrastination.test.png",
+      "name": "Procrastination Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-bingeeating-test/39303.html",
+      "icon": "assets/img/apk/icon/com.bingeeating.test.png",
+      "name": "Binge Eating Disorder Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-ocd-test/34780.html",
+      "icon": "assets/img/apk/icon/com.ocd.test.png",
+      "name": "OCD Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-healthians-main-healthians/34760.html",
+      "icon": "assets/img/apk/icon/com.healthians.main.healthians.png",
+      "name": "Healthians -Full Body Checkup",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-lbrc-PeriodCalendar/34759.html",
+      "icon": "assets/img/apk/icon/com.lbrc.PeriodCalendar.png",
+      "name": "Period Tracker and Calendar",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/es-jshcd-edadosea/34693.html",
+      "icon": "assets/img/apk/icon/es.jshcd.edadosea.png",
+      "name": "Bone age",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-devdis/16977.html",
+      "icon": "assets/img/apk/icon/com.devdis.png",
+      "name": "Developmental Disabilities",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.5"
+    }
+  ]
+}

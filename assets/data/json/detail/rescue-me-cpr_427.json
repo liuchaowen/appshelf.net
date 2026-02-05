@@ -1,0 +1,109 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.bmapp.cpr_app.png",
+    "title": "Rescue Me CPR",
+    "ratings": "4.4",
+    "downloads": "530M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Rescue Me CPR"
+    },
+    {
+      "name": "category",
+      "value": "Medical"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "DocBMApps"
+    },
+    {
+      "name": "Version",
+      "value": "1.4"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/1H5XRu2W20kTypsfG0s_ZCJsV3Y2pwB_NgwLYFJdJZkqS0wSEUY4TZsIdsarD_qQgvA",
+    "https://play-lh.googleusercontent.com/wjGF15YxZv0MJQjfLTomtWG1N1HLQRgYo8PmGCH3xrxSeOV-JjB0PU9SkxQQEqL8zDk",
+    "https://play-lh.googleusercontent.com/JjyrPxiYVx3yRkceeUExTEnekFz7crszGuvmZQIj1lLPkJEyRKXxPSFB0rgfa5Q8e6-R",
+    "https://play-lh.googleusercontent.com/vI1euuxfx4bgeKyRUxOMP10378BDH8pDgeeiPLKT_OZYs05FPtkTAsGfYAlji70VUI6i",
+    "https://play-lh.googleusercontent.com/9T94-aGKh0WV0OOA0ONm8LjsKTcv4uREIStaGXveQPYq7j8Cu_GSRUJ1OJgw6H5ff8ru"
+  ],
+  "app_descript": "<h3><strong>Rescue Me CPR</strong></h3>\n<h4><strong>Brief:</strong></h4>\n<p>Rescue Me CPR is a groundbreaking app designed with the objective of educating untrained individuals in the life-saving techniques of CPR (Cardiopulmonary Resuscitation). The app is undergoing thorough validation at the UCSD School of Medicine through a rigorous IRB-approved study. Aimed initially for educational and demonstrational purposes, it features step-by-step guides not just for CPR, but also for administering the Heimlich maneuver and Narcan for reversing opioid overdoses. It's an essential learning tool that, however, should not replace professional training or be used as a sole reference in real emergencies until study completion and full certification.</p>\n<h4><strong>Core Features:</strong></h4>\n<ul>\n<li>📖 <em>Interactive CPR Guidance:</em> Offers structured, easy-to-follow instructions for performing CPR. 🚑</li>\n<li>🤚 <em>Heimlich Maneuver Tutorial:</em> Teaches the technique to alleviate choking. 🍖</li>\n<li>💉 <em>Narcan Administration Instructions:</em> Explains how to administer Narcan to counteract opioid overdoses. 🔁</li>\n<li>🎓 <em>Educational Tool:</em> Designed as a resource for untrained individuals looking to learn essential life-saving procedures. 🌟</li>\n<li>🧑‍🔬 <em>Under Research:</em> Currently part of a study at UCSD School of Medicine, ensuring the content is rigorously tested for effectiveness. 📊</li>\n</ul>\n<h4><strong>Pros:</strong></h4>\n<ul>\n<li>👍 <em>Empowers Individuals:</em> Equips users with knowledge that could potentially save lives. 🦸‍♂️</li>\n<li>👍 <em>Research-Based:</em> Developed with academic backing, promising a high standard of information. 🏫</li>\n<li>👍 <em>Comprehensive Guide:</em> Consolidates critical emergency techniques in one app. 📘</li>\n<li>👍 <em>User-Friendly:</em> Designed to be accessible and understandable by all. 🤗</li>\n</ul>\n<h4><strong>Cons:</strong></h4>\n<ul>\n<li>👎 <em>Not for Actual Emergencies:</em> Explicitly stated to be for educational use and not intended for real-life emergency use currently. ⚠️</li>\n<li>👎 <em>Limited Scope:</em> Mainly focuses on three emergency procedures, may not cover other important medical emergencies. 🚑</li>\n<li>👎 <em>Pending Validation:</em> Full effectiveness not confirmed until the study is completed. 📝</li>\n<li>👎 <em>Requires Further Training:</em> Cannot substitute professional emergency training or certification. 🏥</li>\n</ul>\n<h4><strong>Price:</strong></h4>\n<p>💵 The app is currently available for users; however, the description does not specify if it is free or paid. In-app purchase details are also not provided and should be verified in the app store listing or upon download. 💳</p>\n<p><em>(Note: the 'Community' section is not included since this is a non-game app.)</em></p>\n<hr/>\n<p>Rescue Me CPR is a valuable learning resource for those who want to become more informed about lifesaving techniques. Its recognized value within academic research ensures users receive reliable, informed guidance. Users should, however, be aware of its limitations and seek professional training for real-life applications, respecting the app's current focus on education and demonstration over active emergency response.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-stress-test/48991.html",
+      "icon": "assets/img/apk/icon/com.stress.test.png",
+      "name": "Stress Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-procrastination-test/39516.html",
+      "icon": "assets/img/apk/icon/com.procrastination.test.png",
+      "name": "Procrastination Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-bingeeating-test/39303.html",
+      "icon": "assets/img/apk/icon/com.bingeeating.test.png",
+      "name": "Binge Eating Disorder Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-ocd-test/34780.html",
+      "icon": "assets/img/apk/icon/com.ocd.test.png",
+      "name": "OCD Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-healthians-main-healthians/34760.html",
+      "icon": "assets/img/apk/icon/com.healthians.main.healthians.png",
+      "name": "Healthians -Full Body Checkup",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-lbrc-PeriodCalendar/34759.html",
+      "icon": "assets/img/apk/icon/com.lbrc.PeriodCalendar.png",
+      "name": "Period Tracker and Calendar",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/es-jshcd-edadosea/34693.html",
+      "icon": "assets/img/apk/icon/es.jshcd.edadosea.png",
+      "name": "Bone age",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-devdis/16977.html",
+      "icon": "assets/img/apk/icon/com.devdis.png",
+      "name": "Developmental Disabilities",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.5"
+    }
+  ]
+}

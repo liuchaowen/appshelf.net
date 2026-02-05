@@ -1,0 +1,108 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/com.iadtapp.toothsos.png",
+    "title": "ToothSOS",
+    "ratings": "4",
+    "downloads": "5M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "ToothSOS"
+    },
+    {
+      "name": "category",
+      "value": "Medical"
+    },
+    {
+      "name": "Price",
+      "value": "0"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "IADT"
+    },
+    {
+      "name": "Version",
+      "value": "4.4"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/psIyaMhNfRmSeLBYpUIqWmUyu1_vmO5018mnC5ym9oLeQAh2cwrKLsHRnVyIsGGsGTE",
+    "https://play-lh.googleusercontent.com/SrRG3EnXSakjJlRQpLfBnjCaJt7GI0G0ZL32IGhgGhT4GEgXO1IFCD7kZzyiKSakN-g",
+    "https://play-lh.googleusercontent.com/-Atmt-RrPxTU3hBruO0mxMsZwh8X2FqeSyS_6rBOn4rzDmOfeCly7_95JbYOdYwCDPUZ",
+    "https://play-lh.googleusercontent.com/YwQJ605ujzxZipY0xRUT5MhcDOAVqgurlC-GfUPSfkw-Tl_KER49wPcUix-o4cazIA"
+  ],
+  "app_descript": "<h1>ToothSOS - Your Essential Guide to Dental Trauma</h1>\n<p>ToothSOS is the official app by the International Association of Dental Traumatology (IADT), designed to provide crucial information for both patients and professionals in the event of a traumatic tooth injury. This innovative app offers clear and actionable emergency steps for patients while equipping dental professionals with access to established guidelines, ensuring the best chances for treatment success. It's a must-have for anyone concerned with dental health—download it to safeguard your smile and those of your loved ones!</p>\n<h2>📌 Core Features:</h2>\n<ul>\n<li><strong>Emergency Steps for Patients</strong>: Comprehensive, easy-to-follow instructions for immediate care during dental injuries. 🦷</li>\n<li><strong>Guidelines for Professionals</strong>: Quick access to evidence-based Dental Trauma Guidelines for effective patient care. 📚</li>\n<li><strong>Educational Resources</strong>: Links to additional IADT resources and continuing education for dental professionals. 🎓</li>\n<li><strong>User-Friendly Interface</strong>: Designed for quick navigation, ensuring you find the necessary information without hassle. 📱</li>\n<li><strong>Global Reach</strong>: A mission to share knowledge and save smiles worldwide by distributing the app widely. 🌍</li>\n</ul>\n<h2>👍 Pros:</h2>\n<ul>\n<li><strong>Life-Saving Information</strong>: Provides immediate guidance that could save teeth in emergencies. 👍</li>\n<li><strong>Credible Resource</strong>: Backed by the IADT, ensuring the information is reliable and up-to-date. ✅</li>\n<li><strong>Accessible for Everyone</strong>: Simplified instructions that can be understood by anyone, regardless of medical knowledge. 👫</li>\n<li><strong>Continuing Support</strong>: Regular updates to guidelines and features based on the latest research in dental trauma care. 🔄</li>\n<li><strong>Encourages Community Awareness</strong>: Promotes sharing the app to educate more people about dental trauma management. 📢</li>\n</ul>\n<h2>👎 Cons:</h2>\n<ul>\n<li><strong>Limited Scope</strong>: Focuses solely on dental traumatic injuries, which may not encompass other oral health issues. ⚠️</li>\n<li><strong>Dependence on Internet</strong>: Some features may require internet access for full functionality, potentially limiting usability in remote areas. 🌐</li>\n<li><strong>Requires Some Prior Knowledge</strong>: While designed for general users, complete understanding may benefit from basic dental knowledge. 🤔</li>\n<li><strong>Professional Overload</strong>: May feel extensive for casual users; designed primarily with professionals in mind. 📊</li>\n<li><strong>No Interactive Features</strong>: Lacks advanced features like telehealth options or chat support for immediate queries. 🛠️</li>\n</ul>\n<h2>💵 Price:</h2>\n<p>ToothSOS is available for free, with no in-app purchases required. </p>",
+  "related_apps": [
+    {
+      "link": "/details/com-stress-test/48991.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.stress.test.png",
+      "name": "Stress Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-procrastination-test/39516.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.procrastination.test.png",
+      "name": "Procrastination Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-bingeeating-test/39303.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.bingeeating.test.png",
+      "name": "Binge Eating Disorder Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-ocd-test/34780.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.ocd.test.png",
+      "name": "OCD Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-healthians-main-healthians/34760.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.healthians.main.healthians.png",
+      "name": "Healthians -Full Body Checkup",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-lbrc-PeriodCalendar/34759.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.lbrc.PeriodCalendar.png",
+      "name": "Period Tracker and Calendar",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/es-jshcd-edadosea/34693.html",
+      "icon": "https://img.buzzsight.co/apk/icon/es.jshcd.edadosea.png",
+      "name": "Bone age",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-devdis/16977.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.devdis.png",
+      "name": "Developmental Disabilities",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.5"
+    }
+  ]
+}

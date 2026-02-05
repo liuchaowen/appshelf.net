@@ -1,0 +1,110 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.olacabs.customer.png",
+    "title": "Ola",
+    "ratings": "4.9",
+    "downloads": "970M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Ola"
+    },
+    {
+      "name": "category",
+      "value": "Maps & Navigation"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "ola"
+    },
+    {
+      "name": "Version",
+      "value": "6.3.7"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/Q7l_NgNIfLst9eNbzduJK5Un3dIe70jl6HhX0VNTQrmTkGEG7-eLwXDePtPHrn4Tmw",
+    "https://play-lh.googleusercontent.com/Khz0CiuvHvFW-0E7GbXGseBsk5Osm8MrT3ERbrbzlUZRP4z5GJKSauYDMGlMQmteeWk",
+    "https://play-lh.googleusercontent.com/XDiAN9nR06N7N48pBAx4n7sgXjywpByERjRIQw2S0bHuUH7MdU6yMkWSeaw5J-5mhQ",
+    "https://play-lh.googleusercontent.com/r7kfWKTj1ZVwaogECtqB3mWCfp7ulfKpkmxAXp5ULkHCYVLlqMK7T-TIIiymNYNl8Ks",
+    "https://play-lh.googleusercontent.com/Qf4nzBrMR7CjTx5pzU4cmEio9_TKq38IkApRopkE2V3HeDarTa4To2U4l2uv-cgmEDs",
+    "https://play-lh.googleusercontent.com/IGifjVWmNdFO-xn2StQSFrhVhU5DywaDOBe3GWEbXUjaOr_Vp4hMrIaCRdblfYrveSw"
+  ],
+  "app_descript": "<h3>Brief:</h3>\n<p>Ola is a comprehensive ride-hailing app that brings a variety of travel options to your fingertips. Whether it's a quick auto-rickshaw ride or a premium car for long-distance travel, Ola allows you to book your preferred mode of transportation easily and efficiently. The intuitive app experience, combined with multiple payment options and advanced safety features, ensures a convenient and secure commute every time.</p>\n<h3>Core Features:</h3>\n<ul>\n<li><strong>Diverse Vehicle Choices</strong> 🚗: Access a range of vehicles including Auto, Micro, Mini, Prime, Bike, Outstation, and Rentals to suit every need and budget.</li>\n<li><strong>Easy Ride Booking</strong> 📱: Seamlessly set your pickup location, select from the available ride options nearby, and secure your booking within moments.</li>\n<li><strong>Real-Time Tracking</strong> 🛰️: Monitor your ride in real-time with onboard GPS to know exactly when your ride will arrive.</li>\n<li><strong>Scheduled Trips</strong> ⏰: Handle future travel easily by scheduling your rides in advance with the 'Ride Later' feature.</li>\n<li><strong>5 Layer Safety</strong> 🛡️: Benefit from multiple safety measures like protective screens, frequent cleaning, and secure OTP for each ride.</li>\n</ul>\n<h3>Pros:</h3>\n<ul>\n<li>👍 Versatile Payment Options: Choose from cash, Ola Money, PhonePe, UPI, cards, and more for seamless transactions.</li>\n<li>👍 Ride Now or Later: Instantly get a ride or plan ahead, offering you flexibility and convenience.</li>\n<li>👍 High Safety Standards: The 5 layers of safety protocol provide peace of mind during travel.</li>\n<li>👍 Transparency: With trip details confirmed instantly and a secure OTP for every ride, users can expect a transparent process.</li>\n<li>👍 Affordable Travel: Ola caters to budget-friendly travel needs with options like Auto and Bike rides. </li>\n</ul>\n<h3>Cons:</h3>\n<ul>\n<li>👎 Service Availability: Availability might vary depending on the location and time, which can affect immediate ride bookings.</li>\n<li>👎 Surge Pricing: Users may experience higher fares during peak hours due to dynamic pricing.</li>\n<li>👎 Vehicle Conditions: The condition of vehicles can be inconsistent, impacting the comfort of the ride.</li>\n<li>👎 Network Dependence: Requires a stable internet connection for real-time tracking and ride bookings.</li>\n<li>👎 Support Response: Customer service experience can vary, which might be a concern for some users.</li>\n</ul>\n<h3>Price:</h3>\n<p>💵 Ola operates on a pay-per-ride model, with the pricing dependent on the type of vehicle, distance, and potentially time of day due to surge pricing. While the app itself is free to download and use, users should be aware of potential in-app transaction costs for ride payments.</p>\n<p>Community:</p>\n<ul>\n<li>🕸️ <strong>Official Website</strong>: <a href=\"https://help.olacabs.com/support/home\" rel=\"noopener noreferrer\" target=\"_blank\">Ola Support</a></li>\n<li>🕸️ <strong>Twitter</strong>: <a href=\"https://twitter.com/Olacabs\" rel=\"noopener noreferrer\" target=\"_blank\">Olacabs on Twitter</a></li>\n<li>🕸️ <strong>Facebook</strong>: <a href=\"https://facebook.com/Olacabs\" rel=\"noopener noreferrer\" target=\"_blank\">Ola on Facebook</a></li>\n<li>🕸️ <strong>Instagram</strong>: <a href=\"https://instagram.com/olacabs\" rel=\"noopener noreferrer\" target=\"_blank\">Ola on Instagram</a></li>\n</ul>",
+  "related_apps": [
+    {
+      "link": "/details/com-hundred-qibla-finder/14082.html",
+      "icon": "assets/img/apk/icon/com.hundred.qibla.finder.png",
+      "name": "Qibla Finder Compass 100%",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/kbk-maparea-measure-geo/5067.html",
+      "icon": "assets/img/apk/icon/kbk.maparea.measure.geo.png",
+      "name": "Gps Area Calculator",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "3.9"
+    },
+    {
+      "link": "/details/Offline-Maps-GPS-Speedometer/4633.html",
+      "icon": "assets/img/apk/icon/com.radarapp.trip.speedometer.png",
+      "name": "Offline Maps, GPS, Speedometer",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/Satellite-View-Offline/4620.html",
+      "icon": "assets/img/apk/icon/com.breezeammarathon.viskoproton.grampooffline.png",
+      "name": "Satellite View Offline",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/Rapido/4563.html",
+      "icon": "assets/img/apk/icon/com.rapido.passenger.png",
+      "name": "Rapido",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/CarInfo/4500.html",
+      "icon": "assets/img/apk/icon/com.cuvora.carinfo.png",
+      "name": "CarInfo",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-trailbehind-android-gaiagps-pro/4473.html",
+      "icon": "assets/img/apk/icon/com.trailbehind.android.gaiagps.pro.png",
+      "name": "Gaia GPS: Offroad Hiking Maps",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-gpsnavigation-maps-gpsroutefinder-routemap/4472.html",
+      "icon": "assets/img/apk/icon/com.gpsnavigation.maps.gpsroutefinder.routemap.png",
+      "name": "GPS Navigation: Road Map Route",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    }
+  ]
+}

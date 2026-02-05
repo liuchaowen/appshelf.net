@@ -1,0 +1,112 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/com.microsoft.amp.apps.bingnews.png",
+    "title": "Microsoft Start",
+    "ratings": "4.3",
+    "downloads": "260M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Microsoft Start"
+    },
+    {
+      "name": "category",
+      "value": "News & Magazines"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Microsoft Corporation"
+    },
+    {
+      "name": "Version",
+      "value": "1.0.9"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/44936aZ4QcgLxiXZ0OSeV-XiH1RBJJRILwWi6nVEOMfXHCZoOIyVNppDav2gXaV5nr0",
+    "https://play-lh.googleusercontent.com/YGyOuCO10nOh2O0cBQrrqnJRpeS_yvb4HS2oH6kXkCGvnt5n4jQWZuWd0O9DzWh6i5UW",
+    "https://play-lh.googleusercontent.com/1sEsrPBSY0K5C8xs9hXYoSDMpMzXdZ1bjqtNcc9b1hlc_N6h_juAm777ecUeMWmbeUE",
+    "https://play-lh.googleusercontent.com/WORYj8-XGVvztBqXgQLF8ve9asBknvoxhvfhPVoETv3x3AnAAQy8D7PHf33-ptJ_p4Q",
+    "https://play-lh.googleusercontent.com/eeZTjiHhq3eQ71SLh6Wz8eK-RthDWrXCfVbygMHMTyZ03bGYLCP42na4NHbMsncVkQ",
+    "https://play-lh.googleusercontent.com/YQDI6dyyIJSW0nA1-NIFQVuM14Sq0172HDprkcIhpP6uJXPtqo4s621pp6qeqyYOkQ",
+    "https://play-lh.googleusercontent.com/MwqvLiL180W5yNiEzPZ7yl-IYhZfIrY_O1aQWby7tRqSbpUPdMKEygCtDbtJSKC4LfKa",
+    "https://play-lh.googleusercontent.com/3YVun9RMzQh6wUT6xNtvy03s5Wm0U5Y8ZU1IERow0HmG_BjZ-s6aMMF9sFS-q-yyQIw"
+  ],
+  "app_descript": "<h3>Brief</h3>\n<p>Microsoft Start, known by the app package name com.microsoft.amp.apps.bingnews, is a comprehensive news and entertainment platform designed to connect users with a vast range of content from around the globe. It provides a personalized experience, allowing you to stay informed on topics that interest you, manage your messages, and enjoy various online activities—all within a singular application.</p>\n<h3>Core Features</h3>\n<ul>\n<li>🌐 <strong>Custom News Feed:</strong> Tailor your own news stream with breaking national and global stories. 📰</li>\n<li>🎯 <strong>Topic Tracking:</strong> Follow subjects of interest and receive daily updates on them. 🔍</li>\n<li>🗞️ <strong>Diverse Sources:</strong> Access content from over 1,000 premium publishers. 📘</li>\n<li>📩 <strong>Integrated Messaging:</strong> Manage SMS within the app, with handy categorization for efficiency. ✉️</li>\n<li>🛍️ <strong>Shopping and Rewards:</strong> Seek out deals, compare prices, and earn rewards for typical activities like searching and shopping. 🏷️</li>\n</ul>\n<h3>Pros</h3>\n<ul>\n<li>👥 <strong>Personalization:</strong> The app allows a highly personalized experience by letting users follow their favorite topics. 👤</li>\n<li>🚀 <strong>Wide Access:</strong> With more than 1,000 premium publishers, users gain expansive access to a variety of content. 📚</li>\n<li>📲 <strong>Multifunctionality:</strong> Combining news with messaging and entertainment offers a versatile app experience. 🖥️</li>\n<li>🔁 <strong>Rewards System:</strong> Users can accumulate points through everyday interactions, redeeming them for gift cards and more. 💳</li>\n</ul>\n<h3>Cons</h3>\n<ul>\n<li>💾 <strong>Storage and Speed:</strong> The multipurpose nature may result in higher storage use and potentially slower performance on some devices. 🚨</li>\n<li>📶 <strong>Internet Dependency:</strong> Requires a consistent internet connection for most features. 🌐</li>\n<li>🔄 <strong>Complex Interface:</strong> Given its many functions, some users might find the app interface overwhelming. 🗺️</li>\n<li>🛠️ <strong>Feature Overload:</strong> Users looking for a simple app might be deterred by the app's extensive capabilities. 🎛️</li>\n</ul>\n<h3>Pricing</h3>\n<p>💵 The Microsoft Start app is free to download, with no initial cost. However, certain premium content may require subscriptions or in-app purchases, although they are not explicitly mentioned in the original summary. </p>\n<p><a href=\"https://play.google.com/store/apps/details?id=com.microsoft.amp.apps.bingnews\" rel=\"noopener noreferrer\" target=\"_blank\">Microsoft Start on the Google Play Store</a></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-app-foapp/15418.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.app.foapp.png",
+      "name": "The Obituary App",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-globalnews-android-novanews/5116.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.globalnews.android.novanews.png",
+      "name": "Global News - Breaking & Local",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/Hindi-News-by-Dainik-Bhaskar/4635.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.ak.ta.dainikbhaskar.activity.png",
+      "name": "Hindi News by Dainik Bhaskar",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/Way2News-News-updates-Election/4625.html",
+      "icon": "https://img.buzzsight.co/apk/icon/sun.way2sms.hyd.com.png",
+      "name": "Way2News News updates Election",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/Hindi-News/4507.html",
+      "icon": "https://img.buzzsight.co/apk/icon/in.AajTak.headlines.png",
+      "name": "Hindi News",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/TVA-Nouvelles/4479.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.nurun.lcn.png",
+      "name": "TVA Nouvelles",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/uol/3121.html",
+      "icon": "https://img.buzzsight.co/apk/icon/br.uol.noticias.png",
+      "name": "UOL",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/local-news/3120.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.opera.app.news.local.png",
+      "name": "Local News",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.5"
+    }
+  ]
+}

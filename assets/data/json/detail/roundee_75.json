@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/linearhub.com.roundeeio.png",
+    "title": "Roundee",
+    "ratings": "4.6",
+    "downloads": "460M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Roundee"
+    },
+    {
+      "name": "category",
+      "value": "Communication"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "CaLinearhub"
+    },
+    {
+      "name": "Version",
+      "value": "2.4"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>App Name</strong>: Roundee</p>\n<p><strong>Brief</strong>:\nRoundee is an innovative video conferencing tool designed specifically for remote teams, offering a range of features that streamline the online meeting process. Boasting an easy-to-use platform that emphasizes \"Meetings made meaningful\", Roundee provides functionalities that enhance collaboration before, during, and after video calls. With no need for logins or codes, and with the offer of a customizable personal dashboard, this app is a go-to for teams eager to improve meeting productivity and creativity beyond physical boundaries.</p>\n<p><strong>Core Features</strong>:</p>\n<ul>\n<li>🎥 <strong>Unlimited Video Calls</strong>: Host as many meetings as you need without any limitations.</li>\n<li>📹 <strong>Meeting Recording</strong>: Easily record your meetings and store them on the cloud for future reference.</li>\n<li>🌐 <strong>Personal Dashboard &amp; Custom URL</strong>: Have your own space and a unique link for your meetings.</li>\n<li>☁️ <strong>Cloud Storage</strong>: Safe and secure storage for your meeting recordings.</li>\n<li>🔒 <strong>Lock Feature &amp; Chat</strong>: Keep your discussions secure and enhance communication with integrated chat. </li>\n</ul>\n<p><strong>Pros</strong>:</p>\n<ul>\n<li>👍 <strong>Ease of Access</strong>: With no logins or codes, starting or joining a meeting is hassle-free.</li>\n<li>👍 <strong>Cross-Platform Connectivity</strong>: Available for use on desktops with additional features for enhanced productivity.</li>\n<li>👍 <strong>Interactive Tools</strong>: Screen sharing, whiteboarding, file transfer, and more improve engagement.</li>\n<li>👍 <strong>Flexibility for Bandwidth</strong>: Adjust performance settings or turn off video to save on bandwidth.</li>\n</ul>\n<p><strong>Cons</strong>:</p>\n<ul>\n<li>👎 <strong>Potential Connectivity Issues</strong>: While the app provides settings adjustment, there can still be connectivity issues.</li>\n<li>👎 <strong>Full Feature Set Limited to Desktop</strong>: Mobile users may miss out on some advanced features.</li>\n<li>👎 <strong>Learning Curve for New Users</strong>: The abundance of features might be overwhelming for some.</li>\n<li>👎 <strong>Customer Support through Email</strong>: Direct support is limited to email, which might not be ideal for urgent issues.</li>\n</ul>\n<p><strong>Price</strong>:</p>\n<ul>\n<li>💵 <strong>Free to Use</strong>: Enjoy a comprehensive suite of video conferencing features at no cost.</li>\n</ul>\n<p><strong>Community</strong>: </p>\n<ul>\n<li>🕸️ <strong>Official Site</strong>: <a href=\"https://roundee.io\" rel=\"noopener noreferrer\" target=\"_blank\">Roundee.io</a></li>\n<li>📺 <strong>YouTube Channel</strong>: N/A</li>\n<li>📹 <strong>Related YouTuber's Channel</strong>: N/A</li>\n<li>🌟 <strong>Instagram</strong>: N/A</li>\n<li>🐦 <strong>Twitter</strong>: N/A</li>\n<li>💬 <strong>Discord</strong>: N/A</li>\n<li>👥 <strong>Facebook</strong>: N/A</li>\n<li>🎵 <strong>TikTok</strong>: N/A</li>\n<li>🗨️ <strong>Reddit</strong>: N/A</li>\n<li>📚 <strong>Fandom Wiki</strong>: N/A</li>\n</ul>\n<p>Download Roundee today and step into the future of engaging and productive video conferencing, crafted to transform how your team collaborates remotely. Enjoy smarter and more meaningful video meetings for free!</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-sst-parrot-photo-frame/53901.html",
+      "icon": "assets/img/apk/icon/com.sst.parrot.photo.frame.png",
+      "name": "Bird Photo Frame",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-new_year-stickers-birthday/39669.html",
+      "icon": "assets/img/apk/icon/com.new_year.stickers.birthday.png",
+      "name": "Happy New Year Stickers 2026",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/org-watchduty-app/14524.html",
+      "icon": "assets/img/apk/icon/org.watchduty.app.png",
+      "name": "Watch Duty (Wildfire)",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-snowcorp-stickerly-android/14453.html",
+      "icon": "assets/img/apk/icon/com.snowcorp.stickerly.android.png",
+      "name": "Sticker.ly - Sticker Maker",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-Happynewyearphotoframe2020/14421.html",
+      "icon": "assets/img/apk/icon/com.Happynewyearphotoframe2020.png",
+      "name": "New Year Video Maker 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-intira-new-year-photo-frame-new/14342.html",
+      "icon": "assets/img/apk/icon/com.intira.new.year.photo.frame.new.png",
+      "name": "New year photo frame 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-christmas-photo-frame-b-new-free/14203.html",
+      "icon": "assets/img/apk/icon/com.christmas.photo.frame.b.new.free.png",
+      "name": "Christmas photo frame 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/ma-apps-face_ml/14137.html",
+      "icon": "assets/img/apk/icon/ma.apps.face_ml.png",
+      "name": "Face reader scanner - analyser",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "3.3"
+    }
+  ]
+}

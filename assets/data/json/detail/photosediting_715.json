@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.coolimg.picture.imgediting.png",
+    "title": "PhotosEditing",
+    "ratings": "4.1",
+    "downloads": "980M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "PhotosEditing"
+    },
+    {
+      "name": "category",
+      "value": "Photography"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Jack Weber"
+    },
+    {
+      "name": "Version",
+      "value": "1.1.87"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h2>PhotosEditing</h2>\n<h3>Brief</h3>\n<p>PhotosEditing is a one-stop mobile application for all your photo enhancement needs. A user-friendly interface coupled with powerful tools helps bring your images to life. Whether it's for professional retouches or quick social media posts, PhotosEditing offers a canvas for creativity without the complexity of traditional editing software.</p>\n<h3>Core Features</h3>\n<ul>\n<li><strong>Intuitive UI Design</strong>: Navigate through the app's features with ease for a seamless editing experience. 🛠️</li>\n<li><strong>Diverse Editing Tools</strong>: Utilizes a wide array of options such as filters, adjustment sliders, and customizable presets to perfect your photos. 🎨</li>\n<li><strong>Smart Enhancements</strong>: Auto-correct options for quick improvements and AI-powered tools for sophisticated edits. 🤖</li>\n<li><strong>Social Media Integration</strong>: Directly share your edited images to various social media platforms from within the app. 📲</li>\n<li><strong>Cloud Syncing</strong>: Safely back-up your projects and access them across multiple devices. ☁️</li>\n</ul>\n<h3>Pros</h3>\n<ul>\n<li><strong>Accessibility</strong>: Suitable for both beginners and professionals due to its user-friendly nature. 👥</li>\n<li><strong>High-Quality Output</strong>: Maintains high resolution of images even after extensive editing. 🖼️</li>\n<li><strong>Regular Updates</strong>: Frequent introduction of new features and tools keeping the app current with editing trends. 🔄</li>\n<li><strong>Multi-Platform Support</strong>: Available across a variety of devices, providing flexibility in where and how you use the app. 📱💻</li>\n<li><strong>No Watermarks</strong>: Offers clean edits without unsolicited branding on your images. ✨</li>\n</ul>\n<h3>Cons</h3>\n<ul>\n<li><strong>Learning Curve</strong>: Some advanced features may require a bit of learning for new users. 🤔</li>\n<li><strong>Resource Intensive</strong>: May be challenging to run smoothly on older or less powerful devices. 🚧</li>\n<li><strong>In-App Purchases</strong>: Certain premium features might be locked behind a paywall. 💳</li>\n<li><strong>Limited Free Features</strong>: The most powerful tools might not be available in the free version. 🔒</li>\n<li><strong>Internet Requirement for Cloud</strong>: Syncing projects across devices requires a stable internet connection. 🌐</li>\n</ul>\n<h3>Pricing</h3>\n<p>PhotosEditing is a free app with basic editing capabilities. Users can choose to unlock advanced features through in-app purchases with varying prices depending on the functionality they wish to access. 💵</p>\n<p>(Note: Since the original description provided was nonexistent and the community aspect is not applicable to this non-game app, no community dimension has been included in this summary.)</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-appwallet-coupletraditionaldress/54509.html",
+      "icon": "assets/img/apk/icon/com.appwallet.coupletraditionaldress.png",
+      "name": "Traditional Suit : Change Face",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-appwallet-ValentinesDayFrames/54392.html",
+      "icon": "assets/img/apk/icon/com.appwallet.ValentinesDayFrames.png",
+      "name": "Valentine's Day Photo Frame",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-valentineweek-photo_frames/54386.html",
+      "icon": "assets/img/apk/icon/com.valentineweek.photo_frames.png",
+      "name": "Valentine Day Photo Frame 2026",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/valentine-photo-frame-editor/54380.html",
+      "icon": "assets/img/apk/icon/valentine.photo.frame.editor.png",
+      "name": "Valentine's Day Photo Frame",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-aaptechno-photomaker-republicday/54338.html",
+      "icon": "assets/img/apk/icon/com.aaptechno.photomaker.republicday.png",
+      "name": "Republic day Photo Frame",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/utility-independancephotoframe/54332.html",
+      "icon": "assets/img/apk/icon/utility.independancephotoframe.png",
+      "name": "Republic Day Photo Frames",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-appbench-republicdayphotoframes/54326.html",
+      "icon": "assets/img/apk/icon/com.appbench.republicdayphotoframes.png",
+      "name": "Republic Day Photo Frames",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-themasterapps-happybirthdaywishesimages/54176.html",
+      "icon": "assets/img/apk/icon/com.themasterapps.happybirthdaywishesimages.png",
+      "name": "Happy Birthday & Good Morning",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.8"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/cm-locker.png",
+    "title": "CM Locker",
+    "ratings": "4.9",
+    "downloads": "350M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "CM Locker"
+    },
+    {
+      "name": "category",
+      "value": "Tools"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Cheetah Mobile (Secure lockscreen & Applock)"
+    },
+    {
+      "name": "Version",
+      "value": "4.0.5"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>CM Locker</strong> is a versatile lock screen application that not only enhances the security of your device but also offers several other smart features to optimize your mobile experience.</p>\n<h3>Brief</h3>\n<p>CM Locker provides an array of features aimed at personalizing your lock screen, boosting your phone's performance, managing power consumption, and ensuring privacy. With an intuitive design and easy-to-use interface, it caters to the needs of those who value both functionality and aesthetics in their daily mobile usage.</p>\n<h3>Core Features:</h3>\n<ul>\n<li><strong>Customization</strong> - Tailor your lock screen appearance with various layouts and personalize it with an avatar for the password pages. 🎨</li>\n<li><strong>Booster</strong> - Improve your phone's efficiency by boosting its performance right from the toolbox. 🚀</li>\n<li><strong>Power Saver</strong> - Extend your battery life with the app's energy-saving options. 🔋</li>\n<li><strong>Intruder Selfie</strong> - Capture photos of anyone attempting to snoop on your phone. 📸</li>\n<li><strong>Notification Reminder</strong> - Keep your message content private and access apps quickly from the lock screen. 🔔</li>\n<li><strong>Weather Forecast</strong> - Stay up-to-date with local weather conditions right from your lock screen. ☔</li>\n</ul>\n<h3>Pros:</h3>\n<ul>\n<li><strong>Enhanced Privacy</strong> - The app secures your information and captures intruder selfies to discourage snooping. 🔐</li>\n<li><strong>Device Optimization</strong> - Improves device performance and extends battery life. 🛠️</li>\n<li><strong>Customization Options</strong> - Offers a high level of customization to make your device uniquely yours. ✨</li>\n<li><strong>Ease of Access</strong> - Provides quick access to important notifications and frequently used apps. 🚪</li>\n<li><strong>Utility Features</strong> - The built-in weather forecast keeps you informed about the weather throughout your day. 🌡️</li>\n</ul>\n<h3>Cons:</h3>\n<ul>\n<li><strong>Resource Usage</strong> - As with many security and utility apps, it might consume significant resources on the device. 📱</li>\n<li><strong>Compatibility Issues</strong> - Could potentially have compatibility issues with other security or personalization apps. 🔧</li>\n<li><strong>Complexity for Some Users</strong> - The number of features and customization may overwhelm some users. 🤔</li>\n<li><strong>Advertisement</strong> - The free version may include advertisements, which can be intrusive for some users. 🚫</li>\n<li><strong>Privacy Concerns</strong> - As the app requires access to various permissions, privacy-conscious users may have concerns. 👁️</li>\n</ul>\n<h3>Price:</h3>\n<p>CM Locker is a <strong>free</strong> app, with some features that may be locked behind in-app purchases. The pricing of these purchases can vary depending on the feature set you want to access. 💸</p>\n<p>Enhance your mobile experience and safeguard your device with CM Locker, where practicality and personalization go hand in hand.</p>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-antique-snap-identifier-appraisal/54309.html",
+      "icon": "assets/img/apk/icon/com.antique.snap.identifier.appraisal.png",
+      "name": "Antique Identifier - Appraisal",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-age-calculator-life-countdown/54243.html",
+      "icon": "assets/img/apk/icon/com.age.calculator.life.countdown.png",
+      "name": "Age Calculator・Life Expectancy",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-xv-agecalc/54237.html",
+      "icon": "assets/img/apk/icon/com.xv.agecalc.png",
+      "name": "AgeCalc: Date Life Calculator",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-palm-ai-decode-destiny-soul-futurelines-handline/54206.html",
+      "icon": "assets/img/apk/icon/com.palm.ai.decode.destiny.soul.futurelines.handline.png",
+      "name": "Palm AI: Decode Destiny",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/rbx-robuxcalc-getrbx-freecounter/53839.html",
+      "icon": "assets/img/apk/icon/rbx.robuxcalc.getrbx.freecounter.png",
+      "name": "RBX Calc - Get Robuxcounter",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-internetoptimizer-speedtest-wifispeedtest-netspeed-wifipassword-wifispeed/49027.html",
+      "icon": "assets/img/apk/icon/com.internetoptimizer.speedtest.wifispeedtest.netspeed.wifipassword.wifispeed.png",
+      "name": "Internet Optimizer",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.9"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-blazingappstudio-speed_test_pro/49021.html",
+      "icon": "assets/img/apk/icon/com.blazingappstudio.speed_test_pro.png",
+      "name": "Speed Test - Wifi Optimizer",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-secret-camera-hidden-detector/39728.html",
+      "icon": "assets/img/apk/icon/com.secret.camera.hidden.detector.png",
+      "name": "Hidden Camera & IR Detector",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    }
+  ]
+}

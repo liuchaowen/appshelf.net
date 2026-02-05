@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/popcorn-time.png",
+    "title": "Popcorn Time",
+    "ratings": "4.1",
+    "downloads": "220M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Popcorn Time"
+    },
+    {
+      "name": "category",
+      "value": "Entertainment"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Popcorn-time.se"
+    },
+    {
+      "name": "Version",
+      "value": "2.7.6.1"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>Popcorn Time</strong></p>\n<h3>Brief:</h3>\n<p>Popcorn Time is an application that revolutionizes the way you watch movies and TV shows. With a straightforward approach, it provides access to a vast selection of entertainment content that you can stream instantly without the customary wait associated with downloads. Movies and series are available in high-quality formats with the added convenience of subtitles.</p>\n<h3>Core Features:</h3>\n<ul>\n<li>📺 <strong>Great Movies</strong>: Access to a high-quality collection of movies and TV series from significant torrent sites 🍿.</li>\n<li>📚 <strong>Awesome Catalogue</strong>: Regular updates to the movie and series selection as soon as they become available 🎬.</li>\n<li>🚫 <strong>No Restrictions</strong>: Unlimited viewing at any time, requiring only an internet connection 🌐.</li>\n<li>🌟 <strong>Best Quality</strong>: Enjoyment in HD 720p or 1080p, complemented with subtitle options 📽️.</li>\n<li>⏰ <strong>Saving Time</strong>: Instant streaming negates the need for downloads, offering an uninterrupted experience 🔥.</li>\n</ul>\n<h3>Pros:</h3>\n<ul>\n<li>👍 <strong>Ease of Use</strong>: User-friendly interface, making it simple for anyone to choose and play content 🖱️.</li>\n<li>👍 <strong>No Wait Time</strong>: The instant playback feature eliminates the frustration of waiting for downloads ⌛.</li>\n<li>👍 <strong>Quality Options</strong>: Flexibility in selecting desired video quality and subtitles for an optimized viewing experience 🎞️.</li>\n<li>👍 <strong>Wide Availability</strong>: Accessible on multiple devices, ensuring you can enjoy your favorite content wherever you are 📱.</li>\n</ul>\n<h3>Cons:</h3>\n<ul>\n<li>👎 <strong>Network Dependency</strong>: Requires a steady and strong internet connection for seamless streaming 📡.</li>\n<li>👎 <strong>Legal Considerations</strong>: The app operates in a gray area legally when it comes to the sourcing of content 🏴‍☠️.</li>\n<li>👎 <strong>Limited Offline Access</strong>: Dependency on streaming means limited functionality without an internet connection 🌐.</li>\n<li>👎 <strong>Potential for Bugs</strong>: As with any app, users may encounter occasional technical glitches or errors 🐞.</li>\n</ul>\n<h3>Price:</h3>\n<p>💵 Popcorn Time is free to use, which may include unobtrusive ads or optional in-app purchases to enhance the viewing experience (details not provided).</p>\n<h3>How It Works:</h3>\n<ol>\n<li>Open Popcorn Time and select your preferred movie or TV show.</li>\n<li>Choose your desired video quality and subtitle settings.</li>\n<li>Click play and enjoy your streaming content!</li>\n</ol>\n<p><em>(Popcorn Time's community aspects, such as participation in forums or social media interactions, are not available for display due to a lack of data.)</em></p>\n<hr/>\n<p>Please note that the legality of streaming and usage of torrent-sourced content can vary by region and may be subject to local laws and regulations. Users should also consider potential risks and operate within legal boundaries.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-moonphaseapps-astro/54410.html",
+      "icon": "assets/img/apk/icon/com.moonphaseapps.astro.png",
+      "name": "AstroBella Astrology & Healing",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-girlmaker-create-avatar-creator/54356.html",
+      "icon": "assets/img/apk/icon/com.girlmaker.create.avatar.creator.png",
+      "name": "PFP Girl: Avatar Maker",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-photocrop-challengefilter/54321.html",
+      "icon": "assets/img/apk/icon/com.photocrop.challengefilter.png",
+      "name": "Photo Crop Challenge Filter",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-photo-cropfilter-challenge/54315.html",
+      "icon": "assets/img/apk/icon/com.photo.cropfilter.challenge.png",
+      "name": "Photo Crop Challenge Video",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/vyten-colormatrix/54297.html",
+      "icon": "assets/img/apk/icon/vyten.colormatrix.png",
+      "name": "The Personality Color Matrix",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-truelove-tester-love/54289.html",
+      "icon": "assets/img/apk/icon/com.truelove.tester.love.png",
+      "name": "True Love Tester",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-lifeexpectancycalculator/54231.html",
+      "icon": "assets/img/apk/icon/com.lifeexpectancycalculator.png",
+      "name": "Life Expectancy Calculator",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-insect-filters-funny-prank-bug-filter-face-camera/54212.html",
+      "icon": "assets/img/apk/icon/com.insect.filters.funny.prank.bug.filter.face.camera.png",
+      "name": "Bugzz: Insect Prank Filters",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4"
+    }
+  ]
+}

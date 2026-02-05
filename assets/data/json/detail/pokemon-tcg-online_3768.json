@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/pokemon-tcg-online.png",
+    "title": "Pokemon TCG Online",
+    "ratings": "4.5",
+    "downloads": "570M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Pokemon TCG Online"
+    },
+    {
+      "name": "category",
+      "value": "Card"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "The Pokémon Company International"
+    },
+    {
+      "name": "Version",
+      "value": "2.91.0"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h1>Pokemon TCG Online</h1>\n<p><strong>Brief:</strong>\nExperience the thrill of the Pokémon Trading Card Game digitally with Pokémon TCG Online! With the beta version available in limited regions, this app offers fans the chance to build and compete with their unique deck creations on both Android devices and desktops. Embrace a blend of easy learning and strategic depth as you collect cards, battle in various modes, and personalize your gaming experience.</p>\n<h2>Core Features: 📌</h2>\n<ul>\n<li><strong>Seamless Play Across Devices:</strong> Sync your collection via your Pokémon Trainer Club account for smooth transitions between tablet and desktop gameplay.</li>\n<li><strong>Dynamic Collection Building:</strong> Unlock, trade, and open booster packs to assemble a formidable deck.</li>\n<li><strong>Personalization &amp; Customization:</strong> Style your cards, deck boxes, and avatars to reflect your personality, all for no additional cost.</li>\n<li><strong>Trainer Challenge Mode:</strong> Hone your skills against computer-controlled opponents before taking on real-world rivals.</li>\n<li><strong>Competitive Modes for Every Player:</strong> Engage in head-to-head battles in Versus mode or strive for glory in Tournament mode, which features a single-elimination contest among eight players.</li>\n</ul>\n<h2>Pros: 👍</h2>\n<ul>\n<li><strong>Learn as You Play:</strong> The game is designed to be user-friendly, allowing newcomers to grasp the rules quickly.</li>\n<li><strong>No Initial Investment Required:</strong> Jump into the game without any upfront purchase.</li>\n<li><strong>Enhances Strategic Thinking:</strong> Perfect the art of deck-building for a more successful gaming experience.</li>\n<li><strong>Cross-Platform Accessibility:</strong> Effortlessly switch between playing on mobile and desktop with your saved game progress.</li>\n</ul>\n<h2>Cons: 👎</h2>\n<ul>\n<li><strong>Limited Beta Availability:</strong> Currently only accessible in Canada and Mexico, restricting access for some interested players.</li>\n<li><strong>Upcoming Shutdown of Previous Version:</strong> Users of the older application will need to transition to the new version.</li>\n<li><strong>Potential for In-Game Purchases:</strong> While the basic app is free, players may feel compelled to purchase additional items.</li>\n<li><strong>Language Restrictions:</strong> The beta version is available only in English, French, and Spanish, potentially excluding a broader audience.</li>\n</ul>\n<h2>Price: 💵</h2>\n<p>The app is free to play, with in-app transactions available for those who wish to expand their experience and collection.</p>\n<h2>Community: 🕸️</h2>\n<ul>\n<li>Official site: <a href=\"https://www.pokemon.com/us/pokemon-tcg/play-online/\" rel=\"noopener noreferrer\" target=\"_blank\">Pokemon TCG Online</a></li>\n<li>YouTube channel: <a href=\"https://www.youtube.com/user/pokemon\" rel=\"noopener noreferrer\" target=\"_blank\">Pokemon TCG Online</a></li>\n<li>Related popular YouTuber's channel: <a href=\"https://www.youtube.com/user/unlistedleaf\" rel=\"noopener noreferrer\" target=\"_blank\">UnlistedLeaf</a></li>\n<li>Most followed Instagramer: N/A</li>\n<li>Twitter: <a href=\"https://twitter.com/playpokemon\" rel=\"noopener noreferrer\" target=\"_blank\">Play Pokémon</a></li>\n<li>Discord: N/A</li>\n<li>Facebook: <a href=\"https://www.facebook.com/Pokemon\" rel=\"noopener noreferrer\" target=\"_blank\">Play Pokémon</a></li>\n<li>TikTok: N/A</li>\n<li>Reddit: <a href=\"https://www.reddit.com/r/ptcgo/\" rel=\"noopener noreferrer\" target=\"_blank\">r/ptcgo</a></li>\n<li>Fandom Wiki site: <a href=\"https://pokemon.fandom.com/wiki/Pok%C3%A9mon_Trading_Card_Game\" rel=\"noopener noreferrer\" target=\"_blank\">Pokémon TCG Wiki</a></li>\n</ul>\n<p>Step into the digital arena of Pokémon TCG Online where a world of strategic battles with iconic Pokémon awaits. With its accessible gameplay and rich competitive modes, this app promises to be an engaging platform for both novices and seasoned card game enthusiasts alike.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-forevergreen-solitaire/15919.html",
+      "icon": "assets/img/apk/icon/com.forevergreen.solitaire.png",
+      "name": "Solitaire Classic",
+      "categoryLink": "/en/categories/card/37",
+      "category": "Card",
+      "rating": "3.5"
+    },
+    {
+      "link": "/details/solitaire-patience-card-games-klondike-free/15574.html",
+      "icon": "assets/img/apk/icon/solitaire.patience.card.games.klondike.free.png",
+      "name": "Solitaire - Classic Card Games",
+      "categoryLink": "/en/categories/card/37",
+      "category": "Card",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/com-playstack-balatro-android/14386.html",
+      "icon": "assets/img/apk/icon/com.playstack.balatro.android.png",
+      "name": "Balatro",
+      "categoryLink": "/en/categories/card/37",
+      "category": "Card",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/jp-pokemon-pokemontcgp/14205.html",
+      "icon": "assets/img/apk/icon/jp.pokemon.pokemontcgp.png",
+      "name": "Pokémon TCG Pocket",
+      "categoryLink": "/en/categories/card/37",
+      "category": "Card",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-mobilityware-PyramidFree/14080.html",
+      "icon": "assets/img/apk/icon/com.mobilityware.PyramidFree.png",
+      "name": "Pyramid Solitaire - Card Games",
+      "categoryLink": "/en/categories/card/37",
+      "category": "Card",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-duole-solitaire-romance-journey-patience-free-card-games/10203.html",
+      "icon": "assets/img/apk/icon/com.duole.solitaire.romance.journey.patience.free.card.games.png",
+      "name": "Solitaire Journey:Romance Time",
+      "categoryLink": "/en/categories/card/37",
+      "category": "Card",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-octro-rummy/10185.html",
+      "icon": "assets/img/apk/icon/com.octro.rummy.png",
+      "name": "Indian Rummy -Teen Patti Rummy",
+      "categoryLink": "/en/categories/card/37",
+      "category": "Card",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-game-whatdoyoumeme/4858.html",
+      "icon": "assets/img/apk/icon/com.game.whatdoyoumeme.png",
+      "name": "Meme Challenge: Dank Memes",
+      "categoryLink": "/en/categories/card/37",
+      "category": "Card",
+      "rating": "4.4"
+    }
+  ]
+}

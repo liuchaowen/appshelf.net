@@ -1,0 +1,112 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/works.jubilee.timetree.png",
+    "title": "TimeTree",
+    "ratings": "4.7",
+    "downloads": "710M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "TimeTree"
+    },
+    {
+      "name": "category",
+      "value": "Productivity"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "JUBILEE WORKS, Inc."
+    },
+    {
+      "name": "Version",
+      "value": "6.10.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/T4n4BhYYNsQbkc81kalCmyfJZ0Or-1E3_CY5zaMeF58IqVh2ArHv9LBEZuuaYaOHEMo",
+    "https://play-lh.googleusercontent.com/XZ6-yrayh3p-XywEUdOeaVa9J2t5IKz2h8sUQzgzsey7BB5-OTRB5VY5l75XNtn0C5o",
+    "https://play-lh.googleusercontent.com/vuXhABq02heCHm-fjbZM7dvMsyps2UJdgIaWigo4Vol9Tcew2gwIILbqORxgk_poiQ1v",
+    "https://play-lh.googleusercontent.com/sSJdifY7I7QHbxIVW77R4sbT4vaNEoe66Pjj3UlTiwj9_SIny7h7BOy9ic6GAp4x1nM",
+    "https://play-lh.googleusercontent.com/QrV4DtbkLPgzWV8U391njKiDEXTBf96dOZ4RqZ-2fYTK0-gY8b1_E2f4F1LsHTsRjkj9",
+    "https://play-lh.googleusercontent.com/SfVzuipudI6vSiy9ZwbAJJyZotx1NOTienyIJ9l2RI7-9R147sL_jg54kEn0ANt1g0rV",
+    "https://play-lh.googleusercontent.com/IVq5X30oySLuTsiRtqToyWfqIa_GhAgzCTfImtD2K-NeqhKW8GWUlRrbNHaECu1PVUs",
+    "https://play-lh.googleusercontent.com/X8HLfJ71rsGRSX0pBX0VaAgna5bMiXq822rFOJczQySR5xxgY6g8oPQ58sHHrR73bIrA"
+  ],
+  "app_descript": "<h1>TimeTree: Shared Calendar</h1>\n<h2>Brief</h2>\n<p>TimeTree is an efficient and user-friendly calendar app, designed to streamline the process of scheduling and sharing events among friends, family, or colleagues. With the ability to view monthly, weekly, or list displays, TimeTree presents a comprehensive overview of upcoming commitments and makes planning more collaborative and stress-free.</p>\n<h2>Core Features</h2>\n<ul>\n<li>🗓️ <strong>Versatile Viewing Options</strong>: Switch between month, week, or list views to better organize your event schedule. 🌐</li>\n<li>🏷️ <strong>Custom Labels</strong>: Use personalized colors for different events or people, making it easier to manage your calendar at a glance. 👤</li>\n<li>🤝 <strong>Shared Planning</strong>: Invite others to your calendar and edit events collectively, ensuring everyone is on the same page. 📲</li>\n<li>📝 <strong>Notes and Comments</strong>: Apply notes to events, allowing members to comment and share photos, enhancing the collective experience. 🖼️</li>\n<li>🔄 <strong>Synchronize with Google/Outlook calendars</strong>: Import your existing calendar data to start with TimeTree immediately. 🔗</li>\n<li>🗂️ <strong>Multiple Calendars</strong>: Manage separate calendars for various aspects of your life, like family, personal, or work. 🛡️</li>\n<li>💻 <strong>Accessibility on PC</strong>: Access TimeTree from your computer for an expanded experience. 🖥️</li>\n<li>🎛️ <strong>Widgets</strong>: Check appointments easily through widgets without having to open the app itself. 📅</li>\n</ul>\n<h2>Pros</h2>\n<ul>\n<li>👍 <strong>Simplified Coordination</strong>: Enhance communication regarding scheduling, reducing confusion and repeated confirmations. ✅</li>\n<li>👍 <strong>Consolidation of Information</strong>: Store important documents, like school flyers, as photos, providing a digital alternative to paper clutter. 📚</li>\n<li>👍 <strong>Increases Productivity</strong>: Users have reported an increase in efficiency when managing work shifts or coordinating team tasks. 💼</li>\n<li>👍 <strong>Flexible for Various Scenarios</strong>: Ideal for families, couples, or workplaces to maintain seamless scheduling harmony. 👨‍👩‍👧‍👦</li>\n</ul>\n<h2>Cons</h2>\n<ul>\n<li>👎 <strong>Potential Overcomplexity for Some Users</strong>: The array of features may overwhelm users who prefer simplistic calendars. 🤹</li>\n<li>👎 <strong>Dependence on Internet Connection</strong>: The app requires an online connection for syncing and sharing features to work. 🌐</li>\n<li>👎 <strong>Privacy Concerns</strong>: Multiple users on shared calendars mean private information requires careful management. 🔒</li>\n<li>👎 <strong>Platform Restrictions</strong>: Some users might find it less convenient to switch devices or platforms if they aren't supported uniformly. 🔄</li>\n</ul>\n<h2>Price</h2>\n<p>💵 TimeTree is a free app, offering its main features without charge. However, there might be in-app purchases for additional functionalities or to remove ads, if any.</p>\n<p><strong>Note</strong>: The <strong>Community</strong> section is not included, as TimeTree is not classified as a game app.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-takeofflabs-fontmaker/54188.html",
+      "icon": "assets/img/apk/icon/com.takeofflabs.fontmaker.png",
+      "name": "Fontmaker - Font Keyboard App",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-game-console-emulator/39577.html",
+      "icon": "assets/img/apk/icon/com.game.console.emulator.png",
+      "name": "Gamu: Retro Game Hub",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/app-itwingtech-power_of_mind-predicator/39340.html",
+      "icon": "assets/img/apk/icon/app.itwingtech.power_of_mind.predicator.png",
+      "name": "Mind Test: Test My Brain",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-pdfreader-pdfeditor-scandocu-pro-app-amb/16953.html",
+      "icon": "assets/img/apk/icon/com.pdfreader.pdfeditor.scandocu.pro.app.amb.png",
+      "name": "PDFPro: Scanner & Editor",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "3.8"
+    },
+    {
+      "link": "/details/ai-perplexity-app-android/16744.html",
+      "icon": "assets/img/apk/icon/ai.perplexity.app.android.png",
+      "name": "Perplexity - Ask Anything",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-safeshellvpn/16639.html",
+      "icon": "assets/img/apk/icon/com.safeshellvpn.png",
+      "name": "SafeShell VPN: Fast & Secure",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-roblox-skin-cloth-freeskins/16603.html",
+      "icon": "assets/img/apk/icon/com.roblox.skin.cloth.freeskins.png",
+      "name": "Clothes Skin For Roblox",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-underthing-focus-friend/16526.html",
+      "icon": "assets/img/apk/icon/com.underthing.focus.friend.png",
+      "name": "Focus Friend by Hank Green",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.7"
+    }
+  ]
+}

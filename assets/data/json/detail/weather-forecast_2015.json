@@ -1,0 +1,110 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.wwrdev.weather.png",
+    "title": "Weather Forecast",
+    "ratings": "4.5",
+    "downloads": "180M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Weather Forecast"
+    },
+    {
+      "name": "category",
+      "value": "Weather"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Ace Weather Team"
+    },
+    {
+      "name": "Version",
+      "value": "1.6.6"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/y9J1SEFY5LZA98eL5-elctYXmf4PmeiS9fhDWnZGVLRGxsZcmBAgTf1aHyvo3w9z7g",
+    "https://play-lh.googleusercontent.com/BDeEr59DemZTlMGv0M2kgsfz6Sey_Tn5ta7jDyv86fd5m4g2Ey_r87jrC94alb__8fc",
+    "https://play-lh.googleusercontent.com/MeIteECPZBWl4xrWzStHoU7qnrULg6gNyWzhtu3OjX0LvMLFl2ZPVP-tt0quec4rBas",
+    "https://play-lh.googleusercontent.com/zecqCJApsY_R1rZnDPY559iur444BQJDvdnICBxgyjJIL4YCBt159PDV7dpbKULZEk4",
+    "https://play-lh.googleusercontent.com/-fj4HMBflZEWY9hrPy0HE00Njslz57JltVUD0OnuHdtjm7cqrYH8mibLI7KPPSnELTo",
+    "https://play-lh.googleusercontent.com/L4wYYcg2qhQNM0y56bk5ZStKBRV6EHpAhI9qVCj8M6nDNNbuLoNrtmcagJ4F91k-EdM"
+  ],
+  "app_descript": "<p><strong>Weather Forecast</strong></p>\n<p><strong>Brief:</strong>\nWeather Forecast is your digital meteorologist, providing nuanced and precise weather updates no matter where you are. With comprehensive coverage from hourly to weekly predictions, this app offers an extensive range of meteorological data, including a broad spectrum of weather reports both locally and globally. Weather Forecast stands out by its ability to function without relying on GPS, instead utilizing network locations for weather updates.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🌦️ Live Weather Animation: Experience animated weather conditions complemented by dynamic background images tailored to the current climate.</li>\n<li>🌐 Global Forecasts: Access weather forecasts and current climatic conditions for any location around the world.</li>\n<li>📊 Detailed Reports: Obtain thorough information on temperature, wind, humidity, visibility, pressure, AQI, dew point, and UV index.</li>\n<li>⛈️ Advanced Radar: A 6-hour futuristic Radar view aids anticipation of weather changes ahead of time.</li>\n<li>🔔 Custom Alerts: Receive tailored notifications for severe weather updates and indulge in outdoor sports with real-time air quality tips. 📲 Widgets: Customize your home screen with various weather widgets, allowing for quick access to essential weather details.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 Contains a wide variety of weather information for in-depth analysis.</li>\n<li>👍 User-friendly with the ability to save favorite locations for quick forecasts.</li>\n<li>👍 Offers weather notifications for immediate updates on current weather.</li>\n<li>👍 Compatible with Dark Mode, easing nighttime usage.</li>\n<li>👍 Well-suited for both phones and tablets.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 Network-based location detection might not be as precise as GPS.</li>\n<li>👎 Weather radar coverage may not be available for certain regions.</li>\n<li>👎 Some features may require a stable internet connection to function optimally.</li>\n<li>👎 App size and widget customizations might affect device performance.</li>\n<li>👎 Occasional ads or in-app purchases could disrupt the user experience.</li>\n</ul>\n<p><strong>Price:</strong>\n💵 Weather Forecast is free to download and offers some in-app purchases for premium features. Users may encounter ads within the app.</p>\n<p><em>Community Section is excluded as this is a non-game app.</em></p>\n<p>With Weather Forecast, stay one step ahead of the weather – a smart choice for anyone needing reliable weather insights at their fingertips. 🌞🌧️⛄️</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-eet-weather-launcher/15703.html",
+      "icon": "assets/img/apk/icon/com.eet.weather.launcher.png",
+      "name": "Weather Now Launcher - Radar",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "3.6"
+    },
+    {
+      "link": "/details/com-daily-forecast-weather-radar/4930.html",
+      "icon": "assets/img/apk/icon/com.daily.forecast.weather.radar.png",
+      "name": "Daily Forecast: Weather&Radar",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-mahersafadi-sunny/4921.html",
+      "icon": "assets/img/apk/icon/com.mahersafadi.sunny.png",
+      "name": "Sunny: Weather forecast",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4"
+    },
+    {
+      "link": "/details/WeatherPal/4628.html",
+      "icon": "assets/img/apk/icon/com.precise.opliging.kitan.png",
+      "name": "WeatherPal",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/live-weather/2063.html",
+      "icon": "assets/img/apk/icon/com.appsinnova.weatherforecast.liveweather.png",
+      "name": "Live Weather",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/radarnow/2062.html",
+      "icon": "assets/img/apk/icon/com.usnaviguide.radar_now.png",
+      "name": "RadarNow!",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/local-weather/2061.html",
+      "icon": "assets/img/apk/icon/com.weather.forecast.channel.local.png",
+      "name": "Local Weather",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/iqair-airvisual/2060.html",
+      "icon": "assets/img/apk/icon/com.airvisual.png",
+      "name": "IQAir AirVisual",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.6"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/com.afklm.mobile.android.gomobile.klm.png",
+    "title": "KLM",
+    "ratings": "4.9",
+    "downloads": "580M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "KLM"
+    },
+    {
+      "name": "category",
+      "value": "Travel & Local"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "KLM Koninklijke Luchtvaart Maatschappij N.V."
+    },
+    {
+      "name": "Version",
+      "value": "13.9.1"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/GQl8qWovwHX81KQDUWmzdlbBOUbWLr-Zp94LHkBfe5ksRQEZmcdT2qwFsfbhyvGRIhi5",
+    "https://play-lh.googleusercontent.com/2NG35IfBNV48NS6qcaHEogAMPO-RbRJi27qhvGgQsNBD_Jq-qSy-TMcAlytvFLGrcs4",
+    "https://play-lh.googleusercontent.com/kAyW-2sI_0Yur4blOIWWxOfIf4MYltNrlU5IyV7X1ze81bs-74MbOtGUMex9lNpJS5dB",
+    "https://play-lh.googleusercontent.com/kY7uZ1KH33_-yFbEBf3JMAqMHDzxsqHUHqI8aaTJksGpXuRMlt7kiZj7QP7pET4hPw",
+    "https://play-lh.googleusercontent.com/j3UbN_Qr3kZHgHfLR_ob88QYdSXEZbHw5_0fB4GVc1F18l46jbbiXdndsOKY07hasA",
+    "https://play-lh.googleusercontent.com/7bmrdLwV0qzCN_s2rfwIxgz87rmHILJmfYApQYRK_2TiOvJm8YaiGkBZ_HFzTschPYA"
+  ],
+  "app_descript": "<h3>KLM: Your Travel Companion</h3>\n<h4>Brief</h4>\n<p>The KLM app is designed to accompany you from the first spark of wanderlust through to your flight's final landing. It's a comprehensive travel toolkit that allows you to manage every aspect of your trip with ease and an added touch of luxury, all from the palm of your hand. Spin the globe, find your destination, and let KLM help you prepare to take to the skies.</p>\n<h4>Core Features</h4>\n<ul>\n<li>🧳 <strong>Trip Management:</strong> Access a pre-travel checklist and easily alter your booking before check-in. Add that extra splash of comfort by securing lounge access or additional legroom at your fingertips. 📌</li>\n<li>📱 <strong>Boarding Pass on the Go:</strong> Embrace a hassle-free journey. Skip printing and check-in queues by securing your boarding pass within the app or seamlessly integrating it into your Wallet. 📌</li>\n<li>✈️ <strong>Flying Blue Integration:</strong> Monitor your Miles balance, arrange a reward flight, tweak your profile, and utilize your digital Flying Blue card, all from a personalized dashboard. 📌</li>\n<li>🔔 <strong>Real-Time Updates:</strong> Stay informed with immediate notifications on gate changes and check-in details, and share your flight status with friends or family awaiting your arrival. 📌</li>\n</ul>\n<h4>Pros</h4>\n<ul>\n<li>👍 <strong>Travel Simplification:</strong> Manage all your flight details and preferences without having to contact customer service or visit a travel agent. </li>\n<li>👍 <strong>Eco-Friendly:</strong> Eliminates the need for paper boarding passes and check-in forms, contributing to a greener travel experience. </li>\n<li>👍 <strong>Instant Access to Loyalty Perks:</strong> Direct access to your Flying Blue account makes it easy to benefit from and manage your travel rewards.</li>\n<li>👍 <strong>Enhanced Communication:</strong> Real-time notifications and the ability to share updates offer peace of mind for both travelers and loved ones. </li>\n</ul>\n<h4>Cons</h4>\n<ul>\n<li>👎 <strong>Internet Dependency:</strong> Requires an internet connection for real-time updates and access to your digital documents which may be unavailable or costly during international travel.</li>\n<li>👎 <strong>Device Compatibility:</strong> May not provide optimal experience on all devices due to varying screen sizes and operating system versions. </li>\n<li>👎 <strong>Learning Curve:</strong> New users might need some time to navigate and utilize all the app's rich functions effectively.</li>\n<li>👎 <strong>Notification Overload:</strong> The convenience of real-time updates may lead to a high volume of notifications, which can be overwhelming for some users.</li>\n</ul>\n<h4>Price</h4>\n<p>💵 The KLM app is free to download and use, with potential in-app purchases for additional travel accommodations and services tailored to enhance your flying experience.</p>\n<p><a href=\"https://play.google.com/store/apps/details?id=com.afklm.mobile.android.gomobile.klm\" rel=\"noopener noreferrer\" target=\"_blank\">Download the KLM app</a> and embark on a journey where convenience meets luxury, all wrapped up in the best travel companion you can have on your mobile device.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-bp-app-bpme-global-ros/16042.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.bp.app.bpme.global.ros.png",
+      "name": "earnify",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/kulana-tools-vacationcountdown/10380.html",
+      "icon": "https://img.buzzsight.co/apk/icon/kulana.tools.vacationcountdown.png",
+      "name": "Vacation Countdown App",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-disney-playdisneyparks-goo/4681.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.disney.playdisneyparks.goo.png",
+      "name": "Play Disney Parks",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-hornblower-statuecruises/4679.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.hornblower.statuecruises.png",
+      "name": "Statue Cruises",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-usnpw-grca/4678.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.usnpw.grca.png",
+      "name": "Grand Canyon National Park",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/MakeMyTrip-Hotels-Flight-Bus/4591.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.makemytrip.png",
+      "name": "MakeMyTrip Hotels, Flight, Bus",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/ConfirmTkt/4570.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.confirmtkt.lite.png",
+      "name": "ConfirmTkt",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/Bus-Train-Ticket-Booking-App/4503.html",
+      "icon": "https://img.buzzsight.co/apk/icon/in.redbus.android.png",
+      "name": "Bus, Train Ticket Booking App",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.9"
+    }
+  ]
+}

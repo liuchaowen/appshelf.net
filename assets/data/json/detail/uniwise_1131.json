@@ -1,0 +1,109 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/za.co.uniwise.png",
+    "title": "UniWise",
+    "ratings": "4.2",
+    "downloads": "950M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "UniWise"
+    },
+    {
+      "name": "category",
+      "value": "Education"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "OGO Studio"
+    },
+    {
+      "name": "Version",
+      "value": "4.2.1"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/LfvJpLEqDD4-uQcGVQd1PuD4p-MR5x0jiyYxJWbLwvFlsWsKGXkmC7pRlha9P4kE4ucL",
+    "https://play-lh.googleusercontent.com/sV9144pMq8kyFumOiTE663B92vHErGyKwAf8it3DRt-p9YTb1HaHCwDKWPHRxMPFW0k",
+    "https://play-lh.googleusercontent.com/hMX2FMqVp0uNvA7Dwmu4mDQTwOIUxMFioeIuxgZAnOG6sqc34t4Aer8RmfZKIbzYrQ",
+    "https://play-lh.googleusercontent.com/dTSKJQxxCT4J97y4eXJsocQ8WIrSRvudL7QcnsD8JqAYktoKMe9yZN9bYoUDWZ09sg",
+    "https://play-lh.googleusercontent.com/DyawrY_YvYT5COm8dJ0CBzr5_3Jrg6LwINQo_YaJYN44adMWkWeuu6YsMkg6CF1hCmI"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> UniWise<br/>\n<strong>Package Name:</strong> za.co.uniwise</p>\n<h3>Brief:</h3>\n<p>UniWise is a comprehensive educational app geared towards prospective students in South Africa. It serves as a one-stop resource for future university applicants, providing detailed information about courses, universities, and application deadlines.</p>\n<h3>Core Features:</h3>\n<ul>\n<li>📚 <strong>Course Finder</strong>: Discover courses you qualify for across various universities.</li>\n<li>🏫 <strong>APS Calculator</strong>: Calculate your Admission Point Score (APS) for different institutions.</li>\n<li>📖 <strong>Prospectus Access</strong>: View different universities' prospectuses and minimum course requirements.</li>\n<li>⏰ <strong>Application Tracker</strong>: Keep track of closing dates for applications to universities and colleges. 📅</li>\n</ul>\n<h3>Pros:</h3>\n<ul>\n<li>👍 <strong>Wide University Coverage</strong>: Includes a comprehensive list of major universities and technical colleges in South Africa.</li>\n<li>👍 <strong>Real-time Updates</strong>: Get the most recent information on course details and application deadlines.</li>\n<li>👍 <strong>User-Friendly Interface</strong>: Easily navigate through the app to find the information you need about higher education.</li>\n<li>👍 <strong>No Cost</strong>: Free access without the need for any subscriptions. 🆓</li>\n</ul>\n<h3>Cons:</h3>\n<ul>\n<li>👎 <strong>Regional Limitation</strong>: Primarily services South African institutions, which may not be beneficial for international students.</li>\n<li>👎 <strong>Internet Dependent</strong>: Requires a stable internet connection to access updated content and features.</li>\n<li>👎 <strong>Device Compatibility</strong>: May not have optimized performance across all mobile devices.</li>\n</ul>\n<h3>Price:</h3>\n<p>💵 The UniWise app is free to use. No subscription or in-app purchases are necessary to access its features.</p>\n<p>Please refer to the links below for more information on UniWise's offered features and services:</p>\n<ul>\n<li><a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Official Website</a> Not provided.</li>\n<li><a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">YouTube</a> Not provided.</li>\n<li><a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Popular YouTubers</a> Not provided.</li>\n<li><a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Instagram</a> Not provided.</li>\n<li><a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a> Not provided.</li>\n<li><a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Discord</a> Not provided.</li>\n<li><a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Facebook</a> Not provided.</li>\n<li><a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">TikTok</a> Not provided.</li>\n<li><a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Reddit</a> Not provided.</li>\n<li><a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Fandom Wiki</a> Not provided.</li>\n</ul>\n<p>The description above provides a comprehensive look at what the UniWise app offers to students looking for higher education options in South Africa. With a focus on user accessibility and relevant educational resources, UniWise can streamline the daunting process of selecting and applying to a university.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-nibble-lesson/54302.html",
+      "icon": "assets/img/apk/icon/com.nibble.lesson.png",
+      "name": "Nibble: Your Bite of Knowledge",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-matlubapps-myiq/54109.html",
+      "icon": "assets/img/apk/icon/com.matlubapps.myiq.png",
+      "name": "IQ & Personality Tests: IQlab",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-home-lifehealthinsurance/48965.html",
+      "icon": "assets/img/apk/icon/com.home.lifehealthinsurance.png",
+      "name": "Life & Health Insurance Exam",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "3.5"
+    },
+    {
+      "link": "/details/pp-paramedic/48959.html",
+      "icon": "assets/img/apk/icon/pp.paramedic.png",
+      "name": "Paramedic Test Prep 2026",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "3.9"
+    },
+    {
+      "link": "/details/org-truthforlife-app/48953.html",
+      "icon": "assets/img/apk/icon/org.truthforlife.app.png",
+      "name": "Truth For Life",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-habapps-perstest/39344.html",
+      "icon": "assets/img/apk/icon/com.habapps.perstest.png",
+      "name": "The Personality Test",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-schooltoday-alphaomega/39316.html",
+      "icon": "assets/img/apk/icon/com.schooltoday.alphaomega.png",
+      "name": "Alpha & Omega",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-lucida-androidapp/34758.html",
+      "icon": "assets/img/apk/icon/com.lucida.androidapp.png",
+      "name": "Learn Languages - Lucida AI",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "4.6"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/power-battery.png",
+    "title": "Power Battery",
+    "ratings": "4.1",
+    "downloads": "420M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Power Battery"
+    },
+    {
+      "name": "category",
+      "value": "Tools"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "LIONMOBI"
+    },
+    {
+      "name": "Version",
+      "value": "1.3.1"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h3>Power Battery – Ultimate Battery Saver &amp; Monitor</h3>\n<p><strong>Brief:</strong>\nPower Battery serves as your smartphone's energy sentinel, offering a comprehensive battery management service. This app not only predicts your battery's lifespan with precision for various activities, but also commands an arsenal of tools to prolong your device's power reserve. Embark on digital adventures, binge-watch your favorite shows, or groove to endless music with confidence about how long your phone will keep up.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li><strong>Accurate Battery Life Estimation:</strong> Get specific time predictions for gaming, video watching, or music listening based on your current battery level 🔋.</li>\n<li><strong>One-Tap Power Saving:</strong> Instantly save battery with just one tap, efficiently managing all running applications to maximize battery life🔌.</li>\n<li><strong>Junk Cleaning:</strong> Wipe away system clutter to further extend your battery duration and enhance device performance🧹.</li>\n<li><strong>Comprehensive Device Information:</strong> Access in-depth details about your device's software, hardware, and battery temperature⚙️.</li>\n<li><strong>Charging Booster:</strong> Experience speedy and efficient charging with methods tailored to suit your device's needs, including Speed, Continuous, and Trickle charging options⚡️.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li><strong>Convenient Battery Optimization:</strong> Simplify your power management with automation and easy operational features👍.</li>\n<li><strong>Enhanced Device Longevity:</strong> Keep your device running smoothly for longer periods by minimizing the battery drain💪.</li>\n<li><strong>Detailed System Insights:</strong> Gain valuable information about your device's health and makeup🛠️.</li>\n<li><strong>Versatile Charging Options:</strong> Select from multiple charging techniques to safeguard your battery life while charging quickly🔝.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li><strong>Potential Over-cleaning:</strong> Users may need to ensure important system files are not accidentally removed during the cleaning process🗑️.</li>\n<li><strong>Battery Drain from App Itself:</strong> The app could consume some battery while running its various services🔋.</li>\n<li><strong>Ads and Promotions:</strong> The app may display advertisements, affecting user experience unless upgraded or removed through in-app purchases📢.</li>\n<li><strong>Compatibility Issues:</strong> Some features might not work optimally on all types of devices or operating systems📱.</li>\n</ul>\n<p><strong>Price:</strong>\nPower Battery is a free-to-download app, although it might include in-app purchases for unlocking premium features or removing ads💸.</p>\n<p>Crafted with great detail, Power Battery is an indispensable companion for any smartphone user seeking to extend their device's energy span and optimize overall performance. Download now and take the first step towards efficient and insightful battery management.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-antique-snap-identifier-appraisal/54309.html",
+      "icon": "assets/img/apk/icon/com.antique.snap.identifier.appraisal.png",
+      "name": "Antique Identifier - Appraisal",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-age-calculator-life-countdown/54243.html",
+      "icon": "assets/img/apk/icon/com.age.calculator.life.countdown.png",
+      "name": "Age Calculator・Life Expectancy",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.4"
+    },
+    {
+      "link": "/details/com-xv-agecalc/54237.html",
+      "icon": "assets/img/apk/icon/com.xv.agecalc.png",
+      "name": "AgeCalc: Date Life Calculator",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-palm-ai-decode-destiny-soul-futurelines-handline/54206.html",
+      "icon": "assets/img/apk/icon/com.palm.ai.decode.destiny.soul.futurelines.handline.png",
+      "name": "Palm AI: Decode Destiny",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/rbx-robuxcalc-getrbx-freecounter/53839.html",
+      "icon": "assets/img/apk/icon/rbx.robuxcalc.getrbx.freecounter.png",
+      "name": "RBX Calc - Get Robuxcounter",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-internetoptimizer-speedtest-wifispeedtest-netspeed-wifipassword-wifispeed/49027.html",
+      "icon": "assets/img/apk/icon/com.internetoptimizer.speedtest.wifispeedtest.netspeed.wifipassword.wifispeed.png",
+      "name": "Internet Optimizer",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.9"
+    },
+    {
+      "link": "/details/com-blazingappstudio-speed_test_pro/49021.html",
+      "icon": "assets/img/apk/icon/com.blazingappstudio.speed_test_pro.png",
+      "name": "Speed Test - Wifi Optimizer",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-secret-camera-hidden-detector/39728.html",
+      "icon": "assets/img/apk/icon/com.secret.camera.hidden.detector.png",
+      "name": "Hidden Camera & IR Detector",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    }
+  ]
+}

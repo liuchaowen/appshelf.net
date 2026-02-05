@@ -1,0 +1,111 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/shareit.lite.png",
+    "title": "SHAREit Lite",
+    "ratings": "4.4",
+    "downloads": "550M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "SHAREit Lite"
+    },
+    {
+      "name": "category",
+      "value": "Productivity"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Smart Media4U Technology Pte.Ltd."
+    },
+    {
+      "name": "Version",
+      "value": "3.5.28"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/UXUNbS0aak0XM1pkOTcB_-wDmZOaSNKetG6zC_TM5o6OPtRIDYfkZ_GitZSs7QhhMfsH",
+    "https://play-lh.googleusercontent.com/FDfhO8GCA-8cgh1sESE8_vRQuOFMwYg4janIJWsesGxiOJwkai3UnYJitMoCslr1xAm0",
+    "https://play-lh.googleusercontent.com/QT556YrPeZSPIIimnHvNZB8d90OY-vF4nrvc2yGpNuaAHonhMK9--ojLrMqxZIf10G-0",
+    "https://play-lh.googleusercontent.com/GJPj7bw4d6VZGzVCHt9XAXL926Q0RHRz901-8fEE4l7aTdu7FmwSlq9R9OP3dTdznVI",
+    "https://play-lh.googleusercontent.com/tZ_Bu9IoqywxJ97qoLXULoU7PzdZ0DHRkDXHwJFsqULM7Wow64DGi_35hKOjUEJgqm-u",
+    "https://play-lh.googleusercontent.com/9jr1DkEY8e2kwh3wr3Cm4CcQs8BFGWMnA8WVeqWD-ihcIW9ZgFYoJGXcKcrKrbOC6eQ",
+    "https://play-lh.googleusercontent.com/JOOBEU4m2c-IA6AmShno-Qt6dmdcEFLmjD4ktWyXospAKfw3aWSdGc8h32yfsTDNiyZL"
+  ],
+  "app_descript": "<p><strong>App Name</strong>: SHAREit Lite</p>\n<p><strong>Brief</strong>:\nSHAREit Lite is a streamlined app designed for users who need to transfer files swiftly and effortlessly between devices, eliminating the obstacles of distance, file size, and type. Its main selling point is its ability to operate without an internet connection, employing user-friendly, ad-free interfaces to enhance file-sharing experiences with remarkable speed.</p>\n<p><strong>Core Features</strong>:</p>\n<ul>\n<li>📱 <strong>100% SHAREit</strong>: Facilitates face-to-face file transfer with lighting speed, independent of an internet connection. 🌐</li>\n<li>🚫 <strong>Ad-Free Interaction</strong>: Delivers an uninterrupted file-sharing environment, prioritizing user convenience and simplicity. 🛠️</li>\n<li>🕒 <strong>Round-the-Clock Sharing</strong>: Ensures files can be shared with friends at any time, fostering constant connectivity. 🤝</li>\n<li>📂 <strong>Versatile File Types</strong>: Supports sharing of various file types — photos, videos, music, documents, and more without compromising quality. 🎨</li>\n<li>📦 <strong>Unlimited File Size</strong>: Offers the ability to share files of any size, perfect for movies, large video files, and comprehensive documents. 📈</li>\n<li>🗂️ <strong>Bulk Transfers</strong>: Accommodates sending multiple files in one go, such as entire albums, document collections, and larger media sets. 📚</li>\n</ul>\n<p><strong>Pros</strong>:</p>\n<ul>\n<li>👍 <strong>Freedom of File Transfer</strong>: No restrictions on types or sizes of files being transferred, providing complete flexibility. 💾</li>\n<li>👍 <strong>Privacy Compliant</strong>: Accesses only essential system permissions, ensuring no overreach into unnecessary personal data. 🔒</li>\n<li>👍 <strong>User-Friendly Design</strong>: Intuitive interface that is simple to navigate for all users irrespective of their tech savviness. 🛠️</li>\n<li>👍 <strong>Proximity Features</strong>: Uses location and Bluetooth to efficiently find nearby users for quick connection and transfer. 📍</li>\n</ul>\n<p><strong>Cons</strong>:</p>\n<ul>\n<li>👎 <strong>Permission Access</strong>: Requires several system permissions which may raise concerns among privacy-conscious users. 🚨</li>\n<li>👎 <strong>Device Compatibility</strong>: Performance may vary on different devices, potentially limiting functionality. 📲</li>\n<li>👎 <strong>Background Resource Usage</strong>: May utilize resources in the background to maintain high-speed functionality, affecting device performance. 🔋</li>\n<li>👎 <strong>Location Dependency</strong>: Sharing efficiency relies on enabling location services, which might not be desirable for all users. 🗺️</li>\n</ul>\n<p><strong>Price</strong>:</p>\n<ul>\n<li>💵 The app is free to download and use, ensuring accessible file sharing for everyone. There may be additional costs associated with data transfer if used without a WiFi connection. 🆓</li>\n</ul>\n<p><strong>Community</strong>:\nUnfortunately, my current programming does not allow me to integrate dynamic, real-time data for community dimensions related to SHAREit Lite. Therefore, I am unable to provide links or information about the app's official site, social media channels, or community platforms.</p>\n<hr/>\n<p>Please note that the descriptions and information provided are based on the app summary and app name given, using data up to my last update. For the latest information and community updates, it is recommended to refer to official sources and service providers.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-takeofflabs-fontmaker/54188.html",
+      "icon": "assets/img/apk/icon/com.takeofflabs.fontmaker.png",
+      "name": "Fontmaker - Font Keyboard App",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-game-console-emulator/39577.html",
+      "icon": "assets/img/apk/icon/com.game.console.emulator.png",
+      "name": "Gamu: Retro Game Hub",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/app-itwingtech-power_of_mind-predicator/39340.html",
+      "icon": "assets/img/apk/icon/app.itwingtech.power_of_mind.predicator.png",
+      "name": "Mind Test: Test My Brain",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-pdfreader-pdfeditor-scandocu-pro-app-amb/16953.html",
+      "icon": "assets/img/apk/icon/com.pdfreader.pdfeditor.scandocu.pro.app.amb.png",
+      "name": "PDFPro: Scanner & Editor",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "3.8"
+    },
+    {
+      "link": "/details/ai-perplexity-app-android/16744.html",
+      "icon": "assets/img/apk/icon/ai.perplexity.app.android.png",
+      "name": "Perplexity - Ask Anything",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-safeshellvpn/16639.html",
+      "icon": "assets/img/apk/icon/com.safeshellvpn.png",
+      "name": "SafeShell VPN: Fast & Secure",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-roblox-skin-cloth-freeskins/16603.html",
+      "icon": "assets/img/apk/icon/com.roblox.skin.cloth.freeskins.png",
+      "name": "Clothes Skin For Roblox",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-underthing-focus-friend/16526.html",
+      "icon": "assets/img/apk/icon/com.underthing.focus.friend.png",
+      "name": "Focus Friend by Hank Green",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.7"
+    }
+  ]
+}

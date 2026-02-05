@@ -1,0 +1,108 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.ananinja.lava.png",
+    "title": "Ninja Grocery",
+    "ratings": "4.6",
+    "downloads": "650M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Ninja Grocery"
+    },
+    {
+      "name": "category",
+      "value": "Food & Drink"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Ana Ninja"
+    },
+    {
+      "name": "Version",
+      "value": "1.28"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/07KdzP0t1ouVJm03YkaViWAc0eeXenbg656fkGX6SyxnVPGafLboLwcfMSYIGLhx4-qt",
+    "https://play-lh.googleusercontent.com/LmeCnexOY7KrmdSMny70ocrvqI775-AR1A1AoiVPeFxK_NnwOLpmeDyh7hojlhi0AMM",
+    "https://play-lh.googleusercontent.com/bwPsu-ni_gEVcTArT7MnfNJtQ1IOwAg09x6_viFKjYHUKPvH2LvM1wR3f0_FBAbZWDyN",
+    "https://play-lh.googleusercontent.com/aLFB2LGr__KbYexBIKPkgKbTRr7zTt9qseJbpiYtvLnlhoKLk1w87a4vTkb9foT579E4"
+  ],
+  "app_descript": "<h3>Brief</h3>\n<p>Ninja Grocery is your swift and efficient companion for grocery shopping right from the comfort of your home. This app brings the supermarket to your doorstep, offering a wide array of more than 7,000 products ranging from fresh produce to household necessities. Designed for convenience, it promises fast delivery and straightforward payment options, ensuring you can have your groceries delivered anytime, anywhere in selected Saudi Arabian regions.</p>\n<h3>Core Features</h3>\n<ul>\n<li><strong>Fast Delivery</strong>: Expect your groceries at lightning speed with our dedicated rider crew delivering orders swiftly 🚀.</li>\n<li><strong>Extensive Selection</strong>: Browse over 7,000 products spanning fruits, meats, baked goods, household items, and more 🛒.</li>\n<li><strong>Seamless Payment</strong>: Enjoy hassle-free checkout with support for major credit cards and mobile payment solutions 💳.</li>\n<li><strong>Competitive Pricing</strong>: Shop with peace of mind as all products are offered at retail prices, ensuring no markups 🏷️.</li>\n</ul>\n<h3>Pros</h3>\n<ul>\n<li><strong>Diverse Range</strong>: Access a broad selection of groceries, including organic fruits, fresh bakery items, and essential toiletries 👌.</li>\n<li><strong>24/7 Service</strong>: The app operates around the clock, ready to take your orders at any given moment, any day of the week 🕒.</li>\n<li><strong>Convenience at Home</strong>: Simplify your grocery shopping with a user-friendly interface and home delivery feature 🏠.</li>\n<li><strong>Promised Availability</strong>: Service currently covers key regions such as Riyadh, Jeddah, Eastern Province, Mecca, with plans to expand further 🔍.</li>\n</ul>\n<h3>Cons</h3>\n<ul>\n<li><strong>Limited Reach</strong>: Currently available only in specific regions within the Kingdom of Saudi Arabia, not accessible to everyone yet 🗺️.</li>\n<li><strong>Overwhelming Choices</strong>: The sheer number of products might be daunting for some users to navigate 🤯.</li>\n<li><strong>Dependence on Riders</strong>: Delivery speed is contingent on rider availability and can be affected during peak times ⏱️.</li>\n<li><strong>Internet Reliant</strong>: Requires a stable internet connection to browse and place orders, which could be a limitation in some areas 🌐.</li>\n</ul>\n<h3>Pricing</h3>\n<p>💵 Ninja Grocery application is free to download and use. However, prices of products are as per retail rates, and the app may include delivery charges, which will be visible at checkout.</p>\n<h3>Community</h3>\n<p>Since Ninja Grocery is a non-game app, the community aspect is not applicable.</p>\n<p>Embark on your hassle-free grocery shopping journey with Ninja Grocery - where choice, convenience, and speed are at the heart of your experience.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-buzzfeed-tasty/16927.html",
+      "icon": "assets/img/apk/icon/com.buzzfeed.tasty.png",
+      "name": "Tasty",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-hacklatino-chingon-android/15837.html",
+      "icon": "assets/img/apk/icon/com.hacklatino.chingon.android.png",
+      "name": "Hack Latino",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-postmates-android/4464.html",
+      "icon": "assets/img/apk/icon/com.postmates.android.png",
+      "name": "Postmates - Food Delivery",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-seamlessweb-android-view/4463.html",
+      "icon": "assets/img/apk/icon/com.seamlessweb.android.view.png",
+      "name": "Seamless: Local Food Delivery",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-trycaviar-customer/4462.html",
+      "icon": "assets/img/apk/icon/com.trycaviar.customer.png",
+      "name": "Caviar - Order Food Delivery",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-chownow-discover/4461.html",
+      "icon": "assets/img/apk/icon/com.chownow.discover.png",
+      "name": "ChowNow: Local Food Ordering",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-toasttab-consumer/4460.html",
+      "icon": "assets/img/apk/icon/com.toasttab.consumer.png",
+      "name": "Toast Takeout & Delivery",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/menulog-au/3667.html",
+      "icon": "assets/img/apk/icon/com.menulog.m.png",
+      "name": "Menulog AU",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.2"
+    }
+  ]
+}

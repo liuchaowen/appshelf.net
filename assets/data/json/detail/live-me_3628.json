@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/live-me.png",
+    "title": "Live.me",
+    "ratings": "4.2",
+    "downloads": "990M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Live.me"
+    },
+    {
+      "name": "category",
+      "value": "Social"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Live.me Broadcast"
+    },
+    {
+      "name": "Version",
+      "value": "3.0.6"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>Brief:</strong>\nLive.me is an enthralling live-streaming platform that connects viewers with personalities and content creators across the globe. Catering to a wide audience, the app provides a smooth and interactive experience for users looking to broadcast live, engage with superstars, and share their special moments with friends and the broader community.</p>\n<p><strong>Core Features:🌟</strong></p>\n<ul>\n<li>⭐ <strong>Celebrity Broadcasts</strong>: Engage in live sessions with various superstars, celebrities, and famous YouTubers. </li>\n<li>⭐ <strong>Direct Participation</strong>: Exercise your voting power to choose the next star you wish to see live on the app.</li>\n<li>⭐ <strong>Seamless Streaming</strong>: Broadcast easily and reach your audience with just a touch.</li>\n<li>⭐ <strong>Interactive Gifts</strong>: Send virtual gifts such as teddy bears to express your support and enjoy a fun, engaging audience experience.</li>\n<li>⭐ <strong>Social Media Integration</strong>: Effortlessly share your favorite moments on Facebook, Twitter, Instagram, Snapchat, and more.</li>\n</ul>\n<p><strong>Pros: 👍</strong></p>\n<ul>\n<li>👍 <strong>Community Engagement</strong>: Create connections with new friends who share similar interests and personalities.</li>\n<li>👍 <strong>Monetization Feature</strong>: Receive gifts during your broadcasts that can be converted into diamonds, and subsequently, real money.</li>\n<li>👍 <strong>Creative Tools</strong>: Access an assortment of stickers, makeup, and filter effects to enhance broadcasts.</li>\n<li>👍 <strong>Content Discovery</strong>: Utilize the hashtag search functionality to discover videos that cater to your preferences.</li>\n</ul>\n<p><strong>Cons: 👎</strong></p>\n<ul>\n<li>👎 <strong>Learning Curve</strong>: New users might require some time to navigate and utilize all the platform's features effectively.</li>\n<li>👎 <strong>Data Privacy</strong>: Sharing on multiple social platforms may raise concerns about data security and privacy.</li>\n<li>👎 <strong>In-app Purchases</strong>: To send gifts or access certain features, users may need to make in-app purchases.</li>\n<li>👎 <strong>Internet Dependency</strong>: Quality of streaming is heavily dependent on internet connection strength.</li>\n</ul>\n<p><strong>Price: 💵</strong>\nThe Live.me app is free to download and use. However, in-app purchases are available for users who want to send gifts or utilize advanced features, although pricing details were not provided.</p>\n<p><strong>Community: 🕸️</strong></p>\n<ul>\n<li>Official site: <a href=\"https://www.liveme.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Live.me</a></li>\n<li>YouTube: Content about Live.me can sometimes be found on <a href=\"https://www.youtube.com\" rel=\"noopener noreferrer\" target=\"_blank\">YouTubers'</a> channels.</li>\n<li>Instagram: Follow Live.me-related posts on <a href=\"https://www.instagram.com\" rel=\"noopener noreferrer\" target=\"_blank\">Instagram</a>.</li>\n<li>Twitter: Get updates from <a href=\"https://www.twitter.com\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a>.</li>\n<li>Facebook: Join conversations on Live.me's <a href=\"https://www.facebook.com\" rel=\"noopener noreferrer\" target=\"_blank\">Facebook</a> page.</li>\n<li>Discord, TikTok, Reddit and Fandom Wiki Site: Currently, no specific links are available.</li>\n</ul>\n<p>Embark on a social journey with Live.me, create memorable experiences, and possibly even monetize your content. Whether you're into casual streaming or aspiring to be the next big internet sensation, Live.me offers the platform to make it happen.</p>",
+  "related_apps": [
+    {
+      "link": "/details/jp-cocone-livly/54171.html",
+      "icon": "https://img.buzzsight.co/apk/icon/jp.cocone.livly.png",
+      "name": "Livly Island - Adopt Cute Pets",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-daily-festival-photos/39721.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.daily.festival.photos.png",
+      "name": "Daily Festival Photo",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/tv-medal-recorder/39573.html",
+      "icon": "https://img.buzzsight.co/apk/icon/tv.medal.recorder.png",
+      "name": "Medal - Gaming Clips",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-ptanktechnology-reincornation/39352.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.ptanktechnology.reincornation.png",
+      "name": "Reincarnation",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-tiktok-lite-go/15392.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.tiktok.lite.go.png",
+      "name": "TikTok Lite - Faster TikTok",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-petmeetly/15275.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.petmeetly.png",
+      "name": "Petmeetly - Pet's Match Finder",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-xingin-xhs/14603.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.xingin.xhs.png",
+      "name": "REDnote—小红书国际版",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-stdev-dissordap/10395.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.stdev.dissordap.png",
+      "name": "Vote Social - Photo Voting VS",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "3.8"
+    }
+  ]
+}

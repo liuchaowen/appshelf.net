@@ -1,0 +1,108 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.shopmium.png",
+    "title": "Shopmium",
+    "ratings": "3.9",
+    "downloads": "810M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Shopmium"
+    },
+    {
+      "name": "category",
+      "value": "Shopping"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Shopmium"
+    },
+    {
+      "name": "Version",
+      "value": "6.0.7"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/tUJVoEePT7evstAvCqucfpyk5IVDZLSt1G97p-GBupUQ3AuM8bIAa_dfcsJlfRTBlUtH",
+    "https://play-lh.googleusercontent.com/BL3BSlbQp6VzOP1PwiBcVIe6WGG7P2lLRQ9jl_oQPF-9gH3FXWfSfnREQEQoWcS-41k",
+    "https://play-lh.googleusercontent.com/gkpJ0PR2adx-zP3mt8v3ircfmRaLdal_sJQ-s0C69ASfZNQQx9b7Rk8f5SEPONjxYw",
+    "https://play-lh.googleusercontent.com/D9FSFTZDM3jyPC_j0n3cyge2Qqi84LjjuKzvDCwgjNtdAL_hC3guVxHi8bQglg5pzstL"
+  ],
+  "app_descript": "<h3>Shopmium</h3>\n<p><strong>Brief:</strong>\nShopmium is an innovative cash-back and savings platform used by over 8 million savvy shoppers looking to stretch their budgets. This free app allows users to earn cash back on their everyday purchases, ranging from snacks and beverages to beauty products and pet supplies, seamlessly integrating product discovery with savings.</p>\n<h4><strong>📌 Core Features:</strong></h4>\n<ul>\n<li><strong>Exclusive Deals:</strong> Access a range of cash-back deals across various brands and categories within the app 🛍️.</li>\n<li><strong>Location-Based Offers:</strong> Use the location feature to see which deals are available in nearby stores or online 📡.</li>\n<li><strong>Receipt Submission:</strong> Easily submit proof of purchase by snapping a photo of your receipt or uploading a PDF if shopping online 🧾.</li>\n<li><strong>Simple Barcode Scanning:</strong> Verify your purchases by scanning product barcodes effortlessly 📸.</li>\n<li><strong>Quick Cash Back:</strong> Receive cash back directly to your PayPal account, usually within 48 hours, and enjoy the flexibility to use it whenever you like 💰.</li>\n</ul>\n<h4><strong>👍 Pros:</strong></h4>\n<ul>\n<li><strong>Variety of Savings:</strong> Users enjoy a wide selection of discounts on numerous brands and categories 🌟.</li>\n<li><strong>User-Friendly Interface:</strong> The app is easy to navigate, making deal activation and offer redemptions a breeze 📱.</li>\n<li><strong>Instant Location Checks:</strong> Determine product availability with a convenient location feature before making a purchase 📍.</li>\n<li><strong>Fast Payment Processing:</strong> Most cash back payments are promptly processed within two days 👍.</li>\n<li><strong>Cash Accessibility:</strong> Withdraw your savings from PayPal whenever needed, providing financial flexibility 💸.</li>\n</ul>\n<h4><strong>👎 Cons:</strong></h4>\n<ul>\n<li><strong>Receipt Dependence:</strong> You must keep and submit receipts to prove purchases, which could be inconvenient for some users 📄.</li>\n<li><strong>Barcode Scanning Required:</strong> Each product for cash back offers requires scanning, adding an additional step in the process 🔍.</li>\n<li><strong>Limited to Participating Brands:</strong> Discount offers are only available for specific brands and may exclude others 🚫.</li>\n<li><strong>PayPal Requirement:</strong> Cash back is only issued through PayPal, which might not suit users who prefer other payment methods 🔄.</li>\n<li><strong>Geo-Restrictions:</strong> Offers may vary based on location, which can limit the deals available to users in certain areas 🗺️.</li>\n</ul>\n<h4><strong>💵 Price:</strong></h4>\n<p>Shopmium is a free app, designed to help users save money without any upfront costs. While the app itself does not charge its users, it operates on the premise of rewarding purchases with cash back, meaning you'll need to spend to earn savings.</p>\n<p><em>(Note: Since Shopmium is not a game app, the community section is not included.)</em></p>\n<hr/>\n<p>Download Shopmium now to join millions of users who are effortlessly saving money on everyday items with just a few taps on their smartphones! 🛒📲</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-seagm-store/54458.html",
+      "icon": "assets/img/apk/icon/com.seagm.store.png",
+      "name": "SEAGM - Games Topup, Gift Card",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-gowish-app/39285.html",
+      "icon": "assets/img/apk/icon/com.gowish.app.png",
+      "name": "GoWish - Your Digital Wishlist",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-aldisued-shopgo/16934.html",
+      "icon": "assets/img/apk/icon/com.aldisued.shopgo.png",
+      "name": "ALDI SHOP&GO",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.2"
+    },
+    {
+      "link": "/details/com-wakefern-shoprite/16933.html",
+      "icon": "assets/img/apk/icon/com.wakefern.shoprite.png",
+      "name": "ShopRite: Groceries & Savings",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-yaxo-vancamper/16894.html",
+      "icon": "assets/img/apk/icon/com.yaxo.vancamper.png",
+      "name": "Vancamper: Buy sell campervans",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/com-elfster-elfdroid/16861.html",
+      "icon": "assets/img/apk/icon/com.elfster.elfdroid.png",
+      "name": "Elfster: The Secret Santa App",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-biggu-shopsavvy/16860.html",
+      "icon": "assets/img/apk/icon/com.biggu.shopsavvy.png",
+      "name": "ShopSavvy - Barcode Scanner",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/moloapps-gifttracker/16845.html",
+      "icon": "assets/img/apk/icon/moloapps.gifttracker.png",
+      "name": "GiftTracker : Gift List Helper",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.1"
+    }
+  ]
+}

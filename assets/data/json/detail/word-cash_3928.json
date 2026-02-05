@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.tgd.wordcash.png",
+    "title": "Word Cash",
+    "ratings": "4.5",
+    "downloads": "720M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Word Cash"
+    },
+    {
+      "name": "category",
+      "value": "Word"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Puzzle Free Game"
+    },
+    {
+      "name": "Version",
+      "value": "1.9.0"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> Word Cash</p>\n<p><strong>App Package Name:</strong> com.tgd.wordcash</p>\n<h3>Brief:</h3>\n<p>Delve into the lexicon labyrinth with Word Cash, a captivating word puzzle game where spelling skills pay off—literally! Aimed for all ages, this brain-teasing adventure rewards your lexicon prowess with tangible cash rewards as you conquer each challenging level. Put your vocabulary to the test, and enjoy a rewarding and stimulating experience with every word you uncover. 📘</p>\n<h3>Core Features:</h3>\n<ul>\n<li>🆓 <strong>Free Gameplay:</strong> Engage in word-finding fun without spending a penny.</li>\n<li>🎯 <strong>Word-Solving Aid:</strong> Get hints for the number of words needed to progress.</li>\n<li>🏆 <strong>Generous Rewards:</strong> Earn additional bonuses for discovering correct words.</li>\n<li>🔍 <strong>Helpful Tools:</strong> Utilize in-game tools to unveil the right words.</li>\n<li>🔄 <strong>Letter Manipulation:</strong> Rearrange letter blocks to achieve level completion.</li>\n<li>🧠 <strong>Intellectual Challenge:</strong> Offers a brain-stimulating environment that's both entertaining and rewarding.</li>\n</ul>\n<h3>Pros:</h3>\n<ul>\n<li>👍 <strong>No Time Restrictions:</strong> Play at your own pace, anytime and anywhere without the pressure of a ticking clock.</li>\n<li>👍 <strong>Educational and Fun:</strong> Ideal for a wide age range, the game is as suitable for children as it is for adults.</li>\n<li>👍 <strong>Earnings Opportunity:</strong> Acquire tangible rewards that can be exchanged for cash as you play.</li>\n<li>👍 <strong>Aesthetic Themes:</strong> Beautifully crafted themes enhance the overall gaming experience.</li>\n<li>👍 <strong>Competitive Edge:</strong> Challenge friends and improve cognitive abilities like memory and thinking.</li>\n</ul>\n<h3>Cons:</h3>\n<ul>\n<li>👎 <strong>Potential for Reward-based Competition:</strong> Players might prioritize earning rewards over the joy of learning.</li>\n<li>👎 <strong>Internet Dependency:</strong> Requires an internet connection for most features and updates.</li>\n<li>👎 <strong>Limited Gameplay Variation:</strong> While the levels are challenging, some players may find the word puzzle format repetitive over time.</li>\n<li>👎 <strong>Accountability for Rule Adherence:</strong> Users must adhere to strict guidelines to be eligible for rewards, which may dampen the carefree gaming spirit for some.</li>\n<li>👎 <strong>Privacy Concerns:</strong> Although there's an assurance of legal data use, players should meticulously review the privacy policy.</li>\n</ul>\n<h3>Price:</h3>\n<ul>\n<li>💵 <strong>Completely Free:</strong> This game does not have any in-app purchases. Enjoy the full experience without monetary investment.</li>\n</ul>\n<h3>Community:</h3>\n<ul>\n<li>🕸️ <a href=\"http://www.wordcash.club\" rel=\"noopener noreferrer\" target=\"_blank\">Official Website</a></li>\n<li>🕸️ <a href=\"http://www.wordcash.club/privacy_policy.html\" rel=\"noopener noreferrer\" target=\"_blank\">Privacy Policy</a></li>\n<li>🕸️ <a href=\"http://www.wordcash.club/tos.html\" rel=\"noopener noreferrer\" target=\"_blank\">Terms of Service</a></li>\n</ul>\n<p>Download Word Cash now to jump-start your brain with an enriching and potentially lucrative spelling spree!</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-yourname-yourstory/39358.html",
+      "icon": "assets/img/apk/icon/com.yourname.yourstory.png",
+      "name": "Your Story",
+      "categoryLink": "/en/categories/word/48",
+      "category": "Word",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/fun-neal-infinite-craft/13995.html",
+      "icon": "assets/img/apk/icon/fun.neal.infinite.craft.png",
+      "name": "Infinite Craft by Neal",
+      "categoryLink": "/en/categories/word/48",
+      "category": "Word",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/block-word-puzzle-crush/4968.html",
+      "icon": "assets/img/apk/icon/block.word.puzzle.crush.png",
+      "name": "ワード消し",
+      "categoryLink": "/en/categories/word/48",
+      "category": "Word",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/dh3games-namemeaning/4884.html",
+      "icon": "assets/img/apk/icon/dh3games.namemeaning.png",
+      "name": "My Name Meaning",
+      "categoryLink": "/en/categories/word/48",
+      "category": "Word",
+      "rating": "3.6"
+    },
+    {
+      "link": "/details/com-braindom/4834.html",
+      "icon": "assets/img/apk/icon/com.braindom.png",
+      "name": "Braindom: Brain Games Test",
+      "categoryLink": "/en/categories/word/48",
+      "category": "Word",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/crossword-jam/3942.html",
+      "icon": "assets/img/apk/icon/in.playsimple.tripcross.png",
+      "name": "Crossword Jam",
+      "categoryLink": "/en/categories/word/48",
+      "category": "Word",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/daily-themed-crossword/3941.html",
+      "icon": "assets/img/apk/icon/in.crossy.daily_crossword.png",
+      "name": "Daily Themed Crossword",
+      "categoryLink": "/en/categories/word/48",
+      "category": "Word",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/word-trivia/3940.html",
+      "icon": "assets/img/apk/icon/trivia.quiz.trivia.star.millionaire.word.question.offine.game.free.png",
+      "name": "Word Trivia",
+      "categoryLink": "/en/categories/word/48",
+      "category": "Word",
+      "rating": "4.8"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.sup.phone.booster.app.png",
+    "title": "Speed Cleaner",
+    "ratings": "4.2",
+    "downloads": "410M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Speed Cleaner"
+    },
+    {
+      "name": "category",
+      "value": "Productivity"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Superb Flashlight Team"
+    },
+    {
+      "name": "Version",
+      "value": "1.1.9"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h1>Speed Cleaner</h1>\n<h3>Brief</h3>\n<p>Speed Cleaner is an all-in-one utility app designed to optimize your smartphone's performance by cleaning junk files, boosting memory, and managing running applications. With a user-friendly interface and powerful one-click actions, Speed Cleaner makes your phone more powerful, responsive, and clutter-free.</p>\n<h3>Core Features 📌</h3>\n<ol>\n<li><strong>One-Click Boost</strong> - Instantly free up RAM by closing resource-heavy apps and games with a single tap.</li>\n<li><strong>Junk File Cleaning</strong> - Safely dispose of cache, advertisement files, and other non-essential data to reclaim storage space.</li>\n<li><strong>Advanced Speed Booster</strong> - Enhance your device's performance by terminating background processes without the need for individual app management.</li>\n<li><strong>Memory and RAM Cleaner</strong> - Target and eliminate memory-wasting files to speed up your device and reduce lag.</li>\n<li><strong>User-Friendly Interface</strong> - Enjoy easy navigation and efficient maintenance with minimal effort and maximum benefit.</li>\n</ol>\n<h3>Pros 👍</h3>\n<ol>\n<li><strong>Improved Device Performance</strong> - Keep your device running at optimal speed with regular cleaning and boosting.</li>\n<li><strong>Space Saver</strong> - Regain valuable storage by discarding unnecessary files and cache data.</li>\n<li><strong>Convenience</strong> - The one-tap feature simplifies device maintenance, making it accessible to everyone.</li>\n<li><strong>Prevents Slowdowns</strong> - Actively manages memory usage to prevent your phone from slowing down and lagging.</li>\n<li><strong>High User Ratings</strong> - Trusted and highly rated by users on Google Play.</li>\n</ol>\n<h3>Cons 👎</h3>\n<ol>\n<li><strong>Ads</strong> - Ad-supported, which may interrupt the user experience.</li>\n<li><strong>Limited Customization</strong> - Some users may prefer more control over specific app management features.</li>\n<li><strong>Potential Overhead</strong> - Constant cleaning can introduce system overhead if not managed properly.</li>\n<li><strong>Battery Usage</strong> - Some cleaning processes might consume extra battery life.</li>\n<li><strong>Effectiveness Varied</strong> - The impact on performance may vary depending on the device's condition and specifications.</li>\n</ol>\n<h3>Price 💵</h3>\n<p>Speed Cleaner is available to download for free. However, users should be aware of potential in-app advertisements which can be a source of revenue for free utility apps like this.</p>\n<h3>Community 🕸️</h3>\n<ul>\n<li>Official Site: Not Provided</li>\n<li>YouTube Channel: Not Provided</li>\n<li>Related YouTuber's Channel: Not Provided</li>\n<li>Most Followed Instagrammer: Not Provided</li>\n<li>Twitter: Not Provided</li>\n<li>Discord: Not Provided</li>\n<li>Facebook: Not Provided</li>\n<li>TikTok: Not Provided</li>\n<li>Reddit: Not Provided</li>\n<li>Fandom Wiki Site: Not Provided</li>\n</ul>\n<p>Speed Cleaner offers a straightforward solution for users seeking a one-stop app to ensure their smartphone remains clean, fast, and efficient. Despite the few drawbacks, its ease of use coupled with the positive feedback from thousands of users makes it a noteworthy tool in the maintenance of your mobile device.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-takeofflabs-fontmaker/54188.html",
+      "icon": "assets/img/apk/icon/com.takeofflabs.fontmaker.png",
+      "name": "Fontmaker - Font Keyboard App",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-game-console-emulator/39577.html",
+      "icon": "assets/img/apk/icon/com.game.console.emulator.png",
+      "name": "Gamu: Retro Game Hub",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/app-itwingtech-power_of_mind-predicator/39340.html",
+      "icon": "assets/img/apk/icon/app.itwingtech.power_of_mind.predicator.png",
+      "name": "Mind Test: Test My Brain",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-pdfreader-pdfeditor-scandocu-pro-app-amb/16953.html",
+      "icon": "assets/img/apk/icon/com.pdfreader.pdfeditor.scandocu.pro.app.amb.png",
+      "name": "PDFPro: Scanner & Editor",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "3.8"
+    },
+    {
+      "link": "/details/ai-perplexity-app-android/16744.html",
+      "icon": "assets/img/apk/icon/ai.perplexity.app.android.png",
+      "name": "Perplexity - Ask Anything",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-safeshellvpn/16639.html",
+      "icon": "assets/img/apk/icon/com.safeshellvpn.png",
+      "name": "SafeShell VPN: Fast & Secure",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-roblox-skin-cloth-freeskins/16603.html",
+      "icon": "assets/img/apk/icon/com.roblox.skin.cloth.freeskins.png",
+      "name": "Clothes Skin For Roblox",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-underthing-focus-friend/16526.html",
+      "icon": "assets/img/apk/icon/com.underthing.focus.friend.png",
+      "name": "Focus Friend by Hank Green",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.7"
+    }
+  ]
+}

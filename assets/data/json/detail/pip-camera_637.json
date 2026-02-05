@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/pip-camera.png",
+    "title": "PIP Camera",
+    "ratings": "4.9",
+    "downloads": "300M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "PIP Camera"
+    },
+    {
+      "name": "category",
+      "value": "Photography"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Fotoable,Inc."
+    },
+    {
+      "name": "Version",
+      "value": "3.4.1"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>PIP Camera</strong></p>\n<h3>Brief:</h3>\n<p>PIP Camera is a creative photo-editing app that allows users to emphasize a selected area of an image by focusing and applying a blur effect to the remaining background. With a variety of unique frames including everyday objects, users can create striking photo-in-photo (PIP) effects. Beyond frames, the app offers multiple filter options such as sketch and watercolor to enhance the visual appeal of the images. Seamlessly integrate your artwork into special scenes, and share your creations with friends on various social media platforms.</p>\n<h3>Core Features: 📌</h3>\n<ul>\n<li><strong>Photo-in-Photo Frames</strong>: Choose from a vast array of PIP frames shaped like glass, cameras, boards, and more to highlight your pictures uniquely 🔍.</li>\n<li><strong>Automatic Blurring</strong>: Automatically blur the background of your image to put the focus on the main subject 💨.</li>\n<li><strong>Collage Maker</strong>: More than 200 collage frames to assemble your memories together in a single layout 🖼️.</li>\n<li><strong>Artistic Filters</strong>: Access over 20 filters and effects to add a touch of artistry to your photos 🎨.</li>\n<li><strong>Social Sharing Integration</strong>: Directly share your edited pictures on Instagram, Facebook, Twitter, and other social networks with ease 📤.</li>\n</ul>\n<h3>Pros: 👍</h3>\n<ul>\n<li><strong>User-Friendly Interface</strong>: The app is intuitively designed, making photo editing accessible to users of all skill levels 🤳.</li>\n<li><strong>Versatile Editing Toolkit</strong>: With the inclusion of various frames and filters, users can experiment with numerous creative possibilities 🛠️.</li>\n<li><strong>Instant Sharing</strong>: Simplifies the process of sharing your masterpieces with a wide audience online 👏.</li>\n<li><strong>High-Quality Output</strong>: Edited images maintain a level of quality suitable for social media posting and personal galleries 🌟.</li>\n</ul>\n<h3>Cons: 👎</h3>\n<ul>\n<li><strong>Potentially Overwhelming Choices</strong>: The sheer number of frames and filters might be overwhelming for some users to navigate 🌀.</li>\n<li><strong>In-App Advertisements</strong>: Users may encounter ads that can disrupt the editing experience 💢.</li>\n<li><strong>Limited Advanced Features</strong>: Professional photographers might find the app lacking in advanced editing capabilities 🔍.</li>\n<li><strong>Possible In-App Purchases</strong>: While the core app is likely free, there could be in-app purchases for additional content 🛍️.</li>\n</ul>\n<h3>Price: 💵</h3>\n<p>PIP Camera is typically offered as a free app. However, keep an eye out for in-app purchases that could unlock additional features or remove advertisements.</p>\n<h3>Community: 🕸️</h3>\n<p>(Community data not provided or available for this app, so this section remains empty)</p>\n<hr/>\n<p><a href=\"https://www.pipcameraexample.com\" rel=\"noopener noreferrer\" target=\"_blank\">Official Site</a> | <a href=\"https://www.youtube.com/user/pipcamera\" rel=\"noopener noreferrer\" target=\"_blank\">YouTube</a> | <a href=\"https://www.instagram.com/pipcamera_official\" rel=\"noopener noreferrer\" target=\"_blank\">Instagram</a> | <a href=\"https://www.twitter.com/pipcamera\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a> | <a href=\"https://www.facebook.com/pipcameraplus\" rel=\"noopener noreferrer\" target=\"_blank\">Facebook</a> | <a href=\"https://www.tiktok.com/@pipcamera\" rel=\"noopener noreferrer\" target=\"_blank\">TikTok</a> | <a href=\"https://www.reddit.com/r/pipcamera\" rel=\"noopener noreferrer\" target=\"_blank\">Reddit</a> | <a href=\"http://pipcamera.fandom.com\" rel=\"noopener noreferrer\" target=\"_blank\">Fandom Wiki</a></p>\n<p><em>(Note: The social media links are fictional placeholders as real community information is not provided. Replace the links with the actual social media profiles if known.)</em></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-appwallet-coupletraditionaldress/54509.html",
+      "icon": "assets/img/apk/icon/com.appwallet.coupletraditionaldress.png",
+      "name": "Traditional Suit : Change Face",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-appwallet-ValentinesDayFrames/54392.html",
+      "icon": "assets/img/apk/icon/com.appwallet.ValentinesDayFrames.png",
+      "name": "Valentine's Day Photo Frame",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-valentineweek-photo_frames/54386.html",
+      "icon": "assets/img/apk/icon/com.valentineweek.photo_frames.png",
+      "name": "Valentine Day Photo Frame 2026",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/valentine-photo-frame-editor/54380.html",
+      "icon": "assets/img/apk/icon/valentine.photo.frame.editor.png",
+      "name": "Valentine's Day Photo Frame",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-aaptechno-photomaker-republicday/54338.html",
+      "icon": "assets/img/apk/icon/com.aaptechno.photomaker.republicday.png",
+      "name": "Republic day Photo Frame",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/utility-independancephotoframe/54332.html",
+      "icon": "assets/img/apk/icon/utility.independancephotoframe.png",
+      "name": "Republic Day Photo Frames",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-appbench-republicdayphotoframes/54326.html",
+      "icon": "assets/img/apk/icon/com.appbench.republicdayphotoframes.png",
+      "name": "Republic Day Photo Frames",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-themasterapps-happybirthdaywishesimages/54176.html",
+      "icon": "assets/img/apk/icon/com.themasterapps.happybirthdaywishesimages.png",
+      "name": "Happy Birthday & Good Morning",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.8"
+    }
+  ]
+}

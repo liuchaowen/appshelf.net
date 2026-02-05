@@ -1,0 +1,112 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.metrolinx.presto.android.consumerapp.png",
+    "title": "PRESTO",
+    "ratings": "2.6",
+    "downloads": "650M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "PRESTO"
+    },
+    {
+      "name": "category",
+      "value": "Travel & Local"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Metrolinx"
+    },
+    {
+      "name": "Version",
+      "value": "1.3.2"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/VWt_QYtsR-xU-Rj4OvjD2txKdYixAcSEv32Pk-APalYIhlFvVmsvOiTP6hXVpxRsKOo",
+    "https://play-lh.googleusercontent.com/lCgkZqVl6nIcOzkiHHicNng46ZatBxAvLfMRSSk9_pojzx4HpLmQEKu7x8-CdtmFMQE9",
+    "https://play-lh.googleusercontent.com/BQcq2B25xo74j0sVeGWcaYLspPArcD0_LZNQPS64yBT3NV3wgikLF56cZDE7RR-Yy2A",
+    "https://play-lh.googleusercontent.com/U3-AsV5cajCZJAQosfZNFt23q2uoXmcDwUp5gbun-ehC5PbfAkeSkF18RMHixO5-cA",
+    "https://play-lh.googleusercontent.com/85GNw2Fapx6q-AkATMlFGETr3NPlP5ahTSCZwViEWLAruCIrHXx6JmJ2fTzIaqifxQ",
+    "https://play-lh.googleusercontent.com/QpY9iDNXu6keT7DbCl5s2HZV2tPGk1SWrXBWo3-at5vEEOqu59Jwrv9fEtGA6MaIzl7N",
+    "https://play-lh.googleusercontent.com/19gQ7PAtX53nNg4QibzhQZ1dKhKvb4-xEk6N6C9pAQf3GJH5X0jeOvXODKyvuwt8YA",
+    "https://play-lh.googleusercontent.com/8r43AHtwI1iZUEzERMafxco98ELEn8vNfXx5U9c8SvqYVWW0jpao0rsoTxVOeJANIMJn"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> PRESTO\n<strong>Package Name:</strong> com.metrolinx.presto.android.consumerapp</p>\n<h3>Brief:</h3>\n<p>Take control of your travel across multiple transit systems with the PRESTO app. This essential companion for commuters in the Ontario region makes managing your PRESTO card hassle-free. From adding funds to setting up Autoload features, the PRESTO app streamlines your transit experience.</p>\n<h3>Core Features:</h3>\n<ul>\n<li><strong>Google Pay Integration:</strong> Easily pay for your fares using Google Pay or other saved payment methods 📱.</li>\n<li><strong>Autoload/Autorenew Setup:</strong> Never run low on funds with the Autoload feature and keep your passes active with Autorenew 🔄.</li>\n<li><strong>Card Management:</strong> Manage up to 10 PRESTO cards, check balances, and review transaction history easily 💳.</li>\n<li><strong>Balance Reminders:</strong> Get timely reminders for low balances and pass expirations, plus receive fare purchase email receipts 🛎️.</li>\n<li><strong>Purchase and Register:</strong> Buy a new PRESTO card and create an account directly within the app 🛒.</li>\n</ul>\n<h3>Pros:</h3>\n<ul>\n<li><strong>Convenient Multi-Card Management:</strong> Effortlessly handle multiple PRESTO cards anywhere, anytime 👥.</li>\n<li><strong>Real-Time Balance &amp; History:</strong> Stay updated on your card balances and transit usage with a detailed view 📊.</li>\n<li><strong>Transit Compatibility:</strong> Works across major transit services in the Ontario area, including TTC, GO Transit, and more 🚌.</li>\n<li><strong>Smart Notifications:</strong> Automated reminders ensure you’re always prepared for your next trip 🗓️.</li>\n</ul>\n<h3>Cons:</h3>\n<ul>\n<li><strong>Regional Limitation:</strong> The app is only functional within select transit systems in Ontario, Canada 🇨🇦.</li>\n<li><strong>Requires Internet Connection:</strong> Depending on the location and phone carrier, connectivity may be inconsistent when managing cards on-the-go 📡.</li>\n<li><strong>No Offline Access:</strong> Users cannot access their card details or perform transactions without an internet connection 🚫.</li>\n<li><strong>Limited to Android Users:</strong> Currently available exclusively on Android devices through Google Pay integration 📲.</li>\n</ul>\n<h3>Price:</h3>\n<p>The PRESTO app is free to download, but standard fare charges apply when you load funds or purchase passes. Autoload requires linking a payment method which could be subject to bank fees 💸.</p>\n<p><em>Note: The 'Community' section is not included as PRESTO is not a game app.</em></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-bp-app-bpme-global-ros/16042.html",
+      "icon": "assets/img/apk/icon/com.bp.app.bpme.global.ros.png",
+      "name": "earnify",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/kulana-tools-vacationcountdown/10380.html",
+      "icon": "assets/img/apk/icon/kulana.tools.vacationcountdown.png",
+      "name": "Vacation Countdown App",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-disney-playdisneyparks-goo/4681.html",
+      "icon": "assets/img/apk/icon/com.disney.playdisneyparks.goo.png",
+      "name": "Play Disney Parks",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-hornblower-statuecruises/4679.html",
+      "icon": "assets/img/apk/icon/com.hornblower.statuecruises.png",
+      "name": "Statue Cruises",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-usnpw-grca/4678.html",
+      "icon": "assets/img/apk/icon/com.usnpw.grca.png",
+      "name": "Grand Canyon National Park",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/MakeMyTrip-Hotels-Flight-Bus/4591.html",
+      "icon": "assets/img/apk/icon/com.makemytrip.png",
+      "name": "MakeMyTrip Hotels, Flight, Bus",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/ConfirmTkt/4570.html",
+      "icon": "assets/img/apk/icon/com.confirmtkt.lite.png",
+      "name": "ConfirmTkt",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/Bus-Train-Ticket-Booking-App/4503.html",
+      "icon": "assets/img/apk/icon/in.redbus.android.png",
+      "name": "Bus, Train Ticket Booking App",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.9"
+    }
+  ]
+}

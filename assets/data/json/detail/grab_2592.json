@@ -1,0 +1,110 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/grabtaxi.png",
+    "title": "Grab",
+    "ratings": "4.8",
+    "downloads": "910M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Grab"
+    },
+    {
+      "name": "category",
+      "value": "Maps & Navigation"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Grab Holdings"
+    },
+    {
+      "name": "Version",
+      "value": "5.204.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/0a04EZ1POGR8dav8PEzG8v1fZjC26RLUV6On1zHJITKtwfbm850U_vCBp1BvLqkr1QGT",
+    "https://play-lh.googleusercontent.com/ykcGMezOGeV7u9eCaH__SglnImokxKc-dGWGcg5AcqcLPpLRlHvP_XgpUXwinLzNLw",
+    "https://play-lh.googleusercontent.com/XpdnK-kePWaag0RYVT2FPKELo7UwNAMooiHQNhrp1e2VQoZOu-70Wd12tLTku5hl0P44",
+    "https://play-lh.googleusercontent.com/Ml1FgBTS2I9f9CN4wNN85oOrKN2gN4I7RJnL52tqAsVa2acyl52XhCzgPZ21xCo5cl6m",
+    "https://play-lh.googleusercontent.com/DRtla9TsJ8iWyDVW_hrRaEaGrSyjTt5jlGJzbiJzS04mh1SbQsSmTFkPmrJ53m2NVQ",
+    "https://play-lh.googleusercontent.com/khntrk7SbwwYj4_eTvUCtq7PflZp4lY3oFkzwxXLJyHLIgfX3mB5UQ1alQuqnL9Ej_c"
+  ],
+  "app_descript": "<h3>Brief</h3>\n<p>Grab is more than just a taxi service. As Asia's leading ride-hailing platform, Grab offers a variety of transportation options, all accessible through your phone. Whether you need a quick taxi ride, a private car, a motorbike, or even package delivery, Grab has you covered. Simple to use, it allows you to book your ride at the touch of a button and track your driver in real-time, ensuring security and transparency throughout your experience.</p>\n<h3>Core Features 📌</h3>\n<ul>\n<li><strong>Versatile Transport Selection</strong>: Choose from GrabTaxi, GrabCar, GrabBike, to GrabExpress for all your transport and delivery needs.</li>\n<li><strong>On-Demand Convenience</strong>: Easily book your desired service instantly and await quick confirmation.</li>\n<li><strong>Real-Time Tracking</strong>: Monitor your ride in real-time to know exactly when your transport will arrive.</li>\n<li><strong>Ride Sharing</strong>: Share your ride details for added safety and peace of mind.</li>\n<li><strong>Promos and News</strong>: Access the latest promotions and updates directly through the app.</li>\n</ul>\n<h3>Pros 👍</h3>\n<ul>\n<li><strong>Range of Services</strong>: Multiple transport options cater to different needs and preferences.</li>\n<li><strong>Quick Booking</strong>: Fast and efficient ride confirmation, usually within 30 seconds.</li>\n<li><strong>Safety Features</strong>: The ability to share your ride improves security for passengers.</li>\n<li><strong>Cost-Effective</strong>: Use promo codes to enjoy discounts on your rides.</li>\n<li><strong>User-Friendly Interface</strong>: Simple registration and booking process designed for ease of use.</li>\n</ul>\n<h3>Cons 👎</h3>\n<ul>\n<li><strong>Map Accuracy</strong>: There may be occasional inaccuracies with the Grab map that could lead to confusion.</li>\n<li><strong>Scope of Availability</strong>: While widely used in cities like Bangkok, service levels and availability may vary by country and region.</li>\n<li><strong>Potential Wait Times</strong>: During peak hours, finding a ride might take longer than expected.</li>\n<li><strong>Price Surge</strong>: Fares may surge during high-demand periods without prior notice.</li>\n</ul>\n<h3>Price 💵</h3>\n<p>Grab is free to download and offers various services at different price points. While there are no upfront costs for using the app, each trip booked incurs a charge based on the distance and selected service. You have the opportunity to view an estimated price before confirming your ride, and you can also utilize promo codes when available to get discounts.</p>\n<p><a href=\"https://play.google.com/store/apps/details?id=com.grabtaxi.passenger\" rel=\"noopener noreferrer\" target=\"_blank\">Download Grab</a> and experience the leading transport service across Southeast Asia, offering convenience, safety, and reliability right at your fingertips.</p>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-hundred-qibla-finder/14082.html",
+      "icon": "assets/img/apk/icon/com.hundred.qibla.finder.png",
+      "name": "Qibla Finder Compass 100%",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/kbk-maparea-measure-geo/5067.html",
+      "icon": "assets/img/apk/icon/kbk.maparea.measure.geo.png",
+      "name": "Gps Area Calculator",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "3.9"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/Offline-Maps-GPS-Speedometer/4633.html",
+      "icon": "assets/img/apk/icon/com.radarapp.trip.speedometer.png",
+      "name": "Offline Maps, GPS, Speedometer",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.2"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/Satellite-View-Offline/4620.html",
+      "icon": "assets/img/apk/icon/com.breezeammarathon.viskoproton.grampooffline.png",
+      "name": "Satellite View Offline",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/Rapido/4563.html",
+      "icon": "assets/img/apk/icon/com.rapido.passenger.png",
+      "name": "Rapido",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/CarInfo/4500.html",
+      "icon": "assets/img/apk/icon/com.cuvora.carinfo.png",
+      "name": "CarInfo",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.1"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-trailbehind-android-gaiagps-pro/4473.html",
+      "icon": "assets/img/apk/icon/com.trailbehind.android.gaiagps.pro.png",
+      "name": "Gaia GPS: Offroad Hiking Maps",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.2"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-gpsnavigation-maps-gpsroutefinder-routemap/4472.html",
+      "icon": "assets/img/apk/icon/com.gpsnavigation.maps.gpsroutefinder.routemap.png",
+      "name": "GPS Navigation: Road Map Route",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    }
+  ]
+}

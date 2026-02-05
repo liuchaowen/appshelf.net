@@ -1,0 +1,107 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.AdnanDev.tonesandi.png",
+    "title": "Tones and I",
+    "ratings": "4.7",
+    "downloads": "130M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Tones and I"
+    },
+    {
+      "name": "category",
+      "value": "Music & Audio"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Adnan Dev"
+    },
+    {
+      "name": "Version",
+      "value": "2.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/OJdDoyIl2dEz1qvns7Vdk7M4hEd5ICM1u630cQlp_8GcwftI9fTnUq_MM6_O8wCjgFo",
+    "https://play-lh.googleusercontent.com/qi5FqtQsHcVkNkQ46nXcfpD_2gYfifgTBsOCd08VNDjmd2OMzUBOrgINXxqJ9AGeld8",
+    "https://play-lh.googleusercontent.com/Mo8ykYSPuNSwIb0H1rscjm318rodjW9heNPBpDM0oNPtMjsByZg5aNzJP38ZpH3DGQ"
+  ],
+  "app_descript": "<h3>Brief:</h3>\n<p>Get ready to dive into the musical universe of Tones and I with the dedicated lyrics app that is designed explicitly for true music enthusiasts. With a user-friendly interface optimized for all Android devices, you can access and enjoy Tones and I's catchy lyrics on your smartphone or tablet. Whether you're a diehard fan or a new listener, this app ensures that the iconic lyrics of Tones and I are always at your fingertips.</p>\n<h3>Core Features:</h3>\n<ul>\n<li>📱 <strong>Device Optimization</strong>: Seamless experience on all Android devices, including smartphones and tablets. 📱</li>\n<li>💸 <strong>Free of Charge</strong>: Enjoy unlimited access without any hidden fees, special memberships, or annual subscription costs. 💸</li>\n<li>🎵 <strong>Song Playback</strong>: Easy-to-use playback feature that navigates to YouTube for quick song playing directly from the selected lyrics. 🎵</li>\n<li>🔄 <strong>Regular Updates</strong>: Stay up-to-date with new lyrics and app enhancements at no additional cost. 🔄</li>\n<li>🔍 <strong>Music Discovery</strong>: Search for your favorite songs and music videos within the app effortlessly. 🔍</li>\n</ul>\n<h3>Pros:</h3>\n<ul>\n<li>👌 <strong>User-Friendly</strong>: The app's interface is designed for ease of use, catering to fans of all ages. 👌</li>\n<li>🆓 <strong>Cost-Efficient</strong>: Permanently free, this app is a must-have for budget-conscious music lovers. 🆓</li>\n<li>🎤 <strong>Sing Along</strong>: Perfect for karaoke nights or simply enjoying the lyrics of your cherished Tones and I songs. 🎤</li>\n<li>📈 <strong>Constant Improvement</strong>: With proactive updates, the app keeps getting better, ensuring a premium user experience. 📈</li>\n</ul>\n<h3>Cons:</h3>\n<ul>\n<li>👎 <strong>YouTube Dependence</strong>: Requires YouTube access for song playback, which may be inconvenient when offline. 👎</li>\n<li>👎 <strong>Official Content</strong>: Lacks official artist endorsements; this is an unofficial fan-made app for entertainment. 👎</li>\n<li>👎 <strong>Ads Interruption</strong>: The free nature might come with intermittent ads, potentially disrupting the experience. 👎</li>\n<li>👎 <strong>Limited Features</strong>: While it has basic functions, it may not offer advanced features that some users seek. 👎</li>\n</ul>\n<h3>Price:</h3>\n<p>💵 The app is completely free to download and use with no hidden costs. However, keep in mind the potential presence of ads to support the application's free nature. 💵</p>\n<hr/>\n<p><em>Tones and I</em> app is a fantastic choice for fans who want to enjoy the lyrics and music of the popular artist without the need for any financial investment. While the app delivers on essential features and offers a straightforward experience for users, it is essential to note that it is a tribute to the artist, made by fans, and should be used alongside official content to support Tones and I.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-simmusic-oldjpop/49056.html",
+      "icon": "assets/img/apk/icon/com.simmusic.oldjpop.png",
+      "name": "昭和の名曲 - 70年代/80年代名曲, 昭和の歌謡曲",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-bigsoft-voicereverse-audiochanger/39378.html",
+      "icon": "assets/img/apk/icon/com.bigsoft.voicereverse.audiochanger.png",
+      "name": "Funny Voice Reverse",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "3.1"
+    },
+    {
+      "link": "/details/com-realdrum-drumset-drumapp-beatmaker-music-instruments-drumkit/16783.html",
+      "icon": "assets/img/apk/icon/com.realdrum.drumset.drumapp.beatmaker.music.instruments.drumkit.png",
+      "name": "Learn Drum - Pad & Beat Maker",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-musicplayer-mp3-audio-mymusic-player/15795.html",
+      "icon": "assets/img/apk/icon/com.musicplayer.mp3.audio.mymusic.player.png",
+      "name": "Music Player & MP3 - MMusic",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/com-ai-sound-donna/15626.html",
+      "icon": "assets/img/apk/icon/com.ai.sound.donna.png",
+      "name": "Donna AI Song & Music Maker",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-vanniktech-rssreader/15328.html",
+      "icon": "assets/img/apk/icon/com.vanniktech.rssreader.png",
+      "name": "RSS Reader Offline | Podcast",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-voicechanger-supereffect-soundeffect/14158.html",
+      "icon": "assets/img/apk/icon/com.voicechanger.supereffect.soundeffect.png",
+      "name": "Voice Changer: Audio Effect",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/org-cru-womans-herbible/14124.html",
+      "icon": "assets/img/apk/icon/org.cru.womans.herbible.png",
+      "name": "her.BIBLE Women's Audio Bible",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.kronos.dimensions.enterprise.png",
+    "title": "UKG Dimensions",
+    "ratings": "4.7",
+    "downloads": "10M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "UKG Dimensions"
+    },
+    {
+      "name": "category",
+      "value": "Business"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Kronos Incorporated"
+    },
+    {
+      "name": "Version",
+      "value": "2.07.00.0027"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/LNY5rnN_wK-Yz2yDmMpIdNgkQRpt4KQN3-ha9JKniWm5C6ArAz0X35HUc1hBggVcSQ",
+    "https://play-lh.googleusercontent.com/W4JNx2fHg7BTlNwNgnqOKajn4txErSxTF77YAW-_vARY3eFIX9DtYagqcQy4UNqLAnKq",
+    "https://play-lh.googleusercontent.com/YQrA1NiJ0Z6TpQh_1OKh6xlBiRFAXQVyJKESinRiOE4qyX3FdyleGwUmyXVKLCI1cfc",
+    "https://play-lh.googleusercontent.com/MzHioYF0A5G5CKPsyMIror5pVOfohWhOW7ObxGA--wBrjDofH6Xx_Dk7dN5lViFe6oU",
+    "https://play-lh.googleusercontent.com/e_QeCP4KzaJYRUYcQtW1onEdw5jq9-_woAOSDZWANHa47T6dO6se9Qy9RhAyQ5S55ss",
+    "https://play-lh.googleusercontent.com/Ijg_F7zWvvvWI40EHXwr5mwC-ktdSIgtsBs0G4D0MINsfsJToTe8AZh6ra3EN_00ag"
+  ],
+  "app_descript": "<p><strong>Brief:</strong>\nUKG Dimensions is a dynamic workforce management mobile application crafted to enhance productivity for managers on-the-go. It streamlines various managerial tasks such as monitoring team performance, managing schedules, and responding to employee requests with ease and efficiency. This easy-to-access mobile platform is an excellent tool for managing workforce operations seamlessly, enabling real-time interactions and insights.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>📲 Real-Time Alerts and Notifications: Stay updated with immediate alerts on important matters, ensuring no critical issue goes unnoticed.</li>\n<li>🛠️ Scheduling Flexibility: Effortlessly adjust and manage employee schedules to accommodate requests and maintain productivity.</li>\n<li>🔍 Instant Productivity Insights: With a quick glance, evaluate your team's performance and inspire improvements when needed.</li>\n<li>🤝 Employee Request Management: Swiftly respond to and manage employee needs, fostering a supportive work environment.</li>\n<li>🌐 Global Access: Gain full UKG dimensions functionalities from your mobile device, connecting you anytime, anywhere.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👨‍💼 Enhanced Managerial Oversight: Provides tools for effective supervision and management of team operations.</li>\n<li>🕒 Time-Saving Efficiency: Offers quick solutions to workforce management intricacies, saving time and simplifying complex processes.</li>\n<li>💡 Informed Decision Making: Access to real-time data assists in making better, data-driven choices.</li>\n<li>✅ Improved Employee Satisfaction: Demonstrates concern for employee welfare by promptly addressing their requests and concerns.</li>\n<li>🚀 Agile Workforce Management: Promote a dynamic and adaptable work environment that aligns with modern workforce demands.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>📶 Internet Dependency: Requires a stable internet connection for full functionality.</li>\n<li>📱 Device Compatibility: May not be optimized for all mobile devices or operating systems.</li>\n<li>🛠️ Feature Learning Curve: Some features may take time for new users to fully utilize effectively.</li>\n<li>🔐 Login Credentials: Secure access necessitates remembering additional login information.</li>\n<li>🔄 Updates Requirement: May need frequent updates to maintain the latest workforce management features and security standards.</li>\n</ul>\n<p><strong>Pricing:</strong>\n💵 The UKG Dimensions app is typically part of a larger enterprise service package, and pricing details are usually customized based on the business's specific needs. It's recommended to contact UKG directly for a detailed quote.</p>\n<p><strong>Community:</strong>\n(No community data provided, so this section is not included.)</p>\n<hr/>\n<p><a href=\"https://apps.apple.com/us/app/ukg-dimensions/id1185558672\" rel=\"noopener noreferrer\" target=\"_blank\">UKG Dimensions on the App Store</a><br/>\n<a href=\"https://play.google.com/store/apps/details?id=com.kronos.dimensions.enterprise\" rel=\"noopener noreferrer\" target=\"_blank\">UKG Dimensions on Google Play</a></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-kj2147575505-app/16858.html",
+      "icon": "assets/img/apk/icon/com.kj2147575505.app.png",
+      "name": "Alpha Omega Consulting",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-hypertide-petscan-v8m/15982.html",
+      "icon": "assets/img/apk/icon/com.hypertide.petscan.v8m.png",
+      "name": "PetScan",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "2"
+    },
+    {
+      "link": "/details/com-animalid-scanner/15981.html",
+      "icon": "assets/img/apk/icon/com.animalid.scanner.png",
+      "name": "Pet Scanner",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-webrange-sendoff-app/15417.html",
+      "icon": "assets/img/apk/icon/com.webrange.sendoff.app.png",
+      "name": "Sendoff Funeral App",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-dyve-countthings/10295.html",
+      "icon": "assets/img/apk/icon/com.dyve.countthings.png",
+      "name": "CountThings from Photos",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "3"
+    },
+    {
+      "link": "/details/com-countthis-count-things-counting-template-counter/5097.html",
+      "icon": "assets/img/apk/icon/com.countthis.count.things.counting.template.counter.png",
+      "name": "Count This・Counting Things App",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-aadi-personalitytraittest/4991.html",
+      "icon": "assets/img/apk/icon/com.aadi.personalitytraittest.png",
+      "name": "Personality Trait Test",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/GlowRoad/4569.html",
+      "icon": "assets/img/apk/icon/com.localqueen.png",
+      "name": "GlowRoad",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.6"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/hbo-go.png",
+    "title": "HBO GO",
+    "ratings": "4.7",
+    "downloads": "130M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "HBO GO"
+    },
+    {
+      "name": "category",
+      "value": "Entertainment"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Home Box Office Inc."
+    },
+    {
+      "name": "Version",
+      "value": "10.1.0.34"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h3>HBO GO App Description</h3>\n<p><strong>Brief:</strong>\nHBO GO offers a premium streaming experience for fans of HBO's rich content library. With this app, subscribers can dive into every season of groundbreaking original series, including \"Game of Thrones\" and \"Big Little Lies,\" just one hour after they air in the United States. In addition to series, users have access to a variety of movies, talk shows, special events, and weekly updates of fresh content.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>📺 Exclusive Access: Stream all HBO content shortly after the US broadcast. 🌟</li>\n<li>🌍 Early Screening: Watch the latest hit shows before they're available on most other streaming services. 🎬</li>\n<li>🗞️ Variety of Content: Enjoy a range of programming including news, talk shows, and special events. 📰</li>\n<li>📱 Multi-Device Streaming: Access content on your computer, phone, or tablet seamlessly. 📲</li>\n<li>🌐 Wide Compatibility: Available on multiple platforms such as Android, iOS, Smart TVs, Windows, and gaming consoles. 🎮</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👑 Original Content: Offers a vast collection of HBO's critically acclaimed original series. 💡</li>\n<li>🚀 Timely Updates: Consistent updates with new movies and TV series each week. 🆕</li>\n<li>📲 Easy Access: No cable authentication needed for HBO Now users. 📉</li>\n<li>🆓 Cost-Effective: HBO GO is free with an existing HBO subscription. 💳</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>📍 Geographical Limitations: Only available in the US and certain US territories. 🗺️</li>\n<li>🎛️ Authentication Required: HBO GO requires authentication through a cable provider. 🔐</li>\n<li>📉 Two Platform Confusion: Users may be confused between choosing HBO GO and HBO Now. 🤔</li>\n<li>💡 Subscription Bound: HBO GO is contingent on having an HBO or HBO Now subscription. 🔗</li>\n</ul>\n<p><strong>Price:</strong></p>\n<ul>\n<li>💵 Subscription-Based: HBO GO is free for HBO subscribers, while HBO Now costs $15 per month. In-app purchases might be present within the platform for additional content or features. 💰</li>\n</ul>\n<hr/>\n<p>Please note, the description provided considers historical data and might not reflect the current state of HBO GO and HBO Now services which were rebranded to HBO Max. HBO Max consolidates HBO GO and HBO Now's offerings into a single platform, which may have altered availability, pricing, or service details. Always refer to the latest information from HBO for the most current service details.</p>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-moonphaseapps-astro/54410.html",
+      "icon": "assets/img/apk/icon/com.moonphaseapps.astro.png",
+      "name": "AstroBella Astrology & Healing",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.6"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-girlmaker-create-avatar-creator/54356.html",
+      "icon": "assets/img/apk/icon/com.girlmaker.create.avatar.creator.png",
+      "name": "PFP Girl: Avatar Maker",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-photocrop-challengefilter/54321.html",
+      "icon": "assets/img/apk/icon/com.photocrop.challengefilter.png",
+      "name": "Photo Crop Challenge Filter",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-photo-cropfilter-challenge/54315.html",
+      "icon": "assets/img/apk/icon/com.photo.cropfilter.challenge.png",
+      "name": "Photo Crop Challenge Video",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/vyten-colormatrix/54297.html",
+      "icon": "assets/img/apk/icon/vyten.colormatrix.png",
+      "name": "The Personality Color Matrix",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-truelove-tester-love/54289.html",
+      "icon": "assets/img/apk/icon/com.truelove.tester.love.png",
+      "name": "True Love Tester",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-lifeexpectancycalculator/54231.html",
+      "icon": "assets/img/apk/icon/com.lifeexpectancycalculator.png",
+      "name": "Life Expectancy Calculator",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-insect-filters-funny-prank-bug-filter-face-camera/54212.html",
+      "icon": "assets/img/apk/icon/com.insect.filters.funny.prank.bug.filter.face.camera.png",
+      "name": "Bugzz: Insect Prank Filters",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4"
+    }
+  ]
+}

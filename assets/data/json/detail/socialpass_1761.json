@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.gastro.pass.png",
+    "title": "SocialPass",
+    "ratings": "4.4",
+    "downloads": "930M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "SocialPass"
+    },
+    {
+      "name": "category",
+      "value": "Productivity"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "SwissHelios"
+    },
+    {
+      "name": "Version",
+      "value": "6.0.1"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h1>SocialPass: Your Reliable Event Access Companion</h1>\n<h2>Brief:</h2>\n<p>SocialPass offers a seamless and secure way to manage your event attendance. With its quick and intuitive setup, your contact information is transformed into an encrypted QR Code, which serves as your digital identifier at various events. Whether attending a minuscule gathering or a sprawling festival, your SocialPass QR code is your passport to swift entry and participation.</p>\n<h3>Core Features:</h3>\n<ul>\n<li><strong>Encrypted QR Profile</strong>: Generates a secure, personalized QR code containing your contact details 🛡️.</li>\n<li><strong>Event Entry Key</strong>: Use your SocialPass as a straightforward identification tool for entering events 🎫.</li>\n<li><strong>Digital Loyalty Card</strong>: Option to convert your SocialPass ID into a digital loyalty card to access benefits from organizers 🎁.</li>\n<li><strong>Marketing Participation</strong>: Choose to receive information and take part in marketing activities with potential perks 📈.</li>\n<li><strong>Privacy Control</strong>: Decide the information you want to share and manage your level of engagement with event organizers 🔒.</li>\n</ul>\n<h3>Pros:</h3>\n<ul>\n<li><strong>Enhanced Security</strong>: Keeps your personal information encrypted for increased privacy and safety 👤.</li>\n<li><strong>Versatile Use</strong>: Suitable for a variety of events, from free community gatherings to large-scale, paid venues 🎪.</li>\n<li><strong>Potential Rewards</strong>: Offers the possibility of getting exclusive benefits and rewards from event organizers 🌟.</li>\n<li><strong>Customization</strong>: Provides flexibility to use SocialPass strictly as an ID or as a multifaceted engagement tool 🔧.</li>\n<li><strong>Convenience</strong>: Speeds up the check-in process at events, saving time and hassle 🕒.</li>\n</ul>\n<h3>Cons:</h3>\n<ul>\n<li><strong>Dependency on Event Participation</strong>: Full benefits are realized only when event organizers adopt the SocialPass system 📅.</li>\n<li><strong>Privacy Concerns</strong>: Some users may be hesitant to share contact information for marketing purposes 💭.</li>\n<li><strong>App Adoption</strong>: The overall value is tied to how broadly the app is accepted and used by both organizers and attendees 📊.</li>\n<li><strong>Tech Requirements</strong>: Visitors must have a compatible smartphone to generate and display the QR code 📱.</li>\n<li><strong>Internet Reliance</strong>: Requires an internet connection for initial setup and potentially for entry at events 🌐.</li>\n</ul>\n<h3>Price:</h3>\n<p>SocialPass is free to download, providing significant value without an immediate cost. However, be aware of potential in-app purchases or organizer-specific charges that may arise as you engage with different events 💵.</p>\n<p>With its strategic mix of convenience, security, and engagement, SocialPass aims to redefine the event-going experience. Keep your attendance hassle-free and enhance potential rewards with this innovative app.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-takeofflabs-fontmaker/54188.html",
+      "icon": "assets/img/apk/icon/com.takeofflabs.fontmaker.png",
+      "name": "Fontmaker - Font Keyboard App",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-game-console-emulator/39577.html",
+      "icon": "assets/img/apk/icon/com.game.console.emulator.png",
+      "name": "Gamu: Retro Game Hub",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/app-itwingtech-power_of_mind-predicator/39340.html",
+      "icon": "assets/img/apk/icon/app.itwingtech.power_of_mind.predicator.png",
+      "name": "Mind Test: Test My Brain",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-pdfreader-pdfeditor-scandocu-pro-app-amb/16953.html",
+      "icon": "assets/img/apk/icon/com.pdfreader.pdfeditor.scandocu.pro.app.amb.png",
+      "name": "PDFPro: Scanner & Editor",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "3.8"
+    },
+    {
+      "link": "/details/ai-perplexity-app-android/16744.html",
+      "icon": "assets/img/apk/icon/ai.perplexity.app.android.png",
+      "name": "Perplexity - Ask Anything",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-safeshellvpn/16639.html",
+      "icon": "assets/img/apk/icon/com.safeshellvpn.png",
+      "name": "SafeShell VPN: Fast & Secure",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-roblox-skin-cloth-freeskins/16603.html",
+      "icon": "assets/img/apk/icon/com.roblox.skin.cloth.freeskins.png",
+      "name": "Clothes Skin For Roblox",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-underthing-focus-friend/16526.html",
+      "icon": "assets/img/apk/icon/com.underthing.focus.friend.png",
+      "name": "Focus Friend by Hank Green",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.7"
+    }
+  ]
+}

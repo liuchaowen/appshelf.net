@@ -1,0 +1,110 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/com.babylon.us.png",
+    "title": "Babylon",
+    "ratings": "4.1",
+    "downloads": "530M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Babylon"
+    },
+    {
+      "name": "category",
+      "value": "Medical"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Babylon Health"
+    },
+    {
+      "name": "Version",
+      "value": "76.0.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/zK55KrUowa_PtAx32KsHnWSV97sTl-xMvp__yGKHOm0zjRSt7pKNIaqpaXBuK280WwSi",
+    "https://play-lh.googleusercontent.com/kUEHIP3uTQ6ofB34Av12nfhkKcTUd4lD2WZziDP2yA4SwWqyIDaLBYOh09X9hamCzmvl",
+    "https://play-lh.googleusercontent.com/XZilCXuBDgudt7jWadHy2JlKLMQjGLIjMRaNARfQxY2bEY7JC0DLD76IuA02vnUPMLg",
+    "https://play-lh.googleusercontent.com/qeXXKEOkFmJq0jEuyYNQqXttsBIcW6QkmdWRBaQ3QEKF0BO-12tILNd63OHsENxIyvnc",
+    "https://play-lh.googleusercontent.com/JFj2ollYtwX_2zp48zEZL3KaPQcBVmMRXmMYfgGEOZjvl6e1lYzNxwAjoTWcssW1Zfs",
+    "https://play-lh.googleusercontent.com/CRQhOXo30CGOtdcIoY_wrpHTIYR8B4F9h2dQFl83ziVk_RywBr0RPO9tJcHdzHqsRF51"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> Babylon</p>\n<p><strong>Brief:</strong>\nBabylon is a cutting-edge healthcare application that offers a blend of proactive health monitoring, symptom checking, and telemedicine services. Accessible to users in select states through partner health plans, it leverages AI technology and medical expertise to provide personalized health insights and online healthcare consultations. Focused on convenience and comprehensive care, Babylon aims to be a virtual partner in managing your health and wellness journey.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>📋 <strong>AI-Powered Symptom Checker:</strong> Effortlessly check your symptoms using Babylon's intelligent tool designed to match your symptoms with potential health conditions.</li>\n<li>🩺 <strong>24/7 Telemedicine Access:</strong> Engage with online doctors, mental health nurses, and specialists whenever needed, with the ease of booking telemedicine appointments.</li>\n<li>🧘 <strong>Personalized Health Monitoring:</strong> Track essential health metrics like body fat and blood pressure, while integrating data from wearables and health records for a customized health management experience.</li>\n<li>🧠 <strong>Mental Health Support:</strong> Access therapy sessions, treatment plans, and medication for mental health issues such as anxiety and depression through in-app messaging and video consultations.</li>\n<li>💊 <strong>Management of Chronic Conditions:</strong> Receive dedicated support for chronic ailments, including type 2 diabetes and mental health conditions, with remote monitoring and clinical interventions.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👩‍⚕️ <strong>Virtual Healthcare Provider:</strong> Offers convenient virtual access to a range of healthcare providers, including specialists, therapists, and psychiatrists.</li>\n<li>🏥 <strong>Seamless Specialist Referrals:</strong> Enables easy referrals to board-certified specialists for in-person consultations, if required.</li>\n<li>🤰 <strong>Pregnancy Care Support:</strong> Provides virtual obstetric care and guidance for pregnancy, ensuring support throughout the journey.</li>\n<li>🚀 <strong>Integrative Health Insights:</strong> Syncs with other health apps and devices to provide comprehensive and proactive healthcare management.</li>\n<li>📅 <strong>Accessible Care for Eligible Members:</strong> Available at no cost for members with eligible health plans in multiple states.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👥 <strong>Limited Accessibility:</strong> Babylon's full range of services is only available in certain states and to users with partner health plans.</li>\n<li>🔒 <strong>Health Plan Dependency:</strong> Telemedicine services and full feature sets depend on the individual's health plan coverage.</li>\n<li>🚫 <strong>Restricted Specialist Options:</strong> While referrals to specialists are provided, the network may be limited based on geography and insurance acceptance.</li>\n<li>💬 <strong>Communication Method:</strong> Some users may prefer in-person visits over Babylon's in-app messaging and telehealth appointments.</li>\n<li>🧐 <strong>Device Compatibility:</strong> Seamless use of healthcare tracking requires compatible wearables and health devices.</li>\n</ul>\n<p><strong>Price:</strong></p>\n<ul>\n<li>💵 Babylon provides a free suite of self-care tools, including the 'My Health' feature and Symptom Checker. The telemedicine services and additional features may be accessed at no additional cost through specific health plans, where eligible. Please consult with your health plan for detailed pricing information and eligibility.</li>\n</ul>\n<p>By offering a mix of health management tools and professional support, Babylon represents the evolution of digital healthcare, bringing medical services to the palm of your hand.</p>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-stress-test/48991.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.stress.test.png",
+      "name": "Stress Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.1"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-procrastination-test/39516.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.procrastination.test.png",
+      "name": "Procrastination Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-bingeeating-test/39303.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.bingeeating.test.png",
+      "name": "Binge Eating Disorder Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-ocd-test/34780.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.ocd.test.png",
+      "name": "OCD Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.2"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-healthians-main-healthians/34760.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.healthians.main.healthians.png",
+      "name": "Healthians -Full Body Checkup",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.6"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-lbrc-PeriodCalendar/34759.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.lbrc.PeriodCalendar.png",
+      "name": "Period Tracker and Calendar",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.9"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/es-jshcd-edadosea/34693.html",
+      "icon": "https://img.buzzsight.co/apk/icon/es.jshcd.edadosea.png",
+      "name": "Bone age",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-devdis/16977.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.devdis.png",
+      "name": "Developmental Disabilities",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.5"
+    }
+  ]
+}

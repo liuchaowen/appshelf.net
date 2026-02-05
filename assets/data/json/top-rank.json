@@ -1,0 +1,1427 @@
+{
+  "apps": [
+    {
+      "type": "app",
+      "rank": 1,
+      "name": "U",
+      "category": "Communication",
+      "url": "/details/u/3.html",
+      "img": "assets/img/apk/icon/com.cyberlink.U.png"
+    },
+    {
+      "type": "app",
+      "rank": 2,
+      "name": "Free Facetime Video Call Chat",
+      "category": "Communication",
+      "url": "/details/free-facetime-video-call-chat/119.html",
+      "img": "assets/img/apk/icon/free-facetime-video-call-chat.png"
+    },
+    {
+      "type": "app",
+      "rank": 3,
+      "name": "Microsoft Edge",
+      "category": "Communication",
+      "url": "/details/microsoft-edge/120.html",
+      "img": "assets/img/apk/icon/com.microsoft.emmx.png"
+    },
+    {
+      "type": "app",
+      "rank": 4,
+      "name": "Adblock Plus",
+      "category": "Communication",
+      "url": "/details/adblock-plus/121.html",
+      "img": "assets/img/apk/icon/adblock-plus.png"
+    },
+    {
+      "type": "app",
+      "rank": 5,
+      "name": "Hangouts",
+      "category": "Communication",
+      "url": "/details/hangouts/122.html",
+      "img": "assets/img/apk/icon/hangouts.png"
+    },
+    {
+      "type": "app",
+      "rank": 6,
+      "name": "WhatsApp Messenger",
+      "category": "Communication",
+      "url": "/details/whatsapp-messenger/123.html",
+      "img": "assets/img/apk/icon/com.whatsapp.png"
+    },
+    {
+      "type": "app",
+      "rank": 7,
+      "name": "Google Chrome: Fast & Secure",
+      "category": "Communication",
+      "url": "/details/google-chrome/124.html",
+      "img": "assets/img/apk/icon/com.android.chrome.png"
+    },
+    {
+      "type": "app",
+      "rank": 8,
+      "name": "Gmail",
+      "category": "Communication",
+      "url": "/details/gmail/126.html",
+      "img": "assets/img/apk/icon/gmail.png"
+    },
+    {
+      "type": "app",
+      "rank": 9,
+      "name": "ParentSquare",
+      "category": "Communication",
+      "url": "/details/parentsquare/131.html",
+      "img": "assets/img/apk/icon/com.parentsquare.psapp.png"
+    },
+    {
+      "type": "app",
+      "rank": 10,
+      "name": "Securus Mobile",
+      "category": "Communication",
+      "url": "/details/securus-mobile/132.html",
+      "img": "assets/img/apk/icon/com.securus.videoclient.png"
+    },
+    {
+      "type": "app",
+      "rank": 11,
+      "name": "Google Duo",
+      "category": "Communication",
+      "url": "/details/google-duo/134.html",
+      "img": "assets/img/apk/icon/com.google.android.apps.tachyon.png"
+    },
+    {
+      "type": "app",
+      "rank": 12,
+      "name": "Dofu Live Stream for NFL NBA NCAAF MLB NHL",
+      "category": "Sport",
+      "url": "/details/dofu-live-stream-for-nfl-nba-ncaaf-mlb-nhl/285.html",
+      "img": "assets/img/apk/icon/net.dofusports.nfl.nba.ncaaf.mlb.nhl.png"
+    },
+    {
+      "type": "app",
+      "rank": 13,
+      "name": "Cocomelon",
+      "category": "Parenting",
+      "url": "/details/cocomelon/303.html",
+      "img": "assets/img/apk/icon/com.cocomelon.video43.png"
+    },
+    {
+      "type": "app",
+      "rank": 14,
+      "name": "myPhonak",
+      "category": "Medical",
+      "url": "/details/myphonak/449.html",
+      "img": "assets/img/apk/icon/com.sonova.phonak.dsapp.png"
+    },
+    {
+      "type": "app",
+      "rank": 15,
+      "name": "CSL Plasma",
+      "category": "Medical",
+      "url": "/details/csl-plasma/450.html",
+      "img": "assets/img/apk/icon/com.cslplasma.cslplasmadonorapplication.png"
+    },
+    {
+      "type": "app",
+      "rank": 16,
+      "name": "FollowMyHealth®",
+      "category": "Medical",
+      "url": "/details/followmyhealth/451.html",
+      "img": "assets/img/apk/icon/com.jardogs.fmhmobile.png"
+    },
+    {
+      "type": "app",
+      "rank": 17,
+      "name": "MyChart",
+      "category": "Medical",
+      "url": "/details/mychart/452.html",
+      "img": "assets/img/apk/icon/epic.mychart.android.png"
+    },
+    {
+      "type": "app",
+      "rank": 18,
+      "name": "IPTV Smarters Pro",
+      "category": "Video Players & Editors",
+      "url": "/details/iptv-smarters-pro/584.html",
+      "img": "assets/img/apk/icon/com.nst.iptvsmarterstvbox.png"
+    },
+    {
+      "type": "app",
+      "rank": 19,
+      "name": "YouTube",
+      "category": "Video Players & Editors",
+      "url": "/details/youtube/585.html",
+      "img": "assets/img/apk/icon/com.google.android.youtube.png"
+    },
+    {
+      "type": "app",
+      "rank": 20,
+      "name": "Google Photos",
+      "category": "Photography",
+      "url": "/details/google-photos/808.html",
+      "img": "assets/img/apk/icon/google-photos.png"
+    },
+    {
+      "type": "app",
+      "rank": 21,
+      "name": "United Airlines",
+      "category": "Travel & Local",
+      "url": "/details/united-airlines/893.html",
+      "img": "assets/img/apk/icon/com.united.mobile.android.png"
+    },
+    {
+      "type": "app",
+      "rank": 22,
+      "name": "Live Traffic NSW",
+      "category": "Travel & Local",
+      "url": "/details/live-traffic-nsw/894.html",
+      "img": "assets/img/apk/icon/com.livetrafficnsw.png"
+    },
+    {
+      "type": "app",
+      "rank": 23,
+      "name": "Bird",
+      "category": "Travel & Local",
+      "url": "/details/bird/896.html",
+      "img": "assets/img/apk/icon/co.bird.android.png"
+    },
+    {
+      "type": "app",
+      "rank": 24,
+      "name": "Phone Number Tracker",
+      "category": "Travel & Local",
+      "url": "/details/phone-number-tracker/897.html",
+      "img": "assets/img/apk/icon/com.phonenumbertracker.location.mobile.call.locator.callerid.png"
+    },
+    {
+      "type": "app",
+      "rank": 25,
+      "name": "Google Maps",
+      "category": "Travel & Local",
+      "url": "/details/google-maps/898.html",
+      "img": "assets/img/apk/icon/com.google.android.apps.maps.png"
+    },
+    {
+      "type": "app",
+      "rank": 26,
+      "name": "Me@Walmart",
+      "category": "Business",
+      "url": "/details/me-walmart/1079.html",
+      "img": "assets/img/apk/icon/com.walmart.squiggly.png"
+    },
+    {
+      "type": "app",
+      "rank": 27,
+      "name": "Microsoft Teams",
+      "category": "Business",
+      "url": "/details/microsoft-teams/1080.html",
+      "img": "assets/img/apk/icon/com.microsoft.teams.png"
+    },
+    {
+      "type": "app",
+      "rank": 28,
+      "name": "Canvas Student",
+      "category": "Education",
+      "url": "/details/canvas-student/1204.html",
+      "img": "assets/img/apk/icon/com.instructure.candroid.png"
+    },
+    {
+      "type": "app",
+      "rank": 29,
+      "name": "PlantSnap",
+      "category": "Education",
+      "url": "/details/plantsnap/1205.html",
+      "img": "assets/img/apk/icon/com.fws.plantsnap2.png"
+    },
+    {
+      "type": "app",
+      "rank": 30,
+      "name": "ClassDojo",
+      "category": "Education",
+      "url": "/details/classdojo/1206.html",
+      "img": "assets/img/apk/icon/classdojo.png"
+    },
+    {
+      "type": "app",
+      "rank": 31,
+      "name": "Realtor.com",
+      "category": "House & Home",
+      "url": "/details/realtor-com/1374.html",
+      "img": "assets/img/apk/icon/com.move.realtor.png"
+    },
+    {
+      "type": "app",
+      "rank": 32,
+      "name": "T-Mobile Internet",
+      "category": "House & Home",
+      "url": "/details/t-mobile-internet/1375.html",
+      "img": "assets/img/apk/icon/com.tmobile.homeisp.png"
+    },
+    {
+      "type": "app",
+      "rank": 33,
+      "name": "Wyze",
+      "category": "Lifestyle",
+      "url": "/details/wyze/1561.html",
+      "img": "assets/img/apk/icon/com.hualai.png"
+    },
+    {
+      "type": "app",
+      "rank": 34,
+      "name": "Cricut Design Space",
+      "category": "Lifestyle",
+      "url": "/details/cricut-design-space/1562.html",
+      "img": "assets/img/apk/icon/com.cricut.designspace.png"
+    },
+    {
+      "type": "app",
+      "rank": 35,
+      "name": "Great Clips",
+      "category": "Lifestyle",
+      "url": "/details/great-clips/1563.html",
+      "img": "assets/img/apk/icon/com.greatclips.android.png"
+    },
+    {
+      "type": "app",
+      "rank": 36,
+      "name": "Google Home",
+      "category": "Lifestyle",
+      "url": "/details/google-home/1564.html",
+      "img": "assets/img/apk/icon/google-home.png"
+    },
+    {
+      "type": "app",
+      "rank": 37,
+      "name": "VeryFit",
+      "category": "Health & Fitness",
+      "url": "/details/veryfit/1584.html",
+      "img": "assets/img/apk/icon/com.watch.life.png"
+    },
+    {
+      "type": "app",
+      "rank": 38,
+      "name": "Kaiser Permanente",
+      "category": "Health & Fitness",
+      "url": "/details/kaiser-permanente/1585.html",
+      "img": "assets/img/apk/icon/org.kp.m.png"
+    },
+    {
+      "type": "app",
+      "rank": 39,
+      "name": "healow",
+      "category": "Health & Fitness",
+      "url": "/details/healow/1586.html",
+      "img": "assets/img/apk/icon/com.ecw.healow.png"
+    },
+    {
+      "type": "app",
+      "rank": 40,
+      "name": "myCigna",
+      "category": "Health & Fitness",
+      "url": "/details/mycigna/1587.html",
+      "img": "assets/img/apk/icon/com.cigna.mobile.mycigna.png"
+    },
+    {
+      "type": "app",
+      "rank": 41,
+      "name": "MyBenefits Portal",
+      "category": "Health & Fitness",
+      "url": "/details/mybenefits-portal/1588.html",
+      "img": "assets/img/apk/icon/com.nb.mybenefits.png"
+    },
+    {
+      "type": "app",
+      "rank": 42,
+      "name": "OMRON connect",
+      "category": "Health & Fitness",
+      "url": "/details/omron-connect/1589.html",
+      "img": "assets/img/apk/icon/com.omronhealthcare.omronconnect.png"
+    },
+    {
+      "type": "app",
+      "rank": 43,
+      "name": "DMV Practice Test Pro 2023",
+      "category": "Auto & Vehicles",
+      "url": "/details/dmv-practice-test-pro-2023/1822.html",
+      "img": "assets/img/apk/icon/com.dmv.app.png"
+    },
+    {
+      "type": "app",
+      "rank": 44,
+      "name": "Android Auto",
+      "category": "Auto & Vehicles",
+      "url": "/details/android-auto/1823.html",
+      "img": "assets/img/apk/icon/android-auto.png"
+    },
+    {
+      "type": "app",
+      "rank": 45,
+      "name": "PayByPhone",
+      "category": "Auto & Vehicles",
+      "url": "/details/paybyphone/1824.html",
+      "img": "assets/img/apk/icon/com.paybyphone.png"
+    },
+    {
+      "type": "app",
+      "rank": 46,
+      "name": "Link to Windows",
+      "category": "Productivity",
+      "url": "/details/link-to-windows/1919.html",
+      "img": "assets/img/apk/icon/com.microsoft.appmanager.png"
+    },
+    {
+      "type": "app",
+      "rank": 47,
+      "name": "Calendar",
+      "category": "Productivity",
+      "url": "/details/calendar/1920.html",
+      "img": "assets/img/apk/icon/com.calendar.schedule.event.png"
+    },
+    {
+      "type": "app",
+      "rank": 48,
+      "name": "ID.me Authenticator",
+      "category": "Productivity",
+      "url": "/details/id-me-authenticator/1921.html",
+      "img": "assets/img/apk/icon/me.id.auth.png"
+    },
+    {
+      "type": "app",
+      "rank": 49,
+      "name": "Today Weather",
+      "category": "Weather",
+      "url": "/details/today-weather/2017.html",
+      "img": "assets/img/apk/icon/mobi.lockdown.weather.png"
+    },
+    {
+      "type": "app",
+      "rank": 50,
+      "name": "TonesBeat",
+      "category": "Photography",
+      "url": "/details/tonesbeat/2216.html",
+      "img": "assets/img/apk/icon/com.tonesbeat.android.png"
+    },
+    {
+      "type": "app",
+      "rank": 51,
+      "name": "Texas Roadhouse",
+      "category": "Food & Drink",
+      "url": "/details/texas-roadhouse/2271.html",
+      "img": "assets/img/apk/icon/com.relevantmobile.texasroadhouse.png"
+    },
+    {
+      "type": "app",
+      "rank": 52,
+      "name": "Subway App",
+      "category": "Food & Drink",
+      "url": "/details/subway-app/2272.html",
+      "img": "assets/img/apk/icon/com.subway.mobile.subwayapp03.png"
+    },
+    {
+      "type": "app",
+      "rank": 53,
+      "name": "Postmates Food Delivery",
+      "category": "Food & Drink",
+      "url": "/details/postmates-food-delivery/2273.html",
+      "img": "assets/img/apk/icon/postmates-food-delivery.png"
+    },
+    {
+      "type": "app",
+      "rank": 54,
+      "name": "Wodfix",
+      "category": "Tools",
+      "url": "/details/wodfix/2482.html",
+      "img": "assets/img/apk/icon/com.wodol.dol.png"
+    },
+    {
+      "type": "app",
+      "rank": 55,
+      "name": "QR Code Scanner",
+      "category": "Tools",
+      "url": "/details/qr-code-scanner/2483.html",
+      "img": "assets/img/apk/icon/com.codescan.android.png"
+    },
+    {
+      "type": "app",
+      "rank": 56,
+      "name": "Google Authenticator",
+      "category": "Tools",
+      "url": "/details/google-authenticator/2484.html",
+      "img": "assets/img/apk/icon/com.google.android.apps.authenticator2.png"
+    },
+    {
+      "type": "app",
+      "rank": 57,
+      "name": "DuckDuckGo Privacy Browser",
+      "category": "Tools",
+      "url": "/details/duckduckgo-privacy-browser/2485.html",
+      "img": "assets/img/apk/icon/com.duckduckgo.mobile.android.png"
+    },
+    {
+      "type": "app",
+      "rank": 58,
+      "name": "Remote Control For TV",
+      "category": "Tools",
+      "url": "/details/remote-control-for-tv/2486.html",
+      "img": "assets/img/apk/icon/com.soomapps.universalremotecontrol.png"
+    },
+    {
+      "type": "app",
+      "rank": 59,
+      "name": "Virus Removal For Android",
+      "category": "Tools",
+      "url": "/details/virus-removal-for-android/2488.html",
+      "img": "assets/img/apk/icon/virus-removal-for-android.png"
+    },
+    {
+      "type": "app",
+      "rank": 60,
+      "name": "Power Clean",
+      "category": "Tools",
+      "url": "/details/power-clean/2489.html",
+      "img": "assets/img/apk/icon/power-clean-optimize-cleaner.png"
+    },
+    {
+      "type": "app",
+      "rank": 61,
+      "name": "My Spectrum",
+      "category": "Tools",
+      "url": "/details/my-spectrum/2493.html",
+      "img": "assets/img/apk/icon/com.brighthouse.mybhn.png"
+    },
+    {
+      "type": "app",
+      "rank": 62,
+      "name": "Hidden Camera Detector",
+      "category": "Tools",
+      "url": "/details/hidden-camera-detector/2494.html",
+      "img": "assets/img/apk/icon/hiddencamdetector.futureapps.com.hiddencamdetector.png"
+    },
+    {
+      "type": "app",
+      "rank": 63,
+      "name": "Amazon Fire TV",
+      "category": "Tools",
+      "url": "/details/amazon-fire-tv/2495.html",
+      "img": "assets/img/apk/icon/com.amazon.storm.lightning.client.aosp.png"
+    },
+    {
+      "type": "app",
+      "rank": 64,
+      "name": "QR & Barcode Scanner",
+      "category": "Tools",
+      "url": "/details/qr-barcode-scanner/2496.html",
+      "img": "assets/img/apk/icon/com.gamma.scan.png"
+    },
+    {
+      "type": "app",
+      "rank": 65,
+      "name": "Waze",
+      "category": "Maps & Navigation",
+      "url": "/details/waze/2585.html",
+      "img": "assets/img/apk/icon/waze.png"
+    },
+    {
+      "type": "app",
+      "rank": 66,
+      "name": "GPS, Maps, Voice Navigation & Directions",
+      "category": "Maps & Navigation",
+      "url": "/details/gps-maps-voice-navigation-directions/2586.html",
+      "img": "assets/img/apk/icon/com.maps.voice.navigation.traffic.gps.location.route.driving.directions.png"
+    },
+    {
+      "type": "app",
+      "rank": 67,
+      "name": "CVS/pharmacy",
+      "category": "Shopping",
+      "url": "/details/cvs-pharmacy/2818.html",
+      "img": "assets/img/apk/icon/com.cvs.launchers.cvs.png"
+    },
+    {
+      "type": "app",
+      "rank": 68,
+      "name": "DealDash",
+      "category": "Shopping",
+      "url": "/details/dealdash/2819.html",
+      "img": "assets/img/apk/icon/com.dealdash.png"
+    },
+    {
+      "type": "app",
+      "rank": 69,
+      "name": "Walmart",
+      "category": "Shopping",
+      "url": "/details/walmart/2820.html",
+      "img": "assets/img/apk/icon/walmart.png"
+    },
+    {
+      "type": "app",
+      "rank": 70,
+      "name": "Circle K",
+      "category": "Shopping",
+      "url": "/details/circle-k/2821.html",
+      "img": "assets/img/apk/icon/com.circlek.gmap.na.png"
+    },
+    {
+      "type": "app",
+      "rank": 71,
+      "name": "Amazon Shopping",
+      "category": "Shopping",
+      "url": "/details/amazon-shopping/2823.html",
+      "img": "assets/img/apk/icon/amazon-shopping.png"
+    },
+    {
+      "type": "app",
+      "rank": 72,
+      "name": "CNN Breaking US & World News",
+      "category": "News & Magazines",
+      "url": "/details/cnn-breaking-us-world-news/3052.html",
+      "img": "assets/img/apk/icon/com.cnn.mobile.android.phone.png"
+    },
+    {
+      "type": "app",
+      "rank": 73,
+      "name": "Police Scanner",
+      "category": "News & Magazines",
+      "url": "/details/police-scanner/3053.html",
+      "img": "assets/img/apk/icon/police.scanner.radio.broadcastify.citizen.png"
+    },
+    {
+      "type": "app",
+      "rank": 74,
+      "name": "Volume Booster",
+      "category": "Music & Audio",
+      "url": "/details/volume-booster/3217.html",
+      "img": "assets/img/apk/icon/volumebooster.soundspeaker.louder.png"
+    },
+    {
+      "type": "app",
+      "rank": 75,
+      "name": "Amazon Alexa",
+      "category": "Music & Audio",
+      "url": "/details/amazon-alexa/3219.html",
+      "img": "assets/img/apk/icon/amazon-alexa.png"
+    },
+    {
+      "type": "app",
+      "rank": 76,
+      "name": "Peacock TV",
+      "category": "Entertainment",
+      "url": "/details/peacock-tv/3389.html",
+      "img": "assets/img/apk/icon/com.peacocktv.peacockandroid.png"
+    },
+    {
+      "type": "app",
+      "rank": 77,
+      "name": "Paramount Network",
+      "category": "Entertainment",
+      "url": "/details/paramount-network/3390.html",
+      "img": "assets/img/apk/icon/com.vmn.android.spike.png"
+    },
+    {
+      "type": "app",
+      "rank": 78,
+      "name": "Meta Quest",
+      "category": "Entertainment",
+      "url": "/details/meta-quest/3391.html",
+      "img": "assets/img/apk/icon/com.oculus.twilight.png"
+    },
+    {
+      "type": "app",
+      "rank": 79,
+      "name": "Regal",
+      "category": "Entertainment",
+      "url": "/details/regal/3392.html",
+      "img": "assets/img/apk/icon/com.fandango.regal.png"
+    },
+    {
+      "type": "app",
+      "rank": 80,
+      "name": "Ticketmaster",
+      "category": "Entertainment",
+      "url": "/details/ticketmaster/3393.html",
+      "img": "assets/img/apk/icon/com.ticketmaster.mobile.android.au.png"
+    },
+    {
+      "type": "app",
+      "rank": 81,
+      "name": "Kanopy",
+      "category": "Entertainment",
+      "url": "/details/kanopy/3403.html",
+      "img": "assets/img/apk/icon/com.kanopy.png"
+    },
+    {
+      "type": "app",
+      "rank": 82,
+      "name": "MovieBox Pro",
+      "category": "Entertainment",
+      "url": "/details/moviebox-pro/3404.html",
+      "img": "assets/img/apk/icon/com.fire.android.movieboxapp.png"
+    },
+    {
+      "type": "app",
+      "rank": 83,
+      "name": "Zeus",
+      "category": "Entertainment",
+      "url": "/details/zeus/3406.html",
+      "img": "assets/img/apk/icon/com.thezeusnetwork.www.png"
+    },
+    {
+      "type": "app",
+      "rank": 84,
+      "name": "AXS Tickets",
+      "category": "Entertainment",
+      "url": "/details/axs-tickets/3408.html",
+      "img": "assets/img/apk/icon/com.axs.android.png"
+    },
+    {
+      "type": "app",
+      "rank": 85,
+      "name": "Stream East",
+      "category": "Entertainment",
+      "url": "/details/stream-east/3409.html",
+      "img": "assets/img/apk/icon/com.stream.streameast.matches.sports.strea.png"
+    },
+    {
+      "type": "app",
+      "rank": 86,
+      "name": "Nextdoor",
+      "category": "Social",
+      "url": "/details/nextdoor/3598.html",
+      "img": "assets/img/apk/icon/com.nextdoor.png"
+    },
+    {
+      "type": "app",
+      "rank": 87,
+      "name": "Free phone calls",
+      "category": "Social",
+      "url": "/details/free-phone-calls/3599.html",
+      "img": "assets/img/apk/icon/me.dingtone.app.im.png"
+    },
+    {
+      "type": "app",
+      "rank": 88,
+      "name": "Snapchat",
+      "category": "Social",
+      "url": "/details/snapchat/3600.html",
+      "img": "assets/img/apk/icon/com.snapchat.android.png"
+    },
+    {
+      "type": "app",
+      "rank": 89,
+      "name": "TikTok",
+      "category": "Social",
+      "url": "/details/tiktok/3601.html",
+      "img": "assets/img/apk/icon/com.zhiliaoapp.musically.png"
+    },
+    {
+      "type": "app",
+      "rank": 90,
+      "name": "Facebook",
+      "category": "Social",
+      "url": "/details/facebook/3602.html",
+      "img": "assets/img/apk/icon/com.facebook.katana.png"
+    }
+  ],
+  "games": [
+    {
+      "type": "game",
+      "rank": 1,
+      "name": "Let's Be Cops 3D",
+      "category": "Casual",
+      "url": "/details/lets-be-cops-3d/3685.html",
+      "img": "assets/img/apk/icon/com.kwalee.letsbecops.png"
+    },
+    {
+      "type": "game",
+      "rank": 2,
+      "name": "Crowd City",
+      "category": "Arcade",
+      "url": "/details/crowd-city/3696.html",
+      "img": "assets/img/apk/icon/io.voodoo.crowdcity.png"
+    },
+    {
+      "type": "game",
+      "rank": 3,
+      "name": "Become a Queen",
+      "category": "Casual",
+      "url": "/details/become-a-queen/3705.html",
+      "img": "assets/img/apk/icon/com.UnlockGames.BecomeaQueennn.png"
+    },
+    {
+      "type": "game",
+      "rank": 4,
+      "name": "PAC-MAN",
+      "category": "Arcade",
+      "url": "/details/pac-man/3718.html",
+      "img": "assets/img/apk/icon/pac-man.png"
+    },
+    {
+      "type": "game",
+      "rank": 5,
+      "name": "Gardenscapes - New Acres",
+      "category": "Casual",
+      "url": "/details/gardenscapes-new-acres/3719.html",
+      "img": "assets/img/apk/icon/gardenscapes-new-acres.png"
+    },
+    {
+      "type": "game",
+      "rank": 6,
+      "name": "Plants vs. Zombies™ 2",
+      "category": "Casual",
+      "url": "/details/plants-vs-zombies-2/3727.html",
+      "img": "assets/img/apk/icon/com.ea.game.pvz2_na.png"
+    },
+    {
+      "type": "game",
+      "rank": 7,
+      "name": "Dumb Ways to Die",
+      "category": "Casual",
+      "url": "/details/dumb-ways-to-die/3729.html",
+      "img": "assets/img/apk/icon/dumb-ways-to-die.png"
+    },
+    {
+      "type": "game",
+      "rank": 8,
+      "name": "Plants vs Zombies 2",
+      "category": "Casual",
+      "url": "/details/plants-vs-zombies-2/3741.html",
+      "img": "assets/img/apk/icon/plants-vs-zombies-2.png"
+    },
+    {
+      "type": "game",
+      "rank": 9,
+      "name": "Dumb Ways to Die 2",
+      "category": "Casual",
+      "url": "/details/dumb-ways-to-die-2/3748.html",
+      "img": "assets/img/apk/icon/dumb-ways-to-die-2.png"
+    },
+    {
+      "type": "game",
+      "rank": 10,
+      "name": "World Chef",
+      "category": "Casual",
+      "url": "/details/world-chef/3750.html",
+      "img": "assets/img/apk/icon/world-chef.png"
+    },
+    {
+      "type": "game",
+      "rank": 11,
+      "name": "Chat Master!",
+      "category": "Casual",
+      "url": "/details/chat-master/3758.html",
+      "img": "assets/img/apk/icon/com.RBSSOFT.HyperMobile.png"
+    },
+    {
+      "type": "game",
+      "rank": 12,
+      "name": "solitaire clash",
+      "category": "Card",
+      "url": "/details/solitaire-clash/3766.html",
+      "img": "assets/img/apk/icon/com.solitaire.clash.royal.poker.spades.match.game.free.png"
+    },
+    {
+      "type": "game",
+      "rank": 13,
+      "name": "Microsoft Solitaire Collection",
+      "category": "Card",
+      "url": "/details/microsoft-solitaire-collection/3775.html",
+      "img": "assets/img/apk/icon/microsoft-solitaire-collection.png"
+    },
+    {
+      "type": "game",
+      "rank": 14,
+      "name": "Fun Race 3D",
+      "category": "Racing",
+      "url": "/details/fun-race-3d/3789.html",
+      "img": "assets/img/apk/icon/com.slippy.linerusher.png"
+    },
+    {
+      "type": "game",
+      "rank": 15,
+      "name": "Hot Wheels: Race Off",
+      "category": "Racing",
+      "url": "/details/hot-wheels-race-off/3800.html",
+      "img": "assets/img/apk/icon/hot-wheels-race-off.png"
+    },
+    {
+      "type": "game",
+      "rank": 16,
+      "name": "Animal Transform Race",
+      "category": "Racing",
+      "url": "/details/animal-transform-race/3806.html",
+      "img": "assets/img/apk/icon/com.whitesquare.animaltransform.png"
+    },
+    {
+      "type": "game",
+      "rank": 17,
+      "name": "TRIVIA STAR",
+      "category": "Trivia",
+      "url": "/details/trivia-star/3820.html",
+      "img": "assets/img/apk/icon/com.trivia.star.android.png"
+    },
+    {
+      "type": "game",
+      "rank": 18,
+      "name": "Trivia Crack",
+      "category": "Trivia",
+      "url": "/details/trivia-crack/3825.html",
+      "img": "assets/img/apk/icon/trivia-crack.png"
+    },
+    {
+      "type": "game",
+      "rank": 19,
+      "name": "Christmas Coloring",
+      "category": "Educational",
+      "url": "/details/christmas-coloring/3829.html",
+      "img": "assets/img/apk/icon/com.coloring.christmas.png"
+    },
+    {
+      "type": "game",
+      "rank": 20,
+      "name": "Toca Life World",
+      "category": "Educational",
+      "url": "/details/toca-life-world/3834.html",
+      "img": "assets/img/apk/icon/com.tocaboca.tocalifeworld.png"
+    },
+    {
+      "type": "game",
+      "rank": 21,
+      "name": "Galaxy Voyage",
+      "category": "Strategy",
+      "url": "/details/galaxy-voyage/3848.html",
+      "img": "assets/img/apk/icon/galaxy-voyage.png"
+    },
+    {
+      "type": "game",
+      "rank": 22,
+      "name": "Last Empire-War Z",
+      "category": "Strategy",
+      "url": "/details/last-empire-war-z/3850.html",
+      "img": "assets/img/apk/icon/last-empire-war-z.png"
+    },
+    {
+      "type": "game",
+      "rank": 23,
+      "name": "Castle Clash",
+      "category": "Strategy",
+      "url": "/details/castle-clash/3852.html",
+      "img": "assets/img/apk/icon/castle-clash.png"
+    },
+    {
+      "type": "game",
+      "rank": 24,
+      "name": "The Walking Dead",
+      "category": "Strategy",
+      "url": "/details/the-walking-dead/3855.html",
+      "img": "assets/img/apk/icon/com.elex.twdsaw.gp.png"
+    },
+    {
+      "type": "game",
+      "rank": 25,
+      "name": "State.io",
+      "category": "Strategy",
+      "url": "/details/state-io/3858.html",
+      "img": "assets/img/apk/icon/io.state.fight.png"
+    },
+    {
+      "type": "game",
+      "rank": 26,
+      "name": "Goose Goose Duck",
+      "category": "Strategy",
+      "url": "/details/goose-goose-duck/3860.html",
+      "img": "assets/img/apk/icon/com.Gaggle.fun.GooseGooseDuck.png"
+    },
+    {
+      "type": "game",
+      "rank": 27,
+      "name": "Dominoes",
+      "category": "Board",
+      "url": "/details/dominoes/3872.html",
+      "img": "assets/img/apk/icon/com.LoopGames.Domino.png"
+    },
+    {
+      "type": "game",
+      "rank": 28,
+      "name": "Chess",
+      "category": "Board",
+      "url": "/details/chess/3877.html",
+      "img": "assets/img/apk/icon/com.chess.png"
+    },
+    {
+      "type": "game",
+      "rank": 29,
+      "name": "Dragonheir: Silent Gods",
+      "category": "Role Playing",
+      "url": "/details/dragonheir-silent-gods/3881.html",
+      "img": "assets/img/apk/icon/com.sgra.dragon.png"
+    },
+    {
+      "type": "game",
+      "rank": 30,
+      "name": "DragonSoul",
+      "category": "Role Playing",
+      "url": "/details/dragonsoul/3886.html",
+      "img": "assets/img/apk/icon/dragonsoul.png"
+    },
+    {
+      "type": "game",
+      "rank": 31,
+      "name": "Avakin Life",
+      "category": "Role Playing",
+      "url": "/details/avakin-life/3892.html",
+      "img": "assets/img/apk/icon/avakin-life.png"
+    },
+    {
+      "type": "game",
+      "rank": 32,
+      "name": "Saint Seiya: Rising Cosmo",
+      "category": "Role Playing",
+      "url": "/details/saint-seiya-rising-cosmo/3897.html",
+      "img": "assets/img/apk/icon/com.tencent.tmgp.sskjp.png"
+    },
+    {
+      "type": "game",
+      "rank": 33,
+      "name": "MeChat",
+      "category": "Role Playing",
+      "url": "/details/mechat/3913.html",
+      "img": "assets/img/apk/icon/world.playme.mechat.png"
+    },
+    {
+      "type": "game",
+      "rank": 34,
+      "name": "Word Search Explorer",
+      "category": "Word",
+      "url": "/details/word-search-explorer/3916.html",
+      "img": "assets/img/apk/icon/in.playsimple.wordsearch.png"
+    },
+    {
+      "type": "game",
+      "rank": 35,
+      "name": "Hanuman Hero Run",
+      "category": "Adventure",
+      "url": "/details/hanuman-hero-run/3955.html",
+      "img": "assets/img/apk/icon/hanuman-hero-run.png"
+    },
+    {
+      "type": "game",
+      "rank": 36,
+      "name": "Genshin Impact",
+      "category": "Adventure",
+      "url": "/details/genshin-impact/3973.html",
+      "img": "assets/img/apk/icon/com.miHoYo.GenshinImpact.png"
+    },
+    {
+      "type": "game",
+      "rank": 37,
+      "name": "Critical Action",
+      "category": "Adventure",
+      "url": "/details/critical-action/3975.html",
+      "img": "assets/img/apk/icon/com.bl.critical.strike.png"
+    },
+    {
+      "type": "game",
+      "rank": 38,
+      "name": "Eyes",
+      "category": "Adventure",
+      "url": "/details/eyes/3980.html",
+      "img": "assets/img/apk/icon/com.eyesthegame.eyes.png"
+    },
+    {
+      "type": "game",
+      "rank": 39,
+      "name": "Monster Legends",
+      "category": "Simulation",
+      "url": "/details/monster-legends/3993.html",
+      "img": "assets/img/apk/icon/monster-legends.png"
+    },
+    {
+      "type": "game",
+      "rank": 40,
+      "name": "ISEKAI:Demon Waifu",
+      "category": "Simulation",
+      "url": "/details/isekaidemon-waifu/4024.html",
+      "img": "assets/img/apk/icon/com.ysjmwdfz.mfnmsen.png"
+    },
+    {
+      "type": "game",
+      "rank": 41,
+      "name": "Family Farm Adventure",
+      "category": "Simulation",
+      "url": "/details/family-farm-adventure/4033.html",
+      "img": "assets/img/apk/icon/com.farmadventure.global.png"
+    },
+    {
+      "type": "game",
+      "rank": 42,
+      "name": "Block Crazy Robo World",
+      "category": "Simulation",
+      "url": "/details/block-crazy-robo-world/4053.html",
+      "img": "assets/img/apk/icon/com.crazy.block.robo.monster.cliffs.craft.png"
+    },
+    {
+      "type": "game",
+      "rank": 43,
+      "name": "Big Makeover",
+      "category": "Simulation",
+      "url": "/details/big-makeover/4054.html",
+      "img": "assets/img/apk/icon/com.tyy.makeover.png"
+    },
+    {
+      "type": "game",
+      "rank": 44,
+      "name": "SIMULACRA - Found phone horror",
+      "category": "Simulation",
+      "url": "/details/simulacra-found-phone-horror/4055.html",
+      "img": "assets/img/apk/icon/com.kaigan.simulacra.png"
+    },
+    {
+      "type": "game",
+      "rank": 45,
+      "name": "Block Blast Adventure Master",
+      "category": "Puzzle",
+      "url": "/details/block-blast-adventure-master/4077.html",
+      "img": "assets/img/apk/icon/com.block.juggle.png"
+    },
+    {
+      "type": "game",
+      "rank": 46,
+      "name": "Find Objects Christmas Holiday",
+      "category": "Puzzle",
+      "url": "/details/find-objects-christmas-holiday/4079.html",
+      "img": "assets/img/apk/icon/com.midva.HiddenObjectChristmas.png"
+    },
+    {
+      "type": "game",
+      "rank": 47,
+      "name": "Draw It Story",
+      "category": "Puzzle",
+      "url": "/details/draw-it-story/4080.html",
+      "img": "assets/img/apk/icon/com.tvc.drawstory.png"
+    },
+    {
+      "type": "game",
+      "rank": 48,
+      "name": "Merge Tales",
+      "category": "Puzzle",
+      "url": "/details/merge-tales/4081.html",
+      "img": "assets/img/apk/icon/com.mergegame.candy.png"
+    },
+    {
+      "type": "game",
+      "rank": 49,
+      "name": "Stretch Guy",
+      "category": "Puzzle",
+      "url": "/details/stretch-guy/4086.html",
+      "img": "assets/img/apk/icon/com.YsoCorp.StretchGuy.png"
+    },
+    {
+      "type": "game",
+      "rank": 50,
+      "name": "Match 3D",
+      "category": "Puzzle",
+      "url": "/details/match-3d/4087.html",
+      "img": "assets/img/apk/icon/com.loop.match3d.png"
+    },
+    {
+      "type": "game",
+      "rank": 51,
+      "name": "Perfect Time",
+      "category": "Puzzle",
+      "url": "/details/perfect-time/4092.html",
+      "img": "assets/img/apk/icon/com.recreationslab.perfecttime.png"
+    },
+    {
+      "type": "game",
+      "rank": 52,
+      "name": "DOP 2: Delete One Part",
+      "category": "Puzzle",
+      "url": "/details/dop-2-delete-one-part/4098.html",
+      "img": "assets/img/apk/icon/com.playstrom.dop2.png"
+    },
+    {
+      "type": "game",
+      "rank": 53,
+      "name": "Re-Size-I‪t",
+      "category": "Puzzle",
+      "url": "/details/re-size-i%E2%80%AAt/4105.html",
+      "img": "assets/img/apk/icon/com.easygames.resize.png"
+    },
+    {
+      "type": "game",
+      "rank": 54,
+      "name": "Hidden Objects Christmas Trees",
+      "category": "Puzzle",
+      "url": "/details/hidden-objects-christmas-trees/4115.html",
+      "img": "assets/img/apk/icon/com.midva.HiddenObjectChristmasTrees.png"
+    },
+    {
+      "type": "game",
+      "rank": 55,
+      "name": "Tiles Hop",
+      "category": "Music",
+      "url": "/details/tiles-hop/4139.html",
+      "img": "assets/img/apk/icon/com.amanotes.beathopper.png"
+    },
+    {
+      "type": "game",
+      "rank": 56,
+      "name": "Sudoku",
+      "category": "Puzzle",
+      "url": "/details/sudoku/4160.html",
+      "img": "assets/img/apk/icon/easy.sudoku.puzzle.solver.free.png"
+    },
+    {
+      "type": "game",
+      "rank": 57,
+      "name": "Tetris®",
+      "category": "Puzzle",
+      "url": "/details/tetris/4169.html",
+      "img": "assets/img/apk/icon/com.n3twork.tetris.png"
+    },
+    {
+      "type": "game",
+      "rank": 58,
+      "name": "2048",
+      "category": "Puzzle",
+      "url": "/details/2048/4176.html",
+      "img": "assets/img/apk/icon/2048.png"
+    },
+    {
+      "type": "game",
+      "rank": 59,
+      "name": "Harry Potter: Puzzles & Spells",
+      "category": "Puzzle",
+      "url": "/details/harry-potter-puzzles-spells/4183.html",
+      "img": "assets/img/apk/icon/com.zynga.pottermatch.png"
+    },
+    {
+      "type": "game",
+      "rank": 60,
+      "name": "Zepp",
+      "category": "Sports",
+      "url": "/details/zepp/4199.html",
+      "img": "assets/img/apk/icon/com.huami.watch.hmwatchmanager.png"
+    },
+    {
+      "type": "game",
+      "rank": 61,
+      "name": "Telemundo Deportes",
+      "category": "Sports",
+      "url": "/details/telemundo-deportes/4200.html",
+      "img": "assets/img/apk/icon/air.com.nbcuni.com.telemundo.envivo.png"
+    },
+    {
+      "type": "game",
+      "rank": 62,
+      "name": "ESPN",
+      "category": "Sports",
+      "url": "/details/espn/4201.html",
+      "img": "assets/img/apk/icon/espn.png"
+    },
+    {
+      "type": "game",
+      "rank": 63,
+      "name": "NBC Sports",
+      "category": "Sports",
+      "url": "/details/nbc-sports/4202.html",
+      "img": "assets/img/apk/icon/nbc-sports.png"
+    },
+    {
+      "type": "game",
+      "rank": 64,
+      "name": "Alphabet Shooter",
+      "category": "Action",
+      "url": "/details/alphabet-shooter/4204.html",
+      "img": "assets/img/apk/icon/com.htt.alpha.shooter.fps.png"
+    },
+    {
+      "type": "game",
+      "rank": 65,
+      "name": "Blade Hero",
+      "category": "Action",
+      "url": "/details/blade-hero/4207.html",
+      "img": "assets/img/apk/icon/com.nullptr.bladehero.png"
+    },
+    {
+      "type": "game",
+      "rank": 66,
+      "name": "Space Survivor",
+      "category": "Action",
+      "url": "/details/space-survivor/4233.html",
+      "img": "assets/img/apk/icon/com.scream.imposter.monster.survival.png"
+    },
+    {
+      "type": "game",
+      "rank": 67,
+      "name": "NFL",
+      "category": "Sports",
+      "url": "/details/nfl/4234.html",
+      "img": "assets/img/apk/icon/com.gotv.nflgamecenter.us.lite.png"
+    },
+    {
+      "type": "game",
+      "rank": 68,
+      "name": "OneFootball - Soccer Scores",
+      "category": "Sports",
+      "url": "/details/onefootball-soccer-scores/4249.html",
+      "img": "assets/img/apk/icon/de.motain.iliga.png"
+    },
+    {
+      "type": "game",
+      "rank": 69,
+      "name": "EA SPORTS™ FIFA 23 Companion",
+      "category": "Sports",
+      "url": "/details/ea-sports-fifa-23-companion/4252.html",
+      "img": "assets/img/apk/icon/com.ea.gp.fifaultimate.png"
+    },
+    {
+      "type": "game",
+      "rank": 70,
+      "name": "Yahoo Sports",
+      "category": "Sports",
+      "url": "/details/yahoo-sports/4253.html",
+      "img": "assets/img/apk/icon/com.yahoo.mobile.client.android.sportacular.png"
+    },
+    {
+      "type": "game",
+      "rank": 71,
+      "name": "NBA All Net",
+      "category": "Sports",
+      "url": "/details/nba-all-net/4254.html",
+      "img": "assets/img/apk/icon/nba-all-net.png"
+    },
+    {
+      "type": "game",
+      "rank": 72,
+      "name": "LiveScore",
+      "category": "Sports",
+      "url": "/details/livescore/4264.html",
+      "img": "assets/img/apk/icon/com.livescore.png"
+    },
+    {
+      "type": "game",
+      "rank": 73,
+      "name": "Da Fit",
+      "category": "Sports",
+      "url": "/details/da-fit/4265.html",
+      "img": "assets/img/apk/icon/com.crrepa.band.dafit.png"
+    },
+    {
+      "type": "game",
+      "rank": 74,
+      "name": "Call of Duty: Mobile Season 2",
+      "category": "Action",
+      "url": "/details/call-of-duty-mobile/4286.html",
+      "img": "assets/img/apk/icon/com.activision.callofduty.shooter.png"
+    },
+    {
+      "type": "game",
+      "rank": 75,
+      "name": "Hide 'N Seek!",
+      "category": "Action",
+      "url": "/details/hide-n-seek/4287.html",
+      "img": "assets/img/apk/icon/com.seenax.HideAndSeek.png"
+    },
+    {
+      "type": "game",
+      "rank": 76,
+      "name": "Sword Play!",
+      "category": "Action",
+      "url": "/details/sword-play/4296.html",
+      "img": "assets/img/apk/icon/com.barsstudios.swordplay.png"
+    },
+    {
+      "type": "game",
+      "rank": 77,
+      "name": "Archero",
+      "category": "Action",
+      "url": "/details/archero/4319.html",
+      "img": "assets/img/apk/icon/com.habby.archero.png"
+    },
+    {
+      "type": "game",
+      "rank": 78,
+      "name": "Among Us",
+      "category": "Action",
+      "url": "/details/among-us/4321.html",
+      "img": "assets/img/apk/icon/com.innersloth.spacemafia.png"
+    },
+    {
+      "type": "game",
+      "rank": 79,
+      "name": "Fortnite",
+      "category": "Action",
+      "url": "/details/fortnite/4322.html",
+      "img": "assets/img/apk/icon/fortnite.png"
+    },
+    {
+      "type": "game",
+      "rank": 80,
+      "name": "Super Mario Run",
+      "category": "Action",
+      "url": "/details/super-mario-run/4323.html",
+      "img": "assets/img/apk/icon/super-mario-run.png"
+    },
+    {
+      "type": "game",
+      "rank": 81,
+      "name": "Bowmasters",
+      "category": "Action",
+      "url": "/details/bowmasters/4330.html",
+      "img": "assets/img/apk/icon/bowmasters.png"
+    },
+    {
+      "type": "game",
+      "rank": 82,
+      "name": "Teacher Simulator",
+      "category": "Casual",
+      "url": "/details/teacher-simulator/4360.html",
+      "img": "assets/img/apk/icon/com.syubestgames.teachersimulator.png"
+    },
+    {
+      "type": "game",
+      "rank": 83,
+      "name": "Superhero Race!",
+      "category": "Casual",
+      "url": "/details/superhero-race/4362.html",
+      "img": "assets/img/apk/icon/com.adc.superhero.png"
+    },
+    {
+      "type": "game",
+      "rank": 84,
+      "name": "Muscle Rush",
+      "category": "Casual",
+      "url": "/details/muscle-rush/4367.html",
+      "img": "assets/img/apk/icon/com.muscle.rush.png"
+    },
+    {
+      "type": "game",
+      "rank": 85,
+      "name": "Match Masters",
+      "category": "Casual",
+      "url": "/details/match-masters/4370.html",
+      "img": "assets/img/apk/icon/com.funtomic.matchmasters.png"
+    },
+    {
+      "type": "game",
+      "rank": 86,
+      "name": "Play Together",
+      "category": "Casual",
+      "url": "/details/play-together/4371.html",
+      "img": "assets/img/apk/icon/com.haegin.playtogether.png"
+    },
+    {
+      "type": "game",
+      "rank": 87,
+      "name": "Christmas Cookie",
+      "category": "Casual",
+      "url": "/details/christmas-cookie/4380.html",
+      "img": "assets/img/apk/icon/com.rvappstudios.christmascookie.png"
+    }
+  ],
+  "stats": {
+    "total_apps": 90,
+    "total_games": 87,
+    "total": 177
+  }
+}

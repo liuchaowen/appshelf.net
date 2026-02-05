@@ -1,0 +1,109 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/app.thestigma.mobile.png",
+    "title": "The STIGMA App",
+    "ratings": "4.5",
+    "downloads": "560M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "The STIGMA App"
+    },
+    {
+      "name": "category",
+      "value": "Health & Fitness"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "STIGMA App"
+    },
+    {
+      "name": "Version",
+      "value": "1.118.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/FilaJNosi7HVDMztZIZV3cddlEOMvkwMn21AXj0NqkcwjobZahZSUFKXEOPcYfY_xQ",
+    "https://play-lh.googleusercontent.com/PNbq4qyGvwkbnZ4-Kq0NnZ_fW6LnaIAq_Z8OyS69y_rbyIQmwAAkkE6Ley2IiYgoUPw",
+    "https://play-lh.googleusercontent.com/LUMXVCk5cerFOd7EILZEdO8YtWNUIO00yHPHFZ5uPFGDHcDzCTh8KXF00DtRxeshyJWI",
+    "https://play-lh.googleusercontent.com/_bj5lOpVMcmJT6Xd44bkfEDWG-24MupFd7xSL9OxpD91szRpOKf9sqjFri33QPOoxoY",
+    "https://play-lh.googleusercontent.com/PyThvt3fNo-APjgwTlziiqbbkf_geUP0IsDyRolhgPo7bpc15X28qLjjhi3WiaxISKw"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> The STIGMA App</p>\n<p><strong>Package Name:</strong> app.thestigma.mobile</p>\n<p><strong>Brief:</strong>\nThe STIGMA App provides a heartening platform where individuals can share, connect, and support each other through their unique mental health journeys. It emphasizes the strength found in community, empowering users to both seek and provide hope through shared stories and encouraging messages, all within a compassionate environment.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🎥 <strong>STIGMA Stories:</strong> Dive into a rich feed of personal narratives, and tailor the content by filtering through various experiences or conditions that pique your interest. 🎥</li>\n<li>🤲 <strong>Ask for HOPE:</strong> On challenging days, reach out for support by sharing your thoughts and feelings with the STIGMA community, and wait for the uplifting responses to come your way. 🤲</li>\n<li>💖 <strong>Offer HOPE:</strong> Embrace the joy of giving by browsing the list of members seeking comfort and offering them words of strength and encouragement. 💖</li>\n<li>🌐 <strong>Community Network:</strong> Harness the power of collective bravery to foster and normalize mental health conversations within a supportive and safe online network. 🌐</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👥 <strong>Increased Compassion:</strong> Engaging with diverse stories cultivates empathy and a deeper understanding of various mental health experiences. 👥</li>\n<li>🔄 <strong>Reciprocal Support:</strong> Provides a balanced ecosystem where users can both give and receive encouragements, fostering a strong sense of community. 🔄</li>\n<li>💬 <strong>Tailored Experiences:</strong> Ability to filter STIGMA Stories ensures relevant and meaningful connections are made, enhancing user experience. 💬</li>\n<li>🧘‍♂️ <strong>Wellbeing Boost:</strong> Contributing to others' wellbeing by offering hope can also improve your own mental and physical health. 🧘‍♂️</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>⏳ <strong>Emotional Investment:</strong> Users need to be prepared for the emotional aspects of sharing and engaging with personal mental health stories. ⏳</li>\n<li>💡 <strong>Privacy Considerations:</strong> Sharing personal experiences requires a level of openness not everyone may be comfortable with. 💡</li>\n<li>🚀 <strong>Potential for Overwhelm:</strong> The constant influx of stories might be overwhelming for some users, requiring them to manage their intake. 🚀</li>\n<li>🗣️ <strong>Conversations Require Courage:</strong> Initiating and engaging in mental health conversations might be challenging for some individuals. 🗣️</li>\n</ul>\n<p><strong>Price:</strong></p>\n<ul>\n<li>💵 This app does not specify the pricing details, so it's presumed to be free with the possibility of in-app purchases or premium features. For exact details, users should check the app store listing. 💵</li>\n</ul>\n<p><strong>Community:</strong> </p>\n<ul>\n<li>Official Site: <a href=\"http://thestigma.app\" rel=\"noopener noreferrer\" target=\"_blank\">The STIGMA Official</a></li>\n<li>YouTube Channel: N/A</li>\n<li>Popular YouTuber's Channel: N/A</li>\n<li>Instagram: N/A</li>\n<li>Twitter: <a href=\"https://twitter.com/thestigmaapp\" rel=\"noopener noreferrer\" target=\"_blank\">Follow on Twitter</a></li>\n<li>Discord: N/A</li>\n<li>Facebook: <a href=\"https://www.facebook.com/thestigmaapp\" rel=\"noopener noreferrer\" target=\"_blank\">Like on Facebook</a></li>\n<li>TikTok: N/A</li>\n<li>Reddit: N/A</li>\n<li>Fandom Wiki Site: N/A</li>\n</ul>\n<p>Join the STIGMA App's mission today, and be part of changing how we talk about and treat mental health, one story, one message, one hope at a time.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-appflows-BodyMuse/48997.html",
+      "icon": "assets/img/apk/icon/com.appflows.BodyMuse.png",
+      "name": "BodyMuse: Body Shape Analysis",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-codev-headache_app/39734.html",
+      "icon": "assets/img/apk/icon/com.codev.headache_app.png",
+      "name": "Headache Diary, Test & Treat",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/life-simple/39727.html",
+      "icon": "assets/img/apk/icon/life.simple.png",
+      "name": "Simple: AI Weight Loss Coach",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-clearblue-minerva/39464.html",
+      "icon": "assets/img/apk/icon/com.clearblue.minerva.png",
+      "name": "Menopause Stage - Clearblue me",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-jplanet-lungtestandbreathpractice/39424.html",
+      "icon": "assets/img/apk/icon/com.jplanet.lungtestandbreathpractice.png",
+      "name": "Lung Test and Breath Exercise",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "3"
+    },
+    {
+      "link": "/details/healthy-lungs-breathing-exercise-coach-pranayama-breath-workout-lung-exercises/39423.html",
+      "icon": "assets/img/apk/icon/healthy.lungs.breathing.exercise.coach.pranayama.breath.workout.lung.exercises.png",
+      "name": "Lungs Test: Breathing Exercise",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-smartoptometry-smartoptometry-full/34733.html",
+      "icon": "assets/img/apk/icon/com.smartoptometry.smartoptometry.full.png",
+      "name": "Smart Optometry - Eye Tests",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-b2creativedesigns-eyetest/34732.html",
+      "icon": "assets/img/apk/icon/com.b2creativedesigns.eyetest.png",
+      "name": "Eye test",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.1"
+    }
+  ]
+}

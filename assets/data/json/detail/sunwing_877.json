@@ -1,0 +1,112 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.sunwing.sunwingmobile.png",
+    "title": "Sunwing",
+    "ratings": "3.7",
+    "downloads": "790M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Sunwing"
+    },
+    {
+      "name": "category",
+      "value": "Travel & Local"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Sunwing Vacations"
+    },
+    {
+      "name": "Version",
+      "value": "3.2.12"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/HZLG1wm-Rtn_j11NI_l4ADaqeSyyJ-g7jf5VuU-w98HjrA5UDUG_WzYwFt80IDs6EGQ",
+    "https://play-lh.googleusercontent.com/wKT6NfhW2mEkPlWSfUVAW4XarsjhpU6pGS8D_cz6Chg0dCmAjvyRBxHnkS1JCMnF3bBq",
+    "https://play-lh.googleusercontent.com/dh0dr1wu37vXuKBaQb4Wbk7PyZ0PLgouQhnBpzdm0rofKpXRaZXKMW6U_KRCIr1yveU",
+    "https://play-lh.googleusercontent.com/dWt-ZzRD5hLT5drWZ_-sSY_4PI2OveZpKlKmaLOM_v5STA8gjr1pjGxa3Rzd252E66E",
+    "https://play-lh.googleusercontent.com/LG8wOgjjjuBVhxh4cob8Uuk5qV1C3UkhtLi-SEtafro21AUXJ4nO9u246TQzkQfyzOYI",
+    "https://play-lh.googleusercontent.com/2NwKDSA_5wI_aqOR8vkie6NcAMy18SaVNF0ktD-7dZ6-6IyQcMprV4i_3RnueV4cSkE9",
+    "https://play-lh.googleusercontent.com/FAMMIp4zh9TgDGOPijY_J9Ak6VfDrf5zYLpLUxitQJUCf6ms2epJ7gJldAKA74VxNQ",
+    "https://play-lh.googleusercontent.com/IUJLLb18zGic9xSzi7AtX762w3PjHocE36He4TrKm_V-CpuzsJGfrXZbhRC4CHrHH8s"
+  ],
+  "app_descript": "<h1>Sunwing</h1>\n<p>Embark on a journey of seamless vacation planning with the Sunwing app. Designed to offer a dynamic companion for your trip, this mobile platform simplifies the travel process from start to finish. </p>\n<h2>📌 Core Features</h2>\n<ul>\n<li><strong>Vacation Management:</strong> Create a personalized account to effortlessly manage all your upcoming trips 📆.</li>\n<li><strong>Real-Time Updates:</strong> Stay informed with live flight notifications and local weather forecasts for your destinations 🌤️.</li>\n<li><strong>Onboard Extras:</strong> Browse and purchase from the Sunwing Café menu, offering light meals and snacks during the flight ✈️.</li>\n<li><strong>Vacation Enhancement:</strong> Opt for more convenience and luxury by choosing seats, booking transfers, and upgrading rooms from within the app 🛏️.</li>\n<li><strong>Customer Support:</strong> Access 24/7 contact with Sunwing representatives to ensure support throughout your travel experience 📞.</li>\n</ul>\n<h2>👍 Pros</h2>\n<ul>\n<li><strong>Intuitive Trip Organization:</strong> Streamline the planning process with an easy-to-use interface for managing bookings 📲.</li>\n<li><strong>Informed Traveling:</strong> Gain the advantage of having all pertinent travel information and updates at your fingertips 🗺️.</li>\n<li><strong>Personalization:</strong> Customize your getaway preferences, from seating to accommodation options, for a tailored travel experience ✨.</li>\n<li><strong>Continuous Support:</strong> Benefit from reliable and prompt customer assistance available anytime, anywhere 💁‍♂️.</li>\n<li><strong>Post-Trip Feedback:</strong> Share your experiences through a post-vacation survey, aiding in the improvement of services 📝.</li>\n</ul>\n<h2>👎 Cons</h2>\n<ul>\n<li><strong>Dependency on Internet Connection:</strong> Real-time updates and app functions require a stable internet connection, which may not always be available 📶.</li>\n<li><strong>Limited Onboard Options:</strong> The selection of food and services may not match everyone's tastes or preferences 🍽️.</li>\n<li><strong>Additional Costs:</strong> Some enhancements and conveniences offered by the app may come with extra charges 💰.</li>\n<li><strong>Device Compatibility:</strong> Some users may encounter issues if their device isn't compatible with the latest app version 📱.</li>\n<li><strong>Availability of Services:</strong> Certain app features, like room pre-selection, are restricted to select resorts and may not be universally applicable 🏖️.</li>\n</ul>\n<h2>💵 Price</h2>\n<p>Sunwing is a free-to-use application, which may include in-app purchases for additional services like seat selection or room upgrades. Pricing details for such services are made available within the app.</p>\n<p>Devise your ultimate travel itinerary and ensure a worry-free vacation with the Sunwing app now.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-bp-app-bpme-global-ros/16042.html",
+      "icon": "assets/img/apk/icon/com.bp.app.bpme.global.ros.png",
+      "name": "earnify",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/kulana-tools-vacationcountdown/10380.html",
+      "icon": "assets/img/apk/icon/kulana.tools.vacationcountdown.png",
+      "name": "Vacation Countdown App",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-disney-playdisneyparks-goo/4681.html",
+      "icon": "assets/img/apk/icon/com.disney.playdisneyparks.goo.png",
+      "name": "Play Disney Parks",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-hornblower-statuecruises/4679.html",
+      "icon": "assets/img/apk/icon/com.hornblower.statuecruises.png",
+      "name": "Statue Cruises",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-usnpw-grca/4678.html",
+      "icon": "assets/img/apk/icon/com.usnpw.grca.png",
+      "name": "Grand Canyon National Park",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/MakeMyTrip-Hotels-Flight-Bus/4591.html",
+      "icon": "assets/img/apk/icon/com.makemytrip.png",
+      "name": "MakeMyTrip Hotels, Flight, Bus",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/ConfirmTkt/4570.html",
+      "icon": "assets/img/apk/icon/com.confirmtkt.lite.png",
+      "name": "ConfirmTkt",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/Bus-Train-Ticket-Booking-App/4503.html",
+      "icon": "assets/img/apk/icon/in.redbus.android.png",
+      "name": "Bus, Train Ticket Booking App",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.9"
+    }
+  ]
+}

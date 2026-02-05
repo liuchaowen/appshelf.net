@@ -1,0 +1,118 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/rar.png",
+    "title": "RAR",
+    "ratings": "4.2",
+    "downloads": "880M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "RAR"
+    },
+    {
+      "name": "category",
+      "value": "Tools"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "RARLAB (published by win.rar GmbH)"
+    },
+    {
+      "name": "Version",
+      "value": "5.60.build48"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/R8q_gQNvjk3xy8cP2itoSTpUmlqJouPlwYxd9uiucAPqNyVsULGha0wRrf52BSNHFg",
+    "https://play-lh.googleusercontent.com/25G1UN9pfyNVHJqtG4QqawbMonds4pNC--IocxFwObEEp6kXD7i0Vj-drQE63EWPdA",
+    "https://play-lh.googleusercontent.com/f5xcpuHs42jMTnoAQtZaeOSpT-KerMrS1P9AmN-ZAh5ls6J9vdSgDwfFdwNScEsk-Q",
+    "https://play-lh.googleusercontent.com/4MGXhdB3yGbsfE7MA6nxvi80-etLv5RooOdifJddAlp6RNyArQGxU5XzQIcwKl1Erw",
+    "https://play-lh.googleusercontent.com/URg8aHt7otCVQG0U-e3zFAnTo0Kiuuv7sBhSTN3U7B0Xgtqs9yBOVy_oD3B9FIF485Q",
+    "https://play-lh.googleusercontent.com/rlYEwyMOuNxvDXN8ZjO-IrzDPz-F_YtPHz9zEhbknJ4P0Hr80Hdg4h9PGzglreGYwMky",
+    "https://play-lh.googleusercontent.com/u-bzLk5Z37ztKCa-cE1qne3bp3QaWSoQjr303mjIj2UFc3h8VOf8gdDbYMyA6q8y5vc",
+    "https://play-lh.googleusercontent.com/0jIzURKINF2QORm1D8DdzVClnoYB4x92VBoDLL3-UYEziIJYk05UnjxqNsG0ESbKJOI",
+    "https://play-lh.googleusercontent.com/DC7Aq95upe9KFePWMT7iAhfYAGX1ptPD76_DW66dJp9BIbZ1R7ZjgEFX3uSqwgAQdLM",
+    "https://play-lh.googleusercontent.com/aifiicdGlc21g_u2CTs59z0K0H0u-nH4XRBn5eIvvDSAG9-4W9yxmjbIoDlrrquY-Q",
+    "https://play-lh.googleusercontent.com/sozOZAqZTDRVZUOd3TGWmSd5h_pH7NkDl9t-F1llHPME2gKk0s0gcV1m2NswKOMeepk",
+    "https://play-lh.googleusercontent.com/eZ64gcfSpqSb3iUe3JiF1L9tmjQSE_0qVTeM-UYVHJMnicvWMV6BTKRZ6Z3twOou24U7",
+    "https://play-lh.googleusercontent.com/SjFAfxVNIZ6BwK_pWSTx5updYum9HHFZKgnFOZwq1QDZTWLYx1cdhkt835vf9_lzWw",
+    "https://play-lh.googleusercontent.com/gY1xpkMJnwgLwi0uiehlKW7AuPx9VMTiVNdSJax9dbAq7pHP_A1OltC8CFI8CXlFHlc"
+  ],
+  "app_descript": "<p><strong>RAR by RARLAB</strong></p>\n<p><strong>Brief:</strong>\nRAR by RARLAB is a comprehensive archive management tool that enables users to effectively create, unpack, and manage various archive formats on their devices. With its user-friendly interface and robust set of features, it stands as a strong contender amongst mobile file compression utilities.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li><strong>Multiformat Support:</strong> Create RAR and ZIP, and unpack numerous formats including RAR, ZIP, 7z, and more 📦.</li>\n<li><strong>Repair Tools:</strong> Ability to repair damaged RAR and ZIP files, enhancing data integrity ⚙️.</li>\n<li><strong>Consistent Unrar:</strong> Offers an unrar command that works across all RAR versions for convenience 🛠️.</li>\n<li><strong>Benchmarking &amp; Security:</strong> Features compatibility with WinRAR benchmark and includes recovery record and encryption options for added security 🔒.</li>\n<li><strong>File Operations &amp; Network Access:</strong> Simple file operations with necessary network access for functionality 🌐.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li><strong>Versatility:</strong> Handles a wide array of archive formats, serving as an all-in-one tool for file management 👌.</li>\n<li><strong>User-Centric Design:</strong> The interface and usability are designed keeping in mind ease-of-use for the end-user 🎨.</li>\n<li><strong>Data Protection:</strong> Offers tools for repairing and securing data, which is vital for preserving important files 🔐.</li>\n<li><strong>Performance Assessment:</strong> Inclusion of benchmark compatibility to evaluate the archive performance 🏋️‍♂️.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li><strong>Advertisements:</strong> Free usage comes with ads which some users might find intrusive 👀.</li>\n<li><strong>In-App Purchases:</strong> Removing ads requires payment, which might not be preferable for all users 💳.</li>\n<li><strong>Network Permissions:</strong> Requires network access, which could be a concern for those wary of data usage and privacy 🕵️‍♂️.</li>\n<li><strong>Complexity for Novices:</strong> Some features might seem complex for users unfamiliar with archival processes 🤔.</li>\n</ul>\n<p><strong>Price:</strong>\nRAR is free to download and use, but it includes ads. Users have the option to make an in-app purchase to remove advertisements 💵.</p>\n<p><a href=\"https://play.google.com/store/apps/details?id=com.rarlab.rar\" rel=\"noopener noreferrer\" target=\"_blank\">Download RAR by RARLAB</a></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-antique-snap-identifier-appraisal/54309.html",
+      "icon": "assets/img/apk/icon/com.antique.snap.identifier.appraisal.png",
+      "name": "Antique Identifier - Appraisal",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-age-calculator-life-countdown/54243.html",
+      "icon": "assets/img/apk/icon/com.age.calculator.life.countdown.png",
+      "name": "Age Calculator・Life Expectancy",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.4"
+    },
+    {
+      "link": "/details/com-xv-agecalc/54237.html",
+      "icon": "assets/img/apk/icon/com.xv.agecalc.png",
+      "name": "AgeCalc: Date Life Calculator",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-palm-ai-decode-destiny-soul-futurelines-handline/54206.html",
+      "icon": "assets/img/apk/icon/com.palm.ai.decode.destiny.soul.futurelines.handline.png",
+      "name": "Palm AI: Decode Destiny",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/rbx-robuxcalc-getrbx-freecounter/53839.html",
+      "icon": "assets/img/apk/icon/rbx.robuxcalc.getrbx.freecounter.png",
+      "name": "RBX Calc - Get Robuxcounter",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-internetoptimizer-speedtest-wifispeedtest-netspeed-wifipassword-wifispeed/49027.html",
+      "icon": "assets/img/apk/icon/com.internetoptimizer.speedtest.wifispeedtest.netspeed.wifipassword.wifispeed.png",
+      "name": "Internet Optimizer",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.9"
+    },
+    {
+      "link": "/details/com-blazingappstudio-speed_test_pro/49021.html",
+      "icon": "assets/img/apk/icon/com.blazingappstudio.speed_test_pro.png",
+      "name": "Speed Test - Wifi Optimizer",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-secret-camera-hidden-detector/39728.html",
+      "icon": "assets/img/apk/icon/com.secret.camera.hidden.detector.png",
+      "name": "Hidden Camera & IR Detector",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    }
+  ]
+}

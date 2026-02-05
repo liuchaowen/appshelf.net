@@ -1,0 +1,135 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/accuweather.png",
+    "title": "AccuWeather",
+    "ratings": "3.5",
+    "downloads": "810M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "AccuWeather"
+    },
+    {
+      "name": "category",
+      "value": "Weather"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "AccuWeather"
+    },
+    {
+      "name": "Version",
+      "value": "8.10.1-3-google"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/WMS26YiT11NN4yuZFya4M3rklBSJoKD44onDLNspsXzy03ZcwUSuJx6BUlRhdj5-szI",
+    "https://play-lh.googleusercontent.com/0pyru5cpSj-mFdPBlxjQxIUBOBMeHjCEqlyuyZzNKz8vmqjG_ebixToB-zfdOMnPdA",
+    "https://play-lh.googleusercontent.com/UIivDP2RGgnjI1HsgDSzabHfUC1AYO62baI9BZlDAB0ttSQPJL-FUd3FXuHdvA-tk94",
+    "https://play-lh.googleusercontent.com/l0t0oLgDQhmdND-MLA1f2m3V-GEXs1EScXcXfiHjZ8S7JAGnStnR3E_8QoT4Os3Mp28",
+    "https://play-lh.googleusercontent.com/nlHbR6lGj8c5m03mKJpuwGyZlE8BFqD6IWjxJ2233yArKMl7pOCL6NnDEJGoLZV4s3ir",
+    "https://play-lh.googleusercontent.com/m-VHy9Bmv1EV_zvTf0-ETXHTwzqtmZtlkxq95In6vu3kkM5EsvrIPkiRNXj9c1wDcHk",
+    "https://play-lh.googleusercontent.com/nfasJ1FMuf-Vf96MdiCexhLcpxjecG8sGjWZFwDkkl9YkZC0cXCOF16bjDDsdvXVaC8",
+    "https://play-lh.googleusercontent.com/2BKb_1eMPYEIskyWGwoJ2h7HfrqfRLyBUqplNyQq5Ghn-SVI5KmSb3j7XDOE2oMuyjU",
+    "https://play-lh.googleusercontent.com/qmJyFMGliP1LXYd9_8tvFL1hTxwcEuwwmRqBcmjmVNuYVlb5d712tcJaBnkM_4HZtA",
+    "https://play-lh.googleusercontent.com/XAxM7Z0YFd0W6aOCLY-3ORkcCtD3OVBaIem7HYo3SxUqp0nO8RLh37qRzQYbkm7veQ",
+    "https://play-lh.googleusercontent.com/EVxmcshjQi6Audvy4YAAoiYiiGSZ7l7Sr8bD7S68-k3bOaB-CTKs8sAMTKiQgBoqQ8U",
+    "https://play-lh.googleusercontent.com/JZiYQFS5pT81Qwyc0YGTI34ZZlSDT0FZLjxKmYvpNVFmgtE_iEqbBxYwkllwFQcSZw",
+    "https://play-lh.googleusercontent.com/5w2fOzHjL1VKFmbul6OalXzgqFdzkSS8luTBJcIQ4Ty1XfOzoK8K4w5gA0LZYBJtE_w",
+    "https://play-lh.googleusercontent.com/6pxAv5fqZsLKwan86py9lXl4YzYqn4In2ePIZ3lKWU92KluoIrJfWmHH4l4ZPUwUHLk",
+    "https://play-lh.googleusercontent.com/UnyVT7hGNaIY4__IWsT892HFt2wkDNR-ppvbWkQomWJpDv_ldVYfmMsxX8Gz60i4Kg",
+    "https://play-lh.googleusercontent.com/5jqbqcJLTWeU_kE5d2L8EmMsu6B2xF8lHpyRXlRTm20B1_QLZbv4R_zW_LswTIMD83M",
+    "https://play-lh.googleusercontent.com/gpJ8PVJvYaAEe0Y8R-aQ-Yk94bXULmXpulo2D_TItQUqTwps6iki5UEKgLxUarZq5KM",
+    "https://play-lh.googleusercontent.com/URlWiFqEWoQnmLoWi3X0BjiKvuzo7CdjTGUroKvs6BIyN6mnjEuzk39Y6jZeJDqKhzE",
+    "https://play-lh.googleusercontent.com/cy0cBRp7L8rMMLEQ56xyYpM3-7B3FATSgPPq6b7rc0_sh7oM4QmIuCY3wq7kT47xug",
+    "https://play-lh.googleusercontent.com/nY2ZToFY6aOaexbtkGeg3xhILnOatsrrNWZEGO91biN8OFzouB6c3kgb_ta-FvYAbBA",
+    "https://play-lh.googleusercontent.com/VipalUBh4ujmRPMTrvJvKMbtHgqni4jU-qwihuaSGgUqBPNsxEqUvMuou4UnJOyjIg",
+    "https://play-lh.googleusercontent.com/I8h2R2TvONuXciEFe450m7DpAkrj-3IQgjiV644k41hPTIfyYEQC1RwuTjV5J-GMg7g",
+    "https://play-lh.googleusercontent.com/K5WGPCmYlGCzRePtcgYHq7ibOTjqmyoLxUHUCsNpd7cSaUeTzgJKFG56Ei_CpeRubOIP",
+    "https://play-lh.googleusercontent.com/yZ_waMP-yF8C_6bqmfhuMPMA6MTP1xMwYCQ4_VYtxjGwEB1jpm9dXM8TLYDariNFdG8",
+    "https://play-lh.googleusercontent.com/ALxzOHTijIGGbVyNkY-nhzfxYG6wfzhqN2594qdoIwpnWtJvO4HEKjWtA_56eJKJKk4",
+    "https://play-lh.googleusercontent.com/Y1FppHcRBHnLuWDW1hjnQq9YRu-ZdZmhxEmD5OHaU9DyxDFQi-g3ePjcbkUPfj3DRrM",
+    "https://play-lh.googleusercontent.com/BuJTiNQUPmaEUO9phr0wnJGXRjn6c05Rpm2UU2twazLcJjyHzKkDrzfaZlgY5Epl6iU",
+    "https://play-lh.googleusercontent.com/SVQUvmVQVOYJVNUEqjXz6AinY0qg-Xfvwk_IlarjZhiUY-rch9OiYcOtylJwaGcbI38",
+    "https://play-lh.googleusercontent.com/FC9y_iz9h3JyM_AfNMeHcYT4U0-ym_8n-KILCPoY-hNMVc0zQSR_QqWvDOUB1VM8FGY",
+    "https://play-lh.googleusercontent.com/1xZXxzjhuiC2C-ZI4VZobHTy-znLR7l4CbnwSv_Y8dV9nVN6adQ5wE6OImmr49BwSh0",
+    "https://play-lh.googleusercontent.com/RfwM5g9k77ce_9w64u6IuhrkOfTrHZzdQ6nXzyvg99C7r9RvCYX9oGnbuvzMylbgkks"
+  ],
+  "app_descript": "<p><strong>Brief:</strong>\nAccuWeather is your go-to source for precise and timely weather updates. This feature-rich app provides in-depth weather information to help you stay prepared for upcoming conditions with animated radars, real-time forecasts, news, videos, and much more.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li><strong>Animated Radar:</strong> Monitor weather patterns like clouds, temperatures, and rainfall in your area 🌧️</li>\n<li><strong>Multilingual News &amp; Videos:</strong> Stay informed with the latest weather news and videos in English and Spanish 📺</li>\n<li><strong>Frequent Updates:</strong> Get weather conditions updated every 15 minutes, including humidity and wind speed 💨</li>\n<li><strong>Weather Risks Assessment:</strong> Be aware of severe weather types ahead, including rain, snow, ice, and thunderstorms ⚠️</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li><strong>Accurate Alarms:</strong> Receive alerts about potential severe weather for the forthcoming days 🚨</li>\n<li><strong>Detailed Forecasts:</strong> Hourly and 5-day forecasts provide deep insights into weather patterns ⏲️</li>\n<li><strong>Convenient Home Screen Display:</strong> Quickly view the current temperature from your home screen 🌡️</li>\n<li><strong>Quality Video Content:</strong> Access different resolutions for local to national weather reports 🎥</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li><strong>Intrusive Ads:</strong> Users may find ads disruptive if using the free version 👎</li>\n<li><strong>Battery Usage:</strong> Continuous location tracking and updates can drain battery life more quickly 🔋</li>\n<li><strong>Data Consumption:</strong> High-resolution videos and animated radars might increase data usage 📊</li>\n<li><strong>Notifications:</strong> Some users might find weather alerts too frequent or intrusive 🔔</li>\n</ul>\n<p><strong>Pricing:</strong>\nAccuWeather is a free app, but it may include ads. Users have the option to make in-app purchases for an ad-free experience and additional premium features. 💵</p>\n<p><strong>Community:</strong></p>\n<ul>\n<li>Official Site: <a href=\"https://www.accuweather.com\" rel=\"noopener noreferrer\" target=\"_blank\">AccuWeather</a></li>\n<li>YouTube Channel: <a href=\"https://www.youtube.com/user/accuweather\" rel=\"noopener noreferrer\" target=\"_blank\">AccuWeather</a></li>\n<li>Popular YouTuber's Channel: -</li>\n<li>Most Followed Instagramer: -</li>\n<li>Twitter: <a href=\"https://twitter.com/accuweather\" rel=\"noopener noreferrer\" target=\"_blank\">AccuWeather Twitter</a></li>\n<li>Discord: -</li>\n<li>Facebook: <a href=\"https://www.facebook.com/AccuWeather/\" rel=\"noopener noreferrer\" target=\"_blank\">AccuWeather Facebook</a></li>\n<li>TikTok: -</li>\n<li>Reddit: -</li>\n<li>Fandom Wiki: -</li>\n</ul>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-eet-weather-launcher/15703.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.eet.weather.launcher.png",
+      "name": "Weather Now Launcher - Radar",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "3.6"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-daily-forecast-weather-radar/4930.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.daily.forecast.weather.radar.png",
+      "name": "Daily Forecast: Weather&Radar",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-mahersafadi-sunny/4921.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.mahersafadi.sunny.png",
+      "name": "Sunny: Weather forecast",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/WeatherPal/4628.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.precise.opliging.kitan.png",
+      "name": "WeatherPal",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.8"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/live-weather/2063.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.appsinnova.weatherforecast.liveweather.png",
+      "name": "Live Weather",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.1"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/radarnow/2062.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.usnaviguide.radar_now.png",
+      "name": "RadarNow!",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/local-weather/2061.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.weather.forecast.channel.local.png",
+      "name": "Local Weather",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/iqair-airvisual/2060.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.airvisual.png",
+      "name": "IQAir AirVisual",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.6"
+    }
+  ]
+}

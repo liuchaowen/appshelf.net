@@ -1,0 +1,109 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.tester.wpswpatester.png",
+    "title": "WIFI WPS WPA TESTER",
+    "ratings": "4.8",
+    "downloads": "700M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "WIFI WPS WPA TESTER"
+    },
+    {
+      "name": "category",
+      "value": "Tools"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Sangiorgi Srl"
+    },
+    {
+      "name": "Version",
+      "value": "4.1"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/zpIBdDedueBPNMMwzTMq0lcmKXXbQDgZ5wriug1ADzUyUqEcg0osTDLrjZmflT4acQ",
+    "https://play-lh.googleusercontent.com/jHldLQ1sShkAqS_oriSVmnKH78-Y2I70qh2y7OrlncFvR1EJEiMXz0A_BwjN389UvwA",
+    "https://play-lh.googleusercontent.com/DtrVGaNAI33EhAfg-8YEsV69Z60i3mmzX_oQ-Kqmh1YYCSlDbnjj0McM4q2hTrknGcg",
+    "https://play-lh.googleusercontent.com/m5Ga0VwhYf-JCKToEEb6BXmxTlnIOQmv_Q6eJUp_XVkvDfaRtY8VGbtIh5Et5Dz7Y9BV",
+    "https://play-lh.googleusercontent.com/OxKCFo-EQgIeDf8eTAqAoolwWylYvUTsUKabtLGGlISDNpWcVuf4s3aovVj9pKIXGlQ"
+  ],
+  "app_descript": "<h3>WIFI WPS WPA TESTER</h3>\n<h4>Brief:</h4>\n<p>WIFI WPS WPA TESTER is a powerful tool designed to test the security of wireless access points by identifying vulnerabilities related to the WPS protocol. While most access points are secure, some may still be susceptible. The app educates users about potential risks involving their own access points, and it offers various methods for testing connections, including a bruteforce mode. Additionally, for rooted devices, the app can display saved Wi-Fi passwords.</p>\n<h4>Core Features:</h4>\n<ul>\n<li><strong>Vulnerability Assessment</strong>: Analyze your wireless access point to detect if WPS protocol vulnerabilities exist 🛡️.</li>\n<li><strong>Bruteforce Mode</strong>: Experiment with different connection methods, including trying out various PIN combinations 🔓.</li>\n<li><strong>WPS Lock Detection</strong>: Find out if an access point with WPS is invulnerable due to a WPS lock 🔒.</li>\n<li><strong>Wi-Fi Password Recovery</strong>: Users with root permissions can view saved Wi-Fi passwords on their devices 🗝️.</li>\n<li><strong>Educational Purpose</strong>: Learn about the security measures of your wireless access point and take informed actions 🏫.</li>\n</ul>\n<h4>Pros:</h4>\n<ul>\n<li><strong>Security Insights</strong>: Gain insights into the security of your Wi-Fi network, helping to prevent unauthorized access 👁️.</li>\n<li><strong>User-Friendly Interface</strong>: Navigate through the app effortlessly, making the testing processes straightforward and accessible 🎮.</li>\n<li><strong>Root Features</strong>: For rooted devices, extract additional information, like saved Wi-Fi passwords 🔑.</li>\n<li><strong>Free to Use</strong>: Access core functionalities of the app without the need for a subscription or payment 🆓.</li>\n</ul>\n<h4>Cons:</h4>\n<ul>\n<li><strong>Limited Functions Without Root</strong>: Non-rooted device users may not utilize all app features 🔐.</li>\n<li><strong>Potential for Misuse</strong>: Intended for educational purposes, but could be misused if applied to networks other than the user's own ⚠️.</li>\n<li><strong>Complexity for Novices</strong>: Those with limited technical knowledge may find some features challenging to grasp 🤔.</li>\n<li><strong>Device Compatibility</strong>: Some features might not work on all devices, especially non-rooted ones 📱.</li>\n</ul>\n<h4>Price:</h4>\n<p>WIFI WPS WPA TESTER is free to download and use. However, the full range of features is only available for users with rooted devices. 💵</p>\n<p>For an app like WIFI WPS WPA TESTER, a community section is not included according to the prompt constraints since it is not a game app. </p>\n<p>Remember to utilize this tool responsibly and ethically, keeping in mind the importance of cybersecurity and privacy.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-antique-snap-identifier-appraisal/54309.html",
+      "icon": "assets/img/apk/icon/com.antique.snap.identifier.appraisal.png",
+      "name": "Antique Identifier - Appraisal",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-age-calculator-life-countdown/54243.html",
+      "icon": "assets/img/apk/icon/com.age.calculator.life.countdown.png",
+      "name": "Age Calculator・Life Expectancy",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.4"
+    },
+    {
+      "link": "/details/com-xv-agecalc/54237.html",
+      "icon": "assets/img/apk/icon/com.xv.agecalc.png",
+      "name": "AgeCalc: Date Life Calculator",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-palm-ai-decode-destiny-soul-futurelines-handline/54206.html",
+      "icon": "assets/img/apk/icon/com.palm.ai.decode.destiny.soul.futurelines.handline.png",
+      "name": "Palm AI: Decode Destiny",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/rbx-robuxcalc-getrbx-freecounter/53839.html",
+      "icon": "assets/img/apk/icon/rbx.robuxcalc.getrbx.freecounter.png",
+      "name": "RBX Calc - Get Robuxcounter",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-internetoptimizer-speedtest-wifispeedtest-netspeed-wifipassword-wifispeed/49027.html",
+      "icon": "assets/img/apk/icon/com.internetoptimizer.speedtest.wifispeedtest.netspeed.wifipassword.wifispeed.png",
+      "name": "Internet Optimizer",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.9"
+    },
+    {
+      "link": "/details/com-blazingappstudio-speed_test_pro/49021.html",
+      "icon": "assets/img/apk/icon/com.blazingappstudio.speed_test_pro.png",
+      "name": "Speed Test - Wifi Optimizer",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-secret-camera-hidden-detector/39728.html",
+      "icon": "assets/img/apk/icon/com.secret.camera.hidden.detector.png",
+      "name": "Hidden Camera & IR Detector",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    }
+  ]
+}

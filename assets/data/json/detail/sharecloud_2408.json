@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/sharecloud.png",
+    "title": "ShareCloud",
+    "ratings": "4.7",
+    "downloads": "210M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "ShareCloud"
+    },
+    {
+      "name": "category",
+      "value": "Tools"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "For2ww"
+    },
+    {
+      "name": "Version",
+      "value": "4.7.1.2"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h2>ShareCloud: Quick and Easy File Sharing</h2>\n<h3>Brief</h3>\n<p>ShareCloud is a lightweight and efficient file-sharing app designed with simplicity at its core. Utilizing PHP and MySQL, users can effortlessly share files from their own server with just a single tap. Its minimal footprint of 3.71MB on your device ensures a lean yet powerful experience. ShareCloud actively seeks feedback and bug reports to continue evolving for its user base.</p>\n<h3>Core Features</h3>\n<ul>\n<li><strong>One-Tap Sharing</strong>: Instantly share files, photos, and videos through Bluetooth, Email, Google Drive, Dropbox, WhatsApp, and Facebook 📲</li>\n<li><strong>High-Speed Transfer</strong>: Experience blazing transfer speeds up to 20M/s without the need for USB connections or internet 🚀</li>\n<li><strong>Backup Capability</strong>: Quickly backup apps, photos, and music to an SD card or Dropbox with a single tap 🔄</li>\n<li><strong>Bulk Transfers</strong>: Easily share multiple files simultaneously, catering for efficient group distribution 📦</li>\n<li><strong>Unlimited File Management</strong>: Share any size of file with a versatile file manager 🗂️</li>\n<li><strong>Trendy File Discovery</strong>: Search and find trendy files across the globe 🌐</li>\n</ul>\n<h3>Pros</h3>\n<ul>\n<li><strong>Space-Efficient</strong>: At 3.71MB, it takes up minimal space on your phone compared to competitors 👌</li>\n<li><strong>User-Friendly Interface</strong>: Deployment and usage are hassle-free, thanks to the app's straightforward design 🎨</li>\n<li><strong>Community Engagement</strong>: Open to user suggestions and reports to enhance the app's functionality 🤝</li>\n<li><strong>Versatility</strong>: Capable of sharing a vast array of file types seamlessly 📈 </li>\n</ul>\n<h3>Cons</h3>\n<ul>\n<li><strong>Ad Intrusion</strong>: Contains numerous ads which might hinder user experience 👎</li>\n<li><strong>PC Share Limitation</strong>: File sharing with PCs is not supported, restricting usability 🖥️</li>\n<li><strong>SD Card Restrictions</strong>: Inability to share files from your device's SD card, which might be inconvenient for some users 💾</li>\n</ul>\n<h3>Price</h3>\n<ul>\n<li>ShareCloud is available for free download. However, the presence of many ads suggests that it might operate on an ad-revenue model 💸</li>\n</ul>\n<h3>Community</h3>\n<ul>\n<li>Official Website: <a href=\"http://www.sharecloud.com\" rel=\"noopener noreferrer\" target=\"_blank\">ShareCloud Official</a></li>\n<li>YouTube Channel: <a href=\"http://youtube.com/sharecloud\" rel=\"noopener noreferrer\" target=\"_blank\">ShareCloud Tutorials</a></li>\n<li>Popular YouTuber's Channel: <a href=\"http://youtube.com/techsavvy\" rel=\"noopener noreferrer\" target=\"_blank\">Tech Savvy's ShareCloud Guide</a></li>\n<li>Instagram: <a href=\"http://instagram.com/sharecloud\" rel=\"noopener noreferrer\" target=\"_blank\">ShareCloud Community</a></li>\n<li>Twitter: <a href=\"http://twitter.com/sharecloud\" rel=\"noopener noreferrer\" target=\"_blank\">ShareCloud Updates</a></li>\n<li>Discord Community: <a href=\"http://discord.gg/sharecloud\" rel=\"noopener noreferrer\" target=\"_blank\">ShareCloud File Sharers</a></li>\n<li>Facebook: <a href=\"http://facebook.com/sharecloud\" rel=\"noopener noreferrer\" target=\"_blank\">ShareCloud Group</a></li>\n<li>TikTok: <a href=\"http://tiktok.com/@sharecloud\" rel=\"noopener noreferrer\" target=\"_blank\">ShareCloud Moments</a></li>\n<li>Reddit: <a href=\"http://reddit.com/r/sharecloud\" rel=\"noopener noreferrer\" target=\"_blank\">r/ShareCloud</a></li>\n<li>Fandom Wiki: <a href=\"http://sharecloud.fandom.com\" rel=\"noopener noreferrer\" target=\"_blank\">ShareCloud Wiki</a></li>\n</ul>",
+  "related_apps": [
+    {
+      "link": "/details/com-antique-snap-identifier-appraisal/54309.html",
+      "icon": "assets/img/apk/icon/com.antique.snap.identifier.appraisal.png",
+      "name": "Antique Identifier - Appraisal",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-age-calculator-life-countdown/54243.html",
+      "icon": "assets/img/apk/icon/com.age.calculator.life.countdown.png",
+      "name": "Age Calculator・Life Expectancy",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.4"
+    },
+    {
+      "link": "/details/com-xv-agecalc/54237.html",
+      "icon": "assets/img/apk/icon/com.xv.agecalc.png",
+      "name": "AgeCalc: Date Life Calculator",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-palm-ai-decode-destiny-soul-futurelines-handline/54206.html",
+      "icon": "assets/img/apk/icon/com.palm.ai.decode.destiny.soul.futurelines.handline.png",
+      "name": "Palm AI: Decode Destiny",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/rbx-robuxcalc-getrbx-freecounter/53839.html",
+      "icon": "assets/img/apk/icon/rbx.robuxcalc.getrbx.freecounter.png",
+      "name": "RBX Calc - Get Robuxcounter",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-internetoptimizer-speedtest-wifispeedtest-netspeed-wifipassword-wifispeed/49027.html",
+      "icon": "assets/img/apk/icon/com.internetoptimizer.speedtest.wifispeedtest.netspeed.wifipassword.wifispeed.png",
+      "name": "Internet Optimizer",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.9"
+    },
+    {
+      "link": "/details/com-blazingappstudio-speed_test_pro/49021.html",
+      "icon": "assets/img/apk/icon/com.blazingappstudio.speed_test_pro.png",
+      "name": "Speed Test - Wifi Optimizer",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-secret-camera-hidden-detector/39728.html",
+      "icon": "assets/img/apk/icon/com.secret.camera.hidden.detector.png",
+      "name": "Hidden Camera & IR Detector",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    }
+  ]
+}

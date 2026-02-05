@@ -1,0 +1,108 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.google.android.gm.lite.png",
+    "title": "Gmail Go",
+    "ratings": "4.5",
+    "downloads": "30M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Gmail Go"
+    },
+    {
+      "name": "category",
+      "value": "Communication"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Google LLC"
+    },
+    {
+      "name": "Version",
+      "value": "8.5.6.197464524.go_release"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/LTkUgg9XfVWDZtJc98aQtI3EVmXhUj_7O-uTYAjm2Y4K3U8u2r1DSVVkc-UyYE23ERg",
+    "https://play-lh.googleusercontent.com/Fiu7YsF8PtlL1W5SazcV-iLzPR9-cpzeFVJ-T1KwQ-JEcg4Nz-V73wCAAnfMu2QTSg",
+    "https://play-lh.googleusercontent.com/UNNRosWuUNkcTlhcCDKkWBaTkFQiizShqYDTsqWzjYFx35iu0ArNBPSKwuOHhaAxLI8",
+    "https://play-lh.googleusercontent.com/3sccadnw9Xc-IP1WJVa4wM5P93y3c_tp1X_HgDBJAeVvejd9PvnoKv8GmqLPJNj1zFM"
+  ],
+  "app_descript": "<p><strong>Gmail Go</strong></p>\n<p><strong>Brief:</strong>\nGmail Go is a streamlined version of Google's popular email service, designed for devices with lower storage and performance capacities. Retaining the essential functionality of the classic Gmail app, Gmail Go provides an efficient email experience by focusing on simplicity and speed.</p>\n<p><strong>Core Features:</strong>\n📌 A tailored smarter inbox that prioritizes personal messages and organizes promotions and social notifications separately for your convenience.\n📌 Enhanced spam protection to keep your inbox tidy and secure from unwanted emails.\n📌 Generous 15GB of free storage so you won't have to worry about running out of space for your emails.\n📌 Multi-account support, allowing you to manage Gmail and non-Gmail addresses like Outlook.com, Yahoo Mail, or any other IMAP/POP email right from the app.</p>\n<p><strong>Pros:</strong>\n👍 Optimized for lower-end devices, ensuring smooth performance even on less powerful smartphones.\n👍 User-friendly interface that simplifies email management without compromising on essential features.\n👍 Eliminates the need to delete messages frequently due to ample storage space.\n👍 Promotes a clutter-free inbox by efficiently categorizing incoming emails.</p>\n<p><strong>Cons:</strong>\n👎 Some users may find the functionality limited compared to the full-featured version of Gmail.\n👎 The simplification of features might not appeal to power users who rely on advanced Gmail functionality.\n👎 Integration with third-party apps could be less extensive than the standard Gmail app.\n👎 Potential compatibility issues with certain email protocols and services not as well-tested as in the full Gmail app.</p>\n<p><strong>Pricing:</strong>\n💵 Gmail Go is a free app with no in-app purchases, providing access to all the above features without any additional costs.</p>\n<p><em>Please note that Gmail Go is part of Google's suite of Go edition apps, designed to work smoothly on devices with less memory and storage.</em></p>\n<p><a href=\"https://play.google.com/store/apps/details?id=com.google.android.gm.lite\" rel=\"noopener noreferrer\" target=\"_blank\">Download Gmail Go</a> on the Google Play Store and start streamlining your email experience today.</p>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-sst-parrot-photo-frame/53901.html",
+      "icon": "assets/img/apk/icon/com.sst.parrot.photo.frame.png",
+      "name": "Bird Photo Frame",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-new_year-stickers-birthday/39669.html",
+      "icon": "assets/img/apk/icon/com.new_year.stickers.birthday.png",
+      "name": "Happy New Year Stickers 2026",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.2"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/org-watchduty-app/14524.html",
+      "icon": "assets/img/apk/icon/org.watchduty.app.png",
+      "name": "Watch Duty (Wildfire)",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.7"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-snowcorp-stickerly-android/14453.html",
+      "icon": "assets/img/apk/icon/com.snowcorp.stickerly.android.png",
+      "name": "Sticker.ly - Sticker Maker",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.7"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-Happynewyearphotoframe2020/14421.html",
+      "icon": "assets/img/apk/icon/com.Happynewyearphotoframe2020.png",
+      "name": "New Year Video Maker 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-intira-new-year-photo-frame-new/14342.html",
+      "icon": "assets/img/apk/icon/com.intira.new.year.photo.frame.new.png",
+      "name": "New year photo frame 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-christmas-photo-frame-b-new-free/14203.html",
+      "icon": "assets/img/apk/icon/com.christmas.photo.frame.b.new.free.png",
+      "name": "Christmas photo frame 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/ma-apps-face_ml/14137.html",
+      "icon": "assets/img/apk/icon/ma.apps.face_ml.png",
+      "name": "Face reader scanner - analyser",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "3.3"
+    }
+  ]
+}

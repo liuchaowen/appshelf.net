@@ -1,0 +1,110 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/wb.mobile.cx.client.droid.png",
+    "title": "Whataburger",
+    "ratings": "4.4",
+    "downloads": "720M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Whataburger"
+    },
+    {
+      "name": "category",
+      "value": "Food & Drink"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Whataburger"
+    },
+    {
+      "name": "Version",
+      "value": "5.3.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/ESa0Agld_P8Ne2RdP07wsLN2BW9utb2BZC7SWePeFBNlzMG7q9J7N3I2OCbIFtA1uw",
+    "https://play-lh.googleusercontent.com/8LdKnPDMzJkpMhAuPEtx6_XHFVSRxZHY-zQKawEopAXB6vLt647C_vapqfZV6zDv",
+    "https://play-lh.googleusercontent.com/NeUNQcZTqiPZPS0fVRV3zDtWXF-ClAPCk2OoC6mUUdArP10Vsl0lHIN0pWMNHW8paKVm",
+    "https://play-lh.googleusercontent.com/z80P19Bl8oElSRwT3jKQGZOqDWG8X1ZblSKv_YyOuBi4S0oSayrC7xKL5CSfdqKHpxLn",
+    "https://play-lh.googleusercontent.com/7t7hkTfBSd8dT-XYCoH4mDE-jm52ZXhwcSKPHknX8yYfNJFEMFmQSEKUfNij2IRg5w0",
+    "https://play-lh.googleusercontent.com/WzmGiW0U92SJFVlyX9Y-Ia6MBIQKWD8IsQ0BnwJIvNLDfNmbnq3dib5kd1yTTC-m0N2S"
+  ],
+  "app_descript": "<h3>Brief:</h3>\n<p>Enjoy your favorite Whataburger meals with more convenience than ever before! The Whataburger app is designed to provide an exceptional ordering experience right from your smartphone. Whether you're craving a late-night snack or a hearty lunch, skip the queues and get your custom meal delivered to your doorstep or ready for curbside pickup. Safety, efficiency, and customization are at the heart of this dining revolution.</p>\n<h3>Core Features:</h3>\n<ul>\n<li><strong>Curbside &amp; Delivery</strong> 🚗: Seamlessly order and have your meal brought directly to your car or home.</li>\n<li><strong>Customizable Orders</strong> 🍔: Craft your perfect Whataburger feast with personalized options and save them for future indulgences.</li>\n<li><strong>Online Gift Cards</strong> 🎁: Send the joy of a Whataburger meal to friends and family, all through the app’s built-in gift card system.</li>\n<li><strong>Multiple Payment Options</strong> 💳: Choose from a variety of payment methods including credit/debit cards, Apple Pay, PayPal, or Whataburger Gift Cards for quick checkouts.</li>\n<li><strong>Store Locator</strong> 📍: Always find your way to the nearest Whataburger for those must-have burger cravings.</li>\n</ul>\n<h3>Pros:</h3>\n<ul>\n<li>👍 Convenience: Order ahead and avoid waiting in line, perfect for those on-the-go meal times.</li>\n<li>👍 Personalization: Save custom orders to quickly recreate your favorite meals.</li>\n<li>👍 Versatility: Multiple payment options cater to different preferences for a hassle-free experience.</li>\n<li>👍 Generosity Made Easy: Integrated online gift cards to treat others to a delicious Whataburger experience.</li>\n<li>👍 Location Services: Never ponder over the nearest Whataburger location, thanks to the integrated store locator.</li>\n</ul>\n<h3>Cons:</h3>\n<ul>\n<li>👎 Limited Service Area: Delivery and curbside pickup might not be available in all regions.</li>\n<li>👎 Requires Account: You'll need to create an account to access all the features and save your favorites.</li>\n<li>👎 Connectivity Dependent: A stable internet connection is required to place orders, impacting usability in low coverage areas.</li>\n<li>👎 Potential for Additional Fees: Delivery orders might include extra charges, such as service or delivery fees.</li>\n<li>👎 Device Specific: Some features, like Apple Pay, are not available on all devices or operating systems.</li>\n</ul>\n<h3>Price:</h3>\n<p>💵 Whataburger's app is free to download, and users can easily create an account at no extra cost. While the app itself does not charge additional fees, be aware of potential delivery or service fees and the cost of the food items when placing an order. In-app purchases related to their e-gift cards are also available for a more convenient gifting process.</p>\n<p><a href=\"https://play.google.com/store/apps/details?id=wb.mobile.cx.client.droid\" rel=\"noopener noreferrer\" target=\"_blank\">Download the Whataburger app and make every meal a breeze!</a></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-buzzfeed-tasty/16927.html",
+      "icon": "assets/img/apk/icon/com.buzzfeed.tasty.png",
+      "name": "Tasty",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-hacklatino-chingon-android/15837.html",
+      "icon": "assets/img/apk/icon/com.hacklatino.chingon.android.png",
+      "name": "Hack Latino",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-postmates-android/4464.html",
+      "icon": "assets/img/apk/icon/com.postmates.android.png",
+      "name": "Postmates - Food Delivery",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-seamlessweb-android-view/4463.html",
+      "icon": "assets/img/apk/icon/com.seamlessweb.android.view.png",
+      "name": "Seamless: Local Food Delivery",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-trycaviar-customer/4462.html",
+      "icon": "assets/img/apk/icon/com.trycaviar.customer.png",
+      "name": "Caviar - Order Food Delivery",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-chownow-discover/4461.html",
+      "icon": "assets/img/apk/icon/com.chownow.discover.png",
+      "name": "ChowNow: Local Food Ordering",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-toasttab-consumer/4460.html",
+      "icon": "assets/img/apk/icon/com.toasttab.consumer.png",
+      "name": "Toast Takeout & Delivery",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/menulog-au/3667.html",
+      "icon": "assets/img/apk/icon/com.menulog.m.png",
+      "name": "Menulog AU",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.2"
+    }
+  ]
+}

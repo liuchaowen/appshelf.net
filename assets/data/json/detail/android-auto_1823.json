@@ -1,0 +1,110 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/android-auto.png",
+    "title": "Android Auto",
+    "ratings": "4.2",
+    "downloads": "70M",
+    "age": "4+",
+    "download_link": "https://d.apkpure.com/b/APK/com.google.android.projection.gearhead?version=latest"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Android Auto"
+    },
+    {
+      "name": "category",
+      "value": "Auto & Vehicles"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Google LLC"
+    },
+    {
+      "name": "Version",
+      "value": "9.9.632624-release"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/DkqclFKgX_RsxKMXcntDLisvmOsfnyfAmcSX7dS1Wk8NT9m5oH67LowpyWoT1jfCog",
+    "https://play-lh.googleusercontent.com/c89meYTabDYZAsRPMqGkRvq520Yj4mcpyEfjlT_ME5TzSYOQdRZsozFE01SXokv8pfqd",
+    "https://play-lh.googleusercontent.com/5Oe_StN5UmzTiZARI0fKOZO97EsyS5jHV0jhCj4ZTI57MYhNkJ3vYqqGpbDxSYaeaK8",
+    "https://play-lh.googleusercontent.com/Z58gl9NKlZz0BbUGO2EeJlrmXbyJIVbo9ixkD5GrWQfm2FkU77t-1QNtkvPpA52dAqo",
+    "https://play-lh.googleusercontent.com/IZhUPIUSijR2rmuRij8ljiiDHty2FyKxtpgHK8h4qerTaOoXqaWOk5c9T7WPREJqf8uS"
+  ],
+  "app_descript": "<p><strong>Android Auto</strong></p>\n<hr/>\n<p><strong>Brief</strong>:\nAndroid Auto transforms your vehicle's dashboard into a smart driving companion by integrating GPS navigation, traffic updates, messaging, voice commands, and entertainment in one seamless in-car experience. Designed to minimize distractions, it ensures a safer and more focused journey while keeping you connected and entertained.</p>\n<p><strong>Core Features</strong>:</p>\n<ul>\n<li>📍 Real-time GPS Navigation: Get real-time traffic alerts and routing to any destination you choose 🗺️.</li>\n<li>🚫 Customizable Do Not Disturb: Activate custom settings to refuse incoming messages and minimize distractions while driving 📴.</li>\n<li>🗣️ Google Assistant Integration: Utilize voice commands to make and answer calls, and manage messages hands-free 📞.</li>\n<li>💬 Messaging Convenience: Send and receive messages on platforms like WhatsApp, Skype, Telegram, using Google Assistant 📨.</li>\n<li>🎧 Entertainment Management: Control your car's audio system and listen to media through popular apps like Music Streaming, Spotify, and Pandora 🎶.</li>\n</ul>\n<p><strong>Pros</strong>:</p>\n<ul>\n<li>👍 Voice-Activated Controls: Keep your hands on the wheel while managing calls, messages, and reminders.</li>\n<li>👍 Safer Driving Experience: Configurable Do Not Disturb settings and minimalistic UI reduce on-road distractions.</li>\n<li>👍 Comprehensive Vehicle Integration: Compatible with a wide range of vehicle display systems and steering wheel controls.</li>\n<li>👍 Wide App Compatibility: Supports a multitude of messaging and music streaming apps.</li>\n<li>👍 Regular Updates: Android Auto regularly updates for performance improvements and new features.</li>\n</ul>\n<p><strong>Cons</strong>:</p>\n<ul>\n<li>👎 Data Usage: Being a data-intensive service, it can consume a significant amount of mobile data.</li>\n<li>👎 Compatibility: Requires an Android 5.0 or higher smartphone and a compatible car display system.</li>\n<li>👎 Connection Reliance: Needs a high-quality USB cable for connection, which can be an additional requirement to manage.</li>\n<li>👎 Limited to Android: Not available for iOS users, limiting its usage to Android smartphone owners.</li>\n</ul>\n<p><strong>Price</strong>:</p>\n<ul>\n<li>💵 Android Auto is free to download and use from the Google Play Store. Note that data charges may apply based on your mobile plan.</li>\n</ul>\n<hr/>\n<p>Experience smart driving by downloading Android Auto today. Reduce distractions, stay connected, and turn your car into a more responsive and interactive journey partner. Make sure your phone runs at least Android 5.0 and that your vehicle's system is compatible for the best on-the-road experience with Android Auto.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-carmax-carmax/16741.html",
+      "icon": "assets/img/apk/icon/com.carmax.carmax.png",
+      "name": "CarMax: Used Cars for Sale",
+      "categoryLink": "/categories/auto.vehicles/2",
+      "category": "Auto & Vehicles",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-maps-radar-trafficappfordriving/10136.html",
+      "icon": "assets/img/apk/icon/com.maps.radar.trafficappfordriving.png",
+      "name": "Driving Instructor-Theory Test",
+      "categoryLink": "/categories/auto.vehicles/2",
+      "category": "Auto & Vehicles",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/RTO-Vehicle-Information/4502.html",
+      "icon": "assets/img/apk/icon/com.vehicle.rto.vahan.status.information.register.png",
+      "name": "RTO Vehicle Information",
+      "categoryLink": "/categories/auto.vehicles/2",
+      "category": "Auto & Vehicles",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/mileage-tracker-by-driversnote/1833.html",
+      "icon": "assets/img/apk/icon/com.driversnote.driversnote.png",
+      "name": "Mileage Tracker by Driversnote",
+      "categoryLink": "/categories/auto.vehicles/2",
+      "category": "Auto & Vehicles",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/dmv-permit-practice-test/1832.html",
+      "icon": "assets/img/apk/icon/com.driveus.dmvapp.png",
+      "name": "DMV Permit Practice test",
+      "categoryLink": "/categories/auto.vehicles/2",
+      "category": "Auto & Vehicles",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/dmv-practice-test/1831.html",
+      "icon": "assets/img/apk/icon/com.dmvpracticetest.android.png",
+      "name": "DMV Practice Test",
+      "categoryLink": "/categories/auto.vehicles/2",
+      "category": "Auto & Vehicles",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/repairsolutions2/1830.html",
+      "icon": "assets/img/apk/icon/com.innova.rs2.png",
+      "name": "RepairSolutions2",
+      "categoryLink": "/categories/auto.vehicles/2",
+      "category": "Auto & Vehicles",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/shell-us-canada/1829.html",
+      "icon": "assets/img/apk/icon/com.shell.sitibv.motorist.america.png",
+      "name": "Shell US & Canada",
+      "categoryLink": "/categories/auto.vehicles/2",
+      "category": "Auto & Vehicles",
+      "rating": "4.6"
+    }
+  ]
+}

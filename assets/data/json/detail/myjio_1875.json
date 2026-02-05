@@ -1,0 +1,112 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.jio.myjio.png",
+    "title": "MyJio",
+    "ratings": "4.4",
+    "downloads": "450M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "MyJio"
+    },
+    {
+      "name": "category",
+      "value": "Productivity"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Reliance Corporate IT Park Limited"
+    },
+    {
+      "name": "Version",
+      "value": "7.0.53"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/X5P55l7W867OKI2ZN8p4XoujWoSSsJjn6xDzSGKyGUoctxSsBZfmzzwA6oTYm_bKxDw",
+    "https://play-lh.googleusercontent.com/XOF4pxV6h-zWjOSHVCcV9cJw7xwNR_lhcXVDsORzR9Yt15mNUx9CrQEqmd4zXtx_gw",
+    "https://play-lh.googleusercontent.com/dx_uY8gI9vAJYpnqB6DvovX7Y81VZgHxhNGAS2zDuVtEqec0XbWPRw7olirOZzNtnRM",
+    "https://play-lh.googleusercontent.com/hhQQBT8tdCZZshKbLY6I9fdftL0FwwMW9avuuBcsi7_NsSgR-BgYfe7YL4Qh-wbxBwQ",
+    "https://play-lh.googleusercontent.com/AGbIa8yOIyiNr22-IK-FiYHjWp0mYoJQ_DYOy4E5L6hrWnwXC3qJfFHFs_g91n2zhd8",
+    "https://play-lh.googleusercontent.com/L43i-wTrqsvOAk8hc_mXVRgADADTffO3UPJkbEn8Q7cSzpAW-lAjA2BtK0B9uZS7-g",
+    "https://play-lh.googleusercontent.com/oq_LPH3oXWKe9MSD2P3SqM3oE1L_3jVdzLx_aWOkEAqA155KwTSMULF9gxL86r97RQtC",
+    "https://play-lh.googleusercontent.com/BMVrsbgsJO65Kk-DwXknN3UMgiZpDqSnyYTfXRwabVSGmprKdckYXr1y0HC6bAByO7s"
+  ],
+  "app_descript": "<p><strong>MyJio by Reliance Jio Digital Services Pvt. Ltd.</strong></p>\n<p><strong>Brief:</strong>\nMyJio is an all-encompassing app designed for Jio users to manage their Jio account and services with ease. From tracking usage to paying bills, accessing a suite of Jio apps, and even getting customer support, MyJio acts as a portal to optimize your Jio experience efficiently.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li><strong>Comprehensive Account Management</strong>—Keep an eye on your account balance, usage patterns for calls, data, SMS, and Wi-Fi, and view detailed statements. 📊</li>\n<li><strong>Jio Mini Apps &amp; 3D Touch</strong>—Get more power with integrated mini apps and utilize 3D touch for quick feature access. 🔍</li>\n<li><strong>Robust Payment Solutions</strong>—Make payments and manage your wallets and UPI with JioPay, featuring auto-pay options and saved card details for hassle-free transactions. 💳</li>\n<li><strong>Personalized Assistance &amp; Tips</strong>—Access JioCare for a wealth of FAQs, how-to videos, helpful tips, or to connect with Jio Care experts for troubleshooting. 🆘</li>\n<li><strong>Exclusive Entertainment &amp; Cloud Storage</strong>—Enjoy entertainment through JioCinema and manage your files with JioCloud, ensuring your digital content is always within reach. 🎬☁️</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li><strong>One-Stop Shop for Jio Services</strong>—Centralized control for all your Jio-related tasks. 👌</li>\n<li><strong>User-Friendly Interface</strong>—Easy to navigate with quick shortcuts for frequent tasks. 📱</li>\n<li><strong>Wide Range of Features</strong>—From payments to entertainment, all in one app. 🌐</li>\n<li><strong>International Roaming Management</strong>—Adjust your overseas connectivity settings right from the app. 🌍</li>\n<li><strong>Inclusive for Non-Jio Users</strong>—Facilities like exploring Jio apps and home delivery of Jio SIM are available even to non-Jio users. ✨</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li><strong>Limited to Jio Users</strong>—Most features are exclusive to Jio subscribers, offering limited utility for others. 🔐</li>\n<li><strong>Potential for Clutter</strong>—The vast array of functions might overwhelm some users. 🔄</li>\n<li><strong>Data Privacy Considerations</strong>—Given the extensive account management capabilities, users need to be mindful of their data privacy. 🔏</li>\n<li><strong>Regional Availability</strong>—Some functionalities may not be available in all regions or for all users. 🌎</li>\n<li><strong>Resource Intensity</strong>—The app may consume significant device resources, affecting performance. 📶</li>\n</ul>\n<p><strong>Price:</strong>\nMyJio is free to download and offers in-app transactions and recharges for various services at different pricing tiers.</p>\n<hr/>\n<p><a href=\"https://play.google.com/store/apps/details?id=com.jio.myjio\" rel=\"noopener noreferrer\" target=\"_blank\">Download MyJio on the Play Store</a></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-takeofflabs-fontmaker/54188.html",
+      "icon": "assets/img/apk/icon/com.takeofflabs.fontmaker.png",
+      "name": "Fontmaker - Font Keyboard App",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-game-console-emulator/39577.html",
+      "icon": "assets/img/apk/icon/com.game.console.emulator.png",
+      "name": "Gamu: Retro Game Hub",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/app-itwingtech-power_of_mind-predicator/39340.html",
+      "icon": "assets/img/apk/icon/app.itwingtech.power_of_mind.predicator.png",
+      "name": "Mind Test: Test My Brain",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-pdfreader-pdfeditor-scandocu-pro-app-amb/16953.html",
+      "icon": "assets/img/apk/icon/com.pdfreader.pdfeditor.scandocu.pro.app.amb.png",
+      "name": "PDFPro: Scanner & Editor",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "3.8"
+    },
+    {
+      "link": "/details/ai-perplexity-app-android/16744.html",
+      "icon": "assets/img/apk/icon/ai.perplexity.app.android.png",
+      "name": "Perplexity - Ask Anything",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-safeshellvpn/16639.html",
+      "icon": "assets/img/apk/icon/com.safeshellvpn.png",
+      "name": "SafeShell VPN: Fast & Secure",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-roblox-skin-cloth-freeskins/16603.html",
+      "icon": "assets/img/apk/icon/com.roblox.skin.cloth.freeskins.png",
+      "name": "Clothes Skin For Roblox",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-underthing-focus-friend/16526.html",
+      "icon": "assets/img/apk/icon/com.underthing.focus.friend.png",
+      "name": "Focus Friend by Hank Green",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.7"
+    }
+  ]
+}

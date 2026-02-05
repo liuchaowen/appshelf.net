@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.newthermometer.bodytemperatureapp.png",
+    "title": "Thermometer: Weather, Body Temperature, Forecast",
+    "ratings": "4.3",
+    "downloads": "120M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Thermometer: Weather, Body Temperature, Forecast"
+    },
+    {
+      "name": "category",
+      "value": "Weather"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Worthy App World"
+    },
+    {
+      "name": "Version",
+      "value": "1.0.4"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h1>Thermometer: Weather, Body Temperature, Forecast</h1>\n<p>Get ready to transform your device into a versatile weather station! The \"Thermometer: Weather, Body Temperature, Forecast\" is the ideal app for those who want to stay updated with indoor and outdoor temperature readings, along with comprehensive weather forecasts. Designed with user-friendliness in mind, this app acts as your personal meteorologist, ensuring you're well-prepared for any weather conditions.</p>\n<h3>Core Features 🏆</h3>\n<ul>\n<li><strong>Real-Time Weather Updates</strong>: Access live weather forecasts tailored to your location ⛅.</li>\n<li><strong>Temperature Units Variety</strong>: Choose your preferred temperature scales between Fahrenheit (°F) and Celsius (°C) 🌡️.</li>\n<li><strong>Indoor Comfort Measure</strong>: Get accurate readings of your indoor atmosphere in both Celsius and Fahrenheit 🏠.</li>\n<li><strong>Wind Parameters</strong>: Understand wind conditions with detailed measurements in MPH, KPH, Knots, and MAPS 🌬️.</li>\n<li><strong>Barometric Pressure Readings</strong>: Monitor atmospheric pressure in your choice of inches or millibars 🔍.</li>\n</ul>\n<h3>Pros 👍</h3>\n<ul>\n<li><strong>Dual Temperature Readings</strong>: Easily switch between Fahrenheit and Celsius for personal convenience 🔀.</li>\n<li><strong>Customizable Wind and Pressure Units</strong>: Tailor the app to your preferences for a personalized weather interpretation 🔄.</li>\n<li><strong>Detailed Weather Forecasting</strong>: Make informed decisions based on comprehensive weather predictions 📅.</li>\n<li><strong>User-Friendly Interface</strong>: Navigate the app effortlessly, making it accessible for all ages 👥.</li>\n<li><strong>Completely Free</strong>: Enjoy all these features without any cost 💸.</li>\n</ul>\n<h3>Cons 👎</h3>\n<ul>\n<li><strong>Battery Impact</strong>: For precise indoor readings, phone may need to rest which impacts usage flow 📉.</li>\n<li><strong>No Body Temperature Measurement</strong>: The app cannot measure human body temperature, contrary to what the name might imply ❌.</li>\n<li><strong>Internet Dependency</strong>: Requires live data connection for weather forecasting and temperature updates 🌐.</li>\n<li><strong>Environmental Sensitivity</strong>: May not accurately reflect indoor temperature in real-time if the device is influenced by external heat sources like a warm battery 🔋.</li>\n<li><strong>Ads</strong>: The free version may contain advertisements, which can be a distraction for users 🚫.</li>\n</ul>\n<h3>Price 💵</h3>\n<p>This app is free to download and use, keeping you informed of weather patterns and surroundings at no cost. Note that there may be ads displayed within the app to support its free service offer.</p>\n<p>By providing an easily navigable interface and essential weather details, \"Thermometer: Weather, Body Temperature, Forecast\" stands out as a handy tool for daily insights into your environmental conditions. Keep a virtual thermometer at your fingertips and adapt to the weather like never before!</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-eet-weather-launcher/15703.html",
+      "icon": "assets/img/apk/icon/com.eet.weather.launcher.png",
+      "name": "Weather Now Launcher - Radar",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "3.6"
+    },
+    {
+      "link": "/details/com-daily-forecast-weather-radar/4930.html",
+      "icon": "assets/img/apk/icon/com.daily.forecast.weather.radar.png",
+      "name": "Daily Forecast: Weather&Radar",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-mahersafadi-sunny/4921.html",
+      "icon": "assets/img/apk/icon/com.mahersafadi.sunny.png",
+      "name": "Sunny: Weather forecast",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4"
+    },
+    {
+      "link": "/details/WeatherPal/4628.html",
+      "icon": "assets/img/apk/icon/com.precise.opliging.kitan.png",
+      "name": "WeatherPal",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/live-weather/2063.html",
+      "icon": "assets/img/apk/icon/com.appsinnova.weatherforecast.liveweather.png",
+      "name": "Live Weather",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/radarnow/2062.html",
+      "icon": "assets/img/apk/icon/com.usnaviguide.radar_now.png",
+      "name": "RadarNow!",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/local-weather/2061.html",
+      "icon": "assets/img/apk/icon/com.weather.forecast.channel.local.png",
+      "name": "Local Weather",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/iqair-airvisual/2060.html",
+      "icon": "assets/img/apk/icon/com.airvisual.png",
+      "name": "IQAir AirVisual",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.6"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/au.com.danmurphys.png",
+    "title": "Dan Murphy's",
+    "ratings": "3",
+    "downloads": "690M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Dan Murphy's"
+    },
+    {
+      "name": "category",
+      "value": "Food & Drink"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Woolworths Group"
+    },
+    {
+      "name": "Version",
+      "value": "5.5.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/DJXC87v6chbmiGRIIxoD_Y4n9zczJRhiwmVfvTFAVjLlv4MAedlyMpCzzisa6Z1qWxs",
+    "https://play-lh.googleusercontent.com/VQGk-gTClYMNI-ASJ6XnUG1wVj8sAKo-3F9pkg5swRLxL25cRI_j63DUnfXHlS0VJA",
+    "https://play-lh.googleusercontent.com/4QEj8sMLbhtrG7YvV-wA0BSXPdA4glFRnco-oASay7TU7I1ec3MD0bY6OWkK06egSZU",
+    "https://play-lh.googleusercontent.com/bQkGVv-8yc6kVP-fVvre0bvEEVRxCE6ECy1vYcgCZYux4wJ7fE4JN_PzBRAcEhetRktT",
+    "https://play-lh.googleusercontent.com/1yUX5nRdljXMZBsh4r6XOfAWBM2rCqCtdD2uBtPHpqEsYwe4_bygdBAUzpWq7-Bgh3Y",
+    "https://play-lh.googleusercontent.com/nKKCh1mz_iulMBG1IE5XdGxxgsXlYFbAN_5uDLgxefKcgofbNjXeDLUn_yEWtQqrRJg",
+    "https://play-lh.googleusercontent.com/tEZgnrdQpImStOICeTg1yF6eDgYwQMyRj1Qv3hesFz7aGtsZFwq-4_vfFYwf-AQStQ",
+    "https://play-lh.googleusercontent.com/QspChAfZw9VC2KCuCdrEeAsT2CoPHBDMCnwgwcypKcGSCWHZiyh1BQ5iiqYimIvOWxNZ"
+  ],
+  "app_descript": "<h3>Dan Murphy's</h3>\n<p>Discover the convenience of on-the-go access to your favorite drinks with Dan Murphy's app, specially designed for those who appreciate a quick, easy, and personalized shopping experience. Whether you're at home or on the move, access your My Dan’s membership, breeze through checkouts, and reorder your favorites with just a few taps.</p>\n<h4>Core Features 📌</h4>\n<ul>\n<li><strong>My Dan’s Membership:</strong> Keep your membership card handy at all times, with or without an internet connection.</li>\n<li><strong>Express Checkout:</strong> Experience a streamlined, 3-step checkout process that makes purchasing effortless.</li>\n<li><strong>Easy Reordering:</strong> Quickly order your go-to products right from the homepage or your account for ultimate convenience.</li>\n<li><strong>Personalized Experience:</strong> Tailor-made recommendations and orders based on your buying history and preferences.</li>\n</ul>\n<h4>Pros 👍</h4>\n<ul>\n<li><strong>Offline Access:</strong> Never worry about connectivity; access your membership information anytime, anywhere.</li>\n<li><strong>Time-Saving:</strong> Save a considerable amount of time with a quick checkout and easy reorder system.</li>\n<li><strong>Convenience:</strong> Your past purchases and preferences are stored for a hassle-free shopping journey.</li>\n<li><strong>Support:</strong> Responsive customer service is available through [email protected] for queries and suggestions.</li>\n</ul>\n<h4>Cons 👎</h4>\n<ul>\n<li><strong>Availability:</strong> The app's features are specialized for My Dan's members, which may not cater to all users.</li>\n<li><strong>Region-Locked:</strong> Services may be limited to certain geographical locations.</li>\n<li><strong>Account Required:</strong> Requires an account setup for personalized features, which may be a deterrent for some.</li>\n<li><strong>Navigation Learning Curve:</strong> New users might take time to familiarize themselves with the app's features.</li>\n</ul>\n<h4>Price 💵</h4>\n<ul>\n<li>The Dan Murphy's app is free to download, ensuring that your search for the perfect beverage is not just convenient but also cost-effective.</li>\n</ul>\n<p>Since the Dan Murphy's app is not a game, there is no associated community section as per the constraints.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-buzzfeed-tasty/16927.html",
+      "icon": "assets/img/apk/icon/com.buzzfeed.tasty.png",
+      "name": "Tasty",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-hacklatino-chingon-android/15837.html",
+      "icon": "assets/img/apk/icon/com.hacklatino.chingon.android.png",
+      "name": "Hack Latino",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-postmates-android/4464.html",
+      "icon": "assets/img/apk/icon/com.postmates.android.png",
+      "name": "Postmates - Food Delivery",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-seamlessweb-android-view/4463.html",
+      "icon": "assets/img/apk/icon/com.seamlessweb.android.view.png",
+      "name": "Seamless: Local Food Delivery",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-trycaviar-customer/4462.html",
+      "icon": "assets/img/apk/icon/com.trycaviar.customer.png",
+      "name": "Caviar - Order Food Delivery",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-chownow-discover/4461.html",
+      "icon": "assets/img/apk/icon/com.chownow.discover.png",
+      "name": "ChowNow: Local Food Ordering",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-toasttab-consumer/4460.html",
+      "icon": "assets/img/apk/icon/com.toasttab.consumer.png",
+      "name": "Toast Takeout & Delivery",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/menulog-au/3667.html",
+      "icon": "assets/img/apk/icon/com.menulog.m.png",
+      "name": "Menulog AU",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.2"
+    }
+  ]
+}

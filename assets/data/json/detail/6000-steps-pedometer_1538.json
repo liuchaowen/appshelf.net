@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/com.pedometer.lqsteps.png",
+    "title": "6000 Steps - Pedometer",
+    "ratings": "4.2",
+    "downloads": "250M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "6000 Steps - Pedometer"
+    },
+    {
+      "name": "category",
+      "value": "Health & Fitness"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Nancy B Thurston"
+    },
+    {
+      "name": "Version",
+      "value": "1.0.2"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> 6000 Steps - Pedometer</p>\n<p><strong>Brief:</strong>\nUnlock the doors to a healthier lifestyle with 6000 Steps - Pedometer, an app designed to help you monitor and increase your physical activity through stepping. Say goodbye to aimless walks and hello to calculated strides towards better health and a greener environment, with features that extend beyond counting steps to cultivating your own virtual garden!</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li><strong>Tracking Pedestrian Metrics:</strong> Monitor not just the number of steps but also the duration and frequency of your walks. 🚶</li>\n<li><strong>Carbon Footprint Awareness:</strong> Keep an eye on the carbon emissions you're saving with each step, promoting eco-friendly habits. 🌱</li>\n<li><strong>Hydration and Weight Monitor:</strong> Log your daily water intake and weight changes, encouraging consistent hydration and weight management. 💧</li>\n<li><strong>Comprehensive Statistics:</strong> Easily analyze your performance through a detailed statistics overview and line chart presentations for daily and monthly goals. 📊</li>\n<li><strong>Gamification - Cultivate Fruit Trees:</strong> Engage with a unique feature that lets your steps nurture virtual fruit trees which you can harvest and sell. 🌳</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li><strong>Motivational Tool:</strong> The app serves as a motivational device by offering a gamified experience linked to walking activity. 👍</li>\n<li><strong>Environmental Impact:</strong> Fosters an environmentally-conscious mindset through tracking the reduction in carbon emissions. 🌍</li>\n<li><strong>Simple and Engaging UI:</strong> Provides a straightforward interface with engaging visual charts that keep you informed and hooked. 📈</li>\n<li><strong>Complementary Health Tracking:</strong> Enables users to track important health metrics such as hydration and weight alongside their stepping data. 🏋️‍♂️</li>\n<li><strong>Goal-Oriented:</strong> Encourages setting and achieving daily and monthly fitness goals for sustained well-being. 🎯</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li><strong>Device Dependency:</strong> Steps accuracy may vary depending on the device's sensors or carriage method. 📱</li>\n<li><strong>In-App Distractions:</strong> The gamification aspect could detract from the primary goal of walking for some users. 🎮</li>\n<li><strong>Data Privacy Concerns:</strong> Collects personal health data which could raise privacy issues if not properly secured. 🔐</li>\n<li><strong>Limited Offline Functionality:</strong> Some features may require an Internet connection to operate fully. 🌐</li>\n<li><strong>Potentially Incomplete Gardening Experience:</strong> May require in-app purchases for a full range of garden decorations and trees. 💳</li>\n</ul>\n<p><strong>Price:</strong>\nThe 6000 Steps - Pedometer app is free to download, with potential in-app purchases for unlocking additional gardening features and decoration options. 💵</p>\n<p>Craft your path to fitness with every step and transform your walking routine into a delightful journey with 6000 Steps - Pedometer. Whether you're looking to bolster your walking habits, track environmental contributions, or maintain general health parameters, this app offers a comprehensive toolkit for your journey to better health. Download it now and take the step towards a healthier you and a greener planet! 🌟</p>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-appflows-BodyMuse/48997.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.appflows.BodyMuse.png",
+      "name": "BodyMuse: Body Shape Analysis",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.3"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-codev-headache_app/39734.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.codev.headache_app.png",
+      "name": "Headache Diary, Test & Treat",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/life-simple/39727.html",
+      "icon": "https://img.buzzsight.co/apk/icon/life.simple.png",
+      "name": "Simple: AI Weight Loss Coach",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-clearblue-minerva/39464.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.clearblue.minerva.png",
+      "name": "Menopause Stage - Clearblue me",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.6"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-jplanet-lungtestandbreathpractice/39424.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.jplanet.lungtestandbreathpractice.png",
+      "name": "Lung Test and Breath Exercise",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "3"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/healthy-lungs-breathing-exercise-coach-pranayama-breath-workout-lung-exercises/39423.html",
+      "icon": "https://img.buzzsight.co/apk/icon/healthy.lungs.breathing.exercise.coach.pranayama.breath.workout.lung.exercises.png",
+      "name": "Lungs Test: Breathing Exercise",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-smartoptometry-smartoptometry-full/34733.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.smartoptometry.smartoptometry.full.png",
+      "name": "Smart Optometry - Eye Tests",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-b2creativedesigns-eyetest/34732.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.b2creativedesigns.eyetest.png",
+      "name": "Eye test",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.1"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.singlecare.scma.png",
+    "title": "SingleCare",
+    "ratings": "4.7",
+    "downloads": "10M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "SingleCare"
+    },
+    {
+      "name": "category",
+      "value": "Medical"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Singlecare, LLC"
+    },
+    {
+      "name": "Version",
+      "value": "5.3.9"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/6gbSbKw3qmHy5ftEx0LxblcGshRiVQZatW9Xzfx9JKX_ibnY1oAcROt5LxFw4tA1Mw",
+    "https://play-lh.googleusercontent.com/aa_WyuTeiPNmXPoOQUzRzw0OqFFSXUP_ihH91kxf8R2gko_XCIGlK3V5gAkshAzRsns",
+    "https://play-lh.googleusercontent.com/CuGMVCkcktbkEYf4GhIfBUJUkkwISie-HjQo32t_lekqA1Kx72U1qwpKnoowJ9F9TK0",
+    "https://play-lh.googleusercontent.com/MB4G0IYwhzgnIBwfeDF5195Gu0Y3yZLZ-YCOBau6IaolofE2mUNp_PbB-TrF3n8w7Mw",
+    "https://play-lh.googleusercontent.com/XYk55eVB7Pbb8Sza-ADppY7dMv4julZRjWzuj4qk_wPRtR76rTVwxTwAyt3ygzCVpDE",
+    "https://play-lh.googleusercontent.com/lkfTkGxIQX0wdjUgWMScVHJXi6U3N9zEptNQYp2pvEtG6FO3KL98AJkBEbCAg8bqL_Y"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> SingleCare<br/>\n<strong>Package Name:</strong> com.singlecare.scma  </p>\n<p><strong>Brief:</strong><br/>\nSingleCare is a revolutionary prescription discount service that helps users save on over 10,000 medications, regardless of insurance status. With a commitment to affordability and accessibility, SingleCare is the go-to app for anyone looking to reduce their medication costs. </p>\n<p><strong>Core Features:</strong> 🌟</p>\n<ul>\n<li><strong>Zero Sign-Up Fee:</strong> Access the SingleCare savings with no registration costs 🆓.</li>\n<li><strong>Loyalty Program:</strong> Enjoy additional savings such as $5 off on subsequent medication fills 💰.</li>\n<li><strong>Easy Refills:</strong> Reuse your drug coupon cards to continually save on refills 💊.</li>\n<li><strong>Prescription Discount Finder:</strong> Compare discounts at various participating pharmacies nationwide 🔎.</li>\n<li><strong>Comprehensive Medication Coverage:</strong> Includes a wide range of drugs, from blood pressure to weight loss medications 💼.</li>\n</ul>\n<p><strong>Pros:</strong> 👍</p>\n<ul>\n<li><strong>Universal Access:</strong> Whether insured or uninsured, SingleCare offers benefits for everyone 🌐.</li>\n<li><strong>Substantial Savings:</strong> Possible savings of up to 80% on prescription medications 👛.</li>\n<li><strong>Broad Pharmacy Network:</strong> Works with major pharmacies including CVS, Walmart, and Costco 🏥.</li>\n<li><strong>Intuitive App Interface:</strong> Effortlessly search and save coupons on the app 📱.</li>\n<li><strong>Informative Drug Pricing Tool:</strong> Helps users find the best deals by entering their medication and zip code 🔍.</li>\n</ul>\n<p><strong>Cons:</strong> 👎</p>\n<ul>\n<li><strong>Prescription Requirement:</strong> Discounts can only be used if you have a prescription from a medical professional 😷.</li>\n<li><strong>Geographic Limitations:</strong> The extent of savings might vary based on location and pharmacy 🗺️.</li>\n<li><strong>Brand vs Generic:</strong> Greater savings often found with generic drugs, which may not suit all preferences 🔄.</li>\n<li><strong>Pharmacy Participation Variance:</strong> Not all pharmacies may offer the same discount rates 🚨.</li>\n<li><strong>Discount Fluctuations:</strong> Prices and discounts may fluctuate and require frequent comparison shopping 📉.</li>\n</ul>\n<p><strong>Price:</strong> 💵\nSingleCare is free to download and use. There are no sign-up or recurring fees for accessing the prescription savings card.</p>\n<hr/>\n<p>Crafted with care, the description aims to capture the essence of SingleCare, focusing on its capabilities to alleviate the burden of expensive medical prescriptions and transform the way users approach healthcare expenses.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-stress-test/48991.html",
+      "icon": "assets/img/apk/icon/com.stress.test.png",
+      "name": "Stress Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-procrastination-test/39516.html",
+      "icon": "assets/img/apk/icon/com.procrastination.test.png",
+      "name": "Procrastination Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-bingeeating-test/39303.html",
+      "icon": "assets/img/apk/icon/com.bingeeating.test.png",
+      "name": "Binge Eating Disorder Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-ocd-test/34780.html",
+      "icon": "assets/img/apk/icon/com.ocd.test.png",
+      "name": "OCD Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-healthians-main-healthians/34760.html",
+      "icon": "assets/img/apk/icon/com.healthians.main.healthians.png",
+      "name": "Healthians -Full Body Checkup",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-lbrc-PeriodCalendar/34759.html",
+      "icon": "assets/img/apk/icon/com.lbrc.PeriodCalendar.png",
+      "name": "Period Tracker and Calendar",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/es-jshcd-edadosea/34693.html",
+      "icon": "assets/img/apk/icon/es.jshcd.edadosea.png",
+      "name": "Bone age",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-devdis/16977.html",
+      "icon": "assets/img/apk/icon/com.devdis.png",
+      "name": "Developmental Disabilities",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.5"
+    }
+  ]
+}

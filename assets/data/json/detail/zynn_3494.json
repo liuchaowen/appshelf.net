@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.owlreality.zynn.png",
+    "title": "Zynn",
+    "ratings": "4.2",
+    "downloads": "720M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Zynn"
+    },
+    {
+      "name": "category",
+      "value": "Social"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "OWLII INC."
+    },
+    {
+      "name": "Version",
+      "value": "2.9.0.10500371"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h3>Zynn - Short Video Platform</h3>\n<h4>Brief:</h4>\n<p>Zynn, once a rising star in the realm of short-form video platforms, has experienced some turbulence in the past. Notably, it was removed from the Google Play Store due to plagiarism accusations, with reports of unauthorized use of TikTok creators' content. Despite this setback, Zynn remains available on the iOS App Store and attracts users with its unique monetization model and creative content creation tools.</p>\n<h4>Core Features:</h4>\n<ul>\n<li>🎥 <strong>Video Discovery</strong>: Dive into a plethora of spontaneous and engaging short videos tailored to your tastes. 📌</li>\n<li>🎬 <strong>Content Creation</strong>: Craft your own 15-second videos using a rich music library, an assortment of stickers, and a variety of fun effects. 📌</li>\n<li>🌐 <strong>Social Sharing</strong>: Seamlessly share your favorite moments and creations to Instagram, Snapchat, and more. 📌</li>\n<li>🤝 <strong>Community Connection</strong>: Bond with like-minded individuals across the globe and find your niche in the Zynn community. 📌</li>\n<li>💸 <strong>Earn Rewards</strong>: Enjoy videos and invite friends to join Zynn, earning money that can be redeemed as gift cards or cash. 📌</li>\n</ul>\n<h4>Pros:</h4>\n<ul>\n<li>👍 <strong>Monetization for Users</strong>: Uniquely rewards users with monetary benefits just for engaging with the platform and expanding its reach. 👍</li>\n<li>👍 <strong>Creative Tools</strong>: A broad array of creative assets is available to make each video unique and professional-looking. 👍</li>\n<li>👍 <strong>Global Community</strong>: Provides a space for creators and viewers to connect internationally, sharing cultures and interests. 👍</li>\n<li>👍 <strong>Simple Sharing Mechanism</strong>: The app facilitates easy sharing across popular social media platforms to grow your viewership. 👍</li>\n</ul>\n<h4>Cons:</h4>\n<ul>\n<li>👎 <strong>Plagiarism Incidents</strong>: Past incidents of content plagiarism have raised concerns about the safeguarding of intellectual property on the platform. 👎</li>\n<li>👎 <strong>Google Play Removal</strong>: The app's unavailability on Google Play Store might limit access for Android users. 👎</li>\n<li>👎 <strong>Reward System Caveats</strong>: The earning potential could encourage inauthentic growth practices, such as spam account creation. 👎</li>\n<li>👎 <strong>Image Rehabilitation Needed</strong>: The app may need to work on restoring its image following the plagiarism scandal. 👎</li>\n</ul>\n<h4>Price:</h4>\n<p>💵 Zynn is free to download and use, with the added perk of being able to earn money. However, specifics about any in-app purchases or the sustainability of the reward model are not detailed.</p>\n<p><em>Community:</em></p>\n<ul>\n<li>This section is not included since Zynn is a non-game app.</li>\n</ul>\n<p>Download Zynn and be a part of a platform that is not just a showcase for creativity but a community that rewards its members. Whether you're a creator or a consumer of short videos, Zynn offers a territory for you to express, connect, and even earn.</p>",
+  "related_apps": [
+    {
+      "link": "/details/jp-cocone-livly/54171.html",
+      "icon": "assets/img/apk/icon/jp.cocone.livly.png",
+      "name": "Livly Island - Adopt Cute Pets",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-daily-festival-photos/39721.html",
+      "icon": "assets/img/apk/icon/com.daily.festival.photos.png",
+      "name": "Daily Festival Photo",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/tv-medal-recorder/39573.html",
+      "icon": "assets/img/apk/icon/tv.medal.recorder.png",
+      "name": "Medal - Gaming Clips",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-ptanktechnology-reincornation/39352.html",
+      "icon": "assets/img/apk/icon/com.ptanktechnology.reincornation.png",
+      "name": "Reincarnation",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-tiktok-lite-go/15392.html",
+      "icon": "assets/img/apk/icon/com.tiktok.lite.go.png",
+      "name": "TikTok Lite - Faster TikTok",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-petmeetly/15275.html",
+      "icon": "assets/img/apk/icon/com.petmeetly.png",
+      "name": "Petmeetly - Pet's Match Finder",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-xingin-xhs/14603.html",
+      "icon": "assets/img/apk/icon/com.xingin.xhs.png",
+      "name": "REDnote—小红书国际版",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-stdev-dissordap/10395.html",
+      "icon": "assets/img/apk/icon/com.stdev.dissordap.png",
+      "name": "Vote Social - Photo Voting VS",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "3.8"
+    }
+  ]
+}

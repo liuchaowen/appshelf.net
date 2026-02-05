@@ -1,0 +1,108 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/au.org.cancervic.sunsmart.png",
+    "title": "SunSmart",
+    "ratings": "4.8",
+    "downloads": "800M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "SunSmart"
+    },
+    {
+      "name": "category",
+      "value": "Weather"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Cancer Council Victoria"
+    },
+    {
+      "name": "Version",
+      "value": "3.0.9"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/Jwxwe9vq87Qk9iUQXceqQfNt6oPMaUwTaYhsOmhsBePPIjJhnjh3IbtYxzwYduWJdm4",
+    "https://play-lh.googleusercontent.com/-WwL0Z_uI98Sp68y23e7thb9pfl_Qx6jG0Nb7kOxnYm1LxZ-HzdXobs7LA9yzpvt4vQ",
+    "https://play-lh.googleusercontent.com/WGGyFOZPj5gZroXBhG5CvkiY9w7yucxPD9PniWbOaObd3kk_aNmNBSPyneD4wLAAOA",
+    "https://play-lh.googleusercontent.com/nkdxKrAv-IM7uveGTiZcfQyButVOVBH2PC2ay8KQNxeH7w5JkC8t-Y72KupV1m2Ypzk"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> SunSmart</p>\n<p><strong>Brief:</strong>\nStay protected under the Australian sun with the free SunSmart app, your personal UV level and sun protection advisor. Developed by Cancer Council Victoria, this app provides accurate sun protection times each day, sourced from the Bureau of Meteorology and the Australian Radiation Protection and Nuclear Safety Agency, catering exclusively to the needs of users in Australia.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🌞 Daily Sun Protection Times: Get accurate forecasts of when you'll need sun protection to prevent skin damage.</li>\n<li>🚨 Alerts: Set up convenient reminder alerts to apply sunscreen and take other protective measures.</li>\n<li>☀️ Live UV Data: Access real-time UV radiation levels to better plan your outdoor activities and protect your skin.</li>\n<li>📅 Personalized Calendar: Schedule your sun protection routine with an in-app calendar that adapts to your location and the daily UV index.</li>\n<li>🔄 Automatic Updates: The app keeps you updated with the latest sun protection times without manual input, thanks to auto-refreshed data.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 User-Friendly Interface: Navigate easily through the app's features for a seamless user experience.</li>\n<li>👍 Health Focused: Prioritize your skin health with evidence-based recommendations to reduce the risk of cancer.</li>\n<li>👍 Convenient Notifications: Never forget to protect your skin with customizable alert options.</li>\n<li>👍 Expertise Backed: Gain confidence with information developed by a reputable non-profit organization, Cancer Council Victoria.</li>\n<li>👍 Locally Sourced Data: Benefit from forecast information fine-tuned for Australian climate conditions.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 Geographical Limitations: The app's sun protection data is exclusive to Australia and not suitable for international use.</li>\n<li>👎 Requires Daily Consultation: Users must check the app daily or rely on alerts for updates as opposed to weekly forecasting.</li>\n<li>👎 Data Dependent: Reliability on weather forecast and UV index means accuracy can be affected by data source updates or outages.</li>\n<li>👎 No Additional Features: It primarily serves as a sun protection guide, with limited other functionalities.</li>\n<li>👎 Limited Platform Availability: May not be available across all devices or operating systems outside the app's current platform.</li>\n</ul>\n<p><strong>Price:</strong></p>\n<ul>\n<li>💵 The app is completely free to download and use, with no hidden costs or in-app purchases, ensuring accessible protection for everyone in Australia.</li>\n</ul>\n<p>[Please note: The 'Community' section is not included as SunSmart is a non-game app.]</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-eet-weather-launcher/15703.html",
+      "icon": "assets/img/apk/icon/com.eet.weather.launcher.png",
+      "name": "Weather Now Launcher - Radar",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "3.6"
+    },
+    {
+      "link": "/details/com-daily-forecast-weather-radar/4930.html",
+      "icon": "assets/img/apk/icon/com.daily.forecast.weather.radar.png",
+      "name": "Daily Forecast: Weather&Radar",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-mahersafadi-sunny/4921.html",
+      "icon": "assets/img/apk/icon/com.mahersafadi.sunny.png",
+      "name": "Sunny: Weather forecast",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4"
+    },
+    {
+      "link": "/details/WeatherPal/4628.html",
+      "icon": "assets/img/apk/icon/com.precise.opliging.kitan.png",
+      "name": "WeatherPal",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/live-weather/2063.html",
+      "icon": "assets/img/apk/icon/com.appsinnova.weatherforecast.liveweather.png",
+      "name": "Live Weather",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/radarnow/2062.html",
+      "icon": "assets/img/apk/icon/com.usnaviguide.radar_now.png",
+      "name": "RadarNow!",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/local-weather/2061.html",
+      "icon": "assets/img/apk/icon/com.weather.forecast.channel.local.png",
+      "name": "Local Weather",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/iqair-airvisual/2060.html",
+      "icon": "assets/img/apk/icon/com.airvisual.png",
+      "name": "IQAir AirVisual",
+      "categoryLink": "/en/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.6"
+    }
+  ]
+}

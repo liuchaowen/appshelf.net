@@ -1,0 +1,111 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/ca.shaw.homewifi.png",
+    "title": "Shaw BlueCurve Home",
+    "ratings": "4.3",
+    "downloads": "560M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Shaw BlueCurve Home"
+    },
+    {
+      "name": "category",
+      "value": "Productivity"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Shaw Communications Inc."
+    },
+    {
+      "name": "Version",
+      "value": "3.28.1.20210319222257"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/oV8z8PElCrKw2LTYUtt2p_Ih52tdmmbR9ww97PVw0durxlJq7wg1nZY9gBj51CFMAl-Z",
+    "https://play-lh.googleusercontent.com/KHvJtnCWP0BS2Q22U26c98XEcTwMW-TeDHZeeyhD3V1W651aG2VAuJqgwfn1kelC3SA",
+    "https://play-lh.googleusercontent.com/cNTRJQggmE5HK0nYwEJ25s5NQLpf09T18_vZ_yaWLIMWCnDv-Fv9NMH1gASgSaonsA",
+    "https://play-lh.googleusercontent.com/ovdGYsNVLfht9dM3bwxFJ7OhIYeCQMBoKAdjsGlZJJ_nW1SxWyXkcBMGsoE-sL4w8g",
+    "https://play-lh.googleusercontent.com/aRS13lzwq19r4_b4TUfHFXV0ED9m649nk-th4qu3-Mr70Gp9Zk0SBXNw8-cMKOpi_zg",
+    "https://play-lh.googleusercontent.com/H78xMcIXWbGgL_xXs4YE7TZOBXZ0a6lZ_pyvCIqPBUHQTlSLFoo0jsmStpuJWO_E2rk",
+    "https://play-lh.googleusercontent.com/C4AwIvGqmwuCD7TdLkxAKBLyOtdrSQ1fblbcp5O-O6dKMYvik_rcia91dFuuvyJvoeU"
+  ],
+  "app_descript": "<h3>Shaw BlueCurve Home</h3>\n<p>The Shaw BlueCurve Home app is an exclusive tool designed to elevate the digital living experience for Shaw Internet customers equipped with a BlueCurve Gateway. Obtain total command over your home WiFi network, with a variety of features to streamline your Internet consumption, elevate security, and personalize your connectivity experience.</p>\n<h4>📌 Core Features:</h4>\n<ul>\n<li><strong>Device Identification and Management:</strong> Easily see and nickname the devices on your network for straightforward tracking 🔍.</li>\n<li><strong>Profile Creation:</strong> Assign devices to individual family members, making digital management a family affair 👨‍👩‍👧‍👦.</li>\n<li><strong>WiFi Access Control:</strong> View and change your WiFi password promptly, ensuring secure and hassle-free connectivity 🔐.</li>\n<li><strong>Parental Controls:</strong> Enforce content management, internet usage balance with specific online schedules for dinner, family, and bedtime 🚸.</li>\n<li><strong>Usage Monitoring:</strong> Keep tabs on internet consumption by profiles and devices, maintaining efficient data use 📊.</li>\n<li><strong>Troubleshooting Support:</strong> Address network issues with embedded troubleshooting capabilities 🛠️.</li>\n<li><strong>Advanced Network Customization:</strong> Tweak your home network settings for an optimal user experience ⚙️.</li>\n<li><strong>BlueCurve Pods Integration:</strong> Enhance your WiFi coverage eliminating dead spots for unwavering connectivity across your home 📡.</li>\n</ul>\n<h4>👍 Pros:</h4>\n<ul>\n<li><strong>Personalized User Experience:</strong> Tailor your home network to accommodate your lifestyle preferences with ease ✅.</li>\n<li><strong>Enhanced Security:</strong> Protect your network against unauthorized access and manage your family's online safety with robust controls 🔒.</li>\n<li><strong>Convenience:</strong> Quick troubleshooting and network settings adjustments right at your fingertips 📲.</li>\n<li><strong>Family-Friendly Management:</strong> Tools such as bedtime scheduling help instill healthy digital habits within the household 👪.</li>\n</ul>\n<h4>👎 Cons:</h4>\n<ul>\n<li><strong>Limited Access:</strong> Only available for Shaw Internet subscribers who possess a BlueCurve Gateway 🚫.</li>\n<li><strong>Device Compatibility:</strong> Requires Android 6.0 and up, potentially excluding users with older devices 📴.</li>\n<li><strong>Permission Requirements:</strong> The app requires various permissions which may raise concerns for the privacy-conscious 🛂.</li>\n<li><strong>No Offline Functionality:</strong> The need to receive data from the Internet implies no offline capabilities for the app 📶.</li>\n</ul>\n<h4>💵 Price:</h4>\n<ul>\n<li><strong>Subscription Dependency:</strong> Strictly accessible to subscribers of Shaw Internet services with an XB6 Gateway at no additional cost ⭐.</li>\n</ul>\n<h4>🕸️ Community:</h4>\n<p>Should you seek support or join the larger BlueCurve user community, the following resources are at your disposal:</p>\n<ul>\n<li><strong>Official Site:</strong> <a href=\"https://www.shaw.ca/bluecurve/bluecurve-home/\" rel=\"noopener noreferrer\" target=\"_blank\">Shaw BlueCurve Home</a></li>\n</ul>\n<p><em>No other community resources found.</em></p>\n<p>Shaw BlueCurve Home is your exclusive digital companion, transforming your household into a smart interconnected hub with intuitive controls designed to cater to the digitally savvy Shaw subscriber.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-takeofflabs-fontmaker/54188.html",
+      "icon": "assets/img/apk/icon/com.takeofflabs.fontmaker.png",
+      "name": "Fontmaker - Font Keyboard App",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-game-console-emulator/39577.html",
+      "icon": "assets/img/apk/icon/com.game.console.emulator.png",
+      "name": "Gamu: Retro Game Hub",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/app-itwingtech-power_of_mind-predicator/39340.html",
+      "icon": "assets/img/apk/icon/app.itwingtech.power_of_mind.predicator.png",
+      "name": "Mind Test: Test My Brain",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-pdfreader-pdfeditor-scandocu-pro-app-amb/16953.html",
+      "icon": "assets/img/apk/icon/com.pdfreader.pdfeditor.scandocu.pro.app.amb.png",
+      "name": "PDFPro: Scanner & Editor",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "3.8"
+    },
+    {
+      "link": "/details/ai-perplexity-app-android/16744.html",
+      "icon": "assets/img/apk/icon/ai.perplexity.app.android.png",
+      "name": "Perplexity - Ask Anything",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-safeshellvpn/16639.html",
+      "icon": "assets/img/apk/icon/com.safeshellvpn.png",
+      "name": "SafeShell VPN: Fast & Secure",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-roblox-skin-cloth-freeskins/16603.html",
+      "icon": "assets/img/apk/icon/com.roblox.skin.cloth.freeskins.png",
+      "name": "Clothes Skin For Roblox",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-underthing-focus-friend/16526.html",
+      "icon": "assets/img/apk/icon/com.underthing.focus.friend.png",
+      "name": "Focus Friend by Hank Green",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.7"
+    }
+  ]
+}

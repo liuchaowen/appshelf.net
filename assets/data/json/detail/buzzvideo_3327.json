@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/buzzvideo.png",
+    "title": "BuzzVideo",
+    "ratings": "4.9",
+    "downloads": "80M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "BuzzVideo"
+    },
+    {
+      "name": "category",
+      "value": "Entertainment"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "BuzzVideo"
+    },
+    {
+      "name": "Version",
+      "value": "14.8.0.01"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>BuzzVideo</strong></p>\n<p>Brief:\nBuzzVideo offers a seamless and entertaining way to discover and enjoy a plethora of videos and GIFs across various categories. With intuitive navigation and a personalized recommendations system, BuzzVideo serves as a one-stop shop for trending content and interactive engagement. Get ready for an immersive video-watching experience that's tailored to your interests and easy to share with friends on social platforms.</p>\n<p>📌 Core Features:</p>\n<ul>\n<li>Single Tap Playback: Initiate video and GIF playback with just one tap, making content access incredibly straightforward 🔄.</li>\n<li>Diverse Content: A wealth of categories such as Comedy, Sports, Music, and more, ensures there's something for every taste 🎥.</li>\n<li>Personalized Feed: The app tailors content suggestions to align with your preferences, enhancing your viewing experience 🎯.</li>\n<li>Viral Content: Leverage state-of-the-art AI to encounter the hottest and most viral videos as they trend globally 🌐.</li>\n<li>Save &amp; Share: Easily save favorites and share laughter and fun with integrated social media sharing options 📤.</li>\n</ul>\n<p>👍 Pros:</p>\n<ul>\n<li>Instant Accessibility: Effortlessly launch and watch videos without the hassle of extensive searching or channel flipping 👆.</li>\n<li>Enhanced Video Player: Experience distraction-free watching with background darkening and easy-navigation video controls 📺.</li>\n<li>Free Features: Enjoy all of BuzzVideo's offerings without having to pay for a subscription or extra features 💸.</li>\n<li>Updated With Trends: Stay in the loop with the latest events and shifts in internet culture thanks to timely content updates 🔄.</li>\n</ul>\n<p>👎 Cons:</p>\n<ul>\n<li>Content Overload: The sheer volume of videos might be overwhelming for some users 📚.</li>\n<li>Potential Distractions: Given its social sharing features, it could be easy to get sidetracked from productivity 📴.</li>\n<li>Data Usage: Streaming lots of videos and GIFs may lead to high data consumption if not on Wi-Fi 📊.</li>\n<li>Specific Interests: Users with niche interests might find the selection less catered to their tastes 🔍.</li>\n</ul>\n<p>💵 Price:\nBuzzVideo is a free app, offering its entire suite of features and content without the need for in-app purchases or subscriptions 💰.</p>\n<p>Download BuzzVideo now and dive into a personalized world of entertainment that keeps you laughing, informed, and connected!</p>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-moonphaseapps-astro/54410.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.moonphaseapps.astro.png",
+      "name": "AstroBella Astrology & Healing",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.6"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-girlmaker-create-avatar-creator/54356.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.girlmaker.create.avatar.creator.png",
+      "name": "PFP Girl: Avatar Maker",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-photocrop-challengefilter/54321.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.photocrop.challengefilter.png",
+      "name": "Photo Crop Challenge Filter",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-photo-cropfilter-challenge/54315.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.photo.cropfilter.challenge.png",
+      "name": "Photo Crop Challenge Video",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/vyten-colormatrix/54297.html",
+      "icon": "https://img.buzzsight.co/apk/icon/vyten.colormatrix.png",
+      "name": "The Personality Color Matrix",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-truelove-tester-love/54289.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.truelove.tester.love.png",
+      "name": "True Love Tester",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-lifeexpectancycalculator/54231.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.lifeexpectancycalculator.png",
+      "name": "Life Expectancy Calculator",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-insect-filters-funny-prank-bug-filter-face-camera/54212.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.insect.filters.funny.prank.bug.filter.face.camera.png",
+      "name": "Bugzz: Insect Prank Filters",
+      "categoryLink": "/en/categories/entertainment/10",
+      "category": "Entertainment",
+      "rating": "4"
+    }
+  ]
+}

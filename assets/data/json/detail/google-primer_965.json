@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/com.google.android.apps.primer.png",
+    "title": "Google Primer",
+    "ratings": "4.6",
+    "downloads": "900M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Google Primer"
+    },
+    {
+      "name": "category",
+      "value": "Business"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Google Learn Apps"
+    },
+    {
+      "name": "Version",
+      "value": "4.200.7"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h3>Brief</h3>\n<p>Google Primer is an innovative learning app designed to offer quick, easy-to-understand lessons to help individuals improve their business and marketing skills. Each lesson takes just 5 minutes or less to complete, making it ideal for busy professionals or entrepreneurs looking to enhance their expertise on the go.</p>\n<h3>Core Features</h3>\n<ul>\n<li>📘 Bite-Sized Lessons: Gain insights through quick, practical lessons tailored to teach business and marketing skills efficiently. 📌</li>\n<li>🎯 Personalized Progress: The app tracks your progress and recommends lessons based on your personal learning journey. 📌</li>\n<li>🔄 Offline Access: Download lessons to access them anytime, anywhere, without the need for an internet connection. 📌</li>\n<li>🌐 Multiple Languages: Available in a variety of languages to cater to a global audience. 📌</li>\n<li>🏆 Achievement Badges: Earn badges as you complete lessons, helping to motivate and track your learning milestones. 📌</li>\n</ul>\n<h3>Pros</h3>\n<ul>\n<li>👍 User-Friendly Interface: The app is designed for easy navigation and a seamless learning experience. 👍</li>\n<li>👍 Expert-Curated Content: Lessons are crafted by industry experts to provide valuable insights and skills. 👍</li>\n<li>👍 Tailored Learning Paths: Your interests and needs shape your learning, making it relevant and focused. 👍</li>\n<li>👍 Free of Charge: Google Primer is free to use, democratizing business education for all. 👍</li>\n</ul>\n<h3>Cons</h3>\n<ul>\n<li>👎 Limited Depth: While lessons are informative, they may not cover topics in extensive detail due to their bite-sized nature. 👎</li>\n<li>👎 Requires Regular Updates: To ensure the most current information, the app needs frequent content updates. 👎</li>\n<li>👎 No Advanced Topics: May not be suitable for learners seeking advanced or specialized knowledge in certain areas. 👎</li>\n<li>👎 Dependence on Device: Learners must have a compatible device to use the app effectively. 👎</li>\n</ul>\n<h3>Price</h3>\n<p>💵 Google Primer is a free app, promoting access to educational resources without any cost. However, data charges may apply if lessons are accessed without a Wi-Fi connection. 💵</p>\n<p><em>Please note: Since Google Primer is not a game app, the community section is omitted.</em> </p>\n<p>To get the most out of your learning experience with Google Primer, download the app today and start enhancing your professional skills in just minutes a day!</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-kj2147575505-app/16858.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.kj2147575505.app.png",
+      "name": "Alpha Omega Consulting",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-hypertide-petscan-v8m/15982.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.hypertide.petscan.v8m.png",
+      "name": "PetScan",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "2"
+    },
+    {
+      "link": "/details/com-animalid-scanner/15981.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.animalid.scanner.png",
+      "name": "Pet Scanner",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-webrange-sendoff-app/15417.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.webrange.sendoff.app.png",
+      "name": "Sendoff Funeral App",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-dyve-countthings/10295.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.dyve.countthings.png",
+      "name": "CountThings from Photos",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "3"
+    },
+    {
+      "link": "/details/com-countthis-count-things-counting-template-counter/5097.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.countthis.count.things.counting.template.counter.png",
+      "name": "Count This・Counting Things App",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-aadi-personalitytraittest/4991.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.aadi.personalitytraittest.png",
+      "name": "Personality Trait Test",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/GlowRoad/4569.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.localqueen.png",
+      "name": "GlowRoad",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.6"
+    }
+  ]
+}

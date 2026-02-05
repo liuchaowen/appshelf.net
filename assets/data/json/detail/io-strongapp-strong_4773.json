@@ -1,0 +1,111 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/io.strongapp.strong.png",
+    "title": "Strong Workout Tracker Gym Log",
+    "ratings": "4.6",
+    "downloads": "283M",
+    "age": "4+",
+    "download_link": "https://d.apkpure.com/b/APK/io.strongapp.strong?version=latest"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Strong Workout Tracker Gym Log"
+    },
+    {
+      "name": "category",
+      "value": "Health & Fitness"
+    },
+    {
+      "name": "Price",
+      "value": "0"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Strong Fitness PTE. LTD."
+    },
+    {
+      "name": "Version",
+      "value": "5.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/B3xSDezmbXBZYaeUPQ7GLVu1NdA-CJGd_qZZXIs90OUauKz7T2wIvxZf--v3yCnpEA",
+    "https://play-lh.googleusercontent.com/hDqWUOlhEaNbhPz6QgDzuo_7md7sJ2j9V7OVZN5oIM28Ua1MmqVmyJPKiDyyZR8ETQc",
+    "https://play-lh.googleusercontent.com/AxAFTHByirGAGhK_0wSrIvwo5aQKYUEpzXqwBgr7XHoAG80QgVcEGj5aWZW51Oo1nQII",
+    "https://play-lh.googleusercontent.com/C7YdRteDSKhbF0ZtA50qRNmCY_63gagkcCNWCIH0g3V5cb8HrGOSeAKRxCYTaX1gFqw",
+    "https://play-lh.googleusercontent.com/wZ8Zxa7KyasN-KJbcQXhp1CBboezj4h7HsMbqi2v3BMxe-sW9grZuY0fmY6VT_gJBH8",
+    "https://play-lh.googleusercontent.com/AsOmkkY-ufujegGu1Ij0laL_8zoJyJGMsRvyAybirx1yLpRqXU05Bv_97fHy5Sc0omWm"
+  ],
+  "app_descript": "<p><strong>Brief:</strong>\nStrong Workout Tracker Gym Log is a meticulous workout and exercise tracker tailored for anyone committed to fitness—whether you're a gym rookie or a seasoned lifter. Lauded by CNBC and The Verge, Strong simplifies the tracking process, letting you focus on lifting rather than logging. With over 3 million downloads, it's your digital companion on the path to gaining strength, building muscle, or staying fit without the clutter of pen and paper.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>✨ <strong>Intuitive Interface</strong>: Praised for having the simplest fitness app interface on Google Play.</li>\n<li>🏋️ <strong>Extensive Exercise Database</strong>: Includes a broad range of cardio and strength exercises, along with the ability to add custom exercises and routines.</li>\n<li>📚 <strong>Instructional Content</strong>: Access to detailed exercise instructions and a library of animated videos.</li>\n<li>📈 <strong>Advanced Statistics &amp; Progress Graphs</strong>: Track personal records, one-rep maxes, total weight lifted, and observe your progression visually.</li>\n<li>⏱️ <strong>Integrated Timer &amp; Calculators</strong>: Use the built-in auto countdown timer and handy calculators for warm-ups and plates.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 <strong>User-Friendly Tracking</strong>: Replace cumbersome pen and paper with sleek digital recording for workouts.</li>\n<li>👍 <strong>Personalized Workouts</strong>: Adaptable to an array of routines, including popular barbell regimens like Starting Strength or StrongLifts 5x5.</li>\n<li>👍 <strong>Progress Monitoring</strong>: Rich statistics and graphs to review your growth and refine your regimen.</li>\n<li>👍 <strong>Cloud Sync</strong>: Never lose your data thanks to the automatic backup function.</li>\n<li>👍 <strong>Body Measurements Tracker</strong>: Integrated tracker connects with Google Fit to keep tabs on your weight and vitals.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 <strong>Early Access Waitlist</strong>: Newest version is in early access, requiring joining a waitlist.</li>\n<li>👎 <strong>Limited Animated Content</strong>: While growing, the library of animated videos might still be lacking for some users.</li>\n<li>👎 <strong>Platform Dependency</strong>: Optimized experience may vary across different devices.</li>\n<li>👎 <strong>Potential Overwhelm</strong>: The array of features could be daunting for fitness app beginners.</li>\n<li>👎 <strong>Privacy Concerns</strong>: As with any app requiring data input, users must be comfortable with the privacy policy.</li>\n</ul>\n<p><strong>Price:</strong></p>\n<ul>\n<li>💵 Since no specific pricing information is provided, it's assumed to be a freemium model. Any in-app purchases or subscription details would be delineated within the app or on its corresponding app store page.</li>\n</ul>\n<p><strong>Community:</strong> </p>\n<ul>\n<li>🕸️ The app doesn't seem to have a prominently advertised community component listed in the provided description.</li>\n</ul>",
+  "related_apps": [
+    {
+      "link": "/details/com-appflows-BodyMuse/48997.html",
+      "icon": "assets/img/apk/icon/com.appflows.BodyMuse.png",
+      "name": "BodyMuse: Body Shape Analysis",
+      "categoryLink": "/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-codev-headache_app/39734.html",
+      "icon": "assets/img/apk/icon/com.codev.headache_app.png",
+      "name": "Headache Diary, Test & Treat",
+      "categoryLink": "/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/life-simple/39727.html",
+      "icon": "assets/img/apk/icon/life.simple.png",
+      "name": "Simple: AI Weight Loss Coach",
+      "categoryLink": "/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-clearblue-minerva/39464.html",
+      "icon": "assets/img/apk/icon/com.clearblue.minerva.png",
+      "name": "Menopause Stage - Clearblue me",
+      "categoryLink": "/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-jplanet-lungtestandbreathpractice/39424.html",
+      "icon": "assets/img/apk/icon/com.jplanet.lungtestandbreathpractice.png",
+      "name": "Lung Test and Breath Exercise",
+      "categoryLink": "/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "3"
+    },
+    {
+      "link": "/details/healthy-lungs-breathing-exercise-coach-pranayama-breath-workout-lung-exercises/39423.html",
+      "icon": "assets/img/apk/icon/healthy.lungs.breathing.exercise.coach.pranayama.breath.workout.lung.exercises.png",
+      "name": "Lungs Test: Breathing Exercise",
+      "categoryLink": "/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-smartoptometry-smartoptometry-full/34733.html",
+      "icon": "assets/img/apk/icon/com.smartoptometry.smartoptometry.full.png",
+      "name": "Smart Optometry - Eye Tests",
+      "categoryLink": "/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-b2creativedesigns-eyetest/34732.html",
+      "icon": "assets/img/apk/icon/com.b2creativedesigns.eyetest.png",
+      "name": "Eye test",
+      "categoryLink": "/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.1"
+    }
+  ]
+}

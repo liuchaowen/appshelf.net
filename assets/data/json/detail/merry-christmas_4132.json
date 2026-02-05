@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.eva.merrychristmas.png",
+    "title": "Merry Christmas",
+    "ratings": "4.8",
+    "downloads": "590M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Merry Christmas"
+    },
+    {
+      "name": "category",
+      "value": "Puzzle"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Alpha Games LLC"
+    },
+    {
+      "name": "Version",
+      "value": "1.4.4"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>App Name</strong>: Merry Christmas</p>\n<p><strong>Brief</strong>:\nImmerse yourself in the festive spirit with 'Merry Christmas', a captivating match-3 diamond puzzle game that combines the joy of Christmas with engaging puzzles. This Santa Claus-themed game promises not only to dispel boredom but also to whisk you away to a world of holiday magic. Join Santa and his trusty reindeer as you solve whimsical match-3 puzzles and help deliver Christmas cheer!</p>\n<p><strong>Core Features</strong>:</p>\n<ul>\n<li><strong>Match-3 Excitement</strong>: Enjoy the classic match-3 gameplay filled with festive Christmas toys and elements. 🎄</li>\n<li><strong>Seasonal Maps</strong>: Travel through maps that represent various countries, each with its unique Christmas theme. 🌍</li>\n<li><strong>Holiday Obstacles</strong>: Overcome festive obstacles with spectacular combos and clever strategy. ❄️</li>\n<li><strong>Boosts &amp; Bonuses</strong>: Collect daily bonuses and use boosters to enhance your puzzle-solving prowess. 🎁</li>\n<li><strong>Year-Round Joy</strong>: Dive into jewel quests that continue even after the Christmas season, playable without an internet connection. 🕒</li>\n</ul>\n<p><strong>Pros</strong>:</p>\n<ul>\n<li><strong>Festive Ambiance</strong>: Captures the essence of Christmas, providing a delightful holiday atmosphere. 👍</li>\n<li><strong>Regular Updates</strong>: Fresh puzzles added bi-weekly keep the game exciting and challenging. 🆕</li>\n<li><strong>Improves Skills</strong>: Designed to sharpen your puzzle-solving abilities as you progress. 🧠</li>\n<li><strong>No Ads</strong>: Enjoy uninterrupted gameplay without any pesky commercials. 🚫</li>\n</ul>\n<p><strong>Cons</strong>:</p>\n<ul>\n<li><strong>In-Game Purchases</strong>: While free to play, some game elements can be bought, potentially adding expense. 💸</li>\n<li><strong>Addictive Gameplay</strong>: The engaging nature of the game may lead to longer-than-expected play sessions. ⏱️</li>\n<li><strong>Internet for Extras</strong>: To get the latest updates and new levels, an online connection is necessary. 🌐</li>\n<li><strong>Seasonal Specific</strong>: The Christmas theme may feel out of place outside the holiday season for some players. 🎅</li>\n</ul>\n<p><strong>Price</strong>:\n'Merry Christmas' is a free-to-play game with optional in-app purchases for additional moves and game elements. 💵</p>\n<p><strong>Community</strong>:\nEnhance your 'Merry Christmas' experience by joining the global community of fellow players. Participate in the festive fun by following the official pages and engaging with content:</p>\n<ul>\n<li><strong>Official Site</strong>: <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Merry Christmas Official</a></li>\n<li><strong>YouTube</strong>: <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Merry Christmas Gameplay</a></li>\n<li><strong>Instagram</strong>: <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">MerryXmasCommunity</a></li>\n<li><strong>Facebook Group</strong>: <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Merry Christmas Fans</a></li>\n<li><strong>Reddit</strong>: <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">r/MerryChristmasGame</a></li>\n</ul>\n<p>Get ready to deck the halls with joy, puzzles, and a sprinkle of Christmas magic with 'Merry Christmas - match 3 diamond puzzle'! 🎉</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-fc-p-to-creepy-annoying-puzzle-story/54422.html",
+      "icon": "assets/img/apk/icon/com.fc.p.to.creepy.annoying.puzzle.story.png",
+      "name": "Nightmare Puzzles: The Unknown",
+      "categoryLink": "/en/categories/puzzle/50",
+      "category": "Puzzle",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-tricky-story-brain-quest/54416.html",
+      "icon": "assets/img/apk/icon/com.tricky.story.brain.quest.png",
+      "name": "Tricky Story",
+      "categoryLink": "/en/categories/puzzle/50",
+      "category": "Puzzle",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-dbrother-ragini-isback/54093.html",
+      "icon": "assets/img/apk/icon/com.dbrother.ragini.isback.png",
+      "name": "Ragini Is Back : Horror Escape",
+      "categoryLink": "/en/categories/puzzle/50",
+      "category": "Puzzle",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-grapetree-meowtower/54087.html",
+      "icon": "assets/img/apk/icon/com.grapetree.meowtower.png",
+      "name": "Meow Tower: Nonogram (Offline)",
+      "categoryLink": "/en/categories/puzzle/50",
+      "category": "Puzzle",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/com-ecffri-arrows/49082.html",
+      "icon": "assets/img/apk/icon/com.ecffri.arrows.png",
+      "name": "Arrows – Puzzle Escape",
+      "categoryLink": "/en/categories/puzzle/50",
+      "category": "Puzzle",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-ally-numbermemory/49070.html",
+      "icon": "assets/img/apk/icon/com.ally.numbermemory.png",
+      "name": "Number Memory Games",
+      "categoryLink": "/en/categories/puzzle/50",
+      "category": "Puzzle",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/funcore-bricker-construction_set-puzzle/39538.html",
+      "icon": "assets/img/apk/icon/funcore.bricker.construction_set.puzzle.png",
+      "name": "Construction Set - 3D Builder",
+      "categoryLink": "/en/categories/puzzle/50",
+      "category": "Puzzle",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-puzzlegame-asmr-paper-cut/39525.html",
+      "icon": "assets/img/apk/icon/com.puzzlegame.asmr.paper.cut.png",
+      "name": "Paper Cut: ASMR Puzzle",
+      "categoryLink": "/en/categories/puzzle/50",
+      "category": "Puzzle",
+      "rating": "4.3"
+    }
+  ]
+}

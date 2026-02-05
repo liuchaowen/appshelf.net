@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.usps.myusps_mobile_app_android.png",
+    "title": "Informed Delivery",
+    "ratings": "4.2",
+    "downloads": "870M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Informed Delivery"
+    },
+    {
+      "name": "category",
+      "value": "Business"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "United States Postal Service®"
+    },
+    {
+      "name": "Version",
+      "value": "2.4.5.0"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>Informed Delivery</strong></p>\n<p>Informed Delivery is an innovative app designed by USPS to enhance your mail tracking and management. With this app, users can effortlessly monitor their incoming mail and packages, ensuring they're always in the loop regarding their deliveries.</p>\n<h3>Brief</h3>\n<p>Informed Delivery offers a smart, user-friendly system that transforms how you interact with your postal mail and packages. This USPS-offered service helps you to keep an eye on your incoming mail, respond to certain mailer content, and handle your packages efficiently from the convenience of your mobile device.</p>\n<h3>Core Features</h3>\n<ul>\n<li>📧 <strong>Digital Interaction with Mail:</strong> Engage with digital content from mailers linked to your mailpiece images, from special offers to essential web links. 🌐</li>\n<li>🚚 <strong>Delivery Alerts:</strong> Set up email or SMS notifications to track your package's delivery progress in real-time. 🔔</li>\n<li>📦 <strong>Barcode Scanning:</strong> Utilize your device's camera for quick barcode scanning of shipping labels, enabling easy tracking and label number storage. 📲</li>\n<li>🏠 <strong>Delivery Instructions:</strong> Provide specific instructions for your incoming packages and conveniently schedule redeliveries if you're not home. ✉️</li>\n</ul>\n<h3>Pros</h3>\n<ul>\n<li>👀 <strong>Visibility of Mail:</strong> Know what's coming to your mailbox before it arrives. 📬</li>\n<li>✨ <strong>Enhanced Package Tracking:</strong> Stay updated with the latest status of your packages through alerts. 🔄</li>\n<li>🔐 <strong>Security:</strong> Ensure your deliveries are secure with the ability to provide precise delivery instructions. 🛡️</li>\n<li>📩 <strong>Subscriber Only Content:</strong> Access mailer-provided content exclusively available to Informed Delivery subscribers. 🌟</li>\n</ul>\n<h3>Cons</h3>\n<ul>\n<li>📍 <strong>Limited Features in Some Areas:</strong> Not all features might be available in every location. 🗺️</li>\n<li>📶 <strong>Dependency on Internet Connection:</strong> Reliable internet service is required for real-time updates. 🕸️</li>\n<li>📜 <strong>Occasional Delays in Mailpiece Images:</strong> There can be delays in displaying images of the mailpieces. 🕔</li>\n<li>➖ <strong>Device Compatibility:</strong> Some older mobile device models may not be fully compatible with the app's functionalities. 📴</li>\n</ul>\n<h3>Price</h3>\n<p>💵 Informed Delivery is a free service offered by USPS, thus there are no costs associated with downloading or using the app. There are no in-app purchases, making this a cost-effective choice for tracking deliveries.</p>\n<p>Crafted with meticulous attention to user convenience and security, Informed Delivery revolutionizes the traditional mailbox experience by ensuring you're well-informed and in control of your mail and packages.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-kj2147575505-app/16858.html",
+      "icon": "assets/img/apk/icon/com.kj2147575505.app.png",
+      "name": "Alpha Omega Consulting",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-hypertide-petscan-v8m/15982.html",
+      "icon": "assets/img/apk/icon/com.hypertide.petscan.v8m.png",
+      "name": "PetScan",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "2"
+    },
+    {
+      "link": "/details/com-animalid-scanner/15981.html",
+      "icon": "assets/img/apk/icon/com.animalid.scanner.png",
+      "name": "Pet Scanner",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-webrange-sendoff-app/15417.html",
+      "icon": "assets/img/apk/icon/com.webrange.sendoff.app.png",
+      "name": "Sendoff Funeral App",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-dyve-countthings/10295.html",
+      "icon": "assets/img/apk/icon/com.dyve.countthings.png",
+      "name": "CountThings from Photos",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "3"
+    },
+    {
+      "link": "/details/com-countthis-count-things-counting-template-counter/5097.html",
+      "icon": "assets/img/apk/icon/com.countthis.count.things.counting.template.counter.png",
+      "name": "Count This・Counting Things App",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-aadi-personalitytraittest/4991.html",
+      "icon": "assets/img/apk/icon/com.aadi.personalitytraittest.png",
+      "name": "Personality Trait Test",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/GlowRoad/4569.html",
+      "icon": "assets/img/apk/icon/com.localqueen.png",
+      "name": "GlowRoad",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.6"
+    }
+  ]
+}

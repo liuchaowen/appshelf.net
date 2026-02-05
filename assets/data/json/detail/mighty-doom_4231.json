@@ -1,0 +1,128 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.bethsoft.ubu.png",
+    "title": "Mighty DOOM",
+    "ratings": "4.4",
+    "downloads": "620M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Mighty DOOM"
+    },
+    {
+      "name": "category",
+      "value": "Action"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Bethesda Softworks LLC"
+    },
+    {
+      "name": "Version",
+      "value": "1.0.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/4ZWfWx6_EYmiIyNidKZI0ZhSwCbT54ZlyxfGY5mdh6qBD-HIPbyAHGHWRlUj-dwC_Q",
+    "https://play-lh.googleusercontent.com/LQa2ivBbUyiXanI275pa7t6yJTyCKS1s5LUPcYEeDLqhHj6gXrV3mQNBJUNpe4hLxg",
+    "https://play-lh.googleusercontent.com/eK7e8bM5PkzgT8cMG5GB_pB_LyrJF57mYKHNOuNulJmugSRW4gt7RQ_LUk14-Fu8_Ow",
+    "https://play-lh.googleusercontent.com/dcfXs1Em_wY5yaxqptL_mOJoKE-3fqsew9zR_8HfLKf6ag-Hui2kDVKtReWZUJur7A",
+    "https://play-lh.googleusercontent.com/vVXwBDyNLFN7erb3q56FBp8nD6zaBlU70KVVA2e5qsrTgMmzvPAZuntSki_ZnhQ6wQ",
+    "https://play-lh.googleusercontent.com/lz-FXRaMEUNWMYzeYJWEpo6J_oKUL7xgioMXbkyE1v8eNfARopHIG2lnSX0FGVL3BA",
+    "https://play-lh.googleusercontent.com/G6TQR4s1bLFV4t5h91e9zgW9PuXuUcT6lPakKy6PflEE1gcRqjouHUR0R1hu8mxjwViE",
+    "https://play-lh.googleusercontent.com/ITbNibBZPokJP7xa78v-HgEg56uW4aIpjiu8p372SK0-aOzh7z6BC3b_PJMPw-Idq6Q",
+    "https://play-lh.googleusercontent.com/8vhyCySTXgZ7IvLfD99cdtBD94W3TJ02ks_XzVVLFRydLcoGCLqLFpxPxW6dFGf68hI",
+    "https://play-lh.googleusercontent.com/dUovj459G5O0sRN6-vU4iYUZH3TjL8qWeYAzYaEKOpNntk1iHb1ocPbNsdNpECTSMi66",
+    "https://play-lh.googleusercontent.com/AWUOx9tkkXzl9Aqt9d_EKgG3o9UM2o_N-p0qwez-PeIWw9P8syvamgtfZAo3xfybwjfd",
+    "https://play-lh.googleusercontent.com/WyIj7XnJCPFzPlNf_ptVsm1RP-CfsNQz2vAkU-vytufBdQGo4fAxiCubQ9q2awSQ0U4",
+    "https://play-lh.googleusercontent.com/Zy0NQ5SW2o4U2WX73vPgeqgXV9kAH0lF0iKxa4K_iXKjPxz9Iz2AOmwn-WTD_diF1Y4",
+    "https://play-lh.googleusercontent.com/6TKaEJYrAKVh8HYgurcRHIFkYgtDBlalLvh5f8KPBDrRuw48nXMKsdTsaj_ebVvj9E_G",
+    "https://play-lh.googleusercontent.com/N_kkCL3ah8W5StxPQPst1tBOa-WMd_yg2bDZif8EEYnb15y7489gfVG9kPVBJNkGwthG",
+    "https://play-lh.googleusercontent.com/m_1epW6A_jbVD-Gbeea0RHAhQrZE2kFVQwlrpWEMe4qeD79x58Sp4m6DGEi6L4VogSA",
+    "https://play-lh.googleusercontent.com/3sX51EsylLJg0GwW6DLmI2qV1IZrsCPEpLLSq61ZbdQN_IIA3JsNMgr5qzDqDSJhng",
+    "https://play-lh.googleusercontent.com/XpBtmHCJ7a-BfDvbazMnhmgdrr4NvJgCouUhCExkW1bVSbXKTyW9UF9yKmUKMKQMbA",
+    "https://play-lh.googleusercontent.com/nkYgm_5mLk0ivgobabNfCRveQJ33HqVDrwp4t1F8l3QBbGvx1PghX6vf3rqYMsKl7Rs",
+    "https://play-lh.googleusercontent.com/6dIhAw9EohCoqd3LzKWlmffkZPaILB-FzlKMnpDDwCnohQHE0S95BD1fw6FEh3Wm-bY",
+    "https://play-lh.googleusercontent.com/03x1dHm9T5BcCMkmTFiJKW5R1jUiwLdVKLJ8tfL76OpuReyRGgLpv8yNBGSV4UWDwyt9",
+    "https://play-lh.googleusercontent.com/SzqQgkla0217AV7DyQad7vSU0yjrD4BtE12mYuJ9qKfwMSqxSQ_GYSoyzPVRd8nIKXA",
+    "https://play-lh.googleusercontent.com/KBE06SrKWJhjYoY77GhQy7jIYo9VawZEQGnmQmGIy-ej5RaOFtFBFRVrOVkpfQdtG9tK",
+    "https://play-lh.googleusercontent.com/R84cgl-j_iSaXpkVZOkdQr5gk8HRoWjYwFSx7UkfWug3xmDTTrBfCYndZ59oJfizGprF"
+  ],
+  "app_descript": "<h1>Mighty DOOM</h1>\n<h3>Brief</h3>\n<p>Embark on a relentless shooting spree with <em>Mighty DOOM</em>, where the classic run-and-gun gameplay is reinvented for your touch screen. As the Mini Slayer, unleash havoc upon waves of demons through miniaturized versions of iconic DOOM battlegrounds. Arm yourself with a legendary arsenal, master devastating abilities, and rise to the challenge of becoming the ultimate demon slayer.</p>\n<h3>Core Features</h3>\n<ul>\n<li>📌 Intuitive Touch Controls: Navigate and gun down enemies effortlessly with simple and responsive touch controls.</li>\n<li>📌 Weapon Variety: Equip and swap among 13 legendary weapons such as the Rocket Launcher, Unmakyr, and BFG for varied demon-slaying strategies.</li>\n<li>📌 Challenging Gameplay: Engage in fast-paced arcade action across diminutive renditions of iconic DOOM locales, each culminating in epic boss fights.</li>\n<li>📌 Character Progression: Level up the Mini Slayer, craft legendary gear, and unlock ferocious abilities to enhance your combat prowess.</li>\n<li>📌 Boss Fights: Face off against miniaturized versions of classic DOOM adversaries like the Baron of Hell, each with unique attack patterns.</li>\n</ul>\n<h3>Pros</h3>\n<ul>\n<li>👍 Continuous Action: There’s never a dull moment as you’re always in the thick of battle, shooting even while on the move.</li>\n<li>👍 Easy To Pick Up: The mechanics are straightforward, making the game approachable for new players yet challenging enough for seasoned veterans.</li>\n<li>👍 Iconic DOOM Experience: Delivers the intense atmosphere and combat of DOOM in a pocket-sized package for mobile gaming.</li>\n<li>👍 Skill Development: Offers a rewarding experience as players hone their demon-slaying abilities and tactical acumen.</li>\n<li>👍 Replayability: With numerous waves of enemies and levels to conquer, the game encourages repeat playthroughs.</li>\n</ul>\n<h3>Cons</h3>\n<ul>\n<li>👎 Difficulty Spikes: Some players may find the challenging nature of the game overwhelming at times.</li>\n<li>👎 In-Game Progression: The need to continuously upgrade equipment may not appeal to those looking for a more casual experience.</li>\n<li>👎 Potentially Repetitive: The run-and-gun formula might become repetitive for some players after extended play.</li>\n<li>👎 Resource Management: Balancing weapon upgrades and ability unlocks may be cumbersome for players who prefer straightforward action.</li>\n<li>👎 Limited Diversity In Environments: Although iconic, the reduced variety of levels may leave players craving more exploration.</li>\n</ul>\n<h3>🕸️ Community</h3>\n<ul>\n<li>Official site: <a href=\"https://bethesda.net/en/game/doom\" rel=\"noopener noreferrer\" target=\"_blank\">Mighty DOOM Official</a></li>\n<li>YouTube Channel: <a href=\"https://www.youtube.com/user/doom\" rel=\"noopener noreferrer\" target=\"_blank\">DOOM Official</a></li>\n<li>Popular YouTuber: <a href=\"https://www.youtube.com/user/MrHulthen\" rel=\"noopener noreferrer\" target=\"_blank\">Mr. H</a></li>\n<li>Instagram: <a href=\"https://www.instagram.com/doom/\" rel=\"noopener noreferrer\" target=\"_blank\">DOOM</a></li>\n<li>Twitter: <a href=\"https://twitter.com/DOOM\" rel=\"noopener noreferrer\" target=\"_blank\">DOOM</a></li>\n<li>Discord: <a href=\"https://discord.gg/doom\" rel=\"noopener noreferrer\" target=\"_blank\">DOOM</a></li>\n<li>Facebook: <a href=\"https://www.facebook.com/Doom\" rel=\"noopener noreferrer\" target=\"_blank\">DOOM</a></li>\n<li>TikTok: <a href=\"https://www.tiktok.com/@doom\" rel=\"noopener noreferrer\" target=\"_blank\">DOOM</a></li>\n<li>Reddit: <a href=\"https://www.reddit.com/r/DOOM/\" rel=\"noopener noreferrer\" target=\"_blank\">r/DOOM</a></li>\n<li>Fandom Wiki: <a href=\"https://doom.fandom.com/wiki/DOOM_Wiki\" rel=\"noopener noreferrer\" target=\"_blank\">Doom Wiki</a></li>\n</ul>\n<h3>Price</h3>\n<p>💵 <em>Mighty DOOM</em> is a free-to-play title with the option for in-app purchases, allowing players to enhance their gaming experience through various upgrades and gear. Pricing details vary based on the items or bundles available for purchase within the app.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-clickteam-ultimatecustomnight/54248.html",
+      "icon": "assets/img/apk/icon/com.clickteam.ultimatecustomnight.png",
+      "name": "Ultimate Custom Night",
+      "categoryLink": "/en/categories/action/33",
+      "category": "Action",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-beyondgames-superherohandrun/54057.html",
+      "icon": "assets/img/apk/icon/com.beyondgames.superherohandrun.png",
+      "name": "Superhero Hand Run",
+      "categoryLink": "/en/categories/action/33",
+      "category": "Action",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-monster-park-horror-survival/53723.html",
+      "icon": "assets/img/apk/icon/com.monster.park.horror.survival.png",
+      "name": "Monster Park Horror Games",
+      "categoryLink": "/en/categories/action/33",
+      "category": "Action",
+      "rating": "3.2"
+    },
+    {
+      "link": "/details/jp-co-dwango-HcgDW007SandwichRun/48985.html",
+      "icon": "assets/img/apk/icon/jp.co.dwango.HcgDW007SandwichRun.png",
+      "name": "Sandwich Runner",
+      "categoryLink": "/en/categories/action/33",
+      "category": "Action",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-eg-mimicry-horror-online/39685.html",
+      "icon": "assets/img/apk/icon/com.eg.mimicry.horror.online.png",
+      "name": "Mimicry: Online Horror Action",
+      "categoryLink": "/en/categories/action/33",
+      "category": "Action",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-spiderherofighter-spiderman/39571.html",
+      "icon": "assets/img/apk/icon/com.spiderherofighter.spiderman.png",
+      "name": "Spider Man 3",
+      "categoryLink": "/en/categories/action/33",
+      "category": "Action",
+      "rating": "3.4"
+    },
+    {
+      "link": "/details/com-rockstargames-gtasa/39510.html",
+      "icon": "assets/img/apk/icon/com.rockstargames.gtasa.png",
+      "name": "Grand Theft Auto: San Andreas",
+      "categoryLink": "/en/categories/action/33",
+      "category": "Action",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-sega-sonicrumble/39382.html",
+      "icon": "assets/img/apk/icon/com.sega.sonicrumble.png",
+      "name": "Sonic Rumble",
+      "categoryLink": "/en/categories/action/33",
+      "category": "Action",
+      "rating": "4.5"
+    }
+  ]
+}

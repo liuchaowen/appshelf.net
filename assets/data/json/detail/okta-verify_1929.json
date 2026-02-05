@@ -1,0 +1,109 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.okta.android.auth.png",
+    "title": "Okta Verify",
+    "ratings": "4.1",
+    "downloads": "900M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Okta Verify"
+    },
+    {
+      "name": "category",
+      "value": "Productivity"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Okta Inc."
+    },
+    {
+      "name": "Version",
+      "value": "7.17.1"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/DsOuAbSnouIoFWtHZ2G-JVNpCRsKpfKpeXtzLwjSVj_HSmoVZq-y8mLmqjElCyOa_GU",
+    "https://play-lh.googleusercontent.com/hr6CsASWfZPbuHe0ZCGsXin1ldUvxMXRq2qMzuWRu1Z5DB8jYBm3_IWj8Jl1z5TpCkAy",
+    "https://play-lh.googleusercontent.com/7J4qcPDUo3rMXJuIycAcGXCCznqQMwDhFi2hqUjE5drIiFZY9qxFecghDPB9mYtZQhs",
+    "https://play-lh.googleusercontent.com/81f3qscTbGi1mitOcYv-MyDMR7WWmzZnn27VcHOuNkH9_4hNHsqdhntAod-cdLTrN_E",
+    "https://play-lh.googleusercontent.com/W5Bjeyp__nIpTBFSHsaNOxbnd2hxmSL-73N6vA4Y0pK8tPTDyN7_Hd-S62gDaXeNhnw"
+  ],
+  "app_descript": "<p><strong>Okta Verify</strong></p>\n<p><strong>Brief:</strong>\nOkta Verify is a sophisticated authentication app that provides an extra layer of security for users managing sensitive data. It acts as a reliable companion to safely access your Okta-protected accounts by offering a variety of verification methods including two-factor authentication with one-time passcodes and push notifications. Okta Verify centers on protecting privacy and simplifies the login process with a streamlined verification system.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li><strong>Versatile Account Registration</strong>: Easily register devices to multiple Okta accounts requiring verification 📱</li>\n<li><strong>Two-Factor Authentication</strong>: Use a secure 6-digit one-time passcode system for safe account access 🔒</li>\n<li><strong>Push Notification Approval</strong>: Receive and approve verification requests instantly if configured by the organization 👤🔔</li>\n<li><strong>Biometric Enrollment</strong>: Option to utilize on-device biometrics for sign-ins, enhancing ease and security (dependent on organization policies) 🖐️</li>\n<li><strong>Extended Support</strong>: Offers 2-factor verification for third-party apps that require one-time passcodes 👾</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li><strong>Enhanced Security</strong>: Adds a robust security layer with 2-factor authentication to protect against unauthorized access 👍</li>\n<li><strong>User Privacy Respected</strong>: Designed keeping user privacy in mind, with no personal information stored on the app 🛡️</li>\n<li><strong>Multi-Account Capability</strong>: Manages multiple accounts seamlessly within a single app 🔄</li>\n<li><strong>Convenient Login Processes</strong>: Simplifies the authentication process with a variety of verification options 🕒</li>\n<li><strong>Comprehensive Support &amp; Documentation</strong>: Backed by detailed Okta Verify documentation and customer support 📚</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li><strong>Organization Dependent Features</strong>: Certain features are only accessible if enabled by your IT organization 👨‍💼🚫</li>\n<li><strong>Device Permission Required</strong>: Needs permission to access the camera for QR code scanning 📸</li>\n<li><strong>Potential Compatibility Issues</strong>: May have compatibility issues with non-Okta apps not fully supporting one-time passcodes 🔗</li>\n<li><strong>Biometric Constraints</strong>: The availability of biometric sign-ins is also subject to organizational policies 🖐️❓</li>\n<li><strong>Limited Functionality Offline</strong>: Requires an internet connection for push notifications and some other features 🌐🚫</li>\n</ul>\n<p><strong>Price:</strong></p>\n<ul>\n<li>This enterprise-level app is typically free to download, but usage is contingent upon membership in an Okta-protected system. Certain advanced features may involve additional costs as determined by the organizational IT policies. 💳</li>\n</ul>\n<p><em>Community:</em> As a non-game app, the community section is not included.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-takeofflabs-fontmaker/54188.html",
+      "icon": "assets/img/apk/icon/com.takeofflabs.fontmaker.png",
+      "name": "Fontmaker - Font Keyboard App",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-game-console-emulator/39577.html",
+      "icon": "assets/img/apk/icon/com.game.console.emulator.png",
+      "name": "Gamu: Retro Game Hub",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/app-itwingtech-power_of_mind-predicator/39340.html",
+      "icon": "assets/img/apk/icon/app.itwingtech.power_of_mind.predicator.png",
+      "name": "Mind Test: Test My Brain",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-pdfreader-pdfeditor-scandocu-pro-app-amb/16953.html",
+      "icon": "assets/img/apk/icon/com.pdfreader.pdfeditor.scandocu.pro.app.amb.png",
+      "name": "PDFPro: Scanner & Editor",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "3.8"
+    },
+    {
+      "link": "/details/ai-perplexity-app-android/16744.html",
+      "icon": "assets/img/apk/icon/ai.perplexity.app.android.png",
+      "name": "Perplexity - Ask Anything",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-safeshellvpn/16639.html",
+      "icon": "assets/img/apk/icon/com.safeshellvpn.png",
+      "name": "SafeShell VPN: Fast & Secure",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-roblox-skin-cloth-freeskins/16603.html",
+      "icon": "assets/img/apk/icon/com.roblox.skin.cloth.freeskins.png",
+      "name": "Clothes Skin For Roblox",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-underthing-focus-friend/16526.html",
+      "icon": "assets/img/apk/icon/com.underthing.focus.friend.png",
+      "name": "Focus Friend by Hank Green",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.7"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/au.com.opal.travel.png",
+    "title": "Opal Travel",
+    "ratings": "4",
+    "downloads": "610M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Opal Travel"
+    },
+    {
+      "name": "category",
+      "value": "Travel & Local"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Transport for NSW"
+    },
+    {
+      "name": "Version",
+      "value": "8.2.3"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/puJCAiYS1ojXFlUD_1OHgIaS5L-NzKaI1IZyHW3DzIc4yjcVa2rjGstyh2E9hP-BN-4",
+    "https://play-lh.googleusercontent.com/iMwQd-JfchF1mVLTYHxEY_NwNnhQZSlym0zYQ1q6wmfwRVRDJm7oW04EtCG4ebBorw",
+    "https://play-lh.googleusercontent.com/KQZR-MQ6eM_RVB0lCy9qn0pD08VsJLXQx_tpRM-7xNGLxdg9SmUuStRDORXd_yUW86E",
+    "https://play-lh.googleusercontent.com/6n7fa3cDYcLx-IqT8y7sFK1dbqAODR1AwsMELPdI9Ztvfp2cPpEKBdVaGPW-305YNg",
+    "https://play-lh.googleusercontent.com/mxdOHSZKrdlSpLjHn9uKlZIaeksaMOj7t28K2b-kfCEHdJIeS4XqXh-M4ioTNUokWA",
+    "https://play-lh.googleusercontent.com/EbDuYsvIfqCLrFaJJKtTJd84l-LKB3_dc5eSmu-LMlPA6ks-Y4_b_qbPRE9_iMMZ7rs",
+    "https://play-lh.googleusercontent.com/q2kUjq2kxlSP01zVC5TMSKF_hjOiV9z19QlJvHlcBHgi9A5DG8y_tuL9wxJC7fswwko",
+    "https://play-lh.googleusercontent.com/fop88-quibi4e8ptQa-k72LyKSG7FIwT_GzYbZjbOqiktBOC4JddaGt1hlPJW-NaIy8"
+  ],
+  "app_descript": "<h3>Opal Travel</h3>\n<p><strong>Brief:</strong>\nOpal Travel is a comprehensive transit app tailored specifically for the users of the Opal card in New South Wales, Australia. This app is the go-to companion for managing your Opal card on the move, making public transport more accessible and convenient with a host of user-friendly features.</p>\n<p>📌 <strong>Core Features:</strong></p>\n<ul>\n<li><strong>On-The-Go Top-Up:</strong> Recharge your Opal card anytime, anywhere for uninterrupted travel 🚀.</li>\n<li><strong>Smart Trip Planner:</strong> Get route options and fare estimates for your journeys 🗺️.</li>\n<li><strong>Contactless Travel Tracking:</strong> View and manage your trips made with contactless payments 💳.</li>\n<li><strong>Card Management:</strong> Securely register, and if needed, report your card as lost or stolen directly through the app 🛡️.</li>\n<li><strong>Journey Reminders:</strong> Receive alerts based on your location so you never miss your stop ⏰.</li>\n</ul>\n<p>👍 <strong>Pros:</strong></p>\n<ul>\n<li><strong>Real-Time Disruption Notifications:</strong> Subscribe to disruptions and get updates tailored to your commute 📢.</li>\n<li><strong>Auto Top-Up Feature:</strong> Automate your balance replenishment to save time ⏱️.</li>\n<li><strong>Account Management:</strong> Easily access your balance, travel history, and weekly travel rewards at a glance 📊.</li>\n<li><strong>NFC Card Scanning:</strong> Instantly check your tap on status, balance, and rewards with a tap (on compatible devices) 📱.</li>\n<li><strong>Retailer Locator:</strong> Find nearby Opal card retailers quickly and easily 📍.</li>\n</ul>\n<p>👎 <strong>Cons:</strong></p>\n<ul>\n<li><strong>Device Compatibility:</strong> Some features, like card scanning, may not work on all devices 📵.</li>\n<li><strong>Opal Card Limitation:</strong> The app is not designed for use with non-standard Opal cards 🃏.</li>\n<li><strong>Root Access Restriction:</strong> Devices with root access are not compatible with the app 🔒.</li>\n<li><strong>NFC Dependency:</strong> The card scanning function requires NFC, which not all devices possess 📳.</li>\n<li><strong>Paperless Terms of Use:</strong> By using the app, you agree to receive electronic Terms of Use, with no paper copy available 📜.</li>\n</ul>\n<p>💵 <strong>Price:</strong>\nOpal Travel is a free app, with no upfront or subscription costs, making it an invaluable tool for Opal card users.</p>\n<p>For further details and assistance, you may visit their <a href=\"https://transportnsw.info/apps/opal-travel\" rel=\"noopener noreferrer\" target=\"_blank\">official website</a>.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-bp-app-bpme-global-ros/16042.html",
+      "icon": "assets/img/apk/icon/com.bp.app.bpme.global.ros.png",
+      "name": "earnify",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/kulana-tools-vacationcountdown/10380.html",
+      "icon": "assets/img/apk/icon/kulana.tools.vacationcountdown.png",
+      "name": "Vacation Countdown App",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-disney-playdisneyparks-goo/4681.html",
+      "icon": "assets/img/apk/icon/com.disney.playdisneyparks.goo.png",
+      "name": "Play Disney Parks",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-hornblower-statuecruises/4679.html",
+      "icon": "assets/img/apk/icon/com.hornblower.statuecruises.png",
+      "name": "Statue Cruises",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-usnpw-grca/4678.html",
+      "icon": "assets/img/apk/icon/com.usnpw.grca.png",
+      "name": "Grand Canyon National Park",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/MakeMyTrip-Hotels-Flight-Bus/4591.html",
+      "icon": "assets/img/apk/icon/com.makemytrip.png",
+      "name": "MakeMyTrip Hotels, Flight, Bus",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/ConfirmTkt/4570.html",
+      "icon": "assets/img/apk/icon/com.confirmtkt.lite.png",
+      "name": "ConfirmTkt",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/Bus-Train-Ticket-Booking-App/4503.html",
+      "icon": "assets/img/apk/icon/in.redbus.android.png",
+      "name": "Bus, Train Ticket Booking App",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.9"
+    }
+  ]
+}

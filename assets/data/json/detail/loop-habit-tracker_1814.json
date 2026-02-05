@@ -1,0 +1,110 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/org.isoron.uhabits.png",
+    "title": "Loop Habit Tracker",
+    "ratings": "4.5",
+    "downloads": "500M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Loop Habit Tracker"
+    },
+    {
+      "name": "category",
+      "value": "Productivity"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Álinson S Xavier"
+    },
+    {
+      "name": "Version",
+      "value": "2.0.3"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/UkTPL5vylF4_jCsCTfHDkbA2TkIllJT2GxUrtkqNERvKRz5ucuBEhK-TO5qjiiCsE24",
+    "https://play-lh.googleusercontent.com/61HDs33qqJQc35GDJxp5ruCKwGyDYwhmIAAKfsmMEeaE9tmGmJEXVAQTKIubJoW7Eg",
+    "https://play-lh.googleusercontent.com/mxA4Ywbpaq-HzsRJcv091FkPCeydEFwPfPF1UGwcJWqkyibLqgUhYpZ2lwIK_8G0Xtg",
+    "https://play-lh.googleusercontent.com/6aARr__PazUMC7-ZPYXs1C2UU_oguJ48DzxTVdFmAKFXL28_raI1aXDautv9xOsNR1c",
+    "https://play-lh.googleusercontent.com/RTxc6UODsD7lYaSxyjbiO9YqI1qnPNyURroSkRJlIRmtQhcPn766uOuzPFi9p7nUL50",
+    "https://play-lh.googleusercontent.com/LklEexM4ZyJzjS0cUPUN5zwAksNLxhNU-n3ClR975nOd1ngHVMlbE_jPOEqbSwiKWQ"
+  ],
+  "app_descript": "<h3>Loop Habit Tracker</h3>\n<p><strong>Brief:</strong>\nLoop Habit Tracker is a user-friendly app designed with elegance and simplicity to help users build and maintain good habits. Its minimalist material-design interface is coupled with powerful tools to measure and encourage habit strength while ensuring privacy and offline functionality.</p>\n<p><strong>📌 Core Features:</strong></p>\n<ul>\n<li><strong>Habit Score Calculation:</strong> A unique algorithm assesses habit strength, supported by a forgiving approach to maintain your progress even after a few missed days. 📈</li>\n<li><strong>Intricate Graphs &amp; Stats:</strong> Visualize your habit adherence over time through comprehensive charts and informative statistics. 📊</li>\n<li><strong>Diverse Scheduling Options:</strong> Whether it’s daily, bi-weekly, or a custom frequency, the app supports habits with varying schedules. 🗓️</li>\n<li><strong>Customizable Reminders:</strong> Set personalized notifications for each habit to stay on track throughout your day. 🛎️</li>\n<li><strong>Home Screen Widgets:</strong> Monitor and manage your habits directly from your home screen with aesthetically pleasing widgets. 📱</li>\n</ul>\n<p><strong>👍 Pros:</strong></p>\n<ul>\n<li><strong>No Ads or Intrusive Permissions:</strong> Enjoy an ad-free experience without unnecessary notifications or permissions. 🚫</li>\n<li><strong>Open Source Software:</strong> Benefit from the trust and continuous improvement inherent in GPLv3 licensed apps. 👨‍💻</li>\n<li><strong>Offline Usage:</strong> Your habit data stays on your device, allowing for offline access and privacy. 📶</li>\n<li><strong>Data Portability:</strong> Offers the ability to export data to spreadsheets or databases, making it easy to switch services or analyze habits. 🔄</li>\n<li><strong>Material Design:</strong> A modern and clean interface adhering to material design principles for optimal user experience. 🎨</li>\n</ul>\n<p><strong>👎 Cons:</strong></p>\n<ul>\n<li><strong>Lack of Cloud Syncing:</strong> Without cloud support, users must manually manage their data backups. ☁️</li>\n<li><strong>No Social Sharing:</strong> Does not feature social integration for sharing progress with friends or a community. 🤝</li>\n<li><strong>Limited Platform Availability:</strong> Primarily designed for use on specific platforms, which may not suit all users. 📲</li>\n<li><strong>No Web Version:</strong> Those looking to manage habits on their computer may find its lack of a web version limiting. 💻</li>\n<li><strong>Potential Overwhelm:</strong> Detailed features and statistics might be overwhelming for users seeking a more straightforward approach. 📊</li>\n</ul>\n<p><strong>💵 Price:</strong>\nLoop Habit Tracker is free to download and use, with no hidden costs or in-app purchases, preserving its accessible and user-friendly nature. 💸</p>\n<p>By embodying the principles of simplicity and functionality while respecting user privacy, Loop Habit Tracker stands out as a top-tier habit management tool.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-takeofflabs-fontmaker/54188.html",
+      "icon": "assets/img/apk/icon/com.takeofflabs.fontmaker.png",
+      "name": "Fontmaker - Font Keyboard App",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-game-console-emulator/39577.html",
+      "icon": "assets/img/apk/icon/com.game.console.emulator.png",
+      "name": "Gamu: Retro Game Hub",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/app-itwingtech-power_of_mind-predicator/39340.html",
+      "icon": "assets/img/apk/icon/app.itwingtech.power_of_mind.predicator.png",
+      "name": "Mind Test: Test My Brain",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-pdfreader-pdfeditor-scandocu-pro-app-amb/16953.html",
+      "icon": "assets/img/apk/icon/com.pdfreader.pdfeditor.scandocu.pro.app.amb.png",
+      "name": "PDFPro: Scanner & Editor",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "3.8"
+    },
+    {
+      "link": "/details/ai-perplexity-app-android/16744.html",
+      "icon": "assets/img/apk/icon/ai.perplexity.app.android.png",
+      "name": "Perplexity - Ask Anything",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-safeshellvpn/16639.html",
+      "icon": "assets/img/apk/icon/com.safeshellvpn.png",
+      "name": "SafeShell VPN: Fast & Secure",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-roblox-skin-cloth-freeskins/16603.html",
+      "icon": "assets/img/apk/icon/com.roblox.skin.cloth.freeskins.png",
+      "name": "Clothes Skin For Roblox",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-underthing-focus-friend/16526.html",
+      "icon": "assets/img/apk/icon/com.underthing.focus.friend.png",
+      "name": "Focus Friend by Hank Green",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.7"
+    }
+  ]
+}

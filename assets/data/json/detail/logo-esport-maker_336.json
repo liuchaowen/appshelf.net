@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.QuantumAppx.eSportsLogoMakerPro.png",
+    "title": "Logo Esport Maker",
+    "ratings": "4.1",
+    "downloads": "450M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Logo Esport Maker"
+    },
+    {
+      "name": "category",
+      "value": "Art & Design"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Quantum Appx"
+    },
+    {
+      "name": "Version",
+      "value": "1.5"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h1>Logo Esport Maker</h1>\n<p>Create standout logos to represent your gaming team with the Logo Esport Maker app! If you’re striving to make an impact in online gaming spheres or require a distinctive visual emblem for branding, this app is an essential tool for crafting your unique identity.</p>\n<h2>Core Features 🎨</h2>\n<ul>\n<li><strong>Texture and Overlay</strong>: Choose from over 30 textures to personalize your esports logo for enhanced visual appeal 🖌️.</li>\n<li><strong>Customizable Colors</strong>: A diverse palette to make the desired logo stand out with just the right design touch 🌈.</li>\n<li><strong>Typographic Options</strong>: Incorporate over 20 different fonts to your logo for that signature style ✒️.</li>\n<li><strong>Transparent Backgrounds</strong>: Export your logos with ease, thanks to the built-in transparent background feature 📤.</li>\n<li><strong>Advanced Editing Tools</strong>: Refine every detail with adjustment options for brightness, saturation, and contrast 🛠️.</li>\n</ul>\n<h2>Pros 👍</h2>\n<ul>\n<li><strong>Versatility</strong>: Equipped to manage a variety of branding needs, from logos to letterheads and banners.</li>\n<li><strong>User-Friendly Interface</strong>: Simplistic and intuitive design lets you use the app with ease.</li>\n<li><strong>No Design Skills Required</strong>: The app is suitable for both novices and professionals.</li>\n<li><strong>Free Resource Library</strong>: A vast collection of art, shapes, and backgrounds available at your fingertips.</li>\n</ul>\n<h2>Cons 👎</h2>\n<ul>\n<li><strong>Learning Curve</strong>: New users may take some time to familiarize themselves with all the features.</li>\n<li><strong>Device Compatibility</strong>: Performance may vary depending on the device used.</li>\n<li><strong>In-App Purchases</strong>: Certain premium features might require additional payment.</li>\n<li><strong>Limited Offline Functionality</strong>: An internet connection may be necessary for some functionalities.</li>\n</ul>\n<h2>Price 💵</h2>\n<p>The Logo Esport Maker app is free to use, with optional in-app purchases to unlock premium features and designs.</p>\n<p>Given the depth of your original app description, I have synthesized a comprehensive overview with all necessary details. If a game-related community does exist, the relevant social media links would be provided in the 'Community' section here, but there was no specific data to indicate such platforms for this app.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-hitpaw-ai-art/54504.html",
+      "icon": "assets/img/apk/icon/com.hitpaw.ai.art.png",
+      "name": "AI Art Generator - HitPaw",
+      "categoryLink": "/en/categories/art.design/1",
+      "category": "Art & Design",
+      "rating": "3.2"
+    },
+    {
+      "link": "/details/cartoon-anime-maker-ai-avatar-image-generator-app/54493.html",
+      "icon": "assets/img/apk/icon/cartoon.anime.maker.ai.avatar.image.generator.app.png",
+      "name": "Cartoon Photo Editor ・Toon AI",
+      "categoryLink": "/en/categories/art.design/1",
+      "category": "Art & Design",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-photoediter-aiart-artgenerator/54200.html",
+      "icon": "assets/img/apk/icon/com.photoediter.aiart.artgenerator.png",
+      "name": "Mirei Ai Photo Generator",
+      "categoryLink": "/en/categories/art.design/1",
+      "category": "Art & Design",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/app-artworkout-learn-how-to-draw/54116.html",
+      "icon": "assets/img/apk/icon/app.artworkout.learn.how.to.draw.png",
+      "name": "Learn how to draw - ArtWorkout",
+      "categoryLink": "/en/categories/art.design/1",
+      "category": "Art & Design",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/pvm-festival-photo-editor/39722.html",
+      "icon": "assets/img/apk/icon/pvm.festival.photo.editor.png",
+      "name": "Festival Photo Frame, Editor",
+      "categoryLink": "/en/categories/art.design/1",
+      "category": "Art & Design",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-spinner-finger-draw-art/39677.html",
+      "icon": "assets/img/apk/icon/com.spinner.finger.draw.art.png",
+      "name": "Glow Finger Spinner Art App",
+      "categoryLink": "/en/categories/art.design/1",
+      "category": "Art & Design",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/wassticker-happynewyear2024/39670.html",
+      "icon": "assets/img/apk/icon/wassticker.happynewyear2024.png",
+      "name": "Happy new year stickers 2026",
+      "categoryLink": "/en/categories/art.design/1",
+      "category": "Art & Design",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/jp-note15-christmastree/39428.html",
+      "icon": "assets/img/apk/icon/jp.note15.christmastree.png",
+      "name": "Your Christmas Tree Decoration",
+      "categoryLink": "/en/categories/art.design/1",
+      "category": "Art & Design",
+      "rating": "4.2"
+    }
+  ]
+}

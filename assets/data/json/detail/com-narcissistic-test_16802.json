@@ -1,0 +1,108 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/com.narcissistic.test.png",
+    "title": "Narcissistic Personality Test",
+    "ratings": "4.4",
+    "downloads": "1M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Narcissistic Personality Test"
+    },
+    {
+      "name": "category",
+      "value": "Medical"
+    },
+    {
+      "name": "Price",
+      "value": "0"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Inquiry Health LLC"
+    },
+    {
+      "name": "Version",
+      "value": "6.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/baSrPbOEMeS5fReGuDMASPNzVVEL-81xA72w5dkuCHzon510i_DTQhhBDB6-xnde1jw",
+    "https://play-lh.googleusercontent.com/ZdtzTqH2F3Zh_KPI4uRqrzDqxF1w9aMGeGGUF8RrrRFNacp-9AxskoRenIZTh-FzXQ",
+    "https://play-lh.googleusercontent.com/kQRilks0kcbr6BaOS4D0iAe8H4RCslulprshU4T00iwtzIFX6kxLfI2GSWlRa3ryLw",
+    "https://play-lh.googleusercontent.com/IXJUnBCxSRGz19cSoiWoiArbO8BcUbR4fRdVM1zlp5C3QriSK8BqVBX8No94zRC0qzA"
+  ],
+  "app_descript": "<h1>Narcissistic Personality Test</h1>\n<p>The Narcissistic Personality Test is an insightful app designed to help you explore and understand your level of narcissism. By utilizing the established 16-item Narcissistic Personality Inventory, this app provides users with a clear assessment, revealing whether their traits fall below, at, or above the average scale of narcissism. While it’s important to note that everyone embodies some degree of narcissistic traits, this app aims to help you reflect on your tendencies and self-perception.</p>\n<h2>📌 Core Features</h2>\n<ul>\n<li><strong>Comprehensive Assessment</strong>: Utilizes the 16-item Narcissistic Personality Inventory to provide a detailed analysis of your narcissistic traits. 📝</li>\n<li><strong>User-Friendly Interface</strong>: Easy navigation and visually appealing design make taking the test a pleasant experience. 🎨</li>\n<li><strong>Instant Results</strong>: Receive quick feedback on your narcissism level, allowing for immediate reflection. ⏲️</li>\n<li><strong>Educational Insights</strong>: Offers informative background on narcissism and its impact on daily life. 📖</li>\n<li><strong>Disclaimer Provided</strong>: Clear statement that the app is not a diagnostic tool, emphasizing the importance of professional guidance. ⚠️</li>\n</ul>\n<h2>👍 Pros</h2>\n<ul>\n<li><strong>Accessible Feedback</strong>: Offers an easy way to understand your narcissism level without needing a professional assessment. 🌟</li>\n<li><strong>Informative Resource</strong>: Educates users about narcissistic traits and differentiates them from Narcissistic Personality Disorder. 📚</li>\n<li><strong>Engaging Content</strong>: The app encourages self-reflection through thought-provoking questions. 💭</li>\n<li><strong>No Hidden Costs</strong>: The app is available for free, making it accessible for everyone interested in self-discovery. 💸</li>\n<li><strong>Regular Updates</strong>: Continual improvements and updates enhance user experience over time. 🔄</li>\n</ul>\n<h2>👎 Cons</h2>\n<ul>\n<li><strong>Limited Diagnostic Capacity</strong>: Cannot provide a formal diagnosis; serves only as a preliminary assessment tool. ❌</li>\n<li><strong>Potential for Misinterpretation</strong>: Users might misinterpret results without professional context. ⚠️</li>\n<li><strong>Lack of Personalized Feedback</strong>: Results are standardized and do not cater to individual situations. ⛔</li>\n<li><strong>Minimal Interaction</strong>: The app contains limited interactive features, which may leave some users wanting more. 🙁</li>\n<li><strong>Not Comprehensive</strong>: Covers only narcissism and does not address other personality traits or disorders. 🔍</li>\n</ul>\n<h2>💵 Price</h2>\n<p>The Narcissistic Personality Test is free to download and use, with no in-app purchases required. 💰</p>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-stress-test/48991.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.stress.test.png",
+      "name": "Stress Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.1"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-procrastination-test/39516.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.procrastination.test.png",
+      "name": "Procrastination Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-bingeeating-test/39303.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.bingeeating.test.png",
+      "name": "Binge Eating Disorder Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-ocd-test/34780.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.ocd.test.png",
+      "name": "OCD Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.2"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-healthians-main-healthians/34760.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.healthians.main.healthians.png",
+      "name": "Healthians -Full Body Checkup",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.6"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-lbrc-PeriodCalendar/34759.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.lbrc.PeriodCalendar.png",
+      "name": "Period Tracker and Calendar",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.9"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/es-jshcd-edadosea/34693.html",
+      "icon": "https://img.buzzsight.co/apk/icon/es.jshcd.edadosea.png",
+      "name": "Bone age",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-devdis/16977.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.devdis.png",
+      "name": "Developmental Disabilities",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.5"
+    }
+  ]
+}

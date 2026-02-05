@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.github.shadowrocket.png",
+    "title": "ShadowRocket",
+    "ratings": "4.4",
+    "downloads": "830M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "ShadowRocket"
+    },
+    {
+      "name": "category",
+      "value": "Communication"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "ShadowRocket"
+    },
+    {
+      "name": "Version",
+      "value": "5.0.7"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h2><strong>ShadowRocket</strong></h2>\n<p><strong>Brief:</strong>\nShadowRocket is a rule-based utility application designed to manage and optimize internet traffic, aligning with the Shadowsocks protocol. It's built on the tenets of open-source software, providing users with the flexibility to redistribute and modify according to the GNU General Public License.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🌐 <strong>Customizable Rules</strong>: Set specific rules to direct traffic for better network performance.</li>\n<li>🔐 <strong>Secure Connections</strong>: Utilize the Shadowsocks protocol to ensure encrypted and secure online activities.</li>\n<li>♻️ <strong>Freeware with GNU License</strong>: Freedom to redistribute and modify the app under the GNU General Public License.</li>\n<li>📈 <strong>Optimization Tools</strong>: Manage your internet traffic effectively with various optimization features.</li>\n<li>🛠️ <strong>No Warranties but Useful</strong>: Provided as-is but with an emphasis on utility over guarantees.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👤 <strong>User Control</strong>: Extensive control over internet traffic based on individual rules.</li>\n<li>🔓 <strong>Open Source</strong>: Open-source nature allows for community-driven improvements and trust.</li>\n<li>🔄 <strong>Flexibility</strong>: Modify and redistribute the software as needed.</li>\n<li>✔️ <strong>No Cost</strong>: Free to use without any inherent fees.</li>\n<li>🚀 <strong>Performance Enhancement</strong>: Optimizes internet connections and speeds with rule management.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 <strong>Complex for Beginners</strong>: Might be overwhelming for users unfamiliar with networking or the Shadowsocks protocol.</li>\n<li>⚠️ <strong>No Implicit Warranty</strong>: Users should not expect official support or warranties for the software.</li>\n<li>🛑 <strong>Potential for Misuse</strong>: Freedom to modify the app also means potential misuse by others.</li>\n<li>🆕 <strong>Requires Understanding of GPL</strong>: Some users might not be familiar with the GNU General Public License nuances.</li>\n<li>📚 <strong>Not For Casual Use</strong>: Primarily targets tech-savvy individuals, not casual users.</li>\n</ul>\n<p><strong>Price:</strong></p>\n<ul>\n<li>💵 <strong>Completely Free</strong>: ShadowRocket is available at no cost, adhering to the GNU General Public License framework.</li>\n</ul>\n<p><em><a href=\"https://www.shadowsocks.org\" rel=\"noopener noreferrer\" target=\"_blank\">ShadowRocket Official Site</a></em></p>\n<hr/>\n<p><strong>Please Note:</strong> The above description provides a neutral perspective of the application, based on the information available from the provided app package name and description. It is designed to assist potential users in understanding the functionalities and implications of using ShadowRocket.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-sst-parrot-photo-frame/53901.html",
+      "icon": "assets/img/apk/icon/com.sst.parrot.photo.frame.png",
+      "name": "Bird Photo Frame",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-new_year-stickers-birthday/39669.html",
+      "icon": "assets/img/apk/icon/com.new_year.stickers.birthday.png",
+      "name": "Happy New Year Stickers 2026",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/org-watchduty-app/14524.html",
+      "icon": "assets/img/apk/icon/org.watchduty.app.png",
+      "name": "Watch Duty (Wildfire)",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-snowcorp-stickerly-android/14453.html",
+      "icon": "assets/img/apk/icon/com.snowcorp.stickerly.android.png",
+      "name": "Sticker.ly - Sticker Maker",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-Happynewyearphotoframe2020/14421.html",
+      "icon": "assets/img/apk/icon/com.Happynewyearphotoframe2020.png",
+      "name": "New Year Video Maker 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-intira-new-year-photo-frame-new/14342.html",
+      "icon": "assets/img/apk/icon/com.intira.new.year.photo.frame.new.png",
+      "name": "New year photo frame 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-christmas-photo-frame-b-new-free/14203.html",
+      "icon": "assets/img/apk/icon/com.christmas.photo.frame.b.new.free.png",
+      "name": "Christmas photo frame 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/ma-apps-face_ml/14137.html",
+      "icon": "assets/img/apk/icon/ma.apps.face_ml.png",
+      "name": "Face reader scanner - analyser",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "3.3"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/com.dazn.png",
+    "title": "DAZN",
+    "ratings": "4.9",
+    "downloads": "260M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "DAZN"
+    },
+    {
+      "name": "category",
+      "value": "Sports"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "DAZN"
+    },
+    {
+      "name": "Version",
+      "value": "2.12.11"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/XLiisw_ZSSUjV3_G1Yog-uT-obu3hAcnLeR_QTcZMaXUrfyMpPtW4hnlUGRk8yXaqcE",
+    "https://play-lh.googleusercontent.com/Iubsn02L9-NgTFWM1uwouRde0V3DFP-j1mmAdvsFZcTn4j9_hbXm9Xo0F8dJJHjoNA",
+    "https://play-lh.googleusercontent.com/kNd5VbmfijPHgMmzZVJV7keUV2aSr67EoKLD5yksiqM1qGP_Bz8eRhxIlz12xs5jUg",
+    "https://play-lh.googleusercontent.com/1SoOMCRg1rVjN6C9nkfOqMmZwEQHtyxANF-CxxYVN8cfbfiD1nnOmcpyYZCmUM7bEbqz",
+    "https://play-lh.googleusercontent.com/CiPpimr90SqjSnvxv2HiPCWbit0RhttT4WVjIGeMgnl3FIy6I98RZTsaA67L2tQz92g",
+    "https://play-lh.googleusercontent.com/dxmvtzTMToLexrSrQ46jz3hIDa3IQrCiuITSUDksDCP5d0eDFcFNBWIAABaPvqUlDQ",
+    "https://play-lh.googleusercontent.com/h5OO5INWhUCjzmKISn0ECD957zLWwlpCuc4OImX6rSrZCSEgH16e2CDPyaP017Au2qHG",
+    "https://play-lh.googleusercontent.com/3093Q0sDjGn2nLRRGfeLcbxua_sVgYVwH3NASBOSkEMLSOt8p8pCmtBEDMxlaTr6RZc",
+    "https://play-lh.googleusercontent.com/ZGH9GwGgXm-9nQWdalOABPI-0FWi99OGnSmmdmT6PDT_PpES7RbGwDjnXjMQ2ezYFsA",
+    "https://play-lh.googleusercontent.com/eY2Qb2-pGvlwP371JhxacE4QDDGDByevxF_vVYP0dNZ4XNFAudWA2SAouchraPUZIKY",
+    "https://play-lh.googleusercontent.com/MG9_4lDmBAPhHQ5Tg8kE03EwJxy5tOeNLgi4hR_MQ-RGEbSN-ThjWuwP1Ll9WrsDww",
+    "https://play-lh.googleusercontent.com/iPn_MHLkQfd_h2Tf3cyP2CgZTv-PnotXYjmW9m9WU2yiUnxs_2Npm1sp2r6oYbAwg6A",
+    "https://play-lh.googleusercontent.com/cNPoYKNYOSz9bZ95SS6VAhC39klQla4Yat9DPS_Lb-kBKtSG4Ku669AQJ7NuINgMUmw",
+    "https://play-lh.googleusercontent.com/_r0R_P9SDKerkPKAfHWCvgkE6rotYB8CDOjni3ckO47_yJJTb4G8GD8iAWeL7ziVOHE",
+    "https://play-lh.googleusercontent.com/pCCmHu0A8FgU7gV-7y0WwwzaGK0rX45OKQnLLQaVVcmUIxyMwStRMdzy22816zODucY",
+    "https://play-lh.googleusercontent.com/-RMP2f4ONdi9oSfMkWpsK3H66B5e3isWKnA1qifbYJ4veqKgA0lvsXRcT_C62lyH1c6-",
+    "https://play-lh.googleusercontent.com/QHvW4s-SpWWphnFXAt7lXzcSaYQzgomfdtaUgZX6qwlsuOVo6kWjV8GMLUrT1dJH_do",
+    "https://play-lh.googleusercontent.com/hYPmpwDfaeSrUC2JMVBF-uv9y-F7lZUHBbuuIsdwFXAOEOlPpbV4i6fxwR88RNY7kSD_",
+    "https://play-lh.googleusercontent.com/8Y96ZcskBu4gsoBxXBmSZsK4FLH5JAzsK29MuZfm6irofxQNJfOP6kOKZ4imCLc_xTQ",
+    "https://play-lh.googleusercontent.com/kryAb4SsM9aKah-stxbBGJq2TjQPYQvT0fGs7QsewDa5b66pPno66cxS_Lx3Oc4TQbgi",
+    "https://play-lh.googleusercontent.com/bTkmbHwFPmvhvKXAckmTkcgW2a6x_GWrUAihlkFl-6viyfBmNRn4yHYxUp-Ny3-Rfe-8",
+    "https://play-lh.googleusercontent.com/SjZ0Kl1FPRzlx0lv1yixXHMqWLPhBvvGhqWFYzvZl4ERhCoGPHy6xBIEnD6yreFxQCQj",
+    "https://play-lh.googleusercontent.com/ekUz74qJ71mouC-7SmfG2d5mm3KT8AUyt9qTxa-2eR_s2NvA6ag--f8uqEUXU0JXZjc",
+    "https://play-lh.googleusercontent.com/8LCVYyYSsCvwGjcYx_7WJ2GurOsonFEe2c4VWkjB5mFUi0M21ukTyHhYJ7onwYruVaI",
+    "https://play-lh.googleusercontent.com/uWVxItlS2LrAaFT3vyvoBzVa_qMIjOnLgFZ2k7ENKlicBAqnZmMTtUZnIitdarPcNFI",
+    "https://play-lh.googleusercontent.com/oeFVPPOkthfApFbkn6OVi17kGb5Gcd9Bqr9lvPrQNHaGJtuoLTosd8_ZNpJOB7jfYbA",
+    "https://play-lh.googleusercontent.com/xtZvXpQJV4KJ9kBDBq-YYDHDz4d5DbuJTJdO1VkSa7ZsRBZCavhFLD08D_M-YVgIwZJ9",
+    "https://play-lh.googleusercontent.com/TeGTq87JE8Lwi4i0FSHb3af1UR0UIN2TXcqJMBfcFUytc5r3RzxGYr4NZUsqQz7MoA",
+    "https://play-lh.googleusercontent.com/sSY8nojjebrM-kPflC8ZaxaProft3bZHQordkshiZiFodN9zzmKuOSH4UboLc7xn5Q"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> DAZN</p>\n<p><strong>Brief:</strong>\nDAZN is a premier sports streaming platform offering live and on-demand content to sports enthusiasts worldwide. The app presents a vast library featuring some of the most exhilarating boxing matches, including exclusive coverage of fighters like Canelo Alvarez, GGG, and Anthony Joshua.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🎥 Exclusive Access to blockbuster fights and original content from top boxers 🥊</li>\n<li>🌐 Content accessible live or on-demand, ensuring you can watch anytime, anywhere 🌟</li>\n<li>📚 Extensive library of classic fights and engaging original programming 📖</li>\n<li>⚾ ChangeUp, MLB's live whiparound show, perfect for baseball fans 🏟️</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👊 Rewatch marquee fights like Anthony Joshua vs. Oleksandr Usyk and Canelo Alvarez vs. Billy Joe Saunders 👑</li>\n<li>🔄 No long-term subscription lock-in; users have flexible payment options 🆓</li>\n<li>🌎 Wide availability across multiple countries, making it accessible to a global audience 🗺️</li>\n<li>🕒 Offers all users a one-month free trial to experience the service before subscribing 💯</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 Split decision on boxing matches may disappoint some viewers 🥊</li>\n<li>💰 Premium content comes with a price after the free trial ends 💸</li>\n<li>📆 Main events start times may vary depending on the duration of the undercard, which could lead to uncertainty for some users ⏰</li>\n<li>🗺️ Not available in all countries, possibly limiting its reach globally 🌍</li>\n</ul>\n<p><strong>Price:</strong></p>\n<ul>\n<li>💵 DAZN operates on a subscription-based model. It offers monthly subscriptions at $19.99 and an annual pass for $99.99 after a free one-month trial 🎫</li>\n</ul>\n<p><a href=\"https://www.dazn.com\" rel=\"noopener noreferrer\" target=\"_blank\">Visit the Official DAZN Website</a></p>\n<p><a href=\"https://twitter.com/dazn\" rel=\"noopener noreferrer\" target=\"_blank\">Follow DAZN on Twitter</a></p>\n<p><a href=\"https://www.youtube.com/c/DAZN\" rel=\"noopener noreferrer\" target=\"_blank\">Watch DAZN on YouTube</a></p>\n<p><a href=\"https://www.facebook.com/DAZN\" rel=\"noopener noreferrer\" target=\"_blank\">Engage with DAZN on Facebook</a></p>\n<p><a href=\"https://www.instagram.com/dazn\" rel=\"noopener noreferrer\" target=\"_blank\">Discover DAZN on Instagram</a></p>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-freegame-allgames/54069.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.freegame.allgames.png",
+      "name": "Game Collection : Mini Games",
+      "categoryLink": "/en/categories/sports/45",
+      "category": "Sports",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-ea-gp-tacticalfootball/39509.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.ea.gp.tacticalfootball.png",
+      "name": "EA SPORTS FC™ Tactical",
+      "categoryLink": "/en/categories/sports/45",
+      "category": "Sports",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-Dino-GalaxySoccer/39364.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.Dino.GalaxySoccer.png",
+      "name": "Galaxy Soccer :Rematch 3v3",
+      "categoryLink": "/en/categories/sports/45",
+      "category": "Sports",
+      "rating": "4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-espn-score_center/16830.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.espn.score_center.png",
+      "name": "ESPN",
+      "categoryLink": "/en/categories/sports/45",
+      "category": "Sports",
+      "rating": "4.3"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-gymclassvr/16685.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.gymclassvr.png",
+      "name": "Gym Class VR: Companion App",
+      "categoryLink": "/en/categories/sports/45",
+      "category": "Sports",
+      "rating": "4.9"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-vividgames-realboxing2/16683.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.vividgames.realboxing2.png",
+      "name": "Real Boxing 2",
+      "categoryLink": "/en/categories/sports/45",
+      "category": "Sports",
+      "rating": "4.6"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-ea-gp-maddennfl21mobile/16482.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.ea.gp.maddennfl21mobile.png",
+      "name": "Madden NFL 26 Mobile Football",
+      "categoryLink": "/en/categories/sports/45",
+      "category": "Sports",
+      "rating": "4.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-doubletapsoftware-soccer-realtime-sports/16412.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.doubletapsoftware.soccer.realtime.sports.png",
+      "name": "Soccer Battle -  PvP Football",
+      "categoryLink": "/en/categories/sports/45",
+      "category": "Sports",
+      "rating": "4.3"
+    }
+  ]
+}

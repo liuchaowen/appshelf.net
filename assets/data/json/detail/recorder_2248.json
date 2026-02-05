@@ -1,0 +1,110 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.google.android.apps.recorder.png",
+    "title": "Recorder",
+    "ratings": "3.5",
+    "downloads": "940M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Recorder"
+    },
+    {
+      "name": "category",
+      "value": "Tools"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Google LLC"
+    },
+    {
+      "name": "Version",
+      "value": "1.1.284933798"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/GKw6WnZRdsreG-JWdn7AyRVkn3A8Yyyaw6IJ82Blc0v90htK189V-qxv7m_QpnERUgI",
+    "https://play-lh.googleusercontent.com/2iDzXKksHMTIPhWUVBef9uo_qsIuoAl-dyOskx5ER-pR9HbpS2qW_6PlRS4BYPyqLHM",
+    "https://play-lh.googleusercontent.com/X6FTQA_G51cCz7MEGaBB-DT7kfBgRGjmhtlQqMkgseZZJK2L-WjOxXki3-Ndr2Vp4oc",
+    "https://play-lh.googleusercontent.com/bpmJqC3t0njBBnfqNJvJZJ5KFGW5_RjgNitgTBvYh50OMcM-4WRVmAcFvZZrB9ziPy3j",
+    "https://play-lh.googleusercontent.com/xdoLN4Lxk9-SO3aPu6iLp1pEpndz8-NP1Bh8bxoRE3faosXF3hVO2cG67ZTSsJtqIWNr",
+    "https://play-lh.googleusercontent.com/t5C_LLnMWNkuwWUqQWiH5XFLGv3UI4fizeKlh4cY1JQcaehUSMyoEbnNaZokyfD-dyY"
+  ],
+  "app_descript": "<h3>Brief:</h3>\n<p>Recorder by Google is a state-of-the-art app designed to simplify recording and transcription. It recognizes and organizes your recordings, making it effortless to locate the segments that matter most to you. This highly intuitive tool is essential for students, journalists, and anyone in need of a reliable recording and transcription service.</p>\n<h3>Core Features: 🎙️</h3>\n<ul>\n<li><strong>Automatic Transcription</strong>: Convert speech to text in real-time with impressive accuracy. 🔤</li>\n<li><strong>Smart Labeling</strong>: Recorder categorizes your recordings by labeling them, aiding in efficient organization. 🏷️</li>\n<li><strong>Search Functionality</strong>: Quickly find specific parts of your recordings with ease. 🔍</li>\n<li><strong>User-Friendly Interface</strong>: Navigate through the app with an intuitive and clean design. 📱</li>\n<li><strong>Seamless Integration</strong>: Works well with other Google services for an interconnected experience. 🔗</li>\n</ul>\n<h3>Pros: 👍</h3>\n<ul>\n<li><strong>Ease of Use</strong>: Its user-friendly design ensures that you can start recording and transcribing without a steep learning curve. ✅</li>\n<li><strong>High Accuracy</strong>: The transcription service is highly accurate, saving time on manual corrections. ✅</li>\n<li><strong>On-Device Processing</strong>: Your recordings and transcriptions are processed on the device for added privacy. ✅</li>\n<li><strong>Organizational Features</strong>: Enhances productivity with labels and search capabilities. ✅</li>\n<li><strong>No Additional Cost</strong>: As a Google product, it comes free of charge on supported devices. ✅</li>\n</ul>\n<h3>Cons: 👎</h3>\n<ul>\n<li><strong>Limited Availability</strong>: May not be available on non-Google devices or certain regions. ⛔</li>\n<li><strong>Language Support</strong>: Transcription accuracy could vary for languages other than English. ⛔</li>\n<li><strong>Data Storage</strong>: High-quality recordings could take up significant storage space on your device. 🔒</li>\n<li><strong>Battery Usage</strong>: Extended recording sessions may impact battery life on portable devices. 🔋</li>\n<li><strong>Internet Requirement</strong>: Some features might require an internet connection to function correctly. 🌐</li>\n</ul>\n<h3>Price: 💵</h3>\n<p>The Recorder app is available for free with no additional in-app purchases, providing all of its features at no extra cost to users of supported devices.</p>\n<p><a href=\"https://play.google.com/store/apps/details?id=com.google.android.apps.recorder\" rel=\"noopener noreferrer\" target=\"_blank\">Download Recorder</a></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-antique-snap-identifier-appraisal/54309.html",
+      "icon": "assets/img/apk/icon/com.antique.snap.identifier.appraisal.png",
+      "name": "Antique Identifier - Appraisal",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-age-calculator-life-countdown/54243.html",
+      "icon": "assets/img/apk/icon/com.age.calculator.life.countdown.png",
+      "name": "Age Calculator・Life Expectancy",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.4"
+    },
+    {
+      "link": "/details/com-xv-agecalc/54237.html",
+      "icon": "assets/img/apk/icon/com.xv.agecalc.png",
+      "name": "AgeCalc: Date Life Calculator",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-palm-ai-decode-destiny-soul-futurelines-handline/54206.html",
+      "icon": "assets/img/apk/icon/com.palm.ai.decode.destiny.soul.futurelines.handline.png",
+      "name": "Palm AI: Decode Destiny",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/rbx-robuxcalc-getrbx-freecounter/53839.html",
+      "icon": "assets/img/apk/icon/rbx.robuxcalc.getrbx.freecounter.png",
+      "name": "RBX Calc - Get Robuxcounter",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-internetoptimizer-speedtest-wifispeedtest-netspeed-wifipassword-wifispeed/49027.html",
+      "icon": "assets/img/apk/icon/com.internetoptimizer.speedtest.wifispeedtest.netspeed.wifipassword.wifispeed.png",
+      "name": "Internet Optimizer",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.9"
+    },
+    {
+      "link": "/details/com-blazingappstudio-speed_test_pro/49021.html",
+      "icon": "assets/img/apk/icon/com.blazingappstudio.speed_test_pro.png",
+      "name": "Speed Test - Wifi Optimizer",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-secret-camera-hidden-detector/39728.html",
+      "icon": "assets/img/apk/icon/com.secret.camera.hidden.detector.png",
+      "name": "Hidden Camera & IR Detector",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    }
+  ]
+}

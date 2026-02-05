@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/com.mgc.blood.pressureapp.png",
+    "title": "Blood Pressure Monitor",
+    "ratings": "4.1",
+    "downloads": "720M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Blood Pressure Monitor"
+    },
+    {
+      "name": "category",
+      "value": "Health & Fitness"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "JOHNSON NICHOLAS PATRICK"
+    },
+    {
+      "name": "Version",
+      "value": "1.0.7"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> Blood Pressure Monitor</p>\n<h3>Brief:</h3>\n<p>The Blood Pressure Monitor app is specially designed to aid users in tracking and analyzing their blood pressure readings with ease and reliability. Ditching the traditional pen and paper method, this app provides a modern solution to monitor one's circulatory health effectively. Note that the app does not measure blood pressure on its own and requires an external, reliable blood pressure monitor for readings.</p>\n<h3>Core Features:</h3>\n<ul>\n<li><strong>Quick Data Entry</strong> 📲: Record and save systolic and diastolic pressures, pulse, date, and time with a simple slide or keyboard entry.</li>\n<li><strong>Automatic Calculation</strong> 💡: Utilize automatic blood pressure range calculations based on the latest American Heart Association guidelines.</li>\n<li><strong>Interactive Charts</strong> 📊: Visualize long-term trends with interactive charts for comprehensive health status tracking.</li>\n<li><strong>Educational Content</strong> 📘: Access professionally-written articles about blood pressure management, including information on symptoms, causes, treatment, and more.</li>\n</ul>\n<h3>Pros:</h3>\n<ul>\n<li><strong>User-Friendly Interface</strong> 👍: The app boasts a straightforward and easy-to-use interface for entering and editing data.</li>\n<li><strong>Insightful Analytics</strong> 📈: Gain a clear understanding of your blood pressure trends through detailed analysis and comparisons over different periods.</li>\n<li><strong>Knowledge Building</strong> 🧠: Learn extensively about blood pressure health, maintenance, and first aid with educational resources.</li>\n<li><strong>Data Management</strong> 💾: Save, edit, update, and delete measures effortlessly, ensuring your health log is always up-to-date.</li>\n</ul>\n<h3>Cons:</h3>\n<ul>\n<li><strong>No Direct Measurement</strong> 👎: Requires a separate blood pressure monitor as the app itself does not measure blood pressure.</li>\n<li><strong>Limited Offline Use</strong> 📶: Some features may not be available without an internet connection.</li>\n<li><strong>Basic Design</strong> 🎨: The app's design may be considered too basic or plain for some users.</li>\n<li><strong>Ads and In-App Purchases</strong> 🛒: The presence of ads and potential in-app purchases could detract from the user experience.</li>\n</ul>\n<h3>Price:</h3>\n<p>💵 The app is free to download, with potential in-app purchases for additional features or to remove ads. The details of in-app purchase pricing are not specified in the original description provided.</p>\n<h3>🕸️ Community:</h3>\n<p>The Blood Pressure Monitor app does not fall under the game app category; hence the community section is not included.</p>\n<hr/>\n<p>Download the Blood Pressure Monitor app now to maintain a comprehensive log of your blood pressure readings, access automatic range calculations, view in-depth trends, and dive into rich educational content. Remember that this app is a companion to a physical blood pressure monitor and does not offer measurement capabilities on its own.</p>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-appflows-BodyMuse/48997.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.appflows.BodyMuse.png",
+      "name": "BodyMuse: Body Shape Analysis",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.3"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-codev-headache_app/39734.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.codev.headache_app.png",
+      "name": "Headache Diary, Test & Treat",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/life-simple/39727.html",
+      "icon": "https://img.buzzsight.co/apk/icon/life.simple.png",
+      "name": "Simple: AI Weight Loss Coach",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-clearblue-minerva/39464.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.clearblue.minerva.png",
+      "name": "Menopause Stage - Clearblue me",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.6"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-jplanet-lungtestandbreathpractice/39424.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.jplanet.lungtestandbreathpractice.png",
+      "name": "Lung Test and Breath Exercise",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "3"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/healthy-lungs-breathing-exercise-coach-pranayama-breath-workout-lung-exercises/39423.html",
+      "icon": "https://img.buzzsight.co/apk/icon/healthy.lungs.breathing.exercise.coach.pranayama.breath.workout.lung.exercises.png",
+      "name": "Lungs Test: Breathing Exercise",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-smartoptometry-smartoptometry-full/34733.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.smartoptometry.smartoptometry.full.png",
+      "name": "Smart Optometry - Eye Tests",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-b2creativedesigns-eyetest/34732.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.b2creativedesigns.eyetest.png",
+      "name": "Eye test",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.1"
+    }
+  ]
+}

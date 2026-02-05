@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/gov.ut.covid19.exposurenotifications.png",
+    "title": "UT Exposure Notifications",
+    "ratings": "4.8",
+    "downloads": "990M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "UT Exposure Notifications"
+    },
+    {
+      "name": "category",
+      "value": "Medical"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Utah Department Of Health"
+    },
+    {
+      "name": "Version",
+      "value": "minted150004."
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h3>UT Exposure Notifications</h3>\n<h4>Brief:</h4>\n<p>UT Exposure Notifications is a vital tool designed to assist in the rapid notification of users who may have been exposed to COVID-19. As a tech-based contact tracing solution, it leverages Bluetooth technology to exchange anonymous information with other users, aiming to reduce the spread of the virus within the community by promoting timely isolation and testing.</p>\n<h4>Core Features:</h4>\n<ul>\n<li>📱 <strong>Bluetooth Token Exchange</strong>: Exchanges secure, anonymous tokens with other users when within 6 feet proximity for a total of 15 minutes or more in a 24-hour period. 📶</li>\n<li>⏰ <strong>Fast Notification System</strong>: Quick alerts for potential exposures, supporting users in taking immediate precautions. 🔔</li>\n<li>🛡️ <strong>Privacy Protection</strong>: Ensures user anonymity even when notifying others about potential exposures or positive test results. 🔒</li>\n<li>🏥 <strong>Healthcare Integration</strong>: Users who test positive for COVID-19 can report their status to notify others anonymously. 🩺</li>\n<li>📖 <strong>Informative Resources</strong>: Provides access to pertinent information and further learning about the state's exposure notification efforts. 📘</li>\n</ul>\n<h4>Pros:</h4>\n<ul>\n<li>👨‍👩‍👧‍👦 <strong>Community Health Support</strong>: Helps protect family, friends, neighbors, and the broader community. 💞</li>\n<li>🚀 <strong>Prompt Response</strong>: Aids in quick action, potentially reducing the spread of the virus. 🌐</li>\n<li>🔏 <strong>Secure Data Exchange</strong>: Emphasizes user privacy with anonymous token exchange. ✅</li>\n<li>📈 <strong>Enhanced Tracing Efficiency</strong>: Improves contact tracing efficiency without the need for manual tracing methods. ⏩</li>\n</ul>\n<h4>Cons:</h4>\n<ul>\n<li>📶 <strong>Dependence on Bluetooth</strong>: Requires constant Bluetooth operation, which may affect battery life. 🔋</li>\n<li>📉 <strong>Adoption Rate Impact</strong>: Effectiveness is contingent upon widespread app adoption and usage. 🧑‍🤝‍🧑</li>\n<li>🍏 <strong>Technical Requirements</strong>: May not support older smartphones, limiting access for some users. 📱</li>\n<li>🕵️ <strong>Privacy Concerns</strong>: Despite anonymity, some users may still have reservations about privacy. 🕵️‍♀️</li>\n</ul>\n<h4>Price:</h4>\n<ul>\n<li>💵 <strong>Free</strong>: The UT Exposure Notifications app is available at no cost to users. 🆓</li>\n</ul>\n<p>Given that UT Exposure Notifications is designed to help manage the spread of COVID-19 within communities in Utah, the app does not fit under the gaming category, hence a 'Community' section with social links is not applicable in this case. However, users seeking more information can learn through the provided official state resources.</p>\n<p>For more details and FAQs, you may visit their <a href=\"https://coronavirus.utah.gov/exposure-notifications/\" rel=\"noopener noreferrer\" target=\"_blank\">official site</a>.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-stress-test/48991.html",
+      "icon": "assets/img/apk/icon/com.stress.test.png",
+      "name": "Stress Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-procrastination-test/39516.html",
+      "icon": "assets/img/apk/icon/com.procrastination.test.png",
+      "name": "Procrastination Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-bingeeating-test/39303.html",
+      "icon": "assets/img/apk/icon/com.bingeeating.test.png",
+      "name": "Binge Eating Disorder Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-ocd-test/34780.html",
+      "icon": "assets/img/apk/icon/com.ocd.test.png",
+      "name": "OCD Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-healthians-main-healthians/34760.html",
+      "icon": "assets/img/apk/icon/com.healthians.main.healthians.png",
+      "name": "Healthians -Full Body Checkup",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-lbrc-PeriodCalendar/34759.html",
+      "icon": "assets/img/apk/icon/com.lbrc.PeriodCalendar.png",
+      "name": "Period Tracker and Calendar",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/es-jshcd-edadosea/34693.html",
+      "icon": "assets/img/apk/icon/es.jshcd.edadosea.png",
+      "name": "Bone age",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-devdis/16977.html",
+      "icon": "assets/img/apk/icon/com.devdis.png",
+      "name": "Developmental Disabilities",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.5"
+    }
+  ]
+}

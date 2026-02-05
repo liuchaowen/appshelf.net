@@ -1,0 +1,113 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.odyssey.memory_test.png",
+    "title": "Memory Test",
+    "ratings": "4.5",
+    "downloads": "0M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Memory Test"
+    },
+    {
+      "name": "category",
+      "value": "Puzzle"
+    },
+    {
+      "name": "Price",
+      "value": "0"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Enes Altunoğlu"
+    },
+    {
+      "name": "Version",
+      "value": "6.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/uXzk3ZVUx4FpZ3Ctge0UydTO4U9ylbVXVOzP-S0bA9nOnIksd5UQnCv-5WM-KC6dow",
+    "https://play-lh.googleusercontent.com/OV4VI1x1pjhHMBo73H4NxNZ2VvxjiL0IUTzxl0nqZr7fbAoIFY1oGWapLjvcGwWwuxY",
+    "https://play-lh.googleusercontent.com/pdqd0BraY6Sm2Pu2baiaPvuDZXMqY2IySLfle5KnVnEZ0S4X7XB6RIMGHyQ1BsYaMXk",
+    "https://play-lh.googleusercontent.com/3ALk-AXkTuQ63uh0vY-0s260ZpCMh-vd-Q2Wz0H5wC3TeONlG0owCHRE7huwWmqv7vg",
+    "https://play-lh.googleusercontent.com/Uq-OJhtEh25WKYAKT1U4QlKFoBeEUrP9Ik3QyXx-0wdrduKnQ0feEWkft2cR0JLQKdA",
+    "https://play-lh.googleusercontent.com/TFmRRx5-xOEXPIq9tVloYrBtT_R9lta7fkyEkGJowaWATXEHBZX9dHwmOYykoggiN2CM",
+    "https://play-lh.googleusercontent.com/RNuxYVAyTolP85NY1U4AgnwzIFZzUeHsb8Gk_YXboWfPtJemaEoF866iFzilEfkvzOo",
+    "https://play-lh.googleusercontent.com/zfmILJkaE0BkQVEdnokMqLFdyDHSzAkMJq6LCFhZ3p3HOSrNb6V9Zw7lsOMcmpYUil0",
+    "https://play-lh.googleusercontent.com/b8R33r7YUtA123781U4orfn4zXM926URe9LTznrmO6Iy_HU9ZZWJwkHgqAC08m4yMGo"
+  ],
+  "app_descript": "<h1>Memory Test</h1>\n<p><strong>Brief:</strong><br/>\nMemory Test is an engaging mobile game designed to challenge and enhance your memory skills through a variety of fun and interactive exercises. Ideal for all ages, it offers a delightful way to sharpen your cognitive abilities while enjoying a leisurely gaming experience.</p>\n<p><strong>Core Features:</strong> </p>\n<ul>\n<li>🧠 Varied Memory Challenges: Engage with different types of memory tasks to keep the game interesting.  </li>\n<li>🎮 User-Friendly Interface: Navigate through the game easily with a clean and intuitive design.  </li>\n<li>⏱️ Time Trials: Test your memory under time constraints to push your limits and improve your speed.  </li>\n<li>📊 Progress Tracking: Monitor your improvements over time with detailed statistics and analytics.  </li>\n<li>🏆 Competitive Mode: Compete against friends or other players to see who has the best memory skills.  </li>\n</ul>\n<p><strong>Pros:</strong> </p>\n<ul>\n<li>👍 Captivating gameplay keeps users entertained for hours.  </li>\n<li>👍 Suitable for all ages, making it a great family activity.  </li>\n<li>👍 Enhances cognitive skills, aiding in memory improvement.  </li>\n<li>👍 Regular updates keep the content fresh and engaging.  </li>\n</ul>\n<p><strong>Cons:</strong> </p>\n<ul>\n<li>👎 Some users may find the challenges repetitive after extended play.  </li>\n<li>👎 Occasional ads can disrupt gameplay for those on the free version.  </li>\n<li>👎 Limited customization options for user profiles.  </li>\n<li>👎 Advanced levels might be too challenging for beginners, leading to frustration.  </li>\n</ul>\n<p><strong>Price:</strong><br/>\n💵 Free with in-app purchases available to unlock additional features and levels.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-ecffri-arrows/49082.html",
+      "icon": "assets/img/apk/icon/com.ecffri.arrows.png",
+      "name": "Arrows – Puzzle Escape",
+      "categoryLink": "/categories/puzzle/50",
+      "category": "Puzzle",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-ally-numbermemory/49070.html",
+      "icon": "assets/img/apk/icon/com.ally.numbermemory.png",
+      "name": "Number Memory Games",
+      "categoryLink": "/categories/puzzle/50",
+      "category": "Puzzle",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/funcore-bricker-construction_set-puzzle/39538.html",
+      "icon": "assets/img/apk/icon/funcore.bricker.construction_set.puzzle.png",
+      "name": "Construction Set - 3D Builder",
+      "categoryLink": "/categories/puzzle/50",
+      "category": "Puzzle",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-puzzlegame-asmr-paper-cut/39525.html",
+      "icon": "assets/img/apk/icon/com.puzzlegame.asmr.paper.cut.png",
+      "name": "Paper Cut: ASMR Puzzle",
+      "categoryLink": "/categories/puzzle/50",
+      "category": "Puzzle",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-gamincat-jigsolitaire/39289.html",
+      "icon": "assets/img/apk/icon/com.gamincat.jigsolitaire.png",
+      "name": "Jigsolitaire",
+      "categoryLink": "/categories/puzzle/50",
+      "category": "Puzzle",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-odyssey-memory_test/34781.html",
+      "icon": "assets/img/apk/icon/com.odyssey.memory_test.png",
+      "name": "Memory Test",
+      "categoryLink": "/categories/puzzle/50",
+      "category": "Puzzle",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-gamovation-tileclub/34713.html",
+      "icon": "assets/img/apk/icon/com.gamovation.tileclub.png",
+      "name": "Tile Club - Match Puzzle Game",
+      "categoryLink": "/categories/puzzle/50",
+      "category": "Puzzle",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/com-vgf-infinity-zoom-art/16824.html",
+      "icon": "assets/img/apk/icon/com.vgf.infinity.zoom.art.png",
+      "name": "Infinity Zoom Art: Find Object",
+      "categoryLink": "/categories/puzzle/50",
+      "category": "Puzzle",
+      "rating": "3.3"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/gov.ca.covid19.exposurenotifications.png",
+    "title": "CA Notify",
+    "ratings": "4.4",
+    "downloads": "910M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "CA Notify"
+    },
+    {
+      "name": "category",
+      "value": "Medical"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "CA Dept of Technology"
+    },
+    {
+      "name": "Version",
+      "value": "minted14020"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>CA Notify</strong></p>\n<p><strong>Brief:</strong>\nCA Notify is a critical digital tool in California's fight against COVID-19. As a pivotal part of the State's prevention strategy, CA Notify aids contact tracing efforts and helps reduce virus transmission. Its functionality hinges on user participation and Bluetooth technology, facilitating anonymous interaction tracking to alert individuals of potential exposures—all without compromising user privacy.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>📱 <strong>Bluetooth Proximity Detection:</strong> Uses Bluetooth to anonymously track interactions with other users, estimating the distance and duration of potential exposures.</li>\n<li>🔑 <strong>Anonymous Keys Exchange:</strong> Generates random strings that represent users, keeping personal information unlinked and secure.</li>\n<li>🚨 <strong>Exposure Notifications:</strong> Alerts users if they have been near someone who later tests positive for COVID-19.</li>\n<li>✅ <strong>Verification Codes:</strong> Users who test positive can share a verified status within the app, ensuring notification authenticity.</li>\n<li>📊 <strong>COVID-19 Guidance:</strong> Provides users with actionable steps to take in the event of a potential exposure.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 <strong>Supports Public Health:</strong> Directly contributes to statewide contact tracing and COVID-19 prevention efforts.</li>\n<li>👍 <strong>Privacy-Centric:</strong> Utilizes technology that does not require personal data or location tracking, maintaining privacy.</li>\n<li>👍 <strong>User Empowerment:</strong> Equips users with immediate information on exposure risks allowing for timely action.</li>\n<li>👍 <strong>Community Benefit:</strong> The more users participate, the greater the app's effectiveness in curtailing virus transmission.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 <strong>App Effectiveness Dependent on User Adoption:</strong> Requires widespread usage for maximum efficiency.</li>\n<li>👎 <strong>Limited to California:</strong> Exclusively designed for residents within the state, limiting its utility for out-of-state interaction.</li>\n<li>👎 <strong>Technology Requirements:</strong> Users must have access to Bluetooth-enabled devices and opt into the service.</li>\n<li>👎 <strong>Public Health Integration:</strong> Relies on a systemic approach, and effectiveness can be impacted by overall test reporting and user compliance.</li>\n</ul>\n<p><strong>Pricing:</strong></p>\n<ul>\n<li>💵 The app is entirely free to download and use, and there are no in-app purchases.</li>\n</ul>\n<p>(Note: Since CA Notify is a public health app, the 'Community' section is excluded as per the provided constraints.)</p>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-stress-test/48991.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.stress.test.png",
+      "name": "Stress Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.1"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-procrastination-test/39516.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.procrastination.test.png",
+      "name": "Procrastination Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-bingeeating-test/39303.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.bingeeating.test.png",
+      "name": "Binge Eating Disorder Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-ocd-test/34780.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.ocd.test.png",
+      "name": "OCD Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.2"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-healthians-main-healthians/34760.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.healthians.main.healthians.png",
+      "name": "Healthians -Full Body Checkup",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.6"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-lbrc-PeriodCalendar/34759.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.lbrc.PeriodCalendar.png",
+      "name": "Period Tracker and Calendar",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.9"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/es-jshcd-edadosea/34693.html",
+      "icon": "https://img.buzzsight.co/apk/icon/es.jshcd.edadosea.png",
+      "name": "Bone age",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-devdis/16977.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.devdis.png",
+      "name": "Developmental Disabilities",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.5"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.meamobile.photoprintsnow.png",
+    "title": "Photo Prints Now",
+    "ratings": "4.9",
+    "downloads": "300M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Photo Prints Now"
+    },
+    {
+      "name": "category",
+      "value": "Photography"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Print Photos - 1 Hr Phone Printing"
+    },
+    {
+      "name": "Version",
+      "value": "5.5.2"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/mvDcDrgSunDs_CBq2I4fP6nsQLKhSU-oBSGyqWebmOncs5Jqd9BJTKsWhkHHC4MnjUbD",
+    "https://play-lh.googleusercontent.com/h1r2KqdEE5RyClKAimcFtXBqeapt1Az1F7mdZEbuACHlMDewFunVjR9H_FTN72HYuvc",
+    "https://play-lh.googleusercontent.com/z4bGn8Y4BxW2PPsavRzhNHs9gZ3Phg0zcWVApaUfwskD_zVqG0kA-sgRe2tQFHBJkzhQ",
+    "https://play-lh.googleusercontent.com/d420Bh-WS8Yse4m_O8ZM0iTeTdpmJBVoVzH51Roc6pPTTEeEZ0to_yx6DP19AA52PB6K",
+    "https://play-lh.googleusercontent.com/A2i73PSdQ0fa4aSn_UCEbW6AokY-_UtcH76tdHhuCDHyx06c2tBbgLiaXuUMs73cJlor",
+    "https://play-lh.googleusercontent.com/2zLXKRegpJ_3HvbLbI1m8_AFuvHayz2tHymcijkX5uCLspPAREL0n5SesXhtGrUO5Ddn",
+    "https://play-lh.googleusercontent.com/BXE78wNwZRs3kHg88mRNGHQVMOEvc3jzYTRay6veSjMeeEOMu0bfanjaXdCzzag6HiA",
+    "https://play-lh.googleusercontent.com/6Y_Laf-bBQ98--h98iQe-Iap6EBm1dJ6QvBOAENSbDVpIE0YgmiOJgB6wbHO7gjOL1pS",
+    "https://play-lh.googleusercontent.com/HZxp5Z02p_zoC3k0mnUy8VjE313CseitrFlOxmvomuDdCGKXTle93YqHOm8iHELL_jE",
+    "https://play-lh.googleusercontent.com/UlSYISZXS0jguV8Rz3qZ6Iyn8Nr5ZsX5z0Ttlr6Y_JQdjKsCAV4moNuNVg-RN0DkGzE",
+    "https://play-lh.googleusercontent.com/ou35Kc-GoDx4XuF1ck2sTXyhGfWO49D298YK78-Hl00vAkXqDql1ZlC8LRCfwehU-Q",
+    "https://play-lh.googleusercontent.com/256NO92dbSbV71QuvaO4zWrxf_IYQr0A9CKTdKZOUGKFxlSWxtslnM0oy-xBI0zjXr4",
+    "https://play-lh.googleusercontent.com/rBifJnf7fcP4Fw_KmZqc8pK9Zb3k3EjtrP1zKJmeNU4tn6qzordUBqAvUlRZRYcY0w",
+    "https://play-lh.googleusercontent.com/SEf9Cg6vx54XV1lSiqbtMbh9PVfkqiVht6tSy-rDf9Yg8zzcatAUiuBYh-FbvqX64Ew",
+    "https://play-lh.googleusercontent.com/UbREeNehuhPG2ffJBL_asluwZH2Rdsvi_wff-brJ40prDIAwNzepyx0UixZjx21IKCsV",
+    "https://play-lh.googleusercontent.com/u7Kvt6Z7pgr4gAScuFn8IChhPInEK60cB_LdLW4-T75T9mPhsETw952PUGIDFg2Atwo",
+    "https://play-lh.googleusercontent.com/clqK1aCyGBViKvj-p8IHAB1iYQLKN2CujXMNCLPWYcNdgqCOBxhHl-Myn5dPCfiUTHc",
+    "https://play-lh.googleusercontent.com/GTS-qJH9xz7LeX3C_6ZhF1I8BSP3jTcurjUV2hyfPcRv2vgP5DRKXPQA3tFoVoHZEo4b",
+    "https://play-lh.googleusercontent.com/nzxiKS77LQHaVTLujFv-BnHSluyoO9x8-M-0Ep0BcpQWzrjTXziB7eHbttknXJ_ZjUFa",
+    "https://play-lh.googleusercontent.com/vdh6Zv2uLhFEgepv0HXbLaPeAznvrt4kd0v9RIwjH4Cr8VbIAj7BOv1seKc56ksaXyY",
+    "https://play-lh.googleusercontent.com/GaEyEHU3hOWKh90AwXgirud27Id0qsDB0tXRSmURWnHifV_Tbf3yI-woh6H0lRn4VFEQ",
+    "https://play-lh.googleusercontent.com/_8gGYJ2G-2czgTWq-msphVUVz_XO1V76f3BT98gapzEG5s9cPquxu3DQSxl-VGFPwiRE",
+    "https://play-lh.googleusercontent.com/Dnqsuw8_xf-el018MFYTjNkf7F2WbLbUkRJ9zZ0braTeSc_xFnopX3ca4wRQVYYC-cOY",
+    "https://play-lh.googleusercontent.com/sKSXolv30uf0uoL4ydywIGQpVxRi9_tPrkr-FyRsAqGBZpcnI21bEK6XTHwHofj7G369"
+  ],
+  "app_descript": "<h2><strong>App Summary: Photo Prints Now</strong></h2>\n<h3>Brief</h3>\n<p>Photo Prints Now is the ultimate convenience for bringing your digital memories to life. Integrated with CVS, this app offers superior quality photo printing with the convenience of picking up your prints within an hour or having them delivered right to your doorstep.</p>\n<h3>Core Features 📌</h3>\n<ol>\n<li><strong>One Hour Pickup</strong>: Get your photo prints ready for pickup at any CVS location within an hour.</li>\n<li><strong>Home Delivery</strong>: Opt for direct home delivery of your high-quality photo prints and gifts.</li>\n<li><strong>Multiple Print Sizes</strong>: Choose from a variety of sizes including 4x6”, 5x7”, 8x10”, and square Instagram prints.</li>\n<li><strong>Simple to Use</strong>: Easy interface without subscriptions or complications, making the process fast and straightforward.</li>\n<li><strong>Quality Assurance</strong>: Utilizes Kodak paper for long-lasting, high-quality photo prints and memories.</li>\n</ol>\n<h3>Pros 👍</h3>\n<ol>\n<li><strong>Convenience</strong>: Super fast processing time from phone to print—with an instant CVS store locator.</li>\n<li><strong>Versatility</strong>: Prints available from various sources including Instagram, Facebook, Flickr, Dropbox, and Google+.</li>\n<li><strong>No Subscription Needed</strong>: Access premium printing services without any recurring fees or subscriptions.</li>\n<li><strong>Partnership with CVS</strong>: Reliable printing service through a trusted partnership with over 9600 CVS stores nationwide.</li>\n<li><strong>Gift Ready</strong>: Transform digital photos into physical tokens of memory, perfect for gifting.</li>\n</ol>\n<h3>Cons 👎</h3>\n<ol>\n<li><strong>Limited Retailer Option</strong>: Printing is exclusive to CVS locations, possibly inconvenient for non-CVS customers.</li>\n<li><strong>Print Quality</strong>: The final print quality can be dependent on the original digital photo's resolution.</li>\n<li><strong>App Availability</strong>: May not be as widely accessible or known, limiting its user base.</li>\n<li><strong>No Editing Tools</strong>: Lacks in-app photo editing features to enhance or alter images before printing.</li>\n<li><strong>Delivery Time</strong>: Home delivery option might not be as instantaneous as the in-store pickup.</li>\n</ol>\n<h3>Price 💵</h3>\n<p>Photo Prints Now is free to download from the App Store. Printing costs may vary depending on the size and type of the print, and there might be additional fees for home delivery services.</p>\n<p><em>For further inquiries about Photo Prints Now or CVS photo services, please contact [email protected]</em></p>\n<p><a href=\"https://play.google.com/store/apps/details?id=com.meamobile.photoprintsnow\" rel=\"noopener noreferrer\" target=\"_blank\">Download Photo Prints Now</a> to start turning your digital albums into physical memories!</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-bhimaapps-valentineday/54159.html",
+      "icon": "assets/img/apk/icon/com.bhimaapps.valentineday.png",
+      "name": "Valentine Day Live Wallpaper",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "3"
+    },
+    {
+      "link": "/details/com-St-ValentinesDayLiveWallpaper/54154.html",
+      "icon": "assets/img/apk/icon/com.St.ValentinesDayLiveWallpaper.png",
+      "name": "Valentines Day Live Wallpaper",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-plaxa-parallax3d-wallpaper-overlay-touch-effect-aura/53773.html",
+      "icon": "assets/img/apk/icon/com.plaxa.parallax3d.wallpaper.overlay.touch.effect.aura.png",
+      "name": "Plaxa: Parallax Aura Wallpaper",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-happynewyear-hdwallpapers/49048.html",
+      "icon": "assets/img/apk/icon/com.happynewyear.hdwallpapers.png",
+      "name": "Happy New Year 2026 Wallpaper",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-photo-editor-photocalendar/49045.html",
+      "icon": "assets/img/apk/icon/com.photo.editor.photocalendar.png",
+      "name": "Calendar Maker: Photo Editor",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-watchfacestudio-animatedanalogfireworkswatchface/48946.html",
+      "icon": "assets/img/apk/icon/com.watchfacestudio.animatedanalogfireworkswatchface.png",
+      "name": "Fireworks Happy New Year's Eve",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/happy-neww-bighabits-year-images-wishes-gifs-day-stickers-wallpaper/48940.html",
+      "icon": "assets/img/apk/icon/happy.neww.bighabits.year.images.wishes.gifs.day.stickers.wallpaper.png",
+      "name": "Happy New Year 2026 Habits",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-starwatchfaces-hnyanimated/48934.html",
+      "icon": "assets/img/apk/icon/com.starwatchfaces.hnyanimated.png",
+      "name": "Happy New Year Animated",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4"
+    }
+  ]
+}

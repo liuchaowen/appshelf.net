@@ -1,0 +1,107 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/net.hscni.covidcertni.png",
+    "title": "COVIDCert NI",
+    "ratings": "4.7",
+    "downloads": "80M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "COVIDCert NI"
+    },
+    {
+      "name": "category",
+      "value": "Medical"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Health & Social Care Northern Ireland"
+    },
+    {
+      "name": "Version",
+      "value": "1.0.14"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/Odh66aZL5q9cq7aCbN-lBkZk1uLAUgK8JAvF1h5skEb9z93BY8I2gR2GieKGMqoUJA4",
+    "https://play-lh.googleusercontent.com/PKsXLTo--mBcVXwVF-nnPGie-AwspjeLNZJDThZukOf-LrkJ6i5fsQsTEKmg0zLQJuGK",
+    "https://play-lh.googleusercontent.com/VnzLb1B8eOTdaqllNIlF9O-1KSXaa3_oqZ-D4cckOwpBCKfK2QjhGXW8NulcR0mWh1M"
+  ],
+  "app_descript": "<h3>COVIDCert NI</h3>\n<h4>Brief:</h4>\n<p>COVIDCert NI serves as an invaluable tool for Northern Ireland residents, allowing them to display a domestic vaccination certificate with ease. This app provides a convenient method to showcase vaccination status for domestic purposes or while traveling, with enhanced privacy and security features.</p>\n<h4>Core Features:</h4>\n<ul>\n<li>📜 <strong>Digital COVID Certification:</strong> Securely stores COVID-19 vaccination certificates on your mobile device for immediate access 📱.</li>\n<li>✈️ <strong>Travel Companion:</strong> Generates a QR code for your vaccination certificate to facilitate hassle-free international travel ✈️.</li>\n<li>🛡️ <strong>Privacy Control:</strong> Offers the option to conceal or reveal vaccination details, protecting personal information 🔒.</li>\n<li>🌐 <strong>Seamless Integration:</strong> Links directly with nidirect to apply for and retrieve your COVID certificate with minimal effort 🌐.</li>\n<li>🔐 <strong>Advanced Security:</strong> Employs a holographic HSC logo on the certificate page to ensure authenticity and security 🔐.</li>\n</ul>\n<h4>Pros:</h4>\n<ul>\n<li>👌 <strong>User-Friendly:</strong> Intuitive interface allowing users to easily navigate and manage their vaccination status 👍.</li>\n<li>🔄 <strong>Real-Time Validation:</strong> Instantly verifies the validity of COVID certificates via a green indicator and QR code 📈.</li>\n<li>🔒 <strong>Secure Data Handling:</strong> Guarantees data security as no personal vaccination information is shared from the app 🛡️.</li>\n<li>✨ <strong>Hassle-Free Setup:</strong> Directs new users to apply for the certificate and assists in the login and identity verification process 🎯.</li>\n</ul>\n<h4>Cons:</h4>\n<ul>\n<li>❌ <strong>Limited Offline Functionality:</strong> Unable to download a PDF version of the domestic certificate for offline use ⚠️.</li>\n<li>🔗 <strong>Dependent on nidirect:</strong> Requires users to have a pre-existing nidirect account and applied for a COVID certificate there 📎.</li>\n<li>📶 <strong>Internet Requirement:</strong> Certificates must be retrieved online, necessitating a stable internet connection 🌐.</li>\n<li>🌍 <strong>Region Restricted:</strong> Exclusively available to residents of Northern Ireland, not usable by individuals from other regions 🚦.</li>\n</ul>\n<h4>Price:</h4>\n<ul>\n<li>💵 <strong>Complimentary Access:</strong> COVIDCert NI is a free app, beneficial for residents to manage their vaccination certificates at no cost 🎉.</li>\n</ul>\n<p>Crafted with meticulous attention to provide a comprehensive understanding, this app description is designed to assist potential users in making an informed decision about the utility and limitations of the COVIDCert NI app.</p>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-stress-test/48991.html",
+      "icon": "assets/img/apk/icon/com.stress.test.png",
+      "name": "Stress Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.1"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-procrastination-test/39516.html",
+      "icon": "assets/img/apk/icon/com.procrastination.test.png",
+      "name": "Procrastination Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-bingeeating-test/39303.html",
+      "icon": "assets/img/apk/icon/com.bingeeating.test.png",
+      "name": "Binge Eating Disorder Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-ocd-test/34780.html",
+      "icon": "assets/img/apk/icon/com.ocd.test.png",
+      "name": "OCD Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.2"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-healthians-main-healthians/34760.html",
+      "icon": "assets/img/apk/icon/com.healthians.main.healthians.png",
+      "name": "Healthians -Full Body Checkup",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.6"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-lbrc-PeriodCalendar/34759.html",
+      "icon": "assets/img/apk/icon/com.lbrc.PeriodCalendar.png",
+      "name": "Period Tracker and Calendar",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.9"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/es-jshcd-edadosea/34693.html",
+      "icon": "assets/img/apk/icon/es.jshcd.edadosea.png",
+      "name": "Bone age",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-devdis/16977.html",
+      "icon": "assets/img/apk/icon/com.devdis.png",
+      "name": "Developmental Disabilities",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.5"
+    }
+  ]
+}

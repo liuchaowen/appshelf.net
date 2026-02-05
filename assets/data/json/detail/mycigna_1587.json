@@ -1,0 +1,111 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.cigna.mobile.mycigna.png",
+    "title": "myCigna",
+    "ratings": "4.1",
+    "downloads": "420M",
+    "age": "4+",
+    "download_link": "https://d.apkpure.com/b/APK/com.cigna.mobile.mycigna?version=latest"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "myCigna"
+    },
+    {
+      "name": "category",
+      "value": "Health & Fitness"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Cigna"
+    },
+    {
+      "name": "Version",
+      "value": "6.47.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/sBjVSXagJlQkJxg1VSBB986JNR6PF8dUDcAaUwKD7U31mx-tfQv_ftMUZ6nUI1ZDez69",
+    "https://play-lh.googleusercontent.com/LoQeWOHF741ZZjEoWkJbvK8VGfwdi2gql3QPL2OvaT2B9Bt6ro32qoKJQwaDcFss3wE",
+    "https://play-lh.googleusercontent.com/YjjQQpaiBUXZO02ps_Hjw06aXePKAfIltjPNdZbrhcnq2E_DJ3XMjapgS5XDFveu1oxJ",
+    "https://play-lh.googleusercontent.com/do1_HqyaD4uir-l4TdzTeUJuk7NJtMu3rT08GRjfwET9un2YDMq1Zx93wlpcjChHHTy3",
+    "https://play-lh.googleusercontent.com/2m9c-5vriOgYiI_osLVdKEs4MdKjUIAwLm4xgeli-s8VBxcfBMhiGMqBA99sVMbvK1q-",
+    "https://play-lh.googleusercontent.com/3rhKnNrJMioKmn_C_w7bWQ-fnW50-px9lq1S_GbeX_k3Wr9xsrOnb0DcN6dX338DQ_M"
+  ],
+  "app_descript": "<p><strong>App Description for myCigna</strong></p>\n<p><strong>Brief:</strong>\nmyCigna is a health management app designed for Cigna policyholders to streamline healthcare services and support. It offers a convenient way to manage claims, check account balances, refill prescriptions, and understand coverage details. The app is an extension of Cigna's commitment to improving health, well-being, and security for its customers, evident in its integrated features that cater to the users' unique needs.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🗂️ <strong>Claims Management</strong>: Effortlessly view and search through both recent and past medical claims.</li>\n<li>💰 <strong>Health Fund Balances</strong>: Instantly access health fund balances to stay informed about available resources.</li>\n<li>💊 <strong>Pharmacy Services</strong>: Manage your prescriptions, including refills, and customize billing and shipping preferences.</li>\n<li>🛡️ <strong>Coverage Insight</strong>: Gain comprehensive information about your plan, including coverage details, authorizations, deductibles, and out-of-pocket maximums.</li>\n<li>🏆 <strong>Wellness Tracking</strong>: Keep tabs on your wellness goals and celebrate your achievements within the app.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👨‍⚕️ <strong>Hassle-Free Health Management</strong>: Easily handle various health management tasks within a single app.</li>\n<li>🔄 <strong>Quick Refills</strong>: Update and refill prescriptions on the go, ensuring you never miss a dose.</li>\n<li>📊 <strong>Real-Time Information</strong>: Access up-to-date information on claims and coverage whenever needed.</li>\n<li>👥 <strong>Personalized Experience</strong>: Tailored information about plans and services to fit the unique needs of each user.</li>\n<li>🌐 <strong>Multilingual Support</strong>: The app supports both English and Spanish, broadening its accessibility.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>📶 <strong>Internet Dependency</strong>: Requires a stable internet connection for real-time updates and access to features.</li>\n<li>📱 <strong>Device Compatibility</strong>: May not be fully optimized for all mobile devices or operating systems.</li>\n<li>🗓️ <strong>Navigation Complexity</strong>: Some users may find navigating through detailed insurance data complex or overwhelming.</li>\n<li>🔒 <strong>Security Concerns</strong>: As with any health app, handling sensitive data calls for robust security measures.</li>\n<li>🤝 <strong>Cigna Specific</strong>: The app functionalities are exclusive to Cigna customers only.</li>\n</ul>\n<p><strong>Price:</strong></p>\n<ul>\n<li>💵 The myCigna app is free to download and use, although it may feature some in-app purchases or additional services that could require payment.</li>\n</ul>\n<p><a href=\"https://itunes.apple.com/app/mycigna/id441847268\" rel=\"noopener noreferrer\" target=\"_blank\">Download myCigna on the App Store</a><br/>\n<a href=\"https://play.google.com/store/apps/details?id=com.cigna.mobile.mycigna\" rel=\"noopener noreferrer\" target=\"_blank\">Get myCigna on Google Play</a></p>\n<hr/>\n<p><em>Please note: The information provided in this description may vary based on location, plan type, or user preferences. Users should always check directly with Cigna for the most current details.</em></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-appflows-BodyMuse/48997.html",
+      "icon": "assets/img/apk/icon/com.appflows.BodyMuse.png",
+      "name": "BodyMuse: Body Shape Analysis",
+      "categoryLink": "/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-codev-headache_app/39734.html",
+      "icon": "assets/img/apk/icon/com.codev.headache_app.png",
+      "name": "Headache Diary, Test & Treat",
+      "categoryLink": "/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/life-simple/39727.html",
+      "icon": "assets/img/apk/icon/life.simple.png",
+      "name": "Simple: AI Weight Loss Coach",
+      "categoryLink": "/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-clearblue-minerva/39464.html",
+      "icon": "assets/img/apk/icon/com.clearblue.minerva.png",
+      "name": "Menopause Stage - Clearblue me",
+      "categoryLink": "/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-jplanet-lungtestandbreathpractice/39424.html",
+      "icon": "assets/img/apk/icon/com.jplanet.lungtestandbreathpractice.png",
+      "name": "Lung Test and Breath Exercise",
+      "categoryLink": "/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "3"
+    },
+    {
+      "link": "/details/healthy-lungs-breathing-exercise-coach-pranayama-breath-workout-lung-exercises/39423.html",
+      "icon": "assets/img/apk/icon/healthy.lungs.breathing.exercise.coach.pranayama.breath.workout.lung.exercises.png",
+      "name": "Lungs Test: Breathing Exercise",
+      "categoryLink": "/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-smartoptometry-smartoptometry-full/34733.html",
+      "icon": "assets/img/apk/icon/com.smartoptometry.smartoptometry.full.png",
+      "name": "Smart Optometry - Eye Tests",
+      "categoryLink": "/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-b2creativedesigns-eyetest/34732.html",
+      "icon": "assets/img/apk/icon/com.b2creativedesigns.eyetest.png",
+      "name": "Eye test",
+      "categoryLink": "/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.1"
+    }
+  ]
+}

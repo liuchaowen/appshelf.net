@@ -1,0 +1,107 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.xiaomi.hm.health.png",
+    "title": "Mi Fit",
+    "ratings": "3.8",
+    "downloads": "340M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Mi Fit"
+    },
+    {
+      "name": "category",
+      "value": "Health & Fitness"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Anhui Huami Information Technology Co.,Ltd."
+    },
+    {
+      "name": "Version",
+      "value": "6.8.1"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/8FYZkz6Q6IgatXrOn-TtcWhw_wCSkzqbaHImVLLU6HTiUhVrr4_X-CfI436-RVU7zthW",
+    "https://play-lh.googleusercontent.com/uaGhXp6Q0Y1a7fvUyPESjhyBZ-T8iHK1CISfPSWmH5_G2j_j45uDn0-8E50CxU6dnJw",
+    "https://play-lh.googleusercontent.com/sVkI3OfeBxDuWdgWMl9ABFbCFgor_GOtSln-iIBOd0QdbjWqSHB5medc5iSfkdgk_xKv"
+  ],
+  "app_descript": "<h3>Mi Fit (Now Zapp Life)</h3>\n<h4>Brief:</h4>\n<p>Following a significant rebranding, the Mi Fit app, once a cornerstone of Xiaomi's wearables, has evolved into Zapp Life. Accommodating legacy users of Xiaomi devices, the app serves as a central hub for newer Xiaomi wearables, integrating features from both Xiaomi Health and Xiaomi Wear/Xiaomi Wear Lite. Zapp Life promises to enhance the fitness tracking experience with its robust accessibility across different markets and a suite of health analysis tools.</p>\n<h4>Core Features:</h4>\n<ul>\n<li>🤝 Compatibility with various smart devices including Mi Band and Amazfit Bip. 📱</li>\n<li>🏃‍♂️ Comprehensive activity tracking covering workouts and sleep-monitoring capabilities. 🛌</li>\n<li>📊 Professional health and fitness assessments to guide users on their wellness journey. 📈</li>\n<li>🔔 Multipurpose alerts and notifications to keep you informed and engaged. 🛎️</li>\n<li>🖼️ Intuitive and straightforward user interface for effortless navigation. 🧭</li>\n<li>🏆 Exceptional value for the price point, offering a cost-effective health management solution. 💰</li>\n<li>🚫 Ad-free experience, ensuring uninterrupted usage and focus on your health. 🆓</li>\n</ul>\n<h4>Pros:</h4>\n<ul>\n<li>👍 Supports a broad array of Xiaomi wearable devices. ⌚</li>\n<li>👍 Tracks various exercises, quantifying your physical activities accurately. 🏋️‍♀️</li>\n<li>👍 Delivers insightful fitness analysis to help pinpoint your strengths and areas for improvement. 🧐</li>\n<li>👍 Streamlined reminders to keep you on top of your health and schedule. ⏰</li>\n<li>👍 Minimalistic design making it easy and pleasant to use. ✨</li>\n<li>👍 Delivers value without burdening the wallet, especially beneficial for Xiaomi device owners. 💵</li>\n<li>👍 Ad-free environment allows for an uncluttered and focused approach to fitness. 🚫</li>\n</ul>\n<h4>Cons:</h4>\n<ul>\n<li>👎 Some users may find the interface monotonous over extended periods. 😴</li>\n<li>👎 Lack of customization in the time format might be a minor inconvenience. 🕒</li>\n<li>👎 May not match the detailed analytics of high-end fitness trackers. 🔍</li>\n</ul>\n<h4>Price:</h4>\n<p>💵 Zapp Life is free to download and use. However, please verify if there are any optional in-app purchases that may enhance the application's functionality or if premium services are offered for advanced features.</p>\n<p><em>Community information is not applicable for Zapp Life as it is not a game app.</em></p>\n<p>Enjoy a seamless and integrated approach to managing your health with Zapp Life, where sophistication meets simplicity.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-appflows-BodyMuse/48997.html",
+      "icon": "assets/img/apk/icon/com.appflows.BodyMuse.png",
+      "name": "BodyMuse: Body Shape Analysis",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-codev-headache_app/39734.html",
+      "icon": "assets/img/apk/icon/com.codev.headache_app.png",
+      "name": "Headache Diary, Test & Treat",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/life-simple/39727.html",
+      "icon": "assets/img/apk/icon/life.simple.png",
+      "name": "Simple: AI Weight Loss Coach",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-clearblue-minerva/39464.html",
+      "icon": "assets/img/apk/icon/com.clearblue.minerva.png",
+      "name": "Menopause Stage - Clearblue me",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-jplanet-lungtestandbreathpractice/39424.html",
+      "icon": "assets/img/apk/icon/com.jplanet.lungtestandbreathpractice.png",
+      "name": "Lung Test and Breath Exercise",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "3"
+    },
+    {
+      "link": "/details/healthy-lungs-breathing-exercise-coach-pranayama-breath-workout-lung-exercises/39423.html",
+      "icon": "assets/img/apk/icon/healthy.lungs.breathing.exercise.coach.pranayama.breath.workout.lung.exercises.png",
+      "name": "Lungs Test: Breathing Exercise",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-smartoptometry-smartoptometry-full/34733.html",
+      "icon": "assets/img/apk/icon/com.smartoptometry.smartoptometry.full.png",
+      "name": "Smart Optometry - Eye Tests",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-b2creativedesigns-eyetest/34732.html",
+      "icon": "assets/img/apk/icon/com.b2creativedesigns.eyetest.png",
+      "name": "Eye test",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.1"
+    }
+  ]
+}

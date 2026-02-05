@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/periscope.png",
+    "title": "Periscope",
+    "ratings": "4.2",
+    "downloads": "100M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Periscope"
+    },
+    {
+      "name": "category",
+      "value": "Social"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Twitter, Inc."
+    },
+    {
+      "name": "Version",
+      "value": "1.26.2.73"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h3>Periscope</h3>\n<p><strong>Brief:</strong>\nPeriscope is a live video streaming app that connects users across the globe by allowing them to broadcast and explore the world through live video. The interactive nature of Periscope enables viewers to send comments and hearts in real-time, creating a dynamic and engaging environment for both broadcasters and viewers.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🗣 <strong>Interactive Streaming</strong>: Engage with followers through comments and send hearts to show appreciation in real-time. 📌</li>\n<li>🔄 <strong>Video Replay</strong>: Access and replay your broadcast videos whenever desired, providing flexibility for both you and your followers. 📌</li>\n<li>🔒 <strong>Private Broadcasting</strong>: Share videos privately to selected individuals, ensuring a safe and controlled environment. 📌</li>\n<li>🐦 <strong>Twitter Integration</strong>: Share your live streams directly on Twitter, expanding your reach and making it simple to connect with your audience. 📌</li>\n<li>❤️ <strong>Heart System</strong>: Exchange hearts as a broadcaster or viewer, capturing the enjoyable essence of each broadcast. 📌</li>\n<li>🌐 <strong>Global Broadcasting</strong>: Go live and reach a worldwide audience at any time, breaking the barriers of distance and time. 📌</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👥 <strong>Community Engagement</strong>: Provides a platform for real-time interaction, building a sense of community and connectivity. 👍</li>\n<li>🔄 <strong>Content Accessibility</strong>: Ability to replay content increases viewership opportunities and content longevity. 👍</li>\n<li>🗝️ <strong>Privacy Options</strong>: Offers control over viewership, allowing for public or private broadcasts. 👍</li>\n<li>🫂 <strong>Social Media Connectivity</strong>: Easy sharing to Twitter enhances social engagement and content reach. 👍</li>\n<li>🌟 <strong>User-Centric Features</strong>: New features like Teleport and Message Carousel enhance user experience and interaction. 👍</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>📶 <strong>Internet Dependence</strong>: Requires a strong internet connection for live streaming which might be limiting in certain areas. 👎</li>\n<li>🤓 <strong>User Learning Curve</strong>: New users may need time to understand and utilize all features effectively. 👎</li>\n<li>🔔 <strong>Notifications</strong>: Potential for excessive notifications which could be overwhelming for some users. 👎</li>\n<li>🛠️ <strong>Bug Encounters</strong>: Despite fixes, users may still encounter occasional technical issues. 👎</li>\n<li>🔄 <strong>Update Adaptation</strong>: Users need to adapt to changes and new features with each update, which could be disruptive. 👎</li>\n</ul>\n<p><strong>Price:</strong>\nPeriscope is a free app, but specific details regarding in-app purchases, if any, would need to be confirmed within the app or the official app store listing. 💵</p>\n<p><strong>Community:</strong>\nGiven that Periscope is a community-centric app, it likely has a solid presence on various social media platforms. However, specific links or details are not provided for the community section at this time. 🕸️</p>\n<hr/>\n<p>Embrace the globe with live streams, real-time engagement, and social connectivity with Periscope. Broadcast your moments, expand your reach, and enjoy the spontaneity of live interactions today!</p>",
+  "related_apps": [
+    {
+      "link": "/details/jp-cocone-livly/54171.html",
+      "icon": "assets/img/apk/icon/jp.cocone.livly.png",
+      "name": "Livly Island - Adopt Cute Pets",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-daily-festival-photos/39721.html",
+      "icon": "assets/img/apk/icon/com.daily.festival.photos.png",
+      "name": "Daily Festival Photo",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/tv-medal-recorder/39573.html",
+      "icon": "assets/img/apk/icon/tv.medal.recorder.png",
+      "name": "Medal - Gaming Clips",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-ptanktechnology-reincornation/39352.html",
+      "icon": "assets/img/apk/icon/com.ptanktechnology.reincornation.png",
+      "name": "Reincarnation",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-tiktok-lite-go/15392.html",
+      "icon": "assets/img/apk/icon/com.tiktok.lite.go.png",
+      "name": "TikTok Lite - Faster TikTok",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-petmeetly/15275.html",
+      "icon": "assets/img/apk/icon/com.petmeetly.png",
+      "name": "Petmeetly - Pet's Match Finder",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-xingin-xhs/14603.html",
+      "icon": "assets/img/apk/icon/com.xingin.xhs.png",
+      "name": "REDnote—小红书国际版",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-stdev-dissordap/10395.html",
+      "icon": "assets/img/apk/icon/com.stdev.dissordap.png",
+      "name": "Vote Social - Photo Voting VS",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "3.8"
+    }
+  ]
+}

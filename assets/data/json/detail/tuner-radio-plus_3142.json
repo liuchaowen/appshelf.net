@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.music.tunerradioplus.png",
+    "title": "Tuner Radio Plus",
+    "ratings": "4.7",
+    "downloads": "80M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Tuner Radio Plus"
+    },
+    {
+      "name": "category",
+      "value": "Music & Audio"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Tuner Radio Plus Official"
+    },
+    {
+      "name": "Version",
+      "value": "1.1.4"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> Tuner Radio Plus\n<strong>Package Name:</strong> com.music.tunerradioplus</p>\n<h3>Brief:</h3>\n<p>Tune into a world of music with Tuner Radio Plus, the perfect app for discovering new tunes and sharing your favorite hits with friends. Whether you're looking to customize your phone's ringtone or just enjoy endless music, Tuner Radio Plus is your free gateway to an audio utopia.</p>\n<h3>Core Features:</h3>\n<ul>\n<li>🎵 <strong>Ringtone Setting</strong>: Easily set your favorite tracks as your Android phone's ringtone with just a few taps.</li>\n<li>🔄 <strong>Music Sharing</strong>: Share your music discoveries with friends and create a community of music enthusiasts.</li>\n<li>🆓 <strong>Absolutely Free</strong>: Access all the features of Tuner Radio Plus without any hidden costs.</li>\n<li>👍 <strong>User-Friendly Interface</strong>: Navigate through the app effortlessly thanks to its simple and intuitive design.</li>\n<li>⭐ <strong>Community Feedback</strong>: An encouraging space where users can rate and leave comments to support the app.</li>\n</ul>\n<h3>Pros:</h3>\n<ul>\n<li>👂 <strong>Personalization</strong>: Customize your phone by setting any song as your ringtone.</li>\n<li>🤝 <strong>Social Connectivity</strong>: Share your music taste and find common grooves with your friends.</li>\n<li>💸 <strong>No Cost</strong>: Enjoy the full experience of Tuner Radio Plus without spending a dime.</li>\n<li>🎉 <strong>User Engagement</strong>: Join a community of music lovers who actively rate and give feedback on the app.</li>\n<li>📱 <strong>Easy Accessibility</strong>: User-friendly features make navigating music options a breeze.</li>\n</ul>\n<h3>Cons:</h3>\n<ul>\n<li>👎 <strong>Limited Features</strong>: As a free app, it may not have as extensive features as paid alternatives.</li>\n<li>🔄 <strong>Dependency on Network</strong>: Sharing features require a constant internet connection which might not be available everywhere.</li>\n<li>💬 <strong>Comment Dependency</strong>: The app's visibility depends significantly on user ratings and comments.</li>\n<li>🤔 <strong>Competitive Market</strong>: With many music apps available, user retention could be a challenge.</li>\n<li>🌐 <strong>Language Barrier</strong>: Lack of multilingual support might limit the app's reach to a wider audience.</li>\n</ul>\n<h3>Price:</h3>\n<ul>\n<li>💵 <strong>Free</strong>: Tuner Radio Plus is completely free to download and use, with no hidden charges.</li>\n</ul>\n<p><a href=\"https://play.google.com/store/apps/details?id=com.music.tunerradioplus\" rel=\"noopener noreferrer\" target=\"_blank\">Download Tuner Radio Plus</a> now and immerse yourself in a world of musical discovery and sharing, all at no cost. Tune it your way!</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-simmusic-oldjpop/49056.html",
+      "icon": "assets/img/apk/icon/com.simmusic.oldjpop.png",
+      "name": "昭和の名曲 - 70年代/80年代名曲, 昭和の歌謡曲",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-bigsoft-voicereverse-audiochanger/39378.html",
+      "icon": "assets/img/apk/icon/com.bigsoft.voicereverse.audiochanger.png",
+      "name": "Funny Voice Reverse",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "3.1"
+    },
+    {
+      "link": "/details/com-realdrum-drumset-drumapp-beatmaker-music-instruments-drumkit/16783.html",
+      "icon": "assets/img/apk/icon/com.realdrum.drumset.drumapp.beatmaker.music.instruments.drumkit.png",
+      "name": "Learn Drum - Pad & Beat Maker",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-musicplayer-mp3-audio-mymusic-player/15795.html",
+      "icon": "assets/img/apk/icon/com.musicplayer.mp3.audio.mymusic.player.png",
+      "name": "Music Player & MP3 - MMusic",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/com-ai-sound-donna/15626.html",
+      "icon": "assets/img/apk/icon/com.ai.sound.donna.png",
+      "name": "Donna AI Song & Music Maker",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-vanniktech-rssreader/15328.html",
+      "icon": "assets/img/apk/icon/com.vanniktech.rssreader.png",
+      "name": "RSS Reader Offline | Podcast",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-voicechanger-supereffect-soundeffect/14158.html",
+      "icon": "assets/img/apk/icon/com.voicechanger.supereffect.soundeffect.png",
+      "name": "Voice Changer: Audio Effect",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/org-cru-womans-herbible/14124.html",
+      "icon": "assets/img/apk/icon/org.cru.womans.herbible.png",
+      "name": "her.BIBLE Women's Audio Bible",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    }
+  ]
+}

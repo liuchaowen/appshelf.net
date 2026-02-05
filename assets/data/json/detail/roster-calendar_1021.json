@@ -1,0 +1,110 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/de.heinz.roster.png",
+    "title": "Roster-Calendar",
+    "ratings": "4.3",
+    "downloads": "770M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Roster-Calendar"
+    },
+    {
+      "name": "category",
+      "value": "Business"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Michael Heinz"
+    },
+    {
+      "name": "Version",
+      "value": "3.3"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/MCN6aydaJLmtpVs-8rig7y2VkRKIr7vm1fDRFfhVA5ohmGVcWtr11q37oTnqJumZxwk",
+    "https://play-lh.googleusercontent.com/cWFxavCoszdalZahB28mS5WHIyYCdF2YbjNOEk9TN5itcV1J-VFpLpMMtgmFYSSbPNo",
+    "https://play-lh.googleusercontent.com/LdwbC-7RsHuHr5tCUvGKAaqwA_aP2m7vJtrlqrz0OOu-kSWqHarFHkXlMBajcUvp1Yk",
+    "https://play-lh.googleusercontent.com/VLKaaB8Hd66tL6KzH7dtyn_ihQnpvnUpPF_4ne6dg_Pd__lY93qd8AmBEKSivx_de9s",
+    "https://play-lh.googleusercontent.com/we9vAjKmrRPqn9PgSThaZ4eUNXZX3_hBGXoME7OP4Cs7ZGR47c6t1UW_akAYxVkMeB4",
+    "https://play-lh.googleusercontent.com/HVl8MrEferpuVshqnNYLwSZ3deOzRJdZhW1s3kqOQSrd3rUPjBlXGvdXiKCTTjzGug"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> Roster-Calendar<br/>\n<strong>Package Name:</strong> de.heinz.roster</p>\n<h3>Brief</h3>\n<p>Roster-Calendar is a versatile tool designed to help users effortlessly manage their work schedules and shifts. Its intuitive scrolling calendar interface and rich customization options make it an indispensable app for professionals who require a reliable shift management system.</p>\n<h3>Core Features</h3>\n<ol>\n<li><strong>Scrollable Calendar</strong> - Easily navigate through months with the scrolling calendar feature. 🗓️</li>\n<li><strong>Customizable Templates</strong> - Edit and personalize templates to fit your scheduling needs. 🎨</li>\n<li><strong>Shift Management</strong> - Add, delete, and switch shift entries with simple tap controls. 🔁</li>\n<li><strong>Holiday Tracking</strong> - Access public holiday information for 38 countries to plan around significant dates. 🌍</li>\n<li><strong>Widget Support</strong> - Quickly glance at your today's and tomorrow's shifts through a home screen widget. 📲</li>\n</ol>\n<h3>Pros</h3>\n<ol>\n<li><strong>Dual Shift Entry</strong> - Allows for additional entries to accommodate second or double shifts. 👍</li>\n<li><strong>Comprehensive Customization</strong> - Configure work times, names, and colors to your preference. 🛠️</li>\n<li><strong>Notes &amp; Annotations</strong> - Add important notes to any calendar day for extra information. ✏️</li>\n<li><strong>Week Number</strong> - Stay on top of your scheduling with the week number feature for precise planning. 📅</li>\n<li><strong>Password Protection</strong> - Secure your schedule with password protection, ensuring privacy. 🔒</li>\n</ol>\n<h3>Cons</h3>\n<ol>\n<li><strong>Potential Overcomplexity</strong> - The range of features might be overwhelming for some users looking for simplicity. 🤯</li>\n<li><strong>Manual Synchronizing</strong> - Requires manual matching of services with the device calendar, which may be tedious. 🧑‍💼</li>\n<li><strong>Automated Functions</strong> - Although there is a provision for automatic deletions and additions, it may not perfectly align with every unique work pattern. 🔄</li>\n<li><strong>PDF Export</strong> - This feature being optional could be seen as a limitation for those who prefer having reports in PDF format by default. 📄</li>\n<li><strong>Platform Specificity</strong> - Data exchange is limited to Android and iOS, potentially excluding users on other platforms. 📤</li>\n</ol>\n<h3>Pricing</h3>\n<p>💵 Roster-Calendar is a free app with optional paid features, such as exporting of services to PDF files and accessing online backup/restore functionalities.</p>\n<hr/>\n<p>By offering a practical and in-depth tool for shift management, Roster-Calendar stands out for workers and professionals who demand organizational excellence in their scheduling routines.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-kj2147575505-app/16858.html",
+      "icon": "assets/img/apk/icon/com.kj2147575505.app.png",
+      "name": "Alpha Omega Consulting",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-hypertide-petscan-v8m/15982.html",
+      "icon": "assets/img/apk/icon/com.hypertide.petscan.v8m.png",
+      "name": "PetScan",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "2"
+    },
+    {
+      "link": "/details/com-animalid-scanner/15981.html",
+      "icon": "assets/img/apk/icon/com.animalid.scanner.png",
+      "name": "Pet Scanner",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-webrange-sendoff-app/15417.html",
+      "icon": "assets/img/apk/icon/com.webrange.sendoff.app.png",
+      "name": "Sendoff Funeral App",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-dyve-countthings/10295.html",
+      "icon": "assets/img/apk/icon/com.dyve.countthings.png",
+      "name": "CountThings from Photos",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "3"
+    },
+    {
+      "link": "/details/com-countthis-count-things-counting-template-counter/5097.html",
+      "icon": "assets/img/apk/icon/com.countthis.count.things.counting.template.counter.png",
+      "name": "Count This・Counting Things App",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-aadi-personalitytraittest/4991.html",
+      "icon": "assets/img/apk/icon/com.aadi.personalitytraittest.png",
+      "name": "Personality Trait Test",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/GlowRoad/4569.html",
+      "icon": "assets/img/apk/icon/com.localqueen.png",
+      "name": "GlowRoad",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.6"
+    }
+  ]
+}

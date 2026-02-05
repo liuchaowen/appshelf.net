@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.mars.dotdot.boost.clean.png",
+    "title": "Super Cleaner - Superior phone cleaner & Booster",
+    "ratings": "4.5",
+    "downloads": "490M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Super Cleaner - Superior phone cleaner & Booster"
+    },
+    {
+      "name": "category",
+      "value": "Tools"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Multi Space UP"
+    },
+    {
+      "name": "Version",
+      "value": "1.0.10"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>Super Cleaner - Superior Phone Cleaner &amp; Booster</strong></p>\n<p><strong>Brief:</strong>\nBoost your phone's performance with Super Cleaner, the all-in-one utility that not only cleans up junk and optimizes your system but also brings a suite of features to enhance your device's operations. From cooling your CPU to saving precious battery life, Super Cleaner offers a superior experience to keep your phone running smoothly and your privacy intact.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🗑️ <strong>Junk Clean &amp; Phone Boost</strong>: Cleans out redundant files and boosts phone speed.</li>\n<li>🌡️ <strong>CPU Cooler</strong>: Reduces CPU usage and cools down the phone.</li>\n<li>🔋 <strong>Battery Saver</strong>: Extends battery life by halting power-intensive processes.</li>\n<li>🔒 <strong>App Lock</strong>: Secures your apps with a password or pattern lock.</li>\n<li>📋 <strong>Clipboard Manager</strong>: Prevents sensitive data leakage by clearing the clipboard cache.</li>\n<li>🔕 <strong>Notification Cleaner</strong>: Keeps your notification bar clean from spammy alerts.</li>\n<li>🆓 <strong>Completely Free</strong>: Offers all the above features at no cost.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 Speeds up your device by efficiently removing junk files.</li>\n<li>👍 Minimizes CPU heat for smoother performance.</li>\n<li>👍 Helps to conserve battery for prolonged usage.</li>\n<li>👍 Secure sensitive apps from prying eyes with the App lock feature.</li>\n<li>👍 Aids in managing privacy with clipboard and notification controls.</li>\n<li>👍 Free to use with no hidden charges.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 Might require frequent permissions which can be intrusive.</li>\n<li>👎 The efficiency of battery saving may vary depending on the device.</li>\n<li>👎 The possibility of false-positive identification of junk files.</li>\n<li>👎 App Lock feature could be bypassed by tech-savvy intruders.</li>\n<li>👎 Users may not want all features offered, leading to unused bloat.</li>\n</ul>\n<p><strong>Price:</strong>\n💵 Super Cleaner is available for free. </p>\n<p>For any questions or suggestions regarding Super Cleaner, you can contact the developers at [email protected]. Enhance your phone's capabilities effortlessly with Super Cleaner - your device, only faster and more secure!</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-antique-snap-identifier-appraisal/54309.html",
+      "icon": "assets/img/apk/icon/com.antique.snap.identifier.appraisal.png",
+      "name": "Antique Identifier - Appraisal",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-age-calculator-life-countdown/54243.html",
+      "icon": "assets/img/apk/icon/com.age.calculator.life.countdown.png",
+      "name": "Age Calculator・Life Expectancy",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.4"
+    },
+    {
+      "link": "/details/com-xv-agecalc/54237.html",
+      "icon": "assets/img/apk/icon/com.xv.agecalc.png",
+      "name": "AgeCalc: Date Life Calculator",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-palm-ai-decode-destiny-soul-futurelines-handline/54206.html",
+      "icon": "assets/img/apk/icon/com.palm.ai.decode.destiny.soul.futurelines.handline.png",
+      "name": "Palm AI: Decode Destiny",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/rbx-robuxcalc-getrbx-freecounter/53839.html",
+      "icon": "assets/img/apk/icon/rbx.robuxcalc.getrbx.freecounter.png",
+      "name": "RBX Calc - Get Robuxcounter",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-internetoptimizer-speedtest-wifispeedtest-netspeed-wifipassword-wifispeed/49027.html",
+      "icon": "assets/img/apk/icon/com.internetoptimizer.speedtest.wifispeedtest.netspeed.wifipassword.wifispeed.png",
+      "name": "Internet Optimizer",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.9"
+    },
+    {
+      "link": "/details/com-blazingappstudio-speed_test_pro/49021.html",
+      "icon": "assets/img/apk/icon/com.blazingappstudio.speed_test_pro.png",
+      "name": "Speed Test - Wifi Optimizer",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-secret-camera-hidden-detector/39728.html",
+      "icon": "assets/img/apk/icon/com.secret.camera.hidden.detector.png",
+      "name": "Hidden Camera & IR Detector",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    }
+  ]
+}

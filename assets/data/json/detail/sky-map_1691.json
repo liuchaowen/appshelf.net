@@ -1,0 +1,113 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.google.android.stardroid.png",
+    "title": "Sky Map",
+    "ratings": "4",
+    "downloads": "840M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Sky Map"
+    },
+    {
+      "name": "category",
+      "value": "Books & Reference"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Sky Map Devs"
+    },
+    {
+      "name": "Version",
+      "value": "1.10.0-RC3"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/VCBSdTsK8e4AIBFt_H81Gp9lPjXMKENV5IwmOGtFfJ4ZN64AxGDklMDpe3TXVsIS5g",
+    "https://play-lh.googleusercontent.com/Ag5QSMMtWqxi3UTFW7y239mT0khsMvBNPVqkdwuadr6Ar2vMV9vZFyzoHvGNOTNYWA0",
+    "https://play-lh.googleusercontent.com/veDf0tA3YTKBbavlTbITigF04iZ3lEKcNrZKwZJktCL8fn-cGLCW9Ifk-g8ICduZgw",
+    "https://play-lh.googleusercontent.com/_9FKlrlbRz4phkAIDqtsLAnl5Yi3WmLhh6Tv8KCuy2x5FWiMBlm-qfTqXvgET2F5x7E",
+    "https://play-lh.googleusercontent.com/PagtRs82S_uWgzGApzfQBg5iJmspg6H1ByPPq2qtctMufz2Nar4hxaj4aCh7-N4ahKk",
+    "https://play-lh.googleusercontent.com/ChobWjgx7U1l3tFoQr09IXlIXr-i7DtFy7Pmek1evqXOFOaZPhJ3SnW8EEvT_WlK-HA",
+    "https://play-lh.googleusercontent.com/yfX-_XD-YzNz1sKbA7vUgN_yEBXHpCzf8rHSxKDlUNbF-EID8hDfHvtmlYpczlF4UoM",
+    "https://play-lh.googleusercontent.com/S0mWOIoo9OnxNlP7_sgQuhp4m-tq-sA-4zxgJ7uQPmPpiI3rmZIqqkMU0ml-DWGidUA",
+    "https://play-lh.googleusercontent.com/E01joGlVkodgK91jqwi6oXlH9ChsE8Z93nihL8g5N1kXOYyE-CFRhZ8gyTJRxGM6rFEI"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> Sky Map<br/>\n<strong>Package Name:</strong> com.google.android.stardroid  </p>\n<hr/>\n<h3>Brief:</h3>\n<p>Sky Map is a stellar application that serves as a hand-held planetarium for your Android device. It allows you to identify stars, planets, nebulae, and more by using your phone's compass and GPS data. Developed by passionate astronomy enthusiasts, this app simplifies star gazing and enhances your celestial experience.</p>\n<h3>Core Features:</h3>\n<ul>\n<li>🌌 <strong>Stellar Identification:</strong> Point your device to the sky and get real-time mapping of the heavens in your hands. 📡</li>\n<li>🔭 <strong>Calibration Tools:</strong> Use the figure-eight calibration motion to ensure your compass is accurate for seamless star tracking. 🧲</li>\n<li>🔧 <strong>Customizable Settings:</strong> Tweak sensor speed and damping for an optimized view of the stars. 🛠️</li>\n<li>🗺️ <strong>Autolocation Support:</strong> Utilize GPS data or enter your coordinates manually to locate celestial bodies with precision. 📍</li>\n<li>🚀 <strong>Beta Testing Access:</strong> Join the beta program to test the latest features and contribute to future updates. 🧪</li>\n</ul>\n<h3>Pros:</h3>\n<ul>\n<li>👁️ <strong>Intuitive User Interface:</strong> The app is user-friendly, making navigation through the stars effortless. 🎨</li>\n<li>📴 <strong>Offline Functionality:</strong> No internet connection is required for stargazing, ensuring functionality in remote locations. 🌐</li>\n<li>🔄 <strong>Regular Updates:</strong> Ongoing improvements and feature enhancements keep the app at the forefront of astronomy apps. ⏫</li>\n<li>🗒️ <strong>Community Driven:</strong> By joining the beta or following development on GitHub, users can actively contribute to the app's development. 🤝</li>\n</ul>\n<h3>Cons:</h3>\n<ul>\n<li>🧭 <strong>Compass Issues:</strong> Magnetic interference can affect compass accuracy, requiring occasional calibration. 😵</li>\n<li>🤔 <strong>No Autolocation for Older Androids:</strong> Limited autolocation support on devices running Android versions below 6. 📴</li>\n<li>🌟 <strong>Potential Jitter:</strong> Some users may experience a trembling map which is currently being addressed with upcoming solutions. ✨</li>\n<li>🛠️ <strong>Manual Settings Needed:</strong> Certain features may require manual adjustment for precision, which might be cumbersome for some. ⚙️</li>\n</ul>\n<h3>Price:</h3>\n<ul>\n<li>💵 <strong>Free:</strong> Sky Map is available for users at no cost, with optional in-app beta testing for enthusiasts. 💸</li>\n</ul>\n<h3>Community:</h3>\n<ul>\n<li>🌐 <a href=\"https://github.com/sky-map-team/stardroid\" rel=\"noopener noreferrer\" target=\"_blank\">Official GitHub</a></li>\n<li>😊 <a href=\"https://www.facebook.com/groups/113507592330/\" rel=\"noopener noreferrer\" target=\"_blank\">Facebook Group</a></li>\n<li>📢 <a href=\"http://twitter.com/skymapdevs\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a></li>\n</ul>\n<hr/>\n<p>Sky Map empowers both amateur and experienced stargazers, bringing the wonders of the night sky to the palm of your hand. Whether you're out camping or simply admiring the sky from your backyard, Sky Map is your personal guide to the cosmos.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-spidevder-manipulation_dark_psychology/34778.html",
+      "icon": "assets/img/apk/icon/com.spidevder.manipulation_dark_psychology.png",
+      "name": "Manipulation dark psychology",
+      "categoryLink": "/en/categories/books.reference/4",
+      "category": "Books & Reference",
+      "rating": "3.4"
+    },
+    {
+      "link": "/details/com-ardasen-witchcraftspells_wicca/16964.html",
+      "icon": "assets/img/apk/icon/com.ardasen.witchcraftspells_wicca.png",
+      "name": "Witchcraft & Wicca Spells",
+      "categoryLink": "/en/categories/books.reference/4",
+      "category": "Books & Reference",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-redstone-guide-minecraft/16759.html",
+      "icon": "assets/img/apk/icon/com.redstone.guide.minecraft.png",
+      "name": "Redstone Guide with Tutorials",
+      "categoryLink": "/en/categories/books.reference/4",
+      "category": "Books & Reference",
+      "rating": "3.4"
+    },
+    {
+      "link": "/details/com-fmproject-lovella/16371.html",
+      "icon": "assets/img/apk/icon/com.fmproject.lovella.png",
+      "name": "Lovella - Novels & Audiobooks",
+      "categoryLink": "/en/categories/books.reference/4",
+      "category": "Books & Reference",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-jr-cdxs-ereader/16222.html",
+      "icon": "assets/img/apk/icon/com.jr.cdxs.ereader.png",
+      "name": "ReadNow - My CEO Daddy -Novels",
+      "categoryLink": "/en/categories/books.reference/4",
+      "category": "Books & Reference",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-embria-freefm/16221.html",
+      "icon": "assets/img/apk/icon/com.embria.freefm.png",
+      "name": "WhisperFM - Romance Novels",
+      "categoryLink": "/en/categories/books.reference/4",
+      "category": "Books & Reference",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-fmproject-moonlit-novels/16186.html",
+      "icon": "assets/img/apk/icon/com.fmproject.moonlit.novels.png",
+      "name": "MoonLit - Werewolf Novels",
+      "categoryLink": "/en/categories/books.reference/4",
+      "category": "Books & Reference",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-purplerobo-bookoftheanswers/14232.html",
+      "icon": "assets/img/apk/icon/com.purplerobo.bookoftheanswers.png",
+      "name": "The Book of Answers",
+      "categoryLink": "/en/categories/books.reference/4",
+      "category": "Books & Reference",
+      "rating": "3.7"
+    }
+  ]
+}

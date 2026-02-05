@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/events.socio.app1197.png",
+    "title": "CPAC 2021",
+    "ratings": "4.5",
+    "downloads": "640M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "CPAC 2021"
+    },
+    {
+      "name": "category",
+      "value": "Communication"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Socio Labs Inc"
+    },
+    {
+      "name": "Version",
+      "value": "16.0.0"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h3>CPAC 2021</h3>\n<p><strong>Brief:</strong>\nCPAC 2021, encapsulating the essence of political discourse, serves as a digital companion for attendees navigating the Conservative Political Action Conference. The app is designed to enrich the experience with schedules, networking opportunities, and seminal content, fostering an informed and engaged community.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🗓️ <strong>Event Scheduling:</strong> Access the complete event itinerary, with detailed session timings and locations.</li>\n<li>🤝 <strong>Networking:</strong> Connect with fellow attendees, speakers, and exhibitors through the app’s networking feature.</li>\n<li>📲 <strong>Real-Time Updates:</strong> Stay informed with live updates and announcements throughout the conference.</li>\n<li>🎞️ <strong>Multimedia Content:</strong> Delve into speeches, presentations, and exclusive content available within the app.</li>\n<li>💡 <strong>Interactive Sessions:</strong> Participate in Q&amp;As and discussions, and give feedback on sessions.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 <strong>Convenience:</strong> All event information is centralized within the app, making it easy to plan and navigate the conference.</li>\n<li>👍 <strong>Community Building:</strong> Facilitates connections between like-minded individuals and groups within the conservative community.</li>\n<li>👍 <strong>Engagement:</strong> In-app features encourage active participation and interaction among attendees.</li>\n<li>👍 <strong>Accessibility:</strong> Key conference material and sessions are accessible directly through the app.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 <strong>Specific Audience:</strong> Tailored exclusively for CPAC attendees, limiting its broader appeal.</li>\n<li>👎 <strong>Device Compatibility:</strong> May not be supported on all devices, which could exclude some participants.</li>\n<li>👎 <strong>Connectivity Dependency:</strong> Requires a stable internet connection to access live updates and interactive features.</li>\n<li>👎 <strong>Information Overload:</strong> The wealth of information can be overwhelming for first-time users.</li>\n</ul>\n<p><strong>Pricing:</strong>\n💵 The app is typically offered free of charge, designed to complement the experience of conference attendees.</p>\n<p>Since CPAC 2021 is not a game app, the community section is not included in this summary.</p>\n<hr/>\n<p><em>Please note that both the app and its contents are specific to the 2021 iteration of the Conservative Political Action Conference, and as such, information and features are subject to change based on annual updates and iterations of the conference.</em></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-sst-parrot-photo-frame/53901.html",
+      "icon": "assets/img/apk/icon/com.sst.parrot.photo.frame.png",
+      "name": "Bird Photo Frame",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-new_year-stickers-birthday/39669.html",
+      "icon": "assets/img/apk/icon/com.new_year.stickers.birthday.png",
+      "name": "Happy New Year Stickers 2026",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/org-watchduty-app/14524.html",
+      "icon": "assets/img/apk/icon/org.watchduty.app.png",
+      "name": "Watch Duty (Wildfire)",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-snowcorp-stickerly-android/14453.html",
+      "icon": "assets/img/apk/icon/com.snowcorp.stickerly.android.png",
+      "name": "Sticker.ly - Sticker Maker",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-Happynewyearphotoframe2020/14421.html",
+      "icon": "assets/img/apk/icon/com.Happynewyearphotoframe2020.png",
+      "name": "New Year Video Maker 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-intira-new-year-photo-frame-new/14342.html",
+      "icon": "assets/img/apk/icon/com.intira.new.year.photo.frame.new.png",
+      "name": "New year photo frame 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-christmas-photo-frame-b-new-free/14203.html",
+      "icon": "assets/img/apk/icon/com.christmas.photo.frame.b.new.free.png",
+      "name": "Christmas photo frame 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/ma-apps-face_ml/14137.html",
+      "icon": "assets/img/apk/icon/ma.apps.face_ml.png",
+      "name": "Face reader scanner - analyser",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "3.3"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/com.gianteagle.apps.perksapp.png",
+    "title": "GetGo",
+    "ratings": "2.8",
+    "downloads": "1B",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "GetGo"
+    },
+    {
+      "name": "category",
+      "value": "Food & Drink"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Giant Eagle"
+    },
+    {
+      "name": "Version",
+      "value": "6.0.1"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/0ceVNk3pDqaYutdQUV4Nepp0ppRlBNYfIqjy2IFxJBhPzi2u_q4wqjJv0qGab1EFgA",
+    "https://play-lh.googleusercontent.com/qBh1tuChzdFuRP6Ts9zFIZivvlHD_IhzFDtJThi2pQnWE72LXaipyuk6a9-V0vJ_oHU",
+    "https://play-lh.googleusercontent.com/79FZFckkCQVpB41rhdxF2jffAkKCR5Nt0QL4IHEkZGjnEJXYCvTJ05Aez_ZFBxczX2-5",
+    "https://play-lh.googleusercontent.com/qL1dwF96d4JmBca6Vwp27XldpJwNqi2cp7T9v22K_hfJNUUhrDqWbK4-7JQhuWtmvw",
+    "https://play-lh.googleusercontent.com/xSP9Uxy4kkr5UuoJevfPHH8HdIWTzOXg2W14K338GNqLunmgnZkkINzYRzRZvU78kwL6",
+    "https://play-lh.googleusercontent.com/Gt1U9cFFYyRrXFP4Ogf6IVODzFQmSmxqGBUnE5NB8DeLZCnt-tKOvhU8q_BsMQm6NKZA"
+  ],
+  "app_descript": "<p><strong>Brief:</strong>\nGet ready to elevate your grocery and gas perk experience with GetGo, the app designed to make shopping more convenient and rewarding. GetGo seamlessly blends the functionality of digital meal planning with the benefits of a rewards program, delivering a personalized shopping adventure right from your phone.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>💳 Seamless Advantage Card Integration: Link your card for an integrated shopping experience.</li>\n<li>🏷️ Exclusive Offers &amp; Promotions: Access top-tier deals only available through the app.</li>\n<li>🥪 Customized Ordering: Personalize meals and schedule pickups on-the-go.</li>\n<li>🍔 Extensive Menu Exploration: Browse through an impressive array of menu items.</li>\n<li>📱 Real-Time Order Tracking: Keep tabs on your order's progress effortlessly. </li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 Easy Account Access: Returning customers can quickly log in to find everything at their fingertips.</li>\n<li>👍 Swift Registration Process: New users can sign up promptly, with favorites automatically curated.</li>\n<li>👍 Perks Accumulation: Rack up rewards on gas and groceries to earn substantial savings.</li>\n<li>👍 App-Specific Discounts: Benefit from unique app-only deals to enhance your savings.</li>\n<li>👍 Favorited Items: Frequent buys are stored for expedited shopping experiences.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 Familiarity Needed: New users may require time to navigate and utilize all app functions.</li>\n<li>👎 Deal Dependency: Some users may find best savings are tied to app-exclusive offers.</li>\n<li>👎 Requires Consistent Use: To reap the full benefits, consistent use of the app is needed.</li>\n<li>👎 Account Requirement: A registered account is necessary to access and use the app features.</li>\n<li>👎 Physical Store Limitation: The convenience and savings are dependent on proximity to GetGo locations.</li>\n</ul>\n<p><strong>Price:</strong>\n💵 The GetGo app is free to download with no upfront costs. However, keep an eye out for any potential in-app purchases that could enhance the shopping experience.</p>\n<p>Download the <strong>GetGo</strong> App today and turn every shopping trip into a journey of culinary delight, unprecedented convenience, and rewarding savings!</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-buzzfeed-tasty/16927.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.buzzfeed.tasty.png",
+      "name": "Tasty",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-hacklatino-chingon-android/15837.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.hacklatino.chingon.android.png",
+      "name": "Hack Latino",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-postmates-android/4464.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.postmates.android.png",
+      "name": "Postmates - Food Delivery",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-seamlessweb-android-view/4463.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.seamlessweb.android.view.png",
+      "name": "Seamless: Local Food Delivery",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-trycaviar-customer/4462.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.trycaviar.customer.png",
+      "name": "Caviar - Order Food Delivery",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-chownow-discover/4461.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.chownow.discover.png",
+      "name": "ChowNow: Local Food Ordering",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-toasttab-consumer/4460.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.toasttab.consumer.png",
+      "name": "Toast Takeout & Delivery",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/menulog-au/3667.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.menulog.m.png",
+      "name": "Menulog AU",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.2"
+    }
+  ]
+}

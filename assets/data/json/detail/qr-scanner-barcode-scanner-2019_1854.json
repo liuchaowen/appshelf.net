@@ -1,0 +1,109 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.kitkats.qrscanner.png",
+    "title": "QR Scanner & Barcode Scanner 2019",
+    "ratings": "4.3",
+    "downloads": "390M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "QR Scanner & Barcode Scanner 2019"
+    },
+    {
+      "name": "category",
+      "value": "Productivity"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "1MB"
+    },
+    {
+      "name": "Version",
+      "value": "3.5.8"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/IpJEVpKR8jjjkWO9b2971vA8TPhRUyPy_OzetjU5fCHL5sicN5UeVxoRQNNB-mYH57bu",
+    "https://play-lh.googleusercontent.com/qGZNNFvANoaTOU80fJpu85MtL184fQ563JI1taWmzJhzOgMNyPwPnInLPiRucSFX2vA",
+    "https://play-lh.googleusercontent.com/73w7GWswQNNCbBFofgN_93lzqTPCeDhynkxv8LFwcVYM_kYLW802gNlLri4HCq6BHP4",
+    "https://play-lh.googleusercontent.com/JnlYx0A1ButWljBPg0PBqZFpZ8O3U8QXnBT3aexnz0D3Jn3aZxvEHRw29K-txokuCCg",
+    "https://play-lh.googleusercontent.com/Ln1etOgEFC9n-XOCVT-Yrsjgx_NwQNSWaokrVytvMrx7TbSLtuBI9-7WnwLX4Bm5daM"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> QR Scanner &amp; Barcode Scanner 2019<br/>\n<strong>App Package Name:</strong> com.kitkats.qrscanner</p>\n<h3>Brief:</h3>\n<p>The QR Scanner &amp; Barcode Scanner 2019 is an intuitive and user-friendly app designed to read and generate a variety of QR codes and barcodes. Whether you're looking to decode content like text, URLs, product details, or connect to a Wi-Fi network without a hassle, this app ensures simplicity and efficiency right from your pocket.</p>\n<h3>Core Features:</h3>\n<ul>\n<li>📖 <strong>QR Code Reader:</strong> Seamlessly scans all QR code types including text, URLs, contact info, and even Wi-Fi credentials 🌐</li>\n<li>🔍 <strong>Barcode Scanner:</strong> Instantly reads barcodes, presenting detailed product information at your fingertips 🛍️</li>\n<li>💡 <strong>Flashlight for Low-Light:</strong> Never miss a scan with an integrated flashlight for dim environments 🔦</li>\n<li>📶 <strong>Wi-Fi QR Support:</strong> Connects to Wi-Fi hotspots without needing to enter a password, using QR codes 📡</li>\n<li>🛠️ <strong>QR Code Generator:</strong> Creates QR codes for various content, with an option to save directly to your gallery 🎨</li>\n<li>📚 <strong>Scan History:</strong> Keeps track of all your scanned items for easy access and reference 🗂️</li>\n<li>🎯 <strong>User-Friendly Interface:</strong> Designed for ease of use, ensuring a seamless scanning experience for all users 👌</li>\n</ul>\n<h3>Pros:</h3>\n<ul>\n<li>👍 Versatility in scanning different types of QR codes and barcodes</li>\n<li>👍 Effectiveness in low-light situations with flashlight support</li>\n<li>👍 User convenience with Wi-Fi QR code scanning for quick connections</li>\n<li>👍 Ability to generate personal QR codes</li>\n</ul>\n<h3>Cons:</h3>\n<ul>\n<li>👎 May include ads which can disrupt the user experience</li>\n<li>👎 Performance may vary based on camera quality and lighting conditions</li>\n<li>👎 Limited functionality offline</li>\n<li>👎 Scan history may not have advanced management features</li>\n</ul>\n<h3>Pricing:</h3>\n<p>💵 The app is free to download, with potential in-app purchases or ads to support its services.</p>\n<p>(<a href=\"https://play.google.com/store/apps/details?id=com.kitkats.qrscanner\" rel=\"noopener noreferrer\" target=\"_blank\">Download QR Scanner &amp; Barcode Scanner 2019</a>)</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-takeofflabs-fontmaker/54188.html",
+      "icon": "assets/img/apk/icon/com.takeofflabs.fontmaker.png",
+      "name": "Fontmaker - Font Keyboard App",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-game-console-emulator/39577.html",
+      "icon": "assets/img/apk/icon/com.game.console.emulator.png",
+      "name": "Gamu: Retro Game Hub",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/app-itwingtech-power_of_mind-predicator/39340.html",
+      "icon": "assets/img/apk/icon/app.itwingtech.power_of_mind.predicator.png",
+      "name": "Mind Test: Test My Brain",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-pdfreader-pdfeditor-scandocu-pro-app-amb/16953.html",
+      "icon": "assets/img/apk/icon/com.pdfreader.pdfeditor.scandocu.pro.app.amb.png",
+      "name": "PDFPro: Scanner & Editor",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "3.8"
+    },
+    {
+      "link": "/details/ai-perplexity-app-android/16744.html",
+      "icon": "assets/img/apk/icon/ai.perplexity.app.android.png",
+      "name": "Perplexity - Ask Anything",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-safeshellvpn/16639.html",
+      "icon": "assets/img/apk/icon/com.safeshellvpn.png",
+      "name": "SafeShell VPN: Fast & Secure",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-roblox-skin-cloth-freeskins/16603.html",
+      "icon": "assets/img/apk/icon/com.roblox.skin.cloth.freeskins.png",
+      "name": "Clothes Skin For Roblox",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-underthing-focus-friend/16526.html",
+      "icon": "assets/img/apk/icon/com.underthing.focus.friend.png",
+      "name": "Focus Friend by Hank Green",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.7"
+    }
+  ]
+}

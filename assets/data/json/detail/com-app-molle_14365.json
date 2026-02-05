@@ -1,0 +1,107 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/com.app.molle.png",
+    "title": "Molle",
+    "ratings": "4.5",
+    "downloads": "1M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Molle"
+    },
+    {
+      "name": "category",
+      "value": "Events"
+    },
+    {
+      "name": "Price",
+      "value": "0"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Molle Social"
+    },
+    {
+      "name": "Version",
+      "value": "5.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/qu9iSpeBRd1DUc_Ii6uq_Jd9ETNl0QrhyJqk6C5dijvF0JlMEGUASp80PH5PPx9TLlE",
+    "https://play-lh.googleusercontent.com/hULRu82va7PSghnBFMNq1qWo5G1At-gZgVbA6b2Ah2wpbIsgK1Ec7ajzKnTHJ2YLGbAf",
+    "https://play-lh.googleusercontent.com/E_HcYA9ObWHjm-TDvmkC6U8uEsSFrFPWilQWwMHt7yer3Ixs2PEFQDF8_QO4Z4WcL0w"
+  ],
+  "app_descript": "<h1>Molle</h1>\n<p><strong>Brief</strong><br/>\nMolle is the ultimate app for organizing and discovering local events, making it a breeze to host unforgettable house parties and social gatherings. Whether you're planning a private get-together or seeking the next hot party, Molle connects you with experiences that match your vibe and location.</p>\n<h2>📌 Core Features</h2>\n<ul>\n<li><strong>Discover Events Near You:</strong> Easily browse and find events happening in your local area. 🎉</li>\n<li><strong>Host Events with Ease:</strong> Organize your party, invite guests, and manage all aspects effortlessly. 🥳</li>\n<li><strong>Manage Event Payments:</strong> Simplify handling payments for your events directly through the app after they take place. 💳</li>\n<li><strong>Personalized Recommendations:</strong> Receive tailored event suggestions based on your interests and preferences. 🎯</li>\n<li><strong>User-Friendly Interface:</strong> Enjoy a simple and intuitive experience, whether you're hosting or attending. 📲</li>\n</ul>\n<h2>👍 Pros</h2>\n<ul>\n<li>Streamlined event organization for hosts and attendees alike. 👍</li>\n<li>Ability to connect with new people and build social connections. 🤝</li>\n<li>Tailored experiences and recommendations enhance social planning. 🎊</li>\n<li>Hassle-free payment management for event finance. 💰</li>\n<li>Focus on creating meaningful and fun memories. 🥂</li>\n</ul>\n<h2>👎 Cons</h2>\n<ul>\n<li>Some users may prefer more extensive event categories or options. ⚖️</li>\n<li>Limited user base might restrict event availability in smaller areas. 🏙️</li>\n<li>May require additional features or integrations for larger events. 📅</li>\n<li>Users could face occasional bugs or glitches in the app. 🐞</li>\n<li>Need for consistent user engagement to ensure vibrant community events. 🚶</li>\n</ul>\n<h2>💵 Price</h2>\n<p>Molle is a <em>free app</em>, with potential in-app purchases available for enhanced features or services.</p>\n<p>Download Molle today and start making memories that last a lifetime!</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-twiny-app/16361.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.twiny.app.png",
+      "name": "Twiny - Find your twins",
+      "categoryLink": "/en/categories/events/11",
+      "category": "Events",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-liverymods-idulfitriphotoframes/14766.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.liverymods.idulfitriphotoframes.png",
+      "name": "Ramadan 2025 Photo Frames",
+      "categoryLink": "/en/categories/events/11",
+      "category": "Events",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-app-molle/14365.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.app.molle.png",
+      "name": "Molle",
+      "categoryLink": "/en/categories/events/11",
+      "category": "Events",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/invitation-maker-card-design/555.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.greetingsisland.sam.png",
+      "name": "Invitation maker & Card design",
+      "categoryLink": "/en/categories/events/11",
+      "category": "Events",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/lumiere-durham/471.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.lumiere.android.png",
+      "name": "Lumiere Durham",
+      "categoryLink": "/en/categories/events/11",
+      "category": "Events",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/carnival-fun-pass/470.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.sendrato.cashless.visitor.ras2022.png",
+      "name": "Carnival Fun Pass",
+      "categoryLink": "/en/categories/events/11",
+      "category": "Events",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/gametime/469.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.gametime.gametime.png",
+      "name": "Gametime",
+      "categoryLink": "/en/categories/events/11",
+      "category": "Events",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/stampede-app/467.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.ceasl.calgarystampede.png",
+      "name": "Stampede App",
+      "categoryLink": "/en/categories/events/11",
+      "category": "Events",
+      "rating": "4.4"
+    }
+  ]
+}

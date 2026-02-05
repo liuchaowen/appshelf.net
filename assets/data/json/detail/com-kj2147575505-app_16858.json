@@ -1,0 +1,108 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.kj2147575505.app.png",
+    "title": "Alpha Omega Consulting",
+    "ratings": "4.5",
+    "downloads": "0M",
+    "age": "4+",
+    "download_link": "https://d.apkpure.com/b/APK/com.kj2147575505.app?version=latest"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Alpha Omega Consulting"
+    },
+    {
+      "name": "category",
+      "value": "Business"
+    },
+    {
+      "name": "Price",
+      "value": "0"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Alpha Omega Consulting Developer Account"
+    },
+    {
+      "name": "Version",
+      "value": "10"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/3ae3ftjhWsQgjreLgIYuBFYA41lIMBZcWfRfQwdnkIIyE5J9enCXDlIOlwypzOMSNQ",
+    "https://play-lh.googleusercontent.com/tedzhr19IQU7mqRTu9TBXjHbaeyz6d9ryeZj7ViKETC4-E2IH-hAnMbxpc6q_aoFBkI",
+    "https://play-lh.googleusercontent.com/tH-KQMgEcd16F_J0mg56KweYWkZYKOCkkBHMSifsgKLhvek7mCxvDMqhUHBaAMWDOg"
+  ],
+  "app_descript": "<h1>Alpha Omega Consulting</h1>\n<p><strong>Brief:</strong><br/>\nAlpha Omega Consulting empowers users with a seamless video streaming experience, keeping them updated with the latest features and content. Ideal for those who prioritize smooth playback and instant notifications, this app enhances your entertainment landscape.</p>\n<h3>📌 Core Features:</h3>\n<ul>\n<li><strong>Effortless Video Streaming:</strong> Enjoy smooth video playback with customizable quality and speed for a tailored viewing experience. 🎥</li>\n<li><strong>Auto-Refresh:</strong> The app automatically updates, ensuring you have access to the latest features and content without manual intervention. 🔄</li>\n<li><strong>Push Alerts:</strong> Stay informed with instant notifications about new content and significant updates, keeping you in the loop. 📬</li>\n</ul>\n<h3>👍 Pros:</h3>\n<ul>\n<li>User-friendly interface that enhances your streaming experience. ✨</li>\n<li>High customization options for video quality and speed. ⚙️</li>\n<li>Quick updates ensure the relevance of content available. ⏱️</li>\n<li>Useful notification system keeps you aware of important changes. 🔔</li>\n</ul>\n<h3>👎 Cons:</h3>\n<ul>\n<li>May require a stable internet connection for optimal video streaming. 📶</li>\n<li>Limited features compared to specialized video apps. 🔒</li>\n<li>Push alerts can become overwhelming if not managed properly. 🚨</li>\n<li>The app may occasionally have bugs that disrupt functionality. 🐞</li>\n</ul>\n<h3>💵 Price:</h3>\n<p>The app is free to download, but check for in-app purchases that may offer additional features.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-kj2147575505-app/16858.html",
+      "icon": "assets/img/apk/icon/com.kj2147575505.app.png",
+      "name": "Alpha Omega Consulting",
+      "categoryLink": "/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-hypertide-petscan-v8m/15982.html",
+      "icon": "assets/img/apk/icon/com.hypertide.petscan.v8m.png",
+      "name": "PetScan",
+      "categoryLink": "/categories/business/5",
+      "category": "Business",
+      "rating": "2"
+    },
+    {
+      "link": "/details/com-animalid-scanner/15981.html",
+      "icon": "assets/img/apk/icon/com.animalid.scanner.png",
+      "name": "Pet Scanner",
+      "categoryLink": "/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-webrange-sendoff-app/15417.html",
+      "icon": "assets/img/apk/icon/com.webrange.sendoff.app.png",
+      "name": "Sendoff Funeral App",
+      "categoryLink": "/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-dyve-countthings/10295.html",
+      "icon": "assets/img/apk/icon/com.dyve.countthings.png",
+      "name": "CountThings from Photos",
+      "categoryLink": "/categories/business/5",
+      "category": "Business",
+      "rating": "3"
+    },
+    {
+      "link": "/details/com-countthis-count-things-counting-template-counter/5097.html",
+      "icon": "assets/img/apk/icon/com.countthis.count.things.counting.template.counter.png",
+      "name": "Count This・Counting Things App",
+      "categoryLink": "/categories/business/5",
+      "category": "Business",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-aadi-personalitytraittest/4991.html",
+      "icon": "assets/img/apk/icon/com.aadi.personalitytraittest.png",
+      "name": "Personality Trait Test",
+      "categoryLink": "/categories/business/5",
+      "category": "Business",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/GlowRoad/4569.html",
+      "icon": "assets/img/apk/icon/com.localqueen.png",
+      "name": "GlowRoad",
+      "categoryLink": "/categories/business/5",
+      "category": "Business",
+      "rating": "4.6"
+    }
+  ]
+}

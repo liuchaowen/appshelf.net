@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.lge.mobilemigration.png",
+    "title": "LG Mobile Switch",
+    "ratings": "4.6",
+    "downloads": "890M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "LG Mobile Switch"
+    },
+    {
+      "name": "category",
+      "value": "Tools"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "LG Electronics, Inc."
+    },
+    {
+      "name": "Version",
+      "value": "4.3.05"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> LG Mobile Switch<br/>\n<strong>Package Name:</strong> com.lge.mobilemigration</p>\n<hr/>\n<h3>Brief:</h3>\n<p>LG Mobile Switch is an app designed for Android™ device owners looking to seamlessly transfer their data to a new LG smartphone. It offers the convenience of moving various types of data, including personal media, contacts, messages, and more, through wireless or wired transfers from one device to another.</p>\n<h3>Core Features: 🌟</h3>\n<ul>\n<li><strong>Device-to-Device Transfer:</strong> Enables wireless and wired OTG transfers of data from your old Android device to your new LG phone.</li>\n<li><strong>Multiple Data Types:</strong> Supports the migration of photos, videos, music, text messages, contacts, call logs, documents, calendar details, apps, and voice memos.</li>\n<li><strong>Broad Compatibility:</strong> Works with old Android devices running on Android 4.1 or higher and recent LG devices with specific support for Wi-Fi or wired transfers.</li>\n<li><strong>LG Backup Integration:</strong> Incorporates the older LG Backup (Sender) functionality for a smooth transition to newer LG models. 🔄</li>\n</ul>\n<h3>Pros: 👍</h3>\n<ul>\n<li><strong>Ease of Use:</strong> Simplified process makes data transfer user-friendly.</li>\n<li><strong>Comprehensive Data Migration:</strong> Transfers a wide range of data types from your old device to your new one.</li>\n<li><strong>No Data Cable Needed:</strong> Offers the convenience of transferring data wirelessly, eliminating the need for cables.</li>\n<li><strong>Free to Use:</strong> Provided without any charge for LG smartphone users looking to upgrade their phones. 💸</li>\n</ul>\n<h3>Cons: 👎</h3>\n<ul>\n<li><strong>Limited by Device:</strong> Transfer capabilities might be restricted based on the manufacturer/model of the old device.</li>\n<li><strong>LG Specific:</strong> Primarily designed to work with LG smartphones, which may not suit non-LG device users.</li>\n<li><strong>Compatibility Issues:</strong> Requires both old and new devices to meet certain Android version criteria and model specifications.</li>\n<li><strong>Potential Function Limitation:</strong> Some functionality may not be available, depending on the old device’s features and settings. 📱</li>\n</ul>\n<h3>Price: 💵</h3>\n<p>LG Mobile Switch is available as a free app for users upgrading to a new LG device. There are no costs associated with downloading or using the app for data transfer.</p>\n<hr/>\n<p>Crafted with exceptional care, the LG Mobile Switch app serves as a valuable tool for anyone upgrading to a new LG phone, ensuring a hassle-free transfer of their cherished data.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-antique-snap-identifier-appraisal/54309.html",
+      "icon": "assets/img/apk/icon/com.antique.snap.identifier.appraisal.png",
+      "name": "Antique Identifier - Appraisal",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-age-calculator-life-countdown/54243.html",
+      "icon": "assets/img/apk/icon/com.age.calculator.life.countdown.png",
+      "name": "Age Calculator・Life Expectancy",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.4"
+    },
+    {
+      "link": "/details/com-xv-agecalc/54237.html",
+      "icon": "assets/img/apk/icon/com.xv.agecalc.png",
+      "name": "AgeCalc: Date Life Calculator",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-palm-ai-decode-destiny-soul-futurelines-handline/54206.html",
+      "icon": "assets/img/apk/icon/com.palm.ai.decode.destiny.soul.futurelines.handline.png",
+      "name": "Palm AI: Decode Destiny",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/rbx-robuxcalc-getrbx-freecounter/53839.html",
+      "icon": "assets/img/apk/icon/rbx.robuxcalc.getrbx.freecounter.png",
+      "name": "RBX Calc - Get Robuxcounter",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-internetoptimizer-speedtest-wifispeedtest-netspeed-wifipassword-wifispeed/49027.html",
+      "icon": "assets/img/apk/icon/com.internetoptimizer.speedtest.wifispeedtest.netspeed.wifipassword.wifispeed.png",
+      "name": "Internet Optimizer",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.9"
+    },
+    {
+      "link": "/details/com-blazingappstudio-speed_test_pro/49021.html",
+      "icon": "assets/img/apk/icon/com.blazingappstudio.speed_test_pro.png",
+      "name": "Speed Test - Wifi Optimizer",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-secret-camera-hidden-detector/39728.html",
+      "icon": "assets/img/apk/icon/com.secret.camera.hidden.detector.png",
+      "name": "Hidden Camera & IR Detector",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    }
+  ]
+}

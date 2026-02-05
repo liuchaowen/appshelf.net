@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.unearby.sayhi.png",
+    "title": "SayHi",
+    "ratings": "4.4",
+    "downloads": "720M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "SayHi"
+    },
+    {
+      "name": "category",
+      "value": "Social"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "UNearby"
+    },
+    {
+      "name": "Version",
+      "value": "8.78"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>Brief:</strong>\nSayHi is a versatile social interaction and dating application designed to bring people together through a variety of communication methods. Whether you're looking to make new friends, find the perfect partner, or simply interact and share moments, SayHi offers a dynamic platform to connect with individuals worldwide.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li><strong>Video Chatting:</strong> Engage in real-time face-to-face conversations with others. 📹</li>\n<li><strong>Expressive Messaging:</strong> Send text messages accompanied by fun emojis, voice messages, and photos. 💬</li>\n<li><strong>Personalized Interaction:</strong> Gift others exquisite items, or upload and share your own videos to capture and spread special moments. 🎁</li>\n<li><strong>Dynamic Plugins:</strong> Enhance your user experience by customizing the app's look, sending animated emojis, and accessing new features regularly. 🎨</li>\n<li><strong>Status Tracking:</strong> Keep informed on delivery and read receipts of your messages to stay updated on your interactions. ✅</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li><strong>Diverse Communication Options:</strong> A wide range of contact methods caters to various preferences. 👌</li>\n<li><strong>User Profiles &amp; Proximity:</strong> Access profiles to find like-minded people nearby and establish meaningful connections. 📍</li>\n<li><strong>Updateable Experience:</strong> A continuous addition of new features keeps the platform fresh and engaging. 🔄</li>\n<li><strong>Easy Social Media Integration:</strong> Log in quickly using Facebook or Twitter accounts for a streamlined experience. 🔗</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li><strong>Privacy Concerns:</strong> As with any online social application, users should be mindful of their personal information. 🔒</li>\n<li><strong>Potential for In-App Purchases:</strong> While SayHi is free, some features may require payment, which could add up. 💸</li>\n<li><strong>Internet Dependence:</strong> A stable internet connection is crucial for an uninterrupted experience. 🌐</li>\n<li><strong>Overwhelming Variety:</strong> New users might feel overwhelmed by the plethora of features and plugins available. 🤯</li>\n<li><strong>Ads Intrusion:</strong> The presence of ads can be somewhat disruptive to the user experience. 🚫</li>\n</ul>\n<p><strong>Price:</strong>\nSayHi is a free-to-download messenger and dating app, which may include optional in-app purchases for premium features. 💵</p>\n<p><strong>Community:</strong></p>\n<ul>\n<li>Official site: <a href=\"https://www.sayhi.social/\" rel=\"noopener noreferrer\" target=\"_blank\">SayHi</a></li>\n<li>YouTube: Not available.</li>\n<li>Popular YouTuber's channel: Not available.</li>\n<li>Instagram: Not available.</li>\n<li>Twitter: <a href=\"https://twitter.com/SayHiOfficial\" rel=\"noopener noreferrer\" target=\"_blank\">SayHi</a></li>\n<li>Discord: Not available.</li>\n<li>Facebook: <a href=\"https://www.facebook.com/SayHiApp\" rel=\"noopener noreferrer\" target=\"_blank\">SayHi</a></li>\n<li>TikTok: Not available.</li>\n<li>Reddit and Fandom Wiki Site: Not available.</li>\n</ul>\n<p>SayHi is the perfect match for those eager to dive into new friendships, dating possibilities, and social fun, all in a single app. With the comprehensive features it offers, the app promises to be a dynamic platform for exciting personal connections. Embrace the world of SayHi, where meeting new people is just a chat away.</p>",
+  "related_apps": [
+    {
+      "link": "/details/jp-cocone-livly/54171.html",
+      "icon": "assets/img/apk/icon/jp.cocone.livly.png",
+      "name": "Livly Island - Adopt Cute Pets",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-daily-festival-photos/39721.html",
+      "icon": "assets/img/apk/icon/com.daily.festival.photos.png",
+      "name": "Daily Festival Photo",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/tv-medal-recorder/39573.html",
+      "icon": "assets/img/apk/icon/tv.medal.recorder.png",
+      "name": "Medal - Gaming Clips",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-ptanktechnology-reincornation/39352.html",
+      "icon": "assets/img/apk/icon/com.ptanktechnology.reincornation.png",
+      "name": "Reincarnation",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-tiktok-lite-go/15392.html",
+      "icon": "assets/img/apk/icon/com.tiktok.lite.go.png",
+      "name": "TikTok Lite - Faster TikTok",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-petmeetly/15275.html",
+      "icon": "assets/img/apk/icon/com.petmeetly.png",
+      "name": "Petmeetly - Pet's Match Finder",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-xingin-xhs/14603.html",
+      "icon": "assets/img/apk/icon/com.xingin.xhs.png",
+      "name": "REDnote—小红书国际版",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-stdev-dissordap/10395.html",
+      "icon": "assets/img/apk/icon/com.stdev.dissordap.png",
+      "name": "Vote Social - Photo Voting VS",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "3.8"
+    }
+  ]
+}

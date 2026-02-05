@@ -1,0 +1,110 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.crrepa.band.dafit.png",
+    "title": "Da Fit",
+    "ratings": "3.8",
+    "downloads": "270M",
+    "age": "4+",
+    "download_link": "https://d.apkpure.com/b/APK/com.crrepa.band.dafit?version=latest"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Da Fit"
+    },
+    {
+      "name": "category",
+      "value": "Sports"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "CRREPA"
+    },
+    {
+      "name": "Version",
+      "value": "v2.5.3-35-g4b0e3bec0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/o-SEQETk9QA2fXw-6O1G5GMbg4cRLmqhfP2Q8mafWeLI5h0l-Q2rsi_gtz2nHdg5KZ4",
+    "https://play-lh.googleusercontent.com/1JTbBcsnqeKekYXrCSn6972igHQikGek7Wmt-nQGSHT9K-LXBA3T73Fi7OSVdaroXBY",
+    "https://play-lh.googleusercontent.com/hu1n7t_3iPFFMpwNCpoenlDdSdEhoP0frFGh4eZJ1qE5PSEWm8ZFJRXGt9YiRt7rSeQ",
+    "https://play-lh.googleusercontent.com/pUgcAVzBRVXt4WfX9uN56slKdoFIX1h62FNzldf8qiL7kFMIfm71dENuC7BIO05nzxCD",
+    "https://play-lh.googleusercontent.com/hTDxfpx--MkbDMKnOz-Y5VMcoxeeVOaVTQuTdD0AuyOzEw1z0vi5xJezb7Sb5Y1m1xU"
+  ],
+  "app_descript": "<h3>Brief</h3>\n<p>Da Fit is a user-friendly application designed to enhance your experience with smart wearables. It helps you manage your fitness activities, monitor health data, and customize your device settings. Its intuitive interface bridges the gap between your smartwatch or fitness band and your mobile device, providing a seamless integration of technology into your daily workout routine.</p>\n<h3>Core Features</h3>\n<ul>\n<li>🏃 <strong>Health and Fitness Tracking</strong>: Monitor your steps, heart rate, and sleep patterns to stay on top of your health.</li>\n<li>📲 <strong>Device Customization</strong>: Personalize watch faces and set up alarm alerts to suit your preferences.</li>\n<li>🔔 <strong>Notifications</strong>: Receive calls, messages, and app alerts right on your wrist.</li>\n<li>📊 <strong>Data Analysis</strong>: Detailed reports for understanding and improving your fitness regime.</li>\n<li>💧 <strong>Water and Sedentary Reminder</strong>: Helps you to stay hydrated and prompts you to move if you've been inactive. ⏱️</li>\n</ul>\n<h3>Pros</h3>\n<ul>\n<li>👍 Seamless connectivity with a variety of smart devices.</li>\n<li>👍 User-friendly interface that's easy to navigate.</li>\n<li>👍 In-depth tracking features allow for comprehensive health management.</li>\n<li>👍 Customizable alerts and notifications keep you informed without the need to check your phone.</li>\n<li>👍 The app helps promote a healthy lifestyle through its reminders and fitness tracking. 🚴</li>\n</ul>\n<h3>Cons</h3>\n<ul>\n<li>👎 May have compatibility issues with certain smartphone models.</li>\n<li>👎 The accuracy of health tracking can sometimes vary between devices.</li>\n<li>👎 Limited smartwatch or band models supported, which could exclude some users.</li>\n<li>👎 Some users report syncing problems, which might require troubleshooting.</li>\n<li>👎 Potential for improvement in the variety of watch faces available. ⌚</li>\n</ul>\n<h3>Price</h3>\n<p>💵 Da Fit is a free app with no initial cost, offering most features without extra charges. However, there may be additional costs associated with the smart wearable devices it supports.</p>\n<p>[Please note that the 'Community' section is not applicable as Da Fit is a non-game app.]</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-firsttouchgames-dls7/39530.html",
+      "icon": "assets/img/apk/icon/com.firsttouchgames.dls7.png",
+      "name": "Dream League Soccer 2025",
+      "categoryLink": "/categories/sports/45",
+      "category": "Sports",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-ea-gp-tacticalfootball/39509.html",
+      "icon": "assets/img/apk/icon/com.ea.gp.tacticalfootball.png",
+      "name": "EA SPORTS FC™ Tactical",
+      "categoryLink": "/categories/sports/45",
+      "category": "Sports",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-Dino-GalaxySoccer/39364.html",
+      "icon": "assets/img/apk/icon/com.Dino.GalaxySoccer.png",
+      "name": "Galaxy Soccer :Rematch 3v3",
+      "categoryLink": "/categories/sports/45",
+      "category": "Sports",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-espn-score_center/16830.html",
+      "icon": "assets/img/apk/icon/com.espn.score_center.png",
+      "name": "ESPN",
+      "categoryLink": "/categories/sports/45",
+      "category": "Sports",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-gymclassvr/16685.html",
+      "icon": "assets/img/apk/icon/com.gymclassvr.png",
+      "name": "Gym Class VR: Companion App",
+      "categoryLink": "/categories/sports/45",
+      "category": "Sports",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/com-vividgames-realboxing2/16683.html",
+      "icon": "assets/img/apk/icon/com.vividgames.realboxing2.png",
+      "name": "Real Boxing 2",
+      "categoryLink": "/categories/sports/45",
+      "category": "Sports",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-ea-gp-maddennfl21mobile/16482.html",
+      "icon": "assets/img/apk/icon/com.ea.gp.maddennfl21mobile.png",
+      "name": "Madden NFL 26 Mobile Football",
+      "categoryLink": "/categories/sports/45",
+      "category": "Sports",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-doubletapsoftware-soccer-realtime-sports/16412.html",
+      "icon": "assets/img/apk/icon/com.doubletapsoftware.soccer.realtime.sports.png",
+      "name": "Soccer Battle -  PvP Football",
+      "categoryLink": "/categories/sports/45",
+      "category": "Sports",
+      "rating": "4.3"
+    }
+  ]
+}

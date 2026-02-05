@@ -1,0 +1,128 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/com.bose.bosemusic.png",
+    "title": "Bose Music",
+    "ratings": "4.3",
+    "downloads": "10M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Bose Music"
+    },
+    {
+      "name": "category",
+      "value": "Music & Audio"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Bose Corporation"
+    },
+    {
+      "name": "Version",
+      "value": "7.1.5"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/yo6dLdQIEvtVZhsdbtVXNAQWqdRX5t-FjAskNtjhrhmMwOPy5Oq8ogh9Uim4YieG1w",
+    "https://play-lh.googleusercontent.com/PIEnrayf6keDCav3sAaIeJ3WwI-7Ln4_e4RzH1c5kGGj1PIYdLd0fS80vFgqspxIDBI",
+    "https://play-lh.googleusercontent.com/aQxq_yPGB8lgrEEviLlwBJ-MsR_KrHJ_vq5fjwegmJENHHbi54Hka5BW2UBmqUNtbTk",
+    "https://play-lh.googleusercontent.com/bH8Al1VI-BLaAsFqA4GgLQiwG4XmFkmXu1ByqowggGe_xtG5FjqX---XX8mynlwGqg",
+    "https://play-lh.googleusercontent.com/n1oD6jSW45Ibe3hCt0LtLyhaUcfg6P_utebQx-s_SEsyukC8fcaNbULce-tFxx6K7i68",
+    "https://play-lh.googleusercontent.com/vV3mQz-JEeo8jyDtc7BIs8lpJEZEEyzEacdfZAlntigrikQJcfrI8L621moWGvAOWcCx",
+    "https://play-lh.googleusercontent.com/4x3zNPWSaqEDM9fO5FHKVTdamVYOimbbFqDMpX6LGgiralY4UkSlpdll269FjvgFdQ",
+    "https://play-lh.googleusercontent.com/S5I38QkpqrqOlKNodMetGEjHPnjEiES4Xc1g25N6zPyokbj4Dpx2EgE9Q_HozR6gZw",
+    "https://play-lh.googleusercontent.com/O3IpsvOg3q2IDYRnbGj8WEeKB48_op7tRPwfF0HQ_8le-nSBfk7lljBPlmj3_j-qVMw",
+    "https://play-lh.googleusercontent.com/wuscCXZJfv8EIAwANkG2ri8w-ZKXKZUwvZyUpykFNUsI4drLsODfkw6F9Nxp2lvMsEw",
+    "https://play-lh.googleusercontent.com/zv7Fjy3uxwnt7EkxJq7kTNpjn3QBnBaiiXY_I_7vWMSynntBaIqZrYeR0HPiK9AKfa4",
+    "https://play-lh.googleusercontent.com/hdyfy2Zqn58sB4XMKS2C4royQ7-FXrwpgAzA4YvQVKXHWerwnymhg3xp1JSGxNv0sLAd",
+    "https://play-lh.googleusercontent.com/f-yq_8qY7s02oPaty-aQqPNZ_IPGcVgbBDoE8scH3sKU0n8pkH3gBk3rDPKQBGHLwg",
+    "https://play-lh.googleusercontent.com/GoiVYxn5uWSgb599hZanNZKgH0J7QljF0xseE56LpEF6Syh5TKBXMXd_zMmFp4DUqO2y",
+    "https://play-lh.googleusercontent.com/fdHMdwC6dJadStajYxRihkLJegGSGQ0Qm-Hy1bHDRZ9ipfQuO_ZP5e1_gOUUyrr-Vts",
+    "https://play-lh.googleusercontent.com/Muh1yb1fJNop9dFCYHFNUd1LH6GaYrEYeTUpcjX2hjXpaoXPjUAggf_VIVIDBbqgUg",
+    "https://play-lh.googleusercontent.com/IOb5ODONfskD0rLkD-EAjn62pU7c4X0caeGCszoA_QeDFSLhl_wwIQdRzaWGza2189c",
+    "https://play-lh.googleusercontent.com/RmBM1kFmkQMUTGwyMOGp7YEDsJz4cSm6rRtjJZBOH9FlshpSvnIM6pIU_B4I8LjgHQ",
+    "https://play-lh.googleusercontent.com/C5EjSPbGx6w9B0HHHa4qFMJe4fsrcMmyO97LqAntNNcAzlTGzJiixOlIDngJzQr8SSGW",
+    "https://play-lh.googleusercontent.com/5OglDic-4ajdUecReZ7mmLL18DaaCQOa7euju7VPMSaAcNDy7_V_TGWAwXp4TXMlpwA",
+    "https://play-lh.googleusercontent.com/qznViWwz0XFyRhc-7Sz1tuSjzcrRyJCh4zIi52HJ4K4YlIhLKDiSjWscHJT--mjIh44",
+    "https://play-lh.googleusercontent.com/v8Y1tR1PgDLsrhhPNgreguW2fHbRJfGjbzn7mHHBcrFPZThsBAq6FGb6CQV8iGuldMo",
+    "https://play-lh.googleusercontent.com/hbsZzUMj4IRjRAeaOdAW0JmP5UheVfbMA206u2OLKLVXUY4ohHZ3EEof8I4EPjAfiQs",
+    "https://play-lh.googleusercontent.com/FSoqysIEZ2piK0FH_yU3SDaLMQWAVjcJS-MERWsQvuGHrunvzYwJIba22ZMjRHiT-zw"
+  ],
+  "app_descript": "<p><strong>Bose Music</strong></p>\n<p><strong>Brief:</strong>\nDiscover the ultimate sound experience with the Bose Music app. Experience seamless browsing while playing music through various services such as Spotify®, Pandora®, Amazon Music, and more. Elevate your home's ambiance with preset tunes and take full control of multiple Bose smart products, all through this single app. Not to mention, you can personalize your listening experience with adjustable noise cancellation on select Bose headphones and earbuds.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🎶 <strong>Integrated Music Services</strong>: Enjoy Spotify®, Pandora®, Amazon Music, and more without ever leaving the app.</li>\n<li>🌐 <strong>One-Touch Presets</strong>: Easily set and access your favorite playlists or stations, and control your Bose smart speakers or soundbar with a single touch.</li>\n<li>🔊 <strong>Multi-Room Audio Control</strong>: Manage audio across different rooms, choosing to play the same or different tracks on multiple Bose devices.</li>\n<li>🎧 <strong>Customizable Noise Cancellation</strong>: Tailor your listening on the Headphones 700, QuietComfort 45, and Earbuds, including special modes for varying noise cancelling levels.</li>\n<li>🗣️ <strong>Voice Assistant Access</strong>: Quickly connect to Amazon Alexa, Google Assistant, or your phone's native assistant on compatible headphone models.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 <strong>User-Friendly Interface</strong>: Navigate and control your listening experience with ease.</li>\n<li>👍 <strong>Synchronized Audio Playback</strong>: Enjoy consistent music throughout your home or tailor it to each room.</li>\n<li>👍 <strong>Personalized Listening Modes</strong>: Adaptable noise cancellation and environment modes enhance audio for every situation.</li>\n<li>👍 <strong>Voice Control Integration</strong>: Stay hands-free with easy voice assistant activation for convenient commands.</li>\n<li>👍 <strong>Quality Sound</strong>: Bose's trademark sound quality is integral to the app's connected devices.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 <strong>Network Dependency</strong>: Requires a stable home Wi-Fi network and Internet access for full functionality.</li>\n<li>👎 <strong>Compatibility Restrictions</strong>: Not all features are available on every Bose device, limiting some user experiences.</li>\n<li>👎 <strong>Service Availability</strong>: The features for music and voice services may vary by location and availability.</li>\n<li>👎 <strong>Potential Learning Curve</strong>: New users may need some time to familiarize themselves with all the app's features and capabilities.</li>\n<li>👎 <strong>App-Specific</strong>: Designed to manage Bose products and may not integrate with other brands' audio devices.</li>\n</ul>\n<p><strong>Price:</strong></p>\n<ul>\n<li>💵 The Bose Music app is free to download, though it connects to various subscription-based services that may have their own costs.</li>\n</ul>\n<p>Enjoy a rich, interactive audio experience with the Bose Music app that seamlessly integrates music services, presets, and smart home control, all while providing the exemplary sound quality Bose is renowned for.</p>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-simmusic-oldjpop/49056.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.simmusic.oldjpop.png",
+      "name": "昭和の名曲 - 70年代/80年代名曲, 昭和の歌謡曲",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-bigsoft-voicereverse-audiochanger/39378.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.bigsoft.voicereverse.audiochanger.png",
+      "name": "Funny Voice Reverse",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "3.1"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-realdrum-drumset-drumapp-beatmaker-music-instruments-drumkit/16783.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.realdrum.drumset.drumapp.beatmaker.music.instruments.drumkit.png",
+      "name": "Learn Drum - Pad & Beat Maker",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.3"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-musicplayer-mp3-audio-mymusic-player/15795.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.musicplayer.mp3.audio.mymusic.player.png",
+      "name": "Music Player & MP3 - MMusic",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.8"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-ai-sound-donna/15626.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.ai.sound.donna.png",
+      "name": "Donna AI Song & Music Maker",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.7"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-vanniktech-rssreader/15328.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.vanniktech.rssreader.png",
+      "name": "RSS Reader Offline | Podcast",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-voicechanger-supereffect-soundeffect/14158.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.voicechanger.supereffect.soundeffect.png",
+      "name": "Voice Changer: Audio Effect",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/org-cru-womans-herbible/14124.html",
+      "icon": "https://img.buzzsight.co/apk/icon/org.cru.womans.herbible.png",
+      "name": "her.BIBLE Women's Audio Bible",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    }
+  ]
+}

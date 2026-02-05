@@ -1,0 +1,107 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.physitrack.physiapp.png",
+    "title": "PhysiApp®",
+    "ratings": "4.7",
+    "downloads": "640M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "PhysiApp®"
+    },
+    {
+      "name": "category",
+      "value": "Health & Fitness"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Physitrack Limited"
+    },
+    {
+      "name": "Version",
+      "value": "3.3.4"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/_bAAbFT5UOqy059noPNQtmDtA-67CIDVZmCwfkTCZQo9IRKp7iU_TfIZWopM8bo9D80",
+    "https://play-lh.googleusercontent.com/asVPmHYe_4NK6lroiqDCYBd0i2XLKTbx-UUIT15CVjYixA1enKcW4JJP0qNpKF14kKA",
+    "https://play-lh.googleusercontent.com/yjJMo0OnHNhF2LvCrvrRb5EWXiboO8-94bkUGZk6toNz2_rXSKkBk5kmRD7_87V6TPs"
+  ],
+  "app_descript": "<p><strong>PhysiApp®</strong></p>\n<p><strong>Brief:</strong>\nPhysiApp® revolutionizes the way patients follow their exercise prescriptions with a seamless connection to their healthcare providers. Say goodbye to confusion and hello to clarity with exercises that are meticulously outlined for you. With built-in feedback features, track your exercise completion and pain levels, ensuring your physiotherapist or chiropractor stays in the loop for personalized care.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🎥 <strong>Detailed Exercise Visuals:</strong> Access high-definition videos demonstrating your prescribed exercises, ensuring you perform them correctly.</li>\n<li>🔄 <strong>Progress Tracking:</strong> Effortlessly update your healthcare provider on the exercises completed and your pain level throughout your recovery journey.</li>\n<li>📱 <strong>Secure Communication:</strong> Securely communicate with your care team, providing them real-time data to foster a more responsive treatment plan.</li>\n<li>🔄 <strong>Active Intervention:</strong> Enable your health professionals to monitor your progress meticulously and intervene promptly whenever necessary.</li>\n<li>📊 <strong>Personalized Reports:</strong> Generate insights into your recovery process with intuitive reports that help you and your clinician make informed decisions.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👌 <strong>Enhanced Clarity:</strong> No more guessing - each exercise is explained with precision, promoting better compliance and outcomes.</li>\n<li>🩺 <strong>Improved Patient-Provider Connection:</strong> Keep your clinician informed with ease, which can help tailor your treatment plan further.</li>\n<li>🚀 <strong>Accessible Anywhere:</strong> Whether you’re at home or on the go, your recovery plan is always at your fingertips.</li>\n<li>📈 <strong>Data-Driven Decisions:</strong> Through comprehensive reporting, both you and your healthcare provider are empowered to make data-informed adjustments.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>📶 <strong>Internet Dependency:</strong> A stable internet connection is a must to access exercise content and updates.</li>\n<li>📐 <strong>Limited Personalization:</strong> The app is guided by preset exercise prescriptions, potentially limiting bespoke exercise customization.</li>\n<li>⚙️ <strong>Tech Savviness Required:</strong> Some users may face a learning curve with the app’s interface and features.</li>\n<li>📞 <strong>Indirect Contact:</strong> While the app facilitates communication, it's not a replacement for direct human interaction with healthcare providers.</li>\n</ul>\n<p><strong>Pricing:</strong>\n💵 The PhysiApp® is free to download, though it operates on a referral basis from healthcare professionals. Any additional pricing for services provided through the app will depend on the care provider's policies.</p>\n<p>PhysiApp® makes it easier than ever to stay on top of your physical therapy or chiropractic exercises. Download it now for a more informed, interactive, and integrated healthcare experience.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-appflows-BodyMuse/48997.html",
+      "icon": "assets/img/apk/icon/com.appflows.BodyMuse.png",
+      "name": "BodyMuse: Body Shape Analysis",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-codev-headache_app/39734.html",
+      "icon": "assets/img/apk/icon/com.codev.headache_app.png",
+      "name": "Headache Diary, Test & Treat",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/life-simple/39727.html",
+      "icon": "assets/img/apk/icon/life.simple.png",
+      "name": "Simple: AI Weight Loss Coach",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-clearblue-minerva/39464.html",
+      "icon": "assets/img/apk/icon/com.clearblue.minerva.png",
+      "name": "Menopause Stage - Clearblue me",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-jplanet-lungtestandbreathpractice/39424.html",
+      "icon": "assets/img/apk/icon/com.jplanet.lungtestandbreathpractice.png",
+      "name": "Lung Test and Breath Exercise",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "3"
+    },
+    {
+      "link": "/details/healthy-lungs-breathing-exercise-coach-pranayama-breath-workout-lung-exercises/39423.html",
+      "icon": "assets/img/apk/icon/healthy.lungs.breathing.exercise.coach.pranayama.breath.workout.lung.exercises.png",
+      "name": "Lungs Test: Breathing Exercise",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-smartoptometry-smartoptometry-full/34733.html",
+      "icon": "assets/img/apk/icon/com.smartoptometry.smartoptometry.full.png",
+      "name": "Smart Optometry - Eye Tests",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-b2creativedesigns-eyetest/34732.html",
+      "icon": "assets/img/apk/icon/com.b2creativedesigns.eyetest.png",
+      "name": "Eye test",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.1"
+    }
+  ]
+}

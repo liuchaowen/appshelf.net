@@ -1,0 +1,108 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.tryzapp.shopping.food.corner.store.supermarket.zapp.png",
+    "title": "Zapp",
+    "ratings": "4.9",
+    "downloads": "540M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Zapp"
+    },
+    {
+      "name": "category",
+      "value": "Food & Drink"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Quick Commerce LTD"
+    },
+    {
+      "name": "Version",
+      "value": "2.9.2"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/MZa8-nDpCoJhNCcj70uhsrB2-F6pU9ASjuWV6PHsGnuwPeF-teoeJoYdC0bmHM7zs9s",
+    "https://play-lh.googleusercontent.com/7Hd6P60tkqPfy7BrwJhe7ovKPNdcALo8sTyBYzc7jgAE8i9jCgX8xoAFaPI1XkX2vd8",
+    "https://play-lh.googleusercontent.com/bZMEZudxbgOkka-4uAXZ2toZ3cw4MSa8BRc8nBuYiD3pbl73_aUM2gbPdEtYUJFe-tM",
+    "https://play-lh.googleusercontent.com/aDEBsb1Q0uAv8wIx_nnba9AQxr2b3jH9vHA_jhGwCdJdcjJWZZQmCT2zWpbZJ8s_OGc"
+  ],
+  "app_descript": "<h3>Zapp - Quick &amp; Easy Shopping Experience</h3>\n<p><strong>Brief:</strong>\nZapp offers users an efficient and user-friendly platform for shopping, featuring a wide range of products from food to general supermarket items. With its focus on convenience and speed, Zapp caters to those looking for a hassle-free shopping experience, directly from their mobile devices.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🛒 <strong>Seamless Shopping Interface</strong>: Easily browse and purchase with a user-friendly design. 🌟</li>\n<li>🚀 <strong>Rapid Delivery Service</strong>: Get your items delivered swiftly to your doorstep. 🚚</li>\n<li>📱 <strong>Mobile-Optimized Experience</strong>: Enjoy shopping on the go with an app optimized for your smartphone. 📱</li>\n<li>💳 <strong>Multiple Payment Options</strong>: Flexible payment methods to suit every user's needs. 💰</li>\n<li>📘 <strong>Order History and Tracking</strong>: Keep an eye on your purchases with real-time updates. 📦</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 <strong>User-Friendly Navigation</strong>: Intuitive layout that makes shopping simple and enjoyable. 🛍️</li>\n<li>👍 <strong>Broad Product Assortment</strong>: Wide selection offering everything from groceries to household items. 🥦</li>\n<li>👍 <strong>Speedy Checkout Process</strong>: Save time with a quick and efficient checkout. ⏱️</li>\n<li>👍 <strong>Regular Promotions</strong>: Access to special deals and discounts. 💸</li>\n<li>👍 <strong>Customer Support</strong>: Dedicated help for any issues during your shopping experience. 🙋‍♀️</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 <strong>Geographical Limitations</strong>: Service may not be available in all regions. 🌍</li>\n<li>👎 <strong>Delivery Charges</strong>: Additional fees for delivery might apply. 💵</li>\n<li>👎 <strong>Stock Availability</strong>: Sometimes, popular items might be out of stock. 🚫</li>\n<li>👎 <strong>App Performance</strong>: Potential technical issues within the app. 📲</li>\n<li>👎 <strong>Account Requirement</strong>: Must create an account to start shopping. 📜</li>\n</ul>\n<p><strong>Price:</strong>\n💵 Zapp is a free-to-download app, with varying costs for delivery services. In-app purchases may apply to certain goods or services.</p>\n<p>Given the original description lacks detail, the provided summary is based on standard features expected from a shopping app with a similar name and service offering. If there are additional unique features or specifics about Zapp, please include them for a more precise description.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-buzzfeed-tasty/16927.html",
+      "icon": "assets/img/apk/icon/com.buzzfeed.tasty.png",
+      "name": "Tasty",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-hacklatino-chingon-android/15837.html",
+      "icon": "assets/img/apk/icon/com.hacklatino.chingon.android.png",
+      "name": "Hack Latino",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-postmates-android/4464.html",
+      "icon": "assets/img/apk/icon/com.postmates.android.png",
+      "name": "Postmates - Food Delivery",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-seamlessweb-android-view/4463.html",
+      "icon": "assets/img/apk/icon/com.seamlessweb.android.view.png",
+      "name": "Seamless: Local Food Delivery",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-trycaviar-customer/4462.html",
+      "icon": "assets/img/apk/icon/com.trycaviar.customer.png",
+      "name": "Caviar - Order Food Delivery",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-chownow-discover/4461.html",
+      "icon": "assets/img/apk/icon/com.chownow.discover.png",
+      "name": "ChowNow: Local Food Ordering",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-toasttab-consumer/4460.html",
+      "icon": "assets/img/apk/icon/com.toasttab.consumer.png",
+      "name": "Toast Takeout & Delivery",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/menulog-au/3667.html",
+      "icon": "assets/img/apk/icon/com.menulog.m.png",
+      "name": "Menulog AU",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.2"
+    }
+  ]
+}

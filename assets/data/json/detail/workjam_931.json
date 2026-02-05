@@ -1,0 +1,112 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.workjam.workjam.png",
+    "title": "WorkJam",
+    "ratings": "4.8",
+    "downloads": "730M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "WorkJam"
+    },
+    {
+      "name": "category",
+      "value": "Business"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "WorkJam, Inc."
+    },
+    {
+      "name": "Version",
+      "value": "2021.01.17"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/WOH324LlRBtKLInr3dFsrJyLMmCUdrv0A364j_zGNdTw2PUHCFU3Ao40aiXHtdC3J1o",
+    "https://play-lh.googleusercontent.com/Oz5_rn_-6jbQLQsfQQDfTe6y8vAn7U9CXaNi_Q18wOZkAlazBKp3bq2-njA0lexOP-TV",
+    "https://play-lh.googleusercontent.com/X6bQZlDDdeVFErYqpg-9sh1203lmosYvc7pVLG8ZtMe1tKModwkL5sBf52f-WJa0cH-G",
+    "https://play-lh.googleusercontent.com/wFLHwdfbqXLEaz7Ca8db4249oPy2pcqy1JBuSdEyehzuc2nu5la6jvflV8S7yZgaqRli",
+    "https://play-lh.googleusercontent.com/szVR4h1iAam_HFsFqKIDgcE7QIeBVW0s4kTWviTTTbnFL1J7jT8CDb81sNQeU7SX67Pn",
+    "https://play-lh.googleusercontent.com/P_ozbw8-S9zrx90mvXAyvAgslY5IqMWcQFH8_jR6iez6x_AaYX4ql_HaRXWLZqb-Ew",
+    "https://play-lh.googleusercontent.com/Fks9V41ilYv4OkSEhAkr_OncaDLYM6G2EVC4AECz9CDyhVmcoGg5b3XbyBE06TsqQJ4",
+    "https://play-lh.googleusercontent.com/nAfxkLxEJaE1fsXQ5s8XADMIF5OX4a50u7BNnpqL5NqLOCZ6f7-cyXOJbnll3fHm6Mo"
+  ],
+  "app_descript": "<p><strong>WorkJam: Unifying Workforce Management</strong></p>\n<p><strong>Brief:</strong>\nWorkJam is the seamless mobile solution for workforce management, enabling employees to take control of their schedules, communicate with their teams, and receive recognition for their achievements. Designed for convenience, WorkJam ensures information is instantly accessible on both mobile and web platforms, transforming the way teams interact and work. Note that WorkJam necessitates employer participation for usage.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🔄 <strong>Shift Management</strong>: Effortlessly pick up additional shifts to manage your work-life balance 📅.</li>\n<li>📢 <strong>Team Communication</strong>: Utilize in-app messaging for effective team coordination and updates 💬.</li>\n<li>🌟 <strong>Employee Recognition</strong>: Earn badges and track your performance to celebrate and acknowledge your hard work ⭐.</li>\n<li>🔄 <strong>Cross-Device Accessibility</strong>: Get instant access to information whether you're on a mobile or web-accessible device 🌐.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👩‍💼 <strong>Empowered Workforce</strong>: Fosters autonomy by letting employees manage their schedules 👍.</li>\n<li>🚀 <strong>Enhanced Productivity</strong>: Streamlines communication, leading to increased efficiency and productivity 📈.</li>\n<li>💼 <strong>Professional Growth</strong>: Badges and performance tracking promote professional development 📊.</li>\n<li>🖥️ <strong>Versatility</strong>: Offers flexibility with cross-platform access to vital work-related information 🌟.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>🔄 <strong>Employer Dependent</strong>: App usability contingent on employer's WorkJam adoption 👤.</li>\n<li>🌐 <strong>Connectivity Requirement</strong>: Needs a reliable internet connection to access features 📶.</li>\n<li>📱 <strong>Device Compatibility</strong>: May not be supported across all devices and their respective OS versions 🔧.</li>\n<li>🔄 <strong>Learning Curve</strong>: New users may require time to familiarize themselves with the app's functionalities 🧠.</li>\n</ul>\n<p><strong>Price:</strong></p>\n<ul>\n<li>💵 The WorkJam app itself is typically free to download, but specific app feature access requires employer signup. Pricing details are contingent upon the employer's contract with WorkJam 🏷️.</li>\n</ul>\n<p><em>WorkJam unites employers and employees in a digital space designed for better schedule management, improved communication, and a clearer path for employee recognition and growth. While it relies on employer integration, its cross-device accessibility and focus on enhancing workforce management make WorkJam an excellent tool for modern businesses and their teams.</em></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-kj2147575505-app/16858.html",
+      "icon": "assets/img/apk/icon/com.kj2147575505.app.png",
+      "name": "Alpha Omega Consulting",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-hypertide-petscan-v8m/15982.html",
+      "icon": "assets/img/apk/icon/com.hypertide.petscan.v8m.png",
+      "name": "PetScan",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "2"
+    },
+    {
+      "link": "/details/com-animalid-scanner/15981.html",
+      "icon": "assets/img/apk/icon/com.animalid.scanner.png",
+      "name": "Pet Scanner",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-webrange-sendoff-app/15417.html",
+      "icon": "assets/img/apk/icon/com.webrange.sendoff.app.png",
+      "name": "Sendoff Funeral App",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-dyve-countthings/10295.html",
+      "icon": "assets/img/apk/icon/com.dyve.countthings.png",
+      "name": "CountThings from Photos",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "3"
+    },
+    {
+      "link": "/details/com-countthis-count-things-counting-template-counter/5097.html",
+      "icon": "assets/img/apk/icon/com.countthis.count.things.counting.template.counter.png",
+      "name": "Count This・Counting Things App",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-aadi-personalitytraittest/4991.html",
+      "icon": "assets/img/apk/icon/com.aadi.personalitytraittest.png",
+      "name": "Personality Trait Test",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/GlowRoad/4569.html",
+      "icon": "assets/img/apk/icon/com.localqueen.png",
+      "name": "GlowRoad",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.6"
+    }
+  ]
+}

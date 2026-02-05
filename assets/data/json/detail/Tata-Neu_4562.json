@@ -1,0 +1,110 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.tatadigital.tcp.png",
+    "title": "Tata Neu",
+    "ratings": "4.2",
+    "downloads": "570M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Tata Neu"
+    },
+    {
+      "name": "category",
+      "value": "Shopping"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "TATA Digital Private Limited"
+    },
+    {
+      "name": "Version",
+      "value": "4.1.1"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/rLYeMKgTqeg2G6SM5gVLUDaeYhpS2b-gHeNGgdRJn46ZDDHbnpdD7ijxIUKXHIqbWqTU",
+    "https://play-lh.googleusercontent.com/-midBp2RXNlF00QJcUOtz51L67jN_plYIzo7fXfvkJjWNUlZvmzjDvvnHvBTpLTioKk",
+    "https://play-lh.googleusercontent.com/MDAIbAoxs2zo5pAR5sKx_gWDRAEdM9mxa5U5s78sCGLv5NNGaP_PbwBpgHy0N8wxmA",
+    "https://play-lh.googleusercontent.com/S2UhZAwifYi1fuloOgPgNb6Y0gcDEnglJzuf7S8AVLAkRw8wfrxr5F99Xo_VGcl2dx4a",
+    "https://play-lh.googleusercontent.com/rZXPLE14SUlSB5zXv7_aBR2QxOFlh_8FmL4FT-khsTyUYbJJDNrhvPY2CrRnDVVJhVo",
+    "https://play-lh.googleusercontent.com/Npom63P4i3x9iVIGAyAftJbKfYVgqMnWxGFQA_r4WI95v8S2y2d9DjoUC4RmrTehMdXf"
+  ],
+  "app_descript": "<h3>Tata Neu</h3>\n<h4>Brief</h4>\n<p>Tata Neu is the digital umbrella application that brings together the diverse offerings of the Tata Group companies. It serves as a unified platform where users can engage with various Tata brands, take advantage of digital financial services, and enjoy a curated shopping and lifestyle experience. Despite its integration of multiple services, the app faces some limitations due to its focus on Tata Group brands, occasional performance hitches, and a nuanced rewards program that might be challenging for users.</p>\n<h4>Core Features 🛍️</h4>\n<ul>\n<li><strong>Unified Marketplace</strong> – Experience the convenience of exploring products and services from a wide array of Tata brands within a single interface.</li>\n<li><strong>Integrated Financial Solutions</strong> – Utilize robust digital payment options and financial services seamlessly linked within the app.</li>\n<li><strong>Exclusive Rewards</strong> – Earn and redeem NeuCoins, the app's proprietary rewards currency, while shopping across Tata services.</li>\n<li><strong>Personalized Offers</strong> – Get access to personalized deals and special offers that enhance the shopping experience.</li>\n</ul>\n<h4>Pros 👍</h4>\n<ul>\n<li><strong>Brand Trust</strong> – The app encompasses the trusted and well-established Tata brands, providing reliability and quality assurance.</li>\n<li><strong>One-stop Shop</strong> – Ability to access various products and services, from groceries to electronics, without switching apps.</li>\n<li><strong>NeuCoins Ecosystem</strong> – The opportunity to earn rewards that can be used across all Tata services encourages brand loyalty.</li>\n<li><strong>Convenience</strong> – Features like easy payment and customized offers are designed to create a seamless user experience.</li>\n</ul>\n<h4>Cons 👎</h4>\n<ul>\n<li><strong>Limited Brand Options</strong> – The app mainly showcases Tata-affiliated brands, which limits choices for users looking for a broader market variety.</li>\n<li><strong>Performance Issues</strong> – Users may experience technical difficulties such as slow loading times, app crashes, or transaction errors.</li>\n<li><strong>Complex Rewards System</strong> – NeuCoins come with specific conversion rates and restrictions, which might be difficult for some users to grasp.</li>\n<li><strong>Potentially Overwhelming</strong> – With a plethora of services and products, new users might find the platform daunting initially.</li>\n</ul>\n<h4>Price 💵</h4>\n<p>The Tata Neu app is free to download. However, the cost of purchases and any in-app services depend on individual transactions and services used within the app. The rewards system operates on a proprietary currency (NeuCoins), which is earned through purchases and tied to its own terms of use.</p>\n<p><em>(The community section is not included as Tata Neu is a non-game app.)</em></p>\n<hr/>\n<p>This comprehensive overview is designed to inform potential users about the value proposition and challenges associated with Tata Neu. While there is a distinctive focus on in-group brand loyalty, the convenience and rewards may appeal to those invested in the Tata ecosystem. Users are recommended to explore the app and its offerings whilst staying aware of the potential technical setbacks and complex rewards structure.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-seagm-store/54458.html",
+      "icon": "assets/img/apk/icon/com.seagm.store.png",
+      "name": "SEAGM - Games Topup, Gift Card",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-gowish-app/39285.html",
+      "icon": "assets/img/apk/icon/com.gowish.app.png",
+      "name": "GoWish - Your Digital Wishlist",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-aldisued-shopgo/16934.html",
+      "icon": "assets/img/apk/icon/com.aldisued.shopgo.png",
+      "name": "ALDI SHOP&GO",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.2"
+    },
+    {
+      "link": "/details/com-wakefern-shoprite/16933.html",
+      "icon": "assets/img/apk/icon/com.wakefern.shoprite.png",
+      "name": "ShopRite: Groceries & Savings",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-yaxo-vancamper/16894.html",
+      "icon": "assets/img/apk/icon/com.yaxo.vancamper.png",
+      "name": "Vancamper: Buy sell campervans",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/com-elfster-elfdroid/16861.html",
+      "icon": "assets/img/apk/icon/com.elfster.elfdroid.png",
+      "name": "Elfster: The Secret Santa App",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-biggu-shopsavvy/16860.html",
+      "icon": "assets/img/apk/icon/com.biggu.shopsavvy.png",
+      "name": "ShopSavvy - Barcode Scanner",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/moloapps-gifttracker/16845.html",
+      "icon": "assets/img/apk/icon/moloapps.gifttracker.png",
+      "name": "GiftTracker : Gift List Helper",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.1"
+    }
+  ]
+}

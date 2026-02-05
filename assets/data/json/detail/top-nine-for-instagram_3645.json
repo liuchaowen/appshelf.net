@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.bestnine.png",
+    "title": "Top Nine for Instagram",
+    "ratings": "4.3",
+    "downloads": "310M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Top Nine for Instagram"
+    },
+    {
+      "name": "category",
+      "value": "Social"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "CreatorKit"
+    },
+    {
+      "name": "Version",
+      "value": "3.2"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h3>Brief</h3>\n<p>Discover your top-performing Instagram moments with <strong>Top Nine for Instagram</strong>, an app designed to help social media enthusiasts collect their most liked pictures and memories. Join the millions who've embraced this trend and shared their best memories of the year.</p>\n<h3>Core Features 🌟</h3>\n<ul>\n<li><strong>Personalized Collage Creation</strong>: Generate a collage of your 9 most liked Instagram posts for any given year. 📸</li>\n<li><strong>High-Resolution Downloads</strong>: Access high-quality downloads of your Top Nine collage to share on various platforms. 🖼️</li>\n<li><strong>User-Friendly Interface</strong>: Navigate a clean, intuitive interface that simplifies the process of finding and compiling your best moments. 🔍</li>\n<li><strong>Wide Sharing Capabilities</strong>: Easily share your Top Nine collage directly to Instagram and other social media platforms. 🚀</li>\n<li><strong>Exclusive Filters &amp; Templates</strong>: Customize your collage with unique filters and templates to reflect your style. ✨</li>\n</ul>\n<h3>Pros 👍</h3>\n<ul>\n<li><strong>Shareable Nostalgia</strong>: A fun way to look back and celebrate your most appreciated Instagram content. 🎉</li>\n<li><strong>No Sign-in Required</strong>: Get your Top Nine without the need to log in, ensuring ease and privacy. 🛡️</li>\n<li><strong>Continuous Improvement</strong>: With a team dedicated to listening to user feedback, the app constantly evolves to better meet user needs. 🔄</li>\n<li><strong>Customer Support</strong>: Reach out directly via email for any queries or assistance. 📧</li>\n</ul>\n<h3>Cons 👎</h3>\n<ul>\n<li><strong>Potential Privacy Concerns</strong>: As with any third-party app accessing social media data, some users may be concerned about privacy. 🔒</li>\n<li><strong>Internet Dependency</strong>: Requires an active internet connection to collate and generate the Top Nine content. 🌐</li>\n<li><strong>Limited to Instagram</strong>: Functionality centers around Instagram exclusively, potentially alienating users of other social media apps. 📱</li>\n<li><strong>No Offline Functionality</strong>: Users can't view or create collages offline, which can be a limitation for some. 📶</li>\n</ul>\n<h3>Pricing 💵</h3>\n<ul>\n<li><strong>Free to Download</strong>: \"Top Nine for Instagram\" can be downloaded and used at no initial cost. 🆓</li>\n<li>There might be optional in-app purchases for additional features or ad-free experiences, but this is not specifically mentioned in the provided data.</li>\n</ul>\n<h3>Community 🕸️</h3>\n<ul>\n<li>🌐 Official Site: While an official site is not mentioned, users are encouraged to reach out for support or inquiries via the provided email contact.</li>\n<li>📹 YouTube: Based on the provided data, no official YouTube channel or related popular YouTuber's channel is identified.</li>\n<li>📱 Instagram: The app is centered around Instagram use, though specific influencers or the most followed individuals related to the app are not noted.</li>\n<li>🐦 Twitter, 💬 Discord, 👥 Facebook, 🎵 TikTok, and 🛸 Reddit: No information provided on any such community platforms for Top Nine for Instagram.</li>\n</ul>\n<hr/>\n<p>For any further questions or comments, reach out at [email protected] (remember, it's not .com!).</p>",
+  "related_apps": [
+    {
+      "link": "/details/jp-cocone-livly/54171.html",
+      "icon": "assets/img/apk/icon/jp.cocone.livly.png",
+      "name": "Livly Island - Adopt Cute Pets",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-daily-festival-photos/39721.html",
+      "icon": "assets/img/apk/icon/com.daily.festival.photos.png",
+      "name": "Daily Festival Photo",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/tv-medal-recorder/39573.html",
+      "icon": "assets/img/apk/icon/tv.medal.recorder.png",
+      "name": "Medal - Gaming Clips",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-ptanktechnology-reincornation/39352.html",
+      "icon": "assets/img/apk/icon/com.ptanktechnology.reincornation.png",
+      "name": "Reincarnation",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-tiktok-lite-go/15392.html",
+      "icon": "assets/img/apk/icon/com.tiktok.lite.go.png",
+      "name": "TikTok Lite - Faster TikTok",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-petmeetly/15275.html",
+      "icon": "assets/img/apk/icon/com.petmeetly.png",
+      "name": "Petmeetly - Pet's Match Finder",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-xingin-xhs/14603.html",
+      "icon": "assets/img/apk/icon/com.xingin.xhs.png",
+      "name": "REDnote—小红书国际版",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-stdev-dissordap/10395.html",
+      "icon": "assets/img/apk/icon/com.stdev.dissordap.png",
+      "name": "Vote Social - Photo Voting VS",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "3.8"
+    }
+  ]
+}

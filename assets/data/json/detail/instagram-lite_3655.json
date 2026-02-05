@@ -1,0 +1,109 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.instagram.lite.png",
+    "title": "Instagram Lite",
+    "ratings": "4.5",
+    "downloads": "40M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Instagram Lite"
+    },
+    {
+      "name": "category",
+      "value": "Social"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Instagram"
+    },
+    {
+      "name": "Version",
+      "value": "375.0.0.7.111"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/vqjPjfzc88G5L8znhvsmBFx9DIE7A6mFTSxQW3-suXMN2B--hOLyjcRqPT6mJxLmOvM",
+    "https://play-lh.googleusercontent.com/i3V-kktWzv3tPIvxbwjGqeOcb-8Zt2gWiI0-2M2Q4VKWfghSiHodQBhBICzpOA1ILtwf",
+    "https://play-lh.googleusercontent.com/7_Lt8X7QcDQBEuEedXlrqcIVN1ObPUv_gw1layxRAG7WOu_kxx25rX1KhCjffIc_Wy8",
+    "https://play-lh.googleusercontent.com/0Iblf-TVPMG1zVVkr_H5XBI8lX2WQj6F2KrXo0m6B5SIHjuACDSz4VwJAw2_cNjTSA",
+    "https://play-lh.googleusercontent.com/3kSceb4W44u__Xan6kptoUQ_mTBWc52-igdc7k-l_6IUU1xhMJ5k1H1s4bykFJyRU0s"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> Instagram Lite</p>\n<p><strong>Package Name:</strong> com.instagram.lite</p>\n<hr/>\n<h3>Brief:</h3>\n<p>Instagram Lite is a streamlined version of the popular photo and video-sharing social networking service designed to consume less data and work efficiently even on older or less powerful smartphones. Its succinct format retains the core social experience, allowing users to connect and share moments without the heavy data or storage requirements.</p>\n<h3>Core Features:</h3>\n<ul>\n<li><strong>Photo &amp; Filter Options:</strong> Post and personalize photos on your profile grid with an array of aesthetic filters. 📷</li>\n<li><strong>Stories Feature:</strong> Share multiple photos with text to your Story, which vanish after 24 hours and don't clutter your profile grid. 🎭</li>\n<li><strong>Discoverability:</strong> Explore and watch stories at the top of your feed, and unearth new content and accounts on the Explore tab. 🔎</li>\n<li><strong>Streamlined Interface:</strong> A lightweight design that brings essential Instagram features to devices with limited data or storage. 📱</li>\n<li><strong>Direct Messaging:</strong> Communicate directly with friends via messages, fostering private and group conversations. 💬</li>\n</ul>\n<h3>Pros:</h3>\n<ul>\n<li><strong>Reduced Data Usage:</strong> Ideal for users with limited data plans or weak network connections. ✅</li>\n<li><strong>Lower Storage Requirement:</strong> Takes up less space on the device compared to the full Instagram app. ✅</li>\n<li><strong>User-Friendly Interface:</strong> Maintains an intuitive and easy-to-navigate layout. ✅</li>\n<li><strong>Accessibility:</strong> Enables access to Instagram's main features for users with older phones. ✅</li>\n<li><strong>Constant Updates:</strong> Continuously updated with improvements and new functionalities. ✅</li>\n</ul>\n<h3>Cons:</h3>\n<ul>\n<li><strong>Limited Features:</strong> May not include all the advanced features found in the standard app. ❌</li>\n<li><strong>Performance Issues:</strong> Might experience occasional slowdowns or bugs, typical for lite versions of apps. ❌</li>\n<li><strong>Adaptation Period:</strong> Requires some users to adjust to the condensed UI and feature set. ❌</li>\n<li><strong>Resolution Constraints:</strong> Some images and videos may display at lower resolutions to save data. ❌</li>\n<li><strong>Interface Simplicity:</strong> Could be too basic for users accustomed to the full-featured Instagram experience. ❌</li>\n</ul>\n<h3>Price:</h3>\n<p>Instagram Lite is a free app, providing the basic Instagram experience at no cost, though internet data charges may apply based on your service plan.</p>\n<hr/>\n<p><em>Note: The community resources for Instagram Lite are likely to mirror those of the main Instagram platform, which includes a broad and active presence across various social media channels.</em></p>",
+  "related_apps": [
+    {
+      "link": "/details/jp-cocone-livly/54171.html",
+      "icon": "assets/img/apk/icon/jp.cocone.livly.png",
+      "name": "Livly Island - Adopt Cute Pets",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-daily-festival-photos/39721.html",
+      "icon": "assets/img/apk/icon/com.daily.festival.photos.png",
+      "name": "Daily Festival Photo",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/tv-medal-recorder/39573.html",
+      "icon": "assets/img/apk/icon/tv.medal.recorder.png",
+      "name": "Medal - Gaming Clips",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-ptanktechnology-reincornation/39352.html",
+      "icon": "assets/img/apk/icon/com.ptanktechnology.reincornation.png",
+      "name": "Reincarnation",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-tiktok-lite-go/15392.html",
+      "icon": "assets/img/apk/icon/com.tiktok.lite.go.png",
+      "name": "TikTok Lite - Faster TikTok",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-petmeetly/15275.html",
+      "icon": "assets/img/apk/icon/com.petmeetly.png",
+      "name": "Petmeetly - Pet's Match Finder",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-xingin-xhs/14603.html",
+      "icon": "assets/img/apk/icon/com.xingin.xhs.png",
+      "name": "REDnote—小红书国际版",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-stdev-dissordap/10395.html",
+      "icon": "assets/img/apk/icon/com.stdev.dissordap.png",
+      "name": "Vote Social - Photo Voting VS",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "3.8"
+    }
+  ]
+}

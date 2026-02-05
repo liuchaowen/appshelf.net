@@ -1,0 +1,112 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.duckduckgo.mobile.android.png",
+    "title": "DuckDuckGo Privacy Browser",
+    "ratings": "4.7",
+    "downloads": "450M",
+    "age": "4+",
+    "download_link": "https://d.apkpure.com/b/APK/com.duckduckgo.mobile.android?version=latest"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "DuckDuckGo Privacy Browser"
+    },
+    {
+      "name": "category",
+      "value": "Tools"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "DuckDuckGo"
+    },
+    {
+      "name": "Version",
+      "value": "5.173.1"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/n4yq4Nq_V6nh5SqFFaSs3lC4F1bBwYhxPv85TjNCbmuXLv3bIvVvIkfhh-bRs25gGQ",
+    "https://play-lh.googleusercontent.com/Tb_5wmUESY7RTpuxkXcIT7mZZO5iGm-iV-Taj_vHMZ9pf2ZytBXQPvNmFU-QG5I91g",
+    "https://play-lh.googleusercontent.com/4rEOkJ7iaWEKNfAaVHGBOjdXHDk3VmFtcTbX_viXR3SM1Hepm4p_eM9QORDLmZ2LMoM",
+    "https://play-lh.googleusercontent.com/J7YLRd_2rupUisBRaF6A_lKTQed0d2Mh4Vq1ymBorMEWAZCu93GX3KCveCaZ9O1RQMfE",
+    "https://play-lh.googleusercontent.com/8MfxkGJK0WjxZrLUMWi_-696bNu5jq_N-YvWWpn5uezFVROGhc5uQdkSQAhB5IhMAJA",
+    "https://play-lh.googleusercontent.com/FZRqgHUWkgTRr-hjG-QLG2CEHonz8i547rTlqSAfn_pT8tn1jSxzR0T6iBkDo4r6ND7u",
+    "https://play-lh.googleusercontent.com/65IYnC24hnZ8r3xOlyVvc_abMsDOViSQ1LHWgUXh7-CCmImqlv0uJvnM1ui2ln8Zmepk"
+  ],
+  "app_descript": "<p><strong>DuckDuckGo Privacy Browser</strong></p>\n<p><strong>Brief:</strong>\nDuckDuckGo Privacy Browser offers a secure, private browsing experience, putting control of personal data back in the hands of users. Built around the ethos of not tracking you, this browser offers a suite of features designed to keep your online activity safe from prying eyes.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li><strong>Privacy Grade:</strong> Assess the trustworthiness of websites with a privacy score, both pre and post Privacy Protection activation. 🛡️</li>\n<li><strong>Escape Advertising Tracker Networks:</strong> Block advertising trackers from following your online footprint and highlight major ad networks engaging in user tracking. 🚫</li>\n<li><strong>Enforce Encryption Protection:</strong> Advocates secure, encrypted web connections to safeguard data from intermediary entities like ISPs. 🔒</li>\n<li><strong>Private Search:</strong> Utilize a search engine that doesn’t track your queries or behavior. 🔍</li>\n<li><strong>Email Protection:</strong> Prevent email trackers from snooping and mask your email addresses without changing service providers. ✉️</li>\n<li><strong>Fire Button:</strong> Instantly erase your browser tabs and history with a single press. 🚨</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li><strong>Non-tracking Search Engine:</strong> Puts users' privacy first by not tracking searches or personal data. 👤</li>\n<li><strong>Simple User Interface:</strong> Offers easy-to-navigate settings and functions for a user-friendly experience. 🖥️</li>\n<li><strong>On-Demand Privacy Controls:</strong> Empowers users with one-touch data deletion and comprehensive privacy features. 🛠️</li>\n<li><strong>Cross-Platform Availability:</strong> Accessible on both Android and iOS devices, ensuring privacy across the board. 📱</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li><strong>Limited Features:</strong> May offer fewer features compared to other mainstream browsers with respect to customization and extensions. 🗃️</li>\n<li><strong>Performance Variability:</strong> Occasionally, enforcing strict privacy measures could slow down page load speeds. ⏲️</li>\n<li><strong>Compatibility Issues:</strong> Some websites might not function optimally if they rely heavily on trackers or unencrypted connections. ⚠️</li>\n<li><strong>Adaptation Period:</strong> Users transitioning from other browsers may need time to adapt to DuckDuckGo's different set of features. 🔄</li>\n</ul>\n<p><strong>Pricing:</strong>\nDuckDuckGo Privacy Browser is a free application that can be downloaded from the Google Play Store or Apple Store. No in-app purchases are necessary, ensuring a cost-free browsing experience. 💸</p>\n<p>Empower yourself with a browsing experience that respects your privacy. Download DuckDuckGo Privacy Browser today and take the first step towards a more secure online existence.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-internetoptimizer-speedtest-wifispeedtest-netspeed-wifipassword-wifispeed/49027.html",
+      "icon": "assets/img/apk/icon/com.internetoptimizer.speedtest.wifispeedtest.netspeed.wifipassword.wifispeed.png",
+      "name": "Internet Optimizer",
+      "categoryLink": "/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.9"
+    },
+    {
+      "link": "/details/com-blazingappstudio-speed_test_pro/49021.html",
+      "icon": "assets/img/apk/icon/com.blazingappstudio.speed_test_pro.png",
+      "name": "Speed Test - Wifi Optimizer",
+      "categoryLink": "/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-secret-camera-hidden-detector/39728.html",
+      "icon": "assets/img/apk/icon/com.secret.camera.hidden.detector.png",
+      "name": "Hidden Camera & IR Detector",
+      "categoryLink": "/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-findmymobile-lostphone-phonetracker/39682.html",
+      "icon": "assets/img/apk/icon/com.findmymobile.lostphone.phonetracker.png",
+      "name": "Anti Theft Alarm–Find my Phone",
+      "categoryLink": "/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/donttouchmyphone-antitheftalarm-iantitheft/39681.html",
+      "icon": "assets/img/apk/icon/donttouchmyphone.antitheftalarm.iantitheft.png",
+      "name": "Anti Theft Phone Alarm",
+      "categoryLink": "/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/download-videobrowser-pic-makerapp/39657.html",
+      "icon": "assets/img/apk/icon/download.videobrowser.pic.makerapp.png",
+      "name": "Fi Film - Movie Track",
+      "categoryLink": "/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.5"
+    },
+    {
+      "link": "/details/com-keeratipong-skineditorminecraft/39591.html",
+      "icon": "assets/img/apk/icon/com.keeratipong.skineditorminecraft.png",
+      "name": "Skin Editor for Minecraft",
+      "categoryLink": "/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-rbxconvert-freerobux-newcalculator/39576.html",
+      "icon": "assets/img/apk/icon/com.rbxconvert.freerobux.newcalculator.png",
+      "name": "RBX Calculator Robox Counter",
+      "categoryLink": "/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.3"
+    }
+  ]
+}

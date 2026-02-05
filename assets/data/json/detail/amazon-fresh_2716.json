@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/amazon-fresh.png",
+    "title": "Amazon Fresh",
+    "ratings": "4.7",
+    "downloads": "390M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Amazon Fresh"
+    },
+    {
+      "name": "category",
+      "value": "Shopping"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Amazon Mobile LLC"
+    },
+    {
+      "name": "Version",
+      "value": "1.5.4"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>Brief:</strong>\nAmazon Fresh is an app that brings the convenience of grocery shopping right to your doorstep. Designed specifically for customers in the Seattle and Los Angeles metropolitan areas, this app marries the ease of mobile shopping with the quick delivery of fresh groceries, all secured through Amazon's trusted infrastructure. Experience shopping for fresh produce, daily essentials, and more, all at your fingertips with pricing in U.S. dollars.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🛒 <strong>Personalized Grocery Shopping:</strong> Easily browse and shop for fresh produce and daily needs tailored to your local area. 🌽</li>\n<li>⏰ <strong>Quick Delivery Slots:</strong> Select convenient delivery times that fit into your busy schedule. 🕔</li>\n<li>🔒 <strong>Secure Transactions:</strong> Enjoy peace of mind with Amazon's proven, secure payment servers. 🔐</li>\n<li>📱 <strong>Mobile Shopping Ease:</strong> Shop on the move with an intuitive app experience right from your smartphone. 📲</li>\n<li>🛍️ <strong>Seamless Amazon Integration:</strong> Your AmazonFresh purchases integrate seamlessly with your Amazon account. 🔄</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👨‍💼 <strong>Tailored Local Experience:</strong> Focuses on providing service to specific metropolitan areas for a more personalized experience. 🏙️</li>\n<li>🔄 <strong>Ease of Use:</strong> Harnessing the convenience of Amazon's platform, makes online grocery shopping simple and efficient. 🛒</li>\n<li>🚚 <strong>Prompt Delivery:</strong> Ensures that your groceries are delivered swiftly, adhering to your chosen time slots. 🕒</li>\n<li>📦 <strong>Amazon Brand Assurance:</strong> Leverages the trust and customer service excellence of the Amazon brand. ✅</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👀 <strong>Limited Service Areas:</strong> Currently available only to customers in the Seattle and Los Angeles areas. 🗺️</li>\n<li>📶 <strong>Requires Internet Connection:</strong> An active internet connection is necessary to use the app which could be a limitation for some users. 🌐</li>\n<li>🔄 <strong>Amazon Account Required:</strong> Users must have or create an Amazon account to use the service. 📑</li>\n<li>🆕 <strong>Adaptation:</strong> New users may need time to adapt to grocery shopping via an app if they are accustomed to traditional methods. 💡</li>\n</ul>\n<p><strong>Price:</strong>\n💵 The Amazon Fresh app is free to download. Please note that in-app purchases exist for the groceries bought through the service, and the pricing details are available within the app. </p>\n<hr/>\n<p>Enjoy a modern, hassle-free grocery shopping experience with Amazon Fresh – where quality, convenience, and security come together for your ultimate comfort.</p>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-seagm-store/54458.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.seagm.store.png",
+      "name": "SEAGM - Games Topup, Gift Card",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.7"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-gowish-app/39285.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.gowish.app.png",
+      "name": "GoWish - Your Digital Wishlist",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.7"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-aldisued-shopgo/16934.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.aldisued.shopgo.png",
+      "name": "ALDI SHOP&GO",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.2"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-wakefern-shoprite/16933.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.wakefern.shoprite.png",
+      "name": "ShopRite: Groceries & Savings",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.7"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-yaxo-vancamper/16894.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.yaxo.vancamper.png",
+      "name": "Vancamper: Buy sell campervans",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.8"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-elfster-elfdroid/16861.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.elfster.elfdroid.png",
+      "name": "Elfster: The Secret Santa App",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.7"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-biggu-shopsavvy/16860.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.biggu.shopsavvy.png",
+      "name": "ShopSavvy - Barcode Scanner",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/moloapps-gifttracker/16845.html",
+      "icon": "https://img.buzzsight.co/apk/icon/moloapps.gifttracker.png",
+      "name": "GiftTracker : Gift List Helper",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.1"
+    }
+  ]
+}

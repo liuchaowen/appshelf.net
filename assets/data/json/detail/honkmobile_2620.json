@@ -1,0 +1,109 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/com.honkmobile.png",
+    "title": "HonkMobile",
+    "ratings": "4.2",
+    "downloads": "990M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "HonkMobile"
+    },
+    {
+      "name": "category",
+      "value": "Maps & Navigation"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "HonkMobile"
+    },
+    {
+      "name": "Version",
+      "value": "6.8.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/q6-ZgI2Gro0QDqqN_c49Kc1VJAPYp-8WE4mb4tV2wY8oYFQ7U2bpJ9YjoAZPPX27ZCI",
+    "https://play-lh.googleusercontent.com/0lbfumGkcxWgDUEQ7pTmghLXXA-MpvyYqYKlXBzGcuO6EM2BFyqgRPZhb9gMT3uUFqQ",
+    "https://play-lh.googleusercontent.com/K9gqIMLbSh4eBZuznGSFJyFixPHJQY4N3Ug1s19puNv4aWirLfjX9e0pkfr03mlay34",
+    "https://play-lh.googleusercontent.com/HBOsxD_hfWFeiDiyQ1Ht6h2xwNpGmW6l5H-qpEYFicloU1FAKf0A-QJyc94SyzD9vEQ",
+    "https://play-lh.googleusercontent.com/qxaK0VIbbCfDL4Sn_FlRWjOnnHcAigjQRmn_C9RJ9GngIwvIW1jbE4nfYmFIsiydQ7I"
+  ],
+  "app_descript": "<h3>HonkMobile: Your Smart Parking Solution 🚗</h3>\n<h4>Brief</h4>\n<p>Revolutionize your parking experience with HonkMobile, the ultimate convenience for motorists across Canada and the United States. Bid farewell to the hassles of traditional parking meters with HonkMobile's seamless digital solution that ensures you can pay for parking spaces at over 2,000 locations right from your smartphone. With HonkMobile, finding and paying for parking from city streets to campuses is smooth and effortless.</p>\n<h4>Core Features 🌟</h4>\n<ul>\n<li><strong>Universal Account Access</strong>: Use one account for any of the 190,000 Honk-accepted spaces. 📱</li>\n<li><strong>Multiple Payment Methods</strong>: From credit cards to ApplePay, customize your payment options. 💳</li>\n<li><strong>Parking Reservations</strong>: Secure your spot in real-time or book in advance for peace of mind. 🅿️</li>\n<li><strong>Tailored Parking Suggestions</strong>: Benefit from a mapview showing price and proximity to pick your perfect spot. 📍</li>\n<li><strong>Simplified Repeat Parking</strong>: Use the favourite feature for quick access to regularly used spots. ❤️</li>\n</ul>\n<h4>Pros 👍</h4>\n<ul>\n<li><strong>Extensive Coverage</strong>: Available in numerous cities and various parking scenarios including airports and hospitals. 🗺️</li>\n<li><strong>Efficient Notifications</strong>: Get text alerts before your parking session expires. ⏰</li>\n<li><strong>Flexible Parking Options</strong>: Choose from hourly to monthly parking alternatives. ⏳</li>\n<li><strong>Promo Deals Access</strong>: Unlock savings of up to 50% off the standard rates. 💰</li>\n<li><strong>Digital Receipts</strong>: Instant email receipts prove convenient for personal and business expense tracking. 🧾</li>\n</ul>\n<h4>Cons 👎</h4>\n<ul>\n<li><strong>Regional Availability</strong>: Mainly limited to Canada and the United States, not global. 🌎</li>\n<li><strong>Internet Dependence</strong>: Requires a reliable internet connection for mobile payments. 📶</li>\n<li><strong>Compatibility</strong>: Not all parking spots accept HonkMobile, which might require traditional payment methods. 🅿️</li>\n<li><strong>Notification Reliance</strong>: Relying solely on notifications can be risky if the user’s phone is not within service range or turned off. 📴</li>\n<li><strong>Learning Curve</strong>: New users may need time to acquaint themselves with the app's features and functionalities. 🤔</li>\n</ul>\n<h4>Price 💵</h4>\n<p>HonkMobile is a free-to-download app, designed to streamline your parking payments. While downloading the app comes at no cost, parking rates and potential in-app promos are variable and subject to the terms of respective parking locations.</p>\n<h4>Community (Non-game app description, community section not included)</h4>\n<p>Upgrade your parking game by downloading <a href=\"https://play.google.com/store/apps/details?id=com.honkmobile\" rel=\"noopener noreferrer\" target=\"_blank\">HonkMobile</a> today and enjoy a more modern and stress-free parking experience.</p>\n<p>Stay connected with HonkMobile for the latest updates and deals:</p>\n<ul>\n<li>Official site: <a href=\"https://www.honkmobile.com\" rel=\"noopener noreferrer\" target=\"_blank\">HonkMobile.com</a></li>\n<li><a href=\"https://facebook.com/honkmobile\" rel=\"noopener noreferrer\" target=\"_blank\">Facebook</a></li>\n<li><a href=\"https://twitter.com/honkmobile\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a></li>\n<li><a href=\"https://www.instagram.com/honkmobile/\" rel=\"noopener noreferrer\" target=\"_blank\">Instagram</a></li>\n</ul>\n<p>Don't forget to \"ghost the parking meter\" and make the smart switch to HonkMobile for all your parking needs!</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-hundred-qibla-finder/14082.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.hundred.qibla.finder.png",
+      "name": "Qibla Finder Compass 100%",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/kbk-maparea-measure-geo/5067.html",
+      "icon": "https://img.buzzsight.co/apk/icon/kbk.maparea.measure.geo.png",
+      "name": "Gps Area Calculator",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "3.9"
+    },
+    {
+      "link": "/details/Offline-Maps-GPS-Speedometer/4633.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.radarapp.trip.speedometer.png",
+      "name": "Offline Maps, GPS, Speedometer",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/Satellite-View-Offline/4620.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.breezeammarathon.viskoproton.grampooffline.png",
+      "name": "Satellite View Offline",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/Rapido/4563.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.rapido.passenger.png",
+      "name": "Rapido",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/CarInfo/4500.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.cuvora.carinfo.png",
+      "name": "CarInfo",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-trailbehind-android-gaiagps-pro/4473.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.trailbehind.android.gaiagps.pro.png",
+      "name": "Gaia GPS: Offroad Hiking Maps",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-gpsnavigation-maps-gpsroutefinder-routemap/4472.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.gpsnavigation.maps.gpsroutefinder.routemap.png",
+      "name": "GPS Navigation: Road Map Route",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.appsinnova.weatherforecast.liveweather.png",
+    "title": "Live Weather",
+    "ratings": "4.1",
+    "downloads": "510M",
+    "age": "4+",
+    "download_link": "https://d.apkpure.com/b/APK/com.appsinnova.weatherforecast.liveweather?version=latest"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Live Weather"
+    },
+    {
+      "name": "category",
+      "value": "Weather"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "APPS INNOVA"
+    },
+    {
+      "name": "Version",
+      "value": "1.7.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/xiJDLtbmpFSxRd3LuILCrvq7LSjaYB2R267gNnlntjG4UdVbhS1oOQdbAr7cznOEHKx_",
+    "https://play-lh.googleusercontent.com/0_HdhmKKI4jEzo2sEAr-6oRMDtepK4w-GVtLNbKpmwum8_daH5ALl2B22b_xHKGPfw",
+    "https://play-lh.googleusercontent.com/RE_ciofkukDLOO9L1VZsPxbLR1DYcUgLRcpVBnqoBexlkgT99VDcuqcKByNHO18a-hs",
+    "https://play-lh.googleusercontent.com/1v2idCrHdgsgnpymKSMBxrt8ExyRABsWgnxhNsIis13gUbq8pNEJtKlbmIDOgrTezRE",
+    "https://play-lh.googleusercontent.com/hr-lzEWK6IZYHEVpNMGcVa6VhT3X_GxfVyuWH5bROR-Yg94zBlGIGpuDPJ12K1A5LZU"
+  ],
+  "app_descript": "<h1><strong>Live Weather</strong></h1>\n<h2><strong>Brief:</strong></h2>\n<p>Live Weather delivers real-time weather updates and severe weather alerts to help you stay prepared for whatever the skies may bring. With frequent updates, you can check the latest and accurate hourly forecasts to plan your day or week effectively. Beyond local conditions, receive national weather information and stay protected with alerts on severe weather risks with the touch of a button.</p>\n<h2><strong>Core Features:</strong></h2>\n<ul>\n<li>🌡️ <strong>Minute-by-Minute Updates:</strong> Weather conditions refreshed every minute for the most current forecast.</li>\n<li>⚠️ <strong>Severe Weather Alerts:</strong> Access over 300 types of weather alerts from government agencies in multiple languages.</li>\n<li>🗺️ <strong>Interactive Radar Maps:</strong> Track weather conditions with high-res satellite and radar overlays to visualize precipitation.</li>\n<li>📡 <strong>Comprehensive Weather Tracking:</strong> Lightning, hurricanes, and tornadoes can be monitored for safety.</li>\n<li>⏲️ <strong>Extended Forecasts:</strong> Get detailed weather forecasts for up to 15 days in advance, including key indexes and metrics. </li>\n</ul>\n<h2><strong>Pros:</strong></h2>\n<ul>\n<li>👍 Regularly Updated: Constantly refreshed conditions ensure you're never caught off-guard.</li>\n<li>👍 Multilingual Alerts: Get severe weather notifications in the language of your device, improving accessibility.</li>\n<li>👍 Advanced Radar: Sophisticated radar technology offers precise tracking of various weather phenomena.</li>\n<li>👍 Long-Term Insights: Forecasts extending to 15 days provide ample planning time.</li>\n</ul>\n<h2><strong>Cons:</strong></h2>\n<ul>\n<li>👎 Connectivity Dependent: Requires internet connection for real-time updates which might not be available everywhere.</li>\n<li>👎 May Be Overwhelming: The wealth of information and alerts may be intense for casual users.</li>\n<li>👎 Battery Usage: Frequent updates and background tracking can drain a device's battery faster.</li>\n<li>👎 Alert Specificity: Some users might find certain alerts unnecessary or too frequent.</li>\n</ul>\n<h2><strong>Price:</strong></h2>\n<ul>\n<li>💵 The app is likely to be free with potential in-app purchases for additional features, although specific pricing details would need to be confirmed within the app or on the respective app store.</li>\n</ul>\n<p>The Live Weather app connects you with the elements, putting a wealth of meteorological data at your fingertips. Stay informed, stay safe, and strategically plan your day with Live Weather.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-eet-weather-launcher/15703.html",
+      "icon": "assets/img/apk/icon/com.eet.weather.launcher.png",
+      "name": "Weather Now Launcher - Radar",
+      "categoryLink": "/categories/weather/26",
+      "category": "Weather",
+      "rating": "3.6"
+    },
+    {
+      "link": "/details/com-daily-forecast-weather-radar/4930.html",
+      "icon": "assets/img/apk/icon/com.daily.forecast.weather.radar.png",
+      "name": "Daily Forecast: Weather&Radar",
+      "categoryLink": "/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-mahersafadi-sunny/4921.html",
+      "icon": "assets/img/apk/icon/com.mahersafadi.sunny.png",
+      "name": "Sunny: Weather forecast",
+      "categoryLink": "/categories/weather/26",
+      "category": "Weather",
+      "rating": "4"
+    },
+    {
+      "link": "/details/WeatherPal/4628.html",
+      "icon": "assets/img/apk/icon/com.precise.opliging.kitan.png",
+      "name": "WeatherPal",
+      "categoryLink": "/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/live-weather/2063.html",
+      "icon": "assets/img/apk/icon/com.appsinnova.weatherforecast.liveweather.png",
+      "name": "Live Weather",
+      "categoryLink": "/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/radarnow/2062.html",
+      "icon": "assets/img/apk/icon/com.usnaviguide.radar_now.png",
+      "name": "RadarNow!",
+      "categoryLink": "/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/local-weather/2061.html",
+      "icon": "assets/img/apk/icon/com.weather.forecast.channel.local.png",
+      "name": "Local Weather",
+      "categoryLink": "/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/iqair-airvisual/2060.html",
+      "icon": "assets/img/apk/icon/com.airvisual.png",
+      "name": "IQAir AirVisual",
+      "categoryLink": "/categories/weather/26",
+      "category": "Weather",
+      "rating": "4.6"
+    }
+  ]
+}

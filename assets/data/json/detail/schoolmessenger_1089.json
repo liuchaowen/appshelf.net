@@ -1,0 +1,110 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.schoolmessenger.recipient.png",
+    "title": "SchoolMessenger",
+    "ratings": "4.1",
+    "downloads": "520M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "SchoolMessenger"
+    },
+    {
+      "name": "category",
+      "value": "Education"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Intrado SchoolMessenger"
+    },
+    {
+      "name": "Version",
+      "value": "1.9.19"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/95vFkKBT0t9m6OuElI9EynX8hJkE-RIYPiI_f88uo70ZIDWwkM-HbGBiHItSGUUfoJcE",
+    "https://play-lh.googleusercontent.com/YsMfM_7tP3Nt_bMB-iac3HkDil5w5LQOqD6R4tVm3cHb2gsrT2wAhoSR0OR2yQQMZg",
+    "https://play-lh.googleusercontent.com/41NxFaIM0k1LtFgYvgrZuTP9EyE6n_sOPEMclSU_e9ppH09FoArj_EndN1TzipHE80dy",
+    "https://play-lh.googleusercontent.com/naZ7yGqInrjgFyUbkN1XeSQfoaK47wdXbAuFz2gwteJNi9Am0lCXUhyUUJn9wU-7-MQ",
+    "https://play-lh.googleusercontent.com/5-kOrV9KmXIgwuYflU4dwpEjLHFXmuRsC3KYGosdl4-HoTAYlejBxf0jEZmGs-WU-zFw",
+    "https://play-lh.googleusercontent.com/gPAYzBujJJBqqhgvEfF6Ios0HB205hxOYEkjbLUPhsSXW0cJV0qa6acFX524easDsIbi"
+  ],
+  "app_descript": "<p><strong>SchoolMessenger</strong></p>\n<p>Keep your school communication streamlined and accessible with SchoolMessenger, the go-to app for students, parents, and educators to stay connected and informed about school activities and notifications.</p>\n<p><strong>📌 Core Features:</strong></p>\n<ul>\n<li><strong>Unified Inbox</strong> - All SchoolMessenger notifications and two-way messages are meticulously cataloged in an easy-to-read inbox format, ensuring you never miss an important update 📥.</li>\n<li><strong>Notification History</strong> - Easy scrolling through an extensive notification view, giving access to all prior phone, email, and text notices in one central location 📜.</li>\n<li><strong>Customized Alerts</strong> - Detailed preference controls allow users to personalize notification settings to cater to individual needs 🔔.</li>\n<li><strong>Instant Notifications</strong> - Push notifications alert users promptly when messages are sent from the school or district, keeping everyone in the loop 📲.</li>\n</ul>\n<p><strong>👍 Pros:</strong></p>\n<ul>\n<li><strong>Convenience</strong> - Centralize all communications into one platform, making it simpler to keep track of school updates ⏳.</li>\n<li><strong>Customizability</strong> - Tailor what notifications you receive and how you receive them, ensuring relevance and reducing overload 🎚️.</li>\n<li><strong>Accessibility</strong> - Whether you're on Wi-Fi or using a mobile data plan, notifications are accessible anytime, anywhere 🌐.</li>\n<li><strong>Compatibility</strong> - Supports devices running Android 4.4 or higher, covering a wide user base 📱.</li>\n</ul>\n<p><strong>👎 Cons:</strong></p>\n<ul>\n<li><strong>Restrictions Apply</strong> - The app requires your school or district to have a subscription to the SchoolMessenger notification service and the app enabled 🚫.</li>\n<li><strong>Contact Information Requirement</strong> - A valid email address must be on file with your school or district to receive notifications 📧.</li>\n<li><strong>Internet Dependence</strong> - A steady internet connection is necessary for app functionality, which could be limiting in areas with poor connectivity 🌐.</li>\n<li><strong>Not for Broadcasting</strong> - This app is not designed for sending broadcast messages; users seeking this functionality need to download a separate admin sender app 📣.</li>\n</ul>\n<p><strong>💵 Price:</strong></p>\n<ul>\n<li>The SchoolMessenger app is free to download and use, but keep in mind that access to its features depends on your school or district's subscription to the SchoolMessenger service ✅.</li>\n</ul>\n<p><em>SchoolMessenger simplifies school communication by consolidating all updates and messages into one manageable location, making it an essential tool for the connected and busy student or parent.</em></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-nibble-lesson/54302.html",
+      "icon": "assets/img/apk/icon/com.nibble.lesson.png",
+      "name": "Nibble: Your Bite of Knowledge",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-matlubapps-myiq/54109.html",
+      "icon": "assets/img/apk/icon/com.matlubapps.myiq.png",
+      "name": "IQ & Personality Tests: IQlab",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-home-lifehealthinsurance/48965.html",
+      "icon": "assets/img/apk/icon/com.home.lifehealthinsurance.png",
+      "name": "Life & Health Insurance Exam",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "3.5"
+    },
+    {
+      "link": "/details/pp-paramedic/48959.html",
+      "icon": "assets/img/apk/icon/pp.paramedic.png",
+      "name": "Paramedic Test Prep 2026",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "3.9"
+    },
+    {
+      "link": "/details/org-truthforlife-app/48953.html",
+      "icon": "assets/img/apk/icon/org.truthforlife.app.png",
+      "name": "Truth For Life",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-habapps-perstest/39344.html",
+      "icon": "assets/img/apk/icon/com.habapps.perstest.png",
+      "name": "The Personality Test",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-schooltoday-alphaomega/39316.html",
+      "icon": "assets/img/apk/icon/com.schooltoday.alphaomega.png",
+      "name": "Alpha & Omega",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-lucida-androidapp/34758.html",
+      "icon": "assets/img/apk/icon/com.lucida.androidapp.png",
+      "name": "Learn Languages - Lucida AI",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "4.6"
+    }
+  ]
+}

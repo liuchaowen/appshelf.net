@@ -1,0 +1,109 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.onelogin.protect.png",
+    "title": "OneLogin Protect",
+    "ratings": "4.8",
+    "downloads": "110M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "OneLogin Protect"
+    },
+    {
+      "name": "category",
+      "value": "Business"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "OneLogin Inc"
+    },
+    {
+      "name": "Version",
+      "value": "4.4.6"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/qsIgArcRbo2uDiC5BxVJeEZcvvEKedmrf9MpOz1HOjX_ke_Gx3zwlEMmYhIqQZXo770",
+    "https://play-lh.googleusercontent.com/sHlbJ7WFb2rH0ESc0sKrHDAa6EV0vT-OxcXZ4nnwCoIJFA5E3pvmIbMjoonH5I3uzwM",
+    "https://play-lh.googleusercontent.com/2y8XXQXHwquMoc75dn-wVO92kxEy8ONiJ-3rUTT5yerRvuHnmcD5OuL6mcZLvn8meARx",
+    "https://play-lh.googleusercontent.com/bOC4ONNcml1AotQ9dn3yE_Dk1sY-uruf2Gq23vL2WdQJ8zT-Vm_fNgLdckHyzpMHDj79",
+    "https://play-lh.googleusercontent.com/IWOyqU2C0cNz_4s-zU8hv_T7wSE56pD2aSEZN7D9XuWichwOctKOO1IFXNpc2HQzRQ"
+  ],
+  "app_descript": "<h3>Brief</h3>\n<p>OneLogin Protect revolutionizes multifactor authentication by simplifying the process and reducing disruptions throughout your workday. This smart app is geared towards making your online security a breeze, by verifying login attempts through intuitive push notifications, ensuring that only legitimate access to your OneLogin accounts is granted.</p>\n<h3>Core Features 📌</h3>\n<ul>\n<li><strong>Push Notifications</strong>: Receive immediate alerts for new login attempts without scrambling through multiple apps. 📲</li>\n<li><strong>One-Touch Approval</strong>: With a simple tap on your phone or smartwatch, approve or deny access, eliminating the hassle of traditional methods. 👆</li>\n<li><strong>Time-Saver</strong>: Avoid the stress of entering one-time passwords within a specific timeframe; the app simplifies authentication to a mere tap. ⏳</li>\n<li><strong>Cross-Device Functionality</strong>: Get instant notifications on your smartwatch, enabling you to authenticate without even reaching for your phone. 🕒</li>\n<li><strong>User-Centric Security</strong>: Designed to alert your IT department instantly upon a denied login, enhancing organizational security measures. 🔐</li>\n</ul>\n<h3>Pros 👍</h3>\n<ul>\n<li><strong>User-Friendly Interface</strong>: Streamlined and easy to use, even for those not technologically savvy. ✅</li>\n<li><strong>Enhanced Productivity</strong>: Decreases interruptions during work, promoting a more efficient workflow. 🚀</li>\n<li><strong>Robust Security</strong>: Elevated security protocol by swiftly blocking unauthorized access attempts. 🛡️</li>\n<li><strong>Convenience</strong>: No need to input codes manually, authentication is just a notification away. 🎯</li>\n<li><strong>Integration with Wearables</strong>: Compatibility with smartwatches for effortless authentication on the go. ⌚</li>\n</ul>\n<h3>Cons 👎</h3>\n<ul>\n<li><strong>OneLogin Dependence</strong>: Requires an active OneLogin account, which might be restrictive for some users. 🔗</li>\n<li><strong>Smart Device Requirement</strong>: For the optimal experience, a smartwatch is preferred, potentially excluding users without one. ⌚</li>\n<li><strong>IT Reliance</strong>: The necessity to consult an IT department for help may not appeal to all users. 🤝</li>\n<li><strong>Internet Dependence</strong>: The effectiveness of the app is tied to having a stable internet connection. 🌐</li>\n<li><strong>Not Standalone</strong>: Cannot be used as a comprehensive security solution - it's a part of a larger OneLogin ecosystem. 🛠️</li>\n</ul>\n<h3>Price 💵</h3>\n<p>OneLogin Protect is tailored for users with an existing OneLogin subscription. It's recommended to check with your organization's IT department or OneLogin’s pricing details for any associated costs.</p>\n<h3>Setup Instructions</h3>\n<p>To set up OneLogin Protect, follow the provided instructions here: <a href=\"https://support.onelogin.com/hc/en-us/articles/202361220\" rel=\"noopener noreferrer\" target=\"_blank\">Support Guide</a>.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-kj2147575505-app/16858.html",
+      "icon": "assets/img/apk/icon/com.kj2147575505.app.png",
+      "name": "Alpha Omega Consulting",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-hypertide-petscan-v8m/15982.html",
+      "icon": "assets/img/apk/icon/com.hypertide.petscan.v8m.png",
+      "name": "PetScan",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "2"
+    },
+    {
+      "link": "/details/com-animalid-scanner/15981.html",
+      "icon": "assets/img/apk/icon/com.animalid.scanner.png",
+      "name": "Pet Scanner",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-webrange-sendoff-app/15417.html",
+      "icon": "assets/img/apk/icon/com.webrange.sendoff.app.png",
+      "name": "Sendoff Funeral App",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-dyve-countthings/10295.html",
+      "icon": "assets/img/apk/icon/com.dyve.countthings.png",
+      "name": "CountThings from Photos",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "3"
+    },
+    {
+      "link": "/details/com-countthis-count-things-counting-template-counter/5097.html",
+      "icon": "assets/img/apk/icon/com.countthis.count.things.counting.template.counter.png",
+      "name": "Count This・Counting Things App",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-aadi-personalitytraittest/4991.html",
+      "icon": "assets/img/apk/icon/com.aadi.personalitytraittest.png",
+      "name": "Personality Trait Test",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/GlowRoad/4569.html",
+      "icon": "assets/img/apk/icon/com.localqueen.png",
+      "name": "GlowRoad",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.6"
+    }
+  ]
+}

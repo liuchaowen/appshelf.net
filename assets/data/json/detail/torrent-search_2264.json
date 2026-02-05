@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/net.ts.search.engine.png",
+    "title": "Torrent Search",
+    "ratings": "4.4",
+    "downloads": "240M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Torrent Search"
+    },
+    {
+      "name": "category",
+      "value": "Tools"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "TS-Apps"
+    },
+    {
+      "name": "Version",
+      "value": "7.0.6"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>Torrent Search</strong></p>\n<p><strong>Brief:</strong>\nTorrent Search is a powerful and user-friendly application tailored for searching and downloading torrents. It integrates an array of torrent providers in one place, making it easier for users to find and get hold of various files across providers quickly and efficiently. With options for direct downloads, magnet link sharing, and even voice search capabilities, Torrent Search simplifies your torrenting experience.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🔍 <strong>Multiple Search Providers:</strong> Choose from various search providers to find torrents that cater to your preferences.</li>\n<li>🔄 <strong>Concurrent Search Mode:</strong> Perform searches across all providers simultaneously for comprehensive results.</li>\n<li>🧲 <strong>Magnet and Torrent Link Support:</strong> Share and prioritize magnet links, which are more dependable and negate the need for downloading .torrent files.</li>\n<li>✂️ <strong>Custom Filter Options:</strong> Sort and filter searches by categories, seeders, size, and more to personalize your search results.</li>\n<li>🎙️ <strong>Voice Search Integration:</strong> Use voice commands to initiate searches within the app for a hands-free torrenting experience.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 <strong>User-Friendly Interface:</strong> The app's design is intuitive and easy to navigate, appealing for both seasoned torrent users and newcomers.</li>\n<li>👍 <strong>Smart Suggestions:</strong> It provides suggestions based on your search history, enhancing the search experience.</li>\n<li>👍 <strong>Remote Torrent Management:</strong> The ability to forward magnet links to a remote torrent client app on your device for downloading.</li>\n<li>👍 <strong>Configurable Search Filters:</strong> Offers a plethora of sorting criteria including speed, leechers, and file size.</li>\n<li>👍 <strong>No Seeder Removal:</strong> An option to remove torrents lacking seeders mitigates wasting time on unviable downloads.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 <strong>Torrent Client Requirement:</strong> Requires an external torrent client app for downloading, which could be a hassle for users looking for an all-in-one solution.</li>\n<li>👎 <strong>Potential Learning Curve:</strong> Some users may need time to assimilate the extensive sorting and filtering options.</li>\n<li>👎 <strong>Dependence on Search Providers:</strong> The app's efficacy is contingent on the search providers' uptime and availability.</li>\n<li>👎 <strong>Search History Based Suggestions:</strong> This feature could be a privacy concern for users who prefer not to have their searches tracked.</li>\n<li>👎 <strong>Voice Search Limitations:</strong> The voice search feature is dependent on \"Ok Google\" functionality, which may not be enabled or available for all users.</li>\n</ul>\n<p><strong>Price:</strong>\n💵 The pricing details for Torrent Search are not explicitly mentioned. It's advised to check the app store for any updates regarding the app being free, paid, or containing in-app purchases.</p>\n<p><a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Official site</a>\n<a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">YouTube channel</a>\n<a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Related popular YouTuber's channel</a>\n<a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Most followed Instagramer</a>\n<a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a>\n<a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Discord</a>\n<a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Facebook</a>\n<a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">TikTok</a>\n<a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Reddit</a>\n<a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Fandom wiki site</a></p>\n<p><em>Note: Community links are placeheld with \"#\" when no specific data is available.</em></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-antique-snap-identifier-appraisal/54309.html",
+      "icon": "assets/img/apk/icon/com.antique.snap.identifier.appraisal.png",
+      "name": "Antique Identifier - Appraisal",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-age-calculator-life-countdown/54243.html",
+      "icon": "assets/img/apk/icon/com.age.calculator.life.countdown.png",
+      "name": "Age Calculator・Life Expectancy",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.4"
+    },
+    {
+      "link": "/details/com-xv-agecalc/54237.html",
+      "icon": "assets/img/apk/icon/com.xv.agecalc.png",
+      "name": "AgeCalc: Date Life Calculator",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-palm-ai-decode-destiny-soul-futurelines-handline/54206.html",
+      "icon": "assets/img/apk/icon/com.palm.ai.decode.destiny.soul.futurelines.handline.png",
+      "name": "Palm AI: Decode Destiny",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/rbx-robuxcalc-getrbx-freecounter/53839.html",
+      "icon": "assets/img/apk/icon/rbx.robuxcalc.getrbx.freecounter.png",
+      "name": "RBX Calc - Get Robuxcounter",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-internetoptimizer-speedtest-wifispeedtest-netspeed-wifipassword-wifispeed/49027.html",
+      "icon": "assets/img/apk/icon/com.internetoptimizer.speedtest.wifispeedtest.netspeed.wifipassword.wifispeed.png",
+      "name": "Internet Optimizer",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.9"
+    },
+    {
+      "link": "/details/com-blazingappstudio-speed_test_pro/49021.html",
+      "icon": "assets/img/apk/icon/com.blazingappstudio.speed_test_pro.png",
+      "name": "Speed Test - Wifi Optimizer",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-secret-camera-hidden-detector/39728.html",
+      "icon": "assets/img/apk/icon/com.secret.camera.hidden.detector.png",
+      "name": "Hidden Camera & IR Detector",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    }
+  ]
+}

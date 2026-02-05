@@ -1,0 +1,21 @@
+{
+  "code": 200,
+  "msg": "success",
+  "data": [
+    {
+      "id": 554,
+      "type": 1,
+      "link": "/article/from-selfies-to-showstoppers-how-youcam-makeup-can-elevate-your-photos/554.html",
+      "title": "From Selfies to Showstoppers: How YouCam Makeup Can Elevate Your Photos",
+      "cover": "assets/img/Uploads/articles/20250321/8b63bc0f0a4b7f8cb7d3c74f7e955d65.png",
+      "updated_at": "2025-05-29",
+      "seo_keyword": "",
+      "keyword": [],
+      "icon": null,
+      "writer_name": "Aimee",
+      "info": "{'qid':554,'lang':'en','website':'apkzonic','device':'pc','position':10,'domain':'hot','type':20}"
+    }
+  ],
+  "count": 1,
+  "total": 1
+}

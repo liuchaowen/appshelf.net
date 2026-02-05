@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.pecana.iptvextreme.png",
+    "title": "IPTV Extreme",
+    "ratings": "4.1",
+    "downloads": "610M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "IPTV Extreme"
+    },
+    {
+      "name": "category",
+      "value": "Video Players & Editors"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Paolo Turatti"
+    },
+    {
+      "name": "Version",
+      "value": "101.0"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>IPTV Extreme</strong></p>\n<p><strong>Brief:</strong>\nIPTV Extreme delivers a comprehensive suite of features that allow users to watch TV through internet protocol television (IPTV) with various user-friendly functionalities and customization options. It supports streaming, recording, and on-demand content, with extras like Chromecast support and parental controls.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>📺 <strong>Integrated Player:</strong> Offers both Advanced and Light player options for a personalized viewing experience. 🎞️</li>\n<li>📡 <strong>Chromecast Support (Beta):</strong> Enjoy the ease of casting your favorite shows directly to your TV (available in beta). 🖥️</li>\n<li>👶 <strong>Parental Control:</strong> Keep content appropriate for all ages with robust parental controls. 🔐</li>\n<li>🎮 <strong>Remote Controller Support:</strong> Designed to be convenient, supporting various remote controllers for easier navigation. 🎛️</li>\n<li>🔂 <strong>Backup/Restore Settings:</strong> Preserves your configurations and custom settings, ensuring they are secure and retrievable. 💾</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>🔗 <strong>M3U Playlists &amp; Multi EPG Support:</strong> Tracks your favorite channels with support for M3U playlists and provides a multi-program guide. 📅</li>\n<li>⏲️ <strong>Timers &amp; Recording:</strong> Allows for scheduling recordings and managing timers for a personalized TV guide experience. 🕒</li>\n<li>🌈 <strong>Customizable Themes:</strong> Offers more than 10 visually engaging themes to personalize your app interface. 🎨</li>\n<li>💾 <strong>On-Demand Content Downloads:</strong> Provides the capability to download programs to watch when you're offline. 📥</li>\n<li>⚙️ <strong>Advanced EPG Management:</strong> Features like auto EPG updates, EPG alias management, and search functions for TV guide enhance user convenience. ✨</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 <strong>Chromecast is in Beta:</strong> The Chromecast feature may not be fully stable as it is still in beta testing. 🚧</li>\n<li>👎 <strong>Pro Version Needed for Additional Features:</strong> Some desirable features such as ad-free experience require purchasing the Pro version. 💼</li>\n<li>👎 <strong>Complexity for Beginners:</strong> New users may find the array of settings and features overwhelming at first. 🤔</li>\n<li>👎 <strong>Dependence on M3U Playlists:</strong> Users must have access to their M3U playlists which might not be straightforward for everyone. 📋</li>\n<li>👎 <strong>Device Compatibility Issues:</strong> Some users may face compatibility issues with particular devices or remote controllers. 📲</li>\n</ul>\n<p><strong>Price:</strong>\nThe app is free to download, with an option to upgrade to a Pro version to remove ads and show support for the developer. The Pro version's pricing details would typically be found in the app or on its product page. 💵</p>\n<p><em>Community features are not applicable as IPTV Extreme is not a game app.</em> </p>\n<p>Here's your detailed and engaging IPTV Extreme app description, capturing the essence of its functionality and offerings for potential users.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-video-newslideshow/53956.html",
+      "icon": "assets/img/apk/icon/com.video.newslideshow.png",
+      "name": "Music Video Maker Magic Effect",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-prominent-aicatch/49088.html",
+      "icon": "assets/img/apk/icon/com.prominent.aicatch.png",
+      "name": "AI Catch: AI Video Generator",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-asianmobile-smartplayer/34766.html",
+      "icon": "assets/img/apk/icon/com.asianmobile.smartplayer.png",
+      "name": "IPTV Player: Smarters Watch TV",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "3.1"
+    },
+    {
+      "link": "/details/halloween-video-maker/34753.html",
+      "icon": "assets/img/apk/icon/halloween.video.maker.png",
+      "name": "Halloween Video Editor 2025",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-cupertinotech-aidancevideo/16075.html",
+      "icon": "assets/img/apk/icon/com.cupertinotech.aidancevideo.png",
+      "name": "AI Dance Video - Photo Dance",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "2.4"
+    },
+    {
+      "link": "/details/com-instagram-basel/15556.html",
+      "icon": "assets/img/apk/icon/com.instagram.basel.png",
+      "name": "Edits, an Instagram app",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/downloader-video-download-free/10303.html",
+      "icon": "assets/img/apk/icon/downloader.video.download.free.png",
+      "name": "Video Downloader & Video Saver",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-renderforest-videomaker/10142.html",
+      "icon": "assets/img/apk/icon/com.renderforest.videomaker.png",
+      "name": "Renderforest Video & Animation",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.5"
+    }
+  ]
+}

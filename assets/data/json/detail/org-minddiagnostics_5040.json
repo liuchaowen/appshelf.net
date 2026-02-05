@@ -1,0 +1,109 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/org.minddiagnostics.png",
+    "title": "Mental Health Tests",
+    "ratings": "4.2",
+    "downloads": "60M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Mental Health Tests"
+    },
+    {
+      "name": "category",
+      "value": "Medical"
+    },
+    {
+      "name": "Price",
+      "value": "0"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Mind Diagnostics"
+    },
+    {
+      "name": "Version",
+      "value": ""
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/93u7EVB8sWZ4TGTIQGABjdcZiSfpxZm-d47vrzCfGu-spFvD4Hj3jKbrm6A3bkT9Usmo",
+    "https://play-lh.googleusercontent.com/FK3rlCeW9fv1fQmnqmsftRui4ba9CfRehcgyO84hAyxHAunkZ2xxxpHwAoyVK8Dn3A",
+    "https://play-lh.googleusercontent.com/WUIE_cBFiPvZwgILHQWE8FjUE9tKvMFvtpJfYC_QPakc2_pi7-aAqa4Aro0cO6Z7oA",
+    "https://play-lh.googleusercontent.com/IuiFELtXIQqYCLOVlqei2-MT99epopLHUg2OHMJEhtiBW3QFoUARtqf8NI7VOP-JnQk",
+    "https://play-lh.googleusercontent.com/14NgXKZ6e6Q7pP72BjvWnCoOwGTVLP4sFhou3GtmBAuMlFbyTpXONUW2LTfdgFkp7Eg"
+  ],
+  "app_descript": "<p><strong>Mental Health Tests</strong></p>\n<p><strong>Brief:</strong>\nMental Health Tests is a mobile diagnostic tool designed to help you quickly identify the presence of symptoms related to a variety of mental health conditions. It provides an accessible and confidential way to assess your mental well-being, understand your emotional health, and take the first steps towards recovery if necessary.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🧠 Over 25 Mental Health Assessments: Engage with a broad spectrum of tests targeting conditions like depression, anxiety, ADHD, and more.</li>\n<li>📈 Results Tracking: Monitor changes over time to see progress or identify areas needing attention.</li>\n<li>✉️ Shareable Results: Easily send your assessment outcomes to a therapist or loved ones.</li>\n<li>🔍 Therapist Locator: Find professional support nearby to help you on your journey towards mental wellness. 🌐</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👌 User-Friendly Interface: Navigate smoothly through various tests without tech-savviness.</li>\n<li>🤐 Privacy Conscious: Take tests and receive results confidential purchase requirements.</li>\n<li>🔄 Continuous Improvement: Regular app updates to refine user experience and test accuracy.</li>\n<li>🧩 Comprehensive Approach: A wide array of tests address multiple aspects of mental health. 🌿</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>🧑‍⚕️ Not a Substitute for Professional Diagnosis: Results should be followed up with a healthcare professional.</li>\n<li>📶 Internet Dependency: Requires an active internet connection to access tests and resources.</li>\n<li>🖥️ Self-Assessment Limitations: May not capture the complexity of mental health issues.</li>\n<li>💬 Community Support: The absence of in-app peer support forums. 💔</li>\n</ul>\n<p><strong>Price:</strong>\n💸 The Mental Health Tests app offers its features free of charge, making mental health assessments more accessible to everyone.</p>\n<p><strong>Community:</strong></p>\n<ul>\n<li>Official site: <a href=\"https://www.mind-diagnostics.org\" rel=\"noopener noreferrer\" target=\"_blank\">Mind Diagnostics</a></li>\n<li>Blog: <a href=\"https://www.mind-diagnostics.org/blog\" rel=\"noopener noreferrer\" target=\"_blank\">Mind Diagnostics Blog</a></li>\n<li>Instagram: <a href=\"https://www.instagram.com/minddiagnostics/?hl=en\" rel=\"noopener noreferrer\" target=\"_blank\">minddiagnostics on Instagram</a></li>\n<li>Facebook: <a href=\"https://www.facebook.com/MindDiagnostics/\" rel=\"noopener noreferrer\" target=\"_blank\">Mind Diagnostics on Facebook</a></li>\n<li>Twitter: <a href=\"https://twitter.com/MindDiagnostics\" rel=\"noopener noreferrer\" target=\"_blank\">Mind Diagnostics on Twitter</a></li>\n</ul>\n<p>Embark on the path to better mental health with Mental Health Tests today and gain a clearer picture of your emotional well-being.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-stress-test/48991.html",
+      "icon": "assets/img/apk/icon/com.stress.test.png",
+      "name": "Stress Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-procrastination-test/39516.html",
+      "icon": "assets/img/apk/icon/com.procrastination.test.png",
+      "name": "Procrastination Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-bingeeating-test/39303.html",
+      "icon": "assets/img/apk/icon/com.bingeeating.test.png",
+      "name": "Binge Eating Disorder Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-ocd-test/34780.html",
+      "icon": "assets/img/apk/icon/com.ocd.test.png",
+      "name": "OCD Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-healthians-main-healthians/34760.html",
+      "icon": "assets/img/apk/icon/com.healthians.main.healthians.png",
+      "name": "Healthians -Full Body Checkup",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-lbrc-PeriodCalendar/34759.html",
+      "icon": "assets/img/apk/icon/com.lbrc.PeriodCalendar.png",
+      "name": "Period Tracker and Calendar",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/es-jshcd-edadosea/34693.html",
+      "icon": "assets/img/apk/icon/es.jshcd.edadosea.png",
+      "name": "Bone age",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-devdis/16977.html",
+      "icon": "assets/img/apk/icon/com.devdis.png",
+      "name": "Developmental Disabilities",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.5"
+    }
+  ]
+}

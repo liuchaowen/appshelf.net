@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.social.lemon.png",
+    "title": "Lemon",
+    "ratings": "4.1",
+    "downloads": "70M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Lemon"
+    },
+    {
+      "name": "category",
+      "value": "Social"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Q Tech Mobile Limited"
+    },
+    {
+      "name": "Version",
+      "value": "2.1.2"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h3>Lemon - Social Networking Simplified</h3>\n<p><strong>Brief:</strong>\nLemon is a streamlined social networking app designed to connect you instantly with others without the fuss of a lengthy registration process. Using just a nickname, users can jump into conversation with their favorite people. If you're eager for easy, safe, and immediate social interactions, Lemon invites you to join its vibrant community.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🆔 <strong>Nickname Registration</strong>: Skip the tedious sign-up steps and join in no time with just a nickname.</li>\n<li>💬 <strong>Instant Messaging</strong>: Find someone you like and start a conversation on the spot.</li>\n<li>🛡️ <strong>Safe Usage Guidelines</strong>: Built-in measures to discourage misuse, like slander and inappropriate content.</li>\n<li>📵 <strong>Privacy Protection</strong>: Encourages users not to share personal information for a safer online experience.</li>\n<li>🔒 <strong>Age-Restricted Access</strong>: Ensures a mature environment by limiting use to those 18 and older. </li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👥 <strong>User-Friendly Interface</strong>: Easy to navigate for users of all ages.</li>\n<li>📡 <strong>Quick Connectivity</strong>: Connect with others instantly, fostering spontaneous social interactions.</li>\n<li>🚫 <strong>Content Moderation</strong>: A commitment to a clean, respectful community by prohibiting certain types of content.</li>\n<li>🚸 <strong>Age Verification</strong>: Provides an additional layer of security and peace of mind.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 <strong>Limited Audience</strong>: Not suitable for users under 18 which may restrict user demographic.</li>\n<li>🗣️ <strong>Potential for Misuse</strong>: Despite guidelines, there's always a risk of encountering harmful behavior.</li>\n<li>🛂 <strong>Self-Enforced Privacy Measures</strong>: Users must be vigilant not to share their personal information.</li>\n<li>📪 <strong>Content Restrictions</strong>: Certain topics, such as job postings or advertising, are not permitted, which may limit discussions.</li>\n</ul>\n<p><strong>Price:</strong>\n💵 Lemon is free to download and use, promising a cost-free platform for building and maintaining social connections.</p>\n<p><strong>Community:</strong>\nLemon's community features are contingent on its social nature, where sharing and connections are the main attractions. Due to the app's focus on direct messaging, it may lack extensive social media linkages typically found in gaming apps. If social platforms are associated with Lemon, they would be shared to enhance user interaction outside the app.</p>\n<p><a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Official Site</a> | <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">YouTube</a> | <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Instagram</a> | <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a> | <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Discord</a> | <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Facebook</a> | <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">TikTok</a> | <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Reddit</a> | <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Fandom Wiki</a></p>\n<p>Please note that the community links are subject to availability and may not be provided if such platforms are not connected with the Lemon app.</p>\n<p>(Disclaimer: The provided community links are placeholders and should be replaced with actual URLs if such platforms are associated with the Lemon app.)</p>",
+  "related_apps": [
+    {
+      "link": "/details/jp-cocone-livly/54171.html",
+      "icon": "assets/img/apk/icon/jp.cocone.livly.png",
+      "name": "Livly Island - Adopt Cute Pets",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-daily-festival-photos/39721.html",
+      "icon": "assets/img/apk/icon/com.daily.festival.photos.png",
+      "name": "Daily Festival Photo",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/tv-medal-recorder/39573.html",
+      "icon": "assets/img/apk/icon/tv.medal.recorder.png",
+      "name": "Medal - Gaming Clips",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-ptanktechnology-reincornation/39352.html",
+      "icon": "assets/img/apk/icon/com.ptanktechnology.reincornation.png",
+      "name": "Reincarnation",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-tiktok-lite-go/15392.html",
+      "icon": "assets/img/apk/icon/com.tiktok.lite.go.png",
+      "name": "TikTok Lite - Faster TikTok",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-petmeetly/15275.html",
+      "icon": "assets/img/apk/icon/com.petmeetly.png",
+      "name": "Petmeetly - Pet's Match Finder",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-xingin-xhs/14603.html",
+      "icon": "assets/img/apk/icon/com.xingin.xhs.png",
+      "name": "REDnote—小红书国际版",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-stdev-dissordap/10395.html",
+      "icon": "assets/img/apk/icon/com.stdev.dissordap.png",
+      "name": "Vote Social - Photo Voting VS",
+      "categoryLink": "/en/categories/social/22",
+      "category": "Social",
+      "rating": "3.8"
+    }
+  ]
+}

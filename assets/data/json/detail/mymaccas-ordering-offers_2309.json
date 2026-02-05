@@ -1,0 +1,108 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.mcdonalds.au.gma.png",
+    "title": "mymacca's Ordering & Offers",
+    "ratings": "4",
+    "downloads": "870M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "mymacca's Ordering & Offers"
+    },
+    {
+      "name": "category",
+      "value": "Food & Drink"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "McDonald's Australia Limited"
+    },
+    {
+      "name": "Version",
+      "value": "7.1.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/5clNaMvKVARAo9sOoPXBpAc1gvjlICXYHF_ogMfxgIG-DKWerW-yBzbZF6zZKE9otx8",
+    "https://play-lh.googleusercontent.com/fNR6VVeT8Gd27Bhzcv52qwT1arltdrrUL6l5IC5-FMN7tW_CTdsQdP64kZbyXOeaCeDr",
+    "https://play-lh.googleusercontent.com/m67dxP_ybMHu_3FPw7QoBFyYGsDNtVfxyUo-EGYuC01tzGaWFmaNuTxP2SdFf_0wBC89",
+    "https://play-lh.googleusercontent.com/XqslZDdwXpEwnroFvD9TIThHZLpObQ4Q5rmV32w4foxMpLV_xyG2vQLM4xRCzxodFvXn"
+  ],
+  "app_descript": "<hr/>\n<h3>Brief</h3>\n<p>Satisfy your McDonald's cravings efficiently with the mymacca's Ordering &amp; Offers app. This mobile companion brings the convenience of locating the nearest McDonald's, enjoying the benefits of McCafé® loyalty rewards, customizing orders to your taste, saving favorites for quick ordering, and ensuring secure payments right to your fingertips. Make your Macca's® experience smoother and more rewarding with this user-friendly app tailored for McDonald's aficionados. </p>\n<h3>Core Features 🌟</h3>\n<ul>\n<li><strong>Restaurant Locator</strong> - Find your nearest McDonald's instantly. 📍</li>\n<li><strong>McCafé® Loyalty Program</strong> - Buy 5 McCafé® beverages and get the 6th one free. ☕</li>\n<li><strong>Order Customization</strong> - Personalize your meal to create your unique Macca's® hacks. 🍔</li>\n<li><strong>Favorites and Recents</strong> - Easily revisit recent orders and save your go-to items for faster future checkouts. 💾</li>\n<li><strong>Secure Payment System</strong> - Keep your payment method safe for quick app checkouts and receive order receipts via email. 🔒</li>\n</ul>\n<h3>Pros 👍</h3>\n<ul>\n<li><strong>Convenience at Your Fingertips</strong> - Order anytime, anywhere with just a few taps.</li>\n<li><strong>Exclusive Rewards</strong> - Earn free McCafé® drinks through the loyalty program.</li>\n<li><strong>Personalized Experience</strong> - Customizable menu items cater to individual preferences.</li>\n<li><strong>Time-Saving</strong> - Quickly reorder from a list of favorites or past orders.</li>\n</ul>\n<h3>Cons 👎</h3>\n<ul>\n<li><strong>Location Specific</strong> - Availability of offers and menu items may vary by location.</li>\n<li><strong>Account Requirement</strong> - Must create an account to access ordering and loyalty features.</li>\n<li><strong>Limited to McDonald's</strong> - Can only be used at McDonald's, not applicable to other food services.</li>\n<li><strong>Data Usage</strong> - Requires internet connection, which could consume mobile data.</li>\n</ul>\n<h3>Pricing 💵</h3>\n<p>The mymacca's Ordering &amp; Offers app is free to download. However, it may include in-app purchases for food items, with prices varying according to the menu.</p>\n<h3>Community 🕸️</h3>\n<ul>\n<li><strong>Official Site:</strong> <a href=\"https://mcdonalds.com.au\" rel=\"noopener noreferrer\" target=\"_blank\">McDonald's Australia</a></li>\n<li><strong>Related popular YouTuber's channel:</strong> Not available.</li>\n<li><strong>Most followed Instagrammer:</strong> Not available.</li>\n<li><strong>Twitter:</strong> <a href=\"https://twitter.com/mcdonaldsau\" rel=\"noopener noreferrer\" target=\"_blank\">McDonald's AU</a></li>\n<li><strong>Discord:</strong> Not available.</li>\n<li><strong>Facebook:</strong> <a href=\"https://www.facebook.com/McDonaldsAU\" rel=\"noopener noreferrer\" target=\"_blank\">McDonald's AU</a></li>\n<li><strong>TikTok:</strong> Not available.</li>\n<li><strong>Reddit:</strong> Not available.</li>\n<li><strong>Fandom Wiki Site:</strong> Not available.</li>\n</ul>\n<hr/>",
+  "related_apps": [
+    {
+      "link": "/details/com-buzzfeed-tasty/16927.html",
+      "icon": "assets/img/apk/icon/com.buzzfeed.tasty.png",
+      "name": "Tasty",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-hacklatino-chingon-android/15837.html",
+      "icon": "assets/img/apk/icon/com.hacklatino.chingon.android.png",
+      "name": "Hack Latino",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-postmates-android/4464.html",
+      "icon": "assets/img/apk/icon/com.postmates.android.png",
+      "name": "Postmates - Food Delivery",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-seamlessweb-android-view/4463.html",
+      "icon": "assets/img/apk/icon/com.seamlessweb.android.view.png",
+      "name": "Seamless: Local Food Delivery",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-trycaviar-customer/4462.html",
+      "icon": "assets/img/apk/icon/com.trycaviar.customer.png",
+      "name": "Caviar - Order Food Delivery",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-chownow-discover/4461.html",
+      "icon": "assets/img/apk/icon/com.chownow.discover.png",
+      "name": "ChowNow: Local Food Ordering",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-toasttab-consumer/4460.html",
+      "icon": "assets/img/apk/icon/com.toasttab.consumer.png",
+      "name": "Toast Takeout & Delivery",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/menulog-au/3667.html",
+      "icon": "assets/img/apk/icon/com.menulog.m.png",
+      "name": "Menulog AU",
+      "categoryLink": "/en/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.2"
+    }
+  ]
+}

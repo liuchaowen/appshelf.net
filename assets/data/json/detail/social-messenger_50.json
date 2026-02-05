@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.messagingnew.allinone.png",
+    "title": "Social Messenger",
+    "ratings": "4.6",
+    "downloads": "150M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Social Messenger"
+    },
+    {
+      "name": "category",
+      "value": "Communication"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "CanAli"
+    },
+    {
+      "name": "Version",
+      "value": "5.5"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> Social Messenger</p>\n<p><strong>Brief:</strong>\nSocial Messenger is a powerful communication hub that unifies your messaging, calling, and chatting experience. It bridges the gap between various messenger services like Facebook Messenger, Viber, WhatsApp, Hangouts, Skype, and more, facilitating an all-in-one platform for seamless connectivity. Moreover, it's packed with features like stickers and an AppLocker to keep your conversations both fun and private.</p>\n<h3>📌 Core Features:</h3>\n<ul>\n<li><strong>All-In-One Messaging</strong> - Access Facebook Messenger, Viber, WhatsApp, and other leading chat apps without switching between different apps. 🚀</li>\n<li><strong>Stickers Galore</strong> - Express yourself with a vast array of new sticker packs, enhancing your messaging experience. 😄</li>\n<li><strong>AppLocker</strong> - Keep your chats secure and private by locking specific apps with ease. 🔒</li>\n<li><strong>Usage Statistics</strong> - Analytics to track and measure your social media and messenger usage. 📊</li>\n<li><strong>Recommendations</strong> - Discover new chat, live chat, and messaging apps through tailored suggestions.🕵️‍♂️</li>\n</ul>\n<h3>👍 Pros:</h3>\n<ul>\n<li><strong>Unified Chat Experience</strong> - Direct integration with multiple messengers for efficient communication. ✨</li>\n<li><strong>Enhanced Privacy</strong> - AppLocker ensures your messages remain confidential. 🛡️</li>\n<li><strong>Lightweight Application</strong> - Doesn’t consume much storage or resources, maintaining your device’s performance. 🏎</li>\n<li><strong>User Analytics</strong> - Get insights into your app usage to better manage your time online. 📈</li>\n<li><strong>Social Discovery</strong> - Find and try new messaging apps that suit your needs. 🔍</li>\n</ul>\n<h3>👎 Cons:</h3>\n<ul>\n<li><strong>Limited Functionality</strong> - The app does not allow you to download or own the integrated messaging apps. 📥</li>\n<li><strong>Third-Party Dependent</strong> - Relies heavily on other services and apps, which might affect long-term sustainability. 🔄</li>\n<li><strong>Internet Requirement</strong> - Requires a stable internet connection for all functionalities to work properly. 📶</li>\n<li><strong>No Direct Messaging</strong> - Functions as a shortcut rather than an independent messaging service. 📌</li>\n<li><strong>Legal Constraints</strong> - Cannot include certain apps due to copyright restrictions. ⚖️</li>\n</ul>\n<h3>💵 Price:</h3>\n<p>Social Messenger is a free-to-use app, though it may contain ads or offer in-app purchases to enhance the user experience. There are no initial costs to download and start using the app. 💸</p>\n<p><em>Please note that while the app itself is free, standard data rates may apply when using messenger services through it.</em></p>\n<p>Transform your communication with Social Messenger – your go-to hub for staying connected to everyone, everywhere.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-sst-parrot-photo-frame/53901.html",
+      "icon": "assets/img/apk/icon/com.sst.parrot.photo.frame.png",
+      "name": "Bird Photo Frame",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-new_year-stickers-birthday/39669.html",
+      "icon": "assets/img/apk/icon/com.new_year.stickers.birthday.png",
+      "name": "Happy New Year Stickers 2026",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/org-watchduty-app/14524.html",
+      "icon": "assets/img/apk/icon/org.watchduty.app.png",
+      "name": "Watch Duty (Wildfire)",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-snowcorp-stickerly-android/14453.html",
+      "icon": "assets/img/apk/icon/com.snowcorp.stickerly.android.png",
+      "name": "Sticker.ly - Sticker Maker",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-Happynewyearphotoframe2020/14421.html",
+      "icon": "assets/img/apk/icon/com.Happynewyearphotoframe2020.png",
+      "name": "New Year Video Maker 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-intira-new-year-photo-frame-new/14342.html",
+      "icon": "assets/img/apk/icon/com.intira.new.year.photo.frame.new.png",
+      "name": "New year photo frame 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-christmas-photo-frame-b-new-free/14203.html",
+      "icon": "assets/img/apk/icon/com.christmas.photo.frame.b.new.free.png",
+      "name": "Christmas photo frame 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/ma-apps-face_ml/14137.html",
+      "icon": "assets/img/apk/icon/ma.apps.face_ml.png",
+      "name": "Face reader scanner - analyser",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "3.3"
+    }
+  ]
+}

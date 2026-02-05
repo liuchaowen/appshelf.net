@@ -1,0 +1,107 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/ru.tutu.tutu_emp.png",
+    "title": "Flights, railways, hotels",
+    "ratings": "4.6",
+    "downloads": "940M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Flights, railways, hotels"
+    },
+    {
+      "name": "category",
+      "value": "Travel & Local"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Tutu.ru"
+    },
+    {
+      "name": "Version",
+      "value": "3.77.1"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/FnrvgSxD0qAotYJ0lVkIE2NeHZAOzMT7U-jYYnoXSfdsRPFN-jHPdZLBGsEncFYEsA",
+    "https://play-lh.googleusercontent.com/dsHjvo7JulpsGfv1ZoqPRPiuPmI9SK5tno9SOslzEa-NzUfjgZGQy8iM5DLQrjLe0Q",
+    "https://play-lh.googleusercontent.com/25q_ZUcJp7ykL7IL1r_rjqAteD_5NzrXtVrozPkdFohQiEq1GvBTDlrwLHzZ-9i00Vc"
+  ],
+  "app_descript": "<h3>Flights, railways, hotels</h3>\n<p><strong>Brief:</strong>\n\"Flights, railways, hotels\" is a comprehensive travel companion app that promises an easy and efficient booking experience for its users. Catering especially to travelers heading to Russia, particularly during high-profile events like the World Football Cup, it compares over 2,287 travel partners to deliver top-tier ticket options.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🌐 Extensive Partner Network: Access to a wide array of travel partners including Aeroflot, RZD, S7, Pobeda, and more.</li>\n<li>🎟️ Best Ticket Finder: Utilizes a powerful search algorithm to find the most suitable travel tickets for your needs.</li>\n<li>🏆 Special Event Focus: Enhanced services for major events, ensuring you get to your destination during busy periods like the World Football Cup.</li>\n<li>🌟 24/7 Support Team: A dedicated team ready to assist with your travel arrangements and inquiries.</li>\n<li>🏙️ Covering Major Cities: Easy booking to key Russian cities such as Moscow, St. Petersburg, Ekaterinburg, and others.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 User-friendly Interface: Designed for ease of use to navigate through various travel options.</li>\n<li>👍 Customizable Search: Filters and preferences help tailor your search for flights, trains, and hotels.</li>\n<li>👍 Reliable Customer Service: Responsive support team to help with potential travel issues and questions.</li>\n<li>👍 Real-Time Updates: Stay informed with the latest schedules and availability.</li>\n<li>👍 Event-Specific Travel: Special features for travelers attending events, ensuring availability amidst high demand.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 Limited Regional Focus: Primarily geared toward travel within Russia which may be a limitation for users seeking global options.</li>\n<li>👎 Connectivity Dependency: Requires internet connection for real-time updates and bookings.</li>\n<li>👎 Event-Centric: Non-event periods might have less comprehensive services.</li>\n<li>👎 Possible Overwhelm: The vast number of partners could make decision-making challenging for some.</li>\n<li>👎 Learning Curve: New users may need some time to fully utilize all features effectively.</li>\n</ul>\n<p><strong>💵 Price:</strong>\nThe app is free to download. However, in-app purchases and booking fees may apply based on the services and partners you choose.</p>\n<p>[Your crafted description here would not include a Community section since the app is not a game app.]</p>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-bp-app-bpme-global-ros/16042.html",
+      "icon": "assets/img/apk/icon/com.bp.app.bpme.global.ros.png",
+      "name": "earnify",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.6"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/kulana-tools-vacationcountdown/10380.html",
+      "icon": "assets/img/apk/icon/kulana.tools.vacationcountdown.png",
+      "name": "Vacation Countdown App",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.7"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-disney-playdisneyparks-goo/4681.html",
+      "icon": "assets/img/apk/icon/com.disney.playdisneyparks.goo.png",
+      "name": "Play Disney Parks",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-hornblower-statuecruises/4679.html",
+      "icon": "assets/img/apk/icon/com.hornblower.statuecruises.png",
+      "name": "Statue Cruises",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-usnpw-grca/4678.html",
+      "icon": "assets/img/apk/icon/com.usnpw.grca.png",
+      "name": "Grand Canyon National Park",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/MakeMyTrip-Hotels-Flight-Bus/4591.html",
+      "icon": "assets/img/apk/icon/com.makemytrip.png",
+      "name": "MakeMyTrip Hotels, Flight, Bus",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.6"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/ConfirmTkt/4570.html",
+      "icon": "assets/img/apk/icon/com.confirmtkt.lite.png",
+      "name": "ConfirmTkt",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.9"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/Bus-Train-Ticket-Booking-App/4503.html",
+      "icon": "assets/img/apk/icon/in.redbus.android.png",
+      "name": "Bus, Train Ticket Booking App",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.9"
+    }
+  ]
+}

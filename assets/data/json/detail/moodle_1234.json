@@ -1,0 +1,125 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.moodle.moodlemobile.png",
+    "title": "Moodle",
+    "ratings": "4.5",
+    "downloads": "620M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Moodle"
+    },
+    {
+      "name": "category",
+      "value": "Education"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Moodle Pty Ltd."
+    },
+    {
+      "name": "Version",
+      "value": "4.0.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/c9Lzev5US1sX42aLGygfaVyoaX-qiFx8HWFdmdzOoMRk_f0Blm-wOCO2_GpWMB10Tl8",
+    "https://play-lh.googleusercontent.com/dpzR-2eTV2nRHtOArWhdkxsFKRpK4GGQ0_RVP8okB-5eO8oLwho8kXrJJyjoMUu5SQ",
+    "https://play-lh.googleusercontent.com/iyFQQBLJouHc89PZnVehByBzOWQ4g2UQRGCGxnWxcYsSkdqPcP5WyeTpCans5PIjV7-x",
+    "https://play-lh.googleusercontent.com/qIW6h24Xlq5Idx1uKCn_6eYNCGllOB8kDWvJG-H7qwvjFr_yjs7qpfk_tRy60toubQ",
+    "https://play-lh.googleusercontent.com/IOjVu_sTuz99tLb2n6episNA3aSrWR9yPU9-oPqELWuIHBbEy274-jz0UI-KgWxJxfk",
+    "https://play-lh.googleusercontent.com/jBUH9XJFlbzsW-gss8NlgeAlwV-63qBaayjTCAJrK-pG6c9_7NNvmQyWPxTKoY02deG5",
+    "https://play-lh.googleusercontent.com/wcGWhDiDklL03h5M_f7ow1Cbr1nu-RePsWTVAtWsdzlrxCBVESm57wgFRSdwdfruoQ",
+    "https://play-lh.googleusercontent.com/jSr9Jz3cU5Zl_Co0l0TytuxereWwiFzWlRV4lzaICWvXdAKwoV5W587IqAtKg-Z3yGw",
+    "https://play-lh.googleusercontent.com/Ckq_Pn5UAcQ_2rCu9E9UykQoWrWUZPkoQKMqDOq6onBCcNM_Fyoo_jRbt5yJkzLyBnw",
+    "https://play-lh.googleusercontent.com/VHVv74irW5ia-oCWenLM0xafK_hsr4AB12dluposT5Ybp28YU5y7S9i9peh8BccIj_t8",
+    "https://play-lh.googleusercontent.com/k9kGa_Wi-HlmxvaoCHaJjTzhVUbw9U9WwYuL7gURtTPrP4QPxmC7-knbidtR3O3UgVM",
+    "https://play-lh.googleusercontent.com/zkMoKVW1A9fsMLMAkXrW-huIicGvxLeTd9tPICHYp4cLBMFJ8lY4OIf1aKg9Pn8BJ1s",
+    "https://play-lh.googleusercontent.com/3aZRIw6W7WE9mknc7zYn69ZuHqDnty-HOL-bnmiWphmM1PkZB4CSV7vqq-nRl5zaNlM",
+    "https://play-lh.googleusercontent.com/kZuZmFj9K7YeaIMZAXaeLHTP5dJ3g7BBbVMGKpdNKIM-9GbztjeLMzFNvURcI7YlQw",
+    "https://play-lh.googleusercontent.com/k67nx2TEdZFdFUTjvlet1xv2lZjPzTDnJhirsSoZEoZ1zBrdKtvq60cpXaB4IcqBrrU",
+    "https://play-lh.googleusercontent.com/ifLNHIEaacbuml8g64q9C-eJdwm-1Fc6F1vPaGuSMhV6YE3vv9IggsOJOK4E55qNMSs",
+    "https://play-lh.googleusercontent.com/PsbBDRdNrAyk8IPv1b0XpGCiUH15U7aXHfMcweD5LaQhnZz9FlsKshjs9BF6wCP3kQ",
+    "https://play-lh.googleusercontent.com/8wqds6jvgLSqhv4HixZCsVvOTUc9nlfeaJnPNXIpfjwVYy4YNNThEG4-A16_8AYxMdKe",
+    "https://play-lh.googleusercontent.com/R-pYpXHUM2P6UmUigAg_IWnuUbhWKVh9DSP-PB_Ue1dQSsXWWq9JruwyQW1TUdl1MTo",
+    "https://play-lh.googleusercontent.com/D9Xy2Hwu49C_M0dZduMswFIdCpwIZ9TDqxvAXRBboetgh70lJzGY4WasR5b0rrDLjQ",
+    "https://play-lh.googleusercontent.com/gB6CUHW7cpwZ_EBQpP5o4vs9Fwgy_-2MvvVJdkmNoHrlNGrNyv9Zmj8gc6LxPqjGwjfh"
+  ],
+  "app_descript": "<h3>Brief:</h3>\n<p>The Moodle app, cleverly engineered to extend the reach of educators and learners beyond the confines of physical classrooms, seamlessly integrates the potent features of the Moodle learning platform with the convenience of mobile technology. This comprehensive application allows for anytime, anywhere access to course content, communication, and grade tracking, making it an essential tool for students and educators in the digital age.</p>\n<h3>Core Features: 📌</h3>\n<ul>\n<li><strong>Offline Course Accessibility:</strong> Easily browse and access your course materials even without an internet connection.</li>\n<li><strong>Communication Hub:</strong> Direct messaging capabilities for staying in touch with peers and educators.</li>\n<li><strong>Calendar Sync:</strong> Maintains a detailed log of all academic events, deadlines, and personal reminders.</li>\n<li><strong>File Management:</strong> Upload and manage a variety of file formats directly from your mobile device.</li>\n<li><strong>Instant Notifications:</strong> Stay updated with real-time alerts for messages, forum posts, and assignment submissions.</li>\n</ul>\n<h3>Pros: 👍</h3>\n<ul>\n<li><strong>Enhanced Learning Experience:</strong> Provides educational resources at your fingertips, enriching the e-learning process.</li>\n<li><strong>User-Friendly Interface:</strong> Intuitive design for effortless navigation and content management.</li>\n<li><strong>Progress Tracking:</strong> Allows students to monitor their academic achievements and completion of activities.</li>\n<li><strong>Educator Benefits:</strong> Teachers can review and grade assignments anywhere, providing timely feedback.</li>\n<li><strong>Multimedia Support:</strong> Empowers students and teachers to incorporate diverse media types into learning and submissions.</li>\n</ul>\n<h3>Cons: 👎</h3>\n<ul>\n<li><strong>Resource Intensive:</strong> May require significant device storage for offline content and files.</li>\n<li><strong>Connectivity Dependency:</strong> Optimal features rely on internet access, impacting functionality in connectivity-starved zones.</li>\n<li><strong>Initial Learning Curve:</strong> New users may need some time to familiarize themselves with the app's extensive features.</li>\n<li><strong>Permission Requirements:</strong> Need for various device permissions might raise privacy concerns for some users.</li>\n<li><strong>Notification Overload:</strong> The potential for frequent alerts could be overwhelming for some users.</li>\n</ul>\n<h3>Price: 💵</h3>\n<p>Moodle is a free educational tool, promoting unfettered knowledge accessibility. However, depending on the institution's setup, there might be specific in-app services or features that could incur additional costs.</p>\n<h3>Community: 🕸️</h3>\n<ul>\n<li><strong>Official Site:</strong> <a href=\"https://moodle.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Moodle</a></li>\n<li><strong>YouTube Channel:</strong> Find Moodle's official channel as well as tutorials and user experiences.</li>\n<li><strong>Instagram:</strong> Connect with the community to share experiences and updates about Moodle.</li>\n<li><strong>Twitter:</strong> Follow <a href=\"https://twitter.com/moodle\" rel=\"noopener noreferrer\" target=\"_blank\">Moodle</a> to stay informed about the latest news and e-learning trends.</li>\n<li><strong>Facebook:</strong> Join discussions and get insights from a vast network of educators and learners on the <a href=\"https://www.facebook.com/moodle\" rel=\"noopener noreferrer\" target=\"_blank\">Moodle Facebook page</a>.</li>\n<li><strong>Reddit:</strong> Engage with fellow users on Reddit, discussing tips, tricks, and support topics.</li>\n<li><strong>Fandom Wiki:</strong> Although Moodle may not have an official wiki, user-generated content might be found across various educational forums and platforms.</li>\n</ul>",
+  "related_apps": [
+    {
+      "link": "/details/com-nibble-lesson/54302.html",
+      "icon": "assets/img/apk/icon/com.nibble.lesson.png",
+      "name": "Nibble: Your Bite of Knowledge",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-matlubapps-myiq/54109.html",
+      "icon": "assets/img/apk/icon/com.matlubapps.myiq.png",
+      "name": "IQ & Personality Tests: IQlab",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-home-lifehealthinsurance/48965.html",
+      "icon": "assets/img/apk/icon/com.home.lifehealthinsurance.png",
+      "name": "Life & Health Insurance Exam",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "3.5"
+    },
+    {
+      "link": "/details/pp-paramedic/48959.html",
+      "icon": "assets/img/apk/icon/pp.paramedic.png",
+      "name": "Paramedic Test Prep 2026",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "3.9"
+    },
+    {
+      "link": "/details/org-truthforlife-app/48953.html",
+      "icon": "assets/img/apk/icon/org.truthforlife.app.png",
+      "name": "Truth For Life",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-habapps-perstest/39344.html",
+      "icon": "assets/img/apk/icon/com.habapps.perstest.png",
+      "name": "The Personality Test",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-schooltoday-alphaomega/39316.html",
+      "icon": "assets/img/apk/icon/com.schooltoday.alphaomega.png",
+      "name": "Alpha & Omega",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-lucida-androidapp/34758.html",
+      "icon": "assets/img/apk/icon/com.lucida.androidapp.png",
+      "name": "Learn Languages - Lucida AI",
+      "categoryLink": "/en/categories/education/9",
+      "category": "Education",
+      "rating": "4.6"
+    }
+  ]
+}

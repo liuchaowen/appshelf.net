@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/gov.md.covid19.exposurenotifications.png",
+    "title": "MD COVID Alert",
+    "ratings": "4.3",
+    "downloads": "710M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "MD COVID Alert"
+    },
+    {
+      "name": "category",
+      "value": "Medical"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Maryland Department of Health"
+    },
+    {
+      "name": "Version",
+      "value": "minted12004"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>MD COVID Alert</strong></p>\n<p><strong>Brief:</strong>\nMD COVID Alert is Maryland's official COVID-19 Exposure Notifications app. Leveraging Apple and Google's Exposure Notification framework, it aims to help curb the spread of COVID-19 by alerting users of potential exposures to the virus through Bluetooth technology. This system respects user privacy and does not collect personal or location data.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>📶 <strong>Bluetooth Low Energy (BLE) Technology</strong>: Uses BLE to exchange random identifiers between devices anonymously.</li>\n<li>🚨 <strong>Exposure Notifications</strong>: Alerts users when they might have been exposed to someone who has tested positive for COVID-19, based on specific time and distance criteria.</li>\n<li>🔐 <strong>Privacy Protection</strong>: No correlation between an individual's personal data and the random identifiers, ensuring privacy and confidentiality.</li>\n<li>📌 <strong>Verification Process</strong>: Includes a PIN system for reporting positive test results to help maintain the app's integrity against false reports.</li>\n<li>🌐 <strong>Platform Integration</strong>: Works with the latest Apple and Google operating systems and is designed to operate efficiently in the background.</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 <strong>User Privacy</strong>: The app respects user privacy by not collecting personal or location information.</li>\n<li>👍 <strong>Battery Efficiency</strong>: Engineered to minimize battery drain despite using Bluetooth services.</li>\n<li>👍 <strong>Health Integration</strong>: Directly links with the Maryland Department of Health for verified test result reporting.</li>\n<li>👍 <strong>Community Effort</strong>: Encourages collective action in Maryland to protect one another and slow the spread of the virus.</li>\n<li>👍 <strong>Automatic Disable Feature</strong>: Both Apple and Google will deactivate the service after the pandemic no longer requires it.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 <strong>Dependence on User Adoption</strong>: Effectiveness reliant on widespread app adoption and use amongst the population.</li>\n<li>👎 <strong>Compatibility Issues</strong>: Requires the latest operating system updates, potentially excluding users with older devices.</li>\n<li>👎 <strong>False Sense of Security</strong>: While helpful, it cannot replace other safety measures like mask-wearing and social distancing.</li>\n<li>👎 <strong>Notification Accuracy</strong>: Potential for false alerts depending on the proximity and duration algorithm's accuracy.</li>\n<li>👎 <strong>Need for Continuous Operation</strong>: Users must consistently have Bluetooth enabled for app efficacy.</li>\n</ul>\n<p><strong>Price:</strong>\n💵 The MD COVID Alert app is a free service provided by the Maryland Department of Health to aid in the fight against COVID-19.</p>\n<p><strong>Community:</strong></p>\n<p><em>Note: No available community data provided.</em></p>\n<p>Use MD COVID Alert to play a part in Maryland's fight against COVID-19, with the assurance of maintaining your privacy and contributing to the safety of the community.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-stress-test/48991.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.stress.test.png",
+      "name": "Stress Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-procrastination-test/39516.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.procrastination.test.png",
+      "name": "Procrastination Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-bingeeating-test/39303.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.bingeeating.test.png",
+      "name": "Binge Eating Disorder Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-ocd-test/34780.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.ocd.test.png",
+      "name": "OCD Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-healthians-main-healthians/34760.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.healthians.main.healthians.png",
+      "name": "Healthians -Full Body Checkup",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-lbrc-PeriodCalendar/34759.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.lbrc.PeriodCalendar.png",
+      "name": "Period Tracker and Calendar",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/es-jshcd-edadosea/34693.html",
+      "icon": "https://img.buzzsight.co/apk/icon/es.jshcd.edadosea.png",
+      "name": "Bone age",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-devdis/16977.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.devdis.png",
+      "name": "Developmental Disabilities",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.5"
+    }
+  ]
+}

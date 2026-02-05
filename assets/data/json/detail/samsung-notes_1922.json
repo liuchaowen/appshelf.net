@@ -1,0 +1,128 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/samsung-notes.png",
+    "title": "Samsung Notes",
+    "ratings": "4.8",
+    "downloads": "690M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Samsung Notes"
+    },
+    {
+      "name": "category",
+      "value": "Productivity"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Samsung Electronics Co., Ltd."
+    },
+    {
+      "name": "Version",
+      "value": "2.0.02.31"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/iS0zbxT3xMGtFXJY5YvDnCDZ9iC4STCXyalP2n9FhD26pwfHC6N9uzcw40FT8-y_SyQ",
+    "https://play-lh.googleusercontent.com/Yc-gSZh5E36oCij3IGqUUheNv_YeHU351mXO2jVz8C5mSQAnSnpB7Qr1Qm1FLKBM3lsA",
+    "https://play-lh.googleusercontent.com/vxExOhgGaIApHnK3nHB4RSh1XM6TrWJzUH1IW7SwCRK2rOW5gucbbMZfW0iGvjoz9RM",
+    "https://play-lh.googleusercontent.com/ZdDcv_Wd2qsteP7LjVV5W0dLuYi-tNi9xL4Mr4QxYoqdNDc8d-a4PusY9wFOo8jQZw",
+    "https://play-lh.googleusercontent.com/FXESFbKcPZnOuwTxKzAw5l2RYeGi7ZtfuIJmr-1OTlg3QDI5jhUUmdR_0QkBIEolqsI",
+    "https://play-lh.googleusercontent.com/kZYnc3pkcJcTsnY2GXNro4Xd92ip1kMGZgzlt2oKFAndozSzFgaLw6k-kCOwo3oKUmI",
+    "https://play-lh.googleusercontent.com/hJHz_CLaTjQgRwERlOD4FBYD_rY4ESb4bWb6oIGIxH1BSyiHZBcUguwc6ZZJWZKCVlk",
+    "https://play-lh.googleusercontent.com/_G-tHncWd89SDeQYjH95YQli7WMaixlMnlS5rsQxOKfQHFBqrjrz-sQblPldgVx88Mae",
+    "https://play-lh.googleusercontent.com/aDv2eKVFxbTifHEf5Xx4O2NGzqU9IUq0XgTb1KFPVf8GxnslzNpSsx-bQMII2t_tmw",
+    "https://play-lh.googleusercontent.com/JpaHvsyn0T6JWKs003ccdbry1M8ylc_l8ZWFv3bIEqnDJE1ZjcAMn0FOuYrJFgaIY98",
+    "https://play-lh.googleusercontent.com/cGEKMihCR3Hw5kzjdvCSqwJQ03n3uOIZWyDjsitIt2dUC3letvoA8Ycd-WzFAj5pW58z",
+    "https://play-lh.googleusercontent.com/QcVUVp9KhEmt8ZfUUGpm89zTb92a6TUua9aGroflcAbSeHjtu_nL-_TXvx-1hnxe7bA",
+    "https://play-lh.googleusercontent.com/ZBbUMTPVC5Vty3xggNnIG8xmkquIeqJG8WSilbvExIFwNMd6Kud84WkTan7uPJQl23pj",
+    "https://play-lh.googleusercontent.com/KHAVgBZvit5ySug9s1c2Y5m3j19WzZKn0y6NYaLfZNy5nes_sdjBX0C1clFaNAXMdPo",
+    "https://play-lh.googleusercontent.com/dtVTpbE8Np_drMuDgo7tm823rI4Qe-c7SzZyIyn6TbZQn7VsLTEU-_qzFIWeTUE6qw",
+    "https://play-lh.googleusercontent.com/rSunMZLNea46ClTh0aGBXxJMPL5GTaGG2RiOZVT9CtGm5Py6evRR6hXtZNIFD1nbfVkN",
+    "https://play-lh.googleusercontent.com/XrgweHCu-_x5ydAAvNokHeTr62bNIVjtR71DtIzQ3CjVUqqo068Pmd7o09gLR6ZPaLZk",
+    "https://play-lh.googleusercontent.com/NqtuCH_U8mS4dzUqBahw8z9s1gvRQu4FJNmKCJF-65grn6gqoAr2Xm5zfMCZTP4yUYg",
+    "https://play-lh.googleusercontent.com/bVb5NdKF1x6FMSDmMTwB3ZHGIKksolmqTAi9hRZlfaZz8eKNSVWa9swQkSRjeiGy1bUw",
+    "https://play-lh.googleusercontent.com/Yg-YMCyqpgzzPa8xl2cpLvfUT47nLaiG4SYaC3UiGif27N-r_MuhieuRay7jiTJaBWE",
+    "https://play-lh.googleusercontent.com/ztEUD_HUsZTrxBPiWhzYTUn2leJpJeKGFvrv2Ne20pS2rAU3BOwau2kN227nxbVjWj4",
+    "https://play-lh.googleusercontent.com/pVYEDpBEsjCNWzulOz0CMRqxHAyX2gt73MzO7deNMeEsPY-M8NT69LK_CHKeWl8zFA",
+    "https://play-lh.googleusercontent.com/GIOuCloiOZyoqYRVfTORv2eydE-E-G7bJSiWu16zQZz1nVegPm1YWMfdkMu_hkXOxlc",
+    "https://play-lh.googleusercontent.com/ZxAWz7A9t06IOLr6Imo74HYgTrSt5N_a9llaYSEg740BKXlkVz7LpjhPyws535ofNnsg"
+  ],
+  "app_descript": "<p><strong>Samsung Notes</strong></p>\n<hr/>\n<h3>Brief</h3>\n<p>Samsung Notes is the premiere note-taking app designed with Samsung device users in mind. It works harmoniously with S Pen, providing a versatile and intuitive platform where creativity and productivity flourish. Handwrite notes, add multimedia elements, personalize with a variety of pen tools, and secure your thoughts all within this digital notebook that syncs effortlessly with your Samsung account.</p>\n<h3>Core Features 🌟</h3>\n<ul>\n<li><strong>Handwriting Recognition:</strong> Jot down notes by hand and let Samsung Notes transcribe them into text for easy readability and organizing. 📝</li>\n<li><strong>Multimedia Inclusion:</strong> Enrich notes by adding images and audio recordings with simple taps on the interface. 📷🎙️</li>\n<li><strong>Artistic Tools:</strong> A selection of pen types and brushes, along with a kaleidoscope of colors, allows you to customize your notes and sketches. 🎨</li>\n<li><strong>Sync Across Devices:</strong> Seamlessly sync your notes to your Samsung account, ensuring access across all your Samsung devices. ☁️</li>\n<li><strong>Secure Notes:</strong> Protect your sensitive information with password-locked notes, keeping your private ideas safe and secure. 🔐</li>\n</ul>\n<h3>Pros 👍</h3>\n<ul>\n<li><strong>Intuitive S Pen Integration:</strong> Maximize the capabilities of the S Pen with advanced note-taking and artistic functions. ✏️</li>\n<li><strong>Cross-Platform Compatibility:</strong> Import notes from S Note and Memo, making the transition to Samsung Notes smooth and hassle-free. 🔄</li>\n<li><strong>Ease of Use:</strong> The user interface is straightforward, suitable for both quick notes and elaborate creations. 🤏</li>\n<li><strong>Regular Updates:</strong> Continual enhancements keep the app functioning smoothly and introduce new features. 🆕</li>\n</ul>\n<h3>Cons 👎</h3>\n<ul>\n<li><strong>Limited to Samsung Users:</strong> The app works best with Samsung devices, potentially excluding users of other brands. 📴</li>\n<li><strong>Storage Space:</strong> High-resolution images and audio can quickly consume the device's storage capacity. 💾</li>\n<li><strong>Learning Curve:</strong> Some features, especially for advanced users, may require time to master. ⏳</li>\n<li><strong>No Cross-OS Compatibility:</strong> Syncing is limited to Samsung devices, meaning no direct support for syncing with non-Samsung or non-Android devices. 🚫</li>\n</ul>\n<h3>Pricing 💵</h3>\n<p>Samsung Notes is a <em>free</em> app, pre-installed on most Samsung devices. There is no mention of in-app purchases, making all features accessible without extra cost upon having a compatible Samsung device.</p>\n<hr/>\n<p>Samsung Notes brings a sophisticated digital notepad to your fingertips, merging the traditional pen and paper experience with the advantages of modern technology. Whether for casual note-takers or devoted artists, this app provides a platform for all your creative and organizational needs.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-takeofflabs-fontmaker/54188.html",
+      "icon": "assets/img/apk/icon/com.takeofflabs.fontmaker.png",
+      "name": "Fontmaker - Font Keyboard App",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-game-console-emulator/39577.html",
+      "icon": "assets/img/apk/icon/com.game.console.emulator.png",
+      "name": "Gamu: Retro Game Hub",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/app-itwingtech-power_of_mind-predicator/39340.html",
+      "icon": "assets/img/apk/icon/app.itwingtech.power_of_mind.predicator.png",
+      "name": "Mind Test: Test My Brain",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-pdfreader-pdfeditor-scandocu-pro-app-amb/16953.html",
+      "icon": "assets/img/apk/icon/com.pdfreader.pdfeditor.scandocu.pro.app.amb.png",
+      "name": "PDFPro: Scanner & Editor",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "3.8"
+    },
+    {
+      "link": "/details/ai-perplexity-app-android/16744.html",
+      "icon": "assets/img/apk/icon/ai.perplexity.app.android.png",
+      "name": "Perplexity - Ask Anything",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-safeshellvpn/16639.html",
+      "icon": "assets/img/apk/icon/com.safeshellvpn.png",
+      "name": "SafeShell VPN: Fast & Secure",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-roblox-skin-cloth-freeskins/16603.html",
+      "icon": "assets/img/apk/icon/com.roblox.skin.cloth.freeskins.png",
+      "name": "Clothes Skin For Roblox",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-underthing-focus-friend/16526.html",
+      "icon": "assets/img/apk/icon/com.underthing.focus.friend.png",
+      "name": "Focus Friend by Hank Green",
+      "categoryLink": "/en/categories/productivity/21",
+      "category": "Productivity",
+      "rating": "4.7"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.parkindigo.ca.png",
+    "title": "Indigo Neo",
+    "ratings": "2.1",
+    "downloads": "880M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Indigo Neo"
+    },
+    {
+      "name": "category",
+      "value": "Maps & Navigation"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Park Indigo"
+    },
+    {
+      "name": "Version",
+      "value": "4.2.2148"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/WBF84VrcPYEz3eiQW0lGcgMmDVJojcSWNsmaG0RCVzNgEXypzU0xO07gi0HfBgbb1z8",
+    "https://play-lh.googleusercontent.com/O_N9iVaeQ3pAyIs79Q_1v_4Xei2Wx5rMXxLNQ9rwHPpY5awYA5BpcG3rPpAQQoZ9IgU",
+    "https://play-lh.googleusercontent.com/8_2BqjTHatfENP0qYoUor_SFVqeeC590lfn8Co7qNlCCMBYJlFawY10RN41zOd2z0fI",
+    "https://play-lh.googleusercontent.com/cY5BrKnIhVL3TyaRFY1LxzXqJexaYJiJcmOye26yMdecge5NUzJsLeUB3ZdZ475I6g",
+    "https://play-lh.googleusercontent.com/8t__iuXCAwRGi34IqHDUtZr3rUl9UPpNQJwLgRQxV02wssytQObPY4E4qFyVyP8B3IU",
+    "https://play-lh.googleusercontent.com/aoQdV266ZHhWHliSBwMwK5v1sbyyEGneeketj7o2qSQr9e7mWUriZvzaaTN_-H7vxQ",
+    "https://play-lh.googleusercontent.com/S4pJfOYXe7tT_6d1l6A9I4wVef719Kxo50sNfV0ewLJeWhAjufor6hX-VwRmgZ8DxBU",
+    "https://play-lh.googleusercontent.com/tu4kCDyTD60IL7Dvr9sf_qYhHQ1lRa27Mhz0BuT30OOmnIoemscRcpHYnDuZliY9Ug"
+  ],
+  "app_descript": "<h3>Indigo Neo: Your Ultimate Parking Companion</h3>\n<p><strong>Brief:</strong>\nIndigo Neo transforms the way you park by offering a sleek and user-friendly solution for managing parking transactions. Whether you're in a rush or planning ahead for a big event, this app puts all your parking needs into the palm of your hand, streamlining the process with a few simple taps.</p>\n<p><strong>Core Features:</strong> 🌟</p>\n<ul>\n<li>🚗 <strong>One-Tap Payment:</strong> Complete your parking payment within seconds for a hassle-free experience.</li>\n<li>📅 <strong>Event Pre-booking:</strong> Reserve a parking spot ahead of time for events to avoid last-minute inconveniences.</li>\n<li>⏱️ <strong>Express Entry &amp; Exit:</strong> Save valuable time with a swift in &amp; out service provided by the app.</li>\n<li>🔄 <strong>Account Management:</strong> Easily handle all your details and personal information through a secure account.</li>\n</ul>\n<p><strong>Pros:</strong> 👍</p>\n<ul>\n<li>🕓 <strong>Efficient Parking:</strong> Optimize your parking time by handling it all through the app.</li>\n<li>📈 <strong>Monthly Subscriptions:</strong> New feature allows monthly parking management with ease.</li>\n<li>🌐 <strong>Wide Network Access:</strong> Access to a vast network of over 1,000 parking lots nationwide.</li>\n<li>💾 <strong>Unified Account:</strong> One account to manage all your parking plans and preferences.</li>\n</ul>\n<p><strong>Cons:</strong> 👎</p>\n<ul>\n<li>📱 <strong>App Dependency:</strong> Reliance on mobile app functionality for parking transactions.</li>\n<li>🗺️ <strong>Limited Availability:</strong> Services are restricted to locations where Indigo Neo is operational.</li>\n<li>📶 <strong>Network Connectivity:</strong> Requires a stable internet connection for real-time updates.</li>\n<li>🆕 <strong>Adaptation Curve:</strong> Some users may need time to adapt to new features and updates.</li>\n</ul>\n<p><strong>Price:</strong> 💵\nIndigo Neo is free to download, and users can manage their monthly self-service subscriptions directly within the app. Additional costs may vary based on the parking services used.</p>\n<p><em>Community:</em> Since Indigo Neo is a utility app, not a game, no community section is included.</p>\n<p>By choosing Indigo Neo, you are not only opting for convenience but also for a smart approach to managing your parking experience. Download it now and see how it revolutionizes your parking routine!</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-hundred-qibla-finder/14082.html",
+      "icon": "assets/img/apk/icon/com.hundred.qibla.finder.png",
+      "name": "Qibla Finder Compass 100%",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/kbk-maparea-measure-geo/5067.html",
+      "icon": "assets/img/apk/icon/kbk.maparea.measure.geo.png",
+      "name": "Gps Area Calculator",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "3.9"
+    },
+    {
+      "link": "/details/Offline-Maps-GPS-Speedometer/4633.html",
+      "icon": "assets/img/apk/icon/com.radarapp.trip.speedometer.png",
+      "name": "Offline Maps, GPS, Speedometer",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/Satellite-View-Offline/4620.html",
+      "icon": "assets/img/apk/icon/com.breezeammarathon.viskoproton.grampooffline.png",
+      "name": "Satellite View Offline",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/Rapido/4563.html",
+      "icon": "assets/img/apk/icon/com.rapido.passenger.png",
+      "name": "Rapido",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/CarInfo/4500.html",
+      "icon": "assets/img/apk/icon/com.cuvora.carinfo.png",
+      "name": "CarInfo",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-trailbehind-android-gaiagps-pro/4473.html",
+      "icon": "assets/img/apk/icon/com.trailbehind.android.gaiagps.pro.png",
+      "name": "Gaia GPS: Offroad Hiking Maps",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-gpsnavigation-maps-gpsroutefinder-routemap/4472.html",
+      "icon": "assets/img/apk/icon/com.gpsnavigation.maps.gpsroutefinder.routemap.png",
+      "name": "GPS Navigation: Road Map Route",
+      "categoryLink": "/en/categories/maps.navigation/30",
+      "category": "Maps & Navigation",
+      "rating": "4.5"
+    }
+  ]
+}

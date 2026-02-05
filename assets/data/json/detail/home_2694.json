@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/home.png",
+    "title": "Home",
+    "ratings": "4.7",
+    "downloads": "930M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Home"
+    },
+    {
+      "name": "category",
+      "value": "Shopping"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Wish Inc."
+    },
+    {
+      "name": "Version",
+      "value": "1.0.5"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h3>Home - Your One-Stop Shop for Home Essentials</h3>\n<p><strong>Brief:</strong>\n'Home' is a comprehensive shopping application tailored to individuals wanting to furnish and accessorize their living spaces without stretching their wallets. With a carefully curated selection of kitchenware, bedroom essentials, and more, 'Home' pledges to make your shopping experience seamless and service-oriented, all while presenting you with prices that will undoubtedly win you over.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🛍️ <strong>Extensive Range of Products</strong>: Explore a vast inventory of home goods, from handy kitchen gadgets to cozy bedroom accessories.</li>\n<li>💰 <strong>Competitive Pricing</strong>: Access the most attractive prices on the market for an array of high-quality items.</li>\n<li>🏭 <strong>Manufacturer Direct</strong>: Purchase products straight from the source, ensuring authenticity and cost-effectiveness.</li>\n<li>📦 <strong>Easy Navigation</strong>: Smooth and user-friendly interface to efficiently find exactly what you're looking for.</li>\n<li>🥇 <strong>Top-Notch Service</strong>: Exceptional customer service experience putting your convenience and satisfaction first. </li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 <strong>Affordable Deals</strong>: Enjoy your favorite items at the most favorite price points.</li>\n<li>👍 <strong>Diversity in Selection</strong>: A plethora of goods means you're more likely to find what you need.</li>\n<li>👍 <strong>Quality Assurance</strong>: Direct manufacturer connections imply high-quality products with trustworthy origins.</li>\n<li>👍 <strong>All-in-One Platform</strong>: Keeping various home needs under one digital roof saves time and enhances shopping efficiency.</li>\n<li>👍 <strong>User-Oriented Experience</strong>: The app prioritizes user needs, making it a reliable tool for home shopping.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 <strong>Online-Only</strong>: May not cater to customers preferring in-person shopping experiences.</li>\n<li>👎 <strong>Delivery Dependencies</strong>: Reliant on shipping services, which can introduce delays or issues beyond control.</li>\n<li>👎 <strong>Potential Overwhelm</strong>: Large product assortments could make decision-making challenging for some users.</li>\n<li>👎 <strong>Internet Requirement</strong>: Requires a stable internet connection for browsing and transactions.</li>\n<li>👎 <strong>Limited to App Usage</strong>: Shopping is restricted to the app, possibly excluding users without compatible devices.</li>\n</ul>\n<p><strong>Price:</strong></p>\n<ul>\n<li>💵 The 'Home' app is free to download with an extensive array of products available for purchase. Keep an eye out for potential in-app purchases or promotions that enhance your shopping spree.</li>\n</ul>\n<p>By consolidating a wide range of home essentials into a single, accessible app, 'Home' redefines the convenience of online shopping. Whether you're looking to spruce up your space or simply scout out the next great deal for your home, 'Home' is your digital destination for everything cozy, chic, and cost-effective.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-seagm-store/54458.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.seagm.store.png",
+      "name": "SEAGM - Games Topup, Gift Card",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-gowish-app/39285.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.gowish.app.png",
+      "name": "GoWish - Your Digital Wishlist",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-aldisued-shopgo/16934.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.aldisued.shopgo.png",
+      "name": "ALDI SHOP&GO",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.2"
+    },
+    {
+      "link": "/details/com-wakefern-shoprite/16933.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.wakefern.shoprite.png",
+      "name": "ShopRite: Groceries & Savings",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-yaxo-vancamper/16894.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.yaxo.vancamper.png",
+      "name": "Vancamper: Buy sell campervans",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/com-elfster-elfdroid/16861.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.elfster.elfdroid.png",
+      "name": "Elfster: The Secret Santa App",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-biggu-shopsavvy/16860.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.biggu.shopsavvy.png",
+      "name": "ShopSavvy - Barcode Scanner",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/moloapps-gifttracker/16845.html",
+      "icon": "https://img.buzzsight.co/apk/icon/moloapps.gifttracker.png",
+      "name": "GiftTracker : Gift List Helper",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.1"
+    }
+  ]
+}

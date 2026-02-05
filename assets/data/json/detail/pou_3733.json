@@ -1,0 +1,128 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/pou.png",
+    "title": "Pou",
+    "ratings": "4.6",
+    "downloads": "970M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Pou"
+    },
+    {
+      "name": "category",
+      "value": "Casual"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Zakeh"
+    },
+    {
+      "name": "Version",
+      "value": "1.4.69"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/MNOy5QOdhAb8MUrsKd6fYyQGLgZNrKItS31ksNXJoqDfe6WwslnPsszMc5fsFTUIPok",
+    "https://play-lh.googleusercontent.com/qAzcGFplZfx-_91fc8iJLyVvDUQQayCTE4Wo6_2uCUm7u5_Tvbm-4DliiZtLUhD6xis",
+    "https://play-lh.googleusercontent.com/Qma3euQywNgJm4w7dC90egCCcXOsrXMlvEGWxwUO-XM4WYeXu4S94HyJnKLnOt-m5A",
+    "https://play-lh.googleusercontent.com/U55MGIwCZPyhSRyRh9eN9LACduGSDR2X0wHFk-jLe_w90Qg4HFI2Hpq-dJqxG2KTCOTp",
+    "https://play-lh.googleusercontent.com/Leu3bAO47bHQE0tR1fiKWa9q6wYBAZive6P9LO95X6NFVrQmezbQrNOqRK46nnvfAw",
+    "https://play-lh.googleusercontent.com/NC2FIj1pVAlfLnFvUJFJETcFdYkWa5OP5YR5J6gUhPiR3Wg7EwxmCotFDQN1FRdF6y4",
+    "https://play-lh.googleusercontent.com/a2T6daLBJJeOsXwBYjQ1kOiH6oCc-7PdthOTxqm4Z5h24psQR0ZFCsz6jJwNC1puyhs",
+    "https://play-lh.googleusercontent.com/GLsD4csr0R7lHxl6G5DEAej30N37dDB7SLXLYZQMJPdBQH2IbcSzNsPYnsBV9g71BkU",
+    "https://play-lh.googleusercontent.com/0JMWwcDDqnWw7G-9BRKYyIJtYm1f8O9zX-F-kqr6PHswl8_htxx0aMYzyBMnGITnoOI",
+    "https://play-lh.googleusercontent.com/Hsb2QEZYErPtaZkKP4sZJHzfbiOYtv719kN1IUXTXzBY4CuW7IlifpeP0AWvMqOiC6k",
+    "https://play-lh.googleusercontent.com/Cw8plkgMQXuvBwCznjpGJcKU4X6caPEASTwv1MDizjFqfRHYKbLQA85hFalr1exbq9U",
+    "https://play-lh.googleusercontent.com/gmUs7RqICGP8fCST88DfWZaUBGLBdp5-QKogiG8G-NJGUtrltIYqmPjZQt4mPjRkziFO",
+    "https://play-lh.googleusercontent.com/_FQD9Nhd0CS_Teiw6IJI1PhLhaQ7MEN4i8eb41Jm3F15xstrHpVFbIDN1Gb2ng1KWPk",
+    "https://play-lh.googleusercontent.com/PsqpUCsnD5GeGQUxwTEVjI5N3UgFvgQgBTzOFwomkvA791TmeGI2lUksL1UQnujaiz8",
+    "https://play-lh.googleusercontent.com/fDsk17Nb2G6iq8e8MKVMq8n3Em6qb3Ywe6EC_i4Wrh1xdjYQGLHzXTtR7FdaA7f-hGCt",
+    "https://play-lh.googleusercontent.com/desVUjuiFjEICiX4M8V63fFoIzdcg5yIXO2r35Bw4wikCHYr4JbLmdYhVzzzUbPcNWQ",
+    "https://play-lh.googleusercontent.com/FqlB0QkwQaQSLM0pv52m24UFr_P-0myopTwDwm6PBZT_jcEVzM40Vn54KGr8TWy8e7x1",
+    "https://play-lh.googleusercontent.com/cRw3byRjwXh3zADiVKSDks3jtgrcZiunIaYzPYOKv65L6951uFsjgJd7ZdTvCP-rm79y",
+    "https://play-lh.googleusercontent.com/Oe1Wg-Uus5w2DQc6fdlMitIeI2261unh1NVsiOrIyxy0h3SF-UkoOgp6FH8h-CHsNNiy",
+    "https://play-lh.googleusercontent.com/OOwXgs1w7vcXynYAiF-ki3uVY96aRNc4GUYQLoHrJ4O5ceXuNU9_ajTjwvo7QGJqUS6C",
+    "https://play-lh.googleusercontent.com/yT7xCKg4b3qbzEFmdBT3gyjIzrx1Lv9aNsQ-feBGh8GK2VGxJ_f96RRAdHdA0MiSZq85",
+    "https://play-lh.googleusercontent.com/s61UbzTuA4pByDD5T_EX1bei7je7EqkqOkVs6J_0EmCrrA-9G44O8kOFefZ1fwg7oS0",
+    "https://play-lh.googleusercontent.com/WD4mG4beyEJLUJdSVYmNTEKfSlYKTYlmJHnHOxxocmox84PwiLMeOq7B0rqMX8DlVoE",
+    "https://play-lh.googleusercontent.com/mBWzAodcP2LzF8fF53iZ1KtCHdglL7iNhHeeX5cLNaxRJxm-0RnnM1RmpOKGNO0MFjQ"
+  ],
+  "app_descript": "<hr/>\n<h3>Brief</h3>\n<p>Pou is an engaging virtual pet simulation where you're tasked with the caretaking of your own alien pet, Pou. Nurture and witness your Pou's growth as you personalize its world, play interactive games, and enjoy its company alongside friends.</p>\n<h3>Core Features</h3>\n<ul>\n<li><strong>Virtual Pet Care</strong>: Babysit and see your Pou evolve through stages of growth 🌱</li>\n<li><strong>Game Room Fun</strong>: Earn coins by playing fun-filled games in the Game Room 🎮</li>\n<li><strong>Personalization</strong>: Customize your Pou with a variety of outfits and set wallpapers for its living space 🎨</li>\n<li><strong>Friend Interaction</strong>: Play and interact with your friends’ Pous 🤝</li>\n<li><strong>Achievement Rewards</strong>: Unlock special items and achievements by reaching new milestones 🏆</li>\n<li><strong>Pou Communication</strong>: Engage in conversations with your Pou 🗣️</li>\n</ul>\n<h3>Pros</h3>\n<ul>\n<li><strong>Multilingual Support</strong>: Pou speaks and supports a wide range of languages, facilitating a global user base 👐</li>\n<li><strong>Social Connectivity</strong>: The ability to connect and play with friends enhances the social aspect of the game 🌐</li>\n<li><strong>Continuous Updates</strong>: Regularly updated with new games and outfits, keeping the content fresh ✨</li>\n<li><strong>Interactive Gameplay</strong>: The app offers direct interaction with Pou, which makes the virtual pet experience more immersive 🎈</li>\n</ul>\n<h3>Cons</h3>\n<ul>\n<li><strong>In-App Purchases</strong>: Some content may require in-app purchases, which can add up 💸</li>\n<li><strong>Repetitive Tasks</strong>: The gameplay may become repetitive over time with similar care routines and limited game room options 🔁</li>\n<li><strong>Advertising</strong>: Contains ads which may interrupt the gameplay experience 📢</li>\n<li><strong>Storage Space</strong>: The app may take up a significant amount of storage space on the device 🗂️</li>\n</ul>\n<h3>Price</h3>\n<p>Pou is available for free, but it does include in-app purchases for various items and game currency. These purchases could range from small amounts for items to larger packages for coins. 💵</p>\n<h3>Community</h3>\n<ul>\n<li><strong>Official Site</strong>: <a href=\"http://www.pou.me/\" rel=\"noopener noreferrer\" target=\"_blank\">Pou</a></li>\n<li><strong>YouTube</strong>: Explore tips and tricks on the <a href=\"https://www.youtube.com/channel/UCVj7Pl9yyW1BCTtd9nJCCRA\" rel=\"noopener noreferrer\" target=\"_blank\">Pou Official YouTube</a> channel.</li>\n<li><strong>Popular YouTube Channels</strong>: Discover strategies and gameplay on channels like <a href=\"https://www.youtube.com/results?search_query=Pou+gameplay\" rel=\"noopener noreferrer\" target=\"_blank\">Pou Gameplay</a>.</li>\n<li><strong>Instagram</strong>: Follow Pou on <a href=\"https://www.instagram.com/explore/tags/pougame/\" rel=\"noopener noreferrer\" target=\"_blank\">Instagram</a>.</li>\n<li><strong>Twitter</strong>: Get the latest updates on <a href=\"https://twitter.com/search?q=Pou%20game&amp;src=typed_query\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a>.</li>\n<li><strong>Discord</strong>: Join the Pou community on <a href=\"https://discord.com/search?keywords=Pou\" rel=\"noopener noreferrer\" target=\"_blank\">Discord</a>.</li>\n<li><strong>Facebook</strong>: Connect with other fans on <a href=\"https://www.facebook.com/search/top?q=Pou%20game\" rel=\"noopener noreferrer\" target=\"_blank\">Facebook</a>.</li>\n<li><strong>TikTok</strong>: Watch and share Pou clips on <a href=\"https://www.tiktok.com/search?q=pou%20game\" rel=\"noopener noreferrer\" target=\"_blank\">TikTok</a>.</li>\n<li><strong>Reddit</strong>: Participate in discussions with the Pou community on <a href=\"https://www.reddit.com/r/Pou/\" rel=\"noopener noreferrer\" target=\"_blank\">Reddit</a>.</li>\n<li><strong>Fandom Wiki</strong>: Absorb comprehensive information about Pou on the <a href=\"https://pou.fandom.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Fandom Wiki</a>.</li>\n</ul>\n<hr/>",
+  "related_apps": [
+    {
+      "link": "/details/com-mirai-funnyjoke-pranksounds-spranky/54464.html",
+      "icon": "assets/img/apk/icon/com.mirai.funnyjoke.pranksounds.spranky.png",
+      "name": "Funny Prank: Monster Sound",
+      "categoryLink": "/en/categories/casual/39",
+      "category": "Casual",
+      "rating": "3.4"
+    },
+    {
+      "link": "/details/com-beateacher-game-qwepi-glc/54452.html",
+      "icon": "assets/img/apk/icon/com.beateacher.game.qwepi.glc.png",
+      "name": "Be A Teacher Mini App",
+      "categoryLink": "/en/categories/casual/39",
+      "category": "Casual",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-pixeland-talkingbuddy/54440.html",
+      "icon": "assets/img/apk/icon/com.pixeland.talkingbuddy.png",
+      "name": "My Talking Slimy - Slime Buddy",
+      "categoryLink": "/en/categories/casual/39",
+      "category": "Casual",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-hmbl-perfect-clean-tidy-asmr/54428.html",
+      "icon": "assets/img/apk/icon/com.hmbl.perfect.clean.tidy.asmr.png",
+      "name": "Perfect Clean: Tidy ASMR",
+      "categoryLink": "/en/categories/casual/39",
+      "category": "Casual",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-cat-hole-puzzle-aos/54368.html",
+      "icon": "assets/img/apk/icon/com.cat.hole.puzzle.aos.png",
+      "name": "Drop the Cat!",
+      "categoryLink": "/en/categories/casual/39",
+      "category": "Casual",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-jigsolitare-anti-stress-game/54345.html",
+      "icon": "assets/img/apk/icon/com.jigsolitare.anti.stress.game.png",
+      "name": "Jigsolitaire: Anti Stress",
+      "categoryLink": "/en/categories/casual/39",
+      "category": "Casual",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-battle-deskmate/54075.html",
+      "icon": "assets/img/apk/icon/com.battle.deskmate.png",
+      "name": "Puzzle Collection: Mini Games",
+      "categoryLink": "/en/categories/casual/39",
+      "category": "Casual",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/no-wifi-offline-games-puzzle-games/54063.html",
+      "icon": "assets/img/apk/icon/no.wifi.offline.games.puzzle.games.png",
+      "name": "Mini Games Offline All in One",
+      "categoryLink": "/en/categories/casual/39",
+      "category": "Casual",
+      "rating": "4.5"
+    }
+  ]
+}

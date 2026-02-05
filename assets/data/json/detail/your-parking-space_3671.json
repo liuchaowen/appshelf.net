@@ -1,0 +1,110 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.netsells.yourparkingspace.png",
+    "title": "Your Parking Space",
+    "ratings": "3.8",
+    "downloads": "710M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Your Parking Space"
+    },
+    {
+      "name": "category",
+      "value": "Travel & Local"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "YourParkingSpace.co.uk"
+    },
+    {
+      "name": "Version",
+      "value": "6.4.1"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/aho9w383f5jW2LzOcn7V03O_hxRIQt1KzlhOxhwT9ni2kJ5smfOms1IE1e7Fd7pMQmo",
+    "https://play-lh.googleusercontent.com/ooKoB37zew55VFsQLzsVO88EcNzybeCoS6oOa9BUWI16Kg7P0UK-ENGbCcN8ULHsWmo",
+    "https://play-lh.googleusercontent.com/zcse4Z7WoRZW1d5DQI3Lj-TEA9ftyDDEFfOZvRtx4wGwwasTO-OnbEJNOZkodDoSlA",
+    "https://play-lh.googleusercontent.com/aYrwJ6Us2YO03l3p1A1snR8Uf-5yVbpH8G2j0VB5ATzr0Aa-BUTvvJj5UdF2ve-qynJ1",
+    "https://play-lh.googleusercontent.com/4qciSs0QWVNZoe-gC7J9BBZJ0PueAbRQZZvTKn9nwB30az6erK8QFy9E0gz6QrSL_J8",
+    "https://play-lh.googleusercontent.com/QN6W8C8gWEAJkbHqHUEs0M1Kk9m9kW3613EN4Vkx4GC4Ci9qC6tejPOW9J0svGmJOS4"
+  ],
+  "app_descript": "<p><strong>Your Parking Space</strong></p>\n<p><strong>Brief:</strong>\nYour Parking Space streamlines the process of finding and booking parking spaces in various locales across the UK. Through its comprehensive coverage, including pivotal urban hubs like London and Manchester to Liverpool and Edinburgh, this digital platform provides a hassle-free parking solution, bypassing common alternatives such as Ringo &amp; PayByPhone. It caters to the diverse parking needs of its users, whether that's for an hour, a day, or a month, and ensures seamless transactions via modern payment methods.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🗺️ Nationwide Coverage: Instantly locate over 250,000 parking spots throughout the UK for unparalleled convenience.</li>\n<li>🕒 Flexible Booking Options: Choose from hourly, daily, or monthly reservations to tailor-fit your parking needs.</li>\n<li>💰 Cost-Efficiency: Save up to 70% compared to standard drive-up rates by pre-booking through the app.</li>\n<li>🛒 Three-Click Checkout: Store your payment details and book spots swiftly in future transactions.</li>\n<li>💳 Secure Payments: Complete bookings with peace of mind using PayPal, Apple Pay, or credit/debit cards. </li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👌 User-Friendly Interface: Effortlessly search, book, and manage parking without stress.</li>\n<li>✈️ Airport and Stadium Parking: Specific locations catered for, aiding convenience for event-goers and travelers.</li>\n<li>💸 Earn Passive Income: List your own space to make extra money effortlessly.</li>\n<li>🔄 Complete Management: The app takes care of all aspects from listing to booking management.</li>\n<li>📱 On-The-Go Access: All your booking details are readily available on your device wherever you go.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>📍 UK Only: Service is currently limited to the United Kingdom.</li>\n<li>🏘️ Compatibility: Certain areas might have limited parking options available.</li>\n<li>🌐 Internet Dependence: Requires a stable internet connection to manage bookings.</li>\n<li>💼 No Business Profile: Lack of distinct business account features for corporate users.</li>\n<li>🆕 New User Learning Curve: First-time users might need time to familiarize themselves with app features.</li>\n</ul>\n<p><strong>Price:</strong>\n💵 The app is free to download. No mention of in-app purchases was provided, suggesting that the primary financial model may involve transaction fees or commission from parking space listings.</p>\n<p><strong>Community:</strong>\nFor game apps, a community section is included. Since \"Your Parking Space\" is a non-game app, this section is not applicable.</p>\n<p>Download <em>Your Parking Space</em> to revolutionize your parking experience and potentially turn your spare space into a steady stream of additional income!</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-bp-app-bpme-global-ros/16042.html",
+      "icon": "assets/img/apk/icon/com.bp.app.bpme.global.ros.png",
+      "name": "earnify",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/kulana-tools-vacationcountdown/10380.html",
+      "icon": "assets/img/apk/icon/kulana.tools.vacationcountdown.png",
+      "name": "Vacation Countdown App",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-disney-playdisneyparks-goo/4681.html",
+      "icon": "assets/img/apk/icon/com.disney.playdisneyparks.goo.png",
+      "name": "Play Disney Parks",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-hornblower-statuecruises/4679.html",
+      "icon": "assets/img/apk/icon/com.hornblower.statuecruises.png",
+      "name": "Statue Cruises",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-usnpw-grca/4678.html",
+      "icon": "assets/img/apk/icon/com.usnpw.grca.png",
+      "name": "Grand Canyon National Park",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/MakeMyTrip-Hotels-Flight-Bus/4591.html",
+      "icon": "assets/img/apk/icon/com.makemytrip.png",
+      "name": "MakeMyTrip Hotels, Flight, Bus",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/ConfirmTkt/4570.html",
+      "icon": "assets/img/apk/icon/com.confirmtkt.lite.png",
+      "name": "ConfirmTkt",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/Bus-Train-Ticket-Booking-App/4503.html",
+      "icon": "assets/img/apk/icon/in.redbus.android.png",
+      "name": "Bus, Train Ticket Booking App",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.9"
+    }
+  ]
+}

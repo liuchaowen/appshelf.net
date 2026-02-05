@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.pixup.likethis.png",
+    "title": "Pixup",
+    "ratings": "4.6",
+    "downloads": "220M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Pixup"
+    },
+    {
+      "name": "category",
+      "value": "Photography"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "EdenBaker988"
+    },
+    {
+      "name": "Version",
+      "value": "1.0"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>Brief:</strong>\nPixup is an advanced photo editing app designed for both amateur and professional photographers. It offers a broad selection of editing tools that go beyond the essentials to include powerful features like blurring, color balancing, and noise removal. With more than 100 professional effects and a library of creative resources, Pixup makes it simple to transform photos into stunning works of art.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🎨 <strong>Advanced Editing Suite:</strong> Incorporate blurring, HSL adjustments, color balance, haze and noise removal for professional-grade photo edits. 🖌️</li>\n<li>🌟 <strong>Professional Effects:</strong> Choose from over 100 stylish filters, including real analog film and black &amp; white, to create the perfect aesthetic for any scene. 📷</li>\n<li>✂️ <strong>Crop and Composition:</strong> Utilize the crop tool to compose your shots with precision, alongside features to rotate, flip, and adjust photo perspectives. 🔀</li>\n<li>🎁 <strong>Creativity Resources:</strong> Access a rich repository of stickers, backgrounds, fonts, and stock photos to further embellish your photographic creations. 🌈</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👩‍🎨 <strong>Diverse Creative Tools:</strong> A wide variety of editing tools caters to both basic and sophisticated photo editing needs. 🛠️</li>\n<li>🖼️ <strong>High-Quality Effects:</strong> Premium quality effects and filters help in achieving a professional look effortlessly. 🏆</li>\n<li>🔄 <strong>Flexible Composition Options:</strong> Advanced perspective adjustment tools offer flexibility in photo composition. 🔃</li>\n<li>🗃️ <strong>Extensive Library:</strong> Ample creative assets like stickers and frames to enhance photos. 📚</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>🧰 <strong>May be Overwhelming:</strong> The sheer number of tools and options could be daunting for beginners. 😵</li>\n<li>🔄 <strong>Learning Curve:</strong> Advanced features require some time to learn and master. ⌛</li>\n<li>📦 <strong>Resource Intensive:</strong> Might need a device with good specifications to run smoothly. 📱</li>\n<li>📲 <strong>Storage Space:</strong> The extensive library of assets could occupy significant storage space. 💾</li>\n</ul>\n<p><strong>Price:</strong></p>\n<ul>\n<li>💵 The app is free to download. In-app purchases may apply for access to premium features or resources. 💳</li>\n</ul>\n<p>As Pixup is not a game app, there's no requirement for a community section here. Enjoy editing and transforming your photos with this comprehensive toolkit!</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-appwallet-coupletraditionaldress/54509.html",
+      "icon": "assets/img/apk/icon/com.appwallet.coupletraditionaldress.png",
+      "name": "Traditional Suit : Change Face",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-appwallet-ValentinesDayFrames/54392.html",
+      "icon": "assets/img/apk/icon/com.appwallet.ValentinesDayFrames.png",
+      "name": "Valentine's Day Photo Frame",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-valentineweek-photo_frames/54386.html",
+      "icon": "assets/img/apk/icon/com.valentineweek.photo_frames.png",
+      "name": "Valentine Day Photo Frame 2026",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/valentine-photo-frame-editor/54380.html",
+      "icon": "assets/img/apk/icon/valentine.photo.frame.editor.png",
+      "name": "Valentine's Day Photo Frame",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-aaptechno-photomaker-republicday/54338.html",
+      "icon": "assets/img/apk/icon/com.aaptechno.photomaker.republicday.png",
+      "name": "Republic day Photo Frame",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/utility-independancephotoframe/54332.html",
+      "icon": "assets/img/apk/icon/utility.independancephotoframe.png",
+      "name": "Republic Day Photo Frames",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-appbench-republicdayphotoframes/54326.html",
+      "icon": "assets/img/apk/icon/com.appbench.republicdayphotoframes.png",
+      "name": "Republic Day Photo Frames",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-themasterapps-happybirthdaywishesimages/54176.html",
+      "icon": "assets/img/apk/icon/com.themasterapps.happybirthdaywishesimages.png",
+      "name": "Happy Birthday & Good Morning",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.8"
+    }
+  ]
+}

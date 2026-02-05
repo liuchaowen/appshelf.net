@@ -1,0 +1,128 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/gopro.png",
+    "title": "GoPro",
+    "ratings": "4.5",
+    "downloads": "490M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "GoPro"
+    },
+    {
+      "name": "category",
+      "value": "Photography"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "GoPro"
+    },
+    {
+      "name": "Version",
+      "value": "11.12"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/f_YT7auf5BGgOHkHjm8YampMyNR_ToFVCG1zh5cu4wckyNlgQCboBuRuvGSp0NTU5y4",
+    "https://play-lh.googleusercontent.com/tKkk7TFvTpnvSUXCJSm9fxoUTEEkZEKXKAdopfEe-oxXY7CmYNStesvataTxO3xkPKE",
+    "https://play-lh.googleusercontent.com/i0fuQvBhtmtz4h91GFqerVlZ_Ur4JFWlxH7DYQZJWLHszBijjTCIQxznZgmrwSZe7Q",
+    "https://play-lh.googleusercontent.com/-P-HwtSQzsXzUEBEUXxGKNKncabNgFWG-rK5801Nx_dxIzvRG0h-MWc01TkpeGlyMlw",
+    "https://play-lh.googleusercontent.com/Ac153fpV8qbRl2IQQj5RoSW4fMG1p-svy8AVSSh07f575eBHTtYqmONmu7PVU5uzjA",
+    "https://play-lh.googleusercontent.com/qZRGbBb6FqiKoI9zWJKz6Tq4sSBZ2HPzCA6epDUpiMsPUF3RKxilSPl49Lp2CAFQgA",
+    "https://play-lh.googleusercontent.com/myiDGRY18hVKAt1Q0bG3sRgWtK0aucw4TRgVD2pQKnbwefE3eUj8j1pZRbNRczZ8GvAf",
+    "https://play-lh.googleusercontent.com/Fe-nwkIeo0RRtUz3QLPILhSsv9LK_c2mMnVBPY7sc528_6wLU8C1MU3LzL5RB3XI9Lg",
+    "https://play-lh.googleusercontent.com/_r5Ukw988TQ-QQB8MJG_5dKs1Cg2KFuBk5bYNWnYs49Tgea_JUTgC5Imi6aVh0SKDTs",
+    "https://play-lh.googleusercontent.com/IEp04LGu5A5DBdJH5RtulByWdkpVuyJDA_i0EMWlr1LyGOmKot-LUzZOnVi0syo4lA",
+    "https://play-lh.googleusercontent.com/tR0I-GkuUsCQXs9OJvJ8qGkExoL8kAi0jdtT2S4AV4M8WTD3riwmmAVGoVE8hY8SxA",
+    "https://play-lh.googleusercontent.com/WLflpQrfGz9FKEqdSissSLz9iAn5F1N8sncW8nD_LEyIy5DLVecGrWxP1bLJt-8m",
+    "https://play-lh.googleusercontent.com/I_oeCiUppIeobSaMt2LnrdbsvD6JHuqitoG-700oa1ENYDo2gnTLrYVyUpatc_2nwQ",
+    "https://play-lh.googleusercontent.com/gbpUQTzI4_DX4uD-OIcoslO09_phM41utEZaHege4k7fhk-Fah-d2XZQgio_bFuc0iQ",
+    "https://play-lh.googleusercontent.com/fAMToPTMEqEGXvTvPtGXpdsMDbUFRsYEGHKKJZ468eX8iqqSGiSOQ0aMcc1WxhwM4g",
+    "https://play-lh.googleusercontent.com/Obc7zvsw0UEGj_FKFBP3FSjG9ZnTHvbaC4_gBjyDQbWVx9tBkJl0o9V_y6HriUxnBK4D",
+    "https://play-lh.googleusercontent.com/orxBzdj-_3OFxd6fMDkdEyh1xW4C-ABNyNjU05OcUgGn9y2KnUStdLf-TNcrgMVtBHs",
+    "https://play-lh.googleusercontent.com/68wT9y8DbuPJOHBh7pnqhD37cE55SRLt99PDn0Uz7PWC8t2h7zwhC7Ty6hixCqx7E1sR",
+    "https://play-lh.googleusercontent.com/Uw9xTplLBFrJnQ6FEuf74oxEoTRbhiNXnW-WsxnOpk8IOyxSsLuXVBWYf1ShpAfDL6GA",
+    "https://play-lh.googleusercontent.com/ENTGF4Oa1YSqiiAhbDtKVjtxID_GlX0BTTE2CCovAadXR2T9jauj1Wx5VWAYWqcitks",
+    "https://play-lh.googleusercontent.com/LypMmifXeTSaLyvVgV6xpxPJa9QC1sAxGVNU4bB3drLbuM7wemCfdKDxeMtnUAQ_AWI",
+    "https://play-lh.googleusercontent.com/S4k5zx9yrEnmjkI3c_WfQq1_La88NJ7oVWigAWkr8dKlS4QYSGR1N32E1b_tRhwGz_-a",
+    "https://play-lh.googleusercontent.com/BjyP1N3VtzOlv0m7QQ8rpzMzSzReG4734mLxuWVhe1f_OZwdfs_G6-EptIn_AdL8jA8",
+    "https://play-lh.googleusercontent.com/7gQn-7G2rKr9MPu25mX7R1l5U3aYWA2R2hdjCW9By1cdKGU7jfDrIs563ohxkBZs7Do"
+  ],
+  "app_descript": "<h3>GoPro</h3>\n<p><strong>Brief:</strong>\nThe GoPro app is a versatile companion for GoPro users, providing an array of tools to manage and enhance your GoPro footage. Transform your latest adventures into engaging videos, share them across multiple platforms, and take control of your GoPro camera—all from your smartphone. With this app, creativity and connectivity are at your fingertips, tailored specifically for HERO6 and HERO5 cameras.</p>\n<p><strong>📌 Core Features:</strong></p>\n<ul>\n<li><em>Create a QuickStory</em>: Generate stunning videos replete with effects and custom music from your footage 🎥.</li>\n<li><em>Share Favorites</em>: Directly post your best shots to social media or send them via email or text 🌐.</li>\n<li><em>Manage Media</em>: Browse, view, and delete files or view photos and videos on your phone 🖼️.</li>\n<li><em>Edit Like a Pro</em>: Trim videos to craft perfect clips or extract high-quality stills from your footage ✂️.</li>\n<li><em>Remote Control</em>: Use your phone to adjust settings, frame shots, and start/stop recording on your GoPro 🎮.</li>\n</ul>\n<p><strong>👍 Pros:</strong></p>\n<ul>\n<li><em>Effortless Storytelling</em>: Simplify video editing with automated tools and music syncing 🎶.</li>\n<li><em>Social Sharing Made Easy</em>: Quickly share your best moments with the world 📤.</li>\n<li><em>Instant Access to Media</em>: Quick access to your photos and videos without fussing with SD cards 💾.</li>\n<li><em>Precision Editing</em>: Frame-by-frame navigation for exact clip or photo selection 🔍.</li>\n<li><em>Total Control</em>: Full command over your GoPro settings from a distance for convenience and creativity 📱.</li>\n</ul>\n<p><strong>👎 Cons:</strong></p>\n<ul>\n<li><em>Camera Compatibility</em>: Limited to HERO6, HERO5, and selected camera models only 📸.</li>\n<li><em>Mode Restrictions</em>: Video compatibility confined to certain recording modes 🚫.</li>\n<li><em>Regional and Device Limitations</em>: GoPro Plus cloud services are accessible in select territories and devices 🌍.</li>\n<li><em>Subscription Required</em>: Full cloud access and auto-upload features need a GoPro Plus subscription 💳.</li>\n</ul>\n<p><strong>💵 Pricing:</strong>\nThe GoPro app is free to download. However, accessing premium features such as the GoPro Plus service can require a subscription, with terms and pricing provided within the app.</p>\n<p><strong>🕸️ Community:</strong></p>\n<ul>\n<li>Official Site: <a href=\"https://gopro.com/\" rel=\"noopener noreferrer\" target=\"_blank\">GoPro</a></li>\n<li>YouTube Channel: <a href=\"https://www.youtube.com/user/GoProCamera\" rel=\"noopener noreferrer\" target=\"_blank\">GoPro</a></li>\n<li>Instagram: <a href=\"https://www.instagram.com/gopro/\" rel=\"noopener noreferrer\" target=\"_blank\">@gopro</a></li>\n<li>Twitter: <a href=\"https://twitter.com/GoPro\" rel=\"noopener noreferrer\" target=\"_blank\">@GoPro</a></li>\n<li>Facebook: <a href=\"https://www.facebook.com/gopro\" rel=\"noopener noreferrer\" target=\"_blank\">GoPro</a></li>\n<li>TikTok: <a href=\"https://www.tiktok.com/@gopro\" rel=\"noopener noreferrer\" target=\"_blank\">@gopro</a></li>\n<li>Reddit: <a href=\"https://www.reddit.com/r/gopro/\" rel=\"noopener noreferrer\" target=\"_blank\">r/gopro</a></li>\n<li>Fandom Wiki: (No data available)</li>\n</ul>\n<p>Whether a storytelling enthusiast or a professional videographer, the GoPro app promises to streamline your post-adventure workflow and keep your content seamlessly connected and shareable.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-appwallet-coupletraditionaldress/54509.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.appwallet.coupletraditionaldress.png",
+      "name": "Traditional Suit : Change Face",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-appwallet-ValentinesDayFrames/54392.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.appwallet.ValentinesDayFrames.png",
+      "name": "Valentine's Day Photo Frame",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-valentineweek-photo_frames/54386.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.valentineweek.photo_frames.png",
+      "name": "Valentine Day Photo Frame 2026",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/valentine-photo-frame-editor/54380.html",
+      "icon": "https://img.buzzsight.co/apk/icon/valentine.photo.frame.editor.png",
+      "name": "Valentine's Day Photo Frame",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-aaptechno-photomaker-republicday/54338.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.aaptechno.photomaker.republicday.png",
+      "name": "Republic day Photo Frame",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/utility-independancephotoframe/54332.html",
+      "icon": "https://img.buzzsight.co/apk/icon/utility.independancephotoframe.png",
+      "name": "Republic Day Photo Frames",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-appbench-republicdayphotoframes/54326.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.appbench.republicdayphotoframes.png",
+      "name": "Republic Day Photo Frames",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-themasterapps-happybirthdaywishesimages/54176.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.themasterapps.happybirthdaywishesimages.png",
+      "name": "Happy Birthday & Good Morning",
+      "categoryLink": "/en/categories/photography/20",
+      "category": "Photography",
+      "rating": "4.8"
+    }
+  ]
+}

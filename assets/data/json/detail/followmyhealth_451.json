@@ -1,0 +1,110 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.jardogs.fmhmobile.png",
+    "title": "FollowMyHealth®",
+    "ratings": "4.7",
+    "downloads": "960M",
+    "age": "4+",
+    "download_link": "https://d.apkpure.com/b/APK/com.jardogs.fmhmobile?version=latest"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "FollowMyHealth®"
+    },
+    {
+      "name": "category",
+      "value": "Medical"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Allscripts Healthcare Solutions Inc"
+    },
+    {
+      "name": "Version",
+      "value": "20.3"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/gBwb9IFQNKbPp1KILIwPlkzjFlZrBPtO7VpIo3Vb-30WsnlwXrwMuGWKpxrn4KQOa6s",
+    "https://play-lh.googleusercontent.com/SxXv30Loza9wbtsca6RKGnpIXPLCoCb2xbOed-miRs4HSpwniRzaIcaY1A5wRRpPfKWj",
+    "https://play-lh.googleusercontent.com/txom2lTsfGXbvjz5JqFYbRTcX3y3cb1_8tZQXBQYat3xcexetLAFIdAJpsrm5-Qt",
+    "https://play-lh.googleusercontent.com/XZdGGqoSwcXc7_MC41MnK0n-_EhdYtdQ6lbvjM3vBhNGir3zgqKW_9a0hiwilN6l6txj",
+    "https://play-lh.googleusercontent.com/PyT3vMf_fP1-rNkiajrF_lI_4sA1kqI2AEnQ8xsGK1sCEyQRVc31NYYallyff6wfoRU"
+  ],
+  "app_descript": "<h2>FollowMyHealth®</h2>\n<h3>Brief:</h3>\n<p>FollowMyHealth® is a versatile, personal health management app that provides individuals with a convenient platform to access and control their personal health records, communicate with their healthcare providers, and manage their medical appointments, all in one secure place. This app aims to streamline the patient experience by integrating seamlessly with various medical institutions, ensuring your health data is always at your fingertips.</p>\n<h3>Core Features:</h3>\n<p>📊 <strong>Personal Health Record Access</strong>: View and manage your complete health information updated in real-time. 📝</p>\n<p>👨‍⚕️ <strong>Provider Communication</strong>: Securely message your healthcare providers for advice and information. 📞</p>\n<p>🗓️ <strong>Appointment Management</strong>: Schedule and keep track of all your medical appointments with ease. 📅</p>\n<p>🔒 <strong>Secure Data</strong>: Benefit from a platform that prioritizes the confidentiality and security of your health data. 🔐</p>\n<p>💉 <strong>Medication Tracking</strong>: Keep a close eye on your prescriptions and medicine schedules. 💊</p>\n<h3>Pros:</h3>\n<p>👍 <strong>Convenience</strong>: Manage your health information and communication with providers from anywhere. 🌐</p>\n<p>👍 <strong>Integration</strong>: Easily integrates with a multitude of healthcare systems. 🔌</p>\n<p>👍 <strong>User-Friendly Interface</strong>: Navigate through the app's features with ease thanks to its thoughtful design. 📲</p>\n<p>👍 <strong>Real-Time Updates</strong>: Get immediate updates on your health records as they happen. ⏱️</p>\n<p>👍 <strong>Enhanced Communication</strong>: Say goodbye to phone-tag with providers, and communicate at your pace. ✉️</p>\n<h3>Cons:</h3>\n<p>👎 <strong>Dependent on Provider Participation</strong>: Full functionality requires your healthcare provider to be part of the FollowMyHealth® network. 🏥</p>\n<p>👎 <strong>Potential glitches</strong>: Like any app, there can be occasional technical issues or bugs. 🐛</p>\n<p>👎 <strong>Learning Curve</strong>: Some users may need time to familiarize themselves with all features. 🔄</p>\n<p>👎 <strong>Data Availability</strong>: Your health records are only as up-to-date as the latest input from your healthcare providers. 📆</p>\n<p>👎 <strong>Privacy Concerns</strong>: Despite strong security, some users might still have concerns about the privacy of sensitive health data. 🕵️‍♂️</p>\n<h3>Price:</h3>\n<p>💵 FollowMyHealth® is a free app. However, users should consult their healthcare providers regarding any additional charges for services accessed through the app.💳</p>\n<p>(No 'Community' section included as FollowMyHealth® is a non-game app) </p>\n<p>With FollowMyHealth®, take control of your healthcare with a few taps on your mobile device – it's like having a personal health assistant in your pocket, ready to support you whenever you need.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-stress-test/48991.html",
+      "icon": "assets/img/apk/icon/com.stress.test.png",
+      "name": "Stress Test",
+      "categoryLink": "/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-procrastination-test/39516.html",
+      "icon": "assets/img/apk/icon/com.procrastination.test.png",
+      "name": "Procrastination Test",
+      "categoryLink": "/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-bingeeating-test/39303.html",
+      "icon": "assets/img/apk/icon/com.bingeeating.test.png",
+      "name": "Binge Eating Disorder Test",
+      "categoryLink": "/categories/medical/16",
+      "category": "Medical",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-ocd-test/34780.html",
+      "icon": "assets/img/apk/icon/com.ocd.test.png",
+      "name": "OCD Test",
+      "categoryLink": "/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-healthians-main-healthians/34760.html",
+      "icon": "assets/img/apk/icon/com.healthians.main.healthians.png",
+      "name": "Healthians -Full Body Checkup",
+      "categoryLink": "/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-lbrc-PeriodCalendar/34759.html",
+      "icon": "assets/img/apk/icon/com.lbrc.PeriodCalendar.png",
+      "name": "Period Tracker and Calendar",
+      "categoryLink": "/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/es-jshcd-edadosea/34693.html",
+      "icon": "assets/img/apk/icon/es.jshcd.edadosea.png",
+      "name": "Bone age",
+      "categoryLink": "/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-devdis/16977.html",
+      "icon": "assets/img/apk/icon/com.devdis.png",
+      "name": "Developmental Disabilities",
+      "categoryLink": "/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.5"
+    }
+  ]
+}

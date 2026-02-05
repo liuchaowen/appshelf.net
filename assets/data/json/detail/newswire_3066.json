@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/newswire.png",
+    "title": "NewsWire",
+    "ratings": "4.9",
+    "downloads": "30M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "NewsWire"
+    },
+    {
+      "name": "category",
+      "value": "News & Magazines"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "IMPR TECHNOLOGY LIMITED"
+    },
+    {
+      "name": "Version",
+      "value": "2.0.1"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>NewsWire</strong>: Comprehensive News Aggregation at Your Fingertips</p>\n<p><strong>Brief</strong>:\nImmerse yourself in the world of information with NewsWire, your one-stop app for staying informed on everything from updates in sports and celebrity gossip to the latest in fashion and world events. NewsWire tailors your news feed daily, personalizing your reading experience to match your interests perfectly.</p>\n<p><strong>Core Features</strong>:</p>\n<ul>\n<li>📰 <strong>Up-to-date News</strong>: Get real-time news updates on a wide range of topics, ensuring you never miss a beat in the areas that matter to you.</li>\n<li>🎯 <strong>Tailored Content</strong>: Enjoy a personalized feed each day, curated based on your interests and browsing habits for a unique experience every time.</li>\n<li>🏞️ <strong>High-Definition Media</strong>: Engage with crystal-clear images and entertaining gifs to complement your news stories, adding fun to your reading routine.</li>\n<li>🔧 <strong>User Feedback Appreciation</strong>: Your input is valued! NewsWire encourages feedback to constantly enhance the user experience.</li>\n</ul>\n<p><strong>Pros</strong>:</p>\n<ul>\n<li>👍 Fresh Content Daily: Stay ahead with the freshest stories, keeping you informed as events unfold.</li>\n<li>👍 Personalized Experience: Your dislikes are accounted for, filtering out unwanted content to refine your news feed.</li>\n<li>👍 Visual Appeal: High-res images and engaging gifs make for a visually stimulating reading adventure.</li>\n<li>👍 Community Engagement: Share your own articles and become part of the NewsWire story.</li>\n</ul>\n<p><strong>Cons</strong>:</p>\n<ul>\n<li>👎 Content Overload: With such a wealth of information, some users might feel overwhelmed by the volume of news presented.</li>\n<li>👎 Targeted Content: Users might miss out on broader news if the algorithm focuses too narrowly on user preferences.</li>\n<li>👎 Advertisement Intrusion: The potential presence of ads could disrupt the reading experience.</li>\n<li>👎 Network Dependency: A stable internet connection is crucial for seamless news updates and image loading.</li>\n</ul>\n<p><strong>Price</strong>:\n💵 NewsWire offers its comprehensive news services free of charge, providing an affordable way to stay informed. Note that additional premium features may come at a cost, depending on future app updates and features.</p>\n<p>Stay informed, stay ahead, and dive into the ocean of global news with NewsWire — your personalized news companion. </p>\n<p><a href=\"/cdn-cgi/l/email-protection#90cbf5fdf1f9fc5230e0e2ffe4f5f3e4f5f4cd\" rel=\"noopener noreferrer\" target=\"_blank\">Email NewsWire Support</a></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-app-foapp/15418.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.app.foapp.png",
+      "name": "The Obituary App",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-globalnews-android-novanews/5116.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.globalnews.android.novanews.png",
+      "name": "Global News - Breaking & Local",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/Hindi-News-by-Dainik-Bhaskar/4635.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.ak.ta.dainikbhaskar.activity.png",
+      "name": "Hindi News by Dainik Bhaskar",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/Way2News-News-updates-Election/4625.html",
+      "icon": "https://img.buzzsight.co/apk/icon/sun.way2sms.hyd.com.png",
+      "name": "Way2News News updates Election",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/Hindi-News/4507.html",
+      "icon": "https://img.buzzsight.co/apk/icon/in.AajTak.headlines.png",
+      "name": "Hindi News",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/TVA-Nouvelles/4479.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.nurun.lcn.png",
+      "name": "TVA Nouvelles",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/uol/3121.html",
+      "icon": "https://img.buzzsight.co/apk/icon/br.uol.noticias.png",
+      "name": "UOL",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/local-news/3120.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.opera.app.news.local.png",
+      "name": "Local News",
+      "categoryLink": "/en/categories/news.magazines/18",
+      "category": "News & Magazines",
+      "rating": "4.5"
+    }
+  ]
+}

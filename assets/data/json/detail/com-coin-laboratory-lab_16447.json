@@ -1,0 +1,109 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/com.coin.laboratory.lab.png",
+    "title": "Coin Lab",
+    "ratings": "4.5",
+    "downloads": "19M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Coin Lab"
+    },
+    {
+      "name": "category",
+      "value": "Tools"
+    },
+    {
+      "name": "Price",
+      "value": "0"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "BIRKENDAHL LINUS"
+    },
+    {
+      "name": "Version",
+      "value": "7.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/8x2ZBpe_ytojAUtTM1OCHoscWIfqKs6X3XFa35TKgYep2qgC9ahNdQY2zCu7vYwGpo8",
+    "https://play-lh.googleusercontent.com/BBVb4Ghro-T9q-qS1FGr3D21SesG-rD4sepaQvAZV2LvpYole4jTjFyMleEZYnCM1BTi",
+    "https://play-lh.googleusercontent.com/yPfLoN00fdgW7f7BJ3_s4lambTT-A_7Rutumvcwq-LjFJHqKVqJunO4au_JX4WphaCo",
+    "https://play-lh.googleusercontent.com/492nz1TQqWhsS4zOIVRVhsQvwITZsmg1bzdbUJNY582UGug1wNKa2oGhGj_lFaE-CC0",
+    "https://play-lh.googleusercontent.com/fTcd9LBys0NLRALKiPxnwAOrLanZzKDd3CpFM0bE-8vCkB_4wQ46K5uXaoujU284nTs"
+  ],
+  "app_descript": "<h1>Coin Lab App Description</h1>\n<p>Discover the fascinating world of U.S. coins with Coin Lab, your ultimate coin identifier and collector’s companion. Coin Lab allows you to snap a photo to instantly recognize coins, providing you with accurate market values and enriches your knowledge with detailed information about each coin’s history, composition, and rarity. </p>\n<p>Whether you're a passionate collector or just have a casual curiosity, Coin Lab makes it simple to build your personal coin catalog, track your finds, and unlock exciting achievements. Delve into educational articles revealing the stories behind rare coins and historic mintings. </p>\n<h2>📌 Core Features:</h2>\n<ul>\n<li><strong>Instant Coin Identification</strong>: Snap a photo or select from your gallery for quick recognition of coins. 📸</li>\n<li><strong>Real-Time Market Value Estimates</strong>: Access accurate valuation of coins based on current market data. 💰</li>\n<li><strong>Comprehensive Coin Catalog</strong>: Explore an extensive database covering coins from all U.S. eras. 📖</li>\n<li><strong>Educational Articles</strong>: Read up on coin history, rare issues, and collecting tips for enhanced understanding. 📝</li>\n<li><strong>Achievement System &amp; Daily Challenges</strong>: Celebrate your discoveries and engage with daily scanning challenges. 🏆</li>\n</ul>\n<h2>👍 Pros:</h2>\n<ul>\n<li>User-friendly interface that makes identification easy for anyone. 🌟</li>\n<li>A rich source of information ideal for collectors and enthusiasts alike. 📚</li>\n<li>Regular updates to ensure market values are accurate. 🔄</li>\n<li>Engaging features that enhance the numismatic experience. 🎉</li>\n<li>Opportunity to build a unique personal collection catalog. 🗂️</li>\n</ul>\n<h2>👎 Cons:</h2>\n<ul>\n<li>May require a stable internet connection for optimal functionality. 🌐</li>\n<li>Some users may find the app's features overwhelming at first. 😅</li>\n<li>Limited availability of coins outside the U.S. market. 🌍</li>\n<li>Potential in-app purchase options that could incur additional costs. 💳</li>\n<li>The app may not recognize very worn or rare coins accurately. ⚠️</li>\n</ul>\n<h2>💵 Price:</h2>\n<p>Coin Lab is free to download with optional in-app purchases available.</p>\n<p>Feel free to embark on your numismatic journey today with Coin Lab and unlock the secrets behind your curious coins!</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-antique-snap-identifier-appraisal/54309.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.antique.snap.identifier.appraisal.png",
+      "name": "Antique Identifier - Appraisal",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-age-calculator-life-countdown/54243.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.age.calculator.life.countdown.png",
+      "name": "Age Calculator・Life Expectancy",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.4"
+    },
+    {
+      "link": "/details/com-xv-agecalc/54237.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.xv.agecalc.png",
+      "name": "AgeCalc: Date Life Calculator",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-palm-ai-decode-destiny-soul-futurelines-handline/54206.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.palm.ai.decode.destiny.soul.futurelines.handline.png",
+      "name": "Palm AI: Decode Destiny",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/rbx-robuxcalc-getrbx-freecounter/53839.html",
+      "icon": "https://img.buzzsight.co/apk/icon/rbx.robuxcalc.getrbx.freecounter.png",
+      "name": "RBX Calc - Get Robuxcounter",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-internetoptimizer-speedtest-wifispeedtest-netspeed-wifipassword-wifispeed/49027.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.internetoptimizer.speedtest.wifispeedtest.netspeed.wifipassword.wifispeed.png",
+      "name": "Internet Optimizer",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "3.9"
+    },
+    {
+      "link": "/details/com-blazingappstudio-speed_test_pro/49021.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.blazingappstudio.speed_test_pro.png",
+      "name": "Speed Test - Wifi Optimizer",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-secret-camera-hidden-detector/39728.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.secret.camera.hidden.detector.png",
+      "name": "Hidden Camera & IR Detector",
+      "categoryLink": "/en/categories/tools/27",
+      "category": "Tools",
+      "rating": "4.5"
+    }
+  ]
+}

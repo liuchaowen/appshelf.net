@@ -1,0 +1,108 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/musica.total.tube.snap.amerigo.com.png",
+    "title": "Total Music",
+    "ratings": "4.6",
+    "downloads": "830M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Total Music"
+    },
+    {
+      "name": "category",
+      "value": "Music & Audio"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Blind Forest studio"
+    },
+    {
+      "name": "Version",
+      "value": "1.6.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/cA1y4G7HWz9W81DuJkY881GhNencjvxA6SosggjiK2hOmGcA_YUgYSu_0wt2rlshEKuw",
+    "https://play-lh.googleusercontent.com/lFIgN37GBbUtD01oboG8ZlcGkqGw-JzeymGCpr6SYPmB7WlNB4NsQ0qcBvjoeIqIfTg",
+    "https://play-lh.googleusercontent.com/vn5y1fT52_y4inwrr1HhOoyqJEP2F695KGRDFIMbOngHvCSgGqDiqIj_u32VZZVZkYMh",
+    "https://play-lh.googleusercontent.com/nG_wvRhf_p5H1jE0cuqp5ToJTbDHY0icYNzD4_OT06J_y5b3UXHeidbezA6610bdZKs"
+  ],
+  "app_descript": "<h3>Total Music - Offline Player</h3>\n<h4>📌 Brief:</h4>\n<p>Immerse yourself in the world of music with Total Music - Offline Player, a dedicated app designed to enrich your offline listening experience. Tailored for audiophiles who prefer to keep their melodies close, Total Music prides itself on providing a seamless playback solution for your local music files. Dive into your favorite tracks without the need for streaming services and enjoy your melodies uninterrupted.</p>\n<h4>📌 Core Features:</h4>\n<ul>\n<li><strong>Local Music Playback:</strong> Easily access and play your local audio files without the dependency on streaming services 🎵.</li>\n<li><strong>Offline Access:</strong> Enjoy your favorite tunes anywhere, anytime, without worrying about an internet connection 🚫📶.</li>\n<li><strong>Simple Navigation:</strong> Navigate through your music collection with an interface designed for straightforward use 🧭.</li>\n<li><strong>Compact Music Player:</strong> A lightweight app focused on one thing – playing your pre-downloaded music with ease 🎶.</li>\n</ul>\n<h4>👍 Pros:</h4>\n<ul>\n<li><strong>No Internet Needed:</strong> Perfect for situations with limited or no internet access, ensuring your music is always playable 👌.</li>\n<li><strong>Exclusive to Local Files:</strong> Prioritizes your personal music collection without the clutter of streaming service integration 📁.</li>\n<li><strong>Ease of Use:</strong> Offers an uncomplicated user experience, ideal for those who prefer simplicity over complexity 🛠️.</li>\n<li><strong>Streamlining Offline Playback:</strong> Dedicated solely to playback of offline files, offering a clutter-free listening environment 🌟.</li>\n</ul>\n<h4>👎 Cons:</h4>\n<ul>\n<li><strong>Limited Music Sources:</strong> Lacks integration with leading streaming services like Spotify or Apple Music, confining users to local files or specific sources 📉.</li>\n<li><strong>User Interface:</strong> Potential issues with an intuitive and aesthetically pleasing design, possibly resulting in a less enjoyable user experience 🖌️.</li>\n<li><strong>Lack of Advanced Features:</strong> The absence of features like equalizers or smart playlists that are common in competitive music players ⚙️.</li>\n<li><strong>Infrequent Updates:</strong> The possibility of fewer updates might leave the app feeling outdated in comparison to alternatives that are continually evolving 🗓️.</li>\n</ul>\n<h4>💵 Price:</h4>\n<p>Total Music - Offline Player is a specialized application that caters to playing offline music files. Kindly check the app store for the latest pricing information, including any potential in-app purchases or premium features, to see if it aligns with your needs and budget.</p>\n<hr/>\n<p>[<em>Please note: this description is based on the available data and might not reflect the most current version of the app. Confirm the details on the respective app store.</em>]</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-simmusic-oldjpop/49056.html",
+      "icon": "assets/img/apk/icon/com.simmusic.oldjpop.png",
+      "name": "昭和の名曲 - 70年代/80年代名曲, 昭和の歌謡曲",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-bigsoft-voicereverse-audiochanger/39378.html",
+      "icon": "assets/img/apk/icon/com.bigsoft.voicereverse.audiochanger.png",
+      "name": "Funny Voice Reverse",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "3.1"
+    },
+    {
+      "link": "/details/com-realdrum-drumset-drumapp-beatmaker-music-instruments-drumkit/16783.html",
+      "icon": "assets/img/apk/icon/com.realdrum.drumset.drumapp.beatmaker.music.instruments.drumkit.png",
+      "name": "Learn Drum - Pad & Beat Maker",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-musicplayer-mp3-audio-mymusic-player/15795.html",
+      "icon": "assets/img/apk/icon/com.musicplayer.mp3.audio.mymusic.player.png",
+      "name": "Music Player & MP3 - MMusic",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/com-ai-sound-donna/15626.html",
+      "icon": "assets/img/apk/icon/com.ai.sound.donna.png",
+      "name": "Donna AI Song & Music Maker",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-vanniktech-rssreader/15328.html",
+      "icon": "assets/img/apk/icon/com.vanniktech.rssreader.png",
+      "name": "RSS Reader Offline | Podcast",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-voicechanger-supereffect-soundeffect/14158.html",
+      "icon": "assets/img/apk/icon/com.voicechanger.supereffect.soundeffect.png",
+      "name": "Voice Changer: Audio Effect",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/org-cru-womans-herbible/14124.html",
+      "icon": "assets/img/apk/icon/org.cru.womans.herbible.png",
+      "name": "her.BIBLE Women's Audio Bible",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    }
+  ]
+}

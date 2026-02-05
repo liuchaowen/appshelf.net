@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/au.gov.qld.checkin.png",
+    "title": "Check In Qld",
+    "ratings": "4.3",
+    "downloads": "660M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Check In Qld"
+    },
+    {
+      "name": "category",
+      "value": "Health & Fitness"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Queensland Government"
+    },
+    {
+      "name": "Version",
+      "value": "1.8.2"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>Brief:</strong>\nCheck In Qld is a practical and user-friendly application designed to streamline the process of venue check-in throughout Queensland, Australia. As of November 19, 2021, users can conveniently add their COVID-19 digital certificate to their profile, enhancing their ability to verify their vaccination status, particularly as certain locations begin to mandate full vaccination for entry.</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>📊 Unique QR Code: Generate a personalized QR code for quick attendance registration at venues. 📌</li>\n<li>💉 Vaccine Booking Access: Direct home-screen button to navigate to Queensland's vaccination booking options. 📌</li>\n<li>🛂 Vaccination Status Proof: Integrated COVID-19 digital certificate to demonstrate vaccination status effortlessly. 📌</li>\n<li>⏰ Check-in Reminders: Timely reminders for incomplete check-ins to ensure adherence to venue policies. 📌</li>\n<li>🔒 Secure Data Handling: Attendance information is securely retained for a period of 56 days for contact tracing before deletion. 📌</li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>✅ Convenience: Simplifies the process of showing proof of vaccination and venue check-in. 👍</li>\n<li>🔄 Multiple Profile Management: Users can check in themselves and add others, such as dependents under 14. 👍</li>\n<li>🔐 Enhanced Privacy: Ensures user data is securely stored and automatically deleted after 56 days. 👍</li>\n<li>🔔 Reliable Reminders: Prevents users from failing to check in with strategic notification prompts. 👍</li>\n<li>🚀 Quick Access: Immediate redirection to vaccination bookings straight from the home screen. 👍</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>📍 Regional Limitation: Primarily caters to users visiting venues within Queensland. 👎</li>\n<li>🤝 Partial Independence: Relies on individuals to possess a myGov account to add unrelated persons. 👎</li>\n<li>📱 Device Restriction: The app's effectiveness can be hindered if the device is not compatible or has limited connectivity. 👎</li>\n<li>🕒 Setup Time: The initial addition of the COVID-19 digital certificate and profiles may require a one-time setup effort. 👎</li>\n<li>🌐 Internet Dependent: Requires an active internet connection for real-time data processing and check-ins. 👎</li>\n</ul>\n<p><strong>Price:</strong>\n💵 The Check In Qld app is free to download and use, contributing to its accessibility for Queensland residents and visitors.</p>\n<p><a href=\"https://apps.apple.com/au/app/check-in-qld/id1546028652\" rel=\"noopener noreferrer\" target=\"_blank\">Check In Qld on the App Store</a> | <a href=\"https://play.google.com/store/apps/details?id=au.gov.qld.checkin\" rel=\"noopener noreferrer\" target=\"_blank\">Check In Qld on Google Play</a></p>\n<p>(Note: There is no data available on social media links or community information for the Check In Qld app. Therefore, no community section is provided.)</p>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-appflows-BodyMuse/48997.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.appflows.BodyMuse.png",
+      "name": "BodyMuse: Body Shape Analysis",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.3"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-codev-headache_app/39734.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.codev.headache_app.png",
+      "name": "Headache Diary, Test & Treat",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/life-simple/39727.html",
+      "icon": "https://img.buzzsight.co/apk/icon/life.simple.png",
+      "name": "Simple: AI Weight Loss Coach",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-clearblue-minerva/39464.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.clearblue.minerva.png",
+      "name": "Menopause Stage - Clearblue me",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.6"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-jplanet-lungtestandbreathpractice/39424.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.jplanet.lungtestandbreathpractice.png",
+      "name": "Lung Test and Breath Exercise",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "3"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/healthy-lungs-breathing-exercise-coach-pranayama-breath-workout-lung-exercises/39423.html",
+      "icon": "https://img.buzzsight.co/apk/icon/healthy.lungs.breathing.exercise.coach.pranayama.breath.workout.lung.exercises.png",
+      "name": "Lungs Test: Breathing Exercise",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-smartoptometry-smartoptometry-full/34733.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.smartoptometry.smartoptometry.full.png",
+      "name": "Smart Optometry - Eye Tests",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-b2creativedesigns-eyetest/34732.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.b2creativedesigns.eyetest.png",
+      "name": "Eye test",
+      "categoryLink": "/en/categories/health.fitness/12",
+      "category": "Health & Fitness",
+      "rating": "4.1"
+    }
+  ]
+}

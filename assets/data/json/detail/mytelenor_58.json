@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/mm.cws.telenor.app.png",
+    "title": "MyTelenor",
+    "ratings": "4.9",
+    "downloads": "50M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "MyTelenor"
+    },
+    {
+      "name": "category",
+      "value": "Communication"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Telenor Myanmar Limited"
+    },
+    {
+      "name": "Version",
+      "value": "3.12.0"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h3>Brief</h3>\n<p>MyTelenor app serves as an all-encompassing tool for Telenor Myanmar users, streamlining account management and offering access to a wide array of services and products. With the latest improvements, MyTelenor boasts enhanced usability, promoting swift navigation and simpler account oversight. Users are granted seamless access once they sign in with their Telenor Connect ID, which is synonymous with their Telenor Myanmar phone number.</p>\n<h3>Core Features</h3>\n<ul>\n<li><strong>Redesigned User Interface</strong>: A polished and user-friendly layout ensuring key features are readily accessible 🌟</li>\n<li><strong>Utility Features Check</strong>: Swift and simple balance inquiries, and effortless top-up via QR or various payment options 📊</li>\n<li><strong>Games and Rewards</strong>: Engage in exciting games, partake in the Shake and Win challenge for up to 100GB, and enjoy KFC discounts and shopping treats 🎮</li>\n<li><strong>Customized Offers</strong>: Dive into a tailored experience with special offers and a plethora of content ranging from music to gaming 🎵</li>\n</ul>\n<h3>Pros</h3>\n<ul>\n<li><strong>No Data Charges</strong>: Use the app without consuming data on the Telenor Myanmar network, with a 50MB free data bonus on first-time activation 🆓</li>\n<li><strong>Fast Account Access</strong>: Quick login process with Telenor Connect ID for efficient account management 🔓</li>\n<li><strong>Exclusive Discounts and Rewards</strong>: Attractive incentives including data bonuses and discounts on various services and products 💰</li>\n<li><strong>Versatile Payment Options</strong>: Multiple payment methods are supported for user convenience 💳</li>\n</ul>\n<h3>Cons</h3>\n<ul>\n<li><strong>Network Limitation</strong>: The app's optimal benefits are confined to Telenor Myanmar network users 👤</li>\n<li><strong>Data Bonus Exclusivity</strong>: The 50MB data bonus is a one-time offer, available only on the initial activation ⏳</li>\n<li><strong>Region Specific</strong>: Designed specifically for users in Myanmar, limiting its utility for international customers 🌍</li>\n<li><strong>Prepaid Pack Essentials</strong>: Users may need to purchase packs to partake in games and win rewards 📦</li>\n</ul>\n<h3>Price</h3>\n<ul>\n<li>MyTelenor is available for free download. While it offers free usage on the Telenor Myanmar network, some transactions within the app may generate costs associated with the services utilized. 💵</li>\n</ul>\n<p><strong><em>Note: The 'Community' section is not presented as MyTelenor is a non-game app.</em></strong></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-sst-parrot-photo-frame/53901.html",
+      "icon": "assets/img/apk/icon/com.sst.parrot.photo.frame.png",
+      "name": "Bird Photo Frame",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-new_year-stickers-birthday/39669.html",
+      "icon": "assets/img/apk/icon/com.new_year.stickers.birthday.png",
+      "name": "Happy New Year Stickers 2026",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/org-watchduty-app/14524.html",
+      "icon": "assets/img/apk/icon/org.watchduty.app.png",
+      "name": "Watch Duty (Wildfire)",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-snowcorp-stickerly-android/14453.html",
+      "icon": "assets/img/apk/icon/com.snowcorp.stickerly.android.png",
+      "name": "Sticker.ly - Sticker Maker",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-Happynewyearphotoframe2020/14421.html",
+      "icon": "assets/img/apk/icon/com.Happynewyearphotoframe2020.png",
+      "name": "New Year Video Maker 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-intira-new-year-photo-frame-new/14342.html",
+      "icon": "assets/img/apk/icon/com.intira.new.year.photo.frame.new.png",
+      "name": "New year photo frame 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-christmas-photo-frame-b-new-free/14203.html",
+      "icon": "assets/img/apk/icon/com.christmas.photo.frame.b.new.free.png",
+      "name": "Christmas photo frame 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/ma-apps-face_ml/14137.html",
+      "icon": "assets/img/apk/icon/ma.apps.face_ml.png",
+      "name": "Face reader scanner - analyser",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "3.3"
+    }
+  ]
+}

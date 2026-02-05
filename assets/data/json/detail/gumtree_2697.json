@@ -1,0 +1,110 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/gumtree.png",
+    "title": "Gumtree",
+    "ratings": "4.3",
+    "downloads": "120M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Gumtree"
+    },
+    {
+      "name": "category",
+      "value": "Shopping"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Gumtree UK"
+    },
+    {
+      "name": "Version",
+      "value": "3.24.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/lMzAhf28DbKt--NBQSH5mdduG36VhpdFfOZeggi5gFQWrj51aRg2eyu_DvqrS-FxIT8-",
+    "https://play-lh.googleusercontent.com/k0RtUY6qf8MC3k-YM64PoM7IvTDqds-VxTVirGTxKB0A6HYiDHRRHCxhaGGnHmCtBcw",
+    "https://play-lh.googleusercontent.com/sP9S9BuU2MbvqaStu8BA20JVXMiu2NXhl13ltRhq6OqrOtgq5RJsmgIILUVtHA-1ouw",
+    "https://play-lh.googleusercontent.com/_KTmLLfkSikRF-LJ-jbO1m_mDrNBDYwlQVnIYQ-ZvTPVfdl9twCEVFAZe372_DcfBHvm",
+    "https://play-lh.googleusercontent.com/S-KRg1Z-r2hMf4OYq-3wbKgw7d3_8Tyox2zEVVHJkthDNhS0dOggyhQMduq98bCp8_w",
+    "https://play-lh.googleusercontent.com/B7bndZ80wRzJAzg2dILd5mlQv588olh8Jgt7ZCN0-gcCyaui724qLakflu-TaqfB7w"
+  ],
+  "app_descript": "<h3>Gumtree</h3>\n<h4>Brief</h4>\n<p>Gumtree is your local marketplace for buying and selling items, offering an expansive catalog across various categories including electronics, cars, clothing, furniture, and job opportunities. This app simplifies the process of finding what you need or placing an ad, all from the convenience of your mobile device.</p>\n<h4>Core Features 📌</h4>\n<ul>\n<li><strong>Vast Selection</strong>: Browse thousands of local listings with high-quality photos and comprehensive descriptions. 📷</li>\n<li><strong>In-App Communication</strong>: Message sellers or buyers directly through the app for a safer and more convenient transaction. 📱</li>\n<li><strong>Easy Ad Posting</strong>: With just a few photos and a description, users can quickly post ads on the platform. 🚀</li>\n<li><strong>Favorites &amp; Sync</strong>: Save potential purchases to your favorites and sync with the website for alerts on desired items. 💾</li>\n<li><strong>Social Sharing</strong>: Amplify your ad's reach by sharing it across social networks or sending it directly to friends. 🌐</li>\n</ul>\n<h4>Pros 👍</h4>\n<ul>\n<li><strong>Local Discovery</strong>: Effortlessly find or sell items within your local area. 🔍</li>\n<li><strong>User-Friendly Interface</strong>: Navigate the app with ease, making the entire process user-oriented. 🖐️</li>\n<li><strong>Real-Time Notifications</strong>: Stay informed on deals or item inquiries with prompt in-app notifications. 🔔</li>\n<li><strong>Social Integration</strong>: Leverage your personal networks for quicker sales and greater visibility. 🤝</li>\n</ul>\n<h4>Cons 👎</h4>\n<ul>\n<li><strong>Safety Concerns</strong>: Past reports of the platform being used for criminal activities urge users to proceed with caution. ⚠️</li>\n<li><strong>Risk of Fraud</strong>: Users need to be vigilant to avoid scams, due to previous allegations of fraud linked to the platform. 🚨</li>\n<li><strong>Limited Buyer Protection</strong>: As a simple listing platform, buyer security relies on individual discernment. 🛡️</li>\n<li><strong>Ad Dependence</strong>: The app's effectiveness is dependent on the quality and quantity of local ads posted. 📉</li>\n</ul>\n<h4>Price 💵</h4>\n<p>Gumtree is free to download and offers a platform for posting and discovering ads at no initial cost. In-app purchases may apply for featured listings or ad promotions.</p>\n<h4>Note 📝</h4>\n<p>While Gumtree is an incredibly handy tool for local commerce, both the users and the developers must be aware of the importance of security to mitigate risks involved with online transactions. Despite historical concerns with fraudulent activity, steps have been taken to improve safety for its users.</p>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-seagm-store/54458.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.seagm.store.png",
+      "name": "SEAGM - Games Topup, Gift Card",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.7"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-gowish-app/39285.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.gowish.app.png",
+      "name": "GoWish - Your Digital Wishlist",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.7"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-aldisued-shopgo/16934.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.aldisued.shopgo.png",
+      "name": "ALDI SHOP&GO",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.2"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-wakefern-shoprite/16933.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.wakefern.shoprite.png",
+      "name": "ShopRite: Groceries & Savings",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.7"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-yaxo-vancamper/16894.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.yaxo.vancamper.png",
+      "name": "Vancamper: Buy sell campervans",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.8"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-elfster-elfdroid/16861.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.elfster.elfdroid.png",
+      "name": "Elfster: The Secret Santa App",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.7"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-biggu-shopsavvy/16860.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.biggu.shopsavvy.png",
+      "name": "ShopSavvy - Barcode Scanner",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/moloapps-gifttracker/16845.html",
+      "icon": "https://img.buzzsight.co/apk/icon/moloapps.gifttracker.png",
+      "name": "GiftTracker : Gift List Helper",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.1"
+    }
+  ]
+}

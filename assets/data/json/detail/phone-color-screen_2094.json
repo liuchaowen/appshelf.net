@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/phone-color-screen.png",
+    "title": "Phone Color Screen",
+    "ratings": "4.5",
+    "downloads": "940M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Phone Color Screen"
+    },
+    {
+      "name": "category",
+      "value": "Photography"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Horoscope Tech Studio"
+    },
+    {
+      "name": "Version",
+      "value": "1.3.8"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h3>Brief</h3>\n<p><strong>Phone Color Screen</strong> is a vibrant enhancement to your phone's call display, offering a dazzling array of themes and effects that transform the otherwise mundane act of receiving a call into a visually stunning experience. With this app, users can personalize their incoming call screen with stylish themes, stunning background pictures, and dynamic effects that capture attention, whether it's an important call or message that you can't afford to miss.</p>\n<h3>Core Features 📌</h3>\n<ul>\n<li><strong>Stylish Themes:</strong> Choose from a plethora of flash screen themes to make incoming calls visually exciting. 🎨</li>\n<li><strong>Background Selection:</strong> Personalize your call screen with a variety of beautiful background images. 🖼️</li>\n<li><strong>Dynamic &amp; 3D Effects:</strong> Experience amazing dynamic and 3D transition effects when answering calls. 🌟</li>\n<li><strong>LED Flash Alerts:</strong> Never miss an important call or message with LED flashes signaling your attention. 🔦</li>\n<li><strong>Call Recognition:</strong> Quickly identify who's calling with customized screen themes for each caller. 🔍</li>\n</ul>\n<h3>Pros 👍</h3>\n<ul>\n<li><strong>Aesthetic Appeal:</strong> Boost your phone's aesthetic with colorful and eye-catching themes. 🌈</li>\n<li><strong>Variety of Choices:</strong> Numerous themes and backgrounds to choose from, ensuring something for everyone's taste. 🎭</li>\n<li><strong>Enhanced Call Awareness:</strong> With LED flash alerts, even in silent mode, you can be alerted to important contacts. ✨</li>\n<li><strong>3D Interaction:</strong> Adds a level of depth and modernity to your call screen with 3D animations. 📱</li>\n<li><strong>Customization per Caller:</strong> Personalize experiences for different callers with specific themes. 👤</li>\n</ul>\n<h3>Cons 👎</h3>\n<ul>\n<li><strong>Permission Requirements:</strong> In order to fully function, the app requires access to camera, flash, and system settings, which might be a concern for privacy-conscious users. 🔒</li>\n<li><strong>Potential for Distraction:</strong> The vibrant and dynamic nature of the call screen effects could be distracting, especially in serious settings. 🚦</li>\n<li><strong>Battery Usage:</strong> Enhanced screen activity and LED flash usage may lead to quicker battery drainage. 🔋</li>\n<li><strong>Easy to Miss Updates:</strong> With a multitude of themes and effects, important updates may get buried under the decorative features. 🔄</li>\n<li><strong>Learning Curve:</strong> New users may require time to get accustomed to the app's numerous customization features. 📚</li>\n</ul>\n<h3>Price 💵</h3>\n<p>Phone Color Screen is a free app to download with some in-app purchases available for premium themes and backgrounds. Additional costs may vary, depending on the level of customization desired.</p>\n<p>Enjoy a unique and personalized calling experience with Phone Color Screen, and let your phone stand out with each ring!</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-bhimaapps-valentineday/54159.html",
+      "icon": "assets/img/apk/icon/com.bhimaapps.valentineday.png",
+      "name": "Valentine Day Live Wallpaper",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "3"
+    },
+    {
+      "link": "/details/com-St-ValentinesDayLiveWallpaper/54154.html",
+      "icon": "assets/img/apk/icon/com.St.ValentinesDayLiveWallpaper.png",
+      "name": "Valentines Day Live Wallpaper",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-plaxa-parallax3d-wallpaper-overlay-touch-effect-aura/53773.html",
+      "icon": "assets/img/apk/icon/com.plaxa.parallax3d.wallpaper.overlay.touch.effect.aura.png",
+      "name": "Plaxa: Parallax Aura Wallpaper",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-happynewyear-hdwallpapers/49048.html",
+      "icon": "assets/img/apk/icon/com.happynewyear.hdwallpapers.png",
+      "name": "Happy New Year 2026 Wallpaper",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-photo-editor-photocalendar/49045.html",
+      "icon": "assets/img/apk/icon/com.photo.editor.photocalendar.png",
+      "name": "Calendar Maker: Photo Editor",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-watchfacestudio-animatedanalogfireworkswatchface/48946.html",
+      "icon": "assets/img/apk/icon/com.watchfacestudio.animatedanalogfireworkswatchface.png",
+      "name": "Fireworks Happy New Year's Eve",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/happy-neww-bighabits-year-images-wishes-gifs-day-stickers-wallpaper/48940.html",
+      "icon": "assets/img/apk/icon/happy.neww.bighabits.year.images.wishes.gifs.day.stickers.wallpaper.png",
+      "name": "Happy New Year 2026 Habits",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-starwatchfaces-hnyanimated/48934.html",
+      "icon": "assets/img/apk/icon/com.starwatchfaces.hnyanimated.png",
+      "name": "Happy New Year Animated",
+      "categoryLink": "/en/categories/Personalization/31",
+      "category": "Photography",
+      "rating": "4"
+    }
+  ]
+}

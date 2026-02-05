@@ -1,0 +1,108 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.scentregroup.westfield.png",
+    "title": "Westfield Plus AU/NZ",
+    "ratings": "4.9",
+    "downloads": "170M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Westfield Plus AU/NZ"
+    },
+    {
+      "name": "category",
+      "value": "Shopping"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Scentregroup"
+    },
+    {
+      "name": "Version",
+      "value": "3.6.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/_90EqOxAwG8_zI8vWwcKt0YnYleB2HO-PS78PBnyKj8IkPF_KYmLX5pYoUfzzvy6DQCi",
+    "https://play-lh.googleusercontent.com/o88G4QxCgRD5uwYzRGqF2eLfJnFprEwzrBpnfuJfdjSPaBFzuTr0CrdKJg_E51P1o9c",
+    "https://play-lh.googleusercontent.com/-Qh5k5ZegCZti1QaIm0JtC0HBm7bw0PDxaMk3NS3U9qe3BY0v7mvOGKmPU5Hv47Dkmyi",
+    "https://play-lh.googleusercontent.com/vUkbUVbBc_zvHZLX4mvWmgG6hpQVeNFnjAK8PX25p-CH-n_UZ16uKW896OBoSvO5hrs"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> Westfield Plus AU/NZ<br/>\n<strong>Package Name:</strong> com.scentregroup.westfield</p>\n<p><strong>Brief:</strong>\nGet ready to elevate your shopping experience with Westfield Plus AU/NZ, the ultimate companion for all things Westfield. This clever app keeps you in the loop with the latest happenings at Westfield Newmarket, offers convenient sign-up for updates, and promises even more valuable features in the near future, beginning with parking perks!</p>\n<p><strong>Core Features:</strong></p>\n<ul>\n<li>🚗 <strong>Parking Perks:</strong> Start enjoying benefits related to parking when you use the app.</li>\n<li>🎉 <strong>Discover Events:</strong> Stay informed about the latest events and activities taking place at Westfield Newmarket.</li>\n<li>💌 <strong>Stay Updated:</strong> Easy sign-up for emails within the app ensures you are always up-to-date.</li>\n<li>📅 <strong>Future Enhancements:</strong> Look forward to future app updates that will unlock additional features and conveniences. </li>\n</ul>\n<p><strong>Pros:</strong></p>\n<ul>\n<li>👍 Upfront information about current events and activities.</li>\n<li>👍 Keeps users informed through easy email sign-ups within the app.</li>\n<li>👍 Parking perks offer immediate benefits to frequent Westfield visitors.</li>\n<li>👍 Anticipation of new features enhancing user experience over time.</li>\n</ul>\n<p><strong>Cons:</strong></p>\n<ul>\n<li>👎 Currently limited to Westfield Newmarket.</li>\n<li>👎 Not all Westfield wide features or perks may be available yet.</li>\n<li>👎 May not offer benefits to those who seldom visit Westfield centers.</li>\n<li>👎 Potential for notifications and updates to be too frequent for some users.</li>\n</ul>\n<p><strong>Price:</strong></p>\n<ul>\n<li>💵 This app is free to download, offering convenience without cost.</li>\n</ul>\n<p>Since the Westfield Plus AU/NZ app is designed for enhancing the shopping experience rather than gaming, the community section will not be included in this description.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-seagm-store/54458.html",
+      "icon": "assets/img/apk/icon/com.seagm.store.png",
+      "name": "SEAGM - Games Topup, Gift Card",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-gowish-app/39285.html",
+      "icon": "assets/img/apk/icon/com.gowish.app.png",
+      "name": "GoWish - Your Digital Wishlist",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.7"
+    },
+    {
+      "link": "/details/com-aldisued-shopgo/16934.html",
+      "icon": "assets/img/apk/icon/com.aldisued.shopgo.png",
+      "name": "ALDI SHOP&GO",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.2"
+    },
+    {
+      "link": "/details/com-wakefern-shoprite/16933.html",
+      "icon": "assets/img/apk/icon/com.wakefern.shoprite.png",
+      "name": "ShopRite: Groceries & Savings",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-yaxo-vancamper/16894.html",
+      "icon": "assets/img/apk/icon/com.yaxo.vancamper.png",
+      "name": "Vancamper: Buy sell campervans",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/com-elfster-elfdroid/16861.html",
+      "icon": "assets/img/apk/icon/com.elfster.elfdroid.png",
+      "name": "Elfster: The Secret Santa App",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-biggu-shopsavvy/16860.html",
+      "icon": "assets/img/apk/icon/com.biggu.shopsavvy.png",
+      "name": "ShopSavvy - Barcode Scanner",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/moloapps-gifttracker/16845.html",
+      "icon": "assets/img/apk/icon/moloapps.gifttracker.png",
+      "name": "GiftTracker : Gift List Helper",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.1"
+    }
+  ]
+}

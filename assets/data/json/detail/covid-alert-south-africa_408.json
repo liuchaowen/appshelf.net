@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/za.gov.health.covidconnect.png",
+    "title": "COVID Alert South Africa",
+    "ratings": "4.9",
+    "downloads": "660M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "COVID Alert South Africa"
+    },
+    {
+      "name": "category",
+      "value": "Medical"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Department of Health - South Africa"
+    },
+    {
+      "name": "Version",
+      "value": "1.4.1-gms"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>COVID Alert South Africa</strong></p>\n<p><strong>Brief:</strong>\nCOVID Alert South Africa is a digital ally against the COVID-19 pandemic. Designed by the National Department of Health, it leverages Bluetooth technology for contact tracing, keeping your identity secure while informing you promptly if you've been near someone who tests positive for COVID-19. Along with exposure notifications, the app provides guidance on limiting virus spread and monitoring your health.</p>\n<p><strong>Core Features:</strong>\n📱 Bluetooth-powered contact tracing that exchanges \"random codes\" with nearby devices.\n🔒 Privacy-focused design ensuring your identity remains confidential.\n🔔 Immediate notifications if you've been close to another user who reports a positive COVID-19 test.\n🩺 Personalized health advice and symptom tracking recommendations.\n🤝 Integration into the National Department of Health’s digital COVIDConnect platform. </p>\n<p><strong>Pros:</strong>\n👤 Anonymity at its core to protect users' privacy and security.\n⏱️ Efficient and thorough contact tracing compared to manual methods.\n🚀 Quick access to health management tips post-exposure.\n🇿🇦 Strengthens the community's ability to collectively combat COVID-19.</p>\n<p><strong>Cons:</strong>\n📶 Requires consistent Bluetooth connection which may impact battery life.\n📱 Effectiveness depends on widespread adoption within the community.\n🔍 Limits effectiveness if people test positive for COVID-19 choose not to use the app or report the result.\n👥 May not account for contacts with individuals not using the app or without a compatible smartphone.</p>\n<p><strong>Price:</strong>\n💵 COVID Alert South Africa is a free app focused on public health and safety during the pandemic.</p>\n<p><strong>Community:</strong>\nThe community around <strong>COVID Alert South Africa</strong> is driven by citizens’ collective effort to manage and trace COVID-19 spread. Community members not only join in the fight against COVID-19 but also encourage others to participate, thus amplifying the app's effectiveness. While specific community links are not provided, engagement is primarily through the app and the endorsement by the National Department of Health.</p>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-stress-test/48991.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.stress.test.png",
+      "name": "Stress Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.1"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-procrastination-test/39516.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.procrastination.test.png",
+      "name": "Procrastination Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-bingeeating-test/39303.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.bingeeating.test.png",
+      "name": "Binge Eating Disorder Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-ocd-test/34780.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.ocd.test.png",
+      "name": "OCD Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.2"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-healthians-main-healthians/34760.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.healthians.main.healthians.png",
+      "name": "Healthians -Full Body Checkup",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.6"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-lbrc-PeriodCalendar/34759.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.lbrc.PeriodCalendar.png",
+      "name": "Period Tracker and Calendar",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.9"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/es-jshcd-edadosea/34693.html",
+      "icon": "https://img.buzzsight.co/apk/icon/es.jshcd.edadosea.png",
+      "name": "Bone age",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-devdis/16977.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.devdis.png",
+      "name": "Developmental Disabilities",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.5"
+    }
+  ]
+}

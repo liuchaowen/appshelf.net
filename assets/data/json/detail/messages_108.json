@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/smart.messages.message.sms.mms.png",
+    "title": "Messages",
+    "ratings": "4.5",
+    "downloads": "950M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Messages"
+    },
+    {
+      "name": "category",
+      "value": "Communication"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Messages, Phone by Social Media Group"
+    },
+    {
+      "name": "Version",
+      "value": "499999999.0.9"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h1>Messages</h1>\n<h2>Brief</h2>\n<p>Unlock the enhanced texting experience with Messages, the advanced messaging app designed to elevate your communication through free text, picture, audio, and video messages. Discover a seamless way to manage your SMS and MMS without the reliance on an internet connection. Messages offers a host of features aimed at refining your everyday messaging activities, from expressive emojis to a privacy-focused experience.</p>\n<h2>Core Features</h2>\n<ul>\n<li>📩 <strong>All-in-One Messaging</strong>: Send free texts, images, GIFs, and stickers to capture every moment and emotion with Messages 🔄.</li>\n<li>🎨 <strong>Customizable Themes and Widgets</strong>: Personalize your messaging screen with an array of themes and enjoy convenient access with the Home Screen Widget ✨.</li>\n<li>🔎 <strong>Advanced Search</strong>: Effortlessly locate specific messages or contacts with a powerful search function 🔍.</li>\n<li>🔒 <strong>Privacy and Security</strong>: Keep your conversations private and secure your texts from unauthorized access 🛡️.</li>\n<li>🤳 <strong>Multi-SIM &amp; Multi-Device Sync</strong>: Effortlessly manage messages across multiple SIMs and devices, ensuring you never miss a beat 📲.</li>\n</ul>\n<h2>Pros</h2>\n<ul>\n<li>👌 <strong>Intuitive Design</strong>: Experience a user-friendly interface that makes messaging straightforward and enjoyable 📐.</li>\n<li>🚫 <strong>Spam Blocking</strong>: Block unwanted texts easily and maintain a clutter-free inbox 🚫.</li>\n<li>🏠 <strong>Home Screen Widget</strong>: Gain quick access to your messages right from your home screen for ultimate convenience 🏠.</li>\n<li>💾 <strong>Message Recovery</strong>: Retrieve deleted messages and never worry about losing important information again ⚒️.</li>\n</ul>\n<h2>Cons</h2>\n<ul>\n<li>👀 <strong>No Internet Messaging</strong>: Lack of internet-based messaging can be limiting for users seeking online chat features 🌐.</li>\n<li>📦 <strong>Resource Usage</strong>: Potential higher resource usage on the device as compared to lightweight alternatives 📊.</li>\n<li>🕒 <strong>Transition Time</strong>: Users transitioning from other messenger apps may need time to adjust to new features ⏳.</li>\n<li>📵 <strong>Offline Restrictions</strong>: Without an internet connection, some advanced functionality like sending MMS may be restricted 💡.</li>\n</ul>\n<h2>Price</h2>\n<ul>\n<li>💵 Messages is a free-to-use app with no initial purchase cost. Stay connected without spending a dime! Check within the app for potential in-app purchase options and additional features 🔓.</li>\n</ul>\n<p>Craft your conversations the way you envision with Messages, where your messaging game will never be the same. Whether you're coordinating with friends, family, or colleagues, Messages ensures your communication is efficient, personal, and secure. Download now and start building connections that matter!</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-sst-parrot-photo-frame/53901.html",
+      "icon": "assets/img/apk/icon/com.sst.parrot.photo.frame.png",
+      "name": "Bird Photo Frame",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-new_year-stickers-birthday/39669.html",
+      "icon": "assets/img/apk/icon/com.new_year.stickers.birthday.png",
+      "name": "Happy New Year Stickers 2026",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/org-watchduty-app/14524.html",
+      "icon": "assets/img/apk/icon/org.watchduty.app.png",
+      "name": "Watch Duty (Wildfire)",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-snowcorp-stickerly-android/14453.html",
+      "icon": "assets/img/apk/icon/com.snowcorp.stickerly.android.png",
+      "name": "Sticker.ly - Sticker Maker",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-Happynewyearphotoframe2020/14421.html",
+      "icon": "assets/img/apk/icon/com.Happynewyearphotoframe2020.png",
+      "name": "New Year Video Maker 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-intira-new-year-photo-frame-new/14342.html",
+      "icon": "assets/img/apk/icon/com.intira.new.year.photo.frame.new.png",
+      "name": "New year photo frame 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-christmas-photo-frame-b-new-free/14203.html",
+      "icon": "assets/img/apk/icon/com.christmas.photo.frame.b.new.free.png",
+      "name": "Christmas photo frame 2025",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/ma-apps-face_ml/14137.html",
+      "icon": "assets/img/apk/icon/ma.apps.face_ml.png",
+      "name": "Face reader scanner - analyser",
+      "categoryLink": "/en/categories/communication/7",
+      "category": "Communication",
+      "rating": "3.3"
+    }
+  ]
+}

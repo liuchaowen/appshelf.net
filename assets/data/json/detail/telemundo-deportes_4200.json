@@ -1,0 +1,106 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/air.com.nbcuni.com.telemundo.envivo.png",
+    "title": "Telemundo Deportes",
+    "ratings": "4.9",
+    "downloads": "560M",
+    "age": "4+",
+    "download_link": "https://d.apkpure.com/b/APK/air.com.nbcuni.com.telemundo.envivo?version=latest"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Telemundo Deportes"
+    },
+    {
+      "name": "category",
+      "value": "Sports"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "NBCUniversal Media, LLC"
+    },
+    {
+      "name": "Version",
+      "value": "6.8.1"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<p><strong>App Name:</strong> Telemundo Deportes</p>\n<p><strong>Brief:</strong>\nTelemundo Deportes is your go-to mobile destination for streaming live sports events and staying updated with scores and news in the Spanish-speaking sports world. With exclusive coverage of top events, such as the FIFA World Cup, Premier League, and more, this app brings the thrill of the game to your fingertips.</p>\n<p><strong>Core Features:</strong> 📱</p>\n<ul>\n<li><strong>Live Streaming:</strong> Watch Copa Mundial de la FIFA, Premier League, and Liga MX live on your device. 🏟️</li>\n<li><strong>Video on Demand:</strong> Access sports clips and replay highlights at your convenience. 🎦</li>\n<li><strong>Sports News &amp; Scores:</strong> Stay current with the latest headlines and game scores. 📰</li>\n<li><strong>Coverage Schedule &amp; Reminders:</strong> Never miss a match with an easy-to-use calendar and event reminders. 🗓️</li>\n<li><strong>Personalized Alerts:</strong> Get alerts for your favorite teams and tailor your content filters. 🔔</li>\n</ul>\n<p><strong>Pros:</strong> 👍</p>\n<ul>\n<li><strong>Wide Range of Events:</strong> Access a comprehensive selection of live sports events, including exclusive FIFA tournaments. ⚽</li>\n<li><strong>Multi-Screen Viewing:</strong> Log in with your TV provider to watch on any screen, anywhere. 📺</li>\n<li><strong>Quality and Convenience:</strong> HD quality video adapts to your connection for optimal viewing. 🌐</li>\n<li><strong>In-depth Coverage:</strong> In addition to live streams, enjoy in-depth articles, scoreboards, and event replays. 📊</li>\n<li><strong>Multilingual Support:</strong> Though primarily in Spanish, it's perfect for bilingual users looking to enjoy sportscasting in Spanish. 🇪🇸🇺🇸</li>\n</ul>\n<p><strong>Cons:</strong> 👎 </p>\n<ul>\n<li><strong>Geographic Restrictions:</strong> Content access is limited to the USA and certain U.S. territories. 🌎</li>\n<li><strong>Provider Dependency:</strong> Live video access varies by TV provider and package. 📡</li>\n<li><strong>Data Charges:</strong> Streaming over mobile networks may affect data usage, incurring additional charges. 💳</li>\n<li><strong>Hardware Requirements:</strong> High-definition video is only available on iPads that support Retina display. 📲</li>\n<li><strong>User Account Requirement:</strong> A TV provider account is required for full app access. 🔒</li>\n</ul>\n<p><strong>Price:</strong> 💵\nThe Telemundo Deportes app is free to download, but accessing live streams requires authentication with a TV provider. Data charges from your mobile network may apply for video streaming.</p>\n<p><strong>Community:</strong>\nThe community features for Telemundo Deportes focus mainly on the sports events covered by the app and may not have dedicated social media communities. However, for general updates and content from Telemundo Deportes, consider following:</p>\n<ul>\n<li>Official Site: <a href=\"https://www.telemundodeportes.com/\" rel=\"noopener noreferrer\" target=\"_blank\">Telemundo Deportes</a></li>\n<li>YouTube: <a href=\"https://www.youtube.com/telemundodeportes\" rel=\"noopener noreferrer\" target=\"_blank\">Telemundo Deportes</a></li>\n<li>Meanwhile, related popular YouTubers, Instagrammers, Twitter handles, Facebook pages, TikTok personalities, and Reddit communities are typically those covering sports, Liga MX, Premier League, and FIFA events.</li>\n</ul>",
+  "related_apps": [
+    {
+      "link": "/details/com-firsttouchgames-dls7/39530.html",
+      "icon": "assets/img/apk/icon/com.firsttouchgames.dls7.png",
+      "name": "Dream League Soccer 2025",
+      "categoryLink": "/categories/sports/45",
+      "category": "Sports",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-ea-gp-tacticalfootball/39509.html",
+      "icon": "assets/img/apk/icon/com.ea.gp.tacticalfootball.png",
+      "name": "EA SPORTS FC™ Tactical",
+      "categoryLink": "/categories/sports/45",
+      "category": "Sports",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-Dino-GalaxySoccer/39364.html",
+      "icon": "assets/img/apk/icon/com.Dino.GalaxySoccer.png",
+      "name": "Galaxy Soccer :Rematch 3v3",
+      "categoryLink": "/categories/sports/45",
+      "category": "Sports",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-espn-score_center/16830.html",
+      "icon": "assets/img/apk/icon/com.espn.score_center.png",
+      "name": "ESPN",
+      "categoryLink": "/categories/sports/45",
+      "category": "Sports",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-gymclassvr/16685.html",
+      "icon": "assets/img/apk/icon/com.gymclassvr.png",
+      "name": "Gym Class VR: Companion App",
+      "categoryLink": "/categories/sports/45",
+      "category": "Sports",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/com-vividgames-realboxing2/16683.html",
+      "icon": "assets/img/apk/icon/com.vividgames.realboxing2.png",
+      "name": "Real Boxing 2",
+      "categoryLink": "/categories/sports/45",
+      "category": "Sports",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-ea-gp-maddennfl21mobile/16482.html",
+      "icon": "assets/img/apk/icon/com.ea.gp.maddennfl21mobile.png",
+      "name": "Madden NFL 26 Mobile Football",
+      "categoryLink": "/categories/sports/45",
+      "category": "Sports",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-doubletapsoftware-soccer-realtime-sports/16412.html",
+      "icon": "assets/img/apk/icon/com.doubletapsoftware.soccer.realtime.sports.png",
+      "name": "Soccer Battle -  PvP Football",
+      "categoryLink": "/categories/sports/45",
+      "category": "Sports",
+      "rating": "4.3"
+    }
+  ]
+}

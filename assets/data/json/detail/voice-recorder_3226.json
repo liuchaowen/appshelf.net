@@ -1,0 +1,110 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.splendapps.vox.png",
+    "title": "Voice Recorder",
+    "ratings": "4.7",
+    "downloads": "20M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Voice Recorder"
+    },
+    {
+      "name": "category",
+      "value": "Music & Audio"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Splend Apps"
+    },
+    {
+      "name": "Version",
+      "value": "3.16"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/rqzgfmiVShOI1C1I8uD7I5Q5qM-CHySPbQ8sQNLpXnQsFaKbH51PgVhV49BlKS3YZC_s",
+    "https://play-lh.googleusercontent.com/Bv0FDmO824GMlTQXinXLVqiDXZv2Zrwlvmdf4nqMtX7mCPDyTs_8O_PjkRNiWdlytcY",
+    "https://play-lh.googleusercontent.com/atCrdaLShUKFZpLBrFYj2LrjNjKNoKsEHwqqNZUsQv2SVdzVCcZD_jODJ0LGRqx7nYk",
+    "https://play-lh.googleusercontent.com/s17Rrc5CjxmIVmVTY43e_7CiBpYSKJ3IBcA8RwXLMXlk3yWwQSN3OFmetE9E1Md0D9nJ",
+    "https://play-lh.googleusercontent.com/LHAUi2EL2PDvLlJMU0i4DBUZwEaWmgv5NdarA0lhRxcreylAeStsc_o62YQxqJhbadhE",
+    "https://play-lh.googleusercontent.com/lh3cSrxA3AU-rvv-0uCen2JImhAdhS79TWNp_2AWIVyqMTVSqWIUICcR1-bO1qqvFVws"
+  ],
+  "app_descript": "<p><strong>Voice Recorder</strong></p>\n<p>Crafted with precision and user-friendliness in mind, Voice Recorder by SplendApps is a versatile audio recording app tailored for high-quality sound capture and management on mobile devices.</p>\n<p>📌 <strong>Core Features</strong></p>\n<ul>\n<li>🎼 Multiple Audio Formats: Choose from MP3, PCM (wav), AAC (m4a/mp4), and AMR (3gp) to match your audio quality and storage preferences. </li>\n<li>🔧 Adjustable Sample Rate: Set the sample rate from 8 kHz for phone quality to 44 kHz for CD quality recordings.</li>\n<li>🎚️ Flexible Bitrate: Options ranging from 32 to 320 kbps to manage the size and quality of your recordings.</li>\n<li>🌊 Live Audio Spectrum Analyzer: A visual tool to monitor audio frequency ranges in real-time.</li>\n<li>🎙️ Background Recording: Continue recording even when the screen is off, ensuring you never miss a moment.</li>\n</ul>\n<p>👍 <strong>Pros</strong></p>\n<ul>\n<li>🔒 Customizable Recordings Folder: Organize your recordings in a way that makes sense to you.</li>\n<li>🎧 Selectable Audio Source: Record via different microphones or directly from phone calls (note: call recording may not work on some devices).</li>\n<li>⏯️ In-App Media Player: Manage and play your recordings with ease, similar to a standard mp3 player.</li>\n<li>🚀 Share-ability: Easily send and share recordings via email or other apps.</li>\n<li>🛠️ Editable Recordings: Rename, delete, or use your recordings as ringtones, alarms, or notification sounds with ease.</li>\n</ul>\n<p>👎 <strong>Cons</strong></p>\n<ul>\n<li>📞 Call Recording Limitations: The app is not a dedicated call recorder and may have compatibility issues with some devices.</li>\n<li>🔋 Power Consumption: Running in the background could impact battery life for prolonged sessions.</li>\n<li>🖥️ No Desktop Version: Currently limited to mobile devices, with no desktop version available.</li>\n<li>🗂️ Manual Organization: While customizable, organizing recordings can become tedious for heavy users.</li>\n<li>💾 Storage Management: Managing space with high-quality audio files might require regular attention.</li>\n</ul>\n<p>💵 <strong>Price</strong>\nVoice Recorder is free to download, offering core features at no cost, which could include ads or limited functionality. There is no explicit mention of in-app purchases or premium version details.</p>\n<p>🕸️ <strong>Community</strong></p>\n<ul>\n<li>Official Site: <a href=\"http://splendapps.com/\" rel=\"noopener noreferrer\" target=\"_blank\">SplendApps</a></li>\n<li>Privacy Policy: <a href=\"http://splendapps.com/privacy-policy\" rel=\"noopener noreferrer\" target=\"_blank\">Privacy Policy</a></li>\n<li>Contact: <a href=\"http://splendapps.com/contact-us\" rel=\"noopener noreferrer\" target=\"_blank\">Contact Us</a></li>\n<li>Twitter: <a href=\"http://twitter.com/SplendApps\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a></li>\n<li>Facebook: <a href=\"http://www.facebook.com/SplendApps\" rel=\"noopener noreferrer\" target=\"_blank\">Facebook</a></li>\n</ul>\n<p>Whether you're a student, journalist, musician, or just need to capture audio notes, Voice Recorder stands as a robust tool capable of delivering high-quality audio recordings with a suite of features for audio management and sharing.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-simmusic-oldjpop/49056.html",
+      "icon": "assets/img/apk/icon/com.simmusic.oldjpop.png",
+      "name": "昭和の名曲 - 70年代/80年代名曲, 昭和の歌謡曲",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-bigsoft-voicereverse-audiochanger/39378.html",
+      "icon": "assets/img/apk/icon/com.bigsoft.voicereverse.audiochanger.png",
+      "name": "Funny Voice Reverse",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "3.1"
+    },
+    {
+      "link": "/details/com-realdrum-drumset-drumapp-beatmaker-music-instruments-drumkit/16783.html",
+      "icon": "assets/img/apk/icon/com.realdrum.drumset.drumapp.beatmaker.music.instruments.drumkit.png",
+      "name": "Learn Drum - Pad & Beat Maker",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-musicplayer-mp3-audio-mymusic-player/15795.html",
+      "icon": "assets/img/apk/icon/com.musicplayer.mp3.audio.mymusic.player.png",
+      "name": "Music Player & MP3 - MMusic",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.8"
+    },
+    {
+      "link": "/details/com-ai-sound-donna/15626.html",
+      "icon": "assets/img/apk/icon/com.ai.sound.donna.png",
+      "name": "Donna AI Song & Music Maker",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-vanniktech-rssreader/15328.html",
+      "icon": "assets/img/apk/icon/com.vanniktech.rssreader.png",
+      "name": "RSS Reader Offline | Podcast",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-voicechanger-supereffect-soundeffect/14158.html",
+      "icon": "assets/img/apk/icon/com.voicechanger.supereffect.soundeffect.png",
+      "name": "Voice Changer: Audio Effect",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/org-cru-womans-herbible/14124.html",
+      "icon": "assets/img/apk/icon/org.cru.womans.herbible.png",
+      "name": "her.BIBLE Women's Audio Bible",
+      "categoryLink": "/en/categories/music.audio/17",
+      "category": "Music & Audio",
+      "rating": "4.5"
+    }
+  ]
+}

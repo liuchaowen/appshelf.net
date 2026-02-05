@@ -1,0 +1,112 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.lyft.android.driver.png",
+    "title": "Lyft Driver",
+    "ratings": "4.6",
+    "downloads": "470M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Lyft Driver"
+    },
+    {
+      "name": "category",
+      "value": "Business"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Lyft, Inc."
+    },
+    {
+      "name": "Version",
+      "value": "1002.49.3.1582121423"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/Y10Rjw5fJzt88y-ssT5cwmFoYLaVrW3P1sG16CzjWRUbm7MDY2Z1kHAfEg54-H1WU_w",
+    "https://play-lh.googleusercontent.com/SuP32SWj4jXNWRwMUVu0em7WuvWXGM9U2Xt5Z9uvkveWZgJJ3g1W3aB8pUo3NUCmu48",
+    "https://play-lh.googleusercontent.com/3ogLX4G4xdTxKyrrY5EuKhU-FWnVH0uE5UanYhRz4ptY1muZLK1rM0bB6s_R3z5F1g",
+    "https://play-lh.googleusercontent.com/iaA1Bk_nE92Tm7tV3EM-DEZ1MULWRkTRsnrbN-hqwoZhbEyz83a8fjhilurYcvX76A",
+    "https://play-lh.googleusercontent.com/cps8NxCg5QjZPp3IYEypgretnzkoP8Z42_Ci-H0QvMzNEkSW7SMLBsgVDeTSoB0SeaE",
+    "https://play-lh.googleusercontent.com/GUIekUR-2cWu7Y44J05xEruvIZZvjO_yJ-9-AbhgPiype0MvCnsYA1MV1zjDChAcaSM",
+    "https://play-lh.googleusercontent.com/jofvKvwm-96tNR8ADautsDvHigFjO76YYRzfMMnB_-6xEnRgAq2XgqrOyWrwxLueYg",
+    "https://play-lh.googleusercontent.com/xBJbLr9sJfcW05atBHIRlZd9L87SnEA3wO5KmICvohpRVRVE90IGVDYzYlY8D8GN7Lg"
+  ],
+  "app_descript": "<h2>Lyft Driver</h2>\n<h3>Brief</h3>\n<p>The Lyft Driver app is your key to entering the flexible world of ridesharing. As an extension of the popular Lyft platform, this app is specially designed for drivers, allowing you to earn income on your own schedule. Whether you're in pursuit of a full-time gig or just looking to make some extra cash, Lyft Driver facilitates a smooth driving experience. With over $500 million in tips given by passengers, this app demonstrates a community of gratuity and satisfaction.</p>\n<h3>Core Features 📌</h3>\n<ul>\n<li><strong>Flexible Earnings:</strong> Drive and earn at your convenience, perfect for those seeking a customizable work schedule.</li>\n<li><strong>Generous Tips:</strong> With an impressive record of $500 million in tips, Lyft celebrates the generosity of its user base.</li>\n<li><strong>Driver-Friendly App:</strong> Access all necessary tools to manage rides, track earnings, and optimize your driving experience in one user-friendly app.</li>\n<li><strong>Community Spirit:</strong> Enjoy the camaraderie of the Lyft community, known for its friendly and respectful interactions.</li>\n<li><strong>No Car, No Problem:</strong> The Express Drive program allows you to drive and earn even without owning a car (select markets only).</li>\n</ul>\n<h3>Pros 👍</h3>\n<ul>\n<li><strong>Income on Demand:</strong> Ability to earn money as and when you decide, fitting around your life commitments.</li>\n<li><strong>Keep All Your Tips:</strong> Lyft ensures that drivers receive 100% of their tips, bolstering potential earnings.</li>\n<li><strong>Easy Navigation:</strong> The app provides effortless navigational tools and insights into local demand and bonuses.</li>\n<li><strong>Supportive Community:</strong> Engage with a network of passengers who are generally personable and pleasant.</li>\n<li><strong>Vehicle Solutions:</strong> The app offers alternative car solutions, eliminating the barrier of needing your own vehicle in some areas.</li>\n</ul>\n<h3>Cons 👎</h3>\n<ul>\n<li><strong>Battery Consumption:</strong> Continuous GPS use may significantly affect your device's battery life.</li>\n<li><strong>Data Sharing:</strong> By using the app, drivers agree to communication from Lyft and to the collection of device language settings.</li>\n<li><strong>Push Notifications:</strong> Users are automatically opted into Lyft push notifications, though this can be managed in device settings.</li>\n<li><strong>Market Dependence:</strong> Features like Express Drive may not be available in all regions.</li>\n<li><strong>Competitive Landscape:</strong> Earnings can be influenced by the number of active drivers and demand in the area.</li>\n</ul>\n<h3>Price 💵</h3>\n<p>The Lyft Driver app is free to download. However, standard business expenses like gas and vehicle maintenance apply when driving for Lyft. </p>\n<p>Crafted with an understanding of what drivers require, Lyft Driver stands as a testament to flexible work and community interaction. Whether you're looking for a full-time occupation or some extra cash on the side, this app promises to be an invaluable tool on your journey. Embrace the freedom to earn, courtesy of Lyft.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-kj2147575505-app/16858.html",
+      "icon": "assets/img/apk/icon/com.kj2147575505.app.png",
+      "name": "Alpha Omega Consulting",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-hypertide-petscan-v8m/15982.html",
+      "icon": "assets/img/apk/icon/com.hypertide.petscan.v8m.png",
+      "name": "PetScan",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "2"
+    },
+    {
+      "link": "/details/com-animalid-scanner/15981.html",
+      "icon": "assets/img/apk/icon/com.animalid.scanner.png",
+      "name": "Pet Scanner",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-webrange-sendoff-app/15417.html",
+      "icon": "assets/img/apk/icon/com.webrange.sendoff.app.png",
+      "name": "Sendoff Funeral App",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-dyve-countthings/10295.html",
+      "icon": "assets/img/apk/icon/com.dyve.countthings.png",
+      "name": "CountThings from Photos",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "3"
+    },
+    {
+      "link": "/details/com-countthis-count-things-counting-template-counter/5097.html",
+      "icon": "assets/img/apk/icon/com.countthis.count.things.counting.template.counter.png",
+      "name": "Count This・Counting Things App",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-aadi-personalitytraittest/4991.html",
+      "icon": "assets/img/apk/icon/com.aadi.personalitytraittest.png",
+      "name": "Personality Trait Test",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/GlowRoad/4569.html",
+      "icon": "assets/img/apk/icon/com.localqueen.png",
+      "name": "GlowRoad",
+      "categoryLink": "/en/categories/business/5",
+      "category": "Business",
+      "rating": "4.6"
+    }
+  ]
+}

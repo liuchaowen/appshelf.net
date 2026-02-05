@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.vid007.videobuddy.png",
+    "title": "VideoBuddy",
+    "ratings": "4.9",
+    "downloads": "410M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "VideoBuddy"
+    },
+    {
+      "name": "category",
+      "value": "Video Players & Editors"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Jasper Studio"
+    },
+    {
+      "name": "Version",
+      "value": "1.0.1060"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h1>VideoBuddy</h1>\n<h3>Brief</h3>\n<p>VideoBuddy is your go-to app for an enhanced online video experience. With its intuitive download detection, it seamlessly discovers downloadable content as you browse the web. Not only does it make downloading videos a breeze, but it also ensures a distraction-free browsing session by effectively blocking unnecessary ads and pop-ups. Embrace a world of diverse video content, accelerated downloads, and an optimized viewing experience with VideoBuddy.</p>\n<h3>Core Features</h3>\n<ul>\n<li>📥 <strong>Download Detection:</strong> Automatically identifies downloadable videos across a multitude of websites.</li>\n<li>🛡️ <strong>AdBlock:</strong> Blocks unwanted ads and pop-ups, streamlining your browsing experience.</li>\n<li>🎥 <strong>Videos for All Tastes:</strong> Access a vast library of movies, TV shows, clips, and more, all available for free download.</li>\n<li>⚡ <strong>Servers Speed Up:</strong> Enhances and accelerates downloading speed, minimizing wait times.</li>\n<li>📺 <strong>Better Watching Experience:</strong> Offers an optimized video player for an improved viewing session. </li>\n</ul>\n<h3>Pros</h3>\n<ul>\n<li>👍 <strong>Ease of Use:</strong> VideoBuddy's user-friendly interface simplifies the video downloading process.</li>\n<li>👍 <strong>Ad-Free Browsing:</strong> Enjoy browsing without the annoyance of ads intruding your experience.</li>\n<li>👍 <strong>Diverse Content Library:</strong> There's something for everyone, from entertainment to laugh-out-loud funny videos.</li>\n<li>👍 <strong>Fast Downloads:</strong> Advanced server acceleration tech ensures your downloads are swift and hassle-free.</li>\n<li>👍 <strong>Enhanced Player:</strong> The optimized video player is designed for a superior watching experience.</li>\n</ul>\n<h3>Cons</h3>\n<ul>\n<li>👎 <strong>Internet Dependence:</strong> Requires a stable internet connection for optimal functionality.</li>\n<li>👎 <strong>Storage Space:</strong> Downloading multiple videos could impact device storage capacity.</li>\n<li>👎 <strong>Content Availability:</strong> Selection of downloadable content is subject to availability and may vary.</li>\n<li>👎 <strong>Data Usage:</strong> Streaming and downloading over mobile data may lead to additional charges by your service provider.</li>\n<li>👎 <strong>Ad-Block Limitations:</strong> The efficiency of the AdBlock feature may vary depending on the ad types and site structures.</li>\n</ul>\n<h3>Price</h3>\n<ul>\n<li>💵 VideoBuddy is a free app with no upfront costs. However, keep an eye out for any in-app activities that might incur additional charges, if present.</li>\n</ul>\n<h3>Community</h3>\n<p>There is no community data available for VideoBuddy.</p>\n<p><em>Dive into the richness of online videos with ease and comfort – Download <a href=\"https://play.google.com/store/apps/details?id=com.vid007.videobuddy\" rel=\"noopener noreferrer\" target=\"_blank\">VideoBuddy</a> now and elevate your watching experience to the next level!</em></p>",
+  "related_apps": [
+    {
+      "link": "/details/com-video-newslideshow/53956.html",
+      "icon": "assets/img/apk/icon/com.video.newslideshow.png",
+      "name": "Music Video Maker Magic Effect",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-prominent-aicatch/49088.html",
+      "icon": "assets/img/apk/icon/com.prominent.aicatch.png",
+      "name": "AI Catch: AI Video Generator",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-asianmobile-smartplayer/34766.html",
+      "icon": "assets/img/apk/icon/com.asianmobile.smartplayer.png",
+      "name": "IPTV Player: Smarters Watch TV",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "3.1"
+    },
+    {
+      "link": "/details/halloween-video-maker/34753.html",
+      "icon": "assets/img/apk/icon/halloween.video.maker.png",
+      "name": "Halloween Video Editor 2025",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-cupertinotech-aidancevideo/16075.html",
+      "icon": "assets/img/apk/icon/com.cupertinotech.aidancevideo.png",
+      "name": "AI Dance Video - Photo Dance",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "2.4"
+    },
+    {
+      "link": "/details/com-instagram-basel/15556.html",
+      "icon": "assets/img/apk/icon/com.instagram.basel.png",
+      "name": "Edits, an Instagram app",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/downloader-video-download-free/10303.html",
+      "icon": "assets/img/apk/icon/downloader.video.download.free.png",
+      "name": "Video Downloader & Video Saver",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-renderforest-videomaker/10142.html",
+      "icon": "assets/img/apk/icon/com.renderforest.videomaker.png",
+      "name": "Renderforest Video & Animation",
+      "categoryLink": "/en/categories/video.players.editors/25",
+      "category": "Video Players & Editors",
+      "rating": "4.5"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/net.tsapps.appsales.png",
+    "title": "AppSales",
+    "ratings": "4.3",
+    "downloads": "1B",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "AppSales"
+    },
+    {
+      "name": "category",
+      "value": "Shopping"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "TS-Apps"
+    },
+    {
+      "name": "Version",
+      "value": "11.2"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/YTq5Bqae2Mmx_FDkBeiqDwJ9MPLhCr-ZwRtgca0AVegd5quKWCUMJcEAFuibQheM0ig",
+    "https://play-lh.googleusercontent.com/YaZo4USKnGKM9S0TEFzBFruKedWC84r1iS8PwzYd_z7maEalBYy47YZQtx3X7aqa7A",
+    "https://play-lh.googleusercontent.com/udv_R7lfNcrwTF2F83x2eRymlSpKNMNNAVqUbkdM_gnnM8BjEGuI3N7yafBJ2ZulMDA",
+    "https://play-lh.googleusercontent.com/afpfdRY31i44tbEeRhIOzqCGQVUObzwq8rNu8iL5uA3-1aSoe28mED_peZhK2BFAmQ",
+    "https://play-lh.googleusercontent.com/s19uaYnOHU9QRhUgXvgk1cnMpa10Of3wJ8OJ4FwpmOF2tIxWL9Wni7wQJfRw5UQkhocd",
+    "https://play-lh.googleusercontent.com/r18FsV5fB0btjnbcDO8AmWr6rQdCbS3-j2MAafxVt_Uh67PKmdQRyGo1WwzyjaxQfZo",
+    "https://play-lh.googleusercontent.com/ky1DQjRVgqpt7CMKQV-QCWt1KYT9j7_G0oEBAWE3OAbJOfC_GB3McqN3c2GKSEngBOHU"
+  ],
+  "app_descript": "<h1>AppSales: Best Apps on Sale</h1>\n<h3>Brief 🌟</h3>\n<p>AppSales offers a streamlined way to track the latest discounts and free app opportunities on the Google Play Store. It combines an intuitive Material 2.0 design with powerful features to ensure you never miss out on a great deal. With price histories, personalized watchlists, and various filter options, AppSales is your go-to companion for snagging the best app deals.</p>\n<h3>Core Features 📱</h3>\n<ul>\n<li><strong>Updated Sales List</strong>: Keep tabs on continuously updated app sales and free app offers with notifications 📈.</li>\n<li><strong>Price History Transparency</strong>: View and compare an app's price over the last 60 to 360 days (for Premium users) 💸.</li>\n<li><strong>Personalized Watchlist</strong>: Add favorite apps and get notified during price drops 🔔.</li>\n<li><strong>Custom Filters &amp; Dismiss Feature</strong>: Tailor the app experience by setting thresholds for discounts and ratings, and dismiss unwanted apps 🛠️.</li>\n<li><strong>Cross-Device Syncing</strong>: Maintain your watchlist across multiple Android devices for a unified experience 🔗.</li>\n</ul>\n<h3>Pros 👍</h3>\n<ul>\n<li><strong>User-Friendly Interface</strong>: Navigate effortlessly through the app with the modern Material 2.0 design 🎨.</li>\n<li><strong>Notification Customization</strong>: Choose to get alerted for apps within specific categories, dismissing the rest 🚀.</li>\n<li><strong>No More FOMO</strong>: The app ensures you're always in the loop for the hottest app deals and freebies 🎁.</li>\n<li><strong>Chart &amp; Trend Insights</strong>: Get visual representations of trending apps with Watchlist Charts 📊.</li>\n</ul>\n<h3>Cons 👎</h3>\n<ul>\n<li><strong>Premium Subscription</strong>: Some features are gated behind the premium version, which may not appeal to all users 💳.</li>\n<li><strong>Potential Overload of Notifications</strong>: Users might get overwhelmed by notifications if not properly managed 🔔.</li>\n<li><strong>Location-Based Pricing</strong>: Prices of apps may vary depending on one’s location and currency, which might be confusing 🌍.</li>\n<li><strong>Ads &amp; In-app Purchases</strong>: The presence of ads and in-app purchases in other apps can detract from the experience 🚨.</li>\n</ul>\n<h3>Price 💵</h3>\n<p>AppSales can be downloaded for free, and users have the option to upgrade to a Premium version for access to extended price history and additional features. In-app purchases may apply for premium features.</p>\n<h3>Community 🕸️</h3>\n<ul>\n<li>Official site: <a href=\"https://www.app-sales.net/\" rel=\"noopener noreferrer\" target=\"_blank\">AppSales Official Site</a></li>\n<li>Related popular YouTuber's channel: N/A</li>\n<li>Most followed Instagrammer: N/A</li>\n<li>Twitter: <a href=\"https://twitter.com/app_sales\" rel=\"noopener noreferrer\" target=\"_blank\">AppSales on Twitter</a></li>\n<li>Discord: N/A</li>\n<li>Facebook: <a href=\"https://www.facebook.com/appsalesnet/\" rel=\"noopener noreferrer\" target=\"_blank\">AppSales on Facebook</a></li>\n<li>TikTok: N/A</li>\n<li>Reddit: N/A</li>\n<li>Fandom wiki site: N/A</li>\n</ul>\n<p>Find the best app deals, monitor price patterns, and enjoy your favorite Android apps at the best prices with AppSales. Download now to start saving!</p>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-seagm-store/54458.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.seagm.store.png",
+      "name": "SEAGM - Games Topup, Gift Card",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.7"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-gowish-app/39285.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.gowish.app.png",
+      "name": "GoWish - Your Digital Wishlist",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.7"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-aldisued-shopgo/16934.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.aldisued.shopgo.png",
+      "name": "ALDI SHOP&GO",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "3.2"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-wakefern-shoprite/16933.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.wakefern.shoprite.png",
+      "name": "ShopRite: Groceries & Savings",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.7"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-yaxo-vancamper/16894.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.yaxo.vancamper.png",
+      "name": "Vancamper: Buy sell campervans",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.8"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-elfster-elfdroid/16861.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.elfster.elfdroid.png",
+      "name": "Elfster: The Secret Santa App",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.7"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-biggu-shopsavvy/16860.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.biggu.shopsavvy.png",
+      "name": "ShopSavvy - Barcode Scanner",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/moloapps-gifttracker/16845.html",
+      "icon": "https://img.buzzsight.co/apk/icon/moloapps.gifttracker.png",
+      "name": "GiftTracker : Gift List Helper",
+      "categoryLink": "/en/categories/Shopping/32",
+      "category": "Shopping",
+      "rating": "4.1"
+    }
+  ]
+}

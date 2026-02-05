@@ -1,0 +1,126 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.ohmgames.smashthemall.png",
+    "title": "Push'em all",
+    "ratings": "4.2",
+    "downloads": "180M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Push'em all"
+    },
+    {
+      "name": "category",
+      "value": "Action"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "VOODOO"
+    },
+    {
+      "name": "Version",
+      "value": "1.19"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/DZeLgIV5fdQEIzPexbaLjRvUsXzRa-rGbm6Zi-ZBH1vrjk3Ivv49uu6mPdkbb6wfBaY5",
+    "https://play-lh.googleusercontent.com/hQmkwuAzq_-T9yYHMPZkN4ihf9jpEhTzvvjOyy0BoBl81mstuha9w8zVhBlPOq-a_27E",
+    "https://play-lh.googleusercontent.com/zbKHhuqThYm89jRm9Wtm5vmiembwaMaMCT7-UjoaO5_4tNjtWZNmzX7LW-rciHAmBI4",
+    "https://play-lh.googleusercontent.com/ZyZFfym4DkL08qQPZTP5oSrcOVcqO19d6GntMeS8is3dLzU_aKjElrg1KJ7WfcMxi882",
+    "https://play-lh.googleusercontent.com/ISNk3jSxBoLuZGMn2eo-WQJhtoyft4ARD3Z1pQT9JU9hH7N01lFUnpAxtMrOWnPTXPwe",
+    "https://play-lh.googleusercontent.com/uG4BhZKjC9PDd1iGil4o9XTmMtb2Yi4lN__jKbPgJ3OdEByPayxsG_wzfTJavHiHR_8",
+    "https://play-lh.googleusercontent.com/esUAid-AmcIkGyTH3wvfzQoeAHuyEuZUIgbHrWBY_yNTF4AylzplxwnwWl4lf5_FyN90",
+    "https://play-lh.googleusercontent.com/TBpt8EAZ9gxUN7vH4GUXHcYDxHSgeu69Kz2JC8DcQubVoDVPuXLjgDWeBclmkqEa6w",
+    "https://play-lh.googleusercontent.com/dkqaQ_cevOqSA5tw1xn-tUFIn4WmeC4K4jjbOm022T2sOcMa0J_3t7VPnaAf3r3ygd8",
+    "https://play-lh.googleusercontent.com/0dGM-RrgNLnFY1Ucj6XcfQtZD_nVn2tJ8mWoeNCafYxSbyqf8mctvYqLmq7AhMie1Do",
+    "https://play-lh.googleusercontent.com/5MnBxQVVUswfDWPIIm04I7tkXEQY3VZd_NupK107L-t459i9KcxIYyZDOLwDzmqtuImH",
+    "https://play-lh.googleusercontent.com/IcO4hQC6-KyvbjXhMqVEr8Y_tX0ecZfb5OYEClII3B_Rpr_KHdTexZn3rV5lrm_W8ZY",
+    "https://play-lh.googleusercontent.com/cwBFkEgIu3NKcR6XPfmxBx1uuDXv5v754Wb1Zt5YKUrN2cPiim52d-9pXnJUugPmAs_M",
+    "https://play-lh.googleusercontent.com/qZtvZwjdgXZmlP29kSfFvELhedqS9SK_ULy-rXebVIJygcqc4NdwUTskqZYf7y0aA6k",
+    "https://play-lh.googleusercontent.com/LWruoYg7WrE58AAItTy5eTuZ0U5_6RziBjLfH80W4VjcqdF8coJfmodEEiDw1E4rkpY",
+    "https://play-lh.googleusercontent.com/6ZhIS2xWJB7kr2JYdsS92Mu0fFMvWRLL4xdESMC83kx7HNeU8HtJp8-MlFsI-nPYFw",
+    "https://play-lh.googleusercontent.com/x2uHMgt_zbPpOYFHtDp49xtyiFY1ol118LvF-q6ZJ-W-8JvbgofujP9U6Neh0NPnLJgi",
+    "https://play-lh.googleusercontent.com/IjBdASEEpONuYWY8YT8JOs0SDfkbkoCGaG0kBwvjQK5j29Ftk5RN5Dx_z45ZulzhR0M",
+    "https://play-lh.googleusercontent.com/pF0TSGpjEijiQLgApt1qMXlCLJTIh6M8gbdM5PLlngAnn8VZ9NKTtnAGp3RRXSbUM9Y",
+    "https://play-lh.googleusercontent.com/97hCniguOB0G7lNm9awTrVmY37n5rG36o2NMTLFE56QI_mW-KQsjTBesVpnTZAbqFQ8Y",
+    "https://play-lh.googleusercontent.com/yl3s-IoPZP3mrUiGQlVsqJL2w3alrdPKJXnguWPbJnY2zzHln0zYV17vZq1crW8BOHI",
+    "https://play-lh.googleusercontent.com/mf_UIKT_We6TiBRbHlGLdNKCzcyFGxiBuJvoBjj73D3CplqCJ7ab5spqLwDvNgQpvVU"
+  ],
+  "app_descript": "<h2>Brief</h2>\n<p><em>Push'em all</em> is an action-packed game that challenges players to navigate their character through increasingly complex levels while strategically knocking down enemies. With an easy one-tap control scheme, the game offers a mix of careful strategy and quick reflexes. As you progress, you might even master the use of traps to outwit giant adversaries and swift challengers that are aiming to take you down. The vibrant visuals and addictive gameplay mechanics promise a fun and engaging experience for players of all ages.</p>\n<h2>Core Features</h2>\n<ul>\n<li>🌀 <strong>One-Tap Controls</strong>: Simple yet engaging gameplay with one-tap mechanics.</li>\n<li>🗺️ <strong>Strategic Trap Use</strong>: Learn and master the placement of traps to defeat enemies.</li>\n<li>🌟 <strong>Stunning Visuals</strong>: Eye-catching graphics adding to the addictive nature of the game.</li>\n<li>💪 <strong>Diverse Challenges</strong>: Face off against fast and giant enemies each with their own unique challenge.</li>\n<li>🔄 <strong>Addictive Gameplay</strong>: Easy to learn but hard to master, keeping players returning for more.</li>\n</ul>\n<h2>Pros</h2>\n<ul>\n<li>👌 <strong>User-Friendly Interface</strong>: Intuitive controls make it accessible for beginners.</li>\n<li>💡 <strong>Skill Development</strong>: Enhances strategic thinking and reaction time.</li>\n<li>📈 <strong>Progressive Difficulty</strong>: Game difficulty scales to keep the challenge engaging.</li>\n<li>🔋 <strong>Play Anytime</strong>: Perfect for quick gaming sessions.</li>\n<li>🎮 <strong>Entertainment Value</strong>: Offers hours of entertaining gameplay.</li>\n</ul>\n<h2>Cons</h2>\n<ul>\n<li>👎 <strong>Repetitiveness</strong>: Can become repetitive over time without new updates.</li>\n<li>📱 <strong>Ad Intrusiveness</strong>: The presence of ads can disrupt gameplay.</li>\n<li>🔄 <strong>Limited Content</strong>: May need more levels or features to sustain long-term interest.</li>\n<li>🆕 <strong>Update Dependency</strong>: Relies on new updates for fresh content.</li>\n<li>🔊 <strong>Sound Design</strong>: The audio experience might not match everyone's taste.</li>\n</ul>\n<h2>Price</h2>\n<p>💵 <em>Push'em all</em> is free to play, but it does include in-app purchases, which may enhance the gameplay experience or speed up progress for those who prefer them.</p>\n<h2>Community</h2>\n<ul>\n<li>🌐 <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Official Site</a></li>\n<li>🎥 <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">YouTube</a></li>\n<li>📺 Related YouTuber channels: <a href=\"https://www.youtube.com/results?search_query=Push%27em+all+gameplay\" rel=\"noopener noreferrer\" target=\"_blank\">Popular Gaming Channel</a></li>\n<li>📸 Most followed Instagrammers in gaming: <a href=\"https://www.instagram.com/explore/tags/gaming/\" rel=\"noopener noreferrer\" target=\"_blank\">Top Gaming Instagram</a></li>\n<li>🐦 <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter</a></li>\n<li>💬 <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Discord</a></li>\n<li>👥 <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Facebook</a></li>\n<li>🎵 <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">TikTok</a></li>\n<li>📘 <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Reddit</a></li>\n<li>📚 <a href=\"#\" rel=\"noopener noreferrer\" target=\"_blank\">Fandom Wiki</a></li>\n</ul>\n<p>(Note: If the associated social media links or official site are not provided, it indicates that no specific pages have been found for this game in these platforms.)</p>\n<p>Remember that the community section and links are placeholders due to the lack of specific online community data—ensure you search for these resources to engage with fellow players in the <em>Push'em all</em> community.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-clickteam-ultimatecustomnight/54248.html",
+      "icon": "assets/img/apk/icon/com.clickteam.ultimatecustomnight.png",
+      "name": "Ultimate Custom Night",
+      "categoryLink": "/en/categories/action/33",
+      "category": "Action",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-beyondgames-superherohandrun/54057.html",
+      "icon": "assets/img/apk/icon/com.beyondgames.superherohandrun.png",
+      "name": "Superhero Hand Run",
+      "categoryLink": "/en/categories/action/33",
+      "category": "Action",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-monster-park-horror-survival/53723.html",
+      "icon": "assets/img/apk/icon/com.monster.park.horror.survival.png",
+      "name": "Monster Park Horror Games",
+      "categoryLink": "/en/categories/action/33",
+      "category": "Action",
+      "rating": "3.2"
+    },
+    {
+      "link": "/details/jp-co-dwango-HcgDW007SandwichRun/48985.html",
+      "icon": "assets/img/apk/icon/jp.co.dwango.HcgDW007SandwichRun.png",
+      "name": "Sandwich Runner",
+      "categoryLink": "/en/categories/action/33",
+      "category": "Action",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-eg-mimicry-horror-online/39685.html",
+      "icon": "assets/img/apk/icon/com.eg.mimicry.horror.online.png",
+      "name": "Mimicry: Online Horror Action",
+      "categoryLink": "/en/categories/action/33",
+      "category": "Action",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-spiderherofighter-spiderman/39571.html",
+      "icon": "assets/img/apk/icon/com.spiderherofighter.spiderman.png",
+      "name": "Spider Man 3",
+      "categoryLink": "/en/categories/action/33",
+      "category": "Action",
+      "rating": "3.4"
+    },
+    {
+      "link": "/details/com-rockstargames-gtasa/39510.html",
+      "icon": "assets/img/apk/icon/com.rockstargames.gtasa.png",
+      "name": "Grand Theft Auto: San Andreas",
+      "categoryLink": "/en/categories/action/33",
+      "category": "Action",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-sega-sonicrumble/39382.html",
+      "icon": "assets/img/apk/icon/com.sega.sonicrumble.png",
+      "name": "Sonic Rumble",
+      "categoryLink": "/en/categories/action/33",
+      "category": "Action",
+      "rating": "4.5"
+    }
+  ]
+}

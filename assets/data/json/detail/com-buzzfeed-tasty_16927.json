@@ -1,0 +1,110 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/com.buzzfeed.tasty.png",
+    "title": "Tasty",
+    "ratings": "4.7",
+    "downloads": "1654M",
+    "age": "4+",
+    "download_link": "https://d.apkpure.com/b/APK/com.buzzfeed.tasty?version=latest"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Tasty"
+    },
+    {
+      "name": "category",
+      "value": "Food & Drink"
+    },
+    {
+      "name": "Price",
+      "value": "0"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "BuzzFeed"
+    },
+    {
+      "name": "Version",
+      "value": "7.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/fGPvBWesggUd4Aj5fsztpvSqgKAYdvxAsxwFrmO_YEF2alcYBTcI4gWPKqgJPwWr_4s",
+    "https://play-lh.googleusercontent.com/HZIghMNare-h_vXfVFXo2RtyuqbSd8hDwHLycydi-jeZqbeoaYjsRvsZj9iUAsw7dw",
+    "https://play-lh.googleusercontent.com/KrW6AqQV9xRO9WrYB0vYyI_LTzm4Em2mg8bUH-bHRfthctnw_wAwpbqfOGEeQdXUFg",
+    "https://play-lh.googleusercontent.com/hYlwDf15cITblrb7g_JsbsZFKZkK427UL6xGa8o93ZYeB6HHNVInMy-5Rje3P8cEMJds",
+    "https://play-lh.googleusercontent.com/-m-XrlRzHRgsqxLgWJGpyUeC5VANUu64_lNGu9geTyLY27e1jeQftMnG1KJTDa5mg7mY"
+  ],
+  "app_descript": "<h1>Tasty: Your Ultimate Cooking Companion</h1>\n<p>Meet your new cooking coach! Tasty is an innovative cooking app designed to help you whip up delicious meals with ease. With over 3000 Tasty recipes at your fingertips, you’ll find everything you need to satisfy your culinary cravings. Whether you're a seasoned chef or a beginner, Tasty makes cooking enjoyable with its step-by-step instructions, personalized recipe recommendations, and an innovative search tool.</p>\n<h2>📌 Core Features</h2>\n<ul>\n<li><strong>Step-by-Step Instruction Mode</strong>: Follow easy-to-understand instructions as you cook, with your phone keeping the screen awake for uninterrupted cooking. 🍳</li>\n<li><strong>Latest Recipe Videos</strong>: Access the newest Tasty videos and get inspired by culinary creations before they're shared with friends. 🎥</li>\n<li><strong>Personalized Recommendations</strong>: Receive meal suggestions based on the time of day, day of the week, and major holidays to simplify your planning. 🗓️</li>\n<li><strong>Ingredient and Dietary Filters</strong>: Easily search for recipes by ingredients, dietary restrictions (like vegan or gluten-free), and difficulty level to suit your needs. 🥗</li>\n<li><strong>My Recipes Page</strong>: Create your personal mobile cookbook by saving your favorite recipes in one convenient location. 📚</li>\n</ul>\n<h2>👍 Pros</h2>\n<ul>\n<li>Impressive library of over 3000 recipes provides endless cooking inspiration. 👍</li>\n<li>User-friendly interface suitable for cooks of all skill levels. 👩‍🍳</li>\n<li>Customizable filters allow for an tailored cooking experience that caters to dietary preferences. 🌿</li>\n<li>Regular updates featuring new recipes and video content keep the app fresh and engaging. 📅</li>\n<li>Metric conversions are available, ensuring usability for international users. 🌍</li>\n</ul>\n<h2>👎 Cons</h2>\n<ul>\n<li>Occasional app bugs may disrupt the user experience. ⚠️</li>\n<li>Some users may find the sheer volume of recipes overwhelming. 📊</li>\n<li>The app's emphasis on video content may not appeal to those who prefer written recipes. 🎬</li>\n<li>Limited offline functionality; internet connection is required for access to most features. 🌐</li>\n<li>Certain features, like personalized recommendations, may not work effectively for all users. 🔍</li>\n</ul>\n<h2>💵 Price</h2>\n<p>The Tasty app is free to download, with optional in-app purchases available for premium content and features. </p>\n<p>This comprehensive overview of Tasty presents its key offerings, benefits, potential drawbacks, and pricing structure.</p>",
+  "related_apps": [
+    {
+      "link": "/details/com-buzzfeed-tasty/16927.html",
+      "icon": "assets/img/apk/icon/com.buzzfeed.tasty.png",
+      "name": "Tasty",
+      "categoryLink": "/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/com-hacklatino-chingon-android/15837.html",
+      "icon": "assets/img/apk/icon/com.hacklatino.chingon.android.png",
+      "name": "Hack Latino",
+      "categoryLink": "/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-postmates-android/4464.html",
+      "icon": "assets/img/apk/icon/com.postmates.android.png",
+      "name": "Postmates - Food Delivery",
+      "categoryLink": "/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.3"
+    },
+    {
+      "link": "/details/com-seamlessweb-android-view/4463.html",
+      "icon": "assets/img/apk/icon/com.seamlessweb.android.view.png",
+      "name": "Seamless: Local Food Delivery",
+      "categoryLink": "/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-trycaviar-customer/4462.html",
+      "icon": "assets/img/apk/icon/com.trycaviar.customer.png",
+      "name": "Caviar - Order Food Delivery",
+      "categoryLink": "/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-chownow-discover/4461.html",
+      "icon": "assets/img/apk/icon/com.chownow.discover.png",
+      "name": "ChowNow: Local Food Ordering",
+      "categoryLink": "/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-toasttab-consumer/4460.html",
+      "icon": "assets/img/apk/icon/com.toasttab.consumer.png",
+      "name": "Toast Takeout & Delivery",
+      "categoryLink": "/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.7"
+    },
+    {
+      "link": "/details/menulog-au/3667.html",
+      "icon": "assets/img/apk/icon/com.menulog.m.png",
+      "name": "Menulog AU",
+      "categoryLink": "/categories/food.drink/29",
+      "category": "Food & Drink",
+      "rating": "4.2"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "current_info": {
+    "icon": "assets/img/apk/icon/nl.onesixty.owise.png",
+    "title": "OWise Breast Cancer Support",
+    "ratings": "4.5",
+    "downloads": "1M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "OWise Breast Cancer Support"
+    },
+    {
+      "name": "category",
+      "value": "Medical"
+    },
+    {
+      "name": "Price",
+      "value": "0"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Px HealthCare Group Ltd."
+    },
+    {
+      "name": "Version",
+      "value": "6.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/J15Ivvl2Noaw8w4VktJs-_wzNiKl0wPSgCccMq3BpI1nHZ14jW0LeUKlqC2y63pbFw",
+    "https://play-lh.googleusercontent.com/kghFYXcRkSrcdxChgi8zNyCPEsYV50x3GBbAHko_6IgmKRZDL4hoLcuvKvuLeU2RuhY",
+    "https://play-lh.googleusercontent.com/wvXjZFHDPgmnlYnyVOHEjabcObBOVpRdyySWNytFimGVjJMAY4yX2FwfkQwvZzHGr6A",
+    "https://play-lh.googleusercontent.com/imyuhACbei33nR49KU7tDUoLYGrkprvyQE28A0pXlaSii6X9cfusNLMI_Ue3SdmvLVs",
+    "https://play-lh.googleusercontent.com/3vLSA0hspnDrQ8AzeN9wbwlnflF3nrK1qEn3XRZLKODcT3le6n-Zz3dptj6bU49WmQ",
+    "https://play-lh.googleusercontent.com/6HOLzaA8aurF5gY1FtIv9pdVvexyqjJx5MsW0vC9aCkn7VfnkEhU-bHE9cyas0FZK_A"
+  ],
+  "app_descript": "<h2>OWise Breast Cancer Support: Regain Control of Your Health Journey</h2>\n<p>OWise is a multi-award-winning health app designed to empower individuals facing a breast cancer diagnosis. From the very first day, OWise provides personalized, safe, and credible information, along with practical support and guidance, all easily accessible in one convenient location.</p>\n<h3>📌 Core Features:</h3>\n<ul>\n<li><strong>Personalized Insights</strong>: Access tailored reports and track over 30 different side effects related to treatments like chemotherapy and hormone therapy. 📊</li>\n<li><strong>Comprehensive Overview</strong>: Keep track of your treatment plan, upcoming appointments, and store important notes and conversations securely. 📅</li>\n<li><strong>Enhanced Communication</strong>: Share your tracked symptoms with healthcare professionals or loved ones to foster better understanding. 💬</li>\n<li><strong>Credible Resources</strong>: Understand your diagnosis with credible, evidence-based content to engage in informed discussions with your doctor. 📚</li>\n<li><strong>Privacy and Safety</strong>: Your user data is safeguarded and anonymized, adhering to GDPR regulations. 🔒</li>\n</ul>\n<h3>👍 Pros:</h3>\n<ul>\n<li>Award-winning app designed by medical professionals ensures high-quality information. 🏆</li>\n<li>Helps improve communication with healthcare providers, enhancing treatment outcomes. 🤝</li>\n<li>Offers user-friendly tracking of symptoms and therapies, replacing cumbersome paper diaries. 📖</li>\n<li>CE-marked and NHS Digital accredited, instilling long-term trust and reliability. ✔️</li>\n<li>A portion of the app's use contributes to medical research for future breast cancer patients. 🔍</li>\n</ul>\n<h3>👎 Cons:</h3>\n<ul>\n<li>Limited to breast cancer patients, which may not cater to others. ❌</li>\n<li>Requires a smartphone or tablet for maximum functionality, which may exclude some users. 📱</li>\n<li>The personalized insights may rely heavily on active user engagement to be effective. ⏳</li>\n<li>Some users may find the range of features overwhelming at first. ⚠️</li>\n<li>Potential concerns about data privacy, despite adherence to regulations. 🔐</li>\n</ul>\n<h3>💵 Price:</h3>\n<p>This app is available for free, but you may encounter in-app purchases to unlock advanced features or content. 🆓</p>\n<h3>🕸️ Community:</h3>\n<ul>\n<li><a href=\"https://www.owise.uk\" rel=\"noopener noreferrer\" target=\"_blank\">OWise Official Site</a></li>\n<li><a href=\"https://www.instagram.com/owisebreast\" rel=\"noopener noreferrer\" target=\"_blank\">Instagram @owisebreast</a></li>\n<li><a href=\"https://www.facebook.com/OWiseBreastCancer\" rel=\"noopener noreferrer\" target=\"_blank\">Facebook OWise Breast Cancer</a></li>\n<li><a href=\"https://twitter.com/owisebreast\" rel=\"noopener noreferrer\" target=\"_blank\">Twitter @owisebreast</a></li>\n<li><a href=\"https://www.pinterest.com/owisebreastcancer\" rel=\"noopener noreferrer\" target=\"_blank\">Pinterest @owisebreastcancer</a></li>\n</ul>",
+  "related_apps": [
+    {
+      "link": "/details/com-stress-test/48991.html",
+      "icon": "assets/img/apk/icon/com.stress.test.png",
+      "name": "Stress Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.1"
+    },
+    {
+      "link": "/details/com-procrastination-test/39516.html",
+      "icon": "assets/img/apk/icon/com.procrastination.test.png",
+      "name": "Procrastination Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.4"
+    },
+    {
+      "link": "/details/com-bingeeating-test/39303.html",
+      "icon": "assets/img/apk/icon/com.bingeeating.test.png",
+      "name": "Binge Eating Disorder Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4"
+    },
+    {
+      "link": "/details/com-ocd-test/34780.html",
+      "icon": "assets/img/apk/icon/com.ocd.test.png",
+      "name": "OCD Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.2"
+    },
+    {
+      "link": "/details/com-healthians-main-healthians/34760.html",
+      "icon": "assets/img/apk/icon/com.healthians.main.healthians.png",
+      "name": "Healthians -Full Body Checkup",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.6"
+    },
+    {
+      "link": "/details/com-lbrc-PeriodCalendar/34759.html",
+      "icon": "assets/img/apk/icon/com.lbrc.PeriodCalendar.png",
+      "name": "Period Tracker and Calendar",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.9"
+    },
+    {
+      "link": "/details/es-jshcd-edadosea/34693.html",
+      "icon": "assets/img/apk/icon/es.jshcd.edadosea.png",
+      "name": "Bone age",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.5"
+    },
+    {
+      "link": "/details/com-devdis/16977.html",
+      "icon": "assets/img/apk/icon/com.devdis.png",
+      "name": "Developmental Disabilities",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.5"
+    }
+  ]
+}

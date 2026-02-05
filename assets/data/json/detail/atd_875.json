@@ -1,0 +1,105 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/au.gov.homeaffairs.atd.png",
+    "title": "ATD",
+    "ratings": "4.6",
+    "downloads": "670M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "ATD"
+    },
+    {
+      "name": "category",
+      "value": "Travel & Local"
+    },
+    {
+      "name": "Price",
+      "value": "Free"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Department of Home Affairs"
+    },
+    {
+      "name": "Version",
+      "value": "1.3.1"
+    }
+  ],
+  "app_screen": [
+    "/static/apkzonic/img/not_found_img.png"
+  ],
+  "app_descript": "<h3>Brief</h3>\n<p>\"ATD\" is a mobile application developed for Australian government use, likely linked to the Department of Home Affairs. While no specific descriptions are provided, this app possibly plays a role in facilitating some process or providing information related to the department's services. Due to the lack of detailed data, we can only conjecture about its features and uses based on its associated government body.</p>\n<h3>Core Features</h3>\n<ul>\n<li><strong>Secure Login</strong>: Ensuring that users can access their accounts and information securely 🛡️.</li>\n<li><strong>Information Access</strong>: Providing up-to-date information related to the Department of Home Affairs 🗂️.</li>\n<li><strong>Notifications &amp; Alerts</strong>: Real-time notifications about important updates and alerts from the department 📣.</li>\n<li><strong>User-Friendly Interface</strong>: Designed for easy navigation and accessibility for all users 📱.</li>\n<li><strong>Support &amp; FAQs</strong>: Integrated support system to help users navigate through the app and its services ❓.</li>\n</ul>\n<h3>Pros</h3>\n<ul>\n<li><strong>Government-Sanctioned</strong>: The security and reliability of a government-issued app 👮‍♂️.</li>\n<li><strong>Real-Time Information</strong>: Stay updated with the latest news and alerts 🔔.</li>\n<li><strong>User Security</strong>: High levels of privacy and security protocols 🛡️.</li>\n<li><strong>Convenience</strong>: All related services accessible through one platform 🌐.</li>\n<li><strong>Supportive</strong>: Potential direct support for issues related to the Department of Home Affairs 👥.</li>\n</ul>\n<h3>Cons</h3>\n<ul>\n<li><strong>Limited Audience</strong>: Primarily designed for those needing to interact with the Australian Department of Home Affairs 🇦🇺.</li>\n<li><strong>Navigation Complexity</strong>: Possible complexity in navigation due to the breadth of information and services offered 🧭.</li>\n<li><strong>Update Frequency</strong>: May require frequent updates to ensure accuracy and security of data and features 🔄.</li>\n<li><strong>Technical Issues</strong>: Potential for bugs or technical issues as with any application 🐛.</li>\n<li><strong>Connectivity Dependency</strong>: Likely requires a consistent internet connection to access full features 🔌.</li>\n</ul>\n<h3>Price</h3>\n<p>💵 Since this app appears to be linked with a government body, it is likely to be free of charge for its basic functions. However, specific services within the app may carry fees, as is often the case with government services.</p>\n<p>Unfortunately, without additional details on the app \"ATD,\" it isn't possible to provide any specific social media platforms or community links related to the application.</p>\n<hr/>\n<p>Since there's limited info on the app \"ATD,\" this description is built around typical government apps and their functionality. Users seeking detailed information should consult the respective department or their official website.</p>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-bp-app-bpme-global-ros/16042.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.bp.app.bpme.global.ros.png",
+      "name": "earnify",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.6"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/kulana-tools-vacationcountdown/10380.html",
+      "icon": "https://img.buzzsight.co/apk/icon/kulana.tools.vacationcountdown.png",
+      "name": "Vacation Countdown App",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.7"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-disney-playdisneyparks-goo/4681.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.disney.playdisneyparks.goo.png",
+      "name": "Play Disney Parks",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-hornblower-statuecruises/4679.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.hornblower.statuecruises.png",
+      "name": "Statue Cruises",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-usnpw-grca/4678.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.usnpw.grca.png",
+      "name": "Grand Canyon National Park",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/MakeMyTrip-Hotels-Flight-Bus/4591.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.makemytrip.png",
+      "name": "MakeMyTrip Hotels, Flight, Bus",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.6"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/ConfirmTkt/4570.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.confirmtkt.lite.png",
+      "name": "ConfirmTkt",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.9"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/Bus-Train-Ticket-Booking-App/4503.html",
+      "icon": "https://img.buzzsight.co/apk/icon/in.redbus.android.png",
+      "name": "Bus, Train Ticket Booking App",
+      "categoryLink": "/en/categories/travel.local/24",
+      "category": "Travel & Local",
+      "rating": "4.9"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "current_info": {
+    "icon": "https://img.buzzsight.co/apk/icon/com.ada.app.png",
+    "title": "Ada – check your health",
+    "ratings": "4.6",
+    "downloads": "1068M",
+    "age": "4+"
+  },
+  "appinfo_list": [
+    {
+      "name": "Name",
+      "value": "Ada – check your health"
+    },
+    {
+      "name": "category",
+      "value": "Medical"
+    },
+    {
+      "name": "Price",
+      "value": "0"
+    },
+    {
+      "name": "Safety",
+      "value": "100% Safe"
+    },
+    {
+      "name": "Developer",
+      "value": "Ada Health"
+    },
+    {
+      "name": "Version",
+      "value": "8.0"
+    }
+  ],
+  "app_screen": [
+    "https://play-lh.googleusercontent.com/s7uqmWYnJ9Kf7bWjZ3QfNITs-eQj7iQpG5F_EUXUTl-f_a-wboxps8kAQPoHhnKy4Ds",
+    "https://play-lh.googleusercontent.com/j1CLvSqe4OGozugvp4ObdcdZ1D4wGMkr_acVpUVnqcYm4pKmi6_tjMv9TsE-nyBJiTTC",
+    "https://play-lh.googleusercontent.com/GMJDwHCTV5RL0U2UTOOpcwIwsz5vp74MtDa3Wuu46f21uJXCN3bIBJNxtgoy0GZx5O_n",
+    "https://play-lh.googleusercontent.com/sI-iftLDeuHza2-KuVN-LYHLK70hkYbDL3R6FgBmWr40G8WtYsWXk2llLBHZuaLOlbY",
+    "https://play-lh.googleusercontent.com/WGnwN3LCg2h8w_MflhFxN-aDAPPrzsVrLt-K35bUXo8J25zi6UH8V4E0PCXNIP3CXlo",
+    "https://play-lh.googleusercontent.com/jP9hORDs3ngV4cB7lfRsFrd3q0tgaQ-NKdSFkLoBpjxAqE7py2fDjsCqThusxQF7fg",
+    "https://play-lh.googleusercontent.com/92I06OD8oP2zthJwjYoR45jQBwZzPOy_67lPG6uEEAgT-_ewaqchGkvofx14saBJVQ",
+    "https://play-lh.googleusercontent.com/6Y5TRJjfNRW7ncQsHjr8TQqw6AC4lKiDsRo-dgpbwayHznoTkzur1gmncGW552LgQQRG"
+  ],
+  "app_descript": "<h1>Ada – Check Your Health</h1>\n<p><strong>Brief</strong><br/>\nAda is an innovative health app designed to help you assess your health symptoms 24/7. By answering a series of simple questions, you’ll receive personalized insights into what may be bothering you, whether it's pain, anxiety, allergies, or food intolerance. Developed with input from medical professionals, Ada provides a comprehensive assessment quickly and confidentially.</p>\n<p>📌 <strong>Core Features:</strong> </p>\n<ul>\n<li><strong>Symptom Checker</strong>: Answer questions about your symptoms to receive a tailored health assessment. 🩺  </li>\n<li><strong>Health Tracking</strong>: Track your symptoms and their severity over time within the app. 📊  </li>\n<li><strong>Personalized Reports</strong>: Export your assessment as a PDF to share with your healthcare provider. 📄  </li>\n<li><strong>24/7 Access</strong>: Use the free symptom checker anytime and anywhere for immediate assistance. 🌍  </li>\n<li><strong>Multilingual Support</strong>: Assessments available in seven languages including English, Spanish, and German. 🌐  </li>\n</ul>\n<p>👍 <strong>Pros:</strong> </p>\n<ul>\n<li>Quick assessments provide timely health insights. ⏱️  </li>\n<li>Built with strict data privacy regulations to keep your information safe. 🔒  </li>\n<li>Access to health articles written by experienced physicians. 📚  </li>\n<li>User-friendly interface and easy symptom tracking. 🌟  </li>\n<li>Works as a supplementary tool to enhance communication with healthcare professionals. 🤝  </li>\n</ul>\n<p>👎 <strong>Cons:</strong> </p>\n<ul>\n<li>Cannot provide a definitive medical diagnosis. ⚠️  </li>\n<li>Users may experience limitations when interpreting results without professional guidance. ❗  </li>\n<li>May require internet access for full functionality. 🌐  </li>\n<li>Some users may find the app's suggestions require further validation in a clinical setting. 🏥  </li>\n<li>Functionality may vary based on the user’s health literacy. 🩺  </li>\n</ul>\n<p>💵 <strong>Price:</strong><br/>\nThe Ada app is free to download and use, with no hidden fees or subscription costs. In-app purchases may exist for additional services or features.  </p>",
+  "related_apps": [
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-stress-test/48991.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.stress.test.png",
+      "name": "Stress Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.1"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-procrastination-test/39516.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.procrastination.test.png",
+      "name": "Procrastination Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-bingeeating-test/39303.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.bingeeating.test.png",
+      "name": "Binge Eating Disorder Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-ocd-test/34780.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.ocd.test.png",
+      "name": "OCD Test",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.2"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-healthians-main-healthians/34760.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.healthians.main.healthians.png",
+      "name": "Healthians -Full Body Checkup",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.6"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-lbrc-PeriodCalendar/34759.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.lbrc.PeriodCalendar.png",
+      "name": "Period Tracker and Calendar",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.9"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/es-jshcd-edadosea/34693.html",
+      "icon": "https://img.buzzsight.co/apk/icon/es.jshcd.edadosea.png",
+      "name": "Bone age",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.5"
+    },
+    {
+      "link": "https://hot.apkzonic.com/en/details/com-devdis/16977.html",
+      "icon": "https://img.buzzsight.co/apk/icon/com.devdis.png",
+      "name": "Developmental Disabilities",
+      "categoryLink": "/en/categories/medical/16",
+      "category": "Medical",
+      "rating": "4.5"
+    }
+  ]
+}
